@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-06 19:15:30 UTC`
+📆 Last Updated: `2023-02-06 20:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 2 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 3 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 4 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 1 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
+| 2 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 3 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
+| 4 | [Correios](http://twitter.com/search?q=Correios) | N/A |
 | 5 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 6 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 6 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
 | 7 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 8 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
-| 9 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
-| 10 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 11 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 12 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 13 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 14 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 15 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 16 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 17 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
-| 18 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 20 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 21 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
-| 22 | [#ForaCezar](http://twitter.com/search?q=%23ForaCezar) | N/A |
-| 23 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 24 | [Terremoto](http://twitter.com/search?q=Terremoto) | N/A |
-| 25 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 26 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 27 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
+| 8 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 9 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 10 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 11 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 12 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 13 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 14 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 15 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 16 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 17 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 18 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 19 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
+| 20 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 21 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 22 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 23 | [#MUGBLIZZARD](http://twitter.com/search?q=%23MUGBLIZZARD) | N/A |
+| 24 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [#MUGPDROP](http://twitter.com/search?q=%23MUGPDROP) | N/A |
+| 27 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
 | 28 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 29 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
-| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 31 | [James Wan](http://twitter.com/search?q=James+Wan) | N/A |
-| 32 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 33 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 34 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 35 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 36 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
-| 37 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
-| 38 | [Matthaus](http://twitter.com/search?q=Matthaus) | N/A |
-| 39 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 40 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 41 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
-| 42 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
-| 43 | [FORA CAMPOS NETO](http://twitter.com/search?q=FORA+CAMPOS+NETO) | N/A |
-| 44 | [Renova](http://twitter.com/search?q=Renova) | N/A |
-| 45 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 46 | [Policial](http://twitter.com/search?q=Policial) | N/A |
-| 47 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 48 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
-| 49 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
-| 50 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 29 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
+| 30 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 31 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
+| 32 | [Samba Gold](http://twitter.com/search?q=Samba+Gold) | N/A |
+| 33 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
+| 34 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
+| 35 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 36 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 37 | [Terremoto](http://twitter.com/search?q=Terremoto) | N/A |
+| 38 | [James Wan](http://twitter.com/search?q=James+Wan) | N/A |
+| 39 | [Hanzo](http://twitter.com/search?q=Hanzo) | N/A |
+| 40 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 41 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 42 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 43 | [Cria da Ivete](http://twitter.com/search?q=Cria+da+Ivete) | N/A |
+| 44 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
+| 45 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
+| 46 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [Policial](http://twitter.com/search?q=Policial) | N/A |
+| 49 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 50 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
 
 
 

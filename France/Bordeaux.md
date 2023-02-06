@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-06 19:15:34 UTC`
+📆 Last Updated: `2023-02-06 20:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 3 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 4 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 1 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 2 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 3 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 4 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
 | 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 6 | [La NUPES](http://twitter.com/search?q=La+NUPES) | N/A |
+| 6 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
 | 7 | [Maes](http://twitter.com/search?q=Maes) | N/A |
 | 8 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 11 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 12 | [Gabriel Attal](http://twitter.com/search?q=Gabriel+Attal) | N/A |
-| 13 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 14 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 15 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [SAUR](http://twitter.com/search?q=SAUR) | N/A |
-| 20 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 21 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 22 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 23 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 24 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 25 | [Turc](http://twitter.com/search?q=Turc) | N/A |
-| 26 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 28 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 29 | [Turques](http://twitter.com/search?q=Turques) | N/A |
-| 30 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 31 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 32 | [Le 6](http://twitter.com/search?q=Le+6) | N/A |
-| 33 | [League of Legends](http://twitter.com/search?q=League+of+Legends) | N/A |
-| 34 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 35 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 36 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
-| 37 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 38 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 39 | [#VITWIN](http://twitter.com/search?q=%23VITWIN) | N/A |
-| 40 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 41 | [#tremblementdeterre](http://twitter.com/search?q=%23tremblementdeterre) | N/A |
-| 42 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 43 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 44 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 9 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 10 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 11 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 12 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
+| 13 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 14 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
+| 15 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 16 | [Motion](http://twitter.com/search?q=Motion) | N/A |
+| 17 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
+| 18 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 20 | [Gabriel Attal](http://twitter.com/search?q=Gabriel+Attal) | N/A |
+| 21 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 22 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 23 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 25 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 26 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 27 | [SAUR](http://twitter.com/search?q=SAUR) | N/A |
+| 28 | [Takeoff](http://twitter.com/search?q=Takeoff) | Takeoff is the action of an aircraft or other vehicle leaving the ground and beginning to fly. It is also used as a metaphor for the beginning of a new project or venture. |
+| 29 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 30 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 31 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 32 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 33 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 34 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 35 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 36 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 37 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 38 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 39 | [Stardew Valley](http://twitter.com/search?q=Stardew+Valley) | N/A |
+| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 41 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 42 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 43 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 44 | [The Witcher 3](http://twitter.com/search?q=The+Witcher+3) | N/A |
+| 45 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 46 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 47 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 48 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 49 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
 
 
 

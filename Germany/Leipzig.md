@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-06 19:15:37 UTC`
+📆 Last Updated: `2023-02-06 20:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 2 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
 | 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 4 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 4 | [Anja](http://twitter.com/search?q=Anja) | N/A |
 | 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 8 | [Amani](http://twitter.com/search?q=Amani) | N/A |
+| 8 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
 | 9 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
 | 10 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 11 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 13 | [Koks](http://twitter.com/search?q=Koks) | N/A |
-| 14 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [Genitalverstümmelung](http://twitter.com/search?q=Genitalverst%c3%bcmmelung) | N/A |
-| 18 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 19 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 20 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 11 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 13 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 14 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 15 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
+| 16 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 17 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 20 | [Genitalverstümmelung](http://twitter.com/search?q=Genitalverst%c3%bcmmelung) | N/A |
 | 21 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
-| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 23 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 24 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 25 | [Karat](http://twitter.com/search?q=Karat) | N/A |
-| 26 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 22 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 23 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 24 | [Koks](http://twitter.com/search?q=Koks) | N/A |
+| 25 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 26 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
 | 27 | [Möge Allah](http://twitter.com/search?q=M%c3%b6ge+Allah) | N/A |
-| 28 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
-| 29 | [Tafeln](http://twitter.com/search?q=Tafeln) | N/A |
-| 30 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 31 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 32 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 33 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 34 | [Schönen Montag](http://twitter.com/search?q=Sch%c3%b6nen+Montag) | N/A |
-| 35 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
-| 36 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 37 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
-| 38 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 39 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
-| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 41 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
-| 42 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 43 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 28 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 29 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 31 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 32 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 33 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 34 | [Montagabend](http://twitter.com/search?q=Montagabend) | N/A |
+| 35 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 36 | [Tafeln](http://twitter.com/search?q=Tafeln) | N/A |
+| 37 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 38 | ["Karat"](http://twitter.com/search?q=%22Karat%22) | N/A |
+| 39 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 40 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
+| 41 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 42 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 43 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
 | 44 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 45 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
-| 46 | [Kokain](http://twitter.com/search?q=Kokain) | N/A |
-| 47 | [Tragödie](http://twitter.com/search?q=Trag%c3%b6die) | N/A |
-| 48 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 49 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 45 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 46 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 47 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
+| 48 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 49 | [Tragödie](http://twitter.com/search?q=Trag%c3%b6die) | N/A |
 
 
 

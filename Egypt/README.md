@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-02-06 19:16:19 UTC`
+📆 Last Updated: `2023-02-06 20:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,45 +18,47 @@ This is top 50 for Egypt
 | 1 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 | 2 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 3 | [#رحيل_مرتضي_منصور](http://twitter.com/search?q=%23%d8%b1%d8%ad%d9%8a%d9%84_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 4 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 4 | [#HelpSyria](http://twitter.com/search?q=%23HelpSyria) | N/A |
 | 5 | [#نسور_الاهلي_تساند_الكيان](http://twitter.com/search?q=%23%d9%86%d8%b3%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%aa%d8%b3%d8%a7%d9%86%d8%af_%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86) | N/A |
-| 6 | [سيف تيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%aa%d9%8a%d8%b1%d9%8a) | N/A |
-| 7 | [اسامه](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a7%d9%85%d9%87) | N/A |
-| 8 | [طارق العشري](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a) | N/A |
-| 9 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
-| 10 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 11 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 12 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 13 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
-| 14 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 15 | [مدير فني](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%81%d9%86%d9%8a) | N/A |
-| 16 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 17 | [عمرو جمال](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%ac%d9%85%d8%a7%d9%84) | N/A |
-| 18 | [#الزلزال](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | N/A |
-| 19 | [طارق يحيي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%8a%d8%ad%d9%8a%d9%8a) | N/A |
-| 20 | [علي فيريرا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | N/A |
-| 21 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
-| 22 | [عمل المفسدين](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%81%d8%b3%d8%af%d9%8a%d9%86) | N/A |
-| 23 | [بلال علام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 24 | [سيف جعفر](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 25 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 26 | [الدوري المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 6 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 7 | [#مرتضي_وعياله_حراميه](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d9%88%d8%b9%d9%8a%d8%a7%d9%84%d9%87_%d8%ad%d8%b1%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 8 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 9 | [سيف تيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%aa%d9%8a%d8%b1%d9%8a) | N/A |
+| 10 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
+| 11 | [طارق العشري](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a) | N/A |
+| 12 | [اسامه](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a7%d9%85%d9%87) | N/A |
+| 13 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 14 | [اسماعيل يوسف](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 15 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 16 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
+| 17 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 18 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
+| 19 | [علي فيريرا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | N/A |
+| 20 | [طارق يحيي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%8a%d8%ad%d9%8a%d9%8a) | N/A |
+| 21 | [الجول التالت](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d8%aa) | N/A |
+| 22 | [عمرو جمال](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%ac%d9%85%d8%a7%d9%84) | N/A |
+| 23 | [عمل المفسدين](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%81%d8%b3%d8%af%d9%8a%d9%86) | N/A |
+| 24 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 25 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
+| 26 | [مدير فني](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%81%d9%86%d9%8a) | N/A |
 | 27 | [برج العرب](http://twitter.com/search?q=%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 28 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 29 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 30 | [الاعلام الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 31 | [سيد عبد الحفيظ](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 32 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 33 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 34 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 35 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 36 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 37 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 38 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 39 | [مصنع الكراسي](http://twitter.com/search?q=%d9%85%d8%b5%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 40 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 28 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 29 | [الدوري المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 30 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 31 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 32 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 33 | [الاعلام الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 34 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 35 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 36 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 37 | [سيد عبد الحفيظ](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 38 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 39 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 40 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
 | 41 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 42 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 42 | [#الزلزال](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | N/A |
+| 43 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 44 | [#جزيره_الوراق_ضد_الاخوان](http://twitter.com/search?q=%23%d8%ac%d8%b2%d9%8a%d8%b1%d9%87_%d8%a7%d9%84%d9%88%d8%b1%d8%a7%d9%82_%d8%b6%d8%af_%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d8%a7%d9%86) | N/A |
 
 
 

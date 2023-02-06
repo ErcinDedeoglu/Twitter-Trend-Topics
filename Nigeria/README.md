@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-06 19:16:22 UTC`
+📆 Last Updated: `2023-02-06 20:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,52 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 4 | [#BibleStudywithKumuyi](http://twitter.com/search?q=%23BibleStudywithKumuyi) | N/A |
-| 5 | [#TinubuInKatsina](http://twitter.com/search?q=%23TinubuInKatsina) | N/A |
-| 6 | [#ObiDattiInKwara](http://twitter.com/search?q=%23ObiDattiInKwara) | N/A |
-| 7 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 8 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
-| 9 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
-| 10 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 2 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 5 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 6 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 7 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 8 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 9 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 10 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 11 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 12 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 13 | [Machina](http://twitter.com/search?q=Machina) | N/A |
-| 14 | [Soso](http://twitter.com/search?q=Soso) | N/A |
-| 15 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 16 | [#ZenithBank](http://twitter.com/search?q=%23ZenithBank) | N/A |
-| 17 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 18 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 19 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 20 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 21 | [Yobe North](http://twitter.com/search?q=Yobe+North) | N/A |
-| 22 | [Pep to Chelsea](http://twitter.com/search?q=Pep+to+Chelsea) | N/A |
-| 23 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 24 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 25 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 27 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 30 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 31 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
-| 32 | [Seun Kuti](http://twitter.com/search?q=Seun+Kuti) | N/A |
-| 33 | [#BTen](http://twitter.com/search?q=%23BTen) | N/A |
-| 34 | [#AdekunleOlopade](http://twitter.com/search?q=%23AdekunleOlopade) | N/A |
-| 35 | [#NairaScarcity](http://twitter.com/search?q=%23NairaScarcity) | N/A |
-| 36 | [#Grammys2023](http://twitter.com/search?q=%23Grammys2023) | N/A |
-| 37 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
-| 38 | [#MatrixAINetwork](http://twitter.com/search?q=%23MatrixAINetwork) | N/A |
-| 39 | [#Yvonne](http://twitter.com/search?q=%23Yvonne) | N/A |
+| 12 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
+| 13 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 14 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 15 | [#BibleStudywithKumuyi](http://twitter.com/search?q=%23BibleStudywithKumuyi) | N/A |
+| 16 | [#TinubuInKatsina](http://twitter.com/search?q=%23TinubuInKatsina) | N/A |
+| 17 | [Blackleng](http://twitter.com/search?q=Blackleng) | N/A |
+| 18 | [#ObiDattiInKwara](http://twitter.com/search?q=%23ObiDattiInKwara) | N/A |
+| 19 | [Fashola](http://twitter.com/search?q=Fashola) | N/A |
+| 20 | [Soso](http://twitter.com/search?q=Soso) | N/A |
+| 21 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 22 | [Jennili](http://twitter.com/search?q=Jennili) | N/A |
+| 23 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
+| 24 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
+| 25 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 27 | [Machina](http://twitter.com/search?q=Machina) | N/A |
+| 28 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 29 | [EFCC](http://twitter.com/search?q=EFCC) | N/A |
+| 30 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 31 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
+| 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 33 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 35 | [Diddy](http://twitter.com/search?q=Diddy) | N/A |
+| 36 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 37 | [Yobe North](http://twitter.com/search?q=Yobe+North) | N/A |
+| 38 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 39 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
+| 40 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 41 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 43 | [#ZenithBank](http://twitter.com/search?q=%23ZenithBank) | N/A |
+| 44 | [#BTen](http://twitter.com/search?q=%23BTen) | N/A |
+| 45 | [#MatrixAINetwork](http://twitter.com/search?q=%23MatrixAINetwork) | N/A |
+| 46 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
+| 47 | [#spirituaLMovement](http://twitter.com/search?q=%23spirituaLMovement) | N/A |
 
 
 

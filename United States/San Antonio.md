@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-06 19:16:14 UTC`
+📆 Last Updated: `2023-02-06 20:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 4 | [Spencer Cronk](http://twitter.com/search?q=Spencer+Cronk) | N/A |
 | 5 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
-| 6 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 7 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 8 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 9 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 10 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 11 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
-| 12 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
-| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 14 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 15 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 17 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 18 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
-| 19 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 20 | [#YIAYlove](http://twitter.com/search?q=%23YIAYlove) | N/A |
-| 21 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
-| 22 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 23 | [J Prince](http://twitter.com/search?q=J+Prince) | N/A |
-| 24 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 6 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 7 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 8 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
+| 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 10 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 11 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
+| 12 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 13 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
+| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 15 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 16 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
+| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 18 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 19 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 20 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 21 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
+| 24 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
+| 25 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
+| 26 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 27 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 29 | [A-List](http://twitter.com/search?q=A-List) | N/A |
-| 30 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
-| 31 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
-| 32 | [Justin Rose](http://twitter.com/search?q=Justin+Rose) | N/A |
-| 33 | [Steve Albini](http://twitter.com/search?q=Steve+Albini) | N/A |
-| 34 | [USMNT](http://twitter.com/search?q=USMNT) | USMNT stands for United States Men's National Team. It is the official name of the men's national soccer team of the United States. |
-| 35 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
-| 36 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 37 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 38 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 39 | [DATING SIM](http://twitter.com/search?q=DATING+SIM) | N/A |
-| 40 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 41 | [Cinemark](http://twitter.com/search?q=Cinemark) | N/A |
-| 42 | [Gillie](http://twitter.com/search?q=Gillie) | Gillie is a Scottish term for a guide or an attendant, usually employed to accompany someone on a hunting or fishing trip. It can also refer to someone who helps with the maintenance of a golf course. |
-| 43 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 44 | [James Wan](http://twitter.com/search?q=James+Wan) | N/A |
-| 45 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
-| 46 | [Doomfist](http://twitter.com/search?q=Doomfist) | N/A |
-| 47 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 48 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
-| 49 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 50 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 28 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 29 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
+| 30 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 31 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
+| 32 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
+| 33 | [J Prince](http://twitter.com/search?q=J+Prince) | N/A |
+| 34 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 35 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 36 | [Steve Albini](http://twitter.com/search?q=Steve+Albini) | N/A |
+| 37 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 38 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 39 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
+| 40 | [A-List](http://twitter.com/search?q=A-List) | N/A |
+| 41 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 42 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 43 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
+| 44 | [Hanzo](http://twitter.com/search?q=Hanzo) | N/A |
+| 45 | [Justin Rose](http://twitter.com/search?q=Justin+Rose) | N/A |
+| 46 | [One Punch Man](http://twitter.com/search?q=One+Punch+Man) | N/A |
+| 47 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 48 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
+| 49 | [Get Rich or Die Tryin](http://twitter.com/search?q=Get+Rich+or+Die+Tryin) | N/A |
+| 50 | [Unleashed](http://twitter.com/search?q=Unleashed) | N/A |
 
 
 
