@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-06 03:17:08 UTC`
+📆 Last Updated: `2023-02-06 04:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
 | 4 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 5 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
+| 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 6 | [#swissclash](http://twitter.com/search?q=%23swissclash) | N/A |
 | 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
@@ -30,37 +30,37 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 15 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 16 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 17 | [rathgeb](http://twitter.com/search?q=rathgeb) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 20 | [ARMY](http://twitter.com/search?q=ARMY) | N/A |
-| 21 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 22 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
+| 16 | [rathgeb](http://twitter.com/search?q=rathgeb) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 19 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 20 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 21 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 22 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
 | 23 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 24 | [völkerrecht](http://twitter.com/search?q=v%c3%b6lkerrecht) | N/A |
-| 25 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 27 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
-| 28 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 29 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 30 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 31 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 32 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 33 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 34 | [vögel](http://twitter.com/search?q=v%c3%b6gel) | N/A |
-| 35 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 36 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 37 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 38 | [Kater](http://twitter.com/search?q=Kater) | N/A |
-| 39 | [Syria](http://twitter.com/search?q=Syria) | N/A |
-| 40 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 41 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 42 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 44 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 45 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 46 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
+| 24 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 25 | [völkerrecht](http://twitter.com/search?q=v%c3%b6lkerrecht) | N/A |
+| 26 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 27 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 28 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 31 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 32 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 33 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 34 | [Kater](http://twitter.com/search?q=Kater) | N/A |
+| 35 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
+| 36 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 37 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 38 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
+| 39 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 40 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 41 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 42 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 43 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 44 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 45 | [America](http://twitter.com/search?q=America) | N/A |
+| 46 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 | 47 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
 
 

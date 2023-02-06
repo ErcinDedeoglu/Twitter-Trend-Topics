@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-06 03:16:54 UTC`
+📆 Last Updated: `2023-02-06 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 2 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 1 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 2 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
 | 3 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 4 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 5 | [Campitos](http://twitter.com/search?q=Campitos) | N/A |
-| 6 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 7 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 8 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 9 | [#BoricNoEstaSolo](http://twitter.com/search?q=%23BoricNoEstaSolo) | N/A |
-| 10 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 13 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 14 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 15 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 16 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
-| 17 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 19 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
-| 20 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | N/A |
-| 21 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 23 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 24 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 27 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 29 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 30 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 31 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 32 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 33 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 34 | [Toselli](http://twitter.com/search?q=Toselli) | Toselli is a surname of Italian origin. It is derived from the Latin name Tullius, which means "peaceful". In English, it can be translated to mean "peaceful one". |
-| 35 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 36 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 37 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 38 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 4 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 5 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 6 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 11 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 12 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
+| 13 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 14 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | N/A |
+| 15 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 16 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 17 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 20 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 21 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 22 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 23 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 24 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 25 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 26 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 27 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 28 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 29 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 30 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 31 | [Toselli](http://twitter.com/search?q=Toselli) | Toselli is a surname of Italian origin. It is derived from the Latin name Tullius, which means "peaceful". In English, it can be translated to mean "peaceful one". |
+| 32 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 33 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 34 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 35 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 36 | [Barti](http://twitter.com/search?q=Barti) | N/A |
+| 37 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 38 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 39 | [Compañero](http://twitter.com/search?q=Compa%c3%b1ero) | N/A |
-| 40 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 41 | [Barti](http://twitter.com/search?q=Barti) | N/A |
-| 42 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 43 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 44 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 45 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 40 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 41 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 42 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
+| 43 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 44 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 45 | [Campitos](http://twitter.com/search?q=Campitos) | N/A |
 | 46 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
 | 47 | [Mamarracho](http://twitter.com/search?q=Mamarracho) | N/A |
 | 48 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
-| 49 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 49 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 | 50 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
 
 
