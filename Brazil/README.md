@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-06 17:16:02 UTC`
+📆 Last Updated: `2023-02-06 18:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Brazil
 | 1 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
 | 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
 | 3 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 4 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 5 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 4 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 5 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 6 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 7 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
-| 8 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
-| 9 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 10 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 11 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
-| 12 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 13 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 14 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
-| 15 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 16 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 7 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 8 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 9 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
+| 10 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 11 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 12 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
+| 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 14 | [#ForaCezar](http://twitter.com/search?q=%23ForaCezar) | N/A |
+| 15 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 16 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 17 | [Terremoto](http://twitter.com/search?q=Terremoto) | N/A |
-| 18 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 20 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
-| 21 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 22 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 23 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
-| 24 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 25 | [MiSaMo](http://twitter.com/search?q=MiSaMo) | N/A |
-| 26 | [Policial](http://twitter.com/search?q=Policial) | N/A |
-| 27 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
-| 28 | [#ForaCezar](http://twitter.com/search?q=%23ForaCezar) | N/A |
-| 29 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 30 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
-| 31 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 32 | [Renova](http://twitter.com/search?q=Renova) | N/A |
-| 33 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
-| 34 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
-| 35 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
-| 36 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 37 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
-| 38 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 18 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 19 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
+| 20 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 21 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 22 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
+| 23 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
+| 24 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
+| 27 | [Matthaus](http://twitter.com/search?q=Matthaus) | N/A |
+| 28 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 29 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 30 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 31 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 32 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 33 | [FORA CAMPOS NETO](http://twitter.com/search?q=FORA+CAMPOS+NETO) | N/A |
+| 34 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 35 | [Renova](http://twitter.com/search?q=Renova) | N/A |
+| 36 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 37 | [Policial](http://twitter.com/search?q=Policial) | N/A |
+| 38 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
 | 39 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
-| 40 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 42 | [Cebola](http://twitter.com/search?q=Cebola) | N/A |
-| 43 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 44 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 45 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 46 | [Paulo André](http://twitter.com/search?q=Paulo+Andr%c3%a9) | N/A |
-| 47 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 48 | [#JISOOxCartierBeautésDuMonde](http://twitter.com/search?q=%23JISOOxCartierBeaut%c3%a9sDuMonde) | #JISOOxCartierBeautésDuMonde is a hashtag used to promote the collaboration between South Korean singer Jisoo and French luxury jewelry brand Cartier. The hashtag translates to "Jisoo x Cartier Beauties of the World" in English. |
-| 49 | [Baía de Guanabara](http://twitter.com/search?q=Ba%c3%ada+de+Guanabara) | N/A |
-| 50 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 40 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 41 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
+| 42 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
+| 43 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 44 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 45 | [Cebola](http://twitter.com/search?q=Cebola) | N/A |
+| 46 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
+| 47 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 48 | [Luva](http://twitter.com/search?q=Luva) | N/A |
+| 49 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
+| 50 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 
 
 

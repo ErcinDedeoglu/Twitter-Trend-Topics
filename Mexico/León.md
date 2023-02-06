@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-06 17:15:19 UTC`
+📆 Last Updated: `2023-02-06 18:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,39 +17,39 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 2 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 4 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 7 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 8 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 9 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
+| 3 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 6 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
+| 7 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 8 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 9 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 10 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 11 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 11 | [Opening Trailer Photo Mina](http://twitter.com/search?q=Opening+Trailer+Photo+Mina) | N/A |
 | 12 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
 | 13 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 14 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
+| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 15 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
-| 16 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 17 | [Bob Marley](http://twitter.com/search?q=Bob+Marley) | N/A |
-| 18 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 19 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 20 | [Protocolo](http://twitter.com/search?q=Protocolo) | N/A |
-| 21 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
-| 22 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 23 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 24 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 25 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 16 | [Fumar](http://twitter.com/search?q=Fumar) | N/A |
+| 17 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
+| 18 | [Bob Marley](http://twitter.com/search?q=Bob+Marley) | N/A |
+| 19 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 20 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
+| 21 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
+| 22 | [Protocolo](http://twitter.com/search?q=Protocolo) | N/A |
+| 23 | [Poderes](http://twitter.com/search?q=Poderes) | N/A |
+| 24 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 25 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
 | 26 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 27 | [Poderes](http://twitter.com/search?q=Poderes) | N/A |
-| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 30 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 31 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 32 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 27 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 28 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 29 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 30 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Creel](http://twitter.com/search?q=Creel) | N/A |
 | 33 | [Queso](http://twitter.com/search?q=Queso) | N/A |
 | 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 35 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 35 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
 
 
 

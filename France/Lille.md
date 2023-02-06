@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-06 17:15:26 UTC`
+📆 Last Updated: `2023-02-06 18:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,45 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 3 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 4 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 5 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 6 | [#Top5Winamax](http://twitter.com/search?q=%23Top5Winamax) | N/A |
-| 7 | [Gabriel Attal](http://twitter.com/search?q=Gabriel+Attal) | N/A |
+| 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 3 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 4 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 6 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 7 | [Maes](http://twitter.com/search?q=Maes) | N/A |
 | 8 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 11 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 12 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 15 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 16 | [Présidente](http://twitter.com/search?q=Pr%c3%a9sidente) | N/A |
-| 17 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 18 | [Groenland](http://twitter.com/search?q=Groenland) | N/A |
-| 19 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 20 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 21 | [Le 6](http://twitter.com/search?q=Le+6) | N/A |
-| 22 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 23 | [The Witcher 3](http://twitter.com/search?q=The+Witcher+3) | N/A |
-| 24 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 25 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 26 | [Que Dieu](http://twitter.com/search?q=Que+Dieu) | N/A |
-| 27 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 9 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 10 | [Gabriel Attal](http://twitter.com/search?q=Gabriel+Attal) | N/A |
+| 11 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 12 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 13 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 14 | [Motion](http://twitter.com/search?q=Motion) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 18 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 19 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 20 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 21 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 22 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 23 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 24 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 25 | [The Witcher 3](http://twitter.com/search?q=The+Witcher+3) | N/A |
+| 26 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 27 | [Le 6](http://twitter.com/search?q=Le+6) | N/A |
 | 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 30 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 31 | [League of Legends](http://twitter.com/search?q=League+of+Legends) | N/A |
-| 32 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 33 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 34 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 35 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 36 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 37 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 38 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 39 | [#tremblementdeterre](http://twitter.com/search?q=%23tremblementdeterre) | N/A |
-| 40 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 41 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 42 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 43 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 44 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 45 | [#FreeMortaza](http://twitter.com/search?q=%23FreeMortaza) | N/A |
+| 29 | [Que Dieu](http://twitter.com/search?q=Que+Dieu) | N/A |
+| 30 | [League of Legends](http://twitter.com/search?q=League+of+Legends) | N/A |
+| 31 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 32 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 33 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 34 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 35 | [#Top5Winamax](http://twitter.com/search?q=%23Top5Winamax) | N/A |
+| 36 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 37 | [#tremblementdeterre](http://twitter.com/search?q=%23tremblementdeterre) | N/A |
+| 38 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 39 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 40 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 
 
 

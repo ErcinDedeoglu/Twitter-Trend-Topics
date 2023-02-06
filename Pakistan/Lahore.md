@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-06 17:15:47 UTC`
+📆 Last Updated: `2023-02-06 18:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
 | 3 | [#HBD_WaseemBadami](http://twitter.com/search?q=%23HBD_WaseemBadami) | N/A |
 | 4 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
-| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [#پاکستان_کا_مقدر_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%a9%d8%a7_%d9%85%d9%82%d8%af%d8%b1_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 5 | [#گھٹیا_بدزبان_مریم_نواز](http://twitter.com/search?q=%23%da%af%da%be%d9%b9%db%8c%d8%a7_%d8%a8%d8%af%d8%b2%d8%a8%d8%a7%d9%86_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
+| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 7 | [Another 7.5](http://twitter.com/search?q=Another+7.5) | N/A |
 | 8 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
@@ -28,17 +28,18 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 11 | [May God](http://twitter.com/search?q=May+God) | N/A |
 | 12 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
 | 13 | [#منظورپشتین_اپنابچہ](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b8%d9%88%d8%b1%d9%be%d8%b4%d8%aa%db%8c%d9%86_%d8%a7%d9%be%d9%86%d8%a7%d8%a8%da%86%db%81) | N/A |
-| 14 | [#هزة_أرضية](http://twitter.com/search?q=%23%d9%87%d8%b2%d8%a9_%d8%a3%d8%b1%d8%b6%d9%8a%d8%a9) | N/A |
+| 14 | [#پاکستان_کا_مقدر_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%a9%d8%a7_%d9%85%d9%82%d8%af%d8%b1_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
 | 15 | [#ManzoorPashteenOurPride](http://twitter.com/search?q=%23ManzoorPashteenOurPride) | N/A |
-| 16 | [#ShahadatBibiZainab](http://twitter.com/search?q=%23ShahadatBibiZainab) | N/A |
-| 17 | [#شہادت_ثانی_زھراء](http://twitter.com/search?q=%23%d8%b4%db%81%d8%a7%d8%af%d8%aa_%d8%ab%d8%a7%d9%86%db%8c_%d8%b2%da%be%d8%b1%d8%a7%d8%a1) | N/A |
-| 18 | [#گھٹیا_بدزبان_مریم_نواز](http://twitter.com/search?q=%23%da%af%da%be%d9%b9%db%8c%d8%a7_%d8%a8%d8%af%d8%b2%d8%a8%d8%a7%d9%86_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
-| 19 | [#کہوٹہ_کےجنگلات_بچاؤ](http://twitter.com/search?q=%23%da%a9%db%81%d9%88%d9%b9%db%81_%da%a9%db%92%d8%ac%d9%86%da%af%d9%84%d8%a7%d8%aa_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
-| 20 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 21 | [#Grammys2023](http://twitter.com/search?q=%23Grammys2023) | N/A |
-| 22 | [#Rupee](http://twitter.com/search?q=%23Rupee) | N/A |
-| 23 | [#WeStandwithShabazGill](http://twitter.com/search?q=%23WeStandwithShabazGill) | N/A |
+| 16 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 17 | [#هزة_أرضية](http://twitter.com/search?q=%23%d9%87%d8%b2%d8%a9_%d8%a3%d8%b1%d8%b6%d9%8a%d8%a9) | N/A |
+| 18 | [#ShahadatBibiZainab](http://twitter.com/search?q=%23ShahadatBibiZainab) | N/A |
+| 19 | [#شہادت_ثانی_زہراءؑ](http://twitter.com/search?q=%23%d8%b4%db%81%d8%a7%d8%af%d8%aa_%d8%ab%d8%a7%d9%86%db%8c_%d8%b2%db%81%d8%b1%d8%a7%d8%a1%d8%91) | N/A |
+| 20 | [#ReopenPublicLibraryTurbat](http://twitter.com/search?q=%23ReopenPublicLibraryTurbat) | N/A |
+| 21 | [#کہوٹہ_کےجنگلات_بچاؤ](http://twitter.com/search?q=%23%da%a9%db%81%d9%88%d9%b9%db%81_%da%a9%db%92%d8%ac%d9%86%da%af%d9%84%d8%a7%d8%aa_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
+| 22 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 23 | [#Rupee](http://twitter.com/search?q=%23Rupee) | N/A |
 | 24 | [#PakistanBankrupt](http://twitter.com/search?q=%23PakistanBankrupt) | N/A |
+| 25 | [#WeStandwithShabazGill](http://twitter.com/search?q=%23WeStandwithShabazGill) | N/A |
 
 
 
