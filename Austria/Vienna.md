@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-06 13:24:56 UTC`
+📆 Last Updated: `2023-02-06 14:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
-| 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 5 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 7 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 8 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Austria](</Austria>)
 | 11 | [Standard](http://twitter.com/search?q=Standard) | N/A |
 | 12 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
 | 13 | [Gleichbehandlungskommission](http://twitter.com/search?q=Gleichbehandlungskommission) | N/A |
-| 14 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 15 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
 | 16 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
 | 17 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
-| 18 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 18 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
 | 19 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 20 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 21 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 22 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 23 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
-| 24 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 25 | [Frau Sachslehner](http://twitter.com/search?q=Frau+Sachslehner) | N/A |
-| 26 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
-| 27 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 20 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 21 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 22 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 23 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 24 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 25 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
+| 26 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 27 | [frau sachslehner](http://twitter.com/search?q=frau+sachslehner) | N/A |
 | 28 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 29 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 30 | [Warnungen](http://twitter.com/search?q=Warnungen) | N/A |
+| 29 | [Warnungen](http://twitter.com/search?q=Warnungen) | N/A |
+| 30 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
 | 31 | [Tote](http://twitter.com/search?q=Tote) | N/A |
-| 32 | [Schallenberg](http://twitter.com/search?q=Schallenberg) | N/A |
-| 33 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
-| 34 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
-| 35 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 36 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 37 | [Schande](http://twitter.com/search?q=Schande) | N/A |
-| 38 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 39 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
-| 40 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 41 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 42 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 43 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
-| 44 | [Jahreszeit](http://twitter.com/search?q=Jahreszeit) | N/A |
-| 45 | [Piste](http://twitter.com/search?q=Piste) | N/A |
-| 46 | [Schnedlitz](http://twitter.com/search?q=Schnedlitz) | N/A |
-| 47 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 48 | [Salz](http://twitter.com/search?q=Salz) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 32 | [Ausland](http://twitter.com/search?q=Ausland) | N/A |
+| 33 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
+| 34 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
+| 35 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 36 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
+| 37 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 38 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 39 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 40 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 41 | [kredit](http://twitter.com/search?q=kredit) | N/A |
+| 42 | [Mond](http://twitter.com/search?q=Mond) | N/A |
+| 43 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 44 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
+| 45 | [Jahreszeit](http://twitter.com/search?q=Jahreszeit) | N/A |
+| 46 | [Piste](http://twitter.com/search?q=Piste) | N/A |
+| 47 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 48 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
+| 49 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 50 | [Salz](http://twitter.com/search?q=Salz) | N/A |
 
 
 

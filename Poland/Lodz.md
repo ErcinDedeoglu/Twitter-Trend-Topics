@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-06 13:24:56 UTC`
+📆 Last Updated: `2023-02-06 14:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 3 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 4 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 5 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
+| 4 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
+| 5 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
 | 6 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 7 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
-| 8 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 7 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 8 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
 | 9 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 10 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 11 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 12 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
-| 13 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
-| 14 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
-| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 16 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 17 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 20 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 21 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 22 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 23 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 24 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 25 | [Championship](http://twitter.com/search?q=Championship) | N/A |
-| 26 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 27 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 28 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 29 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 10 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 11 | [jabłoński](http://twitter.com/search?q=jab%c5%82o%c5%84ski) | N/A |
+| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 13 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
+| 14 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 15 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 16 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 17 | [Wprost](http://twitter.com/search?q=Wprost) | N/A |
+| 18 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
+| 19 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 21 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 22 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 23 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
+| 24 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 25 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 26 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [Polnord](http://twitter.com/search?q=Polnord) | N/A |
 | 30 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 31 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 32 | [Wprost](http://twitter.com/search?q=Wprost) | N/A |
-| 33 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 34 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
-| 35 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 36 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 37 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 38 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 39 | [Budka](http://twitter.com/search?q=Budka) | N/A |
-| 40 | [sylwia przybysz](http://twitter.com/search?q=sylwia+przybysz) | N/A |
-| 41 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
-| 42 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
-| 43 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 44 | [Sokołów](http://twitter.com/search?q=Soko%c5%82%c3%b3w) | N/A |
-| 45 | [graneruda](http://twitter.com/search?q=graneruda) | N/A |
-| 46 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 47 | [Juventusu](http://twitter.com/search?q=Juventusu) | N/A |
-| 48 | [wypij](http://twitter.com/search?q=wypij) | N/A |
+| 31 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 32 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 33 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 34 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 35 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 36 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 37 | [Brać](http://twitter.com/search?q=Bra%c4%87) | N/A |
+| 38 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 39 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 40 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
+| 41 | [sylwia przybysz](http://twitter.com/search?q=sylwia+przybysz) | N/A |
+| 42 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
+| 43 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 46 | [Sokołów](http://twitter.com/search?q=Soko%c5%82%c3%b3w) | N/A |
+| 47 | [graneruda](http://twitter.com/search?q=graneruda) | N/A |
+| 48 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
 
 
 
