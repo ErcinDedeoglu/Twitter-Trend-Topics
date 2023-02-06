@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-06 14:15:57 UTC`
+📆 Last Updated: `2023-02-06 15:15:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 2 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 3 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 4 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
-| 5 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
-| 6 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 7 | [#SaveOurNHS](http://twitter.com/search?q=%23SaveOurNHS) | N/A |
-| 8 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 9 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 10 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 11 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 12 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 13 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 14 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 15 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 16 | [#JonesOut](http://twitter.com/search?q=%23JonesOut) | N/A |
-| 17 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Line of Duty](http://twitter.com/search?q=Line+of+Duty) | N/A |
-| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 21 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 22 | [#ChildrensMentalHealthWeek](http://twitter.com/search?q=%23ChildrensMentalHealthWeek) | #ChildrensMentalHealthWeek is an annual awareness week that takes place in the UK during the first full week of February. It is a time to raise awareness of the importance of children's mental health and wellbeing, and to promote positive mental health for all children and young people. |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 25 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 26 | [RIP Billy](http://twitter.com/search?q=RIP+Billy) | N/A |
-| 27 | [Billy Thomson](http://twitter.com/search?q=Billy+Thomson) | N/A |
-| 28 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 1 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [#ToriesOut214](http://twitter.com/search?q=%23ToriesOut214) | N/A |
+| 5 | [#SafeStaffingSavesLives](http://twitter.com/search?q=%23SafeStaffingSavesLives) | N/A |
+| 6 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 7 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 8 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 9 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 10 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 11 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 12 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 13 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 14 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 15 | [Citeh](http://twitter.com/search?q=Citeh) | N/A |
+| 16 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 17 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
+| 18 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 19 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 20 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 22 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 23 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 26 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 27 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 28 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
 | 29 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 30 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 31 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 32 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 33 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 34 | [Nick Ferrari](http://twitter.com/search?q=Nick+Ferrari) | N/A |
-| 35 | [The PL](http://twitter.com/search?q=The+PL) | N/A |
-| 36 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 37 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 38 | [Over 100](http://twitter.com/search?q=Over+100) | N/A |
-| 39 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 40 | [Relegate](http://twitter.com/search?q=Relegate) | N/A |
-| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 42 | [cheats](http://twitter.com/search?q=cheats) | N/A |
-| 43 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 44 | [League 2](http://twitter.com/search?q=League+2) | N/A |
-| 45 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 46 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
-| 47 | [Cheating](http://twitter.com/search?q=Cheating) | N/A |
-| 48 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 30 | [Corberan](http://twitter.com/search?q=Corberan) | N/A |
+| 31 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 32 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 33 | [RIP Billy](http://twitter.com/search?q=RIP+Billy) | N/A |
+| 34 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 35 | [Yank Lampard](http://twitter.com/search?q=Yank+Lampard) | N/A |
+| 36 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 37 | [Billy Thomson](http://twitter.com/search?q=Billy+Thomson) | N/A |
+| 38 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 39 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 40 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 41 | [Nick Ferrari](http://twitter.com/search?q=Nick+Ferrari) | N/A |
+| 42 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
+| 43 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 44 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 45 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
+| 46 | [The PL](http://twitter.com/search?q=The+PL) | N/A |
+| 47 | [Relegate](http://twitter.com/search?q=Relegate) | N/A |
+| 48 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
 
 
 
