@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-06 21:16:18 UTC`
+📆 Last Updated: `2023-02-06 22:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Vietnam
 | 13 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
 | 14 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
 | 15 | [LO QUE ERES ES HERMOSO](http://twitter.com/search?q=LO+QUE+ERES+ES+HERMOSO) | N/A |
-| 16 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 17 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 18 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 19 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
-| 20 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 22 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
-| 23 | [BeepList](http://twitter.com/search?q=BeepList) | N/A |
-| 24 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
-| 25 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 26 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
-| 27 | [phòng](http://twitter.com/search?q=ph%c3%b2ng) | N/A |
-| 28 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 29 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 30 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 31 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 34 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 35 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
-| 36 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
-| 37 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 39 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 40 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 41 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 42 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
+| 16 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 17 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 18 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 19 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 20 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
+| 21 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 23 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
+| 24 | [beeplist](http://twitter.com/search?q=beeplist) | N/A |
+| 25 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
+| 26 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 27 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
+| 28 | [phòng](http://twitter.com/search?q=ph%c3%b2ng) | N/A |
+| 29 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 30 | [thôi](http://twitter.com/search?q=th%c3%b4i) | N/A |
+| 31 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 32 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
+| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 34 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 35 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 36 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
+| 37 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
+| 38 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 40 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 41 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 42 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
 | 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 45 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 46 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 45 | [trung quốc](http://twitter.com/search?q=trung+qu%e1%bb%91c) | N/A |
+| 46 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
 | 47 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 48 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 49 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
-| 50 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 48 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 49 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 50 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
 
 
 

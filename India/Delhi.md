@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-06 21:16:11 UTC`
+📆 Last Updated: `2023-02-06 22:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 2 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 3 | [SHIV CHAL RAHA HAI](http://twitter.com/search?q=SHIV+CHAL+RAHA+HAI) | N/A |
 | 4 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 5 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
@@ -24,39 +24,29 @@ This is top 50 for [India](</India>)
 | 7 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
 | 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 9 | [#PriyankaChaharChoudhury](http://twitter.com/search?q=%23PriyankaChaharChoudhury) | N/A |
-| 10 | [Mahadev Son Sushant](http://twitter.com/search?q=Mahadev+Son+Sushant) | N/A |
-| 11 | [15YRS OF VIVIAN DSENA ERA](http://twitter.com/search?q=15YRS+OF+VIVIAN+DSENA+ERA) | N/A |
+| 10 | [#NimritKaurAhluwalia𓃵](http://twitter.com/search?q=%23NimritKaurAhluwalia%f0%93%83%b5) | N/A |
+| 11 | [Mahadev Son Sushant](http://twitter.com/search?q=Mahadev+Son+Sushant) | N/A |
 | 12 | [NIMRIT WON HEARTS](http://twitter.com/search?q=NIMRIT+WON+HEARTS) | N/A |
 | 13 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
 | 14 | [PRIYANKA OWNS TROPHY](http://twitter.com/search?q=PRIYANKA+OWNS+TROPHY) | N/A |
-| 15 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 16 | [CONGRATULATIONS PRATIK](http://twitter.com/search?q=CONGRATULATIONS+PRATIK) | N/A |
-| 17 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 18 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 20 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
-| 21 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 22 | [#NimritKaurAhluwalia𓃵](http://twitter.com/search?q=%23NimritKaurAhluwalia%f0%93%83%b5) | N/A |
-| 23 | [#JSKvMICT](http://twitter.com/search?q=%23JSKvMICT) | N/A |
-| 24 | [#RoseDay](http://twitter.com/search?q=%23RoseDay) | N/A |
-| 25 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
-| 26 | [#ShivStan](http://twitter.com/search?q=%23ShivStan) | N/A |
-| 27 | [#12फरवरी_चलो_भोपाल](http://twitter.com/search?q=%2312%e0%a4%ab%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%80_%e0%a4%9a%e0%a4%b2%e0%a5%8b_%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 28 | [#मोहन_भागवत_माफी_मांगो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8_%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b) | N/A |
-| 29 | [#ShalinBhanot𓃵](http://twitter.com/search?q=%23ShalinBhanot%f0%93%83%b5) | N/A |
-| 30 | [#BadeAchheLagteHain2](http://twitter.com/search?q=%23BadeAchheLagteHain2) | N/A |
-| 31 | [#VarisuHits300Crs](http://twitter.com/search?q=%23VarisuHits300Crs) | N/A |
-| 32 | [#INSVikrant](http://twitter.com/search?q=%23INSVikrant) | N/A |
-| 33 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 34 | [#ModiMuteAdaniLoot](http://twitter.com/search?q=%23ModiMuteAdaniLoot) | N/A |
-| 35 | [#WhistleForJoburg](http://twitter.com/search?q=%23WhistleForJoburg) | N/A |
-| 36 | [#ShivRit](http://twitter.com/search?q=%23ShivRit) | N/A |
-| 37 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 38 | [#OnePlus11R](http://twitter.com/search?q=%23OnePlus11R) | N/A |
-| 39 | [#AdaniGroups](http://twitter.com/search?q=%23AdaniGroups) | N/A |
-| 40 | [#IndianNavy](http://twitter.com/search?q=%23IndianNavy) | N/A |
-| 41 | [#UnleashX](http://twitter.com/search?q=%23UnleashX) | N/A |
-| 42 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 15 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 16 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 17 | [INS Vikrant](http://twitter.com/search?q=INS+Vikrant) | N/A |
+| 18 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
+| 19 | [#RoseDay](http://twitter.com/search?q=%23RoseDay) | N/A |
+| 20 | [#ShivStan](http://twitter.com/search?q=%23ShivStan) | N/A |
+| 21 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 22 | [#12फरवरी_चलो_भोपाल](http://twitter.com/search?q=%2312%e0%a4%ab%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%80_%e0%a4%9a%e0%a4%b2%e0%a5%8b_%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [#मोहन_भागवत_माफी_मांगो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8_%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b) | N/A |
+| 24 | [#ShalinBhanot𓃵](http://twitter.com/search?q=%23ShalinBhanot%f0%93%83%b5) | N/A |
+| 25 | [#BadeAchheLagteHain2](http://twitter.com/search?q=%23BadeAchheLagteHain2) | N/A |
+| 26 | [#VarisuHits300Crs](http://twitter.com/search?q=%23VarisuHits300Crs) | N/A |
+| 27 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 28 | [#ModiMuteAdaniLoot](http://twitter.com/search?q=%23ModiMuteAdaniLoot) | N/A |
+| 29 | [#ShivRit](http://twitter.com/search?q=%23ShivRit) | N/A |
+| 30 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 31 | [#AdaniGroups](http://twitter.com/search?q=%23AdaniGroups) | N/A |
+| 32 | [#OnePlus11R](http://twitter.com/search?q=%23OnePlus11R) | N/A |
 
 
 

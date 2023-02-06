@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-06 21:15:24 UTC`
+📆 Last Updated: `2023-02-06 22:15:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 3 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 4 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 5 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 1 | [Ewood](http://twitter.com/search?q=Ewood) | N/A |
+| 2 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
+| 3 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 4 | [#ItsNotOk](http://twitter.com/search?q=%23ItsNotOk) | N/A |
+| 5 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
 | 6 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 7 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 8 | [Cheating](http://twitter.com/search?q=Cheating) | N/A |
-| 9 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 10 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
-| 11 | [#synod](http://twitter.com/search?q=%23synod) | N/A |
-| 12 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 13 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 14 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 15 | [The Premier League](http://twitter.com/search?q=The+Premier+League) | N/A |
-| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 17 | [League 2](http://twitter.com/search?q=League+2) | N/A |
-| 18 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 19 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
-| 20 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 21 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 23 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 24 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 25 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 26 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 28 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 29 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
-| 30 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
-| 31 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 32 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 33 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
-| 34 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 35 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
-| 36 | [GBNews](http://twitter.com/search?q=GBNews) | N/A |
-| 37 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 38 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 39 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 40 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 41 | [Corberan](http://twitter.com/search?q=Corberan) | N/A |
-| 42 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 43 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 44 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 45 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 46 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 47 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 48 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 49 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
-| 50 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 7 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 8 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
+| 9 | [#FairPayforNursing](http://twitter.com/search?q=%23FairPayforNursing) | N/A |
+| 10 | [#synod](http://twitter.com/search?q=%23synod) | N/A |
+| 11 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 12 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 13 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 14 | [#RCNStrike](http://twitter.com/search?q=%23RCNStrike) | N/A |
+| 15 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 16 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 17 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 18 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 19 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 20 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 21 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 22 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 23 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 24 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 26 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
+| 27 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 28 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 29 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 30 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 31 | [Sorba Thomas](http://twitter.com/search?q=Sorba+Thomas) | N/A |
+| 32 | [Ellie and Jordan](http://twitter.com/search?q=Ellie+and+Jordan) | N/A |
+| 33 | [Jordan and Ellie](http://twitter.com/search?q=Jordan+and+Ellie) | N/A |
+| 34 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 36 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 37 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 39 | [Dack](http://twitter.com/search?q=Dack) | N/A |
+| 40 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
+| 41 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 42 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
+| 43 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
+| 44 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 45 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 46 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
+| 47 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 48 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 49 | [Walkers](http://twitter.com/search?q=Walkers) | N/A |
+| 50 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
 
 
 

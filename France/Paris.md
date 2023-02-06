@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-06 21:15:37 UTC`
+📆 Last Updated: `2023-02-06 22:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
 | 2 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
 | 3 | [#adp2023](http://twitter.com/search?q=%23adp2023) | N/A |
-| 4 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 5 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 6 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 4 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 5 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 6 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 7 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
-| 8 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 9 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
-| 10 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 8 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 9 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 10 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
 | 11 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 12 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 13 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
-| 14 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 15 | [Pelissard](http://twitter.com/search?q=Pelissard) | N/A |
+| 12 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 13 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
+| 14 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 15 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
 | 16 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
 | 17 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 18 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 19 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 20 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
-| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 22 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 23 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 24 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 25 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 26 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
-| 27 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 28 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 29 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [Attal](http://twitter.com/search?q=Attal) | N/A |
-| 32 | [Upset](http://twitter.com/search?q=Upset) | N/A |
-| 33 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 34 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 35 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
-| 36 | [SAUR](http://twitter.com/search?q=SAUR) | N/A |
-| 37 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 38 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 39 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 40 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 41 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 42 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 43 | [Aurore](http://twitter.com/search?q=Aurore) | N/A |
-| 44 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 45 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 46 | [Stardew Valley](http://twitter.com/search?q=Stardew+Valley) | N/A |
-| 47 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 48 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 49 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 50 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 18 | [4keus](http://twitter.com/search?q=4keus) | N/A |
+| 19 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 20 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 21 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 22 | [Pellissard](http://twitter.com/search?q=Pellissard) | N/A |
+| 23 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 24 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
+| 25 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 26 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 27 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 28 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 29 | [Motion](http://twitter.com/search?q=Motion) | N/A |
+| 30 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
+| 31 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 32 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 33 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 34 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 35 | [The Legend of Zelda](http://twitter.com/search?q=The+Legend+of+Zelda) | N/A |
+| 36 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 37 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 38 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 39 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 40 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 41 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
+| 42 | [Saur](http://twitter.com/search?q=Saur) | N/A |
+| 43 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 44 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 45 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 46 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 47 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 48 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 49 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 50 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
 
 
 

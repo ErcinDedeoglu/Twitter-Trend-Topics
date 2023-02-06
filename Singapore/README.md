@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-06 21:16:17 UTC`
+📆 Last Updated: `2023-02-06 22:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for Singapore
 | 26 | [Yishun](http://twitter.com/search?q=Yishun) | N/A |
 | 27 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
 | 28 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 29 | [Thaipusam](http://twitter.com/search?q=Thaipusam) | N/A |
-| 30 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 32 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [David](http://twitter.com/search?q=David) | N/A |
-| 35 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
-| 36 | [Cheol](http://twitter.com/search?q=Cheol) | N/A |
-| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 38 | [THANK YOUUU](http://twitter.com/search?q=THANK+YOUUU) | N/A |
-| 39 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 40 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 43 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 29 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [David](http://twitter.com/search?q=David) | N/A |
+| 34 | [wheein](http://twitter.com/search?q=wheein) | N/A |
+| 35 | [Cheol](http://twitter.com/search?q=Cheol) | N/A |
+| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 37 | [THANK YOUUU](http://twitter.com/search?q=THANK+YOUUU) | N/A |
+| 38 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 39 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 40 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 41 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 43 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 45 | [Pewds](http://twitter.com/search?q=Pewds) | N/A |
 | 46 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 47 | [Personally](http://twitter.com/search?q=Personally) | N/A |
-| 48 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 49 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 50 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 48 | [Thaipusam](http://twitter.com/search?q=Thaipusam) | N/A |
+| 49 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 50 | [Money](http://twitter.com/search?q=Money) | N/A |
 
 
 

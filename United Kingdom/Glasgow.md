@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-06 21:15:26 UTC`
+📆 Last Updated: `2023-02-06 22:15:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 2 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 3 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 5 | [#mastermind](http://twitter.com/search?q=%23mastermind) | N/A |
-| 6 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
-| 7 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
-| 8 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 9 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 10 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 11 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 12 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 13 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 14 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 16 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 17 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
-| 18 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
-| 19 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 20 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 21 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
-| 22 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 23 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
-| 24 | [GBNews](http://twitter.com/search?q=GBNews) | N/A |
-| 25 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 26 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 28 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 29 | [Corberan](http://twitter.com/search?q=Corberan) | N/A |
-| 30 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 31 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 32 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 33 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 34 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 36 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 37 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
-| 38 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 39 | [Unknown](http://twitter.com/search?q=Unknown) | N/A |
-| 40 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 41 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 42 | [Nick Ferrari](http://twitter.com/search?q=Nick+Ferrari) | N/A |
-| 43 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 45 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 46 | [Andrew Innes](http://twitter.com/search?q=Andrew+Innes) | N/A |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 49 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 1 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 2 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 3 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 5 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 6 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 7 | [#Ambulance](http://twitter.com/search?q=%23Ambulance) | N/A |
+| 8 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 9 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
+| 10 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 11 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 12 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 13 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 14 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 15 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 16 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 17 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 19 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
+| 20 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 21 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 22 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 23 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 24 | [Sorba Thomas](http://twitter.com/search?q=Sorba+Thomas) | N/A |
+| 25 | [Ellie and Jordan](http://twitter.com/search?q=Ellie+and+Jordan) | N/A |
+| 26 | [Jordan and Ellie](http://twitter.com/search?q=Jordan+and+Ellie) | N/A |
+| 27 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 29 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 30 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 32 | [Dack](http://twitter.com/search?q=Dack) | N/A |
+| 33 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
+| 34 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 35 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
+| 36 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
+| 37 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 38 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 39 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
+| 40 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 41 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 42 | [Walkers](http://twitter.com/search?q=Walkers) | N/A |
+| 43 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
+| 44 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
+| 45 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 46 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 47 | [Unknown](http://twitter.com/search?q=Unknown) | N/A |
+| 48 | [Ewood](http://twitter.com/search?q=Ewood) | N/A |
+| 49 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 
 
 

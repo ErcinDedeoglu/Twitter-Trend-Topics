@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-06 21:15:27 UTC`
+📆 Last Updated: `2023-02-06 22:15:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 3 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 4 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 1 | [Ewood](http://twitter.com/search?q=Ewood) | N/A |
+| 2 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
+| 3 | [#ItsNotOk](http://twitter.com/search?q=%23ItsNotOk) | N/A |
+| 4 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
 | 5 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 6 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 7 | [Cheating](http://twitter.com/search?q=Cheating) | N/A |
-| 8 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 9 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
-| 10 | [#synod](http://twitter.com/search?q=%23synod) | N/A |
-| 11 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 12 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 13 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 14 | [The Premier League](http://twitter.com/search?q=The+Premier+League) | N/A |
-| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 16 | [League 2](http://twitter.com/search?q=League+2) | N/A |
+| 6 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 7 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
+| 8 | [#FairPayforNursing](http://twitter.com/search?q=%23FairPayforNursing) | N/A |
+| 9 | [#synod](http://twitter.com/search?q=%23synod) | N/A |
+| 10 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 11 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 12 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 15 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 16 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
 | 17 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 18 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
-| 19 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 20 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 22 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 23 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 24 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 26 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 27 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 28 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
-| 29 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
-| 30 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 31 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 32 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
-| 33 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 34 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
-| 35 | [GBNews](http://twitter.com/search?q=GBNews) | N/A |
-| 36 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 37 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 39 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 40 | [Corberan](http://twitter.com/search?q=Corberan) | N/A |
-| 41 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 42 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 43 | [Whyte](http://twitter.com/search?q=Whyte) | N/A |
-| 44 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 45 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 46 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 47 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 48 | [Chris Armas](http://twitter.com/search?q=Chris+Armas) | N/A |
-| 49 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 18 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 19 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 20 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 21 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 22 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 24 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
+| 25 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 26 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 27 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 28 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 29 | [Sorba Thomas](http://twitter.com/search?q=Sorba+Thomas) | N/A |
+| 30 | [Ellie and Jordan](http://twitter.com/search?q=Ellie+and+Jordan) | N/A |
+| 31 | [Jordan and Ellie](http://twitter.com/search?q=Jordan+and+Ellie) | N/A |
+| 32 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 33 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 34 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 35 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 36 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 37 | [Kewell](http://twitter.com/search?q=Kewell) | N/A |
+| 38 | [Dack](http://twitter.com/search?q=Dack) | N/A |
+| 39 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 40 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
+| 41 | [Pete Burns](http://twitter.com/search?q=Pete+Burns) | N/A |
+| 42 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 43 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 44 | [Unforgotten](http://twitter.com/search?q=Unforgotten) | N/A |
+| 45 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 46 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 47 | [Walkers](http://twitter.com/search?q=Walkers) | N/A |
+| 48 | [Prawn](http://twitter.com/search?q=Prawn) | N/A |
+| 49 | [Mackenzie](http://twitter.com/search?q=Mackenzie) | N/A |
 
 
 

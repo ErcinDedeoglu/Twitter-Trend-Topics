@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-06 21:16:05 UTC`
+📆 Last Updated: `2023-02-06 22:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 2 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 1 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
+| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 3 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
 | 4 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 5 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 6 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 5 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 6 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
 | 7 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 8 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 9 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
-| 10 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 11 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 12 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 13 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
-| 14 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
-| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 16 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
-| 17 | [#StuffIWishWasReal](http://twitter.com/search?q=%23StuffIWishWasReal) | N/A |
-| 18 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 19 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
-| 20 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 21 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 22 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 23 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 24 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 25 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
-| 26 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 28 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
-| 29 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 30 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
-| 31 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
-| 32 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
-| 33 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 34 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
-| 35 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 36 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 37 | [A-List](http://twitter.com/search?q=A-List) | N/A |
-| 38 | [J Prince](http://twitter.com/search?q=J+Prince) | N/A |
+| 9 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 10 | [#loveeternal](http://twitter.com/search?q=%23loveeternal) | N/A |
+| 11 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 12 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 15 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
+| 16 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 17 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 18 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
+| 19 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
+| 20 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
+| 21 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 22 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 24 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
+| 25 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 26 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 27 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 28 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 29 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
+| 30 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 31 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
+| 32 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
+| 33 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
+| 34 | [McKeesport](http://twitter.com/search?q=McKeesport) | N/A |
+| 35 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
+| 36 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 37 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 38 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
 | 39 | [Steve Albini](http://twitter.com/search?q=Steve+Albini) | N/A |
-| 40 | [Roy Jones Jr](http://twitter.com/search?q=Roy+Jones+Jr) | N/A |
-| 41 | [Hanzo](http://twitter.com/search?q=Hanzo) | N/A |
-| 42 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 43 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 44 | [Carlos Correa](http://twitter.com/search?q=Carlos+Correa) | Carlos Correa is a professional baseball player from Puerto Rico who currently plays for the Houston Astros. He is a shortstop and was the first overall pick in the 2012 MLB Draft. The meaning of his name in English is "free man". |
-| 45 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
-| 46 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 47 | [Doomfist](http://twitter.com/search?q=Doomfist) | N/A |
-| 48 | [Regal](http://twitter.com/search?q=Regal) | N/A |
+| 40 | [Cho Chang](http://twitter.com/search?q=Cho+Chang) | N/A |
+| 41 | [Sir Ryan](http://twitter.com/search?q=Sir+Ryan) | N/A |
+| 42 | [Jake Heaps](http://twitter.com/search?q=Jake+Heaps) | N/A |
+| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 44 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 45 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 46 | [Roy Jones Jr](http://twitter.com/search?q=Roy+Jones+Jr) | N/A |
+| 47 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 
 
 

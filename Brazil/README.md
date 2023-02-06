@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-06 21:16:12 UTC`
+📆 Last Updated: `2023-02-06 22:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 2 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
-| 3 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 4 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
-| 5 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 6 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 8 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 9 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 10 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 11 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 12 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
-| 13 | [#ADona044](http://twitter.com/search?q=%23ADona044) | N/A |
-| 14 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 15 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 17 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 18 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 19 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
-| 20 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 21 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 22 | [Delgatti](http://twitter.com/search?q=Delgatti) | N/A |
-| 23 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 24 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 25 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
-| 26 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 27 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 28 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 29 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 30 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 31 | [#MUGBLIZZARD](http://twitter.com/search?q=%23MUGBLIZZARD) | N/A |
-| 32 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 33 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 34 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 35 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
-| 36 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 1 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
+| 2 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
+| 3 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 4 | [#FelipeNetoNaTwitch](http://twitter.com/search?q=%23FelipeNetoNaTwitch) | N/A |
+| 5 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 7 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
+| 8 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 9 | [#TresVezesAna006](http://twitter.com/search?q=%23TresVezesAna006) | N/A |
+| 10 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 11 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
+| 12 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 13 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 14 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
+| 15 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 16 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 17 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 18 | [FELIPE ARAUJO NO TVZ](http://twitter.com/search?q=FELIPE+ARAUJO+NO+TVZ) | N/A |
+| 19 | [#ADona044](http://twitter.com/search?q=%23ADona044) | N/A |
+| 20 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
+| 21 | [Kaio Jorge](http://twitter.com/search?q=Kaio+Jorge) | N/A |
+| 22 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 23 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 24 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 25 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 26 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
+| 27 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 28 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 29 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 30 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
+| 31 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 32 | [Delgatti](http://twitter.com/search?q=Delgatti) | N/A |
+| 33 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 34 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 35 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
+| 36 | [#MUGBLIZZARD](http://twitter.com/search?q=%23MUGBLIZZARD) | N/A |
 | 37 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 38 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
-| 39 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 40 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 41 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 42 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 43 | [Samba Gold](http://twitter.com/search?q=Samba+Gold) | N/A |
+| 38 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
+| 39 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 40 | [Madona](http://twitter.com/search?q=Madona) | N/A |
+| 41 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 42 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
+| 43 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 44 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 45 | [James Wan](http://twitter.com/search?q=James+Wan) | N/A |
-| 46 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 47 | [Terremotos](http://twitter.com/search?q=Terremotos) | N/A |
-| 48 | [Cria da Ivete](http://twitter.com/search?q=Cria+da+Ivete) | N/A |
-| 49 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
-| 50 | [Policial](http://twitter.com/search?q=Policial) | N/A |
+| 45 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 46 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 47 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 48 | [James Wan](http://twitter.com/search?q=James+Wan) | N/A |
+| 49 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 
 
 
