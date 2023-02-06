@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-06 02:36:52 UTC`
+📆 Last Updated: `2023-02-06 03:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,35 +30,35 @@ This is top 50 for Poland
 | 13 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 14 | [beyonce](http://twitter.com/search?q=beyonce) | N/A |
 | 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 16 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 16 | [miłej](http://twitter.com/search?q=mi%c5%82ej) | N/A |
 | 17 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
 | 18 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
 | 19 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 20 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 21 | [bundeslidze](http://twitter.com/search?q=bundeslidze) | N/A |
-| 22 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 20 | [bundeslidze](http://twitter.com/search?q=bundeslidze) | N/A |
+| 21 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 22 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 | 23 | [tottenhamu](http://twitter.com/search?q=tottenhamu) | N/A |
 | 24 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
 | 25 | [Budka](http://twitter.com/search?q=Budka) | N/A |
 | 26 | [bayernowi](http://twitter.com/search?q=bayernowi) | N/A |
 | 27 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 28 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
-| 29 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 28 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 29 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
 | 30 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 31 | [Interu](http://twitter.com/search?q=Interu) | N/A |
 | 32 | [halvor egner granerud](http://twitter.com/search?q=halvor+egner+granerud) | N/A |
 | 33 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 34 | [Mediolanu](http://twitter.com/search?q=Mediolanu) | N/A |
+| 34 | [mediolanu](http://twitter.com/search?q=mediolanu) | N/A |
 | 35 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 36 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 36 | [willingen](http://twitter.com/search?q=willingen) | N/A |
 | 37 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
 | 38 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 39 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
 | 40 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 41 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 41 | [velde](http://twitter.com/search?q=velde) | N/A |
 | 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 43 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 44 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 44 | [agrounią](http://twitter.com/search?q=agrouni%c4%85) | N/A |
 | 45 | [strzałek](http://twitter.com/search?q=strza%c5%82ek) | N/A |
 | 46 | [kamila stocha](http://twitter.com/search?q=kamila+stocha) | N/A |
 | 47 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |

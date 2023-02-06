@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-06 02:36:12 UTC`
+📆 Last Updated: `2023-02-06 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
 | 4 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 5 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
 | 6 | [#swissclash](http://twitter.com/search?q=%23swissclash) | N/A |
 | 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
@@ -37,7 +37,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Werte](http://twitter.com/search?q=Werte) | N/A |
 | 21 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
 | 22 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 23 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 23 | [völkerrecht](http://twitter.com/search?q=v%c3%b6lkerrecht) | N/A |
 | 24 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 25 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 26 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
@@ -54,13 +54,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Kater](http://twitter.com/search?q=Kater) | N/A |
 | 38 | [Syria](http://twitter.com/search?q=Syria) | N/A |
 | 39 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 40 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 41 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 42 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 43 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 44 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
-| 45 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 46 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 40 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 41 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 42 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 43 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 44 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 45 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
+| 46 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
 | 47 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 
 

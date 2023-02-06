@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-06 02:36:46 UTC`
+📆 Last Updated: `2023-02-06 03:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 5 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
@@ -28,12 +28,12 @@ This is top 50 for Austria
 | 11 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
 | 12 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
 | 13 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
-| 14 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
+| 14 | [motiv](http://twitter.com/search?q=motiv) | N/A |
 | 15 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
 | 16 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
 | 18 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
 | 20 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
 | 21 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 22 | [Talent](http://twitter.com/search?q=Talent) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Austria
 | 33 | [ansagen](http://twitter.com/search?q=ansagen) | N/A |
 | 34 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
 | 35 | [kurier](http://twitter.com/search?q=kurier) | N/A |
-| 36 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 36 | [supermarkt](http://twitter.com/search?q=supermarkt) | N/A |
 | 37 | [Salz](http://twitter.com/search?q=Salz) | N/A |
 | 38 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
 | 39 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |

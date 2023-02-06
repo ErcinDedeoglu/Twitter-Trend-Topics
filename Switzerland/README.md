@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-06 02:36:54 UTC`
+📆 Last Updated: `2023-02-06 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Switzerland
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
 | 4 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 5 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
 | 6 | [#swissclash](http://twitter.com/search?q=%23swissclash) | N/A |
 | 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
@@ -38,7 +38,7 @@ This is top 50 for Switzerland
 | 21 | [Werte](http://twitter.com/search?q=Werte) | N/A |
 | 22 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
 | 23 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 24 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 24 | [völkerrecht](http://twitter.com/search?q=v%c3%b6lkerrecht) | N/A |
 | 25 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 27 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-06 02:36:06 UTC`
+📆 Last Updated: `2023-02-06 03:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,14 +30,14 @@ This is top 50 for [Ireland](</Ireland>)
 | 13 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 14 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
 | 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 17 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
 | 18 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 19 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 20 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 21 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
-| 22 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 19 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 20 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 21 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 23 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 24 | [Kildare](http://twitter.com/search?q=Kildare) | N/A |
 | 25 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
 | 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
