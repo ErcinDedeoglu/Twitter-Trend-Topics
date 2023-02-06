@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-05 23:16:57 UTC`
+📆 Last Updated: `2023-02-06 00:29:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 11 | [6 sixes](http://twitter.com/search?q=6+sixes) | N/A |
 | 12 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 13 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
-| 14 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
-| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 16 | [hasnain](http://twitter.com/search?q=hasnain) | N/A |
-| 17 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 18 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 19 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
-| 20 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
-| 21 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
+| 13 | [stop attacking pakimys](http://twitter.com/search?q=stop+attacking+pakimys) | N/A |
+| 14 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 15 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 16 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 17 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 18 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 19 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
+| 20 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
+| 21 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
 | 22 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 23 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 24 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 25 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 23 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
+| 24 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
 | 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 28 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 29 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
-| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [Proff](http://twitter.com/search?q=Proff) | N/A |
-| 32 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 33 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 34 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 36 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [Popular](http://twitter.com/search?q=Popular) | N/A |
-| 39 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 40 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 41 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 42 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 43 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 44 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 46 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 47 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 48 | [Beshaq](http://twitter.com/search?q=Beshaq) | N/A |
-| 49 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
+| 28 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 31 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 32 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 33 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 34 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 35 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
+| 36 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 38 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 39 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 42 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Okie](http://twitter.com/search?q=Okie) | N/A |
+| 45 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
+| 46 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 47 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [DMed](http://twitter.com/search?q=DMed) | N/A |
 
 
 

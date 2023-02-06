@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-05 23:16:32 UTC`
+📆 Last Updated: `2023-02-06 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 2 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
-| 4 | [#VfBSVW](http://twitter.com/search?q=%23VfBSVW) | N/A |
-| 5 | [#sterntv](http://twitter.com/search?q=%23sterntv) | N/A |
-| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 9 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 10 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
-| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 14 | [Fahrtenbuch](http://twitter.com/search?q=Fahrtenbuch) | N/A |
-| 15 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 16 | [Karat](http://twitter.com/search?q=Karat) | N/A |
-| 17 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 18 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 19 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
-| 20 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 21 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 5 | [#VfBSVW](http://twitter.com/search?q=%23VfBSVW) | N/A |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 8 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 12 | [Karat](http://twitter.com/search?q=Karat) | N/A |
+| 13 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 14 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 15 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
+| 16 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 17 | [Herr Dürr](http://twitter.com/search?q=Herr+D%c3%bcrr) | N/A |
+| 18 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 19 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
+| 20 | [Personal Fav](http://twitter.com/search?q=Personal+Fav) | N/A |
+| 21 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
 | 22 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 23 | [Anis Amri](http://twitter.com/search?q=Anis+Amri) | N/A |
-| 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 25 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 26 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 29 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 30 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
-| 31 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 32 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 34 | [Maffay](http://twitter.com/search?q=Maffay) | N/A |
-| 35 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 37 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 38 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
-| 39 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
-| 40 | [Thorsten Frei](http://twitter.com/search?q=Thorsten+Frei) | N/A |
-| 41 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
-| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 43 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 44 | [Schuldgefühle](http://twitter.com/search?q=Schuldgef%c3%bchle) | N/A |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 47 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 48 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 49 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 23 | [dylan](http://twitter.com/search?q=dylan) | N/A |
+| 24 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 25 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 26 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 27 | [Thorsten Frei](http://twitter.com/search?q=Thorsten+Frei) | N/A |
+| 28 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 29 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 30 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 32 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 33 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
+| 34 | [Fahrtenbuch](http://twitter.com/search?q=Fahrtenbuch) | N/A |
+| 35 | [Schuldgefühle](http://twitter.com/search?q=Schuldgef%c3%bchle) | N/A |
+| 36 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 37 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 38 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 40 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 41 | [Anis Amri](http://twitter.com/search?q=Anis+Amri) | N/A |
+| 42 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 43 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 44 | [Schlafanzug](http://twitter.com/search?q=Schlafanzug) | N/A |
+| 45 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
+| 46 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 47 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 48 | [Wimmer](http://twitter.com/search?q=Wimmer) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-05 23:16:25 UTC`
+📆 Last Updated: `2023-02-06 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pinho](http://twitter.com/search?q=Pinho) | Pinho is a Portuguese word meaning "pine tree". It is often used to refer to the Pinus species of trees, which are native to the Mediterranean region. |
-| 2 | [ATHLEtiba](http://twitter.com/search?q=ATHLEtiba) | N/A |
-| 3 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 2 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 3 | [Kaio](http://twitter.com/search?q=Kaio) | N/A |
 | 4 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 5 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 6 | [Kaio](http://twitter.com/search?q=Kaio) | N/A |
-| 7 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 5 | [Márcio](http://twitter.com/search?q=M%c3%a1rcio) | N/A |
+| 6 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 7 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
 | 8 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 9 | [Bento](http://twitter.com/search?q=Bento) | N/A |
-| 10 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 11 | [#SegueOParanaense](http://twitter.com/search?q=%23SegueOParanaense) | N/A |
-| 12 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 13 | [Erick](http://twitter.com/search?q=Erick) | N/A |
-| 14 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 15 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 16 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 17 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 18 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 19 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 20 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 21 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 22 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 23 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
-| 24 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 26 | [Orejuela](http://twitter.com/search?q=Orejuela) | Orejuela is a Spanish word that literally translates to "little ear". It is used to describe something small or insignificant. |
-| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 28 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 30 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 31 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 32 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 33 | [red carpet](http://twitter.com/search?q=red+carpet) | N/A |
-| 34 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
-| 35 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 36 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
-| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 38 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
-| 39 | [JADA](http://twitter.com/search?q=JADA) | N/A |
-| 40 | [Fernando Lázaro](http://twitter.com/search?q=Fernando+L%c3%a1zaro) | N/A |
-| 41 | [Adshow](http://twitter.com/search?q=Adshow) | N/A |
-| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 43 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 44 | [bjork](http://twitter.com/search?q=bjork) | N/A |
-| 45 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 46 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 47 | [Camila Cabello](http://twitter.com/search?q=Camila+Cabello) | N/A |
-| 48 | [harry styles](http://twitter.com/search?q=harry+styles) | N/A |
-| 49 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 50 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 9 | [#ATHLETIBA](http://twitter.com/search?q=%23ATHLETIBA) | N/A |
+| 10 | [#segueoparanaense](http://twitter.com/search?q=%23segueoparanaense) | N/A |
+| 11 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
+| 12 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 13 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 14 | [Bento](http://twitter.com/search?q=Bento) | N/A |
+| 15 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 16 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 17 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 20 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 21 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 22 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 23 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 25 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 26 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 27 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
+| 28 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 29 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 30 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
+| 31 | [#PURPLENIGHTBTS](http://twitter.com/search?q=%23PURPLENIGHTBTS) | N/A |
+| 32 | [red carpet](http://twitter.com/search?q=red+carpet) | Red carpet is a phrase used to describe a situation in which someone is given special treatment or attention. It is often used to refer to the practice of rolling out a red carpet for important guests or celebrities at events such as movie premieres, award ceremonies, and other special occasions. The phrase can also be used figuratively to refer to any situation in which someone is given preferential treatment. |
+| 33 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
+| 34 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 35 | [JADA](http://twitter.com/search?q=JADA) | JADA is an acronym for the Japanese Automobile Dealers Association. It is a trade organization that represents the interests of automobile dealers in Japan. The organization works to promote the development of the automotive industry in Japan and to ensure fair and equitable business practices among its members. |
+| 36 | [Fernando Lázaro](http://twitter.com/search?q=Fernando+L%c3%a1zaro) | N/A |
+| 37 | [Camila Cabello](http://twitter.com/search?q=Camila+Cabello) | N/A |
+| 38 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 39 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 40 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 41 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 42 | [Zeca Camargo](http://twitter.com/search?q=Zeca+Camargo) | N/A |
+| 43 | [Junior Moraes](http://twitter.com/search?q=Junior+Moraes) | N/A |
+| 44 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
+| 45 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 46 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 47 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 48 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
+| 49 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 50 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
 
 
 
