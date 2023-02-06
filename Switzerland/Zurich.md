@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-06 00:29:00 UTC`
+📆 Last Updated: `2023-02-06 01:44:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
-| 2 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 6 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 7 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 8 | [#swissclash](http://twitter.com/search?q=%23swissclash) | N/A |
-| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 10 | [#SIOFCZ](http://twitter.com/search?q=%23SIOFCZ) | N/A |
-| 11 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 12 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 13 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 16 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 1 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
+| 4 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 6 | [#swissclash](http://twitter.com/search?q=%23swissclash) | N/A |
+| 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 9 | [#siofcz](http://twitter.com/search?q=%23siofcz) | N/A |
+| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 11 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 12 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 15 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 16 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 17 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 18 | [Rathgeb](http://twitter.com/search?q=Rathgeb) | N/A |
 | 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 21 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 22 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 23 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 24 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 25 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 26 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 27 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
-| 28 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 29 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 31 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 32 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 33 | [America](http://twitter.com/search?q=America) | N/A |
-| 34 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 35 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 36 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 37 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 38 | [Kater](http://twitter.com/search?q=Kater) | N/A |
-| 39 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 40 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 41 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 42 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 43 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
-| 44 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 21 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 22 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 23 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
+| 24 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 25 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 27 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
+| 28 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 29 | [Fieber](http://twitter.com/search?q=Fieber) | N/A |
+| 30 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 33 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 35 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 36 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 37 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 38 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
+| 39 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 40 | [Kater](http://twitter.com/search?q=Kater) | N/A |
+| 41 | [Syria](http://twitter.com/search?q=Syria) | N/A |
+| 42 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 43 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 44 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 45 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 46 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 47 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 48 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 49 | [Polemik](http://twitter.com/search?q=Polemik) | N/A |
+| 47 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 48 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 49 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 | 50 | [Gerechtigkeit](http://twitter.com/search?q=Gerechtigkeit) | N/A |
 
 

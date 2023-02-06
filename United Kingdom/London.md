@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-06 00:28:46 UTC`
+📆 Last Updated: `2023-02-06 01:44:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 2 | [Hebden Bridge](http://twitter.com/search?q=Hebden+Bridge) | N/A |
-| 3 | [Ekin-Su](http://twitter.com/search?q=Ekin-Su) | N/A |
-| 4 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
-| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 6 | [#NHS1000miles](http://twitter.com/search?q=%23NHS1000miles) | N/A |
-| 7 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 8 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Clare](http://twitter.com/search?q=Clare) | N/A |
-| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Jaffa Cakes](http://twitter.com/search?q=Jaffa+Cakes) | N/A |
-| 13 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 14 | [#OneOfOurOwn](http://twitter.com/search?q=%23OneOfOurOwn) | N/A |
-| 15 | [Poppy](http://twitter.com/search?q=Poppy) | N/A |
-| 16 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
-| 17 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 18 | [#fullmoon](http://twitter.com/search?q=%23fullmoon) | N/A |
-| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 20 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 21 | [#HappyValley](http://twitter.com/search?q=%23HappyValley) | #HappyValley is a hashtag used to refer to the city of State College, Pennsylvania, which is home to Penn State University. It is often used by locals and alumni of the university to express their pride in the city and its culture. |
-| 22 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 23 | [Sarah Lancashire](http://twitter.com/search?q=Sarah+Lancashire) | Sarah Lancashire is an English actress. She is best known for her roles in the television series Coronation Street, Happy Valley, Last Tango in Halifax, and the BBC drama series Clocking Off. |
-| 24 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 26 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
-| 27 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 28 | [James Norton](http://twitter.com/search?q=James+Norton) | James Norton is a British actor best known for his roles in the television series Happy Valley, Grantchester, and War & Peace. He has also appeared in films such as Belle, Rush, and Flatliners. The name James Norton is derived from the English given name James, which means "supplanter," and the surname Norton, which means "north town." |
-| 29 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 30 | [Sally Wainwright](http://twitter.com/search?q=Sally+Wainwright) | N/A |
-| 31 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 32 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
-| 33 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 34 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
-| 35 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 36 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
-| 37 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 38 | [Line of Duty](http://twitter.com/search?q=Line+of+Duty) | N/A |
-| 39 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 40 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
-| 41 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 42 | [Siobhan Finneran](http://twitter.com/search?q=Siobhan+Finneran) | N/A |
-| 43 | [Epsom College](http://twitter.com/search?q=Epsom+College) | N/A |
-| 44 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 45 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 46 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
-| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 48 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 49 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 50 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 1 | [#Spurs](http://twitter.com/search?q=%23Spurs) | N/A |
+| 2 | [Poppy](http://twitter.com/search?q=Poppy) | N/A |
+| 3 | [#NHS1000miles](http://twitter.com/search?q=%23NHS1000miles) | N/A |
+| 4 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 5 | [#OneOfOurOwn](http://twitter.com/search?q=%23OneOfOurOwn) | N/A |
+| 6 | [#fullmoon](http://twitter.com/search?q=%23fullmoon) | N/A |
+| 7 | [#HappyValley](http://twitter.com/search?q=%23HappyValley) | #HappyValley is a hashtag used to refer to the city of State College, Pennsylvania, which is home to Penn State University. It is often used by locals and alumni of the university to express their pride in the city and its culture. |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 10 | [Sarah Lancashire](http://twitter.com/search?q=Sarah+Lancashire) | Sarah Lancashire is an English actress. She is best known for her roles in the television series Coronation Street, Happy Valley, Last Tango in Halifax, and the BBC drama series Clocking Off. |
+| 11 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 12 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
+| 13 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 14 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 15 | [Sally Wainwright](http://twitter.com/search?q=Sally+Wainwright) | N/A |
+| 16 | [James Norton](http://twitter.com/search?q=James+Norton) | James Norton is a British actor best known for his roles in the television series Happy Valley, Grantchester, and War & Peace. He has also appeared in films such as Belle, Rush, and Flatliners. The name James Norton is derived from the English given name James, which means "supplanter," and the surname Norton, which means "north town." |
+| 17 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 19 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 20 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
+| 21 | [harry lambert](http://twitter.com/search?q=harry+lambert) | Harry Lambert is a British slang term used to describe someone who is very clumsy or awkward. It can also be used to describe someone who is not very good at something. |
+| 22 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
+| 23 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 24 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 25 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
+| 26 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 27 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
+| 28 | [Line of Duty](http://twitter.com/search?q=Line+of+Duty) | N/A |
+| 29 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 30 | [Epsom College](http://twitter.com/search?q=Epsom+College) | N/A |
+| 31 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 33 | [Siobhan Finneran](http://twitter.com/search?q=Siobhan+Finneran) | N/A |
+| 34 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 35 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 36 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [JADA](http://twitter.com/search?q=JADA) | JADA is an acronym for the Japanese Automobile Dealers Association. It is a trade organization that represents the interests of automobile dealers in Japan. The organization works to promote the development of the automotive industry in Japan and to ensure fair and equitable business practices among its members. |
+| 39 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 40 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 41 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 43 | [Leomie](http://twitter.com/search?q=Leomie) | N/A |
+| 44 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 45 | [Joanna](http://twitter.com/search?q=Joanna) | N/A |
+| 46 | [Sgt Cawood](http://twitter.com/search?q=Sgt+Cawood) | N/A |
+| 47 | [SOTY](http://twitter.com/search?q=SOTY) | N/A |
+| 48 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 49 | [Not Tom](http://twitter.com/search?q=Not+Tom) | N/A |
+| 50 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
 
 
 

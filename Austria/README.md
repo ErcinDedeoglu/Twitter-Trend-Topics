@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-06 00:29:30 UTC`
+📆 Last Updated: `2023-02-06 01:44:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 5 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
-| 6 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 7 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
-| 8 | [Gleichbehandlungskommission](http://twitter.com/search?q=Gleichbehandlungskommission) | N/A |
-| 9 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 5 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
+| 6 | [gleichbehandlungskommission](http://twitter.com/search?q=gleichbehandlungskommission) | N/A |
+| 7 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
+| 8 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 9 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
 | 10 | [#ASKSKA](http://twitter.com/search?q=%23ASKSKA) | N/A |
 | 11 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
 | 12 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 13 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
-| 14 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
+| 13 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
+| 14 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
 | 15 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
 | 16 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 17 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 18 | [wien energie](http://twitter.com/search?q=wien+energie) | N/A |
-| 19 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 18 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 20 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
 | 21 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 22 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 22 | [Talent](http://twitter.com/search?q=Talent) | N/A |
 | 23 | [Rand](http://twitter.com/search?q=Rand) | N/A |
 | 24 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
 | 25 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 26 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 26 | [Nachhinein](http://twitter.com/search?q=Nachhinein) | N/A |
 | 27 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
 | 28 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
-| 29 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 30 | [Landschaft](http://twitter.com/search?q=Landschaft) | N/A |
-| 31 | [Nachhinein](http://twitter.com/search?q=Nachhinein) | N/A |
-| 32 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
-| 33 | [Republik](http://twitter.com/search?q=Republik) | N/A |
-| 34 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
-| 35 | [Talent](http://twitter.com/search?q=Talent) | N/A |
-| 36 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 37 | [Salz](http://twitter.com/search?q=Salz) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [kurier](http://twitter.com/search?q=kurier) | N/A |
-| 40 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 41 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
-| 42 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 43 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 44 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
-| 45 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 46 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
-| 47 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 29 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
+| 30 | [Mond](http://twitter.com/search?q=Mond) | N/A |
+| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 32 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 33 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 34 | [Ansagen](http://twitter.com/search?q=Ansagen) | N/A |
+| 35 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
+| 36 | [kurier](http://twitter.com/search?q=kurier) | N/A |
+| 37 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 38 | [Salz](http://twitter.com/search?q=Salz) | N/A |
+| 39 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
+| 40 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 41 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 42 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
+| 43 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 44 | [Lebewesen](http://twitter.com/search?q=Lebewesen) | N/A |
+| 45 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 46 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
+| 47 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 48 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 49 | [Gürtel](http://twitter.com/search?q=G%c3%bcrtel) | N/A |
-| 50 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 49 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 50 | [Gürtel](http://twitter.com/search?q=G%c3%bcrtel) | N/A |
 
 
 

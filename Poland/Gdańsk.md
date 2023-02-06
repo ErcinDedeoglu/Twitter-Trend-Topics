@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-06 00:28:54 UTC`
+📆 Last Updated: `2023-02-06 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
-| 4 | [#lpomie](http://twitter.com/search?q=%23lpomie) | N/A |
-| 5 | [#POGŚLĄ](http://twitter.com/search?q=%23POG%c5%9aL%c4%84) | N/A |
-| 6 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 7 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
-| 8 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 10 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 11 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 12 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 13 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 14 | [Madrycie](http://twitter.com/search?q=Madrycie) | N/A |
-| 15 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 16 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 17 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 18 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 19 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 20 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 21 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
-| 22 | [dylan](http://twitter.com/search?q=dylan) | N/A |
-| 23 | [Busquetsa](http://twitter.com/search?q=Busquetsa) | N/A |
-| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 25 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 26 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
-| 27 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 28 | [Ferrana](http://twitter.com/search?q=Ferrana) | N/A |
-| 29 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 31 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 32 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 33 | [Bundeslidze](http://twitter.com/search?q=Bundeslidze) | N/A |
-| 34 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 35 | [Tottenhamu](http://twitter.com/search?q=Tottenhamu) | N/A |
-| 36 | [Budka](http://twitter.com/search?q=Budka) | N/A |
-| 37 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 38 | [Bayernowi](http://twitter.com/search?q=Bayernowi) | N/A |
-| 39 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 40 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 41 | [halvor egner granerud](http://twitter.com/search?q=halvor+egner+granerud) | N/A |
-| 42 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
-| 43 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
-| 44 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
-| 45 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
-| 46 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 47 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 48 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 49 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
-| 50 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 3 | [#lpomie](http://twitter.com/search?q=%23lpomie) | N/A |
+| 4 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
+| 5 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 6 | [#POGŚLĄ](http://twitter.com/search?q=%23POG%c5%9aL%c4%84) | N/A |
+| 7 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 8 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 9 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 10 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 11 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 12 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 13 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 14 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 16 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 17 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
+| 18 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 19 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 20 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 21 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 22 | [bundeslidze](http://twitter.com/search?q=bundeslidze) | N/A |
+| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 24 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 25 | [tottenhamu](http://twitter.com/search?q=tottenhamu) | N/A |
+| 26 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 27 | [bayernowi](http://twitter.com/search?q=bayernowi) | N/A |
+| 28 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 29 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 30 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
+| 31 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 32 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 33 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 34 | [halvor egner granerud](http://twitter.com/search?q=halvor+egner+granerud) | N/A |
+| 35 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 36 | [Mediolanu](http://twitter.com/search?q=Mediolanu) | N/A |
+| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 38 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 39 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 40 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
+| 41 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 42 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 43 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 45 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 46 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 47 | [strzałek](http://twitter.com/search?q=strza%c5%82ek) | N/A |
+| 48 | [kamila stocha](http://twitter.com/search?q=kamila+stocha) | N/A |
+| 49 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
+| 50 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-06 00:29:20 UTC`
+📆 Last Updated: `2023-02-06 01:44:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
-| 2 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 3 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 4 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
-| 5 | [Cimbom](http://twitter.com/search?q=Cimbom) | N/A |
-| 6 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
-| 7 | [Karda](http://twitter.com/search?q=Karda) | N/A |
-| 8 | [#FenereTransferYapın](http://twitter.com/search?q=%23FenereTransferYap%c4%b1n) | N/A |
-| 9 | [#KabinedenŞartsızEYT](http://twitter.com/search?q=%23Kabineden%c5%9earts%c4%b1zEYT) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [#fırtına](http://twitter.com/search?q=%23f%c4%b1rt%c4%b1na) | N/A |
-| 12 | [#kartatili](http://twitter.com/search?q=%23kartatili) | N/A |
-| 13 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 14 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 15 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 16 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 17 | [MutluSonsuz ElSed](http://twitter.com/search?q=MutluSonsuz+ElSed) | N/A |
-| 18 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 19 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 20 | [OlmazBuİş ElsedFiniş](http://twitter.com/search?q=OlmazBu%c4%b0%c5%9f+ElsedFini%c5%9f) | N/A |
-| 21 | [Olmazlaraİnat ElSed](http://twitter.com/search?q=Olmazlara%c4%b0nat+ElSed) | Olmazlaraİnat ElSed is a Turkish phrase that translates to "in spite of the impossible". It is often used as an expression of determination and resilience in the face of adversity. |
-| 22 | [Hızlı](http://twitter.com/search?q=H%c4%b1zl%c4%b1) | Hızlı is a Turkish word meaning "fast" or "quick". |
-| 23 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 24 | [YalancınınAdı YelizAçıkel](http://twitter.com/search?q=Yalanc%c4%b1n%c4%b1nAd%c4%b1+YelizA%c3%a7%c4%b1kel) | N/A |
-| 25 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 26 | [Kaptan](http://twitter.com/search?q=Kaptan) | N/A |
-| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 28 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 29 | [KesYalanı YelizYılanı](http://twitter.com/search?q=KesYalan%c4%b1+YelizY%c4%b1lan%c4%b1) | N/A |
-| 30 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 31 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 32 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
-| 33 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
-| 34 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 35 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
-| 36 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 37 | [KabinedeTaşerona KadroŞart](http://twitter.com/search?q=KabinedeTa%c5%9ferona+Kadro%c5%9eart) | N/A |
-| 38 | [Salı](http://twitter.com/search?q=Sal%c4%b1) | N/A |
-| 39 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 40 | [Serhat](http://twitter.com/search?q=Serhat) | N/A |
-| 41 | [SANDIKLARI PATLATACAĞIZ](http://twitter.com/search?q=SANDIKLARI+PATLATACA%c4%9eIZ) | N/A |
-| 42 | [Çatlak](http://twitter.com/search?q=%c3%87atlak) | N/A |
-| 43 | [Kırık](http://twitter.com/search?q=K%c4%b1r%c4%b1k) | N/A |
-| 44 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 45 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 46 | [Erden](http://twitter.com/search?q=Erden) | N/A |
-| 47 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 48 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 49 | [Tren](http://twitter.com/search?q=Tren) | N/A |
-| 50 | [Gbamin](http://twitter.com/search?q=Gbamin) | Gbamin is a Nigerian name derived from the Yoruba language. It means “Let us build” or “Let us create”. |
+| 1 | [#Malatya](http://twitter.com/search?q=%23Malatya) | N/A |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [#Icardi](http://twitter.com/search?q=%23Icardi) | #Icardi is a hashtag used to show support for the Argentinian professional footballer, Mauro Icardi. It is often used on social media platforms such as Twitter and Instagram. |
+| 4 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 5 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 6 | [Gençler](http://twitter.com/search?q=Gen%c3%a7ler) | N/A |
+| 7 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 8 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
+| 9 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | N/A |
+| 10 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 11 | [Elazığ](http://twitter.com/search?q=Elaz%c4%b1%c4%9f) | N/A |
+| 12 | [Tüm Türkiye](http://twitter.com/search?q=T%c3%bcm+T%c3%bcrkiye) | N/A |
+| 13 | [Uykudan](http://twitter.com/search?q=Uykudan) | N/A |
+| 14 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
+| 15 | [Kahramanmaraş](http://twitter.com/search?q=Kahramanmara%c5%9f) | N/A |
+| 16 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
+| 17 | [Beşik](http://twitter.com/search?q=Be%c5%9fik) | N/A |
+| 18 | [Sallanıyoruz](http://twitter.com/search?q=Sallan%c4%b1yoruz) | N/A |
+| 19 | [Nevşehir](http://twitter.com/search?q=Nev%c5%9fehir) | N/A |
+| 20 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 21 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 22 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [Aksaray](http://twitter.com/search?q=Aksaray) | N/A |
+| 25 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 26 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
+| 27 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 28 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 29 | [Bütün Türkiye](http://twitter.com/search?q=B%c3%bct%c3%bcn+T%c3%bcrkiye) | N/A |
+| 30 | [Trabzon'da](http://twitter.com/search?q=Trabzon%27da) | N/A |
+| 31 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 32 | [Bitlis](http://twitter.com/search?q=Bitlis) | N/A |
+| 33 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 34 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 35 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
+| 36 | [Aman Allahım](http://twitter.com/search?q=Aman+Allah%c4%b1m) | N/A |
+| 37 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 38 | [Ankarada](http://twitter.com/search?q=Ankarada) | N/A |
+| 39 | [Geçmiş Olsun](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f+Olsun) | N/A |
+| 40 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
+| 41 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 42 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 43 | [YalancınınAdı YelizAçıkel](http://twitter.com/search?q=Yalanc%c4%b1n%c4%b1nAd%c4%b1+YelizA%c3%a7%c4%b1kel) | N/A |
+| 44 | [Olmazlaraİnat ElSed](http://twitter.com/search?q=Olmazlara%c4%b0nat+ElSed) | Olmazlaraİnat ElSed is a Turkish phrase that translates to "in spite of the impossible". It is often used as an expression of determination and resilience in the face of adversity. |
+| 45 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 46 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 47 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 48 | [Hızlı](http://twitter.com/search?q=H%c4%b1zl%c4%b1) | Hızlı is a Turkish word meaning "fast" or "quick". |
+| 49 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
+| 50 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
 
 
 

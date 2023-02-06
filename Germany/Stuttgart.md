@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-06 00:28:57 UTC`
+📆 Last Updated: `2023-02-06 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Saison](http://twitter.com/search?q=Saison) | N/A |
 | 2 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
-| 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 5 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
 | 6 | [#VfBSVW](http://twitter.com/search?q=%23VfBSVW) | N/A |
-| 7 | [#sterntv](http://twitter.com/search?q=%23sterntv) | N/A |
-| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 9 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 10 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 12 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 14 | [Karat](http://twitter.com/search?q=Karat) | N/A |
-| 15 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 16 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
-| 17 | [Mobilitätsexpertin](http://twitter.com/search?q=Mobilit%c3%a4tsexpertin) | N/A |
+| 7 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
+| 8 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 9 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 11 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 12 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 13 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 14 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 15 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 16 | [Karat](http://twitter.com/search?q=Karat) | N/A |
+| 17 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
 | 18 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 19 | [Herr Dürr](http://twitter.com/search?q=Herr+D%c3%bcrr) | N/A |
-| 20 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 21 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
-| 22 | [Personal Fav](http://twitter.com/search?q=Personal+Fav) | N/A |
-| 23 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 24 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 25 | [dylan](http://twitter.com/search?q=dylan) | N/A |
-| 26 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 27 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 28 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 29 | [Thorsten Frei](http://twitter.com/search?q=Thorsten+Frei) | N/A |
-| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 19 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 20 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 21 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 23 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 25 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 26 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 28 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 30 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
 | 31 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 32 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 35 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
-| 36 | [Fahrtenbuch](http://twitter.com/search?q=Fahrtenbuch) | N/A |
-| 37 | [Schuldgefühle](http://twitter.com/search?q=Schuldgef%c3%bchle) | N/A |
-| 38 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 39 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 40 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 43 | [Anis Amri](http://twitter.com/search?q=Anis+Amri) | N/A |
-| 44 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
-| 45 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 46 | [Schlafanzug](http://twitter.com/search?q=Schlafanzug) | N/A |
-| 47 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
-| 48 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 49 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 50 | [Wimmer](http://twitter.com/search?q=Wimmer) | N/A |
+| 32 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 33 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
+| 34 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 35 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 36 | [SOTY](http://twitter.com/search?q=SOTY) | N/A |
+| 37 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 38 | [Anis Amri](http://twitter.com/search?q=Anis+Amri) | N/A |
+| 39 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 40 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 41 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 42 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 43 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 44 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 45 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 46 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 47 | [Schlafanzug](http://twitter.com/search?q=Schlafanzug) | N/A |
+| 48 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 49 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 50 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
 
 
 
