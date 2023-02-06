@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-06 15:15:21 UTC`
+📆 Last Updated: `2023-02-06 16:15:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,35 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 3 | [#Fischer](http://twitter.com/search?q=%23Fischer) | N/A |
-| 4 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
-| 5 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
-| 6 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 7 | [#Gendern](http://twitter.com/search?q=%23Gendern) | N/A |
-| 8 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 9 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 10 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 11 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 12 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 13 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
-| 14 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 15 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
-| 16 | [Pronomen](http://twitter.com/search?q=Pronomen) | N/A |
-| 17 | [individualverkehr](http://twitter.com/search?q=individualverkehr) | N/A |
-| 18 | [Mitgefühl](http://twitter.com/search?q=Mitgef%c3%bchl) | N/A |
-| 19 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 20 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 21 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
-| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 23 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 24 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 25 | [Valentinstag](http://twitter.com/search?q=Valentinstag) | N/A |
-| 26 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 27 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 28 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
-| 29 | [#Türkiye](http://twitter.com/search?q=%23T%c3%bcrkiye) | N/A |
-| 30 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
-| 31 | [#RicardaLang](http://twitter.com/search?q=%23RicardaLang) | N/A |
+| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
+| 8 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
+| 9 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 10 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 11 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 13 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 14 | [Hilfsorganisationen](http://twitter.com/search?q=Hilfsorganisationen) | N/A |
+| 15 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 16 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 17 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 18 | [Faxgerät](http://twitter.com/search?q=Faxger%c3%a4t) | N/A |
+| 19 | [Karat](http://twitter.com/search?q=Karat) | N/A |
+| 20 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 21 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 22 | [jahre afd](http://twitter.com/search?q=jahre+afd) | N/A |
+| 23 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 24 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 25 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 26 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 27 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
+| 28 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 29 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 30 | [Tauben](http://twitter.com/search?q=Tauben) | N/A |
+| 31 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 32 | [Christoph Daum](http://twitter.com/search?q=Christoph+Daum) | N/A |
+| 33 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 34 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 35 | [Koks](http://twitter.com/search?q=Koks) | N/A |
+| 36 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 40 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 41 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 42 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
+| 43 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 44 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
+| 45 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
+| 46 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 47 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 48 | [Koka](http://twitter.com/search?q=Koka) | N/A |
+| 49 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 50 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
 
 
 
