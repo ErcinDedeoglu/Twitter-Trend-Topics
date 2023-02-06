@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-06 10:16:53 UTC`
+📆 Last Updated: `2023-02-06 11:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
-| 2 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 3 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 4 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 6 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 7 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 10 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 11 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
-| 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 14 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 15 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 16 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 17 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 18 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 21 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 22 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 2 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
+| 3 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 4 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 5 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 6 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 7 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | #InterMilan is the hashtag used to refer to Inter Milan, an Italian professional football club based in Milan. The club is one of the most successful teams in Italy and Europe, having won 18 league titles, 7 Coppa Italia titles, and 3 UEFA Champions League titles. |
+| 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 9 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 10 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 13 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
+| 14 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 15 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 16 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 17 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 21 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 22 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
 | 23 | [rathgeb](http://twitter.com/search?q=rathgeb) | N/A |
 | 24 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 27 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 28 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
-| 29 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 30 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 31 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 32 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 33 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 34 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 35 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 36 | [Zurigo](http://twitter.com/search?q=Zurigo) | N/A |
-| 37 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 38 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 39 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 40 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 41 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 42 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 43 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 44 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 45 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 46 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 47 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 25 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 26 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 27 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
+| 28 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 29 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 30 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 31 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 32 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 33 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 34 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 35 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 36 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 37 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 38 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 39 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 40 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 42 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 43 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 44 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 45 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 46 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 47 | [Kater](http://twitter.com/search?q=Kater) | N/A |
 | 48 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 49 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 50 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 49 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 50 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
 
 
 
