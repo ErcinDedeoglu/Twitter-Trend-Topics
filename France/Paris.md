@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-06 20:15:38 UTC`
+📆 Last Updated: `2023-02-06 21:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
-| 2 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 3 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 1 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 2 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 3 | [#adp2023](http://twitter.com/search?q=%23adp2023) | N/A |
 | 4 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 5 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 6 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 7 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 8 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 9 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 10 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 11 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 12 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 13 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 14 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 15 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
-| 16 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 17 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 20 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
-| 21 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Gabriel Attal](http://twitter.com/search?q=Gabriel+Attal) | N/A |
-| 24 | [Upset](http://twitter.com/search?q=Upset) | N/A |
-| 25 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
-| 26 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 27 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 28 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 29 | [SAUR](http://twitter.com/search?q=SAUR) | N/A |
-| 30 | [Takeoff](http://twitter.com/search?q=Takeoff) | Takeoff is the action of an aircraft or other vehicle leaving the ground and beginning to fly. It is also used as a metaphor for the beginning of a new project or venture. |
-| 31 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 32 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 33 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 34 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 35 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 36 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 37 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 38 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 39 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 40 | [Stardew Valley](http://twitter.com/search?q=Stardew+Valley) | N/A |
-| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 42 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 43 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [The Witcher 3](http://twitter.com/search?q=The+Witcher+3) | N/A |
-| 46 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 47 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 48 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 49 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 50 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
+| 5 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 6 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 7 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
+| 8 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 9 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
+| 10 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 11 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 12 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 13 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 14 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 15 | [Pelissard](http://twitter.com/search?q=Pelissard) | N/A |
+| 16 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 17 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 18 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 19 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 20 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
+| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 22 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 23 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 24 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 25 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 26 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
+| 27 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 28 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 29 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 31 | [Attal](http://twitter.com/search?q=Attal) | N/A |
+| 32 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 33 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 34 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 35 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
+| 36 | [SAUR](http://twitter.com/search?q=SAUR) | N/A |
+| 37 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 38 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 39 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 40 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 41 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 42 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 43 | [Aurore](http://twitter.com/search?q=Aurore) | N/A |
+| 44 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 45 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 46 | [Stardew Valley](http://twitter.com/search?q=Stardew+Valley) | N/A |
+| 47 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 48 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 49 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 50 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 
 
 

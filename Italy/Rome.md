@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-06 20:15:41 UTC`
+📆 Last Updated: `2023-02-06 21:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,48 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 2 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 3 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 4 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
-| 5 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
-| 6 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 7 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 1 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 2 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 3 | [#Presadiretta](http://twitter.com/search?q=%23Presadiretta) | N/A |
+| 4 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
+| 5 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 6 | [#BlackOutLaSerie](http://twitter.com/search?q=%23BlackOutLaSerie) | N/A |
+| 7 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 8 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 9 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 10 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 11 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
-| 12 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 13 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 9 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 10 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 11 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 12 | [Andrea Delogu](http://twitter.com/search?q=Andrea+Delogu) | N/A |
+| 13 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
 | 14 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
-| 15 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 16 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 15 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 16 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
 | 17 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 18 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 19 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
-| 20 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 21 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 22 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 23 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 24 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
-| 25 | [#greencarpet](http://twitter.com/search?q=%23greencarpet) | N/A |
-| 26 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
-| 27 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 28 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 29 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
-| 30 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
-| 31 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 32 | [#MonzaSampdoria](http://twitter.com/search?q=%23MonzaSampdoria) | N/A |
-| 33 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 34 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 35 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 36 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
-| 37 | [#6Febbraio](http://twitter.com/search?q=%236Febbraio) | N/A |
-| 38 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
-| 39 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
-| 40 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
+| 18 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 19 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 20 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 21 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 22 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 23 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 24 | [Mio Dio](http://twitter.com/search?q=Mio+Dio) | N/A |
+| 25 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
+| 26 | [#BlackOutViteSospese](http://twitter.com/search?q=%23BlackOutViteSospese) | N/A |
+| 27 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
+| 28 | [#greencarpet](http://twitter.com/search?q=%23greencarpet) | N/A |
+| 29 | [#MonzaSampdoria](http://twitter.com/search?q=%23MonzaSampdoria) | N/A |
+| 30 | [#terremototurchia](http://twitter.com/search?q=%23terremototurchia) | N/A |
+| 31 | [#Elodie](http://twitter.com/search?q=%23Elodie) | N/A |
+| 32 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
+| 33 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 34 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 35 | [#redditodicittadinanza](http://twitter.com/search?q=%23redditodicittadinanza) | N/A |
+| 36 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 37 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 38 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 39 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
+| 40 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
+| 41 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
+| 42 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
 
 
 

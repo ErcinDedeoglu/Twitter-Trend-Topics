@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-06 20:15:53 UTC`
+📆 Last Updated: `2023-02-06 21:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
 | 11 | [SECC](http://twitter.com/search?q=SECC) | N/A |
 | 12 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 13 | [Đảng](http://twitter.com/search?q=%c4%90%e1%ba%a3ng) | N/A |
+| 13 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
 | 14 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
 | 15 | [LO QUE ERES ES HERMOSO](http://twitter.com/search?q=LO+QUE+ERES+ES+HERMOSO) | N/A |
 | 16 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 37 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
 | 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 39 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 40 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 41 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
-| 42 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 43 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 44 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
-| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 46 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 47 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 48 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
-| 49 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 50 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 40 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 41 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 42 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
+| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 45 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 46 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 47 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 48 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 49 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
+| 50 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 
 
 

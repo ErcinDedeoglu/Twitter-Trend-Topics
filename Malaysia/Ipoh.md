@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-02-06 20:15:51 UTC`
+📆 Last Updated: `2023-02-06 21:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 2 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 4 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
-| 5 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
-| 6 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 7 | [#Okay_BSS_Fighting](http://twitter.com/search?q=%23Okay_BSS_Fighting) | #Okay_BSS_Fighting is a hashtag used by fans of the South Korean girl group BSS (also known as Beyond the Scene or TXT). It is used to show support and encouragement for the group. In English, it means "Let's go BSS, fight!" |
+| 4 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 5 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
+| 6 | [#Okay_BSS_Fighting](http://twitter.com/search?q=%23Okay_BSS_Fighting) | #Okay_BSS_Fighting is a hashtag used by fans of the South Korean girl group BSS (also known as Beyond the Scene or TXT). It is used to show support and encouragement for the group. In English, it means "Let's go BSS, fight!" |
+| 7 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
 | 8 | [#큥_전역라이브_절찬상영중](http://twitter.com/search?q=%23%ed%81%a5_%ec%a0%84%ec%97%ad%eb%9d%bc%ec%9d%b4%eb%b8%8c_%ec%a0%88%ec%b0%ac%ec%83%81%ec%98%81%ec%a4%91) | "#큥_전역라이브_절찬상영중" is a hashtag used on social media to promote the live streaming of a Korean movie called "큥 (Keuk)". The hashtag translates to "Keuk military discharge live streaming now". |
 | 9 | [Happy Thaipusam](http://twitter.com/search?q=Happy+Thaipusam) | N/A |
 | 10 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
@@ -34,7 +34,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 18 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 19 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 20 | [Taecyeon](http://twitter.com/search?q=Taecyeon) | N/A |
+| 20 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
 | 21 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
 | 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -47,22 +47,22 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 30 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
 | 31 | [Pewds](http://twitter.com/search?q=Pewds) | N/A |
 | 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 33 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 34 | [its bss fighting day](http://twitter.com/search?q=its+bss+fighting+day) | N/A |
-| 35 | [chap goh](http://twitter.com/search?q=chap+goh) | N/A |
-| 36 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 37 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 38 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 40 | [Band of Brothers](http://twitter.com/search?q=Band+of+Brothers) | N/A |
-| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 43 | [Arin](http://twitter.com/search?q=Arin) | N/A |
+| 33 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
+| 34 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
+| 35 | [its bss fighting day](http://twitter.com/search?q=its+bss+fighting+day) | N/A |
+| 36 | [chap goh](http://twitter.com/search?q=chap+goh) | N/A |
+| 37 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 38 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 39 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 40 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 41 | [Band of Brothers](http://twitter.com/search?q=Band+of+Brothers) | N/A |
+| 42 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 43 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
 | 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 45 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 46 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
-| 47 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 48 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 45 | [Arin](http://twitter.com/search?q=Arin) | N/A |
+| 46 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 47 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 48 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 
 
 

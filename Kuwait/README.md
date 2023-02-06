@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-06 20:16:18 UTC`
+📆 Last Updated: `2023-02-06 21:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,30 +15,56 @@ This is top 50 for Kuwait
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#العربي_السالميه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 2 | [#نهايي_كاس_سمو_ولي_العهد](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%b3%d9%85%d9%88_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 3 | [#نهايي_كاس_سمو_ولي_العهد](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%b3%d9%85%d9%88_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 4 | [#زلزال_تركيا_سوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 5 | [الامه العرباويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 6 | [سليمان عبدالغفور](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ba%d9%81%d9%88%d8%b1) | سليمان عبدالغفور is an Arabic name which translates to Solomon Abdulghafoor in English. It is a combination of two names, Solomon and Abdulghafoor, which mean "peaceful servant of the All-Forgiving". |
-| 7 | [الزعيم العرباوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a) | N/A |
-| 8 | [#دكه_العبيد_يخدش_الحيا](http://twitter.com/search?q=%23%d8%af%d9%83%d9%87_%d8%a7%d9%84%d8%b9%d8%a8%d9%8a%d8%af_%d9%8a%d8%ae%d8%af%d8%b4_%d8%a7%d9%84%d8%ad%d9%8a%d8%a7) | N/A |
-| 9 | [المره التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
-| 10 | [زعيم الكره الكويتيه](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
-| 11 | [القلعه الخضراء](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%84%d8%b9%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
-| 12 | [جمعه عبود](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%b9%d8%a8%d9%88%d8%af) | N/A |
-| 13 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 14 | [الزلزال المدمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1) | N/A |
-| 15 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
-| 16 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 17 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 18 | [#عاملي_وزاره_الكهربا](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85%d9%84%d9%8a_%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | N/A |
-| 19 | [#يازينب](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
-| 20 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
-| 21 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 22 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 23 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
-| 24 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 1 | [#زلزال_تركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 2 | [#العربي_السالميه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 3 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 4 | [#نهايي_كاس_سمو_ولي_العهد](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%b3%d9%85%d9%88_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 5 | [#غدير_البرجس](http://twitter.com/search?q=%23%d8%ba%d8%af%d9%8a%d8%b1_%d8%a7%d9%84%d8%a8%d8%b1%d8%ac%d8%b3) | N/A |
+| 6 | [الامه العرباويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 7 | [سليمان عبدالغفور](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ba%d9%81%d9%88%d8%b1) | سليمان عبدالغفور is an Arabic name which translates to Solomon Abdulghafoor in English. It is a combination of two names, Solomon and Abdulghafoor, which mean "peaceful servant of the All-Forgiving". |
+| 8 | [المره التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
+| 9 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 10 | [جمعه عبود](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%b9%d8%a8%d9%88%d8%af) | N/A |
+| 11 | [زعيم الكره الكويتيه](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 12 | [القلعه الخضراء](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%84%d8%b9%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
+| 13 | [عبدالعزيز عاشور](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
+| 14 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 15 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 16 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 17 | [كاس الامير](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
+| 18 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 19 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 20 | [الانديه الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 21 | [جمعه سعيد](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 22 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 23 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 24 | [حسن حمدان](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
+| 25 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [النشر الحاجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%b1+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac%d9%87) | N/A |
+| 27 | [سيف الحشان](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ad%d8%b4%d8%a7%d9%86) | N/A |
+| 28 | [الاحتفاليه المصاحبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%81%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%ad%d8%a8%d9%87) | N/A |
+| 29 | [الجمعيات الخيريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 30 | [عون المحتاجين](http://twitter.com/search?q=%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d8%ac%d9%8a%d9%86) | N/A |
+| 31 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 32 | [جيب الكاس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%83%d8%a7%d8%b3) | N/A |
+| 33 | [الهلال الاحمر الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 34 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 35 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 36 | [المصاب الجلل](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d9%84) | N/A |
+| 37 | [اللهم اللطف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d9%84%d8%b7%d9%81) | N/A |
+| 38 | [يابو احمد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 39 | [سلم اللهم](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 40 | [خليل البلوشي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
+| 41 | [استاد جابر](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 42 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 43 | [وزارة الكهرباء](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1) | N/A |
+| 44 | [احمد العلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 45 | [الاعمال الشاقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b4%d8%a7%d9%82%d9%87) | N/A |
+| 46 | [نواف الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 47 | [امير البلاد الشيخ](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 48 | [جهاز الامن الوطني](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 49 | [ساير الجسد](http://twitter.com/search?q=%d8%b3%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%b3%d8%af) | N/A |
+| 50 | [رييس مجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
 
 
 
