@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-06 18:16:03 UTC`
+📆 Last Updated: `2023-02-06 19:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,31 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 2 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 3 | [#HBD_WaseemBadami](http://twitter.com/search?q=%23HBD_WaseemBadami) | N/A |
-| 4 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
-| 5 | [#گھٹیا_بدزبان_مریم_نواز](http://twitter.com/search?q=%23%da%af%da%be%d9%b9%db%8c%d8%a7_%d8%a8%d8%af%d8%b2%d8%a8%d8%a7%d9%86_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
-| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 2 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 3 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 4 | [#HBD_WaseemBadami](http://twitter.com/search?q=%23HBD_WaseemBadami) | N/A |
+| 5 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 6 | [#مہنگائی_شٹرڈاؤن_ہڑتال](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%d8%b4%d9%b9%d8%b1%da%88%d8%a7%d8%a4%d9%86_%db%81%da%91%d8%aa%d8%a7%d9%84) | N/A |
 | 7 | [Another 7.5](http://twitter.com/search?q=Another+7.5) | N/A |
-| 8 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 8 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
 | 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 10 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
-| 11 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 12 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 13 | [#منظورپشتین_اپنابچہ](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b8%d9%88%d8%b1%d9%be%d8%b4%d8%aa%db%8c%d9%86_%d8%a7%d9%be%d9%86%d8%a7%d8%a8%da%86%db%81) | N/A |
-| 14 | [#پاکستان_کا_مقدر_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%a9%d8%a7_%d9%85%d9%82%d8%af%d8%b1_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 15 | [#ManzoorPashteenOurPride](http://twitter.com/search?q=%23ManzoorPashteenOurPride) | N/A |
-| 16 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
-| 17 | [#هزة_أرضية](http://twitter.com/search?q=%23%d9%87%d8%b2%d8%a9_%d8%a3%d8%b1%d8%b6%d9%8a%d8%a9) | N/A |
-| 18 | [#ShahadatBibiZainab](http://twitter.com/search?q=%23ShahadatBibiZainab) | N/A |
-| 19 | [#شہادت_ثانی_زہراءؑ](http://twitter.com/search?q=%23%d8%b4%db%81%d8%a7%d8%af%d8%aa_%d8%ab%d8%a7%d9%86%db%8c_%d8%b2%db%81%d8%b1%d8%a7%d8%a1%d8%91) | N/A |
-| 20 | [#ReopenPublicLibraryTurbat](http://twitter.com/search?q=%23ReopenPublicLibraryTurbat) | N/A |
-| 21 | [#کہوٹہ_کےجنگلات_بچاؤ](http://twitter.com/search?q=%23%da%a9%db%81%d9%88%d9%b9%db%81_%da%a9%db%92%d8%ac%d9%86%da%af%d9%84%d8%a7%d8%aa_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
-| 22 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 23 | [#Rupee](http://twitter.com/search?q=%23Rupee) | N/A |
-| 24 | [#PakistanBankrupt](http://twitter.com/search?q=%23PakistanBankrupt) | N/A |
-| 25 | [#WeStandwithShabazGill](http://twitter.com/search?q=%23WeStandwithShabazGill) | N/A |
+| 10 | [Happy Birthday WB](http://twitter.com/search?q=Happy+Birthday+WB) | N/A |
+| 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 14 | [Allah o Akbar](http://twitter.com/search?q=Allah+o+Akbar) | N/A |
+| 15 | [Daughter of Ali](http://twitter.com/search?q=Daughter+of+Ali) | N/A |
+| 16 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 17 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 18 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 19 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 20 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 21 | [Broo](http://twitter.com/search?q=Broo) | N/A |
+| 22 | [Jabal As Sabar](http://twitter.com/search?q=Jabal+As+Sabar) | N/A |
+| 23 | [Hussain](http://twitter.com/search?q=Hussain) | N/A |
+| 24 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 25 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 26 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 27 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
+| 28 | [Brothers](http://twitter.com/search?q=Brothers) | N/A |
+| 29 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 30 | [May Almighty](http://twitter.com/search?q=May+Almighty) | N/A |
+| 31 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 32 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 33 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 34 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 35 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 36 | [PM Shehbaz](http://twitter.com/search?q=PM+Shehbaz) | N/A |
+| 37 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 38 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 39 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 40 | [Pakistan and India](http://twitter.com/search?q=Pakistan+and+India) | N/A |
+| 41 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 42 | [Javed Miandad](http://twitter.com/search?q=Javed+Miandad) | N/A |
+| 43 | [May the Almighty](http://twitter.com/search?q=May+the+Almighty) | N/A |
+| 44 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
+| 45 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 46 | [Stay Happy](http://twitter.com/search?q=Stay+Happy) | N/A |
+| 47 | [Allah Kareem](http://twitter.com/search?q=Allah+Kareem) | N/A |
+| 48 | [Itni](http://twitter.com/search?q=Itni) | N/A |
+| 49 | [Ummm](http://twitter.com/search?q=Ummm) | N/A |
+| 50 | [Mere](http://twitter.com/search?q=Mere) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-06 18:15:43 UTC`
+📆 Last Updated: `2023-02-06 19:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,43 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 2 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 3 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
-| 4 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 5 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 1 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 2 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 3 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
+| 4 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 5 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
 | 6 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 7 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 8 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 9 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 10 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
-| 11 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 12 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 13 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 7 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 8 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 9 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 10 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 11 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 13 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
 | 14 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 15 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
+| 15 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
 | 16 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 17 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 18 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 19 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
+| 17 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 18 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 19 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
 | 20 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 21 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 22 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
-| 23 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
-| 24 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 25 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 26 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 27 | [#lidomengoni](http://twitter.com/search?q=%23lidomengoni) | N/A |
-| 28 | [#Elodie](http://twitter.com/search?q=%23Elodie) | N/A |
-| 29 | [#6Febbraio](http://twitter.com/search?q=%236Febbraio) | N/A |
-| 30 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 31 | [#OggièUnAltroGiorno](http://twitter.com/search?q=%23Oggi%c3%a8UnAltroGiorno) | N/A |
-| 32 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
-| 33 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
-| 34 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 35 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
+| 21 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 22 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 23 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 24 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 25 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
+| 26 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 27 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 28 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 29 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 30 | [#lidomengoni](http://twitter.com/search?q=%23lidomengoni) | N/A |
+| 31 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 32 | [#6Febbraio](http://twitter.com/search?q=%236Febbraio) | N/A |
+| 33 | [#OggièUnAltroGiorno](http://twitter.com/search?q=%23Oggi%c3%a8UnAltroGiorno) | N/A |
+| 34 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 35 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
+| 36 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
+| 37 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
 
 
 

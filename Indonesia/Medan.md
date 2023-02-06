@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-06 18:15:47 UTC`
+📆 Last Updated: `2023-02-06 19:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
-| 2 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
-| 3 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 4 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 5 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 6 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 7 | [Aku NU](http://twitter.com/search?q=Aku+NU) | N/A |
+| 1 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 2 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 3 | [#Okay_BSS_Fighting](http://twitter.com/search?q=%23Okay_BSS_Fighting) | #Okay_BSS_Fighting is a hashtag used by fans of the South Korean girl group BSS (also known as Beyond the Scene or TXT). It is used to show support and encouragement for the group. In English, it means "Let's go BSS, fight!" |
+| 4 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
+| 5 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 6 | [army battle party](http://twitter.com/search?q=army+battle+party) | N/A |
+| 7 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
 | 8 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 9 | [Aku PKB](http://twitter.com/search?q=Aku+PKB) | N/A |
-| 10 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 11 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 13 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 14 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 15 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 16 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 18 | [Sophia Latjuba](http://twitter.com/search?q=Sophia+Latjuba) | N/A |
-| 19 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 9 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 10 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 11 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
+| 12 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 13 | [BRImo](http://twitter.com/search?q=BRImo) | N/A |
+| 14 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 15 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 16 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 17 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 18 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 19 | [Sophia Latjuba](http://twitter.com/search?q=Sophia+Latjuba) | N/A |
 | 20 | [Sebelahan](http://twitter.com/search?q=Sebelahan) | N/A |
-| 21 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [BRImo](http://twitter.com/search?q=BRImo) | N/A |
-| 24 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 25 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 26 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 27 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
-| 28 | [#IndonesianIdol](http://twitter.com/search?q=%23IndonesianIdol) | N/A |
-| 29 | [#おたおめゆーくん2023](http://twitter.com/search?q=%23%e3%81%8a%e3%81%9f%e3%81%8a%e3%82%81%e3%82%86%e3%83%bc%e3%81%8f%e3%82%932023) | N/A |
-| 30 | [#유마_열아홉번째_생일이다요](http://twitter.com/search?q=%23%ec%9c%a0%eb%a7%88_%ec%97%b4%ec%95%84%ed%99%89%eb%b2%88%ec%a7%b8_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%8b%a4%ec%9a%94) | N/A |
-| 31 | [#해찬이와시즈니](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%ec%9d%b4%ec%99%80%ec%8b%9c%ec%a6%88%eb%8b%88) | #해찬이와시즈니 is a hashtag used by fans of the South Korean singer and actor Haechan, who is a member of the K-pop group NCT. The hashtag translates to "Haechan and Cisney," which is a combination of Haechan's name and the English word "cisney," which is a portmanteau of "cute" and "Disney." |
-| 32 | [#ProfBAEKHYUNLecture](http://twitter.com/search?q=%23ProfBAEKHYUNLecture) | #ProfBAEKHYUNLecture is a hashtag used to promote a lecture series by Professor Baekhyun, a South Korean professor of economics. The hashtag is used to promote the lecture series and to encourage people to attend. |
-| 33 | [#HAPPY_YUMA_DAY](http://twitter.com/search?q=%23HAPPY_YUMA_DAY) | N/A |
-| 34 | [#JISOOxCartierBeautésDuMonde](http://twitter.com/search?q=%23JISOOxCartierBeaut%c3%a9sDuMonde) | #JISOOxCartierBeautésDuMonde is a hashtag used to promote the collaboration between South Korean singer Jisoo and French luxury jewelry brand Cartier. The hashtag translates to "Jisoo x Cartier Beauties of the World" in English. |
-| 35 | [#큥_전역라이브_절찬상영중](http://twitter.com/search?q=%23%ed%81%a5_%ec%a0%84%ec%97%ad%eb%9d%bc%ec%9d%b4%eb%b8%8c_%ec%a0%88%ec%b0%ac%ec%83%81%ec%98%81%ec%a4%91) | "#큥_전역라이브_절찬상영중" is a hashtag used on social media to promote the live streaming of a Korean movie called "큥 (Keuk)". The hashtag translates to "Keuk military discharge live streaming now". |
-| 36 | [#큥선생님_애정강화특강_개강](http://twitter.com/search?q=%23%ed%81%a5%ec%84%a0%ec%83%9d%eb%8b%98_%ec%95%a0%ec%a0%95%ea%b0%95%ed%99%94%ed%8a%b9%ea%b0%95_%ea%b0%9c%ea%b0%95) | "#큥선생님_애정강화특강_개강" is a hashtag used on social media in South Korea. It translates to "Love Enhancement Special Lecture by Teacher Kuk Opening". It is used to promote a special lecture series by a popular South Korean teacher, Kuk, which focuses on strengthening relationships and love. |
-| 37 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 38 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 39 | [#일타강사_큥선생님_수강신청완료](http://twitter.com/search?q=%23%ec%9d%bc%ed%83%80%ea%b0%95%ec%82%ac_%ed%81%a5%ec%84%a0%ec%83%9d%eb%8b%98_%ec%88%98%ea%b0%95%ec%8b%a0%ec%b2%ad%ec%99%84%eb%a3%8c) | "#일타강사_큥선생님_수강신청완료" is a hashtag used on social media to indicate that someone has completed their enrollment for a class with the instructor "큥선생님". In English, it would be translated as "#EnrollmentComplete_InstructorKeunSeonsaengnim". |
-| 40 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 41 | [#SatuAbadNU](http://twitter.com/search?q=%23SatuAbadNU) | N/A |
-| 42 | [#GiTalk](http://twitter.com/search?q=%23GiTalk) | N/A |
-| 43 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
-| 44 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
-| 45 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
-| 46 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
-| 47 | [#JUNKYU](http://twitter.com/search?q=%23JUNKYU) | N/A |
-| 48 | [#SaldoKaget](http://twitter.com/search?q=%23SaldoKaget) | N/A |
-| 49 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 21 | [THE BOYZ ROAR D-13](http://twitter.com/search?q=THE+BOYZ+ROAR+D-13) | N/A |
+| 22 | [NCT SEHUN](http://twitter.com/search?q=NCT+SEHUN) | N/A |
+| 23 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
+| 24 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 25 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 26 | [Aku NU](http://twitter.com/search?q=Aku+NU) | N/A |
+| 27 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 28 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 29 | [Aku PKB](http://twitter.com/search?q=Aku+PKB) | N/A |
+| 30 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
+| 31 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 32 | [Path](http://twitter.com/search?q=Path) | N/A |
+| 33 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 34 | [Berhadapan](http://twitter.com/search?q=Berhadapan) | N/A |
+| 35 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
+| 36 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 40 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 41 | [BTS OUR PRIDE](http://twitter.com/search?q=BTS+OUR+PRIDE) | N/A |
+| 42 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
+| 43 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 44 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
+| 45 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 46 | [Sawi](http://twitter.com/search?q=Sawi) | N/A |
+| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 48 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 49 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
 
 
 
