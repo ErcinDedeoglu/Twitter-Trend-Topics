@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-06 16:15:30 UTC`
+📆 Last Updated: `2023-02-06 17:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 2 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 8 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 9 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 10 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 11 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 12 | [Hilfsorganisationen](http://twitter.com/search?q=Hilfsorganisationen) | N/A |
-| 13 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 14 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 15 | [Faxgerät](http://twitter.com/search?q=Faxger%c3%a4t) | N/A |
-| 16 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 17 | [Karat](http://twitter.com/search?q=Karat) | N/A |
-| 18 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 20 | [jahre afd](http://twitter.com/search?q=jahre+afd) | N/A |
-| 21 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 22 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 23 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
-| 24 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 25 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
-| 26 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 27 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 28 | [Tauben](http://twitter.com/search?q=Tauben) | N/A |
-| 29 | [Christoph Daum](http://twitter.com/search?q=Christoph+Daum) | N/A |
-| 30 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
-| 31 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
-| 32 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 33 | [Koks](http://twitter.com/search?q=Koks) | N/A |
-| 34 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
-| 35 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 36 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
-| 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 38 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 39 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 40 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
-| 41 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 42 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 43 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
-| 44 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
-| 45 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
-| 46 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 47 | [Koka](http://twitter.com/search?q=Koka) | N/A |
-| 48 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 49 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 8 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 9 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 10 | [Koks](http://twitter.com/search?q=Koks) | N/A |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 13 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 14 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 15 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 16 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 17 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 18 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 19 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 20 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 21 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 22 | [Kipppunkte](http://twitter.com/search?q=Kipppunkte) | N/A |
+| 23 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
+| 24 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 25 | ["Karat"](http://twitter.com/search?q=%22Karat%22) | N/A |
+| 26 | [Hilfsorganisationen](http://twitter.com/search?q=Hilfsorganisationen) | N/A |
+| 27 | [Koka](http://twitter.com/search?q=Koka) | N/A |
+| 28 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 29 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 30 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 31 | [Faxgerät](http://twitter.com/search?q=Faxger%c3%a4t) | N/A |
+| 32 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 33 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
+| 34 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 35 | [Tauben](http://twitter.com/search?q=Tauben) | N/A |
+| 36 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 37 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 38 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 39 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 40 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
+| 41 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 42 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 43 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 44 | [Christoph Daum](http://twitter.com/search?q=Christoph+Daum) | N/A |
+| 45 | [Indexmieten](http://twitter.com/search?q=Indexmieten) | N/A |
+| 46 | [Patientinnen](http://twitter.com/search?q=Patientinnen) | N/A |
+| 47 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 48 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 49 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 
 
 

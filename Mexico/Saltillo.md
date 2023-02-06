@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-06 16:15:21 UTC`
+📆 Last Updated: `2023-02-06 17:15:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,36 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 3 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 6 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 7 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 8 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 9 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 10 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 11 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 12 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | #AttackOnBangtanToNo1 is a hashtag used by fans of the South Korean boy band BTS to promote their music and help them reach the top of the music charts. The phrase "Attack on Bangtan" is a play on words, combining the words "attack" and "Bangtan," which is the name of BTS's fan club. The hashtag is used to encourage fans to stream and purchase BTS's music in order to help them reach number one on various music charts. |
-| 13 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
-| 14 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 15 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 16 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 17 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 18 | [#granfinalexatlón](http://twitter.com/search?q=%23granfinalexatl%c3%b3n) | N/A |
-| 19 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 20 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 21 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 22 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 23 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 24 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 25 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 26 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 27 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 28 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 29 | [Carta Magna](http://twitter.com/search?q=Carta+Magna) | N/A |
-| 30 | [FOCUS ON BTS](http://twitter.com/search?q=FOCUS+ON+BTS) | N/A |
-| 31 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 32 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 33 | [Song of the Year](http://twitter.com/search?q=Song+of+the+Year) | Song of the Year is an award given to a songwriter or artist for having the best song of the year. It is usually awarded by music industry organizations such as the Recording Industry Association of America (RIAA) or the British Phonographic Industry (BPI). The award recognizes the artist's creative and commercial success in their respective genre. |
-| 34 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 35 | [BTS OUR PRIDE](http://twitter.com/search?q=BTS+OUR+PRIDE) | N/A |
-| 36 | [campeonato velocijumper](http://twitter.com/search?q=campeonato+velocijumper) | N/A |
-| 37 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
-| 38 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
-| 39 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 40 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 41 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
-| 42 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 43 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 44 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
-| 45 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
-| 46 | [Steve Lacy](http://twitter.com/search?q=Steve+Lacy) | Steve Lacy is an American musician, singer, songwriter, and producer. He is best known as a member of the Grammy Award-winning band The Internet and for his solo work. He has also collaborated with artists such as Kendrick Lamar, Solange, and Vampire Weekend. His music combines elements of jazz, funk, soul, hip hop, and electronic music. |
-| 47 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 48 | [Maíz](http://twitter.com/search?q=Ma%c3%adz) | N/A |
-| 49 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 5 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 6 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 7 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 8 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
+| 9 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 10 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 11 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 12 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 13 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
+| 14 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
+| 15 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 16 | [Bob Marley](http://twitter.com/search?q=Bob+Marley) | N/A |
+| 17 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 19 | [Protocolo](http://twitter.com/search?q=Protocolo) | N/A |
+| 20 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
+| 21 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 22 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 23 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
+| 24 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 25 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 26 | [Poderes](http://twitter.com/search?q=Poderes) | N/A |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 29 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 30 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 31 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 32 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 33 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 34 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 
 
 

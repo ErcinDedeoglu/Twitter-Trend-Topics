@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-06 16:15:26 UTC`
+📆 Last Updated: `2023-02-06 17:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
 | 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 4 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
-| 5 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
-| 6 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 7 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 9 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 10 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 11 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
-| 12 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 13 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 14 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
-| 15 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
-| 16 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 17 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
-| 18 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 19 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 20 | [#JISOOxCartierBeautésDuMonde](http://twitter.com/search?q=%23JISOOxCartierBeaut%c3%a9sDuMonde) | #JISOOxCartierBeautésDuMonde is a hashtag used to promote the collaboration between South Korean singer Jisoo and French luxury jewelry brand Cartier. The hashtag translates to "Jisoo x Cartier Beauties of the World" in English. |
-| 21 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 22 | [Policial](http://twitter.com/search?q=Policial) | N/A |
-| 23 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
-| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 25 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
-| 26 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 27 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 28 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 29 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 30 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
-| 31 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 32 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 33 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
-| 34 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 35 | [Baía de Guanabara](http://twitter.com/search?q=Ba%c3%ada+de+Guanabara) | N/A |
-| 36 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 38 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 40 | [Iberê](http://twitter.com/search?q=Iber%c3%aa) | N/A |
-| 41 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
-| 42 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 43 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 45 | [O Grammy](http://twitter.com/search?q=O+Grammy) | N/A |
-| 46 | [O PM](http://twitter.com/search?q=O+PM) | N/A |
-| 47 | [Desarmado](http://twitter.com/search?q=Desarmado) | N/A |
-| 48 | [Revelação](http://twitter.com/search?q=Revela%c3%a7%c3%a3o) | N/A |
-| 49 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
+| 3 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 4 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 5 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 6 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 7 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 8 | [FELIPE NETO VOLTOU](http://twitter.com/search?q=FELIPE+NETO+VOLTOU) | N/A |
+| 9 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 10 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 11 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 12 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 13 | [Zé Elias](http://twitter.com/search?q=Z%c3%a9+Elias) | N/A |
+| 14 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 15 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
+| 16 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 17 | [Terremoto](http://twitter.com/search?q=Terremoto) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 20 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 21 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 22 | [Super Chico](http://twitter.com/search?q=Super+Chico) | N/A |
+| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 24 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
+| 25 | [#ForaCezar](http://twitter.com/search?q=%23ForaCezar) | N/A |
+| 26 | [Duracell](http://twitter.com/search?q=Duracell) | N/A |
+| 27 | [Renova](http://twitter.com/search?q=Renova) | N/A |
+| 28 | [Policial](http://twitter.com/search?q=Policial) | N/A |
+| 29 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 30 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
+| 31 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 32 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
+| 33 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 34 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 35 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
+| 36 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
+| 37 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
+| 38 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 39 | [Paulo André](http://twitter.com/search?q=Paulo+Andr%c3%a9) | N/A |
+| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 41 | [Cebola](http://twitter.com/search?q=Cebola) | N/A |
+| 42 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 43 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 44 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 45 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 46 | [Baía de Guanabara](http://twitter.com/search?q=Ba%c3%ada+de+Guanabara) | N/A |
+| 47 | [#JISOOxCartierBeautésDuMonde](http://twitter.com/search?q=%23JISOOxCartierBeaut%c3%a9sDuMonde) | #JISOOxCartierBeautésDuMonde is a hashtag used to promote the collaboration between South Korean singer Jisoo and French luxury jewelry brand Cartier. The hashtag translates to "Jisoo x Cartier Beauties of the World" in English. |
+| 48 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 49 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
 
 
 

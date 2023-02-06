@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-06 16:15:56 UTC`
+📆 Last Updated: `2023-02-06 17:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Allahsız](http://twitter.com/search?q=Allahs%c4%b1z) | N/A |
-| 2 | [#PAZARCIK](http://twitter.com/search?q=%23PAZARCIK) | N/A |
-| 3 | [Suriye](http://twitter.com/search?q=Suriye) | N/A |
-| 4 | [Bina](http://twitter.com/search?q=Bina) | N/A |
-| 5 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 6 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 7 | [Marmara](http://twitter.com/search?q=Marmara) | N/A |
-| 8 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 10 | [Arkadaşlar](http://twitter.com/search?q=Arkada%c5%9flar) | N/A |
-| 11 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 12 | [#Osmaniye](http://twitter.com/search?q=%23Osmaniye) | N/A |
-| 13 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
-| 14 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
-| 15 | [Dualarımız](http://twitter.com/search?q=Dualar%c4%b1m%c4%b1z) | N/A |
-| 16 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 17 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
-| 18 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
-| 19 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 20 | [Yollar](http://twitter.com/search?q=Yollar) | N/A |
-| 21 | [Cebrail Mah](http://twitter.com/search?q=Cebrail+Mah) | N/A |
-| 22 | [Gölcük](http://twitter.com/search?q=G%c3%b6lc%c3%bck) | N/A |
-| 23 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
-| 24 | [Başın](http://twitter.com/search?q=Ba%c5%9f%c4%b1n) | N/A |
-| 25 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
-| 26 | [Vurun](http://twitter.com/search?q=Vurun) | N/A |
-| 27 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 28 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 29 | [Kansız](http://twitter.com/search?q=Kans%c4%b1z) | N/A |
-| 30 | [Arkadaşımın](http://twitter.com/search?q=Arkada%c5%9f%c4%b1m%c4%b1n) | N/A |
+| 1 | [Arama](http://twitter.com/search?q=Arama) | N/A |
+| 2 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 3 | [Yollar](http://twitter.com/search?q=Yollar) | N/A |
+| 4 | [Cebrail](http://twitter.com/search?q=Cebrail) | N/A |
+| 5 | [Allahsız](http://twitter.com/search?q=Allahs%c4%b1z) | N/A |
+| 6 | [Ahlaksız](http://twitter.com/search?q=Ahlaks%c4%b1z) | N/A |
+| 7 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 8 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 9 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 10 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
+| 11 | [Göçük](http://twitter.com/search?q=G%c3%b6%c3%a7%c3%bck) | N/A |
+| 12 | [4 No](http://twitter.com/search?q=4+No) | N/A |
+| 13 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
+| 14 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 15 | [Japonya](http://twitter.com/search?q=Japonya) | N/A |
+| 16 | [Ailesi](http://twitter.com/search?q=Ailesi) | N/A |
+| 17 | [Dualarımız](http://twitter.com/search?q=Dualar%c4%b1m%c4%b1z) | N/A |
+| 18 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
+| 19 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
+| 20 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 21 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 22 | [#Enkaz](http://twitter.com/search?q=%23Enkaz) | N/A |
+| 23 | [Sela](http://twitter.com/search?q=Sela) | N/A |
+| 24 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 25 | [Yağma](http://twitter.com/search?q=Ya%c4%9fma) | N/A |
+| 26 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 27 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 28 | [Vurun](http://twitter.com/search?q=Vurun) | N/A |
+| 29 | [Başın](http://twitter.com/search?q=Ba%c5%9f%c4%b1n) | N/A |
+| 30 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
 | 31 | [Randevu](http://twitter.com/search?q=Randevu) | N/A |
-| 32 | [Battaniye](http://twitter.com/search?q=Battaniye) | N/A |
-| 33 | [Yağma](http://twitter.com/search?q=Ya%c4%9fma) | N/A |
-| 34 | [TSK'ya](http://twitter.com/search?q=TSK%27ya) | N/A |
-| 35 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
-| 36 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 37 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
-| 38 | [LÜTFEN YAYALIM](http://twitter.com/search?q=L%c3%9cTFEN+YAYALIM) | N/A |
-| 39 | [250 TL'ye](http://twitter.com/search?q=250+TL%27ye) | N/A |
-| 40 | [Mehmetçik](http://twitter.com/search?q=Mehmet%c3%a7ik) | N/A |
-| 41 | [Televizyon](http://twitter.com/search?q=Televizyon) | N/A |
-| 42 | [ÖNEMLİ DUYURU](http://twitter.com/search?q=%c3%96NEML%c4%b0+DUYURU) | N/A |
-| 43 | [Odabaşı](http://twitter.com/search?q=Odaba%c5%9f%c4%b1) | N/A |
-| 44 | [Mahmut Özer](http://twitter.com/search?q=Mahmut+%c3%96zer) | N/A |
-| 45 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 46 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
-| 47 | [Japonya'da](http://twitter.com/search?q=Japonya%27da) | N/A |
-| 48 | [Afet](http://twitter.com/search?q=Afet) | N/A |
-| 49 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
-| 50 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 32 | [Hala](http://twitter.com/search?q=Hala) | N/A |
+| 33 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 34 | [Siyasetiniz](http://twitter.com/search?q=Siyasetiniz) | N/A |
+| 35 | [İttifakınız](http://twitter.com/search?q=%c4%b0ttifak%c4%b1n%c4%b1z) | N/A |
+| 36 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 37 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 38 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
+| 39 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 40 | [Televizyon](http://twitter.com/search?q=Televizyon) | N/A |
+| 41 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 42 | [Arkadaşımın](http://twitter.com/search?q=Arkada%c5%9f%c4%b1m%c4%b1n) | N/A |
+| 43 | [Kansız](http://twitter.com/search?q=Kans%c4%b1z) | N/A |
+| 44 | [Mehmetçik](http://twitter.com/search?q=Mehmet%c3%a7ik) | N/A |
+| 45 | [Odabaşı](http://twitter.com/search?q=Odaba%c5%9f%c4%b1) | N/A |
+| 46 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
+| 47 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 48 | [TSK'ya](http://twitter.com/search?q=TSK%27ya) | N/A |
+| 49 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
+| 50 | [Afet](http://twitter.com/search?q=Afet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-06 16:15:32 UTC`
+📆 Last Updated: `2023-02-06 17:15:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,50 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 2 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 3 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 4 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 5 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 4 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 5 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
 | 6 | [Paky](http://twitter.com/search?q=Paky) | N/A |
 | 7 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 8 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 8 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
 | 9 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 10 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
-| 11 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 12 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
-| 13 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 14 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 15 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 16 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 10 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 11 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
+| 12 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 13 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 14 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
+| 15 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 16 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
 | 17 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 18 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 20 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 21 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 22 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 23 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 24 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
-| 25 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 26 | [#oggièunaltrogiorno](http://twitter.com/search?q=%23oggi%c3%a8unaltrogiorno) | N/A |
-| 27 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 28 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
-| 29 | [#6febbraio](http://twitter.com/search?q=%236febbraio) | N/A |
-| 30 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 31 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 32 | [#fisalpine](http://twitter.com/search?q=%23fisalpine) | N/A |
-| 33 | [#eurosportsci](http://twitter.com/search?q=%23eurosportsci) | N/A |
-| 34 | [#MAREMOTO](http://twitter.com/search?q=%23MAREMOTO) | N/A |
-| 35 | [#giuliasalemi](http://twitter.com/search?q=%23giuliasalemi) | N/A |
-| 36 | [#maneskin](http://twitter.com/search?q=%23maneskin) | N/A |
-| 37 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 38 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
-| 39 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
-| 40 | [#Grammys2023](http://twitter.com/search?q=%23Grammys2023) | N/A |
+| 18 | [La RAI](http://twitter.com/search?q=La+RAI) | N/A |
+| 19 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 20 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 21 | [Mondiali](http://twitter.com/search?q=Mondiali) | N/A |
+| 22 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 23 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 24 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 25 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 26 | [#tommasozorzi](http://twitter.com/search?q=%23tommasozorzi) | N/A |
+| 27 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 28 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 29 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
+| 30 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 31 | [#Brignone](http://twitter.com/search?q=%23Brignone) | N/A |
+| 32 | [#lidomengoni](http://twitter.com/search?q=%23lidomengoni) | N/A |
+| 33 | [#oggieunaltrogiorno](http://twitter.com/search?q=%23oggieunaltrogiorno) | N/A |
+| 34 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
+| 35 | [#6febbraio](http://twitter.com/search?q=%236febbraio) | N/A |
+| 36 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
+| 37 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
+| 38 | [#fisalpine](http://twitter.com/search?q=%23fisalpine) | N/A |
+| 39 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 40 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 41 | [#EurosportSCI](http://twitter.com/search?q=%23EurosportSCI) | N/A |
+| 42 | [#giuliasalemi](http://twitter.com/search?q=%23giuliasalemi) | N/A |
+| 43 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 44 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
 
 
 
