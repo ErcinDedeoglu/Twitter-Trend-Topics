@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-06 04:16:55 UTC`
+📆 Last Updated: `2023-02-06 05:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 2 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 3 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 4 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 5 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
-| 6 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 7 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 8 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
-| 9 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 10 | [Alemão](http://twitter.com/search?q=Alem%c3%a3o) | N/A |
-| 11 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 12 | [Estádio](http://twitter.com/search?q=Est%c3%a1dio) | N/A |
-| 13 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 14 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 15 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 18 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 19 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 21 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 22 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 27 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 28 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 29 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 30 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 31 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 1 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 2 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
+| 3 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 4 | [Alemão](http://twitter.com/search?q=Alem%c3%a3o) | N/A |
+| 5 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 6 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 7 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
+| 8 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 9 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 10 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 11 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 12 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 13 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 14 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 15 | [beyonce](http://twitter.com/search?q=beyonce) | N/A |
+| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 17 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 18 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 19 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 20 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 21 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 25 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
+| 26 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 27 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 28 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 30 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 31 | [Steve Lacy](http://twitter.com/search?q=Steve+Lacy) | Steve Lacy is an American musician, singer, songwriter, and producer. He is best known as a member of the Grammy Award-winning band The Internet and for his solo work. He has also collaborated with artists such as Kendrick Lamar, Solange, and Vampire Weekend. His music combines elements of jazz, funk, soul, hip hop, and electronic music. |
 | 32 | [Babidi](http://twitter.com/search?q=Babidi) | Babidi is a fictional character from the Dragon Ball series. He is a powerful wizard who seeks to revive the evil Majin Buu. His name is derived from the Japanese word for "evil" (邪悪, jaaku). In English, Babidi's name can be translated as "evil wizard". |
-| 33 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 34 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 36 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 37 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 33 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 34 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 35 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 36 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 37 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | N/A |
 | 38 | [Erasmo Carlos](http://twitter.com/search?q=Erasmo+Carlos) | Erasmo Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most important figures in Brazilian popular music. His name is a combination of his first name, Erasmo, and his middle name, Carlos. The English translation of Erasmo Carlos would be "Erasmo Charles". |
-| 39 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 40 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 41 | [Gal Costa](http://twitter.com/search?q=Gal+Costa) | N/A |
-| 42 | [sophie](http://twitter.com/search?q=sophie) | Sophie is a female given name of French origin, derived from the Greek name Sophia meaning "wisdom". |
-| 43 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 44 | [Fora Gabriel](http://twitter.com/search?q=Fora+Gabriel) | N/A |
-| 45 | [Sam e Kim](http://twitter.com/search?q=Sam+e+Kim) | N/A |
-| 46 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 47 | [Queen B](http://twitter.com/search?q=Queen+B) | N/A |
-| 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 49 | [Pague Menos](http://twitter.com/search?q=Pague+Menos) | N/A |
-| 50 | [Hip Hop](http://twitter.com/search?q=Hip+Hop) | Hip Hop is a culture and art movement that began in the Bronx, New York City in the 1970s. It is characterized by four elements: rapping, DJing, graffiti writing, and breakdancing. Hip Hop is often used to refer to rap music, but it encompasses a much larger range of activities and styles. The term "Hip Hop" is derived from the phrase "breaking," which refers to the rhythmic dance moves that are performed to the beat of a song. |
+| 39 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 40 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 41 | [Anira](http://twitter.com/search?q=Anira) | N/A |
+| 42 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
+| 43 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 44 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
+| 45 | [Song of the Year](http://twitter.com/search?q=Song+of+the+Year) | Song of the Year is an award given to a songwriter or artist for having the best song of the year. It is usually awarded by music industry organizations such as the Recording Industry Association of America (RIAA) or the British Phonographic Industry (BPI). The award recognizes the artist's creative and commercial success in their respective genre. |
+| 46 | [Queen B](http://twitter.com/search?q=Queen+B) | N/A |
+| 47 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
+| 48 | [Gal Costa](http://twitter.com/search?q=Gal+Costa) | N/A |
+| 49 | [Fora Gabriel](http://twitter.com/search?q=Fora+Gabriel) | N/A |
+| 50 | [DJ Khaled](http://twitter.com/search?q=DJ+Khaled) | DJ Khaled is a hip-hop artist, record producer, radio personality, and entrepreneur. His name is a combination of his first name, Khaled, and his stage name, DJ. The name is derived from the Arabic word for "eternal" or "immortal". He is known for his catchphrase "We the Best" and for his use of social media to promote his music. |
 
 
 

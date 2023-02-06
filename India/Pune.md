@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-02-06 04:17:23 UTC`
+📆 Last Updated: `2023-02-06 05:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,50 @@ This is top 50 for [India](</India>)
 | 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 3 | [#LataMangeshkar](http://twitter.com/search?q=%23LataMangeshkar) | N/A |
-| 4 | [#DrugFreeYouth](http://twitter.com/search?q=%23DrugFreeYouth) | N/A |
-| 5 | [लता मंगेशकर](http://twitter.com/search?q=%e0%a4%b2%e0%a4%a4%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a4%95%e0%a4%b0) | N/A |
-| 6 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
-| 7 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
-| 8 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 9 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 10 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
-| 11 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
-| 12 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
-| 13 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
-| 14 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
-| 15 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 16 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 17 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 18 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
-| 19 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [jagatguru ravidas](http://twitter.com/search?q=jagatguru+ravidas) | N/A |
-| 22 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 23 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
+| 4 | [स्वर कोकिला](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 5 | [स्वर कोकिला](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 6 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 7 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
+| 8 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
+| 9 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
+| 10 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
+| 11 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
+| 12 | [beyonce](http://twitter.com/search?q=beyonce) | N/A |
+| 13 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 14 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 17 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 18 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 19 | [सीमांत गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 20 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 21 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 22 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
+| 23 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
 | 24 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 25 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 26 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 27 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 28 | [New Song](http://twitter.com/search?q=New+Song) | N/A |
-| 29 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
-| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 31 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 32 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
-| 33 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
-| 34 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
-| 35 | [सीमांत गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 36 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
-| 37 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 38 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
-| 39 | [Adani Ke Chowkidar](http://twitter.com/search?q=Adani+Ke+Chowkidar) | N/A |
-| 40 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 41 | [पाकिस्तान युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 42 | [Har Har Mahadev](http://twitter.com/search?q=Har+Har+Mahadev) | N/A |
-| 43 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 44 | [piya re by darshan raval](http://twitter.com/search?q=piya+re+by+darshan+raval) | N/A |
-| 45 | [longest season naagin6](http://twitter.com/search?q=longest+season+naagin6) | N/A |
-| 46 | [कवि प्रदीप](http://twitter.com/search?q=%e0%a4%95%e0%a4%b5%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
-| 47 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 48 | [खान अब्दुल गफ्फार खान](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%a6%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%ab%e0%a5%8d%e0%a4%ab%e0%a4%be%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 49 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 25 | [संघ प्रमुख](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%98+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 26 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 27 | [New Song](http://twitter.com/search?q=New+Song) | N/A |
+| 28 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 29 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
+| 30 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 31 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 32 | [#DrugFreeYouth](http://twitter.com/search?q=%23DrugFreeYouth) | N/A |
+| 33 | [#Grammys2023](http://twitter.com/search?q=%23Grammys2023) | N/A |
+| 34 | [#AshramDarpan](http://twitter.com/search?q=%23AshramDarpan) | N/A |
+| 35 | [#IndiansWithAdani](http://twitter.com/search?q=%23IndiansWithAdani) | N/A |
+| 36 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 37 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 38 | [#भागवत_माफी_मांगो](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b) | N/A |
+| 39 | [#LataDidi](http://twitter.com/search?q=%23LataDidi) | N/A |
+| 40 | [#GodMorningMonday](http://twitter.com/search?q=%23GodMorningMonday) | N/A |
+| 41 | [#MereDeshKiJawani](http://twitter.com/search?q=%23MereDeshKiJawani) | N/A |
+| 42 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 43 | [#Mohanbhagwat](http://twitter.com/search?q=%23Mohanbhagwat) | N/A |
+| 44 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 45 | [#हर_हर_महादेव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%b9%e0%a4%b0_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 46 | [#NoraFatehi](http://twitter.com/search?q=%23NoraFatehi) | N/A |
+| 47 | [#ReleaseSikhPrisoners](http://twitter.com/search?q=%23ReleaseSikhPrisoners) | N/A |
 
 
 
