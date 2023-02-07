@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-07 08:16:41 UTC`
+📆 Last Updated: `2023-02-07 09:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 2 | [#MehmetcikSahaya](http://twitter.com/search?q=%23MehmetcikSahaya) | N/A |
-| 3 | [AdamınDibisin HalukLevent](http://twitter.com/search?q=Adam%c4%b1nDibisin+HalukLevent) | N/A |
-| 4 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
-| 5 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
-| 6 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 7 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 8 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 9 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 10 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 11 | [Vesaire](http://twitter.com/search?q=Vesaire) | N/A |
-| 12 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
-| 13 | [Canikli](http://twitter.com/search?q=Canikli) | N/A |
-| 14 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 15 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
-| 16 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 17 | [Vinç](http://twitter.com/search?q=Vin%c3%a7) | N/A |
-| 18 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 19 | [Sela](http://twitter.com/search?q=Sela) | N/A |
-| 20 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 21 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
-| 22 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 2 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
+| 3 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
+| 4 | [#MehmetcikSahaya](http://twitter.com/search?q=%23MehmetcikSahaya) | N/A |
+| 5 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
+| 6 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
+| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 8 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 9 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 10 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 11 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
+| 12 | [Mehmet Çınar](http://twitter.com/search?q=Mehmet+%c3%87%c4%b1nar) | N/A |
+| 13 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 14 | [Canikli](http://twitter.com/search?q=Canikli) | N/A |
+| 15 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
+| 16 | [Vesaire](http://twitter.com/search?q=Vesaire) | N/A |
+| 17 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 18 | [Vinç](http://twitter.com/search?q=Vin%c3%a7) | N/A |
+| 19 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 20 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 21 | [Sela](http://twitter.com/search?q=Sela) | N/A |
+| 22 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 23 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 24 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 24 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
 | 25 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 26 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 27 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 28 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 29 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
-| 30 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
-| 31 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 32 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 33 | [Yıkılan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lan) | N/A |
-| 34 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 35 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 36 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
-| 37 | [Akut](http://twitter.com/search?q=Akut) | N/A |
-| 38 | [Yatacak](http://twitter.com/search?q=Yatacak) | N/A |
-| 39 | [Besni](http://twitter.com/search?q=Besni) | N/A |
-| 40 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
-| 41 | [Japonya](http://twitter.com/search?q=Japonya) | N/A |
-| 42 | [Çaresizlik](http://twitter.com/search?q=%c3%87aresizlik) | N/A |
-| 43 | [Aşağılık](http://twitter.com/search?q=A%c5%9fa%c4%9f%c4%b1l%c4%b1k) | N/A |
-| 44 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
-| 45 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 46 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
-| 47 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
-| 48 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 26 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 27 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 28 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 29 | [Gölcük](http://twitter.com/search?q=G%c3%b6lc%c3%bck) | N/A |
+| 30 | [Akut](http://twitter.com/search?q=Akut) | N/A |
+| 31 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 32 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 33 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 34 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
+| 35 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 36 | [İlk 24](http://twitter.com/search?q=%c4%b0lk+24) | N/A |
+| 37 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 38 | [Turgut](http://twitter.com/search?q=Turgut) | N/A |
+| 39 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 40 | [Yıkılan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lan) | N/A |
+| 41 | [EMASYA](http://twitter.com/search?q=EMASYA) | N/A |
+| 42 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 43 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
+| 44 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
+| 45 | [Yeşilyurt](http://twitter.com/search?q=Ye%c5%9filyurt) | N/A |
+| 46 | [#HatayıKaderineTerkEtme](http://twitter.com/search?q=%23Hatay%c4%b1KaderineTerkEtme) | N/A |
+| 47 | [#AHBAP](http://twitter.com/search?q=%23AHBAP) | N/A |
+| 48 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
 | 49 | [#borsadaislemlerdurdurulsun](http://twitter.com/search?q=%23borsadaislemlerdurdurulsun) | N/A |
 | 50 | [#HatayinSesiniDuyun](http://twitter.com/search?q=%23HatayinSesiniDuyun) | N/A |
 

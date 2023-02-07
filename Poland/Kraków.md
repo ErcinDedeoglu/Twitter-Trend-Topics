@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-07 08:16:14 UTC`
+📆 Last Updated: `2023-02-07 09:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
 | 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 4 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
-| 5 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 5 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
 | 6 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
 | 7 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
 | 8 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 9 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 11 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 12 | [Węgiel](http://twitter.com/search?q=W%c4%99giel) | N/A |
-| 13 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
-| 14 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 15 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 16 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 17 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 18 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
-| 19 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
-| 20 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 21 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
-| 22 | [richtera](http://twitter.com/search?q=richtera) | N/A |
-| 23 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 24 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
-| 25 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 27 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
-| 28 | [Bolka](http://twitter.com/search?q=Bolka) | N/A |
-| 29 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 30 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 31 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 32 | [religia](http://twitter.com/search?q=religia) | N/A |
-| 33 | [Lewicę](http://twitter.com/search?q=Lewic%c4%99) | N/A |
-| 34 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
-| 35 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 36 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 37 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 38 | [williamsa](http://twitter.com/search?q=williamsa) | N/A |
-| 39 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 40 | [Romek](http://twitter.com/search?q=Romek) | N/A |
-| 41 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 42 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 43 | [Partia](http://twitter.com/search?q=Partia) | N/A |
-| 44 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 45 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 46 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
-| 47 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
-| 48 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
-| 49 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 50 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 10 | [Cześć Kasiu](http://twitter.com/search?q=Cze%c5%9b%c4%87+Kasiu) | N/A |
+| 11 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 12 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 14 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
+| 15 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 16 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 17 | [Obie](http://twitter.com/search?q=Obie) | N/A |
+| 18 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
+| 19 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 20 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 21 | [Węgiel](http://twitter.com/search?q=W%c4%99giel) | N/A |
+| 22 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
+| 23 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 24 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
+| 25 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 26 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 27 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 28 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 29 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 30 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 31 | [religia](http://twitter.com/search?q=religia) | N/A |
+| 32 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 33 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 34 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 35 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 36 | [Ewuniu](http://twitter.com/search?q=Ewuniu) | N/A |
+| 37 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 38 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 39 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 40 | [williamsa](http://twitter.com/search?q=williamsa) | N/A |
+| 41 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
+| 42 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
+| 43 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 44 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 45 | [Tomasz Lis](http://twitter.com/search?q=Tomasz+Lis) | N/A |
+| 46 | [Niepokój](http://twitter.com/search?q=Niepok%c3%b3j) | N/A |
+| 47 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 48 | [poniedziałek](http://twitter.com/search?q=poniedzia%c5%82ek) | N/A |
+| 49 | [Janusz](http://twitter.com/search?q=Janusz) | N/A |
+| 50 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
 
 
 
