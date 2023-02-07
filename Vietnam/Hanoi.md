@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-07 01:42:51 UTC`
+📆 Last Updated: `2023-02-07 02:35:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 6 | [#BetweenUsTheSeries](http://twitter.com/search?q=%23BetweenUsTheSeries) | N/A |
 | 7 | [#cannotgoodbyebu](http://twitter.com/search?q=%23cannotgoodbyebu) | N/A |
-| 8 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
+| 8 | [vnch](http://twitter.com/search?q=vnch) | N/A |
 | 9 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
 | 10 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 11 | [Secc](http://twitter.com/search?q=Secc) | N/A |
 | 12 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 13 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 14 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
-| 15 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 16 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 17 | [LO QUE ERES ES HERMOSO](http://twitter.com/search?q=LO+QUE+ERES+ES+HERMOSO) | N/A |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 20 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 21 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 22 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 23 | [BeepList](http://twitter.com/search?q=BeepList) | N/A |
-| 24 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
-| 25 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 26 | [phòng](http://twitter.com/search?q=ph%c3%b2ng) | N/A |
-| 27 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 28 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 29 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 14 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 15 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
+| 16 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [LO QUE ERES ES HERMOSO](http://twitter.com/search?q=LO+QUE+ERES+ES+HERMOSO) | N/A |
+| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 20 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 21 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 22 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
+| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 24 | [BeepList](http://twitter.com/search?q=BeepList) | N/A |
+| 25 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [phòng](http://twitter.com/search?q=ph%c3%b2ng) | N/A |
+| 28 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 30 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 31 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 32 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
-| 33 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
-| 34 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 35 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 40 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 41 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
-| 42 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
-| 43 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 44 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 46 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 47 | [trung quốc](http://twitter.com/search?q=trung+qu%e1%bb%91c) | N/A |
-| 48 | [thương](http://twitter.com/search?q=th%c6%b0%c6%a1ng) | N/A |
-| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 50 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 31 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 32 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 33 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 34 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
+| 35 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
+| 36 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 38 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 39 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 44 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
+| 45 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
+| 46 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 47 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 48 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 49 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 50 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 
 
 

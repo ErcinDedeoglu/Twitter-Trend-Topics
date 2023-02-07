@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-07 01:43:15 UTC`
+📆 Last Updated: `2023-02-07 02:35:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,25 +20,25 @@ This is top 50 for Israel
 | 3 | [אדמה חזקה](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94+%d7%97%d7%96%d7%a7%d7%94) | N/A |
 | 4 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
 | 5 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 6 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 7 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 8 | [זאב רז](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a8%d7%96) | N/A |
+| 6 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 7 | [זאב רז](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a8%d7%96) | N/A |
+| 8 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 9 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
-| 10 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
-| 11 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
-| 12 | [ימי מחלה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%9c%d7%94) | N/A |
-| 13 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
-| 14 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
-| 15 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 16 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 17 | [יהודית תירוש](http://twitter.com/search?q=%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa+%d7%aa%d7%99%d7%a8%d7%95%d7%a9) | N/A |
-| 18 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 19 | [כתב הגנה](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%94%d7%92%d7%a0%d7%94) | N/A |
-| 20 | [חוק התרומות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa) | N/A |
-| 21 | [#StarkWareSessions2023](http://twitter.com/search?q=%23StarkWareSessions2023) | N/A |
-| 22 | [יפעת ביטון](http://twitter.com/search?q=%d7%99%d7%a4%d7%a2%d7%aa+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
-| 23 | [אבי שמחון](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%a9%d7%9e%d7%97%d7%95%d7%9f) | N/A |
-| 24 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
+| 10 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 11 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
+| 12 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
+| 13 | [ימי מחלה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%9c%d7%94) | N/A |
+| 14 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
+| 15 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
+| 16 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 17 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 18 | [יהודית תירוש](http://twitter.com/search?q=%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa+%d7%aa%d7%99%d7%a8%d7%95%d7%a9) | N/A |
+| 19 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 20 | [כתב הגנה](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%94%d7%92%d7%a0%d7%94) | N/A |
+| 21 | [חוק התרומות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa) | N/A |
+| 22 | [#StarkWareSessions2023](http://twitter.com/search?q=%23StarkWareSessions2023) | N/A |
+| 23 | [יפעת ביטון](http://twitter.com/search?q=%d7%99%d7%a4%d7%a2%d7%aa+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
+| 24 | [אבי שמחון](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%a9%d7%9e%d7%97%d7%95%d7%9f) | N/A |
 | 25 | [דום לב](http://twitter.com/search?q=%d7%93%d7%95%d7%9d+%d7%9c%d7%91) | N/A |
 | 26 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
 | 27 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Israel
 | 42 | [אדמה״](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94%d7%b4) | N/A |
 | 43 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
 | 44 | [הסופה ברברה](http://twitter.com/search?q=%d7%94%d7%a1%d7%95%d7%a4%d7%94+%d7%91%d7%a8%d7%91%d7%a8%d7%94) | N/A |
-| 45 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 46 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
-| 47 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 48 | [רעש האדמה](http://twitter.com/search?q=%d7%a8%d7%a2%d7%a9+%d7%94%d7%90%d7%93%d7%9e%d7%94) | N/A |
-| 49 | [בישול חלב](http://twitter.com/search?q=%d7%91%d7%99%d7%a9%d7%95%d7%9c+%d7%97%d7%9c%d7%91) | N/A |
-| 50 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 45 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
+| 46 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 47 | [רעש האדמה](http://twitter.com/search?q=%d7%a8%d7%a2%d7%a9+%d7%94%d7%90%d7%93%d7%9e%d7%94) | N/A |
+| 48 | [בישול חלב](http://twitter.com/search?q=%d7%91%d7%99%d7%a9%d7%95%d7%9c+%d7%97%d7%9c%d7%91) | N/A |
+| 49 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 50 | [גיל בני](http://twitter.com/search?q=%d7%92%d7%99%d7%9c+%d7%91%d7%a0%d7%99) | N/A |
 
 
 

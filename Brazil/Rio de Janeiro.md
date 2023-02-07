@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-07 01:42:32 UTC`
+📆 Last Updated: `2023-02-07 02:34:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 2 | [leo santana](http://twitter.com/search?q=leo+santana) | N/A |
-| 3 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 4 | [Curitiba](http://twitter.com/search?q=Curitiba) | Curitiba is the capital and largest city of the Brazilian state of Paraná. The name Curitiba comes from the Tupi language and means "Pine Nut Land". |
-| 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 7 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 8 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
-| 9 | [fear of the dark](http://twitter.com/search?q=fear+of+the+dark) | N/A |
-| 10 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
-| 11 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 12 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
-| 13 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
-| 14 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
-| 15 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
-| 16 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 17 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 19 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 20 | [#PolianaMoça](http://twitter.com/search?q=%23PolianaMo%c3%a7a) | N/A |
-| 21 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 22 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
-| 23 | [tasha](http://twitter.com/search?q=tasha) | N/A |
-| 24 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 1 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 2 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 3 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 4 | [Veigh](http://twitter.com/search?q=Veigh) | N/A |
+| 5 | [leo santana](http://twitter.com/search?q=leo+santana) | N/A |
+| 6 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 7 | [Curitiba](http://twitter.com/search?q=Curitiba) | Curitiba is the capital and largest city of the Brazilian state of Paraná. The name Curitiba comes from the Tupi language and means "Pine Nut Land". |
+| 8 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 9 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 10 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 12 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 14 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 15 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 16 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 17 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 18 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 19 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 20 | [Mosca Morta](http://twitter.com/search?q=Mosca+Morta) | N/A |
+| 21 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 22 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 23 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 24 | [fear of the dark](http://twitter.com/search?q=fear+of+the+dark) | N/A |
 | 25 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 26 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
-| 27 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 28 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 29 | [Esse Ari](http://twitter.com/search?q=Esse+Ari) | N/A |
-| 30 | [#FelipeNetoNaTwitch](http://twitter.com/search?q=%23FelipeNetoNaTwitch) | N/A |
-| 31 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 32 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 33 | [Kamehameha](http://twitter.com/search?q=Kamehameha) | N/A |
-| 34 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 35 | [Escrotos](http://twitter.com/search?q=Escrotos) | N/A |
-| 36 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 37 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
-| 38 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 39 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 40 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 41 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 42 | [Ben e Sol](http://twitter.com/search?q=Ben+e+Sol) | N/A |
-| 43 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 44 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
-| 45 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 46 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 47 | [FELIPE ARAUJO NO TVZ](http://twitter.com/search?q=FELIPE+ARAUJO+NO+TVZ) | N/A |
-| 48 | [Kaio Jorge](http://twitter.com/search?q=Kaio+Jorge) | N/A |
-| 49 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 50 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 26 | [Zellsis](http://twitter.com/search?q=Zellsis) | N/A |
+| 27 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
+| 28 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
+| 29 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
+| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 31 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 32 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
+| 33 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 34 | [#PolianaMoça](http://twitter.com/search?q=%23PolianaMo%c3%a7a) | N/A |
+| 35 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
+| 36 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 38 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
+| 39 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
+| 40 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
+| 41 | [BH de 2019](http://twitter.com/search?q=BH+de+2019) | N/A |
+| 42 | [tasha](http://twitter.com/search?q=tasha) | N/A |
+| 43 | [Esse Ari](http://twitter.com/search?q=Esse+Ari) | N/A |
+| 44 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 45 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 46 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
+| 47 | [Escrotos](http://twitter.com/search?q=Escrotos) | N/A |
+| 48 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 49 | [topetudo](http://twitter.com/search?q=topetudo) | N/A |
+| 50 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
 
 
 

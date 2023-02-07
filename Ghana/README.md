@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-07 01:43:14 UTC`
+📆 Last Updated: `2023-02-07 02:35:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,24 +16,24 @@ This is top 50 for Ghana
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 2 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
 | 4 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 5 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 5 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
 | 6 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 7 | [#DNBP](http://twitter.com/search?q=%23DNBP) | N/A |
+| 7 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
 | 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 9 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 10 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 11 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
-| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 13 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 9 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 10 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 12 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 13 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 14 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
-| 15 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 16 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
+| 15 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
+| 16 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
 | 17 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 18 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 19 | [God Did](http://twitter.com/search?q=God+Did) | God Did is a phrase used to express gratitude and appreciation for something that has been done. It is often used as a way of thanking God for providing help or guidance in a difficult situation. The phrase can also be used to express admiration for someone who has accomplished something great. |
+| 18 | [God Did](http://twitter.com/search?q=God+Did) | God Did is a phrase used to express gratitude and appreciation for something that has been done. It is often used as a way of thanking God for providing help or guidance in a difficult situation. The phrase can also be used to express admiration for someone who has accomplished something great. |
+| 19 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
 | 20 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
 | 21 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
 | 22 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
@@ -51,19 +51,19 @@ This is top 50 for Ghana
 | 34 | [Rashid Nortey](http://twitter.com/search?q=Rashid+Nortey) | N/A |
 | 35 | [Madea](http://twitter.com/search?q=Madea) | N/A |
 | 36 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 37 | [Glory](http://twitter.com/search?q=Glory) | N/A |
-| 38 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
-| 39 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 37 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
+| 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 39 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
 | 40 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 41 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 43 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 45 | [Alive](http://twitter.com/search?q=Alive) | N/A |
-| 46 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 47 | [Ken Ofori](http://twitter.com/search?q=Ken+Ofori) | N/A |
-| 48 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
-| 49 | [Emmanuel](http://twitter.com/search?q=Emmanuel) | N/A |
+| 41 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 42 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 43 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 44 | [Alive](http://twitter.com/search?q=Alive) | N/A |
+| 45 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 46 | [ken ofori](http://twitter.com/search?q=ken+ofori) | N/A |
+| 47 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 48 | [Emmanuel](http://twitter.com/search?q=Emmanuel) | N/A |
+| 49 | [Glory](http://twitter.com/search?q=Glory) | N/A |
 | 50 | [Wakaso](http://twitter.com/search?q=Wakaso) | N/A |
 
 

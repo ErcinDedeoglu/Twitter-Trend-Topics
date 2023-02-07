@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-07 01:42:41 UTC`
+📆 Last Updated: `2023-02-07 02:34:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 1 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
 | 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 4 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
+| 4 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
 | 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
 | 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
@@ -28,40 +28,40 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 12 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 13 | [privatwirtschaft](http://twitter.com/search?q=privatwirtschaft) | N/A |
-| 14 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 15 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 16 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 17 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 20 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 21 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
-| 22 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 23 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 24 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 26 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 27 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 28 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 29 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
-| 30 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 31 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 32 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 34 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 35 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 36 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 37 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 38 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 39 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 40 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 41 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 42 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 43 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 44 | [Laden](http://twitter.com/search?q=Laden) | N/A |
-| 45 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
-| 46 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 47 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 14 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 16 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 20 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 21 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 22 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 23 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 25 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 26 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 27 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
+| 28 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 29 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 30 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 32 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 33 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 34 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 36 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 37 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 38 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 39 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 40 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
+| 41 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 42 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 43 | [Laden](http://twitter.com/search?q=Laden) | N/A |
+| 44 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
+| 45 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 46 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 47 | [May God](http://twitter.com/search?q=May+God) | N/A |
 
 
 

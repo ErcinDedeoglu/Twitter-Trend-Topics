@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-02-07 01:42:26 UTC`
+📆 Last Updated: `2023-02-07 02:34:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 2 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 3 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
-| 4 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
-| 5 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 6 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 7 | [#TeamWithLuv](http://twitter.com/search?q=%23TeamWithLuv) | N/A |
-| 8 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 10 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
-| 11 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
-| 12 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 13 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 15 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 16 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
-| 17 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
-| 18 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 19 | [Rubén Omar Romano](http://twitter.com/search?q=Rub%c3%a9n+Omar+Romano) | N/A |
-| 20 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
-| 21 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 22 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 23 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
-| 24 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 25 | [Simi](http://twitter.com/search?q=Simi) | N/A |
-| 26 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 27 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 28 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 29 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
-| 30 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
-| 31 | [Fumar](http://twitter.com/search?q=Fumar) | N/A |
-| 32 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 33 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
-| 34 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 35 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
-| 36 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
-| 37 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 38 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 39 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
-| 40 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 41 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 2 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 3 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
+| 4 | [THE RETURN OF SNIPER](http://twitter.com/search?q=THE+RETURN+OF+SNIPER) | N/A |
+| 5 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 6 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 8 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 9 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 10 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
+| 11 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 12 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
+| 13 | [#TeamWithLuv](http://twitter.com/search?q=%23TeamWithLuv) | N/A |
+| 14 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
+| 15 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 16 | [#EllasEnViX](http://twitter.com/search?q=%23EllasEnViX) | N/A |
+| 17 | [#EstrenoAllStar](http://twitter.com/search?q=%23EstrenoAllStar) | N/A |
+| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 19 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 20 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 21 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
+| 22 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
+| 23 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
+| 24 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 25 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
+| 26 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 27 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 28 | [Riva Palacio](http://twitter.com/search?q=Riva+Palacio) | N/A |
+| 29 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
+| 30 | [Simi](http://twitter.com/search?q=Simi) | N/A |
+| 31 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 32 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 33 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 34 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 35 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
+| 36 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 37 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
+| 38 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 39 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
+| 40 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 41 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 42 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 43 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
+| 44 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 45 | [#OposicionMiserableYCorrupta](http://twitter.com/search?q=%23OposicionMiserableYCorrupta) | N/A |
+| 46 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
 
 
 

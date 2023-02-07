@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-07 01:42:35 UTC`
+📆 Last Updated: `2023-02-07 02:34:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
 | 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 4 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
-| 5 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 4 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 5 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
 | 6 | [#Wiensindwiralle](http://twitter.com/search?q=%23Wiensindwiralle) | N/A |
-| 7 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
+| 7 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
 | 8 | [#Falco](http://twitter.com/search?q=%23Falco) | N/A |
 | 9 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 10 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
@@ -32,25 +32,25 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
 | 16 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
 | 17 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
-| 18 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 19 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 20 | [Matura](http://twitter.com/search?q=Matura) | N/A |
-| 21 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
-| 22 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
-| 23 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
-| 24 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 25 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
-| 26 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 27 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
-| 28 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 29 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 18 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 19 | [Matura](http://twitter.com/search?q=Matura) | N/A |
+| 20 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
+| 21 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
+| 22 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
+| 23 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 24 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
+| 25 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 26 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
+| 27 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 28 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 29 | [bäumen](http://twitter.com/search?q=b%c3%a4umen) | N/A |
 | 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 31 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
 | 32 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
 | 33 | [kundgebung](http://twitter.com/search?q=kundgebung) | N/A |
 | 34 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
 | 35 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 36 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 36 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
 | 37 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 38 | [Freut](http://twitter.com/search?q=Freut) | N/A |
 | 39 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for [Austria](</Austria>)
 | 41 | [rabatt](http://twitter.com/search?q=rabatt) | N/A |
 | 42 | [Studium](http://twitter.com/search?q=Studium) | N/A |
 | 43 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 44 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
-| 45 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 46 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 47 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
-| 48 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
-| 49 | [Kasperl](http://twitter.com/search?q=Kasperl) | N/A |
-| 50 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 44 | [Lied](http://twitter.com/search?q=Lied) | N/A |
+| 45 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 46 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 47 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 48 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 49 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
+| 50 | [kasperl](http://twitter.com/search?q=kasperl) | N/A |
 
 
 

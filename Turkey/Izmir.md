@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-07 01:43:02 UTC`
+📆 Last Updated: `2023-02-07 02:35:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Asker](http://twitter.com/search?q=Asker) | N/A |
 | 11 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 12 | [Sela](http://twitter.com/search?q=Sela) | N/A |
-| 13 | [B Blok 3](http://twitter.com/search?q=B+Blok+3) | N/A |
-| 14 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
+| 13 | [Enkaz](http://twitter.com/search?q=Enkaz) | N/A |
+| 14 | [B Blok 3](http://twitter.com/search?q=B+Blok+3) | N/A |
 | 15 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
 | 16 | [Mardine AcilDestek](http://twitter.com/search?q=Mardine+AcilDestek) | N/A |
 | 17 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
-| 18 | [Mehmetçik](http://twitter.com/search?q=Mehmet%c3%a7ik) | N/A |
-| 19 | [Ekinci Mah](http://twitter.com/search?q=Ekinci+Mah) | N/A |
-| 20 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 21 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
-| 22 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 23 | [Saatlerdir](http://twitter.com/search?q=Saatlerdir) | N/A |
-| 24 | [İnönü Cad](http://twitter.com/search?q=%c4%b0n%c3%b6n%c3%bc+Cad) | N/A |
-| 25 | [Gönüllü](http://twitter.com/search?q=G%c3%b6n%c3%bcll%c3%bc) | N/A |
-| 26 | [AKUT](http://twitter.com/search?q=AKUT) | N/A |
-| 27 | [Selman Altunbaş](http://twitter.com/search?q=Selman+Altunba%c5%9f) | N/A |
-| 28 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 29 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
-| 30 | [Kurtarma](http://twitter.com/search?q=Kurtarma) | N/A |
-| 31 | [Nolur](http://twitter.com/search?q=Nolur) | N/A |
-| 32 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 33 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
-| 34 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
-| 35 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 36 | [Depremin](http://twitter.com/search?q=Depremin) | N/A |
-| 37 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
-| 38 | [#EkiplerNerede](http://twitter.com/search?q=%23EkiplerNerede) | N/A |
+| 18 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 19 | [Yunus Sezer](http://twitter.com/search?q=Yunus+Sezer) | N/A |
+| 20 | [Ekinci Mah](http://twitter.com/search?q=Ekinci+Mah) | N/A |
+| 21 | [Gönüllü](http://twitter.com/search?q=G%c3%b6n%c3%bcll%c3%bc) | N/A |
+| 22 | [Saatlerdir](http://twitter.com/search?q=Saatlerdir) | N/A |
+| 23 | [İnönü Cad](http://twitter.com/search?q=%c4%b0n%c3%b6n%c3%bc+Cad) | N/A |
+| 24 | [AKUT](http://twitter.com/search?q=AKUT) | N/A |
+| 25 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 26 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 27 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 28 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 29 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 30 | [Adana'ya](http://twitter.com/search?q=Adana%27ya) | N/A |
+| 31 | [Kurtarma](http://twitter.com/search?q=Kurtarma) | N/A |
+| 32 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
+| 33 | [Selman Altunbaş](http://twitter.com/search?q=Selman+Altunba%c5%9f) | N/A |
+| 34 | [Nolur](http://twitter.com/search?q=Nolur) | N/A |
+| 35 | [Depremin](http://twitter.com/search?q=Depremin) | N/A |
+| 36 | [Siyasetiniz](http://twitter.com/search?q=Siyasetiniz) | N/A |
+| 37 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
+| 38 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
 | 39 | [#HelpTurkey](http://twitter.com/search?q=%23HelpTurkey) | N/A |
-| 40 | [#TSKgöreve](http://twitter.com/search?q=%23TSKg%c3%b6reve) | N/A |
-| 41 | [#Enkaz](http://twitter.com/search?q=%23Enkaz) | N/A |
-| 42 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 43 | [#HalukLevent](http://twitter.com/search?q=%23HalukLevent) | N/A |
-| 44 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
-| 45 | [#TSKyaYETKİVERİN](http://twitter.com/search?q=%23TSKyaYETK%c4%b0VER%c4%b0N) | N/A |
-| 46 | [#afsindeprem](http://twitter.com/search?q=%23afsindeprem) | N/A |
-| 47 | [#85MilyonTekYürek](http://twitter.com/search?q=%2385MilyonTekY%c3%bcrek) | N/A |
-| 48 | [#DevletMilletElele](http://twitter.com/search?q=%23DevletMilletElele) | N/A |
-| 49 | [#onikisubat](http://twitter.com/search?q=%23onikisubat) | N/A |
-| 50 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
+| 40 | [#EkiplerNerede](http://twitter.com/search?q=%23EkiplerNerede) | N/A |
+| 41 | [#TSKgöreve](http://twitter.com/search?q=%23TSKg%c3%b6reve) | N/A |
+| 42 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 43 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
+| 44 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
+| 45 | [#HalukLevent](http://twitter.com/search?q=%23HalukLevent) | N/A |
+| 46 | [#MEHMETÇİKHALKININYANINA](http://twitter.com/search?q=%23MEHMET%c3%87%c4%b0KHALKININYANINA) | N/A |
+| 47 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 48 | [#TSKyaYETKİVERİN](http://twitter.com/search?q=%23TSKyaYETK%c4%b0VER%c4%b0N) | N/A |
+| 49 | [#afsindeprem](http://twitter.com/search?q=%23afsindeprem) | N/A |
+| 50 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
 
 
 

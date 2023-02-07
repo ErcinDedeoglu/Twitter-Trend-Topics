@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-07 01:43:19 UTC`
+📆 Last Updated: `2023-02-07 02:35:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 1 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
 | 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 4 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
+| 4 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
 | 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
 | 7 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
@@ -41,14 +41,14 @@ This is top 50 for Switzerland
 | 24 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
 | 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 26 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 27 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 28 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 29 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
-| 30 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 31 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 32 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 34 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 27 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 28 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
+| 29 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 30 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 31 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 33 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 34 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 35 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
 | 36 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 37 | [Modell](http://twitter.com/search?q=Modell) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Switzerland
 | 39 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 40 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
 | 41 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 42 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 43 | [Laden](http://twitter.com/search?q=Laden) | N/A |
-| 44 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
-| 45 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 46 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 47 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 48 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 49 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 50 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 43 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 44 | [Laden](http://twitter.com/search?q=Laden) | N/A |
+| 45 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
+| 46 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 47 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 48 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 49 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 50 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 
 
 

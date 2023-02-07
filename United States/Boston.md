@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-07 01:43:04 UTC`
+📆 Last Updated: `2023-02-07 02:35:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 2 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 6 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 8 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 9 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 10 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 11 | [Damian Priest](http://twitter.com/search?q=Damian+Priest) | N/A |
-| 12 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
-| 13 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 14 | [Brian Flores](http://twitter.com/search?q=Brian+Flores) | Brian Flores is the head coach of the Miami Dolphins of the National Football League (NFL). His name is derived from the Spanish word for "flower," and it can be translated to mean "flowering" or "blooming." |
-| 15 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 17 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 19 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 20 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 21 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 22 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 24 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 25 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 28 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 29 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 30 | [Blais](http://twitter.com/search?q=Blais) | N/A |
-| 31 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
-| 32 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 33 | [Glam Slam](http://twitter.com/search?q=Glam+Slam) | N/A |
-| 34 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 35 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
-| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 37 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 38 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 39 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 40 | [Tanev](http://twitter.com/search?q=Tanev) | N/A |
-| 41 | [Sirona](http://twitter.com/search?q=Sirona) | N/A |
-| 42 | [Gudas](http://twitter.com/search?q=Gudas) | Gudas is a Lithuanian surname. It is derived from the Lithuanian word gudas, which means "woodpecker". |
-| 43 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 44 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
-| 45 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
-| 46 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
-| 47 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
-| 48 | [Street Profits](http://twitter.com/search?q=Street+Profits) | N/A |
-| 49 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 1 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 2 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
+| 3 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 4 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 8 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 9 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 11 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 12 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 13 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 14 | [Brock Lesnar](http://twitter.com/search?q=Brock+Lesnar) | Brock Lesnar is an American professional wrestler, mixed martial artist, and former amateur wrestler. He is currently signed to WWE, where he performs on the Raw brand. The name "Brock Lesnar" is a combination of his real first name (Brock) and his father's surname (Lesnar). |
+| 15 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 16 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 17 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 18 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 19 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 20 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 21 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 22 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 23 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 24 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 25 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 26 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 28 | [Damian Priest](http://twitter.com/search?q=Damian+Priest) | N/A |
+| 29 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
+| 30 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 32 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 33 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 34 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
+| 35 | [Brian Flores](http://twitter.com/search?q=Brian+Flores) | Brian Flores is the head coach of the Miami Dolphins of the National Football League (NFL). His name is derived from the Spanish word for "flower," and it can be translated to mean "flowering" or "blooming." |
+| 36 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 37 | [Piper Niven](http://twitter.com/search?q=Piper+Niven) | Piper Niven is a professional wrestler from Scotland. She is currently signed to WWE, where she performs on the NXT UK brand. Her ring name is a combination of her first name, Piper, and her mother's maiden name, Niven. |
+| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 39 | [Cowboy Brock](http://twitter.com/search?q=Cowboy+Brock) | N/A |
+| 40 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 41 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 42 | [Bobby Lashley](http://twitter.com/search?q=Bobby+Lashley) | N/A |
+| 43 | [Dexter Lumis](http://twitter.com/search?q=Dexter+Lumis) | N/A |
+| 44 | [Hurt Business](http://twitter.com/search?q=Hurt+Business) | Hurt Business is a term used to describe a business that is struggling financially or has been damaged in some way. It can refer to a company that has suffered losses due to poor management, market conditions, or other factors. It can also refer to an industry as a whole that is experiencing financial hardship. |
+| 45 | [Dan Gilbert](http://twitter.com/search?q=Dan+Gilbert) | N/A |
+| 46 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 47 | [Palat](http://twitter.com/search?q=Palat) | N/A |
+| 48 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 49 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 50 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
 
 
 

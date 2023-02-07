@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-07 01:42:50 UTC`
+📆 Last Updated: `2023-02-07 02:35:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
 | 5 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 6 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
-| 7 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 8 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 9 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 10 | [IT'S BSS FIGHTING DAY](http://twitter.com/search?q=IT%27S+BSS+FIGHTING+DAY) | N/A |
-| 11 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 12 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 13 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 15 | [STUNNING DONNY PANGILINAN](http://twitter.com/search?q=STUNNING+DONNY+PANGILINAN) | N/A |
-| 16 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 7 | [TXT ON TOP OF BILLBOARD](http://twitter.com/search?q=TXT+ON+TOP+OF+BILLBOARD) | N/A |
+| 8 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 9 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 10 | [its bss fighting day](http://twitter.com/search?q=its+bss+fighting+day) | N/A |
+| 11 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 12 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 13 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
+| 14 | [STUNNING DONNY PANGILINAN](http://twitter.com/search?q=STUNNING+DONNY+PANGILINAN) | N/A |
+| 15 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 16 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 17 | [Donnalyn](http://twitter.com/search?q=Donnalyn) | Donnalyn is a female given name of Irish origin. It is derived from the Gaelic name Donal, which means "world ruler". In English, Donnalyn can be translated to mean "ruler of the world". |
-| 18 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
 | 19 | [filay onfasttalk](http://twitter.com/search?q=filay+onfasttalk) | N/A |
 | 20 | [SIX UnBELLElievableYears](http://twitter.com/search?q=SIX+UnBELLElievableYears) | N/A |
-| 21 | [D7 PerSTELLvering](http://twitter.com/search?q=D7+PerSTELLvering) | N/A |
-| 22 | [franseth chicomulingpagtatagpo](http://twitter.com/search?q=franseth+chicomulingpagtatagpo) | N/A |
-| 23 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 24 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 25 | [biggest stage](http://twitter.com/search?q=biggest+stage) | N/A |
-| 26 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 27 | [oh no not me](http://twitter.com/search?q=oh+no+not+me) | N/A |
-| 28 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 30 | [Nature's Spring](http://twitter.com/search?q=Nature%27s+Spring) | N/A |
-| 31 | [walang aray on iwantasap](http://twitter.com/search?q=walang+aray+on+iwantasap) | N/A |
-| 32 | [happy birthday taehyun](http://twitter.com/search?q=happy+birthday+taehyun) | N/A |
-| 33 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 34 | [MY BTS DIARY](http://twitter.com/search?q=MY+BTS+DIARY) | N/A |
-| 35 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 36 | [David](http://twitter.com/search?q=David) | N/A |
-| 37 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 38 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
-| 39 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
-| 40 | [Galvez](http://twitter.com/search?q=Galvez) | N/A |
-| 41 | [19M LOVE FOR HEESEUNG](http://twitter.com/search?q=19M+LOVE+FOR+HEESEUNG) | N/A |
-| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 43 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 44 | [Tito Boy](http://twitter.com/search?q=Tito+Boy) | N/A |
-| 45 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
-| 46 | [Annalise](http://twitter.com/search?q=Annalise) | N/A |
-| 47 | [Song of the Year](http://twitter.com/search?q=Song+of+the+Year) | Song of the Year is an award given to a songwriter or artist for having the best song of the year. It is usually awarded by music industry organizations such as the Recording Industry Association of America (RIAA) or the British Phonographic Industry (BPI). The award recognizes the artist's creative and commercial success in their respective genre. |
-| 48 | [MINOR LAPSES](http://twitter.com/search?q=MINOR+LAPSES) | N/A |
-| 49 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 21 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 23 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 24 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 25 | [Nature's Spring](http://twitter.com/search?q=Nature%27s+Spring) | N/A |
+| 26 | [D7 PerSTELLvering](http://twitter.com/search?q=D7+PerSTELLvering) | N/A |
+| 27 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 28 | [biggest stage](http://twitter.com/search?q=biggest+stage) | N/A |
+| 29 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
+| 30 | [oh no not me](http://twitter.com/search?q=oh+no+not+me) | N/A |
+| 31 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 32 | [walang aray on iwantasap](http://twitter.com/search?q=walang+aray+on+iwantasap) | N/A |
+| 33 | [happy birthday taehyun](http://twitter.com/search?q=happy+birthday+taehyun) | N/A |
+| 34 | [FELIPStraydogs D-3 Release](http://twitter.com/search?q=FELIPStraydogs+D-3+Release) | N/A |
+| 35 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 36 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 37 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 38 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 39 | [FRANSETH ChiCoMulingPagtatagpo](http://twitter.com/search?q=FRANSETH+ChiCoMulingPagtatagpo) | N/A |
+| 40 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 41 | [David](http://twitter.com/search?q=David) | N/A |
+| 42 | [MAINE MENDOZA IdealGirl](http://twitter.com/search?q=MAINE+MENDOZA+IdealGirl) | N/A |
+| 43 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
+| 44 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
+| 45 | [Galvez](http://twitter.com/search?q=Galvez) | N/A |
+| 46 | [ENHYPEN 2023 GGU GGU PACKAGE](http://twitter.com/search?q=ENHYPEN+2023+GGU+GGU+PACKAGE) | N/A |
+| 47 | [Kai Sotto](http://twitter.com/search?q=Kai+Sotto) | N/A |
+| 48 | [19M LOVE FOR HEESEUNG](http://twitter.com/search?q=19M+LOVE+FOR+HEESEUNG) | N/A |
+| 49 | [OPENING TRAILER FOR WHAT](http://twitter.com/search?q=OPENING+TRAILER+FOR+WHAT) | N/A |
 
 
 
