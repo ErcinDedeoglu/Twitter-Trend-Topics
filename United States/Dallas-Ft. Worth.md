@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-07 14:16:13 UTC`
+📆 Last Updated: `2023-02-07 15:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 2 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 6 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 7 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 9 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 10 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 11 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 12 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 14 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 15 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 16 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 17 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 18 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 20 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 21 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 22 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 23 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 24 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
-| 25 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 26 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 27 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 28 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 29 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 30 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 31 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 32 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 33 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 34 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
-| 35 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 36 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 37 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 38 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 39 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 40 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 41 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 42 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 43 | [Sumter](http://twitter.com/search?q=Sumter) | N/A |
-| 44 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 45 | [Infrastructure](http://twitter.com/search?q=Infrastructure) | N/A |
-| 46 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 47 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 48 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
-| 49 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 50 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 1 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 2 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 3 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 4 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
+| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 9 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 10 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 12 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 15 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 16 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 17 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 19 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 20 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 21 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 22 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 23 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 24 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 25 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 26 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
+| 27 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
+| 28 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 29 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 30 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 31 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 32 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 33 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 35 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 37 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 38 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 39 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 40 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 42 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 43 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 44 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
+| 45 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 46 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
+| 47 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 48 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 49 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 50 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
 
 
 

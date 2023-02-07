@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-07 14:16:00 UTC`
+📆 Last Updated: `2023-02-07 15:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LoveofDiscovery](http://twitter.com/search?q=%23LoveofDiscovery) | N/A |
-| 2 | [#MingEr](http://twitter.com/search?q=%23MingEr) | N/A |
-| 3 | [#เด็กตกท่อ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%81%e0%b8%95%e0%b8%81%e0%b8%97%e0%b9%88%e0%b8%ad) | N/A |
+| 1 | [#JennisOprasert](http://twitter.com/search?q=%23JennisOprasert) | N/A |
+| 2 | [#GenshinImpactth](http://twitter.com/search?q=%23GenshinImpactth) | N/A |
+| 3 | [#MingEr](http://twitter.com/search?q=%23MingEr) | N/A |
 | 4 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
-| 5 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 5 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
 | 6 | [NOOKPAI TO KOREA](http://twitter.com/search?q=NOOKPAI+TO+KOREA) | N/A |
-| 7 | [farewell marima](http://twitter.com/search?q=farewell+marima) | N/A |
-| 8 | [GR VLOG](http://twitter.com/search?q=GR+VLOG) | N/A |
+| 7 | [GR VLOG](http://twitter.com/search?q=GR+VLOG) | N/A |
+| 8 | [Hogwarts Legacy - Part 1](http://twitter.com/search?q=Hogwarts+Legacy+-+Part+1) | N/A |
 | 9 | [Promantic PunJennis](http://twitter.com/search?q=Promantic+PunJennis) | N/A |
-| 10 | [WINK WHITE x ENGLOT](http://twitter.com/search?q=WINK+WHITE+x+ENGLOT) | N/A |
-| 11 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 12 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 13 | [#Liveโค้ชEP4](http://twitter.com/search?q=%23Live%e0%b9%82%e0%b8%84%e0%b9%89%e0%b8%8aEP4) | N/A |
-| 14 | [#PPKritNewSingle](http://twitter.com/search?q=%23PPKritNewSingle) | N/A |
-| 15 | [#อุ๊ยคุณพระ_LAZ1](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b8%e0%b9%8a%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9e%e0%b8%a3%e0%b8%b0_LAZ1) | N/A |
-| 16 | [#GrabFoodโปรแมนติกxTNPJN](http://twitter.com/search?q=%23GrabFood%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81xTNPJN) | N/A |
-| 17 | [#SafeflightNookPai](http://twitter.com/search?q=%23SafeflightNookPai) | N/A |
-| 18 | [#SiamDiscoveryxPROXIE](http://twitter.com/search?q=%23SiamDiscoveryxPROXIE) | N/A |
-| 19 | [#XXTalktalk](http://twitter.com/search?q=%23XXTalktalk) | N/A |
-| 20 | [#อาตุ่ยคุ้ยแก๊งวัดพลุ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%95%e0%b8%b8%e0%b9%88%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a2%e0%b9%81%e0%b8%81%e0%b9%8a%e0%b8%87%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%9e%e0%b8%a5%e0%b8%b8) | N/A |
+| 10 | [Farewell Marima](http://twitter.com/search?q=Farewell+Marima) | N/A |
+| 11 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 12 | [#Liveโค้ชEP4](http://twitter.com/search?q=%23Live%e0%b9%82%e0%b8%84%e0%b9%89%e0%b8%8aEP4) | N/A |
+| 13 | [#PPKritNewSingle](http://twitter.com/search?q=%23PPKritNewSingle) | N/A |
+| 14 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 15 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 16 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 17 | [#อุ๊ยคุณพระ_LAZ1](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b8%e0%b9%8a%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9e%e0%b8%a3%e0%b8%b0_LAZ1) | N/A |
+| 18 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 19 | [#GrabFoodโปรแมนติกxTNPJN](http://twitter.com/search?q=%23GrabFood%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81xTNPJN) | N/A |
+| 20 | [#SafeflightNookPai](http://twitter.com/search?q=%23SafeflightNookPai) | N/A |
 | 21 | [#bonnadol](http://twitter.com/search?q=%23bonnadol) | N/A |
-| 22 | [#TheMallGroupxGeminiFourth](http://twitter.com/search?q=%23TheMallGroupxGeminiFourth) | N/A |
-| 23 | [#นางนาคสะใภ้พระโขนงEP11](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87EP11) | N/A |
-| 24 | [#FinalMissGrandPhrae2023](http://twitter.com/search?q=%23FinalMissGrandPhrae2023) | N/A |
+| 22 | [#SiamDiscoveryxPROXIE](http://twitter.com/search?q=%23SiamDiscoveryxPROXIE) | N/A |
+| 23 | [#อิมแพคไม่มีความเป็นมืออาชีพ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%a1%e0%b9%81%e0%b8%9e%e0%b8%84%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a%e0%b8%b5%e0%b8%9e) | N/A |
+| 24 | [#อาตุ่ยคุ้ยแก๊งวัดพลุ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%95%e0%b8%b8%e0%b9%88%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a2%e0%b9%81%e0%b8%81%e0%b9%8a%e0%b8%87%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%9e%e0%b8%a5%e0%b8%b8) | N/A |
 | 25 | [#มณีพยาบาทEP5](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%93%e0%b8%b5%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%97EP5) | N/A |
 | 26 | [#แลกฟอลTheStar2022](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5TheStar2022) | N/A |
-| 27 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
-| 28 | [#อิทธิริชตีกอล์ฟตีใจ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a3%e0%b8%b4%e0%b8%8a%e0%b8%95%e0%b8%b5%e0%b8%81%e0%b8%ad%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%95%e0%b8%b5%e0%b9%83%e0%b8%88) | N/A |
-| 29 | [#พระนคร๒๔๑๐](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b9%92%e0%b9%94%e0%b9%91%e0%b9%90) | N/A |
-| 30 | [#นุ๊กปาย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%9b%e0%b8%b2%e0%b8%a2) | N/A |
-| 31 | [#JamfilmxMintescape](http://twitter.com/search?q=%23JamfilmxMintescape) | N/A |
-| 32 | [#WagaxJudoFlukeEp2](http://twitter.com/search?q=%23WagaxJudoFlukeEp2) | N/A |
-| 33 | [#ป๊ายปายโอริโอ้](http://twitter.com/search?q=%23%e0%b8%9b%e0%b9%8a%e0%b8%b2%e0%b8%a2%e0%b8%9b%e0%b8%b2%e0%b8%a2%e0%b9%82%e0%b8%ad%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%ad%e0%b9%89) | N/A |
-| 34 | [#ครูไพบูลย์](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%b9%e0%b9%84%e0%b8%9e%e0%b8%9a%e0%b8%b9%e0%b8%a5%e0%b8%a2%e0%b9%8c) | N/A |
-| 35 | [#นุ๊กธนดล](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%98%e0%b8%99%e0%b8%94%e0%b8%a5) | N/A |
-| 36 | [#PROXIEGorn](http://twitter.com/search?q=%23PROXIEGorn) | N/A |
-| 37 | [#ปัญเจนนิษฐ์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b9%80%e0%b8%88%e0%b8%99%e0%b8%99%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b9%8c) | N/A |
-| 38 | [#psk_tyk](http://twitter.com/search?q=%23psk_tyk) | N/A |
-| 39 | [#PROXIEOnglee](http://twitter.com/search?q=%23PROXIEOnglee) | N/A |
-| 40 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
-| 41 | [#harpersbazaarsg](http://twitter.com/search?q=%23harpersbazaarsg) | N/A |
-| 42 | [#letsmoveletswin](http://twitter.com/search?q=%23letsmoveletswin) | N/A |
-| 43 | [#Chinjung_ynt](http://twitter.com/search?q=%23Chinjung_ynt) | N/A |
-| 44 | [#hersheysletsmove](http://twitter.com/search?q=%23hersheysletsmove) | N/A |
-| 45 | [#BAZAARSGLovesWin](http://twitter.com/search?q=%23BAZAARSGLovesWin) | N/A |
-| 46 | [#7YEARS10GETHER](http://twitter.com/search?q=%237YEARS10GETHER) | N/A |
-| 47 | [#BWITfacts](http://twitter.com/search?q=%23BWITfacts) | N/A |
-| 48 | [#ASAHI](http://twitter.com/search?q=%23ASAHI) | N/A |
-| 49 | [#JennisOprasert](http://twitter.com/search?q=%23JennisOprasert) | N/A |
-| 50 | [#อย่าเล่นกับอนลSeries](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a5Series) | N/A |
+| 27 | [#สะใภ้สายสตรองep6](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%aa%e0%b8%b2%e0%b8%a2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b8%ad%e0%b8%87ep6) | N/A |
+| 28 | [#นางนาคสะใภ้พระโขนงEP11](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87EP11) | N/A |
+| 29 | [#เพลิงไพรEP1](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%b4%e0%b8%87%e0%b9%84%e0%b8%9e%e0%b8%a3EP1) | N/A |
+| 30 | [#อิทธิริชตีกอล์ฟตีใจ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a3%e0%b8%b4%e0%b8%8a%e0%b8%95%e0%b8%b5%e0%b8%81%e0%b8%ad%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%95%e0%b8%b5%e0%b9%83%e0%b8%88) | N/A |
+| 31 | [#ประเทศไทยมีจวีจิ้งอีแล้ว](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a1%e0%b8%b5%e0%b8%88%e0%b8%a7%e0%b8%b5%e0%b8%88%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%ad%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 32 | [#พระนคร๒๔๑๐](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b9%92%e0%b9%94%e0%b9%91%e0%b9%90) | N/A |
+| 33 | [#TheMallGroupxGeminiFourth](http://twitter.com/search?q=%23TheMallGroupxGeminiFourth) | N/A |
+| 34 | [#JamfilmxMintescape](http://twitter.com/search?q=%23JamfilmxMintescape) | N/A |
+| 35 | [#FinalMissGrandPhrae2023](http://twitter.com/search?q=%23FinalMissGrandPhrae2023) | N/A |
+| 36 | [#นุ๊กปาย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%9b%e0%b8%b2%e0%b8%a2) | N/A |
+| 37 | [#WagaxJudoFlukeEp2](http://twitter.com/search?q=%23WagaxJudoFlukeEp2) | N/A |
+| 38 | [#ป๊ายปายโอริโอ้](http://twitter.com/search?q=%23%e0%b8%9b%e0%b9%8a%e0%b8%b2%e0%b8%a2%e0%b8%9b%e0%b8%b2%e0%b8%a2%e0%b9%82%e0%b8%ad%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%ad%e0%b9%89) | N/A |
+| 39 | [#psk_tyk](http://twitter.com/search?q=%23psk_tyk) | N/A |
+| 40 | [#นุ๊กธนดล](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%98%e0%b8%99%e0%b8%94%e0%b8%a5) | N/A |
+| 41 | [#LazadaXBOWKYLION](http://twitter.com/search?q=%23LazadaXBOWKYLION) | N/A |
+| 42 | [#ปัญเจนนิษฐ์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b9%80%e0%b8%88%e0%b8%99%e0%b8%99%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b9%8c) | N/A |
+| 43 | [#PROXIEOnglee](http://twitter.com/search?q=%23PROXIEOnglee) | N/A |
+| 44 | [#LoveofDiscovery](http://twitter.com/search?q=%23LoveofDiscovery) | N/A |
+| 45 | [#ครูไพบูลย์](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%b9%e0%b9%84%e0%b8%9e%e0%b8%9a%e0%b8%b9%e0%b8%a5%e0%b8%a2%e0%b9%8c) | N/A |
+| 46 | [#PROXIEGorn](http://twitter.com/search?q=%23PROXIEGorn) | N/A |
+| 47 | [#Chinjung_ynt](http://twitter.com/search?q=%23Chinjung_ynt) | N/A |
+| 48 | [#BWITfacts](http://twitter.com/search?q=%23BWITfacts) | N/A |
+| 49 | [#asahi](http://twitter.com/search?q=%23asahi) | N/A |
+| 50 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
 
 
 

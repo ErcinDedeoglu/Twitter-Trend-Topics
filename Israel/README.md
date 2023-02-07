@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-07 14:16:23 UTC`
+📆 Last Updated: `2023-02-07 15:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 2 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 3 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 4 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
+| 2 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 3 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
+| 4 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
 | 5 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
 | 6 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
 | 7 | [קי לוי](http://twitter.com/search?q=%d7%a7%d7%99+%d7%9c%d7%95%d7%99) | N/A |
-| 8 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
-| 9 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
-| 10 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
-| 11 | [אראל סגל](http://twitter.com/search?q=%d7%90%d7%a8%d7%90%d7%9c+%d7%a1%d7%92%d7%9c) | N/A |
-| 12 | [אדמה חזקה](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94+%d7%97%d7%96%d7%a7%d7%94) | N/A |
-| 13 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 8 | [אראל סגל](http://twitter.com/search?q=%d7%90%d7%a8%d7%90%d7%9c+%d7%a1%d7%92%d7%9c) | N/A |
+| 9 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
+| 10 | [תחבורה ציבורית](http://twitter.com/search?q=%d7%aa%d7%97%d7%91%d7%95%d7%a8%d7%94+%d7%a6%d7%99%d7%91%d7%95%d7%a8%d7%99%d7%aa) | N/A |
+| 11 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
+| 12 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 13 | [אדמה חזקה](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94+%d7%97%d7%96%d7%a7%d7%94) | N/A |
 | 14 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 15 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 15 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
 | 16 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
-| 17 | [תחבורה ציבורית](http://twitter.com/search?q=%d7%aa%d7%97%d7%91%d7%95%d7%a8%d7%94+%d7%a6%d7%99%d7%91%d7%95%d7%a8%d7%99%d7%aa) | N/A |
+| 17 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
 | 18 | [ראש ה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94) | N/A |
-| 19 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
-| 20 | [יפעת ביטון](http://twitter.com/search?q=%d7%99%d7%a4%d7%a2%d7%aa+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
+| 19 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 20 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
 | 21 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
-| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 23 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
-| 24 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
-| 25 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 22 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
+| 23 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 24 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 25 | [דום לב](http://twitter.com/search?q=%d7%93%d7%95%d7%9d+%d7%9c%d7%91) | N/A |
 | 26 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 27 | [דום לב](http://twitter.com/search?q=%d7%93%d7%95%d7%9d+%d7%9c%d7%91) | N/A |
+| 27 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 28 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 29 | [האדמה הלילה](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%9c%d7%99%d7%9c%d7%94) | N/A |
 | 30 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
 | 31 | [ימי מחלה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%9c%d7%94) | N/A |
-| 32 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
-| 33 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 34 | [אדמה״](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94%d7%b4) | N/A |
-| 35 | [כנסת ישראל](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 36 | [חוק התרומות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa) | N/A |
-| 37 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
-| 38 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
-| 39 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 40 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
-| 41 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
-| 42 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
-| 43 | [הסופה ברברה](http://twitter.com/search?q=%d7%94%d7%a1%d7%95%d7%a4%d7%94+%d7%91%d7%a8%d7%91%d7%a8%d7%94) | N/A |
-| 44 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 32 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
+| 33 | [אדמה״](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94%d7%b4) | N/A |
+| 34 | [חוק התרומות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa) | N/A |
+| 35 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
+| 36 | [הסופה ברברה](http://twitter.com/search?q=%d7%94%d7%a1%d7%95%d7%a4%d7%94+%d7%91%d7%a8%d7%91%d7%a8%d7%94) | N/A |
+| 37 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
+| 38 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 39 | [כנסת ישראל](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 40 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
+| 41 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
+| 42 | [#starkwaresessions2023](http://twitter.com/search?q=%23starkwaresessions2023) | N/A |
+| 43 | [גוש עציון](http://twitter.com/search?q=%d7%92%d7%95%d7%a9+%d7%a2%d7%a6%d7%99%d7%95%d7%9f) | N/A |
+| 44 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
 | 45 | [#ETHTLV](http://twitter.com/search?q=%23ETHTLV) | N/A |
-| 46 | [#starkwaresessions2023](http://twitter.com/search?q=%23starkwaresessions2023) | N/A |
-| 47 | [גוש עציון](http://twitter.com/search?q=%d7%92%d7%95%d7%a9+%d7%a2%d7%a6%d7%99%d7%95%d7%9f) | N/A |
-| 48 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
-| 49 | [אסף רפפורט](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%a8%d7%a4%d7%a4%d7%95%d7%a8%d7%98) | N/A |
-| 50 | [רומן סורקין](http://twitter.com/search?q=%d7%a8%d7%95%d7%9e%d7%9f+%d7%a1%d7%95%d7%a8%d7%a7%d7%99%d7%9f) | N/A |
+| 46 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
+| 47 | [אסף רפפורט](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%a8%d7%a4%d7%a4%d7%95%d7%a8%d7%98) | N/A |
+| 48 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
+| 49 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 50 | [של תלם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%aa%d7%9c%d7%9d) | N/A |
 
 
 

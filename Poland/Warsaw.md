@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-07 14:15:44 UTC`
+📆 Last Updated: `2023-02-07 15:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 2 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 5 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
-| 6 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
-| 7 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 8 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 9 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 11 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 12 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 13 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 14 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 15 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 3 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 4 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 5 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 6 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 7 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 8 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 9 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 10 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 11 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 12 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
+| 13 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 14 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 15 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
 | 16 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 17 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
-| 18 | [Oshee](http://twitter.com/search?q=Oshee) | N/A |
-| 19 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 20 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 21 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 22 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
-| 23 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
-| 24 | [poprawna](http://twitter.com/search?q=poprawna) | N/A |
-| 25 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 26 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 27 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 18 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 19 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 20 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
+| 21 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 22 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 23 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 24 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 25 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 26 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 27 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
 | 28 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 29 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 30 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 31 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 32 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 33 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 34 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
-| 35 | [Jaśmina](http://twitter.com/search?q=Ja%c5%9bmina) | N/A |
-| 36 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
-| 37 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 38 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 39 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
-| 40 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
-| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 42 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
-| 43 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
-| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 45 | [porozumienie](http://twitter.com/search?q=porozumienie) | N/A |
-| 46 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
+| 29 | [Władkiem](http://twitter.com/search?q=W%c5%82adkiem) | N/A |
+| 30 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 31 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 32 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
+| 33 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 34 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 35 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 36 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 37 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 38 | [jaśmina](http://twitter.com/search?q=ja%c5%9bmina) | N/A |
+| 39 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 40 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 41 | [Minister Edukacji](http://twitter.com/search?q=Minister+Edukacji) | N/A |
+| 42 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 43 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
+| 44 | [janusz](http://twitter.com/search?q=janusz) | N/A |
+| 45 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
+| 46 | [Poprawna](http://twitter.com/search?q=Poprawna) | N/A |
 | 47 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 48 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 49 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
-| 50 | [Czeczenii](http://twitter.com/search?q=Czeczenii) | N/A |
+| 48 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 49 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 50 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 
 
 

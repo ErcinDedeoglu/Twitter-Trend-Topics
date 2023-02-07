@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-02-07 14:16:28 UTC`
+📆 Last Updated: `2023-02-07 15:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 2 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 3 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 4 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 6 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 7 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 8 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 9 | [#wordle598](http://twitter.com/search?q=%23wordle598) | N/A |
-| 10 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 11 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 13 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 14 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 15 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 16 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 18 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 20 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 21 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 22 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 23 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
-| 24 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 25 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 27 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 28 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 29 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 30 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 31 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 32 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 33 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
-| 34 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 35 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 36 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 37 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 38 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 39 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 40 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 41 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 42 | [Sumter](http://twitter.com/search?q=Sumter) | N/A |
-| 43 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 44 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 45 | [Infrastructure](http://twitter.com/search?q=Infrastructure) | N/A |
-| 46 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 47 | [Turkey & Syria](http://twitter.com/search?q=Turkey+%26+Syria) | N/A |
-| 48 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 49 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
-| 50 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 8 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 9 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 10 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 12 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 13 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 14 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 16 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 17 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 18 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 19 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 20 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 21 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
+| 22 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 23 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 24 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 25 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
+| 26 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 27 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 28 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 29 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 30 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 31 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 32 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 33 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 34 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 35 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 36 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 37 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 39 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 40 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 41 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
+| 42 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 43 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 44 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
+| 45 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 46 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
+| 47 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 48 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 49 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
+| 50 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
 
 
 

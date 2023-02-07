@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-07 14:15:49 UTC`
+📆 Last Updated: `2023-02-07 15:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 3 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 4 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 5 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 6 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 7 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 8 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
-| 9 | [#OggiEUnAltroGiorno](http://twitter.com/search?q=%23OggiEUnAltroGiorno) | N/A |
-| 10 | [Chiappero](http://twitter.com/search?q=Chiappero) | N/A |
-| 11 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
-| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 13 | [Festival](http://twitter.com/search?q=Festival) | N/A |
-| 14 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
-| 15 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
-| 16 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 17 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
-| 18 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 19 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 20 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
-| 21 | [Guariniello](http://twitter.com/search?q=Guariniello) | N/A |
-| 22 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 23 | [Consob](http://twitter.com/search?q=Consob) | N/A |
-| 24 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 25 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 26 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 27 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
-| 28 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 29 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
-| 30 | [odio la juve](http://twitter.com/search?q=odio+la+juve) | N/A |
-| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 32 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 33 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
-| 34 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 35 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 36 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
-| 37 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 38 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 39 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
-| 40 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 41 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 42 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 43 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 44 | [#Prisma](http://twitter.com/search?q=%23Prisma) | N/A |
-| 45 | [#Amadeus](http://twitter.com/search?q=%23Amadeus) | N/A |
-| 46 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 47 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 48 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
-| 49 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
+| 2 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 3 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 4 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 7 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 8 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
+| 9 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 10 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 11 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 12 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
+| 13 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
+| 14 | [Chiappero](http://twitter.com/search?q=Chiappero) | N/A |
+| 15 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 16 | [Festival](http://twitter.com/search?q=Festival) | N/A |
+| 17 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 18 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
+| 19 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 20 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 21 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
+| 22 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 23 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 24 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 25 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 26 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 27 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 28 | [Consob](http://twitter.com/search?q=Consob) | N/A |
+| 29 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 30 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 31 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
+| 32 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 33 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
+| 34 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
+| 35 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 36 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
+| 37 | [Odio la Juve](http://twitter.com/search?q=Odio+la+Juve) | N/A |
+| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 39 | [Juventino](http://twitter.com/search?q=Juventino) | N/A |
+| 40 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 41 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 42 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 43 | [#OggiEUnAltroGiorno](http://twitter.com/search?q=%23OggiEUnAltroGiorno) | N/A |
+| 44 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
+| 45 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 46 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 47 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 48 | [#Coni](http://twitter.com/search?q=%23Coni) | N/A |
+| 49 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
+| 50 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
 
 
 

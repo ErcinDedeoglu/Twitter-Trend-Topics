@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-07 14:15:42 UTC`
+📆 Last Updated: `2023-02-07 15:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 3 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 4 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 5 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 6 | [87 É DO SPORT](http://twitter.com/search?q=87+%c3%89+DO+SPORT) | N/A |
-| 7 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 8 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 9 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 10 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 11 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 12 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 13 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 15 | [Pedro Lucas](http://twitter.com/search?q=Pedro+Lucas) | N/A |
-| 16 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 17 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 18 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
-| 19 | [Bacen](http://twitter.com/search?q=Bacen) | N/A |
-| 20 | [Brilha](http://twitter.com/search?q=Brilha) | N/A |
-| 21 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 23 | [mariana spinelli](http://twitter.com/search?q=mariana+spinelli) | N/A |
+| 1 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 2 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
+| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 6 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 7 | [Lua Tube](http://twitter.com/search?q=Lua+Tube) | N/A |
+| 8 | [87 É DO SPORT](http://twitter.com/search?q=87+%c3%89+DO+SPORT) | N/A |
+| 9 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 10 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 11 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 12 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 13 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Al-Hilal](http://twitter.com/search?q=Al-Hilal) | N/A |
+| 16 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 17 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 18 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 19 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 20 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 21 | [Pedro Lucas](http://twitter.com/search?q=Pedro+Lucas) | N/A |
+| 22 | [Futebol](http://twitter.com/search?q=Futebol) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 24 | [Povos Indígenas](http://twitter.com/search?q=Povos+Ind%c3%adgenas) | Povos Indígenas is a Portuguese phrase meaning "Indigenous Peoples". It is used to refer to the original inhabitants of a region, often with distinct cultural and linguistic traditions. |
 | 25 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
-| 26 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 27 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 28 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
-| 29 | [#CpiDoDia08DeJaneiro](http://twitter.com/search?q=%23CpiDoDia08DeJaneiro) | N/A |
-| 30 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 31 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 32 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 33 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 34 | [É HOJE](http://twitter.com/search?q=%c3%89+HOJE) | N/A |
-| 35 | [Magali](http://twitter.com/search?q=Magali) | N/A |
-| 36 | [Síria](http://twitter.com/search?q=S%c3%adria) | N/A |
-| 37 | [Ricardo Salles](http://twitter.com/search?q=Ricardo+Salles) | N/A |
-| 38 | [Tiago Abravanel](http://twitter.com/search?q=Tiago+Abravanel) | N/A |
-| 39 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 40 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 41 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
-| 42 | [Tim Lopes](http://twitter.com/search?q=Tim+Lopes) | N/A |
-| 43 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 44 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 45 | [Fita](http://twitter.com/search?q=Fita) | N/A |
-| 46 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 47 | [Flamém](http://twitter.com/search?q=Flam%c3%a9m) | N/A |
-| 48 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 49 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
-| 50 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 26 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 27 | [Mariana Spinelli](http://twitter.com/search?q=Mariana+Spinelli) | N/A |
+| 28 | [Bacen](http://twitter.com/search?q=Bacen) | N/A |
+| 29 | [La Casa de Papel](http://twitter.com/search?q=La+Casa+de+Papel) | N/A |
+| 30 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 31 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 32 | [Dia Nacional de Luta](http://twitter.com/search?q=Dia+Nacional+de+Luta) | N/A |
+| 33 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
+| 34 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 35 | [Brilha](http://twitter.com/search?q=Brilha) | N/A |
+| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 37 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
+| 38 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
+| 39 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 40 | [Golem](http://twitter.com/search?q=Golem) | N/A |
+| 41 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 42 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 43 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 44 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 45 | [Síria](http://twitter.com/search?q=S%c3%adria) | N/A |
+| 46 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
+| 47 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 48 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 49 | [Cellbit](http://twitter.com/search?q=Cellbit) | N/A |
 
 
 

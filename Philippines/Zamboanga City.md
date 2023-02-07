@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-07 14:16:00 UTC`
+📆 Last Updated: `2023-02-07 15:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 2 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 3 | [#DLBlame](http://twitter.com/search?q=%23DLBlame) | N/A |
-| 4 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
-| 5 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
-| 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 7 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
-| 8 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 9 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 10 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
-| 11 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 12 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 13 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 14 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
-| 15 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 16 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 3 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 4 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 5 | [#DLBlame](http://twitter.com/search?q=%23DLBlame) | N/A |
+| 6 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 7 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 8 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
+| 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 10 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 11 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
+| 12 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 13 | [TuesKIARA 4HeightMaxx](http://twitter.com/search?q=TuesKIARA+4HeightMaxx) | N/A |
+| 14 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
+| 15 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
+| 16 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
 | 17 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 18 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 19 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 18 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 19 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
 | 20 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 21 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 21 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
 | 22 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
 | 23 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 25 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 26 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 27 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 28 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 29 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 30 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 31 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 32 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 33 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 34 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
-| 35 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 36 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 37 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 38 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 40 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 41 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
-| 42 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 43 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 44 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 45 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 46 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 47 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
-| 48 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 24 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 25 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 26 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 27 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 28 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 29 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 30 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 31 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 32 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 33 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 34 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 35 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 36 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
+| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 38 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 39 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 40 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 41 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 42 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
+| 43 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
+| 44 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 45 | [#WWIW15](http://twitter.com/search?q=%23WWIW15) | N/A |
+| 46 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 47 | [#SANA](http://twitter.com/search?q=%23SANA) | N/A |
+| 48 | [#GAPDebutantexInterGiveAway](http://twitter.com/search?q=%23GAPDebutantexInterGiveAway) | N/A |
 | 49 | [#DarnaSuperNoHero](http://twitter.com/search?q=%23DarnaSuperNoHero) | N/A |
 
 

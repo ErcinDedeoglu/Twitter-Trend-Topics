@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-07 14:16:17 UTC`
+📆 Last Updated: `2023-02-07 15:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [#Eagles](http://twitter.com/search?q=%23Eagles) | #Eagles is a hashtag used to refer to the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. The hashtag is often used by fans of the team to show their support and share news and updates about the team. |
-| 3 | [#OpeningNight](http://twitter.com/search?q=%23OpeningNight) | N/A |
+| 2 | [#openingnight](http://twitter.com/search?q=%23openingnight) | N/A |
+| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 4 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 5 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 9 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 10 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 11 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 12 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 13 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 14 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 15 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 8 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 10 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 11 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 12 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 14 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 16 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 18 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 19 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 20 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 21 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 22 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
-| 23 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 24 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 25 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 26 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 27 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 28 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 29 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 30 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 31 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 32 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
-| 33 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 34 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 35 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 36 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 37 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 38 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
-| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 40 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 41 | [Sumter](http://twitter.com/search?q=Sumter) | N/A |
-| 42 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 43 | [Infrastructure](http://twitter.com/search?q=Infrastructure) | N/A |
-| 44 | [Turkey & Syria](http://twitter.com/search?q=Turkey+%26+Syria) | N/A |
-| 45 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 46 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 47 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
-| 48 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 49 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 50 | [Unknown](http://twitter.com/search?q=Unknown) | N/A |
+| 17 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 18 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 19 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 20 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 21 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 22 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
+| 23 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 24 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 25 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
+| 26 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 27 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 28 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 29 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 30 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 31 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 32 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 33 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 34 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 35 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 36 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 37 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 39 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 40 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 41 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
+| 42 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 43 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 44 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
+| 45 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 46 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 47 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
+| 48 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 49 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
 
 
 
