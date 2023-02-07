@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-07 10:16:07 UTC`
+📆 Last Updated: `2023-02-07 11:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 4 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 3 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 4 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
 | 5 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 6 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
-| 7 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
+| 6 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
+| 7 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 8 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
 | 10 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 11 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 12 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 13 | [#DzieńBezpiecznegoInternetu](http://twitter.com/search?q=%23Dzie%c5%84BezpiecznegoInternetu) | N/A |
-| 14 | [Cześć Kasiu](http://twitter.com/search?q=Cze%c5%9b%c4%87+Kasiu) | N/A |
-| 15 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 16 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 17 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
-| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 19 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 20 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
-| 21 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
-| 22 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 23 | [Obie](http://twitter.com/search?q=Obie) | N/A |
-| 24 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 25 | [Czeczenii](http://twitter.com/search?q=Czeczenii) | N/A |
-| 26 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 27 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 28 | [Na Ukrainie](http://twitter.com/search?q=Na+Ukrainie) | N/A |
-| 29 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
-| 30 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
-| 31 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 32 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 33 | [religia](http://twitter.com/search?q=religia) | N/A |
-| 34 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
-| 35 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 36 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
-| 37 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 38 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 39 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 40 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 41 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 42 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 43 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
-| 44 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 45 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
-| 46 | [Węgiel](http://twitter.com/search?q=W%c4%99giel) | N/A |
-| 47 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 48 | [Tomasz Lis](http://twitter.com/search?q=Tomasz+Lis) | N/A |
-| 49 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 50 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
+| 11 | [#DzieńBezpiecznegoInternetu](http://twitter.com/search?q=%23Dzie%c5%84BezpiecznegoInternetu) | N/A |
+| 12 | [Kosiniaka](http://twitter.com/search?q=Kosiniaka) | N/A |
+| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 14 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 15 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 16 | [Szymon Hołownia](http://twitter.com/search?q=Szymon+Ho%c5%82ownia) | N/A |
+| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 18 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 19 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 20 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 21 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 22 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 23 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 24 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 25 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 26 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 27 | [Czeczenii](http://twitter.com/search?q=Czeczenii) | N/A |
+| 28 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 29 | [religia](http://twitter.com/search?q=religia) | N/A |
+| 30 | [Węgiel](http://twitter.com/search?q=W%c4%99giel) | N/A |
+| 31 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 32 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 33 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 34 | [Chleb](http://twitter.com/search?q=Chleb) | N/A |
+| 35 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 36 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 37 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 38 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
+| 39 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 40 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 41 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
+| 44 | [don kichot](http://twitter.com/search?q=don+kichot) | N/A |
+| 45 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 46 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 47 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
+| 48 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 49 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
+| 50 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
 
 
 
