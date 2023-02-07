@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-07 04:16:12 UTC`
+📆 Last Updated: `2023-02-07 05:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EstrenoAllStar](http://twitter.com/search?q=%23EstrenoAllStar) | N/A |
-| 2 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
-| 3 | [GRACIAS AURORA](http://twitter.com/search?q=GRACIAS+AURORA) | N/A |
+| 2 | [GRACIAS AURORA](http://twitter.com/search?q=GRACIAS+AURORA) | N/A |
+| 3 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
 | 4 | [THE RETURN OF SNIPER](http://twitter.com/search?q=THE+RETURN+OF+SNIPER) | N/A |
-| 5 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 6 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 7 | [THE BLACK PANTHER RETURNS](http://twitter.com/search?q=THE+BLACK+PANTHER+RETURNS) | N/A |
-| 8 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 6 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 7 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
+| 8 | [THE BLACK PANTHER RETURNS](http://twitter.com/search?q=THE+BLACK+PANTHER+RETURNS) | N/A |
 | 9 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 10 | [LA MAGIA ESTÁ DE VUELTA](http://twitter.com/search?q=LA+MAGIA+EST%c3%81+DE+VUELTA) | N/A |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
-| 13 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 10 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 11 | [LA MAGIA ESTÁ DE VUELTA](http://twitter.com/search?q=LA+MAGIA+EST%c3%81+DE+VUELTA) | N/A |
+| 12 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
+| 13 | [#nochedeterrormexa](http://twitter.com/search?q=%23nochedeterrormexa) | N/A |
 | 14 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
-| 15 | [#SerieDelCaribe](http://twitter.com/search?q=%23SerieDelCaribe) | N/A |
-| 16 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 17 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
-| 18 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 19 | [LAS QUESADILLAS CON QUESO](http://twitter.com/search?q=LAS+QUESADILLAS+CON+QUESO) | N/A |
-| 20 | [COBRE IS COMING](http://twitter.com/search?q=COBRE+IS+COMING) | N/A |
-| 21 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 22 | [Exatlon](http://twitter.com/search?q=Exatlon) | N/A |
-| 23 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 16 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 17 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 18 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 19 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
+| 20 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 21 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 22 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 23 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 24 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 27 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
-| 28 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 29 | [Topos](http://twitter.com/search?q=Topos) | N/A |
-| 30 | [Meli](http://twitter.com/search?q=Meli) | N/A |
-| 31 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 32 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 33 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 37 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 38 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
-| 39 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
-| 40 | [Simi](http://twitter.com/search?q=Simi) | N/A |
-| 41 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 42 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 43 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 44 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
-| 45 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 46 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 47 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 48 | [La Ministra](http://twitter.com/search?q=La+Ministra) | N/A |
-| 49 | [Ministra Presidente](http://twitter.com/search?q=Ministra+Presidente) | N/A |
-| 50 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 25 | [Exatlon](http://twitter.com/search?q=Exatlon) | N/A |
+| 26 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 27 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 28 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 29 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [Meli](http://twitter.com/search?q=Meli) | N/A |
+| 32 | [Topos](http://twitter.com/search?q=Topos) | N/A |
+| 33 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 34 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 35 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 36 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 37 | [Rivapayaso](http://twitter.com/search?q=Rivapayaso) | N/A |
+| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 39 | [Carlos Caro Quintero](http://twitter.com/search?q=Carlos+Caro+Quintero) | N/A |
+| 40 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 41 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
+| 42 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 43 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 44 | [Simi](http://twitter.com/search?q=Simi) | N/A |
+| 45 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 46 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
+| 47 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 48 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 49 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
+| 50 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
 
 
 

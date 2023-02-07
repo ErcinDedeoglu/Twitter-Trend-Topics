@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-07 04:15:54 UTC`
+📆 Last Updated: `2023-02-07 05:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
 | 8 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 10 | [Happy Birthday WB](http://twitter.com/search?q=Happy+Birthday+WB) | N/A |
-| 11 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
-| 12 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 13 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 14 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 15 | [Daughter of Ali](http://twitter.com/search?q=Daughter+of+Ali) | N/A |
-| 16 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 17 | [Allah O Akbar](http://twitter.com/search?q=Allah+O+Akbar) | N/A |
-| 18 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 19 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 20 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 22 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 23 | [May the Almighty](http://twitter.com/search?q=May+the+Almighty) | N/A |
+| 10 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
+| 11 | [Happy Birthday WB](http://twitter.com/search?q=Happy+Birthday+WB) | N/A |
+| 12 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 13 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 14 | [Thankyouuu](http://twitter.com/search?q=Thankyouuu) | N/A |
+| 15 | [jabal as sabar](http://twitter.com/search?q=jabal+as+sabar) | N/A |
+| 16 | [Daughter of Ali](http://twitter.com/search?q=Daughter+of+Ali) | N/A |
+| 17 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [Allah O Akbar](http://twitter.com/search?q=Allah+O+Akbar) | N/A |
+| 20 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 21 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 22 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 23 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 24 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 25 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 26 | [Javed Miandad](http://twitter.com/search?q=Javed+Miandad) | N/A |
-| 27 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 28 | [Atif](http://twitter.com/search?q=Atif) | N/A |
-| 29 | [Thankyouuu](http://twitter.com/search?q=Thankyouuu) | N/A |
-| 30 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 31 | [May He](http://twitter.com/search?q=May+He) | N/A |
-| 32 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
-| 33 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 34 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 35 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 37 | [International](http://twitter.com/search?q=International) | N/A |
-| 38 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 39 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 40 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 41 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
-| 42 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 46 | [Appreciated](http://twitter.com/search?q=Appreciated) | N/A |
-| 47 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 48 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 49 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 25 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 26 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 31 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 32 | [NRO 2](http://twitter.com/search?q=NRO+2) | N/A |
+| 33 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 34 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
+| 35 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 36 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 37 | [Khush](http://twitter.com/search?q=Khush) | N/A |
+| 38 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 39 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [Professional](http://twitter.com/search?q=Professional) | N/A |
+| 42 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
+| 43 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 46 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 47 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
+| 48 | [JazakAllah](http://twitter.com/search?q=JazakAllah) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-07 04:15:33 UTC`
+📆 Last Updated: `2023-02-07 05:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 2 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 4 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 6 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
 | 7 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
 | 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 9 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 12 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 13 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 14 | [jahre afd](http://twitter.com/search?q=jahre+afd) | N/A |
-| 15 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 16 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 17 | [genitalverstümmelung](http://twitter.com/search?q=genitalverst%c3%bcmmelung) | N/A |
-| 18 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 20 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
-| 21 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
-| 22 | [Möge Allah](http://twitter.com/search?q=M%c3%b6ge+Allah) | N/A |
-| 23 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 24 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 25 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 26 | [flüchtlingsgipfel](http://twitter.com/search?q=fl%c3%bcchtlingsgipfel) | N/A |
-| 27 | [grenzgebiet](http://twitter.com/search?q=grenzgebiet) | N/A |
-| 28 | [volksverdummung](http://twitter.com/search?q=volksverdummung) | N/A |
-| 29 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 31 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 32 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 33 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 34 | [dienstwagen](http://twitter.com/search?q=dienstwagen) | N/A |
-| 35 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 36 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 37 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
-| 38 | [robin alexander](http://twitter.com/search?q=robin+alexander) | N/A |
-| 39 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 40 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
-| 41 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 42 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 43 | [Tauben](http://twitter.com/search?q=Tauben) | N/A |
-| 44 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 45 | [FFXIV](http://twitter.com/search?q=FFXIV) | N/A |
-| 46 | [zeige 4 charaktere](http://twitter.com/search?q=zeige+4+charaktere) | N/A |
-| 47 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 48 | [tragödie](http://twitter.com/search?q=trag%c3%b6die) | N/A |
-| 49 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 50 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 9 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 12 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 13 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 14 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 15 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 16 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 17 | [jahre afd](http://twitter.com/search?q=jahre+afd) | N/A |
+| 18 | [Anja](http://twitter.com/search?q=Anja) | N/A |
+| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 21 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 22 | [genitalverstümmelung](http://twitter.com/search?q=genitalverst%c3%bcmmelung) | N/A |
+| 23 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 25 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 26 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
+| 27 | [möge allah](http://twitter.com/search?q=m%c3%b6ge+allah) | N/A |
+| 28 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 29 | [flüchtlingsgipfel](http://twitter.com/search?q=fl%c3%bcchtlingsgipfel) | N/A |
+| 30 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 31 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
+| 32 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 33 | [dienstwagen](http://twitter.com/search?q=dienstwagen) | N/A |
+| 34 | [volksverdummung](http://twitter.com/search?q=volksverdummung) | N/A |
+| 35 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 36 | [opfern](http://twitter.com/search?q=opfern) | N/A |
+| 37 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 38 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 39 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 40 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 41 | ['überraschung'](http://twitter.com/search?q=%27%c3%bcberraschung%27) | N/A |
+| 42 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 43 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 44 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 45 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Mobilität](http://twitter.com/search?q=Mobilit%c3%a4t) | N/A |
+| 48 | [robin alexander](http://twitter.com/search?q=robin+alexander) | N/A |
+| 49 | [zeige 4 charaktere](http://twitter.com/search?q=zeige+4+charaktere) | N/A |
+| 50 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 
 
 
