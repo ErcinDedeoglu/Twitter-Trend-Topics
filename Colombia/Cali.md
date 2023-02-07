@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-07 17:15:44 UTC`
+📆 Last Updated: `2023-02-07 18:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 2 | [#InmoralEs](http://twitter.com/search?q=%23InmoralEs) | N/A |
-| 3 | [#ElPlanDeLaGente](http://twitter.com/search?q=%23ElPlanDeLaGente) | N/A |
-| 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 5 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
-| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 8 | [Navas Talero](http://twitter.com/search?q=Navas+Talero) | N/A |
-| 9 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 10 | [Nogal](http://twitter.com/search?q=Nogal) | N/A |
-| 11 | [Plan Nacional de Desarrollo](http://twitter.com/search?q=Plan+Nacional+de+Desarrollo) | N/A |
-| 12 | [Arturo Char](http://twitter.com/search?q=Arturo+Char) | N/A |
-| 13 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 14 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 15 | [Diego Molano](http://twitter.com/search?q=Diego+Molano) | N/A |
-| 16 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
-| 17 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 19 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 20 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 21 | [Plan de Desarrollo](http://twitter.com/search?q=Plan+de+Desarrollo) | N/A |
-| 22 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 23 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 24 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 25 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 26 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 28 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |
-| 29 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
-| 30 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
-| 31 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
-| 32 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 33 | [aida merlano](http://twitter.com/search?q=aida+merlano) | N/A |
-| 34 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 35 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 36 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 37 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 38 | [Águilas Negras](http://twitter.com/search?q=%c3%81guilas+Negras) | N/A |
-| 39 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
-| 40 | [Jackson Martínez](http://twitter.com/search?q=Jackson+Mart%c3%adnez) | N/A |
-| 41 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 43 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 44 | [pasca](http://twitter.com/search?q=pasca) | N/A |
-| 45 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 46 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 47 | [El PND](http://twitter.com/search?q=El+PND) | N/A |
-| 48 | [Panela](http://twitter.com/search?q=Panela) | N/A |
-| 49 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 50 | [Tarazá](http://twitter.com/search?q=Taraz%c3%a1) | N/A |
+| 3 | [#MarcharEs](http://twitter.com/search?q=%23MarcharEs) | N/A |
+| 4 | [#ElPlanDeLaGente](http://twitter.com/search?q=%23ElPlanDeLaGente) | N/A |
+| 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 6 | [Navas Talero](http://twitter.com/search?q=Navas+Talero) | N/A |
+| 7 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
+| 8 | [#DesarrolloEs](http://twitter.com/search?q=%23DesarrolloEs) | N/A |
+| 9 | [Nogal](http://twitter.com/search?q=Nogal) | N/A |
+| 10 | [Plan Nacional de Desarrollo](http://twitter.com/search?q=Plan+Nacional+de+Desarrollo) | N/A |
+| 11 | [Arturo Char](http://twitter.com/search?q=Arturo+Char) | N/A |
+| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 13 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 14 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 15 | [Datexco](http://twitter.com/search?q=Datexco) | N/A |
+| 16 | [Jotas Mantilla](http://twitter.com/search?q=Jotas+Mantilla) | N/A |
+| 17 | [Diego Molano](http://twitter.com/search?q=Diego+Molano) | N/A |
+| 18 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 19 | [Jorge Eliecer Torres](http://twitter.com/search?q=Jorge+Eliecer+Torres) | N/A |
+| 20 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 21 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 22 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 23 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 24 | [Plan de Desarrollo](http://twitter.com/search?q=Plan+de+Desarrollo) | N/A |
+| 25 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 26 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 27 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 28 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 29 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |
+| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 31 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 32 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 33 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 34 | [Hace 20](http://twitter.com/search?q=Hace+20) | N/A |
+| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 37 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 38 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 39 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 40 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 41 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 42 | [Jackson Martínez](http://twitter.com/search?q=Jackson+Mart%c3%adnez) | N/A |
+| 43 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
+| 44 | [Pasca](http://twitter.com/search?q=Pasca) | N/A |
+| 45 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 46 | [Águilas Negras](http://twitter.com/search?q=%c3%81guilas+Negras) | N/A |
+| 47 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
+| 48 | [Osuna](http://twitter.com/search?q=Osuna) | N/A |
+| 49 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 50 | [El PND](http://twitter.com/search?q=El+PND) | N/A |
 
 
 

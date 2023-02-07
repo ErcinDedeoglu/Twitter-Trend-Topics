@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-07 17:16:34 UTC`
+📆 Last Updated: `2023-02-07 18:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 10 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 11 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 12 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 13 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 14 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 15 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 16 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 21 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 23 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 24 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 25 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 26 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 29 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 30 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 31 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
-| 32 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
-| 33 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 34 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 35 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 37 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 38 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 39 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 40 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 41 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 42 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 43 | [Eartha Kitt](http://twitter.com/search?q=Eartha+Kitt) | N/A |
-| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 45 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 46 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 48 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
-| 49 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 50 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 10 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 11 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 12 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 16 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 17 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 18 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
+| 19 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 21 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 22 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 25 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 26 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 27 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 28 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 29 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 30 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 31 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
+| 32 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 33 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 34 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 35 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 36 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 37 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 38 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 39 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 42 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
+| 43 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 44 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 45 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 47 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
+| 48 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 50 | [Orlando Robinson](http://twitter.com/search?q=Orlando+Robinson) | N/A |
 
 
 

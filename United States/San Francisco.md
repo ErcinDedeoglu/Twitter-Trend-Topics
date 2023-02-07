@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-07 17:16:36 UTC`
+📆 Last Updated: `2023-02-07 18:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
 | 2 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 3 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 5 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 9 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 10 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 11 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 12 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 13 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 14 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 15 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 16 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 20 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 21 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 22 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 23 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 25 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 26 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 29 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 30 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 31 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
-| 32 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 33 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 34 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 36 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
-| 37 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 38 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 39 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 40 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 4 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 6 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 8 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 9 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 10 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 11 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 12 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 15 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 16 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 17 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 18 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
+| 19 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 21 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 23 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 24 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 25 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 26 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 27 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 28 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 29 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 30 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 31 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
+| 32 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 33 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 34 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 35 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 36 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 37 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 38 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 39 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
 | 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 42 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 43 | [Eartha Kitt](http://twitter.com/search?q=Eartha+Kitt) | N/A |
-| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 45 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 46 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 48 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
-| 49 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 42 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 43 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
+| 44 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 45 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 47 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
+| 48 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 
 
 

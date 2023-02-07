@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-07 17:16:11 UTC`
+📆 Last Updated: `2023-02-07 18:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 3 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
-| 4 | [#HappyBirthdayAngge](http://twitter.com/search?q=%23HappyBirthdayAngge) | N/A |
+| 3 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 4 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
 | 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 6 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 7 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 6 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 7 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
 | 8 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 9 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
-| 10 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 10 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
 | 11 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
-| 12 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
-| 13 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 15 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 16 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 17 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 18 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 19 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 12 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 13 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 14 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 15 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 16 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 17 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 18 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 19 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
 | 20 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 21 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 22 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 23 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 25 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 26 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 27 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 28 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
-| 29 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
-| 30 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 31 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 32 | [#OpeningTrailerPhoto_Sana](http://twitter.com/search?q=%23OpeningTrailerPhoto_Sana) | N/A |
-| 33 | [#빛나는별_레이스터가_생일을축하해](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%a0%88%ec%9d%b4%ec%8a%a4%ed%84%b0%ea%b0%80_%ec%83%9d%ec%9d%bc%ec%9d%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 34 | [#DLBlame](http://twitter.com/search?q=%23DLBlame) | N/A |
-| 35 | [#TeumesXEngenes](http://twitter.com/search?q=%23TeumesXEngenes) | N/A |
-| 36 | [#OnlyREYSTERday](http://twitter.com/search?q=%23OnlyREYSTERday) | N/A |
-| 37 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 38 | [#KwentongTheJuans](http://twitter.com/search?q=%23KwentongTheJuans) | N/A |
-| 39 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
-| 40 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 41 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 42 | [#WWIW15](http://twitter.com/search?q=%23WWIW15) | N/A |
-| 43 | [#DreamMaker_REYSTER](http://twitter.com/search?q=%23DreamMaker_REYSTER) | N/A |
-| 44 | [#GAPDebutantexInterGiveAway](http://twitter.com/search?q=%23GAPDebutantexInterGiveAway) | N/A |
-| 45 | [#PINAKAMAKINANG](http://twitter.com/search?q=%23PINAKAMAKINANG) | N/A |
-| 46 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
-| 47 | [#Physical100](http://twitter.com/search?q=%23Physical100) | N/A |
-| 48 | [#DarnaSuperNoHero](http://twitter.com/search?q=%23DarnaSuperNoHero) | N/A |
+| 21 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
+| 22 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 23 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
+| 24 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 25 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 26 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 27 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
+| 28 | [MIKA REYES](http://twitter.com/search?q=MIKA+REYES) | N/A |
+| 29 | [Morente](http://twitter.com/search?q=Morente) | N/A |
+| 30 | [Maal](http://twitter.com/search?q=Maal) | N/A |
+| 31 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 32 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 33 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
+| 34 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 35 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
+| 36 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 37 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 39 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 40 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 41 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 42 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 43 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 44 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 45 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
+| 46 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 47 | [IT'S BSS FIGHTING DAY](http://twitter.com/search?q=IT%27S+BSS+FIGHTING+DAY) | N/A |
+| 48 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 49 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
 
 
 

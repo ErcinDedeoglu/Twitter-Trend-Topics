@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-07 17:15:54 UTC`
+📆 Last Updated: `2023-02-07 18:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 3 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 1 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
+| 2 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 3 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 5 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 9 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 10 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 12 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 13 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 14 | [Herr Czaja](http://twitter.com/search?q=Herr+Czaja) | N/A |
-| 15 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
-| 16 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 17 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 18 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 19 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 20 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 21 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 22 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
-| 23 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 24 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 25 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 26 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 27 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 29 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 30 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 31 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 32 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 33 | [Lachen in den Keller](http://twitter.com/search?q=Lachen+in+den+Keller) | N/A |
-| 34 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 35 | [friedensforscher](http://twitter.com/search?q=friedensforscher) | N/A |
-| 36 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 37 | [Straßenrennen](http://twitter.com/search?q=Stra%c3%9fenrennen) | N/A |
-| 38 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 39 | [Frauen und Mädchen](http://twitter.com/search?q=Frauen+und+M%c3%a4dchen) | N/A |
-| 40 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 41 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 42 | [William Turner](http://twitter.com/search?q=William+Turner) | N/A |
-| 43 | [Explosion](http://twitter.com/search?q=Explosion) | N/A |
-| 44 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 45 | [Gamepass](http://twitter.com/search?q=Gamepass) | N/A |
-| 46 | [Straftat](http://twitter.com/search?q=Straftat) | N/A |
-| 47 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
-| 48 | [Peter Fischer](http://twitter.com/search?q=Peter+Fischer) | N/A |
-| 49 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
-| 50 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 6 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 7 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 8 | [#SVSSCF](http://twitter.com/search?q=%23SVSSCF) | N/A |
+| 9 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 10 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 11 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 12 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 13 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 16 | [Witze](http://twitter.com/search?q=Witze) | N/A |
+| 17 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 18 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 19 | [Straftat](http://twitter.com/search?q=Straftat) | N/A |
+| 20 | [Spenden](http://twitter.com/search?q=Spenden) | N/A |
+| 21 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
+| 22 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 23 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 24 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 25 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 26 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
+| 27 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 28 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 29 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 30 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 31 | [#Matarazzo](http://twitter.com/search?q=%23Matarazzo) | N/A |
+| 32 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
+| 33 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 34 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
+| 35 | [#grunerundjahr](http://twitter.com/search?q=%23grunerundjahr) | N/A |
+| 36 | [#Tuerkei](http://twitter.com/search?q=%23Tuerkei) | N/A |
+| 37 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
+| 38 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
 
 
 

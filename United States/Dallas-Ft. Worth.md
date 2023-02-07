@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-07 17:16:29 UTC`
+📆 Last Updated: `2023-02-07 18:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 2 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 10 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 13 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 15 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 16 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 19 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 21 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 22 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 23 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 25 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 26 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 27 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 28 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 29 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 30 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 31 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 32 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
-| 33 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 34 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 35 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 37 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
-| 38 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 39 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 40 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 42 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 43 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 45 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 46 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 48 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
-| 49 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 3 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
+| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 5 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 9 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 10 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 11 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 12 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 14 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 15 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 16 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 17 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 19 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 20 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 21 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 24 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 26 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 27 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 28 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 29 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 30 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 31 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 32 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
+| 33 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 34 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 35 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 36 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 37 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 38 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 39 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 40 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 41 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 42 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 43 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 44 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
+| 45 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 46 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 47 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 48 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 49 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-07 17:16:42 UTC`
+📆 Last Updated: `2023-02-07 18:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
-| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
-| 4 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 5 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
-| 6 | [בוגי יעלון](http://twitter.com/search?q=%d7%91%d7%95%d7%92%d7%99+%d7%99%d7%a2%d7%9c%d7%95%d7%9f) | N/A |
-| 7 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 8 | [המחאה נגד](http://twitter.com/search?q=%d7%94%d7%9e%d7%97%d7%90%d7%94+%d7%a0%d7%92%d7%93) | N/A |
-| 9 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
-| 10 | [קי לוי](http://twitter.com/search?q=%d7%a7%d7%99+%d7%9c%d7%95%d7%99) | N/A |
-| 11 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
-| 12 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
-| 13 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 14 | [אדמה חזקה](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94+%d7%97%d7%96%d7%a7%d7%94) | N/A |
-| 15 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 16 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 2 | [המקשר בין הממשלה](http://twitter.com/search?q=%d7%94%d7%9e%d7%a7%d7%a9%d7%a8+%d7%91%d7%99%d7%9f+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 4 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
+| 5 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 6 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
+| 7 | [בוגי יעלון](http://twitter.com/search?q=%d7%91%d7%95%d7%92%d7%99+%d7%99%d7%a2%d7%9c%d7%95%d7%9f) | N/A |
+| 8 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 9 | [המחאה נגד](http://twitter.com/search?q=%d7%94%d7%9e%d7%97%d7%90%d7%94+%d7%a0%d7%92%d7%93) | N/A |
+| 10 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
+| 11 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 12 | [קי לוי](http://twitter.com/search?q=%d7%a7%d7%99+%d7%9c%d7%95%d7%99) | N/A |
+| 13 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
+| 14 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
+| 15 | [אדמה חזקה](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94+%d7%97%d7%96%d7%a7%d7%94) | N/A |
+| 16 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 17 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
-| 18 | [של סער](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%a8) | N/A |
+| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 19 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
 | 20 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
 | 21 | [ראש ה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94) | N/A |
-| 22 | [דום לב](http://twitter.com/search?q=%d7%93%d7%95%d7%9d+%d7%9c%d7%91) | N/A |
-| 23 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 24 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 25 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 26 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 27 | [האדמה הלילה](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%9c%d7%99%d7%9c%d7%94) | N/A |
-| 28 | [י העם](http://twitter.com/search?q=%d7%99+%d7%94%d7%a2%d7%9d) | N/A |
-| 29 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
-| 30 | [ימי מחלה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%97%d7%9c%d7%94) | N/A |
-| 31 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
-| 32 | [אדמה״](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94%d7%b4) | N/A |
-| 33 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 34 | [כנסת ישראל](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 35 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
-| 36 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
-| 37 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
-| 38 | [חוק התרומות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa) | N/A |
-| 39 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
-| 40 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
-| 41 | [אסף רפפורט](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%a8%d7%a4%d7%a4%d7%95%d7%a8%d7%98) | N/A |
+| 22 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
+| 23 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 24 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 25 | [האדמה הלילה](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%9c%d7%99%d7%9c%d7%94) | N/A |
+| 26 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 27 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 29 | [כנסת ישראל](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 30 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
+| 31 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
+| 32 | [ימי חופשה](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9%d7%94) | N/A |
+| 33 | [חוק יסוד](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%99%d7%a1%d7%95%d7%93) | N/A |
+| 34 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
+| 35 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
+| 36 | [אסף רפפורט](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%a8%d7%a4%d7%a4%d7%95%d7%a8%d7%98) | N/A |
+| 37 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 38 | [דום לב](http://twitter.com/search?q=%d7%93%d7%95%d7%9d+%d7%9c%d7%91) | N/A |
+| 39 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
+| 40 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
+| 41 | [אלעד עמדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%93+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
 | 42 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
 | 43 | [הסופה ברברה](http://twitter.com/search?q=%d7%94%d7%a1%d7%95%d7%a4%d7%94+%d7%91%d7%a8%d7%91%d7%a8%d7%94) | N/A |
 | 44 | [גוש עציון](http://twitter.com/search?q=%d7%92%d7%95%d7%a9+%d7%a2%d7%a6%d7%99%d7%95%d7%9f) | N/A |
-| 45 | [עוד חודש](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%97%d7%95%d7%93%d7%a9) | N/A |
-| 46 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
-| 47 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
-| 48 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 49 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 50 | [חוק יסוד](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%99%d7%a1%d7%95%d7%93) | N/A |
+| 45 | [ערוץ הכנסת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 46 | [יוסי לנגוצקי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%9c%d7%a0%d7%92%d7%95%d7%a6%d7%a7%d7%99) | N/A |
+| 47 | [עוד חודש](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%97%d7%95%d7%93%d7%a9) | N/A |
+| 48 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
+| 49 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 50 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
 
 
 

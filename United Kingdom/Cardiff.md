@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-07 17:15:37 UTC`
+📆 Last Updated: `2023-02-07 18:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
 | 2 | [#SaferInternetDay2023](http://twitter.com/search?q=%23SaferInternetDay2023) | N/A |
-| 3 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
-| 4 | [#CurrysHogwartsLegacy](http://twitter.com/search?q=%23CurrysHogwartsLegacy) | N/A |
-| 5 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 3 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 4 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 5 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
 | 6 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [#CurrysHogwartsLegacy](http://twitter.com/search?q=%23CurrysHogwartsLegacy) | N/A |
 | 8 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 9 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 10 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 11 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 12 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 9 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 10 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 11 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 12 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
 | 13 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 14 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 16 | [Queens Gamble](http://twitter.com/search?q=Queens+Gamble) | N/A |
-| 17 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
+| 17 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
 | 18 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 20 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 19 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 21 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
-| 22 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 23 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 24 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 25 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
-| 26 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 27 | [Room 3](http://twitter.com/search?q=Room+3) | N/A |
-| 28 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 29 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 31 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
-| 32 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 33 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 34 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 35 | [Department](http://twitter.com/search?q=Department) | N/A |
-| 36 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 37 | [Secretary of State](http://twitter.com/search?q=Secretary+of+State) | N/A |
-| 38 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 39 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 40 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 41 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
-| 42 | [Lucy Frazer](http://twitter.com/search?q=Lucy+Frazer) | N/A |
-| 43 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 44 | [Red Wall](http://twitter.com/search?q=Red+Wall) | N/A |
-| 45 | [Sir Michael](http://twitter.com/search?q=Sir+Michael) | N/A |
-| 46 | [DCMS](http://twitter.com/search?q=DCMS) | N/A |
-| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 48 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 22 | [Queens Gamble](http://twitter.com/search?q=Queens+Gamble) | N/A |
+| 23 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
+| 24 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 25 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 26 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 27 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 28 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 29 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 30 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 31 | [Room 3](http://twitter.com/search?q=Room+3) | N/A |
+| 32 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
+| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 34 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 35 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 36 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 37 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 38 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
+| 39 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 40 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 41 | [Red Wall](http://twitter.com/search?q=Red+Wall) | N/A |
+| 42 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
+| 43 | [Lucy Frazer](http://twitter.com/search?q=Lucy+Frazer) | N/A |
+| 44 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 45 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 46 | [Department](http://twitter.com/search?q=Department) | N/A |
+| 47 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 48 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 49 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
 
 
 

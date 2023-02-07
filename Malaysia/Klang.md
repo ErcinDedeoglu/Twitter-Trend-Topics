@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-02-07 17:16:09 UTC`
+📆 Last Updated: `2023-02-07 18:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 6 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
 | 7 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
 | 8 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 9 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
-| 10 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 11 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 9 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 11 | [lee seunggi](http://twitter.com/search?q=lee+seunggi) | N/A |
+| 12 | [Paul kim](http://twitter.com/search?q=Paul+kim) | N/A |
 | 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 14 | [paul kim](http://twitter.com/search?q=paul+kim) | Paul Kim is a Korean-American singer and songwriter. He is best known for his hit single "Me After You" which was released in 2018. The title of the song is a metaphor for how life can be after a breakup or other difficult situation. The phrase "Paul Kim" has come to mean resilience and hope in the face of adversity. |
+| 14 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
 | 15 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 16 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 18 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 19 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 20 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 21 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 22 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 20 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 21 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 22 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
+| 23 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
 | 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 25 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 26 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 27 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
+| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 27 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
 | 28 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 30 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 31 | [SO BAD](http://twitter.com/search?q=SO+BAD) | N/A |
-| 32 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 33 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 34 | [kpop fan age](http://twitter.com/search?q=kpop+fan+age) | N/A |
-| 35 | [concerts attended](http://twitter.com/search?q=concerts+attended) | N/A |
-| 36 | [Number of Albums](http://twitter.com/search?q=Number+of+Albums) | N/A |
-| 37 | [Lightsticks Owned](http://twitter.com/search?q=Lightsticks+Owned) | N/A |
-| 38 | [ME AS A KPOP FAN](http://twitter.com/search?q=ME+AS+A+KPOP+FAN) | N/A |
-| 39 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 40 | [Current ULT Group](http://twitter.com/search?q=Current+ULT+Group) | N/A |
-| 41 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
-| 42 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 43 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
-| 44 | [Noona](http://twitter.com/search?q=Noona) | N/A |
-| 45 | [Sinb](http://twitter.com/search?q=Sinb) | N/A |
-| 46 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [SO BAD](http://twitter.com/search?q=SO+BAD) | N/A |
+| 30 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 31 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 32 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 33 | [Yupp](http://twitter.com/search?q=Yupp) | N/A |
+| 34 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 35 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
+| 36 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 37 | [Concerts Attended](http://twitter.com/search?q=Concerts+Attended) | N/A |
+| 38 | [Lightsticks Owned](http://twitter.com/search?q=Lightsticks+Owned) | N/A |
+| 39 | [Number of Albums](http://twitter.com/search?q=Number+of+Albums) | N/A |
+| 40 | [KPOP Fan Age](http://twitter.com/search?q=KPOP+Fan+Age) | N/A |
+| 41 | [ME AS A KPOP FAN](http://twitter.com/search?q=ME+AS+A+KPOP+FAN) | N/A |
+| 42 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
+| 43 | [Current ULT Group](http://twitter.com/search?q=Current+ULT+Group) | N/A |
+| 44 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 46 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 47 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
 | 48 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 49 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
 

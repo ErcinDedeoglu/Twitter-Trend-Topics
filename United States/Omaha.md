@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-02-07 17:16:34 UTC`
+📆 Last Updated: `2023-02-07 18:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 2 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 6 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 8 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 9 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 10 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 13 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 17 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 18 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 19 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 20 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 21 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 22 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 23 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 24 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 25 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
-| 26 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 27 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 28 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
-| 29 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 30 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 31 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 32 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 33 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
-| 34 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 35 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 36 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 37 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 38 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 39 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 40 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 41 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 42 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 43 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 44 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
-| 45 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 46 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 47 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 48 | [SNKRS app](http://twitter.com/search?q=SNKRS+app) | N/A |
+| 1 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 2 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 3 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 4 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 9 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 10 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 11 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 12 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 13 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 15 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
+| 16 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 20 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 22 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 23 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 24 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 25 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 26 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 27 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 28 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
+| 29 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 30 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 31 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 32 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 33 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 34 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 36 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 37 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 38 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 39 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 40 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
+| 41 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 42 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 43 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 44 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 45 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
+| 46 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 47 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 48 | [Orlando Robinson](http://twitter.com/search?q=Orlando+Robinson) | N/A |
 
 
 

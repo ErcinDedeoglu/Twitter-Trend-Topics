@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-07 17:16:44 UTC`
+📆 Last Updated: `2023-02-07 18:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 2 | [#aardbeving](http://twitter.com/search?q=%23aardbeving) | N/A |
-| 3 | [#CiscoLiveEMEA](http://twitter.com/search?q=%23CiscoLiveEMEA) | N/A |
-| 4 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 5 | [#groetgijs](http://twitter.com/search?q=%23groetgijs) | N/A |
-| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 8 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 9 | [Essent](http://twitter.com/search?q=Essent) | N/A |
-| 10 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 11 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 12 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 13 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 14 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 15 | [Gecondoleerd Peter](http://twitter.com/search?q=Gecondoleerd+Peter) | N/A |
-| 16 | [Aphex Twin](http://twitter.com/search?q=Aphex+Twin) | N/A |
-| 17 | [Syrische](http://twitter.com/search?q=Syrische) | N/A |
-| 18 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 19 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 20 | [Dag 7](http://twitter.com/search?q=Dag+7) | N/A |
-| 21 | [Waakhond ACM](http://twitter.com/search?q=Waakhond+ACM) | N/A |
-| 22 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
-| 23 | [Pedofilie](http://twitter.com/search?q=Pedofilie) | N/A |
-| 24 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 25 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 26 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
-| 27 | [Telefoonklapper](http://twitter.com/search?q=Telefoonklapper) | N/A |
-| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 29 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 30 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 31 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 32 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 33 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
-| 34 | [Barbados](http://twitter.com/search?q=Barbados) | N/A |
-| 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [The Sweet](http://twitter.com/search?q=The+Sweet) | N/A |
-| 37 | [Erasmus Universiteit](http://twitter.com/search?q=Erasmus+Universiteit) | N/A |
-| 38 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 39 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 40 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 41 | [Best Kept Secret](http://twitter.com/search?q=Best+Kept+Secret) | N/A |
-| 42 | [pec zwolle](http://twitter.com/search?q=pec+zwolle) | N/A |
-| 43 | [West](http://twitter.com/search?q=West) | N/A |
-| 44 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
-| 45 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 46 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 47 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 48 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 50 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 2 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 3 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
+| 4 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 5 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 6 | [#aardbeving](http://twitter.com/search?q=%23aardbeving) | N/A |
+| 7 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 8 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 9 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 10 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 11 | [Essent](http://twitter.com/search?q=Essent) | N/A |
+| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 13 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 14 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 17 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 18 | [Gecondoleerd Peter](http://twitter.com/search?q=Gecondoleerd+Peter) | N/A |
+| 19 | [Denemarken](http://twitter.com/search?q=Denemarken) | N/A |
+| 20 | [Syrische](http://twitter.com/search?q=Syrische) | N/A |
+| 21 | [Aphex Twin](http://twitter.com/search?q=Aphex+Twin) | N/A |
+| 22 | [Janneke](http://twitter.com/search?q=Janneke) | N/A |
+| 23 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 24 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 25 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 26 | [Dag 7](http://twitter.com/search?q=Dag+7) | N/A |
+| 27 | [Waakhond ACM](http://twitter.com/search?q=Waakhond+ACM) | N/A |
+| 28 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 29 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 30 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 31 | [Pedofilie](http://twitter.com/search?q=Pedofilie) | N/A |
+| 32 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 33 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
+| 34 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 35 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 36 | [Barbados](http://twitter.com/search?q=Barbados) | N/A |
+| 37 | [Beterschap Maarten](http://twitter.com/search?q=Beterschap+Maarten) | N/A |
+| 38 | [The Sweet](http://twitter.com/search?q=The+Sweet) | N/A |
+| 39 | [Luisteraar](http://twitter.com/search?q=Luisteraar) | N/A |
+| 40 | [Duitsland](http://twitter.com/search?q=Duitsland) | N/A |
+| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 42 | [Erasmus Universiteit](http://twitter.com/search?q=Erasmus+Universiteit) | N/A |
+| 43 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 44 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 45 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 46 | [Telefoonklapper](http://twitter.com/search?q=Telefoonklapper) | N/A |
+| 47 | [Best Kept Secret](http://twitter.com/search?q=Best+Kept+Secret) | N/A |
+| 48 | [pec zwolle](http://twitter.com/search?q=pec+zwolle) | N/A |
+| 49 | [West](http://twitter.com/search?q=West) | N/A |
+| 50 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
 
 
 
