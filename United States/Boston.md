@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-07 09:16:05 UTC`
+📆 Last Updated: `2023-02-07 10:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 2 | [Beanpot](http://twitter.com/search?q=Beanpot) | N/A |
 | 3 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 4 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 9 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 10 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 11 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 12 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 13 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 14 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 15 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 8 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 9 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
+| 10 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 12 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 13 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 14 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 15 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 16 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 17 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 17 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
+| 18 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
 | 19 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 20 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 21 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 22 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 23 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 24 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 25 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 26 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 27 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 28 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 29 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 30 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 31 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 32 | [Edward Scissorhands](http://twitter.com/search?q=Edward+Scissorhands) | N/A |
-| 33 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 34 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 35 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
-| 36 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 37 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 38 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 41 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 42 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 43 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 44 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
-| 45 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 46 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 47 | [Timcast](http://twitter.com/search?q=Timcast) | N/A |
-| 48 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 49 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 50 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 21 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 22 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 23 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 24 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 25 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 26 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 27 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 28 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 29 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 30 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 31 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 32 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 33 | [Edward Scissorhands](http://twitter.com/search?q=Edward+Scissorhands) | N/A |
+| 34 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 35 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 36 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 37 | [Timcast](http://twitter.com/search?q=Timcast) | N/A |
+| 38 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
+| 39 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 40 | [Madara](http://twitter.com/search?q=Madara) | N/A |
+| 41 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 42 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
+| 43 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 44 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 45 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 46 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 47 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 48 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
+| 49 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-07 09:15:26 UTC`
+📆 Last Updated: `2023-02-07 10:15:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 2 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 3 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 6 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
-| 7 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
-| 8 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 9 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 10 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 11 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 12 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 13 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 1 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 2 | [#CurrysHogwartsLegacy](http://twitter.com/search?q=%23CurrysHogwartsLegacy) | N/A |
+| 3 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 4 | [#reshuffle](http://twitter.com/search?q=%23reshuffle) | N/A |
+| 5 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
+| 6 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 7 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 8 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
+| 9 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 10 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 11 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 12 | [Danny Mills](http://twitter.com/search?q=Danny+Mills) | N/A |
+| 13 | [Mares](http://twitter.com/search?q=Mares) | N/A |
 | 14 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 15 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 16 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 17 | [Mares](http://twitter.com/search?q=Mares) | N/A |
-| 18 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 21 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 22 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
-| 23 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 24 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 26 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 27 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 28 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 29 | [#reshuffle](http://twitter.com/search?q=%23reshuffle) | N/A |
-| 30 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 31 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
-| 32 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 33 | [#ToriesOut215](http://twitter.com/search?q=%23ToriesOut215) | N/A |
-| 34 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 35 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
-| 36 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 38 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 39 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 40 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
-| 41 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 42 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 15 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 16 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 18 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 19 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 20 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 22 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 23 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 24 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 25 | [Gilmour](http://twitter.com/search?q=Gilmour) | N/A |
+| 26 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 27 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 28 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 29 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 30 | [Digital](http://twitter.com/search?q=Digital) | N/A |
+| 31 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 32 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 33 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 34 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 35 | [Croydon](http://twitter.com/search?q=Croydon) | N/A |
+| 36 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 37 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 38 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 39 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 40 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
+| 41 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 43 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 44 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 45 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
+| 46 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 47 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
+| 48 | [#ToriesOut215](http://twitter.com/search?q=%23ToriesOut215) | N/A |
 
 
 

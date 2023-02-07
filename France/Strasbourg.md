@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-07 09:15:38 UTC`
+📆 Last Updated: `2023-02-07 10:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 2 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 3 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 4 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 5 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 2 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 3 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 4 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
 | 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 7 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
 | 8 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 9 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 10 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 11 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 12 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 15 | [Celleux](http://twitter.com/search?q=Celleux) | N/A |
-| 16 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 17 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 18 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 19 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 20 | [Éric](http://twitter.com/search?q=%c3%89ric) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 23 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
-| 24 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 25 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 26 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 27 | [Eugénie](http://twitter.com/search?q=Eug%c3%a9nie) | N/A |
+| 9 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 10 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 12 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 13 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
+| 16 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 17 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
+| 18 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 20 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 21 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 22 | [Éric](http://twitter.com/search?q=%c3%89ric) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 25 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
+| 26 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 27 | [Fnac](http://twitter.com/search?q=Fnac) | N/A |
 | 28 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 29 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 30 | [Gabrielle](http://twitter.com/search?q=Gabrielle) | N/A |
-| 31 | [Racine](http://twitter.com/search?q=Racine) | N/A |
-| 32 | [TotalEnergies](http://twitter.com/search?q=TotalEnergies) | N/A |
-| 33 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 34 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 35 | [Mangue](http://twitter.com/search?q=Mangue) | N/A |
-| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 37 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 38 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 39 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 40 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 41 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 42 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 43 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 44 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
-| 45 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 46 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 47 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
-| 48 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 29 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 30 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 31 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 32 | [gabrielle](http://twitter.com/search?q=gabrielle) | N/A |
+| 33 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
+| 34 | [Racine](http://twitter.com/search?q=Racine) | N/A |
+| 35 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 36 | [Éponyme](http://twitter.com/search?q=%c3%89ponyme) | N/A |
+| 37 | [TotalEnergies](http://twitter.com/search?q=TotalEnergies) | N/A |
+| 38 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 41 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 42 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 43 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
+| 44 | [Catherine Ringer](http://twitter.com/search?q=Catherine+Ringer) | N/A |
+| 45 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 46 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
+| 47 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 48 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 49 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 
 
 

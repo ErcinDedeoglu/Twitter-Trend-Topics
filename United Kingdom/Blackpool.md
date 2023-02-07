@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-07 09:15:25 UTC`
+📆 Last Updated: `2023-02-07 10:15:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
-| 2 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 3 | [#apprenticeships](http://twitter.com/search?q=%23apprenticeships) | N/A |
-| 4 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 5 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 7 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
-| 8 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
-| 9 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 10 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 1 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 3 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 4 | [#CurrysHogwartsLegacy](http://twitter.com/search?q=%23CurrysHogwartsLegacy) | N/A |
+| 5 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 6 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
+| 7 | [#reshuffle](http://twitter.com/search?q=%23reshuffle) | N/A |
+| 8 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 9 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
+| 10 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
 | 11 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 12 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 12 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
 | 13 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 14 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 15 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 16 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 17 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 18 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Mares](http://twitter.com/search?q=Mares) | N/A |
-| 21 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 22 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 23 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
-| 24 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 25 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 26 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 27 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 28 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 29 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 30 | [#reshuffle](http://twitter.com/search?q=%23reshuffle) | N/A |
-| 31 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
-| 32 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 33 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 34 | [#ToriesOut215](http://twitter.com/search?q=%23ToriesOut215) | N/A |
-| 35 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 36 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
-| 37 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 38 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 39 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 40 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 41 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 14 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 15 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 16 | [Danny Mills](http://twitter.com/search?q=Danny+Mills) | N/A |
+| 17 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 18 | [Mares](http://twitter.com/search?q=Mares) | N/A |
+| 19 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 20 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 21 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 22 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 23 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 25 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 26 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 27 | [Gilmour](http://twitter.com/search?q=Gilmour) | N/A |
+| 28 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 29 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 30 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 31 | [Digital](http://twitter.com/search?q=Digital) | N/A |
+| 32 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 33 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 34 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 35 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 37 | [Croydon](http://twitter.com/search?q=Croydon) | N/A |
+| 38 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 39 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 41 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 43 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 44 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 45 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
+| 46 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 47 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
+| 48 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 49 | [#ToriesOut215](http://twitter.com/search?q=%23ToriesOut215) | N/A |
+| 50 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
 
 
 

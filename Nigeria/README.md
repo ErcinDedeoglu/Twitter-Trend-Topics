@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-07 09:16:18 UTC`
+📆 Last Updated: `2023-02-07 10:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Cmetu32](http://twitter.com/search?q=%23Cmetu32) | N/A |
-| 2 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 3 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 2 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 4 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
 | 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 6 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 7 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 8 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
-| 9 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
-| 10 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 11 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 7 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
+| 8 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 9 | [Stears](http://twitter.com/search?q=Stears) | N/A |
+| 10 | [Prestige](http://twitter.com/search?q=Prestige) | N/A |
+| 11 | [#DontExtendNairaDeadline](http://twitter.com/search?q=%23DontExtendNairaDeadline) | N/A |
 | 12 | [Machina](http://twitter.com/search?q=Machina) | N/A |
-| 13 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 14 | [Stears](http://twitter.com/search?q=Stears) | N/A |
-| 15 | [#bten](http://twitter.com/search?q=%23bten) | N/A |
+| 13 | [#bten](http://twitter.com/search?q=%23bten) | N/A |
+| 14 | [THE LORD HAS HELPED ME](http://twitter.com/search?q=THE+LORD+HAS+HELPED+ME) | "THE LORD HAS HELPED ME" is a phrase from the Bible (Psalm 118:13) and it means that God has provided assistance or guidance to the speaker. |
+| 15 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
 | 16 | [#ObiDattiInKwara](http://twitter.com/search?q=%23ObiDattiInKwara) | N/A |
-| 17 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 18 | [Jim Ovia](http://twitter.com/search?q=Jim+Ovia) | N/A |
-| 19 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 20 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
-| 21 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
-| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 23 | [9 DAYS TO HONEST DECISION](http://twitter.com/search?q=9+DAYS+TO+HONEST+DECISION) | N/A |
-| 24 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 25 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
-| 26 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 27 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 28 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 29 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 30 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 31 | [Yobe North](http://twitter.com/search?q=Yobe+North) | N/A |
-| 32 | [Zenith Bank](http://twitter.com/search?q=Zenith+Bank) | N/A |
-| 33 | [Fashola](http://twitter.com/search?q=Fashola) | N/A |
-| 34 | [Happy Birthday Boss](http://twitter.com/search?q=Happy+Birthday+Boss) | N/A |
-| 35 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
-| 36 | [where is beauty tukura](http://twitter.com/search?q=where+is+beauty+tukura) | N/A |
-| 37 | [Seun Kuti](http://twitter.com/search?q=Seun+Kuti) | N/A |
+| 17 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 18 | [Zenith](http://twitter.com/search?q=Zenith) | N/A |
+| 19 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 20 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 21 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 22 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 23 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
+| 24 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
+| 25 | [Obi and Atiku](http://twitter.com/search?q=Obi+and+Atiku) | N/A |
+| 26 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 27 | [Jim Ovia](http://twitter.com/search?q=Jim+Ovia) | N/A |
+| 28 | [Yobe North](http://twitter.com/search?q=Yobe+North) | N/A |
+| 29 | [9 DAYS TO HONEST DECISION](http://twitter.com/search?q=9+DAYS+TO+HONEST+DECISION) | N/A |
+| 30 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 31 | [Fashola](http://twitter.com/search?q=Fashola) | N/A |
+| 32 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 33 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 34 | [where is beauty tukura](http://twitter.com/search?q=where+is+beauty+tukura) | N/A |
+| 35 | [Seun Kuti](http://twitter.com/search?q=Seun+Kuti) | N/A |
+| 36 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 37 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
 | 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 39 | [beauty come out](http://twitter.com/search?q=beauty+come+out) | N/A |
-| 40 | [Mamman Daura](http://twitter.com/search?q=Mamman+Daura) | N/A |
-| 41 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 42 | [Diddy](http://twitter.com/search?q=Diddy) | N/A |
-| 43 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 44 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 45 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 40 | [Diddy](http://twitter.com/search?q=Diddy) | N/A |
+| 41 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 42 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
+| 43 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 44 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 45 | [Mamman Daura](http://twitter.com/search?q=Mamman+Daura) | N/A |
+| 46 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 47 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
-| 48 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
-| 49 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 50 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 48 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 49 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
+| 50 | [Chidi Mokeme](http://twitter.com/search?q=Chidi+Mokeme) | N/A |
 
 
 

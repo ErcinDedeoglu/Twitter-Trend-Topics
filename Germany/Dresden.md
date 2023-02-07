@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-07 09:15:39 UTC`
+📆 Last Updated: `2023-02-07 10:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 3 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
-| 4 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 1 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
+| 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 3 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
+| 4 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
 | 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 7 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 6 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 7 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 8 | [Claudia Plattner](http://twitter.com/search?q=Claudia+Plattner) | N/A |
 | 9 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 10 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 11 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 12 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 13 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 14 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 15 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 16 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 17 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 18 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 21 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 22 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
-| 23 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 24 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 25 | [Guten Morgen Lissy](http://twitter.com/search?q=Guten+Morgen+Lissy) | N/A |
+| 10 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
+| 11 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 12 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 13 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 14 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 15 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 16 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 17 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 18 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 20 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 21 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 22 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 23 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 25 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
 | 26 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 27 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 28 | [William Turner](http://twitter.com/search?q=William+Turner) | N/A |
-| 29 | [Karla](http://twitter.com/search?q=Karla) | N/A |
-| 30 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
-| 31 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
-| 32 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 33 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
-| 34 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
-| 35 | [Altparteien](http://twitter.com/search?q=Altparteien) | N/A |
-| 36 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 37 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 27 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 28 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
+| 29 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 30 | [Lebenserwartung](http://twitter.com/search?q=Lebenserwartung) | N/A |
+| 31 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 32 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 33 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 34 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
+| 35 | [Guten Morgen Dieter](http://twitter.com/search?q=Guten+Morgen+Dieter) | N/A |
+| 36 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 37 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
 | 38 | [Infektionsschutzgesetz](http://twitter.com/search?q=Infektionsschutzgesetz) | N/A |
-| 39 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
-| 40 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 41 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 42 | [Preload](http://twitter.com/search?q=Preload) | N/A |
-| 43 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
-| 44 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 45 | [Zensur](http://twitter.com/search?q=Zensur) | N/A |
-| 46 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 47 | [Kummer und Sorgen](http://twitter.com/search?q=Kummer+und+Sorgen) | N/A |
-| 48 | [Lebenserwartung](http://twitter.com/search?q=Lebenserwartung) | N/A |
+| 39 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 40 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 41 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 42 | [Kummer und Sorgen](http://twitter.com/search?q=Kummer+und+Sorgen) | N/A |
+| 43 | [Einfahrt](http://twitter.com/search?q=Einfahrt) | N/A |
+| 44 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 45 | [William Turner](http://twitter.com/search?q=William+Turner) | N/A |
+| 46 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
+| 47 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 48 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
 
 
 

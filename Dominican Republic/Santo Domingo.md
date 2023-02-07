@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-07 09:15:28 UTC`
+📆 Last Updated: `2023-02-07 10:15:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 2 | [#rdelige](http://twitter.com/search?q=%23rdelige) | N/A |
 | 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 4 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
-| 5 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
+| 4 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
+| 5 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
 | 6 | [jonathan aro](http://twitter.com/search?q=jonathan+aro) | N/A |
 | 7 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
 | 8 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
@@ -27,12 +27,12 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 10 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
 | 11 | [#turismorecordrd](http://twitter.com/search?q=%23turismorecordrd) | N/A |
 | 12 | [junior lake](http://twitter.com/search?q=junior+lake) | N/A |
-| 13 | [faride](http://twitter.com/search?q=faride) | N/A |
-| 14 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 15 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 17 | [Turkia](http://twitter.com/search?q=Turkia) | N/A |
-| 18 | [cabecita](http://twitter.com/search?q=cabecita) | N/A |
+| 13 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 15 | [Turkia](http://twitter.com/search?q=Turkia) | N/A |
+| 16 | [cabecita](http://twitter.com/search?q=cabecita) | N/A |
+| 17 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 18 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 19 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 20 | [gustavo nuñez](http://twitter.com/search?q=gustavo+nu%c3%b1ez) | N/A |
 | 21 | [offerman](http://twitter.com/search?q=offerman) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 35 | [steven alberto](http://twitter.com/search?q=steven+alberto) | N/A |
 | 36 | [punta catalina](http://twitter.com/search?q=punta+catalina) | N/A |
-| 37 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 38 | [cabo rojo](http://twitter.com/search?q=cabo+rojo) | N/A |
-| 39 | [hector lavoe](http://twitter.com/search?q=hector+lavoe) | N/A |
-| 40 | [los prados](http://twitter.com/search?q=los+prados) | N/A |
-| 41 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 43 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 44 | [los alcarrizos](http://twitter.com/search?q=los+alcarrizos) | N/A |
-| 45 | [Bahía](http://twitter.com/search?q=Bah%c3%ada) | N/A |
-| 46 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
-| 47 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
-| 48 | [Salud Pública](http://twitter.com/search?q=Salud+P%c3%bablica) | N/A |
-| 49 | [Turco](http://twitter.com/search?q=Turco) | N/A |
-| 50 | [miguel vargas](http://twitter.com/search?q=miguel+vargas) | N/A |
+| 37 | [cabo rojo](http://twitter.com/search?q=cabo+rojo) | N/A |
+| 38 | [hector lavoe](http://twitter.com/search?q=hector+lavoe) | N/A |
+| 39 | [los prados](http://twitter.com/search?q=los+prados) | N/A |
+| 40 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 41 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 42 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 43 | [los alcarrizos](http://twitter.com/search?q=los+alcarrizos) | N/A |
+| 44 | [Bahía](http://twitter.com/search?q=Bah%c3%ada) | N/A |
+| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 46 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 47 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
+| 48 | [gutiérrez](http://twitter.com/search?q=guti%c3%a9rrez) | N/A |
+| 49 | [Salud Pública](http://twitter.com/search?q=Salud+P%c3%bablica) | N/A |
+| 50 | [Turco](http://twitter.com/search?q=Turco) | N/A |
 
 
 
