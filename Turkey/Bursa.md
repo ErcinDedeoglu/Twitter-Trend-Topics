@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-07 06:16:50 UTC`
+📆 Last Updated: `2023-02-07 07:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ÇokFazla BağışGeldi](http://twitter.com/search?q=%c3%87okFazla+Ba%c4%9f%c4%b1%c5%9fGeldi) | N/A |
-| 2 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
-| 3 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
+| 1 | [AdamınDibisin HalukLevent](http://twitter.com/search?q=Adam%c4%b1nDibisin+HalukLevent) | N/A |
+| 2 | [ÇokFazla BağışGeldi](http://twitter.com/search?q=%c3%87okFazla+Ba%c4%9f%c4%b1%c5%9fGeldi) | N/A |
+| 3 | [#MehmetcikSahaya](http://twitter.com/search?q=%23MehmetcikSahaya) | N/A |
 | 4 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 5 | [#MehmetcikSahaya](http://twitter.com/search?q=%23MehmetcikSahaya) | N/A |
+| 5 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
 | 6 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 7 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 8 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 7 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
+| 8 | [Asker](http://twitter.com/search?q=Asker) | N/A |
 | 9 | [Vesaire](http://twitter.com/search?q=Vesaire) | N/A |
-| 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 10 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 11 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 12 | [Adıyamana AcilYardım](http://twitter.com/search?q=Ad%c4%b1yamana+AcilYard%c4%b1m) | N/A |
-| 13 | [Sela](http://twitter.com/search?q=Sela) | N/A |
-| 14 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 15 | [Tam 24](http://twitter.com/search?q=Tam+24) | N/A |
-| 16 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
-| 17 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 18 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 19 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 20 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 21 | [Depremin](http://twitter.com/search?q=Depremin) | N/A |
-| 22 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 12 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 13 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
+| 14 | [Sela](http://twitter.com/search?q=Sela) | N/A |
+| 15 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
+| 16 | [Vinç](http://twitter.com/search?q=Vin%c3%a7) | N/A |
+| 17 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
+| 18 | [İskenderun Limanı](http://twitter.com/search?q=%c4%b0skenderun+Liman%c4%b1) | N/A |
+| 19 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 20 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 21 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 22 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
 | 23 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
-| 24 | [Yıkılan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lan) | N/A |
-| 25 | [Gün Birlik Günü](http://twitter.com/search?q=G%c3%bcn+Birlik+G%c3%bcn%c3%bc) | N/A |
-| 26 | [Depremden](http://twitter.com/search?q=Depremden) | N/A |
-| 27 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 28 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 29 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
-| 30 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
-| 31 | [Adana'ya](http://twitter.com/search?q=Adana%27ya) | N/A |
-| 32 | [Japonya'da](http://twitter.com/search?q=Japonya%27da) | N/A |
-| 33 | [Mardine AcilDestek](http://twitter.com/search?q=Mardine+AcilDestek) | N/A |
-| 34 | [Arama](http://twitter.com/search?q=Arama) | N/A |
-| 35 | [#HelpTurkey](http://twitter.com/search?q=%23HelpTurkey) | N/A |
-| 36 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
-| 37 | [#tskgoreve](http://twitter.com/search?q=%23tskgoreve) | N/A |
-| 38 | [#marasyardımbekliyor](http://twitter.com/search?q=%23marasyard%c4%b1mbekliyor) | N/A |
-| 39 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
-| 40 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
-| 41 | [#EkiplerNerede](http://twitter.com/search?q=%23EkiplerNerede) | N/A |
-| 42 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
-| 43 | [#Yastayız](http://twitter.com/search?q=%23Yastay%c4%b1z) | N/A |
-| 44 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
-| 45 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 46 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 47 | [#gaziantepdeprem](http://twitter.com/search?q=%23gaziantepdeprem) | N/A |
-| 48 | [#afsindeprem](http://twitter.com/search?q=%23afsindeprem) | N/A |
-| 49 | [#antakyadeprem](http://twitter.com/search?q=%23antakyadeprem) | N/A |
-| 50 | [#malatyadeprem](http://twitter.com/search?q=%23malatyadeprem) | N/A |
+| 24 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 25 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 26 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 27 | [Akut](http://twitter.com/search?q=Akut) | N/A |
+| 28 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 29 | [Yıkılan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lan) | N/A |
+| 30 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
+| 31 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 32 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 33 | [Yatacak](http://twitter.com/search?q=Yatacak) | N/A |
+| 34 | [Japonya](http://twitter.com/search?q=Japonya) | N/A |
+| 35 | [Ahlaksız](http://twitter.com/search?q=Ahlaks%c4%b1z) | N/A |
+| 36 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
+| 37 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
+| 38 | [Aşağılık](http://twitter.com/search?q=A%c5%9fa%c4%9f%c4%b1l%c4%b1k) | N/A |
+| 39 | [Gün Birlik Günü](http://twitter.com/search?q=G%c3%bcn+Birlik+G%c3%bcn%c3%bc) | N/A |
+| 40 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 41 | [Afat](http://twitter.com/search?q=Afat) | N/A |
+| 42 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 43 | [Adana'ya](http://twitter.com/search?q=Adana%27ya) | N/A |
+| 44 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
+| 45 | [#tskgoreve](http://twitter.com/search?q=%23tskgoreve) | N/A |
+| 46 | [#YASTAYIZ](http://twitter.com/search?q=%23YASTAYIZ) | N/A |
+| 47 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
+| 48 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 49 | [#tskseferberedilsin](http://twitter.com/search?q=%23tskseferberedilsin) | N/A |
+| 50 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
 
 
 
