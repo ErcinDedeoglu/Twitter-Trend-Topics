@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-07 03:16:30 UTC`
+📆 Last Updated: `2023-02-07 04:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 2 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 3 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 4 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 5 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 6 | [Davion](http://twitter.com/search?q=Davion) | N/A |
-| 7 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 8 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 9 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 10 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 11 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 12 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 13 | [A-List](http://twitter.com/search?q=A-List) | N/A |
-| 14 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 15 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 16 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 18 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 19 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 20 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 21 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 22 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 23 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 24 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 25 | [Andre Drummond](http://twitter.com/search?q=Andre+Drummond) | N/A |
-| 26 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
-| 27 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 28 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 29 | [Dan Gilbert](http://twitter.com/search?q=Dan+Gilbert) | N/A |
-| 30 | [Brock Lesnar](http://twitter.com/search?q=Brock+Lesnar) | Brock Lesnar is an American professional wrestler, mixed martial artist, and former amateur wrestler. He is currently signed to WWE, where he performs on the Raw brand. The name "Brock Lesnar" is a combination of his real first name (Brock) and his father's surname (Lesnar). |
-| 31 | [Hurt Business](http://twitter.com/search?q=Hurt+Business) | Hurt Business is a term used to describe a business that is struggling financially or has been damaged in some way. It can refer to a company that has suffered losses due to poor management, market conditions, or other factors. It can also refer to an industry as a whole that is experiencing financial hardship. |
-| 32 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 33 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 36 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 39 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 40 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 41 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 42 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 43 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 44 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 45 | [Shelton](http://twitter.com/search?q=Shelton) | N/A |
-| 46 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 47 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 49 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 1 | [Fitz](http://twitter.com/search?q=Fitz) | N/A |
+| 2 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 3 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 4 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 5 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
+| 6 | [Keon Ellis](http://twitter.com/search?q=Keon+Ellis) | N/A |
+| 7 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 8 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 9 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 10 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 11 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 12 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 13 | [Davion](http://twitter.com/search?q=Davion) | N/A |
+| 14 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 15 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 16 | [Turkey and Syria](http://twitter.com/search?q=Turkey+and+Syria) | N/A |
+| 17 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 19 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 20 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 21 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 22 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 24 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
+| 25 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 26 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 27 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 28 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 29 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 30 | [Andre Drummond](http://twitter.com/search?q=Andre+Drummond) | N/A |
+| 31 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 32 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 33 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
+| 34 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 35 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 36 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 37 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
+| 38 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 39 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
+| 40 | [Cody and Paul](http://twitter.com/search?q=Cody+and+Paul) | N/A |
+| 41 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 43 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 44 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 45 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 46 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 47 | [Dan Gilbert](http://twitter.com/search?q=Dan+Gilbert) | N/A |
+| 48 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 49 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
 
 
 

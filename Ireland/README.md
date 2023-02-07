@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-07 03:16:33 UTC`
+📆 Last Updated: `2023-02-07 04:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
 | 4 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 6 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 6 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 7 | [Niamh Bhreathnach](http://twitter.com/search?q=Niamh+Bhreathnach) | N/A |
 | 8 | [#itavfra](http://twitter.com/search?q=%23itavfra) | N/A |
 | 9 | [#HappyValley](http://twitter.com/search?q=%23HappyValley) | #HappyValley is a hashtag used to refer to the city of State College, Pennsylvania, which is home to Penn State University. It is often used by locals and alumni of the university to express their pride in the city and its culture. |
@@ -48,16 +48,16 @@ This is top 50 for Ireland
 | 31 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 32 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 33 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 34 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 35 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 36 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 37 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
 | 38 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
 | 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 40 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 41 | [saint brigid](http://twitter.com/search?q=saint+brigid) | N/A |
-| 42 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 43 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 42 | [Leitrim](http://twitter.com/search?q=Leitrim) | N/A |
+| 43 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
 | 44 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 45 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
 | 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |

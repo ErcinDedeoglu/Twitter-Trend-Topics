@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-07 03:16:10 UTC`
+📆 Last Updated: `2023-02-07 04:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
 | 3 | [#JISOOxCartierBeautésDuMonde](http://twitter.com/search?q=%23JISOOxCartierBeaut%c3%a9sDuMonde) | #JISOOxCartierBeautésDuMonde is a hashtag used to promote the collaboration between South Korean singer Jisoo and French luxury jewelry brand Cartier. The hashtag translates to "Jisoo x Cartier Beauties of the World" in English. |
 | 4 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 5 | [#BetweenUsTheSeries](http://twitter.com/search?q=%23BetweenUsTheSeries) | N/A |
-| 6 | [#cannotgoodbyebu](http://twitter.com/search?q=%23cannotgoodbyebu) | N/A |
-| 7 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
+| 5 | [#50MTrueLoveByNuNew](http://twitter.com/search?q=%2350MTrueLoveByNuNew) | N/A |
+| 6 | [#BetweenUsTheSeries](http://twitter.com/search?q=%23BetweenUsTheSeries) | N/A |
+| 7 | [#cannotgoodbyebu](http://twitter.com/search?q=%23cannotgoodbyebu) | N/A |
 | 8 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 10 | [Secc](http://twitter.com/search?q=Secc) | N/A |
-| 11 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 12 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 13 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 14 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
+| 9 | [secc](http://twitter.com/search?q=secc) | N/A |
+| 10 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 11 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 12 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 13 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
+| 14 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
 | 15 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 16 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
-| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 16 | [la llama pic](http://twitter.com/search?q=la+llama+pic) | N/A |
+| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 18 | [lo que eres es hermoso](http://twitter.com/search?q=lo+que+eres+es+hermoso) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 20 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 21 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 22 | [1 CORE](http://twitter.com/search?q=1+CORE) | N/A |
-| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [BeepList](http://twitter.com/search?q=BeepList) | N/A |
-| 26 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
-| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 28 | [phòng](http://twitter.com/search?q=ph%c3%b2ng) | N/A |
-| 29 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 31 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 32 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 33 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
-| 34 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 35 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
-| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 38 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 41 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 42 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
-| 43 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
-| 44 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 45 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 46 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 47 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 48 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 50 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 23 | [BeepList](http://twitter.com/search?q=BeepList) | N/A |
+| 24 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 25 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [Massage in Riaydh](http://twitter.com/search?q=Massage+in+Riaydh) | N/A |
+| 28 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 29 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 30 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 31 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
+| 32 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
+| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 36 | [Điều](http://twitter.com/search?q=%c4%90i%e1%bb%81u) | N/A |
+| 37 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 38 | [Cuối](http://twitter.com/search?q=Cu%e1%bb%91i) | N/A |
+| 39 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
+| 40 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 41 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 42 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 44 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 45 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 46 | [đừng](http://twitter.com/search?q=%c4%91%e1%bb%abng) | N/A |
+| 47 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 48 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 49 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 50 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
 
 
 

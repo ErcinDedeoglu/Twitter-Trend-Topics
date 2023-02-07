@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-07 03:16:33 UTC`
+📆 Last Updated: `2023-02-07 04:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for Ghana
 | 3 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 4 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
 | 5 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 6 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 7 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
-| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 9 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 10 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 12 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 13 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 14 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
-| 15 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
+| 6 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
+| 7 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 9 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 10 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 11 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 13 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 14 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 15 | [#brunchintheciti](http://twitter.com/search?q=%23brunchintheciti) | N/A |
 | 16 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
 | 17 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
 | 18 | [May God](http://twitter.com/search?q=May+God) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Ghana
 | 21 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
 | 22 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
 | 23 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 24 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 24 | [kaniva](http://twitter.com/search?q=kaniva) | N/A |
 | 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 26 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
 | 27 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
 | 28 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
-| 29 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 30 | [Accra Lions](http://twitter.com/search?q=Accra+Lions) | N/A |
-| 31 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 29 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 30 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 31 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
 | 32 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 33 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 34 | [Rashid Nortey](http://twitter.com/search?q=Rashid+Nortey) | N/A |
-| 35 | [Madea](http://twitter.com/search?q=Madea) | N/A |
-| 36 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 37 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
-| 38 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 39 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 40 | [RAPHINHA](http://twitter.com/search?q=RAPHINHA) | N/A |
-| 41 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 42 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 43 | [Alive](http://twitter.com/search?q=Alive) | N/A |
-| 44 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 45 | [ken ofori](http://twitter.com/search?q=ken+ofori) | N/A |
-| 46 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
-| 47 | [Emmanuel](http://twitter.com/search?q=Emmanuel) | N/A |
-| 48 | [Glory](http://twitter.com/search?q=Glory) | N/A |
-| 49 | [Wakaso](http://twitter.com/search?q=Wakaso) | N/A |
-| 50 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 33 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 34 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 35 | [Rashid Nortey](http://twitter.com/search?q=Rashid+Nortey) | N/A |
+| 36 | [Madea](http://twitter.com/search?q=Madea) | N/A |
+| 37 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 39 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
+| 40 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 41 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
+| 42 | [RAPHINHA](http://twitter.com/search?q=RAPHINHA) | N/A |
+| 43 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 44 | [Alive](http://twitter.com/search?q=Alive) | N/A |
+| 45 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 46 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 47 | [ken ofori](http://twitter.com/search?q=ken+ofori) | N/A |
+| 48 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 49 | [Emmanuel](http://twitter.com/search?q=Emmanuel) | N/A |
+| 50 | [Glory](http://twitter.com/search?q=Glory) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-07 03:16:17 UTC`
+📆 Last Updated: `2023-02-07 04:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 11 | [Happy Birthday WB](http://twitter.com/search?q=Happy+Birthday+WB) | N/A |
-| 12 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 12 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
 | 13 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 14 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 15 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
-| 16 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 14 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 15 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 16 | [Daughter of Ali](http://twitter.com/search?q=Daughter+of+Ali) | N/A |
 | 17 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
 | 18 | [Allah O Akbar](http://twitter.com/search?q=Allah+O+Akbar) | N/A |
-| 19 | [May the Almighty](http://twitter.com/search?q=May+the+Almighty) | N/A |
+| 19 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
 | 20 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 21 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 22 | [Daughter of Ali](http://twitter.com/search?q=Daughter+of+Ali) | N/A |
-| 23 | [Javed Miandad](http://twitter.com/search?q=Javed+Miandad) | N/A |
-| 24 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 25 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 26 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 27 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 28 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 29 | [May He](http://twitter.com/search?q=May+He) | N/A |
-| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 31 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 32 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 33 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 34 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 35 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 36 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 37 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 38 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 39 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
-| 40 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 41 | [Appreciated](http://twitter.com/search?q=Appreciated) | N/A |
-| 42 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
-| 43 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 45 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 46 | [England](http://twitter.com/search?q=England) | N/A |
-| 47 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 50 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 21 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 22 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 23 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 24 | [May the Almighty](http://twitter.com/search?q=May+the+Almighty) | N/A |
+| 25 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 26 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 27 | [Javed Miandad](http://twitter.com/search?q=Javed+Miandad) | N/A |
+| 28 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 29 | [Atif](http://twitter.com/search?q=Atif) | N/A |
+| 30 | [Thankyouuu](http://twitter.com/search?q=Thankyouuu) | N/A |
+| 31 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 32 | [May He](http://twitter.com/search?q=May+He) | N/A |
+| 33 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 34 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 35 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 37 | [International](http://twitter.com/search?q=International) | N/A |
+| 38 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 39 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 40 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 41 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
+| 42 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 46 | [Appreciated](http://twitter.com/search?q=Appreciated) | N/A |
+| 47 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 48 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 49 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 50 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 
 
 

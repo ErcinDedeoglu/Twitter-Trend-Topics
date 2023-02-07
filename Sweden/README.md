@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-07 03:16:38 UTC`
+📆 Last Updated: `2023-02-07 04:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 2 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 2 | [timbro](http://twitter.com/search?q=timbro) | N/A |
 | 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 4 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
+| 4 | [lkab](http://twitter.com/search?q=lkab) | N/A |
 | 5 | [Zara Larsson](http://twitter.com/search?q=Zara+Larsson) | N/A |
 | 6 | [WTF DET ÄR REDAN FEBRUARI](http://twitter.com/search?q=WTF+DET+%c3%84R+REDAN+FEBRUARI) | N/A |
 | 7 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 8 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 9 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 8 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 10 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 11 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 | 12 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
@@ -41,16 +41,16 @@ This is top 50 for Sweden
 | 24 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 25 | [Karma](http://twitter.com/search?q=Karma) | N/A |
 | 26 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 27 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
-| 28 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 29 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
-| 30 | [#sapmi](http://twitter.com/search?q=%23sapmi) | N/A |
-| 31 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 32 | [#Laascaanood](http://twitter.com/search?q=%23Laascaanood) | N/A |
-| 33 | [s-regeringen](http://twitter.com/search?q=s-regeringen) | N/A |
-| 34 | [Kurdistan](http://twitter.com/search?q=Kurdistan) | N/A |
-| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 36 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 27 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 28 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
+| 29 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 30 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
+| 31 | [#sapmi](http://twitter.com/search?q=%23sapmi) | N/A |
+| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 33 | [#Laascaanood](http://twitter.com/search?q=%23Laascaanood) | N/A |
+| 34 | [s-regeringen](http://twitter.com/search?q=s-regeringen) | N/A |
+| 35 | [Kurdistan](http://twitter.com/search?q=Kurdistan) | N/A |
+| 36 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
 | 37 | [Allahs](http://twitter.com/search?q=Allahs) | N/A |
 | 38 | [Kina](http://twitter.com/search?q=Kina) | N/A |
 | 39 | [Tyska](http://twitter.com/search?q=Tyska) | N/A |

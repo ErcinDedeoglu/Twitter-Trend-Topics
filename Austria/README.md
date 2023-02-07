@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-07 03:16:31 UTC`
+📆 Last Updated: `2023-02-07 04:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,24 +25,24 @@ This is top 50 for Austria
 | 8 | [#Falco](http://twitter.com/search?q=%23Falco) | N/A |
 | 9 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 10 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 11 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 12 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
-| 13 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 14 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 15 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 16 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 17 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
-| 18 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 19 | [matura](http://twitter.com/search?q=matura) | N/A |
-| 20 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
+| 11 | [qualifikation](http://twitter.com/search?q=qualifikation) | N/A |
+| 12 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 13 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 14 | [kommission](http://twitter.com/search?q=kommission) | N/A |
+| 15 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 16 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
+| 17 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 18 | [matura](http://twitter.com/search?q=matura) | N/A |
+| 19 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
+| 20 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 21 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
 | 22 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
 | 23 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
 | 24 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
 | 25 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
 | 26 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
-| 27 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 28 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 27 | [roten](http://twitter.com/search?q=roten) | N/A |
+| 28 | [sebastian kurz](http://twitter.com/search?q=sebastian+kurz) | N/A |
 | 29 | [bäumen](http://twitter.com/search?q=b%c3%a4umen) | N/A |
 | 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 31 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Austria
 | 35 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
 | 36 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
 | 37 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 38 | [Freut](http://twitter.com/search?q=Freut) | N/A |
+| 38 | [freut](http://twitter.com/search?q=freut) | N/A |
 | 39 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
 | 40 | [rabatt](http://twitter.com/search?q=rabatt) | N/A |
 | 41 | [Studium](http://twitter.com/search?q=Studium) | N/A |
