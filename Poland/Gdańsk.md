@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-07 15:15:51 UTC`
+📆 Last Updated: `2023-02-07 16:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,50 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 4 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 5 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 6 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 7 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 8 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 9 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 10 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 11 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 12 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
-| 13 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 14 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 15 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 16 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
-| 17 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 18 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
+| 6 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 7 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
+| 8 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 9 | [Besni](http://twitter.com/search?q=Besni) | N/A |
+| 10 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 11 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 12 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 13 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 14 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 15 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
+| 16 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 17 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 18 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
 | 19 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 20 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 21 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 22 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 23 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
-| 24 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 25 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 26 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 27 | [Władkiem](http://twitter.com/search?q=W%c5%82adkiem) | N/A |
-| 28 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 29 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 30 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
-| 31 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 32 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 33 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 34 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 35 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 36 | [jaśmina](http://twitter.com/search?q=ja%c5%9bmina) | N/A |
-| 37 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 38 | [Minister Edukacji](http://twitter.com/search?q=Minister+Edukacji) | N/A |
-| 39 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
-| 40 | [agrounią](http://twitter.com/search?q=agrouni%c4%85) | N/A |
-| 41 | [tygryska](http://twitter.com/search?q=tygryska) | N/A |
-| 42 | [janusz](http://twitter.com/search?q=janusz) | N/A |
-| 43 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
-| 44 | [Oshee](http://twitter.com/search?q=Oshee) | N/A |
-| 45 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 46 | [post 3](http://twitter.com/search?q=post+3) | N/A |
-| 47 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
-| 48 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 20 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 21 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 22 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 23 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 24 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 25 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
+| 26 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 27 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 28 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 29 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 30 | [Władkiem](http://twitter.com/search?q=W%c5%82adkiem) | N/A |
+| 31 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 32 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 33 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 34 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 35 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 36 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
+| 37 | [Więzień Azkabanu](http://twitter.com/search?q=Wi%c4%99zie%c5%84+Azkabanu) | N/A |
+| 38 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 39 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 40 | [Żenada](http://twitter.com/search?q=%c5%bbenada) | N/A |
+| 41 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
+| 42 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 43 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 44 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 45 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
+| 46 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
+| 47 | [Oshee](http://twitter.com/search?q=Oshee) | N/A |
+| 48 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
+| 49 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
 
 
 

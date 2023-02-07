@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-07 15:16:21 UTC`
+📆 Last Updated: `2023-02-07 16:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 4 | [Beanpot](http://twitter.com/search?q=Beanpot) | N/A |
-| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 6 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 10 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 11 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 13 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 15 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 17 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 18 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 19 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 20 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 21 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 22 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 23 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 24 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 25 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 26 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 27 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
-| 28 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
-| 29 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 30 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 31 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 32 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 9 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 12 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 15 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 18 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 20 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 21 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 22 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 23 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 24 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 26 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 29 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 30 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 31 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 32 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
 | 33 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 34 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 36 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 38 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 39 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 40 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 41 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 42 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 43 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 34 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 35 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 36 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 37 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 38 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 42 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
+| 43 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
 | 44 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 45 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 46 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 47 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 48 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 49 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 45 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 47 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
+| 48 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
 
 
 

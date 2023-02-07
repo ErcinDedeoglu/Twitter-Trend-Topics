@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-07 15:16:37 UTC`
+📆 Last Updated: `2023-02-07 16:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 2 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
-| 3 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 4 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
-| 5 | [#BTSRM](http://twitter.com/search?q=%23BTSRM) | N/A |
-| 6 | [#방탄소년단알엠](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%95%8c%ec%97%a0) | N/A |
+| 1 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
+| 2 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 3 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
+| 4 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 6 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
 | 7 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 8 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
 | 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 10 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 11 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
-| 12 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 13 | [ENGLOT](http://twitter.com/search?q=ENGLOT) | N/A |
-| 14 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 15 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 17 | [lo que eres es hermoso](http://twitter.com/search?q=lo+que+eres+es+hermoso) | N/A |
-| 18 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 19 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 20 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
+| 11 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 12 | [ENGLOT](http://twitter.com/search?q=ENGLOT) | N/A |
+| 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 14 | [Opening Trailer Photo Mina](http://twitter.com/search?q=Opening+Trailer+Photo+Mina) | N/A |
+| 15 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 16 | [lo que eres es hermoso](http://twitter.com/search?q=lo+que+eres+es+hermoso) | N/A |
+| 17 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 18 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
+| 19 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 20 | [Mike](http://twitter.com/search?q=Mike) | N/A |
 | 21 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 22 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 23 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 25 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 26 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 27 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 28 | [Secc](http://twitter.com/search?q=Secc) | N/A |
-| 29 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 30 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 31 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 32 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 33 | [chán](http://twitter.com/search?q=ch%c3%a1n) | N/A |
-| 34 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
-| 35 | [Massage in Riaydh](http://twitter.com/search?q=Massage+in+Riaydh) | N/A |
-| 36 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 37 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
-| 38 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 23 | [Hồ Chí Minh](http://twitter.com/search?q=H%e1%bb%93+Ch%c3%ad+Minh) | N/A |
+| 24 | [Đảng](http://twitter.com/search?q=%c4%90%e1%ba%a3ng) | N/A |
+| 25 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 26 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
+| 27 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
+| 28 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 29 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 30 | [Secc](http://twitter.com/search?q=Secc) | N/A |
+| 31 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 32 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 33 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 34 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 35 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
+| 36 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 37 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 38 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
 | 39 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 40 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 41 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 42 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 43 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
-| 44 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 45 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 46 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
-| 47 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 48 | [thôi](http://twitter.com/search?q=th%c3%b4i) | N/A |
-| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 50 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
+| 41 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
+| 42 | [Massage in Riaydh](http://twitter.com/search?q=Massage+in+Riaydh) | N/A |
+| 43 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 44 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 45 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 46 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
+| 47 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 48 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 49 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 50 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
 
 
 

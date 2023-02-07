@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-02-07 15:15:52 UTC`
+📆 Last Updated: `2023-02-07 16:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,51 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 2 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [#ReformeRetraites](http://twitter.com/search?q=%23ReformeRetraites) | N/A |
-| 5 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 6 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
-| 7 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [Steve Lomas](http://twitter.com/search?q=Steve+Lomas) | N/A |
-| 11 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 12 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
-| 13 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 14 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 15 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 16 | [Apple Pay](http://twitter.com/search?q=Apple+Pay) | N/A |
-| 17 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 18 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 19 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 20 | [Anne Hidalgo](http://twitter.com/search?q=Anne+Hidalgo) | N/A |
-| 21 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 22 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 23 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
-| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 25 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 26 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 28 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 31 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 32 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 33 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 34 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 35 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
-| 36 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 37 | [#beyoncetickets](http://twitter.com/search?q=%23beyoncetickets) | N/A |
-| 38 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 39 | [#RetraiteA60Ans](http://twitter.com/search?q=%23RetraiteA60Ans) | N/A |
-| 40 | [#BloquonsMacron](http://twitter.com/search?q=%23BloquonsMacron) | N/A |
-| 41 | [#SaintValentin](http://twitter.com/search?q=%23SaintValentin) | N/A |
-| 42 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
-| 43 | [#Rennes2](http://twitter.com/search?q=%23Rennes2) | N/A |
+| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 3 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 5 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 6 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 7 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 8 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 10 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 11 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 12 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 13 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 14 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 15 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 16 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
+| 17 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 18 | [Wind Waker](http://twitter.com/search?q=Wind+Waker) | N/A |
+| 19 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 20 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 21 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 22 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 23 | [Apple Pay](http://twitter.com/search?q=Apple+Pay) | N/A |
+| 24 | [Anne Hidalgo](http://twitter.com/search?q=Anne+Hidalgo) | N/A |
+| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 26 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 27 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
+| 30 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 31 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 32 | [#ReformeRetraites](http://twitter.com/search?q=%23ReformeRetraites) | N/A |
+| 33 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 34 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
+| 35 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
+| 36 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 37 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 38 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 39 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 40 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 41 | [#Beyonce](http://twitter.com/search?q=%23Beyonce) | N/A |
+| 42 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 43 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 44 | [#SaintValentin](http://twitter.com/search?q=%23SaintValentin) | N/A |
+| 45 | [#RetraiteA60Ans](http://twitter.com/search?q=%23RetraiteA60Ans) | N/A |
+| 46 | [#BloquonsMacron](http://twitter.com/search?q=%23BloquonsMacron) | N/A |
 
 
 

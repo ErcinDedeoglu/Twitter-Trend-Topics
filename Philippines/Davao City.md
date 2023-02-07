@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-07 15:16:07 UTC`
+📆 Last Updated: `2023-02-07 16:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 3 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 4 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 5 | [#DLBlame](http://twitter.com/search?q=%23DLBlame) | N/A |
-| 6 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 3 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 4 | [#HappyBirthdayAngge](http://twitter.com/search?q=%23HappyBirthdayAngge) | N/A |
+| 5 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
+| 6 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
 | 7 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 8 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
-| 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 10 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 8 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 9 | [sparks filay](http://twitter.com/search?q=sparks+filay) | N/A |
+| 10 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
 | 11 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
-| 12 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 13 | [TuesKIARA 4HeightMaxx](http://twitter.com/search?q=TuesKIARA+4HeightMaxx) | N/A |
-| 14 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 15 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
-| 16 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 17 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 18 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 19 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 20 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 21 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 22 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 23 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 24 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 25 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 26 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 27 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 28 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 29 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 30 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 31 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 32 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 33 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 34 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 35 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 36 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
-| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 38 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 39 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 40 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 41 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
-| 42 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
-| 43 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
-| 44 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 12 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
+| 13 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 14 | [TuesKIARA 4HeightMaxx](http://twitter.com/search?q=TuesKIARA+4HeightMaxx) | N/A |
+| 15 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 16 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
+| 17 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 18 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 19 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 20 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 21 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
+| 22 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 23 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 24 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 25 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 26 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 27 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 28 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 29 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 30 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 31 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 32 | [MIKA REYES](http://twitter.com/search?q=MIKA+REYES) | N/A |
+| 33 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 34 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 35 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 36 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 37 | [#DLBlame](http://twitter.com/search?q=%23DLBlame) | N/A |
+| 38 | [#OpeningTrailerPhoto_Sana](http://twitter.com/search?q=%23OpeningTrailerPhoto_Sana) | N/A |
+| 39 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 40 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 41 | [#KwentongTheJuans](http://twitter.com/search?q=%23KwentongTheJuans) | N/A |
+| 42 | [#TeumesXEngenes](http://twitter.com/search?q=%23TeumesXEngenes) | N/A |
+| 43 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 44 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
 | 45 | [#WWIW15](http://twitter.com/search?q=%23WWIW15) | N/A |
-| 46 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
-| 47 | [#SANA](http://twitter.com/search?q=%23SANA) | N/A |
+| 46 | [#GAPDebutantexInterGiveAway](http://twitter.com/search?q=%23GAPDebutantexInterGiveAway) | N/A |
+| 47 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
 
 
 

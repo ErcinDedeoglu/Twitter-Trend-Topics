@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-02-07 15:16:23 UTC`
+📆 Last Updated: `2023-02-07 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,46 @@ This is top 50 for [United States](</United States>)
 | 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
 | 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 9 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 10 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 12 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 13 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 14 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 15 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 16 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 17 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 18 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 19 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 20 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 21 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
-| 22 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 23 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 24 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
-| 25 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 26 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 27 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 28 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 29 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 30 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 31 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 32 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 33 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 34 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 35 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 36 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 37 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 38 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 39 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 40 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 41 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 42 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 43 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 44 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 45 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 46 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
-| 47 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 9 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 10 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 11 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 12 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 13 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 14 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 15 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 17 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 18 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 19 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 20 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 21 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 23 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 24 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 25 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 26 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 27 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 29 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 30 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 31 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 32 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 33 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 34 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 35 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 36 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 37 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 39 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
+| 40 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
+| 41 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 42 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 43 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 44 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 45 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
+| 46 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 47 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 48 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
 
 
 

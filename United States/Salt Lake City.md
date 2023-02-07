@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-02-07 15:16:27 UTC`
+📆 Last Updated: `2023-02-07 16:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [United States](</United States>)
 | 3 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 6 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 10 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 11 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 9 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 10 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 11 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
 | 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 18 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 19 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 20 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 21 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 22 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 23 | [Happy Birthday Jack](http://twitter.com/search?q=Happy+Birthday+Jack) | N/A |
-| 24 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 25 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 26 | [Kashkari](http://twitter.com/search?q=Kashkari) | N/A |
-| 27 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 28 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 29 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 30 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 31 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 32 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 34 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 35 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 36 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 13 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 14 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 16 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 17 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 18 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 19 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 20 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 21 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 22 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 23 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 25 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 26 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 27 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 28 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 29 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 30 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 31 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 32 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 33 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 34 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 35 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 36 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
 | 37 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 38 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 39 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 40 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 41 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 42 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
-| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 44 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 45 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 46 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 47 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
+| 38 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 39 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
+| 40 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 41 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 42 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 43 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 44 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 45 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 46 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
+| 47 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
 
 
 

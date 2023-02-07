@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-07 15:16:20 UTC`
+📆 Last Updated: `2023-02-07 16:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 2 | [Waitangi Day](http://twitter.com/search?q=Waitangi+Day) | N/A |
 | 3 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 4 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
+| 4 | [West Auckland](http://twitter.com/search?q=West+Auckland) | N/A |
 | 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 7 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 36 | [#nature](http://twitter.com/search?q=%23nature) | N/A |
 | 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 38 | [Disgraceful](http://twitter.com/search?q=Disgraceful) | N/A |
-| 39 | [#DontBeAfraid](http://twitter.com/search?q=%23DontBeAfraid) | N/A |
-| 40 | [Bronwyn Elsmore](http://twitter.com/search?q=Bronwyn+Elsmore) | N/A |
-| 41 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
-| 42 | [aotearoa](http://twitter.com/search?q=aotearoa) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [tremain](http://twitter.com/search?q=tremain) | N/A |
-| 45 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 46 | [Takapuna](http://twitter.com/search?q=Takapuna) | N/A |
-| 47 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 48 | [coral sea](http://twitter.com/search?q=coral+sea) | N/A |
-| 49 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
-| 50 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 39 | [Bronwyn Elsmore](http://twitter.com/search?q=Bronwyn+Elsmore) | N/A |
+| 40 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
+| 41 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [tremain](http://twitter.com/search?q=tremain) | N/A |
+| 44 | [Takapuna](http://twitter.com/search?q=Takapuna) | N/A |
+| 45 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 46 | [coral sea](http://twitter.com/search?q=coral+sea) | N/A |
+| 47 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
+| 48 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 49 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 50 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
 
 
 

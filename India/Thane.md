@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-02-07 15:16:17 UTC`
+📆 Last Updated: `2023-02-07 16:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BorderGavaskarTrophy](http://twitter.com/search?q=%23BorderGavaskarTrophy) | N/A |
-| 2 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
-| 3 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
+| 1 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
+| 2 | [PIYA RE TEASER OUT NOW](http://twitter.com/search?q=PIYA+RE+TEASER+OUT+NOW) | N/A |
+| 3 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
 | 4 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
-| 5 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 6 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
-| 7 | [SHIVANGI IN JAB WE MATCHED](http://twitter.com/search?q=SHIVANGI+IN+JAB+WE+MATCHED) | N/A |
-| 8 | [GANAPATH AANE WALA HAI](http://twitter.com/search?q=GANAPATH+AANE+WALA+HAI) | N/A |
-| 9 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
+| 5 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 6 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
+| 7 | [#AskVD](http://twitter.com/search?q=%23AskVD) | N/A |
+| 8 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
+| 9 | [GANAPATH AANE WALA HAI](http://twitter.com/search?q=GANAPATH+AANE+WALA+HAI) | N/A |
 | 10 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 11 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
-| 12 | [NITI RANDEEP IN BALH2](http://twitter.com/search?q=NITI+RANDEEP+IN+BALH2) | N/A |
-| 13 | [Gary Ballance](http://twitter.com/search?q=Gary+Ballance) | N/A |
-| 14 | [2M IG POST OF MUNAWAR](http://twitter.com/search?q=2M+IG+POST+OF+MUNAWAR) | N/A |
-| 15 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 16 | [विदेश यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 17 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 18 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 19 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 20 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 21 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 22 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 11 | [SHIVANGI IN JAB WE MATCHED](http://twitter.com/search?q=SHIVANGI+IN+JAB+WE+MATCHED) | N/A |
+| 12 | [Logad](http://twitter.com/search?q=Logad) | N/A |
+| 13 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
+| 14 | [NITI RANDEEP IN BALH2](http://twitter.com/search?q=NITI+RANDEEP+IN+BALH2) | N/A |
+| 15 | [Gary Ballance](http://twitter.com/search?q=Gary+Ballance) | N/A |
+| 16 | [2M IG POST OF MUNAWAR](http://twitter.com/search?q=2M+IG+POST+OF+MUNAWAR) | N/A |
+| 17 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 18 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 19 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 20 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 21 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [नेशनल हेराल्ड](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%b9%e0%a5%87%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
 | 23 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
-| 24 | [नेशनल हेराल्ड](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%b9%e0%a5%87%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
-| 25 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 26 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
-| 27 | [राखी सावंत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
-| 28 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 29 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 30 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
-| 31 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 32 | [परम मित्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 33 | [Rafale](http://twitter.com/search?q=Rafale) | N/A |
-| 34 | [#RP_MANGE_3600GP](http://twitter.com/search?q=%23RP_MANGE_3600GP) | N/A |
-| 35 | [#ETAutoEVC](http://twitter.com/search?q=%23ETAutoEVC) | N/A |
-| 36 | [#AskVD](http://twitter.com/search?q=%23AskVD) | N/A |
-| 37 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
-| 38 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
-| 39 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
-| 40 | [#OnePlus115G](http://twitter.com/search?q=%23OnePlus115G) | N/A |
-| 41 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
-| 42 | [#SidKiaraWedding](http://twitter.com/search?q=%23SidKiaraWedding) | N/A |
-| 43 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
-| 44 | [#CNNNews18TownHall](http://twitter.com/search?q=%23CNNNews18TownHall) | N/A |
-| 45 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
-| 46 | [#KBFCCFC](http://twitter.com/search?q=%23KBFCCFC) | N/A |
-| 47 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 48 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
-| 49 | [#AdaniGroups](http://twitter.com/search?q=%23AdaniGroups) | N/A |
-| 50 | [#zimvswi](http://twitter.com/search?q=%23zimvswi) | N/A |
+| 24 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 25 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 26 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
+| 27 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
+| 28 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 29 | [मानव जीवन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 30 | [राखी सावंत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
+| 31 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 32 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 33 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 34 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 35 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 36 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
+| 37 | [#OnePlus](http://twitter.com/search?q=%23OnePlus) | N/A |
+| 38 | [#RP_MANGE_3600GP](http://twitter.com/search?q=%23RP_MANGE_3600GP) | N/A |
+| 39 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 40 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 41 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
+| 42 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
+| 43 | [#ETAutoEVC](http://twitter.com/search?q=%23ETAutoEVC) | N/A |
+| 44 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
+| 45 | [#KBFCCFC](http://twitter.com/search?q=%23KBFCCFC) | N/A |
+| 46 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
+| 47 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
+| 48 | [#SidharthKiaraWedding](http://twitter.com/search?q=%23SidharthKiaraWedding) | N/A |
+| 49 | [#StopDrinkingAlcohol](http://twitter.com/search?q=%23StopDrinkingAlcohol) | N/A |
+| 50 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
 
 
 
