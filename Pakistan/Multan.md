@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-07 21:16:01 UTC`
+📆 Last Updated: `2023-02-07 22:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 8 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
 | 9 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 10 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 10 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
 | 11 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 12 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 12 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
 | 13 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 14 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
-| 15 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 16 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
-| 17 | [ramiz raja](http://twitter.com/search?q=ramiz+raja) | N/A |
-| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 19 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
-| 20 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 21 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
+| 14 | [C-130](http://twitter.com/search?q=C-130) | N/A |
+| 15 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
+| 16 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 17 | [lady zainab](http://twitter.com/search?q=lady+zainab) | N/A |
+| 18 | [powerful 7.8](http://twitter.com/search?q=powerful+7.8) | N/A |
+| 19 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
+| 20 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
+| 21 | [Rose](http://twitter.com/search?q=Rose) | N/A |
 | 22 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
-| 23 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 24 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 25 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 26 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 27 | [lady zainab](http://twitter.com/search?q=lady+zainab) | N/A |
-| 28 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 29 | [Peter Hatzoglou](http://twitter.com/search?q=Peter+Hatzoglou) | N/A |
-| 30 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 32 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 25 | [Peter Hatzoglou](http://twitter.com/search?q=Peter+Hatzoglou) | N/A |
+| 26 | [ADIZA STILL REIGNING HEARTS](http://twitter.com/search?q=ADIZA+STILL+REIGNING+HEARTS) | N/A |
+| 27 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 28 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 29 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 30 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
+| 31 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 32 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
 | 33 | [James Vince](http://twitter.com/search?q=James+Vince) | N/A |
-| 34 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 35 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 34 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 35 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
 | 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [Shahbaz Sharif](http://twitter.com/search?q=Shahbaz+Sharif) | N/A |
-| 38 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 39 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 40 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 42 | [Billions Views](http://twitter.com/search?q=Billions+Views) | N/A |
-| 43 | [England](http://twitter.com/search?q=England) | N/A |
-| 44 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
-| 45 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 46 | [Qarza Utar](http://twitter.com/search?q=Qarza+Utar) | N/A |
-| 47 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 48 | [Jail Bharo Tehreek](http://twitter.com/search?q=Jail+Bharo+Tehreek) | N/A |
-| 49 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 37 | [Showbaz](http://twitter.com/search?q=Showbaz) | N/A |
+| 38 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
+| 39 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 40 | [Shehbaz](http://twitter.com/search?q=Shehbaz) | N/A |
+| 41 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 42 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 43 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 44 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 45 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 46 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 47 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

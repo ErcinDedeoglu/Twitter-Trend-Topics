@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-07 21:16:09 UTC`
+📆 Last Updated: `2023-02-07 22:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 2 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 3 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 5 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 7 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 10 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 12 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 13 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 14 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 15 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 16 | [#PMSinAZ](http://twitter.com/search?q=%23PMSinAZ) | N/A |
-| 17 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 19 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 20 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
-| 21 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 24 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 25 | [Charles London](http://twitter.com/search?q=Charles+London) | N/A |
-| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 27 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 28 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 29 | [Deron](http://twitter.com/search?q=Deron) | N/A |
-| 30 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 31 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 32 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 33 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 34 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
-| 35 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 36 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 37 | [#GabbyPetito](http://twitter.com/search?q=%23GabbyPetito) | N/A |
-| 38 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 39 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 40 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 42 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 43 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 44 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 45 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 46 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 47 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 49 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 50 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 2 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 6 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 7 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 8 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 9 | [#subclassmoments](http://twitter.com/search?q=%23subclassmoments) | N/A |
+| 10 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 15 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 16 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 17 | [#PMSinAZ](http://twitter.com/search?q=%23PMSinAZ) | N/A |
+| 18 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [#KyoPets](http://twitter.com/search?q=%23KyoPets) | N/A |
+| 21 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 22 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 23 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 24 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
+| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 26 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 27 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 28 | [Deron](http://twitter.com/search?q=Deron) | N/A |
+| 29 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 30 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 33 | [Joakim](http://twitter.com/search?q=Joakim) | N/A |
+| 34 | [$CMG](http://twitter.com/search?q=%24CMG) | N/A |
+| 35 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 36 | [Dan Marino](http://twitter.com/search?q=Dan+Marino) | N/A |
+| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 38 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 39 | [Charles London](http://twitter.com/search?q=Charles+London) | N/A |
+| 40 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 41 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 42 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 43 | [Tangle](http://twitter.com/search?q=Tangle) | N/A |
+| 44 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 45 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 46 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 47 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 48 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 49 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 50 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
 
 
 

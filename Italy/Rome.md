@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-07 21:15:42 UTC`
+📆 Last Updated: `2023-02-07 22:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 5 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 6 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 7 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 8 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
-| 9 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 10 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
-| 11 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 12 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 13 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
-| 14 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 15 | [PENSATI LIBERA](http://twitter.com/search?q=PENSATI+LIBERA) | N/A |
-| 16 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 17 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 18 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 19 | [Rkomi](http://twitter.com/search?q=Rkomi) | N/A |
-| 20 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
-| 21 | [Aiello](http://twitter.com/search?q=Aiello) | N/A |
-| 22 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 23 | [#Vlahovic](http://twitter.com/search?q=%23Vlahovic) | N/A |
-| 24 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 26 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
-| 27 | [Articolo 21](http://twitter.com/search?q=Articolo+21) | N/A |
-| 28 | [CI SIAMO](http://twitter.com/search?q=CI+SIAMO) | N/A |
-| 29 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 30 | [Zecchino](http://twitter.com/search?q=Zecchino) | N/A |
-| 31 | [Nicolussi Caviglia](http://twitter.com/search?q=Nicolussi+Caviglia) | N/A |
-| 32 | [Ferry](http://twitter.com/search?q=Ferry) | N/A |
-| 33 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
-| 34 | [Biancaneve](http://twitter.com/search?q=Biancaneve) | N/A |
-| 35 | [Sali](http://twitter.com/search?q=Sali) | N/A |
-| 36 | [Povia](http://twitter.com/search?q=Povia) | N/A |
-| 37 | [Mostro](http://twitter.com/search?q=Mostro) | N/A |
-| 38 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 39 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 40 | [Maria De Filippi](http://twitter.com/search?q=Maria+De+Filippi) | N/A |
-| 41 | [XFactor](http://twitter.com/search?q=XFactor) | N/A |
-| 42 | [Fiori](http://twitter.com/search?q=Fiori) | N/A |
-| 43 | [Howl](http://twitter.com/search?q=Howl) | N/A |
-| 44 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 45 | [#supereroi](http://twitter.com/search?q=%23supereroi) | N/A |
-| 46 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 47 | [#costringono](http://twitter.com/search?q=%23costringono) | N/A |
-| 48 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 49 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 50 | [#Calvo](http://twitter.com/search?q=%23Calvo) | N/A |
+| 1 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 2 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 3 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 6 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 7 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 8 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 9 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 10 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 11 | [#comacose](http://twitter.com/search?q=%23comacose) | N/A |
+| 12 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 13 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 14 | [#SalernitanaJuventus](http://twitter.com/search?q=%23SalernitanaJuventus) | N/A |
+| 15 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
+| 16 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 17 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
+| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 19 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 20 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
+| 21 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
+| 22 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 23 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 24 | [PENSATI LIBERA](http://twitter.com/search?q=PENSATI+LIBERA) | N/A |
+| 25 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
+| 26 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 27 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 28 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 29 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 30 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
+| 31 | [Rkomi](http://twitter.com/search?q=Rkomi) | N/A |
+| 32 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 33 | [Aiello](http://twitter.com/search?q=Aiello) | N/A |
+| 34 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
+| 35 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
+| 36 | [CI SIAMO](http://twitter.com/search?q=CI+SIAMO) | N/A |
+| 37 | [Poltrone](http://twitter.com/search?q=Poltrone) | N/A |
+| 38 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
+| 39 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
+| 40 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 41 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 42 | [Jalisse](http://twitter.com/search?q=Jalisse) | N/A |
+| 43 | [Nicolussi Caviglia](http://twitter.com/search?q=Nicolussi+Caviglia) | N/A |
+| 44 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 45 | [#Vlahovic](http://twitter.com/search?q=%23Vlahovic) | N/A |
+| 46 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 47 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 48 | [#supereroi](http://twitter.com/search?q=%23supereroi) | N/A |
+| 49 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 50 | [#dimartedì](http://twitter.com/search?q=%23dimarted%c3%ac) | N/A |
 
 
 

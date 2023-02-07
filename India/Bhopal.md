@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-02-07 21:16:03 UTC`
+📆 Last Updated: `2023-02-07 22:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,33 @@ This is top 50 for [India](</India>)
 | 2 | [#HBDRitaMaa](http://twitter.com/search?q=%23HBDRitaMaa) | N/A |
 | 3 | [#ThunivuOnNetflix](http://twitter.com/search?q=%23ThunivuOnNetflix) | N/A |
 | 4 | [#MahuaMoitra](http://twitter.com/search?q=%23MahuaMoitra) | N/A |
-| 5 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
+| 5 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 6 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 7 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 8 | [Paarl Royals](http://twitter.com/search?q=Paarl+Royals) | N/A |
-| 9 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 10 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
-| 11 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
-| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 13 | [Harami](http://twitter.com/search?q=Harami) | N/A |
-| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 15 | [Kabir Singh](http://twitter.com/search?q=Kabir+Singh) | N/A |
-| 16 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
-| 17 | [सिद्धार्थ मल्होत्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 18 | [Alia](http://twitter.com/search?q=Alia) | N/A |
-| 19 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 20 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
-| 21 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 22 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 23 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
-| 24 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 25 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 27 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 28 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 29 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
-| 30 | [#OnePlus11](http://twitter.com/search?q=%23OnePlus11) | N/A |
-| 31 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
-| 32 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
-| 33 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
-| 34 | [#Shershaah](http://twitter.com/search?q=%23Shershaah) | N/A |
-| 35 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
-| 36 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 37 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
-| 38 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
-| 39 | [#AskVD](http://twitter.com/search?q=%23AskVD) | N/A |
-| 40 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 41 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
-| 42 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
-| 43 | [#BBKingMCStan](http://twitter.com/search?q=%23BBKingMCStan) | N/A |
-| 44 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
-| 45 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
-| 46 | [#KeralaBlasters](http://twitter.com/search?q=%23KeralaBlasters) | N/A |
-| 47 | [#WPLAuction](http://twitter.com/search?q=%23WPLAuction) | N/A |
+| 7 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 8 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
+| 9 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
+| 10 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 11 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 12 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 13 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
+| 14 | [सिद्धार्थ मल्होत्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 15 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
+| 16 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 17 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
+| 18 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
+| 19 | [#OnePlus11](http://twitter.com/search?q=%23OnePlus11) | N/A |
+| 20 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
+| 21 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
+| 22 | [#Shershaah](http://twitter.com/search?q=%23Shershaah) | N/A |
+| 23 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 24 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
+| 25 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
+| 26 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 27 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
+| 28 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
+| 29 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
+| 30 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
+| 31 | [#AtkeNahiHatke](http://twitter.com/search?q=%23AtkeNahiHatke) | N/A |
 
 
 

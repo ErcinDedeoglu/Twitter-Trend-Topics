@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-07 21:16:17 UTC`
+📆 Last Updated: `2023-02-07 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 2 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
-| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 5 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 6 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 7 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 8 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 9 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 12 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 13 | [The AG](http://twitter.com/search?q=The+AG) | N/A |
-| 14 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 15 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 17 | [minister for education](http://twitter.com/search?q=minister+for+education) | N/A |
-| 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 19 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 20 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 21 | [Eoghan](http://twitter.com/search?q=Eoghan) | N/A |
-| 22 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 23 | [Niamh Bhreathnach](http://twitter.com/search?q=Niamh+Bhreathnach) | N/A |
-| 24 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 25 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Strategic Plan](http://twitter.com/search?q=Strategic+Plan) | N/A |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 2 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 3 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 5 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
+| 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 7 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 8 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
+| 9 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 10 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 11 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 12 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 13 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 14 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 16 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 18 | [Niamh Bhreathnach](http://twitter.com/search?q=Niamh+Bhreathnach) | N/A |
+| 19 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 20 | [minister for education](http://twitter.com/search?q=minister+for+education) | N/A |
+| 21 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 22 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 23 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 24 | [Strategic Plan](http://twitter.com/search?q=Strategic+Plan) | N/A |
+| 25 | [The AG](http://twitter.com/search?q=The+AG) | N/A |
+| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 27 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 29 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 30 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 31 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 32 | [Mares](http://twitter.com/search?q=Mares) | N/A |
-| 33 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 34 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 35 | [Philip Dwyer](http://twitter.com/search?q=Philip+Dwyer) | N/A |
-| 36 | [Conservative](http://twitter.com/search?q=Conservative) | N/A |
-| 37 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 39 | [LISTEN HERE](http://twitter.com/search?q=LISTEN+HERE) | N/A |
-| 40 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 41 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 42 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 43 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 44 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 45 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 46 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 47 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 48 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
-| 49 | [BOOK NOW](http://twitter.com/search?q=BOOK+NOW) | N/A |
-| 50 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 33 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 34 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 35 | [Eoghan](http://twitter.com/search?q=Eoghan) | N/A |
+| 36 | [LISTEN HERE](http://twitter.com/search?q=LISTEN+HERE) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 39 | [Milne](http://twitter.com/search?q=Milne) | N/A |
+| 40 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 41 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 42 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 43 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 44 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 45 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
+| 46 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 47 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 48 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 49 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 50 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
 
 
 

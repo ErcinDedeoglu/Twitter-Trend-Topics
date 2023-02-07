@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-07 21:15:28 UTC`
+📆 Last Updated: `2023-02-07 22:15:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 2 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 3 | [#MartinLewis](http://twitter.com/search?q=%23MartinLewis) | N/A |
-| 4 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 5 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 6 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 7 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 8 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 9 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
-| 10 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 11 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 12 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
-| 13 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 14 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 15 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 16 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
-| 17 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 18 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 19 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 20 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 21 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
-| 22 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 23 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 24 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
-| 25 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 26 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 27 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
-| 28 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 29 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 30 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 31 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 32 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 33 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
-| 34 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 35 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 36 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 37 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 38 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
-| 39 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 40 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 41 | [Trevor Sinclair](http://twitter.com/search?q=Trevor+Sinclair) | N/A |
-| 42 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 43 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 44 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 45 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 46 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 47 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 48 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 2 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 3 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 4 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 6 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
+| 7 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 9 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 10 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 11 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
+| 12 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 13 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 14 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 15 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 16 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 17 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 18 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 19 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 20 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 21 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 22 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
+| 23 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 24 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 25 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 26 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
+| 27 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 28 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
+| 29 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 30 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 32 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 34 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 35 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 36 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 37 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 38 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 39 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
+| 40 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 41 | [Ron and Tanyel](http://twitter.com/search?q=Ron+and+Tanyel) | N/A |
+| 42 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 43 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 44 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 45 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 46 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 47 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 48 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 49 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
 
 
 
