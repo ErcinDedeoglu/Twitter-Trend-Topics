@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-02-07 05:15:47 UTC`
+📆 Last Updated: `2023-02-07 06:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Brazil](</Brazil>)
 | 8 | [gaga](http://twitter.com/search?q=gaga) | N/A |
 | 9 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
 | 10 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 11 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 12 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 12 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 13 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
 | 14 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
 | 15 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 16 | [O SEU MELHOR](http://twitter.com/search?q=O+SEU+MELHOR) | N/A |
-| 17 | [Parabéns Gustavo](http://twitter.com/search?q=Parab%c3%a9ns+Gustavo) | N/A |
-| 18 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 19 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 20 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 21 | [Mulher DVD](http://twitter.com/search?q=Mulher+DVD) | N/A |
-| 22 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 23 | [Flamém](http://twitter.com/search?q=Flam%c3%a9m) | N/A |
-| 24 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 25 | [Fora Prior](http://twitter.com/search?q=Fora+Prior) | N/A |
-| 26 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
-| 27 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 28 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
-| 29 | [Arregona](http://twitter.com/search?q=Arregona) | N/A |
-| 30 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 31 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 32 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 33 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
-| 34 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 35 | [Topete](http://twitter.com/search?q=Topete) | N/A |
-| 36 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
-| 37 | [Zellsis](http://twitter.com/search?q=Zellsis) | N/A |
-| 38 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 39 | [topetudo](http://twitter.com/search?q=topetudo) | N/A |
-| 40 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
-| 41 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 42 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
-| 43 | [Tourette](http://twitter.com/search?q=Tourette) | N/A |
-| 44 | [Sabor](http://twitter.com/search?q=Sabor) | N/A |
-| 45 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 46 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 47 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
-| 48 | [BH de 2019](http://twitter.com/search?q=BH+de+2019) | N/A |
-| 49 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 50 | [Gil da Shopee](http://twitter.com/search?q=Gil+da+Shopee) | N/A |
+| 16 | [Parabéns Gustavo](http://twitter.com/search?q=Parab%c3%a9ns+Gustavo) | N/A |
+| 17 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 18 | [Esse Bruno](http://twitter.com/search?q=Esse+Bruno) | Esse Bruno is a Portuguese phrase that translates to “Be Brave” in English. It is often used as a motivational phrase to encourage someone to be brave and take risks. |
+| 19 | [O SEU MELHOR](http://twitter.com/search?q=O+SEU+MELHOR) | N/A |
+| 20 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 21 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 22 | [Mulher DVD](http://twitter.com/search?q=Mulher+DVD) | N/A |
+| 23 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
+| 24 | [Flamém](http://twitter.com/search?q=Flam%c3%a9m) | N/A |
+| 25 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 26 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 27 | [Fora Prior](http://twitter.com/search?q=Fora+Prior) | N/A |
+| 28 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 29 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
+| 30 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
+| 31 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 32 | [Arregona](http://twitter.com/search?q=Arregona) | N/A |
+| 33 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
+| 34 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 35 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 36 | [#NBAnaBand](http://twitter.com/search?q=%23NBAnaBand) | N/A |
+| 37 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 39 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 40 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 41 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 42 | [Topete](http://twitter.com/search?q=Topete) | N/A |
+| 43 | [Sabor](http://twitter.com/search?q=Sabor) | N/A |
+| 44 | [Tourette](http://twitter.com/search?q=Tourette) | N/A |
+| 45 | [topetudo](http://twitter.com/search?q=topetudo) | N/A |
+| 46 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 47 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
+| 48 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
+| 49 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
+| 50 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
 
 
 

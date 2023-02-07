@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-07 05:15:48 UTC`
+📆 Last Updated: `2023-02-07 06:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 3 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 4 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
 | 5 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
 | 6 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 7 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 8 | [agrounią](http://twitter.com/search?q=agrouni%c4%85) | N/A |
-| 9 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 10 | [piasecki](http://twitter.com/search?q=piasecki) | N/A |
-| 11 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
-| 12 | [jabłoński](http://twitter.com/search?q=jab%c5%82o%c5%84ski) | N/A |
-| 13 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
-| 14 | [porozumienia](http://twitter.com/search?q=porozumienia) | N/A |
-| 15 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [religia](http://twitter.com/search?q=religia) | N/A |
-| 18 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 19 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 22 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 23 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 24 | [williamsa](http://twitter.com/search?q=williamsa) | N/A |
-| 25 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 26 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 27 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
-| 28 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 7 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 8 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 10 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 11 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 12 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 13 | [richtera](http://twitter.com/search?q=richtera) | N/A |
+| 14 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
+| 15 | [porozumienia](http://twitter.com/search?q=porozumienia) | N/A |
+| 16 | [jabłoński](http://twitter.com/search?q=jab%c5%82o%c5%84ski) | N/A |
+| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 18 | [Daj Boże](http://twitter.com/search?q=Daj+Bo%c5%bce) | N/A |
+| 19 | [religia](http://twitter.com/search?q=religia) | N/A |
+| 20 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 22 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 23 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 24 | [Lewactwo](http://twitter.com/search?q=Lewactwo) | N/A |
+| 25 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 26 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 27 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 28 | [williamsa](http://twitter.com/search?q=williamsa) | N/A |
 | 29 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 30 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
-| 31 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 32 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 33 | [mazurka](http://twitter.com/search?q=mazurka) | N/A |
-| 34 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
+| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 31 | [biedroniowi](http://twitter.com/search?q=biedroniowi) | N/A |
+| 32 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
+| 33 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 34 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
 | 35 | [poniedziałek](http://twitter.com/search?q=poniedzia%c5%82ek) | N/A |
-| 36 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 37 | [maryna gąsienica-daniel](http://twitter.com/search?q=maryna+g%c4%85sienica-daniel) | N/A |
-| 38 | [strzeżek](http://twitter.com/search?q=strze%c5%bcek) | N/A |
-| 39 | [harry'ego](http://twitter.com/search?q=harry%27ego) | N/A |
-| 40 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 41 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 42 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 36 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 37 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
+| 38 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 39 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 40 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 41 | [strzeżek](http://twitter.com/search?q=strze%c5%bcek) | N/A |
+| 42 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
 | 43 | [dubiel](http://twitter.com/search?q=dubiel) | N/A |
-| 44 | [don kichot](http://twitter.com/search?q=don+kichot) | N/A |
-| 45 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 46 | [jan chrzciciel](http://twitter.com/search?q=jan+chrzciciel) | N/A |
-| 47 | [korona](http://twitter.com/search?q=korona) | N/A |
-| 48 | [sokołów](http://twitter.com/search?q=soko%c5%82%c3%b3w) | N/A |
+| 44 | [maryna gąsienica-daniel](http://twitter.com/search?q=maryna+g%c4%85sienica-daniel) | N/A |
+| 45 | [don kichot](http://twitter.com/search?q=don+kichot) | N/A |
+| 46 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 47 | [polnord](http://twitter.com/search?q=polnord) | N/A |
+| 48 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 
 
 

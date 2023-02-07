@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-07 05:16:00 UTC`
+📆 Last Updated: `2023-02-07 06:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,43 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 2 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 3 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 4 | [#AkuNUAkuPKB](http://twitter.com/search?q=%23AkuNUAkuPKB) | N/A |
-| 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 6 | [#SatuSuaraUntukGanjar](http://twitter.com/search?q=%23SatuSuaraUntukGanjar) | N/A |
-| 7 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 8 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 9 | [army battle party](http://twitter.com/search?q=army+battle+party) | N/A |
-| 10 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 11 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 12 | [its bss fighting day](http://twitter.com/search?q=its+bss+fighting+day) | N/A |
-| 13 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 14 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 1 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
+| 2 | [#AkuNUAkuPKB](http://twitter.com/search?q=%23AkuNUAkuPKB) | N/A |
+| 3 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 4 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 5 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 6 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 7 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 8 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 9 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 10 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 11 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 12 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 13 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 14 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
 | 15 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 16 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 17 | [Welok](http://twitter.com/search?q=Welok) | N/A |
-| 18 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 19 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 20 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 21 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 24 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 25 | [BRImo](http://twitter.com/search?q=BRImo) | N/A |
-| 26 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 27 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 28 | [Sophia Latjuba](http://twitter.com/search?q=Sophia+Latjuba) | N/A |
-| 29 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 30 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 31 | [the boyz roar d-15](http://twitter.com/search?q=the+boyz+roar+d-15) | N/A |
-| 32 | [Sebelahan](http://twitter.com/search?q=Sebelahan) | N/A |
-| 33 | [Jepan](http://twitter.com/search?q=Jepan) | N/A |
-| 34 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 35 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 36 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
-| 37 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 39 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 40 | [BTS OUR PRIDE](http://twitter.com/search?q=BTS+OUR+PRIDE) | N/A |
-| 41 | [Bangkit Dengan Syariah](http://twitter.com/search?q=Bangkit+Dengan+Syariah) | N/A |
-| 42 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 43 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
-| 44 | [Froot](http://twitter.com/search?q=Froot) | N/A |
-| 45 | [Berhadapan](http://twitter.com/search?q=Berhadapan) | N/A |
-| 46 | [Encanto](http://twitter.com/search?q=Encanto) | N/A |
-| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 48 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 49 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 16 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 17 | [Ketan](http://twitter.com/search?q=Ketan) | N/A |
+| 18 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
+| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 20 | [Jam 8](http://twitter.com/search?q=Jam+8) | N/A |
+| 21 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 22 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 23 | [Banten](http://twitter.com/search?q=Banten) | N/A |
+| 24 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
+| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 26 | [#SatuSuaraUntukGanjar](http://twitter.com/search?q=%23SatuSuaraUntukGanjar) | N/A |
+| 27 | [#SatuAbadNU](http://twitter.com/search?q=%23SatuAbadNU) | N/A |
+| 28 | [#CrushOnYou](http://twitter.com/search?q=%23CrushOnYou) | N/A |
+| 29 | [#50MTrueLoveByNuNew](http://twitter.com/search?q=%2350MTrueLoveByNuNew) | N/A |
+| 30 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 31 | [#TenggelamkanPDIP](http://twitter.com/search?q=%23TenggelamkanPDIP) | N/A |
+| 32 | [#HarlahNU](http://twitter.com/search?q=%23HarlahNU) | N/A |
+| 33 | [#Gempa](http://twitter.com/search?q=%23Gempa) | N/A |
+| 34 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
+| 35 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
+| 36 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 37 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
 
 
 

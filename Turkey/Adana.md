@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-07 05:16:21 UTC`
+📆 Last Updated: `2023-02-07 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 2 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 3 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
-| 4 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
-| 5 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 6 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 1 | [ÇokFazla BağışGeldi](http://twitter.com/search?q=%c3%87okFazla+Ba%c4%9f%c4%b1%c5%9fGeldi) | N/A |
+| 2 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
+| 3 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
+| 4 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
+| 5 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
+| 6 | [#MehmetcikSahaya](http://twitter.com/search?q=%23MehmetcikSahaya) | N/A |
 | 7 | [Asker](http://twitter.com/search?q=Asker) | N/A |
 | 8 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 9 | [Tam 24](http://twitter.com/search?q=Tam+24) | N/A |
-| 10 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 11 | [Sela](http://twitter.com/search?q=Sela) | N/A |
-| 12 | [Gün Birlik Günü](http://twitter.com/search?q=G%c3%bcn+Birlik+G%c3%bcn%c3%bc) | N/A |
-| 13 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 14 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 15 | [Siyasetiniz](http://twitter.com/search?q=Siyasetiniz) | N/A |
-| 16 | [Mehmetçik](http://twitter.com/search?q=Mehmet%c3%a7ik) | N/A |
-| 17 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 18 | [Depremin](http://twitter.com/search?q=Depremin) | N/A |
-| 19 | [Adana'ya](http://twitter.com/search?q=Adana%27ya) | N/A |
+| 9 | [Vesaire](http://twitter.com/search?q=Vesaire) | N/A |
+| 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 11 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 12 | [Adıyamana AcilYardım](http://twitter.com/search?q=Ad%c4%b1yamana+AcilYard%c4%b1m) | N/A |
+| 13 | [Sela](http://twitter.com/search?q=Sela) | N/A |
+| 14 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 15 | [Tam 24](http://twitter.com/search?q=Tam+24) | N/A |
+| 16 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
+| 17 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
+| 18 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
+| 19 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
 | 20 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 21 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 22 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 23 | [Mardine AcilDestek](http://twitter.com/search?q=Mardine+AcilDestek) | N/A |
-| 24 | [AKUT](http://twitter.com/search?q=AKUT) | N/A |
-| 25 | [Arama](http://twitter.com/search?q=Arama) | N/A |
-| 26 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
-| 27 | [Saatlerdir](http://twitter.com/search?q=Saatlerdir) | N/A |
-| 28 | [#EkiplerNerede](http://twitter.com/search?q=%23EkiplerNerede) | N/A |
-| 29 | [#HelpTurkey](http://twitter.com/search?q=%23HelpTurkey) | N/A |
-| 30 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
-| 31 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
-| 32 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
-| 33 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
-| 34 | [#TSKGöreve](http://twitter.com/search?q=%23TSKG%c3%b6reve) | N/A |
-| 35 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
-| 36 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 37 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
-| 38 | [#afsindeprem](http://twitter.com/search?q=%23afsindeprem) | N/A |
-| 39 | [#gaziantepdeprem](http://twitter.com/search?q=%23gaziantepdeprem) | N/A |
-| 40 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 41 | [#malatyadeprem](http://twitter.com/search?q=%23malatyadeprem) | N/A |
-| 42 | [#AhbapDernegi](http://twitter.com/search?q=%23AhbapDernegi) | N/A |
-| 43 | [#antakyadeprem](http://twitter.com/search?q=%23antakyadeprem) | N/A |
-| 44 | [#sanlıurfadeprem](http://twitter.com/search?q=%23sanl%c4%b1urfadeprem) | N/A |
-| 45 | [#ENKAZALTINDA](http://twitter.com/search?q=%23ENKAZALTINDA) | N/A |
+| 21 | [Depremin](http://twitter.com/search?q=Depremin) | N/A |
+| 22 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 23 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
+| 24 | [Yıkılan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lan) | N/A |
+| 25 | [Gün Birlik Günü](http://twitter.com/search?q=G%c3%bcn+Birlik+G%c3%bcn%c3%bc) | N/A |
+| 26 | [Depremden](http://twitter.com/search?q=Depremden) | N/A |
+| 27 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 28 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 29 | [Orhan](http://twitter.com/search?q=Orhan) | N/A |
+| 30 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 31 | [Adana'ya](http://twitter.com/search?q=Adana%27ya) | N/A |
+| 32 | [Japonya'da](http://twitter.com/search?q=Japonya%27da) | N/A |
+| 33 | [Mardine AcilDestek](http://twitter.com/search?q=Mardine+AcilDestek) | N/A |
+| 34 | [Arama](http://twitter.com/search?q=Arama) | N/A |
+| 35 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
+| 36 | [#HelpTurkey](http://twitter.com/search?q=%23HelpTurkey) | N/A |
+| 37 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
+| 38 | [#tskgoreve](http://twitter.com/search?q=%23tskgoreve) | N/A |
+| 39 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
+| 40 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
+| 41 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 42 | [#EkiplerNerede](http://twitter.com/search?q=%23EkiplerNerede) | N/A |
+| 43 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
+| 44 | [#Yastayız](http://twitter.com/search?q=%23Yastay%c4%b1z) | N/A |
+| 45 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
+| 46 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 47 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
+| 48 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
+| 49 | [#gaziantepdeprem](http://twitter.com/search?q=%23gaziantepdeprem) | N/A |
+| 50 | [#afsindeprem](http://twitter.com/search?q=%23afsindeprem) | N/A |
 
 
 

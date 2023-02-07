@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-07 05:16:31 UTC`
+📆 Last Updated: `2023-02-07 06:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 2 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 6 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 7 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 9 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 10 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 11 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 2 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 6 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 8 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 9 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
+| 10 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 11 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 | 12 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 13 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 15 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 17 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
-| 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 19 | [Andre Drummond](http://twitter.com/search?q=Andre+Drummond) | N/A |
-| 20 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 21 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
-| 22 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 23 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 24 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 25 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 26 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 27 | [Cody and Paul](http://twitter.com/search?q=Cody+and+Paul) | N/A |
-| 28 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 29 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 32 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 33 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 34 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 35 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 36 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 37 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 38 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 39 | [Hurt Business](http://twitter.com/search?q=Hurt+Business) | Hurt Business is a term used to describe a business that is struggling financially or has been damaged in some way. It can refer to a company that has suffered losses due to poor management, market conditions, or other factors. It can also refer to an industry as a whole that is experiencing financial hardship. |
-| 40 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 41 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 42 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 43 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 44 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 45 | [The Jazz](http://twitter.com/search?q=The+Jazz) | N/A |
-| 46 | [Brock Lesnar](http://twitter.com/search?q=Brock+Lesnar) | Brock Lesnar is an American professional wrestler, mixed martial artist, and former amateur wrestler. He is currently signed to WWE, where he performs on the Raw brand. The name "Brock Lesnar" is a combination of his real first name (Brock) and his father's surname (Lesnar). |
-| 47 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 48 | [Dan Gilbert](http://twitter.com/search?q=Dan+Gilbert) | N/A |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 15 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 16 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 18 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 19 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 20 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
+| 21 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 22 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
+| 23 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 24 | [Andre Drummond](http://twitter.com/search?q=Andre+Drummond) | N/A |
+| 25 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 26 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 27 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 28 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 29 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 30 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 31 | [Cody and Paul](http://twitter.com/search?q=Cody+and+Paul) | N/A |
+| 32 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 33 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 34 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 35 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 36 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 37 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 38 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 39 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 40 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
+| 41 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 42 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 43 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 44 | [Edward Scissorhands](http://twitter.com/search?q=Edward+Scissorhands) | N/A |
+| 45 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
+| 46 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
+| 47 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 48 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 
 
 

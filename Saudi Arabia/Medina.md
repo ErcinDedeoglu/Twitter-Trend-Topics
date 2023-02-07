@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-02-07 05:16:12 UTC`
+📆 Last Updated: `2023-02-07 06:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 6 | [#هكتار](http://twitter.com/search?q=%23%d9%87%d9%83%d8%aa%d8%a7%d8%b1) | N/A |
 | 7 | [خالد القحطاني](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
 | 8 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 9 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 10 | [كلاي](http://twitter.com/search?q=%d9%83%d9%84%d8%a7%d9%8a) | N/A |
-| 11 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 12 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 13 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 14 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 15 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 16 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
-| 17 | [الهلال الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 19 | [اللعب المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
-| 20 | [اللهم اللطف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d9%84%d8%b7%d9%81) | N/A |
-| 21 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 22 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 23 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 24 | [المجال التقني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
-| 25 | [كام توماس](http://twitter.com/search?q=%d9%83%d8%a7%d9%85+%d8%aa%d9%88%d9%85%d8%a7%d8%b3) | N/A |
-| 26 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 27 | [عين علي المستقبل](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
-| 28 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 29 | [الطقم الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%82%d9%85+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 30 | [صاحب السياره الحمراء](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1) | N/A |
-| 31 | [عون المحتاجين](http://twitter.com/search?q=%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d8%ac%d9%8a%d9%86) | N/A |
-| 32 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 33 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
-| 34 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 35 | [القطاع التقني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
-| 36 | [اليوم الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 37 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
-| 38 | [المسار الايسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d8%b3%d8%b1) | N/A |
-| 39 | [علي نعمه الامن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 40 | [علي الفلاح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%ad) | N/A |
-| 41 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 42 | [خالد الفيصل](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 43 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 44 | [رييس اتحاد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 45 | [مجال التقنيه](http://twitter.com/search?q=%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
-| 47 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 48 | [نجم الجمهور](http://twitter.com/search?q=%d9%86%d8%ac%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
-| 49 | [فاطمه رضي](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d9%87+%d8%b1%d8%b6%d9%8a) | N/A |
-| 50 | [رازفان لوشيسكو](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b2%d9%81%d8%a7%d9%86+%d9%84%d9%88%d8%b4%d9%8a%d8%b3%d9%83%d9%88) | N/A |
+| 9 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 10 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 11 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 12 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 13 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 14 | [الهلال الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 15 | [كلاي](http://twitter.com/search?q=%d9%83%d9%84%d8%a7%d9%8a) | N/A |
+| 16 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 17 | [اللعب المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
+| 18 | [اللهم اللطف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d9%84%d8%b7%d9%81) | N/A |
+| 19 | [الفوز اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 20 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 21 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 22 | [عين علي المستقبل](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
+| 23 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
+| 24 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 25 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 26 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 27 | [المجال التقني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
+| 28 | [صاحب السياره الحمراء](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1) | N/A |
+| 29 | [عون المحتاجين](http://twitter.com/search?q=%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d8%ac%d9%8a%d9%86) | N/A |
+| 30 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 31 | [الطقم الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%82%d9%85+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 32 | [حسين عبدالغني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ba%d9%86%d9%8a) | N/A |
+| 33 | [القطاع التقني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
+| 34 | [علي نعمه الامن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 35 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
+| 36 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 37 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 38 | [رييس اتحاد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 39 | [خالد الفيصل](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 40 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 41 | [مجال التقنيه](http://twitter.com/search?q=%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%87) | N/A |
+| 42 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 43 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 44 | [العالم الهولندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%84%d9%86%d8%af%d9%8a) | N/A |
+| 45 | [١٦ رجب](http://twitter.com/search?q=%d9%a1%d9%a6+%d8%b1%d8%ac%d8%a8) | N/A |
+| 46 | [رازفان لوشيسكو](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b2%d9%81%d8%a7%d9%86+%d9%84%d9%88%d8%b4%d9%8a%d8%b3%d9%83%d9%88) | N/A |
+| 47 | [ابن ابي الدنيا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 48 | [الكريم العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 49 | [عون المستضعفين](http://twitter.com/search?q=%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b6%d8%b9%d9%81%d9%8a%d9%86) | N/A |
+| 50 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
 
 
 

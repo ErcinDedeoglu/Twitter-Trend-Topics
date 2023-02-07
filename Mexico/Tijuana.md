@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-02-07 05:15:41 UTC`
+📆 Last Updated: `2023-02-07 06:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#EstrenoAllStar](http://twitter.com/search?q=%23EstrenoAllStar) | N/A |
 | 2 | [GRACIAS AURORA](http://twitter.com/search?q=GRACIAS+AURORA) | N/A |
-| 3 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
-| 4 | [THE RETURN OF SNIPER](http://twitter.com/search?q=THE+RETURN+OF+SNIPER) | N/A |
+| 3 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
+| 4 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
 | 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 6 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 7 | [THE BLACK PANTHER RETURNS](http://twitter.com/search?q=THE+BLACK+PANTHER+RETURNS) | N/A |
-| 8 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
-| 9 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 10 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 11 | [LA MAGIA ESTÁ DE VUELTA](http://twitter.com/search?q=LA+MAGIA+EST%c3%81+DE+VUELTA) | N/A |
-| 12 | [#nochedeterrormexa](http://twitter.com/search?q=%23nochedeterrormexa) | N/A |
-| 13 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
-| 14 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
-| 15 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 16 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 17 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
-| 18 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 19 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 20 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 21 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 23 | [COBRE IS COMING](http://twitter.com/search?q=COBRE+IS+COMING) | N/A |
-| 24 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 25 | [Exatlon](http://twitter.com/search?q=Exatlon) | N/A |
-| 26 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 27 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 28 | [Meli](http://twitter.com/search?q=Meli) | N/A |
-| 29 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 31 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 32 | [Topos](http://twitter.com/search?q=Topos) | N/A |
-| 33 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 34 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 35 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 6 | [THE RETURN OF SNIPER](http://twitter.com/search?q=THE+RETURN+OF+SNIPER) | N/A |
+| 7 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 8 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 9 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
+| 10 | [#nochedeterrormexa](http://twitter.com/search?q=%23nochedeterrormexa) | N/A |
+| 11 | [THE BLACK PANTHER RETURNS](http://twitter.com/search?q=THE+BLACK+PANTHER+RETURNS) | N/A |
+| 12 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 13 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 14 | [LA MAGIA ESTÁ DE VUELTA](http://twitter.com/search?q=LA+MAGIA+EST%c3%81+DE+VUELTA) | N/A |
+| 15 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 16 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 17 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 18 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
+| 19 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 20 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 21 | [Manelyk](http://twitter.com/search?q=Manelyk) | N/A |
+| 22 | [Rubí](http://twitter.com/search?q=Rub%c3%ad) | N/A |
+| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 24 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 26 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 27 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 28 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 29 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 30 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 31 | [Topos](http://twitter.com/search?q=Topos) | N/A |
+| 32 | [Meli](http://twitter.com/search?q=Meli) | N/A |
+| 33 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 34 | [Exatlón](http://twitter.com/search?q=Exatl%c3%b3n) | N/A |
+| 35 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 36 | [Rivapayaso](http://twitter.com/search?q=Rivapayaso) | N/A |
-| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 38 | [Carlos Caro Quintero](http://twitter.com/search?q=Carlos+Caro+Quintero) | N/A |
+| 37 | [Carlos Caro Quintero](http://twitter.com/search?q=Carlos+Caro+Quintero) | N/A |
+| 38 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
 | 39 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
-| 40 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 41 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 40 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 41 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
 | 42 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 43 | [Simi](http://twitter.com/search?q=Simi) | N/A |
-| 44 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 45 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 46 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 43 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 44 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 45 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
+| 46 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
 
 
 
