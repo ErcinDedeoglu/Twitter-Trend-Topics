@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-07 13:19:45 UTC`
+📆 Last Updated: `2023-02-07 14:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
 | 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 4 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
+| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 5 | [#korcra](http://twitter.com/search?q=%23korcra) | N/A |
-| 6 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 7 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 8 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 9 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 10 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 11 | [Oshee](http://twitter.com/search?q=Oshee) | N/A |
-| 12 | [Kosiniaka](http://twitter.com/search?q=Kosiniaka) | N/A |
-| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 14 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 15 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 16 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 17 | [#DzieńBezpiecznegoInternetu](http://twitter.com/search?q=%23Dzie%c5%84BezpiecznegoInternetu) | N/A |
-| 18 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 19 | [Władkiem](http://twitter.com/search?q=W%c5%82adkiem) | N/A |
-| 20 | [Poprawna](http://twitter.com/search?q=Poprawna) | N/A |
-| 21 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
-| 22 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
-| 23 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 24 | [górach izerskich](http://twitter.com/search?q=g%c3%b3rach+izerskich) | N/A |
-| 25 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 26 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 27 | [Jaśmina](http://twitter.com/search?q=Ja%c5%9bmina) | N/A |
-| 28 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 29 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 30 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
-| 31 | [Ślązaków](http://twitter.com/search?q=%c5%9al%c4%85zak%c3%b3w) | N/A |
-| 32 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 33 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
-| 34 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 35 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 36 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 37 | [Pan Minister](http://twitter.com/search?q=Pan+Minister) | N/A |
-| 38 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
-| 39 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 41 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
-| 42 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
-| 43 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 44 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
-| 45 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
-| 46 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
+| 6 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
+| 7 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 8 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 9 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 11 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 12 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 13 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 14 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 15 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 16 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 17 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
+| 18 | [Oshee](http://twitter.com/search?q=Oshee) | N/A |
+| 19 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 20 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 21 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 22 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 23 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 24 | [poprawna](http://twitter.com/search?q=poprawna) | N/A |
+| 25 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 26 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 27 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 28 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 29 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 30 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 31 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 32 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 33 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 34 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
+| 35 | [Jaśmina](http://twitter.com/search?q=Ja%c5%9bmina) | N/A |
+| 36 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
+| 37 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 38 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 39 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 40 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
+| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 42 | [Dziennikarka](http://twitter.com/search?q=Dziennikarka) | N/A |
+| 43 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 45 | [porozumienie](http://twitter.com/search?q=porozumienie) | N/A |
+| 46 | [Don Kichot](http://twitter.com/search?q=Don+Kichot) | N/A |
 | 47 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 48 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
-| 49 | [Brawo Panie Ministrze](http://twitter.com/search?q=Brawo+Panie+Ministrze) | N/A |
-| 50 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
+| 48 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 49 | [niepokój](http://twitter.com/search?q=niepok%c3%b3j) | N/A |
+| 50 | [Czeczenii](http://twitter.com/search?q=Czeczenii) | N/A |
 
 
 

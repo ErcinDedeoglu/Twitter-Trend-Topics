@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-07 13:19:32 UTC`
+📆 Last Updated: `2023-02-07 14:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 4 | [#reshuffle](http://twitter.com/search?q=%23reshuffle) | N/A |
 | 5 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
 | 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 7 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 8 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 7 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 8 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
 | 9 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 10 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 11 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
-| 12 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
-| 13 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 14 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 15 | [DCMS](http://twitter.com/search?q=DCMS) | N/A |
-| 16 | [Lucy Frazer](http://twitter.com/search?q=Lucy+Frazer) | N/A |
-| 17 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 19 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 20 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 21 | [Media and Sport](http://twitter.com/search?q=Media+and+Sport) | N/A |
-| 22 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
-| 23 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
-| 24 | [Department for Science](http://twitter.com/search?q=Department+for+Science) | N/A |
-| 25 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 26 | [Culture Secretary](http://twitter.com/search?q=Culture+Secretary) | N/A |
-| 27 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 28 | [Secretary of State](http://twitter.com/search?q=Secretary+of+State) | N/A |
-| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 30 | [3rd June](http://twitter.com/search?q=3rd+June) | N/A |
+| 10 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
+| 11 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 12 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 13 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 14 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
+| 15 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 16 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 17 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
+| 18 | [Lucy Frazer](http://twitter.com/search?q=Lucy+Frazer) | N/A |
+| 19 | [DCMS](http://twitter.com/search?q=DCMS) | N/A |
+| 20 | [Media and Sport](http://twitter.com/search?q=Media+and+Sport) | N/A |
+| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 22 | [Department for Science](http://twitter.com/search?q=Department+for+Science) | N/A |
+| 23 | [Secretary of State](http://twitter.com/search?q=Secretary+of+State) | N/A |
+| 24 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 25 | [Kemi Badenoch](http://twitter.com/search?q=Kemi+Badenoch) | N/A |
+| 26 | [Michael Green](http://twitter.com/search?q=Michael+Green) | N/A |
+| 27 | [Culture Secretary](http://twitter.com/search?q=Culture+Secretary) | N/A |
+| 28 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 29 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 30 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
 | 31 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
 | 32 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 33 | [Gillian Anderson](http://twitter.com/search?q=Gillian+Anderson) | N/A |
-| 34 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 35 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 36 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
-| 37 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 38 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
-| 39 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 40 | [Michael Green](http://twitter.com/search?q=Michael+Green) | N/A |
-| 41 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 42 | [Digital](http://twitter.com/search?q=Digital) | N/A |
-| 43 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 44 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 45 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 46 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 47 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 48 | [Gilmour](http://twitter.com/search?q=Gilmour) | N/A |
-| 49 | [Danny Mills](http://twitter.com/search?q=Danny+Mills) | N/A |
+| 33 | [BEIS](http://twitter.com/search?q=BEIS) | N/A |
+| 34 | [Gillian Anderson](http://twitter.com/search?q=Gillian+Anderson) | N/A |
+| 35 | [3rd June](http://twitter.com/search?q=3rd+June) | N/A |
+| 36 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 38 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 39 | [Digital](http://twitter.com/search?q=Digital) | N/A |
+| 40 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 41 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 42 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
+| 43 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 44 | [Shell and BP](http://twitter.com/search?q=Shell+and+BP) | N/A |
+| 45 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 46 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 47 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 48 | [Mares](http://twitter.com/search?q=Mares) | N/A |
+| 49 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-07 13:20:32 UTC`
+📆 Last Updated: `2023-02-07 14:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
+| 1 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
 | 2 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 3 | [#FormulaEBuntung](http://twitter.com/search?q=%23FormulaEBuntung) | N/A |
+| 3 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
 | 4 | [#GrabFoodโปรแมนติกxTNPJN](http://twitter.com/search?q=%23GrabFood%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81xTNPJN) | N/A |
-| 5 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 7 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
-| 8 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 9 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
-| 10 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 11 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 12 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 13 | [Bango](http://twitter.com/search?q=Bango) | N/A |
-| 14 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
-| 15 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
-| 16 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 17 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
-| 18 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
-| 19 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 20 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 21 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 22 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 23 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 24 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 25 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 26 | [AHY Bersama NU](http://twitter.com/search?q=AHY+Bersama+NU) | N/A |
-| 27 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 28 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 29 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 30 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
-| 31 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
-| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 33 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 34 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 35 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 36 | [Yoona](http://twitter.com/search?q=Yoona) | N/A |
-| 37 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 38 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 39 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 40 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 41 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 42 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 43 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 44 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 45 | [1 Abad NU](http://twitter.com/search?q=1+Abad+NU) | N/A |
-| 46 | [Bintang](http://twitter.com/search?q=Bintang) | N/A |
-| 47 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
-| 48 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 49 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
-| 50 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 5 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 6 | [#formulaebuntung](http://twitter.com/search?q=%23formulaebuntung) | N/A |
+| 7 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
+| 8 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
+| 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 10 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
+| 11 | [Bango](http://twitter.com/search?q=Bango) | N/A |
+| 12 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
+| 13 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 14 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 15 | [Dibeliin](http://twitter.com/search?q=Dibeliin) | N/A |
+| 16 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
+| 17 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 18 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 19 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 20 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 21 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 22 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 23 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 25 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 26 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 27 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 28 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 29 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 30 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 31 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
+| 32 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 33 | [Yoona](http://twitter.com/search?q=Yoona) | N/A |
+| 34 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 35 | [seunggi](http://twitter.com/search?q=seunggi) | N/A |
+| 36 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
+| 37 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
+| 38 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 39 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 40 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 41 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
+| 42 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
+| 43 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 44 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
+| 45 | [#OPPOReno8TdiTokopedia](http://twitter.com/search?q=%23OPPOReno8TdiTokopedia) | N/A |
+| 46 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 47 | [#freytalk](http://twitter.com/search?q=%23freytalk) | N/A |
+| 48 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
+| 49 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
 
 
 

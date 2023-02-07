@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-07 13:20:24 UTC`
+📆 Last Updated: `2023-02-07 14:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 2 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 3 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 4 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 7 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 8 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 3 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 5 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 8 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
 | 9 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 10 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 11 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 12 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 13 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 15 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 16 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 17 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 18 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 21 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 22 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 23 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 24 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
-| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 26 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 27 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 28 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 29 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
-| 30 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 31 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 32 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 33 | [Turquía y Siria](http://twitter.com/search?q=Turqu%c3%ada+y+Siria) | N/A |
-| 34 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 35 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 36 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 10 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
+| 11 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 12 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 13 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 14 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 15 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 16 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 18 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 19 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 20 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
+| 21 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 22 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
+| 23 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
+| 24 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 25 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 27 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 28 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 29 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 30 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 31 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 32 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 33 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
+| 34 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 35 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 36 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
 | 37 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 38 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 39 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 40 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 41 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 43 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 44 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 45 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 46 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
-| 47 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
+| 38 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 39 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 40 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 41 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 42 | [Sumter](http://twitter.com/search?q=Sumter) | N/A |
+| 43 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 44 | [Infrastructure](http://twitter.com/search?q=Infrastructure) | N/A |
+| 45 | [Turkey & Syria](http://twitter.com/search?q=Turkey+%26+Syria) | N/A |
+| 46 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 47 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
 
 
 

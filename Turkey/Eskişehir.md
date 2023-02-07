@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-07 13:20:17 UTC`
+📆 Last Updated: `2023-02-07 14:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
 | 2 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 3 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 4 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
-| 5 | [#antakyahatay](http://twitter.com/search?q=%23antakyahatay) | N/A |
-| 6 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 8 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 9 | [Yakup Taş](http://twitter.com/search?q=Yakup+Ta%c5%9f) | N/A |
+| 3 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
+| 4 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 5 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 6 | [#antakyahatay](http://twitter.com/search?q=%23antakyahatay) | N/A |
+| 7 | [Yakup Taş](http://twitter.com/search?q=Yakup+Ta%c5%9f) | N/A |
+| 8 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 9 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 10 | [Olağanüstü Hal](http://twitter.com/search?q=Ola%c4%9fan%c3%bcst%c3%bc+Hal) | N/A |
-| 11 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 12 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 11 | [Mersin Şehir Hastanesine](http://twitter.com/search?q=Mersin+%c5%9eehir+Hastanesine) | N/A |
+| 12 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
 | 13 | [Zahmet](http://twitter.com/search?q=Zahmet) | N/A |
-| 14 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 15 | [Mersin Şehir Hastanesine](http://twitter.com/search?q=Mersin+%c5%9eehir+Hastanesine) | N/A |
-| 16 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 17 | [Ordu Komutanlığına](http://twitter.com/search?q=Ordu+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 18 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
-| 19 | [Acele](http://twitter.com/search?q=Acele) | N/A |
-| 20 | [Adana Şehir Hastanesinde](http://twitter.com/search?q=Adana+%c5%9eehir+Hastanesinde) | N/A |
-| 21 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
-| 22 | [Hayati](http://twitter.com/search?q=Hayati) | N/A |
-| 23 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 24 | [Vücut](http://twitter.com/search?q=V%c3%bccut) | N/A |
-| 25 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 26 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 27 | [Ticaret Bakanlığı](http://twitter.com/search?q=Ticaret+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 28 | [Uzmanlar](http://twitter.com/search?q=Uzmanlar) | N/A |
-| 29 | [Necmettin](http://twitter.com/search?q=Necmettin) | N/A |
-| 30 | [Hijyen](http://twitter.com/search?q=Hijyen) | N/A |
-| 31 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 32 | [vinç](http://twitter.com/search?q=vin%c3%a7) | N/A |
-| 33 | [Canikli](http://twitter.com/search?q=Canikli) | N/A |
-| 34 | [Katar](http://twitter.com/search?q=Katar) | N/A |
-| 35 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 36 | [Taha](http://twitter.com/search?q=Taha) | N/A |
-| 37 | [EMASYA](http://twitter.com/search?q=EMASYA) | N/A |
-| 38 | [Barınma](http://twitter.com/search?q=Bar%c4%b1nma) | N/A |
-| 39 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 40 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 41 | [Borsayı](http://twitter.com/search?q=Borsay%c4%b1) | N/A |
-| 42 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 43 | [AKUT](http://twitter.com/search?q=AKUT) | N/A |
-| 44 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 45 | [Gözünüz](http://twitter.com/search?q=G%c3%b6z%c3%bcn%c3%bcz) | N/A |
-| 46 | [Mehmet Metiner](http://twitter.com/search?q=Mehmet+Metiner) | N/A |
-| 47 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 48 | [Bağış](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9f) | N/A |
-| 49 | [sela](http://twitter.com/search?q=sela) | N/A |
-| 50 | [Yeşilyurt](http://twitter.com/search?q=Ye%c5%9filyurt) | N/A |
+| 14 | [Fizik](http://twitter.com/search?q=Fizik) | N/A |
+| 15 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 16 | [Adıyamana AcilYardım](http://twitter.com/search?q=Ad%c4%b1yamana+AcilYard%c4%b1m) | N/A |
+| 17 | [TALU TEKSTİL](http://twitter.com/search?q=TALU+TEKST%c4%b0L) | N/A |
+| 18 | [Ordu Komutanlığına](http://twitter.com/search?q=Ordu+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 19 | [Adana Şehir Hastanesinde](http://twitter.com/search?q=Adana+%c5%9eehir+Hastanesinde) | N/A |
+| 20 | [HatayKırıkhane AcilYardım](http://twitter.com/search?q=HatayK%c4%b1r%c4%b1khane+AcilYard%c4%b1m) | N/A |
+| 21 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 22 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
+| 23 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 24 | [Dolandırıcı](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1) | N/A |
+| 25 | [Acele](http://twitter.com/search?q=Acele) | N/A |
+| 26 | [Hayati](http://twitter.com/search?q=Hayati) | N/A |
+| 27 | [Necmettin](http://twitter.com/search?q=Necmettin) | N/A |
+| 28 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 29 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 30 | [Katar](http://twitter.com/search?q=Katar) | N/A |
+| 31 | [Ticaret Bakanlığı](http://twitter.com/search?q=Ticaret+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 32 | [Vücut](http://twitter.com/search?q=V%c3%bccut) | N/A |
+| 33 | [Uzmanlar](http://twitter.com/search?q=Uzmanlar) | N/A |
+| 34 | [pegasus](http://twitter.com/search?q=pegasus) | N/A |
+| 35 | [Hijyen](http://twitter.com/search?q=Hijyen) | N/A |
+| 36 | [ÇOK ACİL](http://twitter.com/search?q=%c3%87OK+AC%c4%b0L) | N/A |
+| 37 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 38 | [Nurettin Canikli](http://twitter.com/search?q=Nurettin+Canikli) | N/A |
+| 39 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 40 | [Vinç](http://twitter.com/search?q=Vin%c3%a7) | N/A |
+| 41 | [Bağış](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9f) | N/A |
+| 42 | [Basiniz](http://twitter.com/search?q=Basiniz) | N/A |
+| 43 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
+| 44 | [EMASYA](http://twitter.com/search?q=EMASYA) | N/A |
+| 45 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 46 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 47 | [Barınma](http://twitter.com/search?q=Bar%c4%b1nma) | N/A |
+| 48 | [Sabırlar](http://twitter.com/search?q=Sab%c4%b1rlar) | N/A |
+| 49 | [Kaymakamlığımız](http://twitter.com/search?q=Kaymakaml%c4%b1%c4%9f%c4%b1m%c4%b1z) | N/A |
+| 50 | [BEBEK BEZİ](http://twitter.com/search?q=BEBEK+BEZ%c4%b0) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-07 13:20:26 UTC`
+📆 Last Updated: `2023-02-07 14:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [#OpeningNight](http://twitter.com/search?q=%23OpeningNight) | N/A |
 | 4 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
 | 5 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 6 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 10 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 11 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 14 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 15 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 18 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 19 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 9 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 10 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 11 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 12 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 13 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 14 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
+| 15 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 16 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 18 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 19 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
 | 20 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 21 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 22 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
-| 23 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 24 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 25 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 26 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 27 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 28 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
-| 29 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 30 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 31 | [Turquía y Siria](http://twitter.com/search?q=Turqu%c3%ada+y+Siria) | N/A |
-| 32 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 33 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 34 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 35 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 36 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 37 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 38 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 39 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 40 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 41 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 42 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
-| 45 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 46 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 47 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
-| 48 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
-| 49 | [#quantumleap](http://twitter.com/search?q=%23quantumleap) | N/A |
-| 50 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 21 | [Respect Life](http://twitter.com/search?q=Respect+Life) | N/A |
+| 22 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
+| 23 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
+| 24 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 25 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 26 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 27 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 28 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 29 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 30 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
+| 31 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 32 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
+| 33 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 34 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 35 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
+| 36 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 37 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 38 | [Fraser](http://twitter.com/search?q=Fraser) | N/A |
+| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 40 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 41 | [Sumter](http://twitter.com/search?q=Sumter) | N/A |
+| 42 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 43 | [Infrastructure](http://twitter.com/search?q=Infrastructure) | N/A |
+| 44 | [Turkey & Syria](http://twitter.com/search?q=Turkey+%26+Syria) | N/A |
+| 45 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 46 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
+| 47 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
+| 48 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 49 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 50 | [Unknown](http://twitter.com/search?q=Unknown) | N/A |
 
 
 
