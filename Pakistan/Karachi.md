@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-07 19:15:36 UTC`
+📆 Last Updated: `2023-02-07 20:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 2 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 3 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 4 | [#Zaman_Park](http://twitter.com/search?q=%23Zaman_Park) | N/A |
-| 5 | [#HBD_WaseemBadami](http://twitter.com/search?q=%23HBD_WaseemBadami) | N/A |
+| 2 | [#Zaman_Park](http://twitter.com/search?q=%23Zaman_Park) | N/A |
+| 3 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 5 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
 | 6 | [#جیل_بھرو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88) | N/A |
 | 7 | [another 7.5](http://twitter.com/search?q=another+7.5) | N/A |
 | 8 | [Peter Hatzoglou](http://twitter.com/search?q=Peter+Hatzoglou) | N/A |
 | 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 10 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 11 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
-| 12 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 13 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 14 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 11 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 12 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
+| 13 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 14 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
 | 15 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 16 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 17 | [James Vince](http://twitter.com/search?q=James+Vince) | N/A |
-| 18 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
-| 19 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 20 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
-| 21 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 22 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 23 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
-| 24 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
-| 25 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 26 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
-| 27 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 16 | [James Vince](http://twitter.com/search?q=James+Vince) | N/A |
+| 17 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
+| 18 | [C-130](http://twitter.com/search?q=C-130) | N/A |
+| 19 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
+| 20 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 21 | [ramiz raja](http://twitter.com/search?q=ramiz+raja) | N/A |
+| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 23 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 24 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
+| 25 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 26 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 27 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
 | 28 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 29 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 30 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 29 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
+| 30 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
 | 31 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 32 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 33 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
-| 34 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 35 | [Sehat Card](http://twitter.com/search?q=Sehat+Card) | N/A |
-| 36 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 37 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 38 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 39 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 40 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 41 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 42 | [Army Chief](http://twitter.com/search?q=Army+Chief) | N/A |
+| 32 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
+| 33 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 35 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 36 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 37 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 38 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 40 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 41 | [Army Chief](http://twitter.com/search?q=Army+Chief) | N/A |
+| 42 | [Shahbaz Sharif](http://twitter.com/search?q=Shahbaz+Sharif) | N/A |
 | 43 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 44 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 45 | [Bless](http://twitter.com/search?q=Bless) | N/A |
-| 46 | [Mery](http://twitter.com/search?q=Mery) | N/A |
-| 47 | [Subscribe](http://twitter.com/search?q=Subscribe) | N/A |
-| 48 | [Malir Cantt](http://twitter.com/search?q=Malir+Cantt) | N/A |
-| 49 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 50 | [England](http://twitter.com/search?q=England) | N/A |
+| 44 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 45 | [Billions Views](http://twitter.com/search?q=Billions+Views) | N/A |
+| 46 | [England](http://twitter.com/search?q=England) | N/A |
+| 47 | [Bless](http://twitter.com/search?q=Bless) | N/A |
+| 48 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 49 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 50 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
 
 
 

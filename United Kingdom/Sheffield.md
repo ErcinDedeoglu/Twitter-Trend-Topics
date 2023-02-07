@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-07 19:15:03 UTC`
+📆 Last Updated: `2023-02-07 20:15:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 2 | [Queens Gamble](http://twitter.com/search?q=Queens+Gamble) | N/A |
-| 3 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 4 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 5 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 6 | [#SOOCon23](http://twitter.com/search?q=%23SOOCon23) | N/A |
-| 7 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 8 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 9 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 10 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 11 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 12 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
-| 13 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
+| 1 | [#WrexhamAFC](http://twitter.com/search?q=%23WrexhamAFC) | N/A |
+| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 3 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 4 | [#UTMP](http://twitter.com/search?q=%23UTMP) | N/A |
+| 5 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
+| 6 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 7 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
+| 8 | [DCMS](http://twitter.com/search?q=DCMS) | N/A |
+| 9 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 10 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 11 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 12 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 13 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
 | 14 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 15 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 16 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 17 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 18 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 19 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
-| 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 21 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
-| 22 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 24 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 25 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 26 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 27 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 28 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 29 | [Ange](http://twitter.com/search?q=Ange) | N/A |
-| 30 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 31 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 32 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 33 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 34 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 35 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 15 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 16 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 17 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 18 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 19 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
+| 20 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
+| 21 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 22 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 23 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 24 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 25 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
+| 26 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 28 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 29 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 30 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
+| 31 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 32 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
+| 33 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 34 | [Trevor Sinclair](http://twitter.com/search?q=Trevor+Sinclair) | N/A |
+| 35 | [Radz](http://twitter.com/search?q=Radz) | N/A |
 | 36 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 37 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 38 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 39 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
-| 40 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 41 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 42 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 43 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 44 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
-| 45 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 46 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 48 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
-| 49 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 37 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 38 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 39 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
+| 42 | [Ange](http://twitter.com/search?q=Ange) | N/A |
+| 43 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
+| 44 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
+| 45 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 46 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 47 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 48 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
+| 49 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
 
 
 

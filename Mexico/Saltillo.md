@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-07 19:15:07 UTC`
+📆 Last Updated: `2023-02-07 20:15:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
-| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
-| 5 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 6 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 7 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 8 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 9 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 11 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 12 | [Foals](http://twitter.com/search?q=Foals) | N/A |
-| 13 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
-| 14 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 15 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
-| 16 | [Charlie Puth](http://twitter.com/search?q=Charlie+Puth) | N/A |
-| 17 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 19 | [SE LOGRÓ](http://twitter.com/search?q=SE+LOGR%c3%93) | N/A |
-| 20 | [Fernando Marcos](http://twitter.com/search?q=Fernando+Marcos) | N/A |
-| 21 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 22 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 23 | [Corona Capital Guadalajara](http://twitter.com/search?q=Corona+Capital+Guadalajara) | N/A |
-| 24 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
-| 25 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
-| 26 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 27 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 28 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
-| 29 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
-| 30 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 31 | [Orly](http://twitter.com/search?q=Orly) | N/A |
-| 32 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 35 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 36 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 37 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 38 | [Cinismo](http://twitter.com/search?q=Cinismo) | N/A |
-| 39 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 40 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 41 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
-| 42 | [Aportaciones](http://twitter.com/search?q=Aportaciones) | N/A |
-| 43 | [Cruz Roja Mexicana](http://twitter.com/search?q=Cruz+Roja+Mexicana) | N/A |
-| 44 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 45 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 46 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 47 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 2 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
+| 3 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 4 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 5 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 8 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
+| 9 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 10 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 11 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 12 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 13 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
+| 14 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
+| 15 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 16 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
+| 17 | [Pixies](http://twitter.com/search?q=Pixies) | N/A |
+| 18 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 21 | [Bloc Party](http://twitter.com/search?q=Bloc+Party) | N/A |
+| 22 | [Bextor](http://twitter.com/search?q=Bextor) | N/A |
+| 23 | [Charlie Puth](http://twitter.com/search?q=Charlie+Puth) | N/A |
+| 24 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 25 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
+| 26 | [Corona Capital Guadalajara](http://twitter.com/search?q=Corona+Capital+Guadalajara) | N/A |
+| 27 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 28 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 29 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
+| 30 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 31 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 32 | [SE LOGRÓ](http://twitter.com/search?q=SE+LOGR%c3%93) | N/A |
+| 33 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 34 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 35 | [Calderón y García Luna](http://twitter.com/search?q=Calder%c3%b3n+y+Garc%c3%ada+Luna) | N/A |
+| 36 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 37 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 39 | [Fernando Marcos](http://twitter.com/search?q=Fernando+Marcos) | N/A |
+| 40 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 41 | [Orly](http://twitter.com/search?q=Orly) | N/A |
+| 42 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 43 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
+| 44 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 45 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
+| 46 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 47 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
 
 
 

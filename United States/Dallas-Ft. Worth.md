@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-07 19:15:44 UTC`
+📆 Last Updated: `2023-02-07 20:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 2 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 3 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 7 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 3 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
+| 4 | [George Floyd](http://twitter.com/search?q=George+Floyd) | George Floyd was an African American man who was killed in Minneapolis, Minnesota, on May 25, 2020, after a police officer knelt on his neck for several minutes. His death sparked nationwide protests against police brutality and racism. The phrase "George Floyd" has come to represent the fight for racial justice and an end to police violence against people of color. |
+| 5 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 6 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 7 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 9 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
 | 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 14 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 15 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 16 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 17 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 18 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 19 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 20 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 21 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 25 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
-| 26 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 14 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 16 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 17 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 18 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 19 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
+| 20 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 21 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 22 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 23 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 24 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 25 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 27 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 29 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 30 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 32 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 33 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 34 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 35 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 36 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 38 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 39 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 40 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 41 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
-| 42 | [Lance Guidry](http://twitter.com/search?q=Lance+Guidry) | N/A |
-| 43 | [Chase Tower](http://twitter.com/search?q=Chase+Tower) | N/A |
-| 44 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 45 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 46 | [Death Island](http://twitter.com/search?q=Death+Island) | N/A |
-| 47 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 48 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 49 | [Extreme](http://twitter.com/search?q=Extreme) | N/A |
+| 28 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 29 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 30 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 31 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 32 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 33 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 34 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 35 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 37 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 38 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 39 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 40 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 42 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 44 | [Guidry](http://twitter.com/search?q=Guidry) | N/A |
+| 45 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 46 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 47 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 48 | [Fund](http://twitter.com/search?q=Fund) | N/A |
+| 49 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
 
 
 

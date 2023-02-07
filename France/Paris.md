@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-07 19:15:14 UTC`
+📆 Last Updated: `2023-02-07 20:15:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 2 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 3 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 4 | [Metz](http://twitter.com/search?q=Metz) | N/A |
-| 5 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 7 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 8 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 9 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 10 | [#ToujoursPlusAvecPoco](http://twitter.com/search?q=%23ToujoursPlusAvecPoco) | N/A |
-| 11 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 12 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
-| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 14 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 15 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 16 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
-| 17 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 18 | [Instant Gaming](http://twitter.com/search?q=Instant+Gaming) | N/A |
-| 19 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 20 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 21 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 22 | [Kabore](http://twitter.com/search?q=Kabore) | N/A |
-| 23 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 25 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 26 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 29 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 30 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 31 | [La SNCF](http://twitter.com/search?q=La+SNCF) | N/A |
-| 32 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 1 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
+| 2 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 3 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 5 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 6 | [#ToujoursPlusAvecPoco](http://twitter.com/search?q=%23ToujoursPlusAvecPoco) | N/A |
+| 7 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 8 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 9 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 10 | [Amine](http://twitter.com/search?q=Amine) | N/A |
+| 11 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 12 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
+| 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 14 | [Instant Gaming](http://twitter.com/search?q=Instant+Gaming) | N/A |
+| 15 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 16 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 17 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 18 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 19 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 20 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 21 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 22 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
+| 23 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 24 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 25 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 26 | [Kabore](http://twitter.com/search?q=Kabore) | N/A |
+| 27 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 28 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [La SNCF](http://twitter.com/search?q=La+SNCF) | N/A |
 | 33 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 34 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 35 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 36 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 37 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 38 | [Nuno Tavares](http://twitter.com/search?q=Nuno+Tavares) | N/A |
-| 39 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
-| 40 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 35 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 36 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
+| 37 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
+| 38 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 39 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 40 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
+| 41 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
 | 42 | [Courchevel](http://twitter.com/search?q=Courchevel) | N/A |
-| 43 | [Wind Waker](http://twitter.com/search?q=Wind+Waker) | N/A |
-| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
-| 47 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
-| 48 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 49 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 50 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
+| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 45 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
+| 46 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 47 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 48 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 49 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 50 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 
 
 

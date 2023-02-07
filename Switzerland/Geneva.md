@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-07 19:15:19 UTC`
+📆 Last Updated: `2023-02-07 20:15:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 3 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 5 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 6 | [Alex Frei](http://twitter.com/search?q=Alex+Frei) | N/A |
+| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 4 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 6 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 7 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 8 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
-| 9 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 8 | [Alex Frei](http://twitter.com/search?q=Alex+Frei) | N/A |
+| 9 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
+| 10 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 | 11 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 12 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
-| 13 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
-| 14 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 15 | [#Google](http://twitter.com/search?q=%23Google) | N/A |
-| 16 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 17 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 20 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 21 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 25 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 28 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 29 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 31 | [Lehrer](http://twitter.com/search?q=Lehrer) | N/A |
-| 32 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
-| 33 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 34 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 35 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
-| 36 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 37 | [Shop](http://twitter.com/search?q=Shop) | N/A |
-| 38 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 39 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 40 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 41 | [David](http://twitter.com/search?q=David) | N/A |
-| 42 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 43 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 45 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 46 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 47 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 12 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 13 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 14 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 15 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 16 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 20 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 21 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 23 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 24 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 25 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 26 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
+| 27 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
+| 28 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 29 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 30 | [Shop](http://twitter.com/search?q=Shop) | N/A |
+| 31 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
+| 32 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
+| 33 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 34 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 35 | [David](http://twitter.com/search?q=David) | N/A |
+| 36 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 37 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 38 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 39 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 41 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 42 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 43 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 44 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 45 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 46 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 47 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 48 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-07 19:15:57 UTC`
+📆 Last Updated: `2023-02-07 20:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for Singapore
 | 4 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
 | 5 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
 | 6 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 10 | [#HarpersBazaarSGxBibleJeff](http://twitter.com/search?q=%23HarpersBazaarSGxBibleJeff) | N/A |
-| 11 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 9 | [#HarpersBazaarSGxBibleJeff](http://twitter.com/search?q=%23HarpersBazaarSGxBibleJeff) | N/A |
+| 10 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 12 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
 | 13 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
 | 14 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
@@ -35,13 +35,13 @@ This is top 50 for Singapore
 | 18 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 19 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
 | 20 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 21 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 25 | [Happy Birthday Tasty Toastys](http://twitter.com/search?q=Happy+Birthday+Tasty+Toastys) | N/A |
-| 26 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 27 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 23 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 24 | [Happy Birthday Tasty Toastys](http://twitter.com/search?q=Happy+Birthday+Tasty+Toastys) | N/A |
+| 25 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 26 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 28 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 29 | [yishun](http://twitter.com/search?q=yishun) | N/A |
 | 30 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
@@ -61,10 +61,10 @@ This is top 50 for Singapore
 | 44 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
 | 45 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 46 | [Absolute](http://twitter.com/search?q=Absolute) | N/A |
-| 47 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 48 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 50 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 47 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 49 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 50 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
 
 
 

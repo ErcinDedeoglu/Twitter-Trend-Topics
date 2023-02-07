@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-07 19:15:54 UTC`
+📆 Last Updated: `2023-02-07 20:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#muschioselvaggio](http://twitter.com/search?q=%23muschioselvaggio) | N/A |
-| 3 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 4 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 5 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 6 | [Pio D'Emilia](http://twitter.com/search?q=Pio+D%27Emilia) | N/A |
-| 7 | [Alessandra Mussolini](http://twitter.com/search?q=Alessandra+Mussolini) | N/A |
-| 8 | [CONI](http://twitter.com/search?q=CONI) | CONI is an acronym for the Italian National Olympic Committee (Comitato Olimpico Nazionale Italiano). It is responsible for organizing and promoting the participation of Italian athletes in the Olympic Games. |
-| 9 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 10 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 11 | [Ciao Pio](http://twitter.com/search?q=Ciao+Pio) | N/A |
-| 12 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 13 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 14 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 15 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 16 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 17 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 18 | [Giappone](http://twitter.com/search?q=Giappone) | N/A |
-| 19 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 20 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 21 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 22 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 23 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 24 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 25 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 26 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 27 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
-| 28 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 29 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 30 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 31 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
-| 32 | [Consob](http://twitter.com/search?q=Consob) | N/A |
-| 33 | [#GiraLaSanreModa](http://twitter.com/search?q=%23GiraLaSanreModa) | N/A |
-| 34 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 35 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 36 | [#festivaldisanremo](http://twitter.com/search?q=%23festivaldisanremo) | N/A |
-| 37 | [#Cesaro](http://twitter.com/search?q=%23Cesaro) | N/A |
-| 38 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 39 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 40 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 41 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 42 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 43 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 44 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
-| 45 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 46 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
-| 47 | [#OggiEUnAltroGiorno](http://twitter.com/search?q=%23OggiEUnAltroGiorno) | N/A |
-| 48 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 49 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 50 | [#cyberbullismo](http://twitter.com/search?q=%23cyberbullismo) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 4 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 5 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
+| 6 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 7 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 8 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 9 | [CI SIAMO](http://twitter.com/search?q=CI+SIAMO) | N/A |
+| 10 | [#muschioselvaggio](http://twitter.com/search?q=%23muschioselvaggio) | N/A |
+| 11 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 12 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 13 | [Mameli](http://twitter.com/search?q=Mameli) | N/A |
+| 14 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
+| 15 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 16 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 17 | [Alessandra Mussolini](http://twitter.com/search?q=Alessandra+Mussolini) | N/A |
+| 18 | [Scala](http://twitter.com/search?q=Scala) | N/A |
+| 19 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 20 | [Ciao Pio](http://twitter.com/search?q=Ciao+Pio) | N/A |
+| 21 | [Alba Parietti](http://twitter.com/search?q=Alba+Parietti) | N/A |
+| 22 | [Sciglio](http://twitter.com/search?q=Sciglio) | N/A |
+| 23 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 24 | [Andrea Delogu](http://twitter.com/search?q=Andrea+Delogu) | N/A |
+| 25 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 26 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 27 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 28 | [Collegio di Garanzia del Coni](http://twitter.com/search?q=Collegio+di+Garanzia+del+Coni) | N/A |
+| 29 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 30 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 31 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 32 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 33 | [Santoriello](http://twitter.com/search?q=Santoriello) | N/A |
+| 34 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 35 | [Rai 1](http://twitter.com/search?q=Rai+1) | N/A |
+| 36 | [Giappone](http://twitter.com/search?q=Giappone) | N/A |
+| 37 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
+| 38 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 39 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 40 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 41 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 42 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 43 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 44 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
+| 45 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 46 | [#PiodEmilia](http://twitter.com/search?q=%23PiodEmilia) | N/A |
+| 47 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 48 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 49 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
+| 50 | [#Cesaro](http://twitter.com/search?q=%23Cesaro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-07 19:15:45 UTC`
+📆 Last Updated: `2023-02-07 20:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 | 2 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 3 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 4 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 5 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 7 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 3 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 4 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 5 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 7 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 10 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 11 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
 | 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 14 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
-| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 15 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
 | 16 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 17 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 18 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 19 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 20 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 21 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 22 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 24 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 25 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 27 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 28 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 29 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 31 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 17 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 18 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 19 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 20 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 21 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 22 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 25 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 26 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 27 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 29 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 30 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 31 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
 | 32 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 33 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 34 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 35 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 36 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 37 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 38 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 39 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 40 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 41 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 42 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
-| 43 | [Lance Guidry](http://twitter.com/search?q=Lance+Guidry) | N/A |
-| 44 | [Chase Tower](http://twitter.com/search?q=Chase+Tower) | N/A |
-| 45 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 46 | [Death Island](http://twitter.com/search?q=Death+Island) | N/A |
-| 47 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 48 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 49 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 50 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 33 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 34 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 37 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 38 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 39 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 40 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 41 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 42 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 43 | [Guidry](http://twitter.com/search?q=Guidry) | N/A |
+| 44 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 45 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 46 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 47 | [Fund](http://twitter.com/search?q=Fund) | N/A |
+| 48 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 49 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 50 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
 
 
 
