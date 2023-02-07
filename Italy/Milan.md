@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-06 23:15:36 UTC`
+📆 Last Updated: `2023-02-07 00:28:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 3 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 4 | [#Denzzzers](http://twitter.com/search?q=%23Denzzzers) | N/A |
-| 5 | [#BlackOutLaSerie](http://twitter.com/search?q=%23BlackOutLaSerie) | N/A |
-| 6 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 7 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 8 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 1 | [#gintonic](http://twitter.com/search?q=%23gintonic) | N/A |
+| 2 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 3 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 4 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 5 | [#Denzzzers](http://twitter.com/search?q=%23Denzzzers) | N/A |
+| 6 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 7 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 8 | [#BlackOutLaSerie](http://twitter.com/search?q=%23BlackOutLaSerie) | N/A |
 | 9 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 10 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 11 | [#Presadiretta](http://twitter.com/search?q=%23Presadiretta) | N/A |
-| 12 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 13 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 14 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 15 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 16 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
-| 17 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 18 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 19 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 21 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 22 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 23 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
-| 24 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
-| 25 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 26 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 27 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 28 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 29 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 30 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 31 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
-| 32 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 33 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 34 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 35 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 36 | [#MonzaSampdoria](http://twitter.com/search?q=%23MonzaSampdoria) | N/A |
-| 37 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 38 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 39 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
-| 40 | [#prisma](http://twitter.com/search?q=%23prisma) | N/A |
-| 41 | [#BossInIncognito](http://twitter.com/search?q=%23BossInIncognito) | N/A |
-| 42 | [#primafestival](http://twitter.com/search?q=%23primafestival) | N/A |
-| 43 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
-| 44 | [#greencarpet](http://twitter.com/search?q=%23greencarpet) | N/A |
-| 45 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 46 | [#terremototurchia](http://twitter.com/search?q=%23terremototurchia) | N/A |
+| 10 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 11 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 12 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 13 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 15 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 16 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 17 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 18 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 19 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 20 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 21 | [Odio la Juventus](http://twitter.com/search?q=Odio+la+Juventus) | N/A |
+| 22 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 23 | [Sopravvissuti](http://twitter.com/search?q=Sopravvissuti) | N/A |
+| 24 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 25 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
+| 26 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 27 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 28 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 29 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 30 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 31 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
+| 32 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 33 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 34 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
+| 35 | [Che Dio](http://twitter.com/search?q=Che+Dio) | N/A |
+| 36 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 37 | [#ilunaticiasanremo](http://twitter.com/search?q=%23ilunaticiasanremo) | N/A |
+| 38 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 39 | [#Presadiretta](http://twitter.com/search?q=%23Presadiretta) | N/A |
+| 40 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 41 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 42 | [#MonzaSampdoria](http://twitter.com/search?q=%23MonzaSampdoria) | N/A |
+| 43 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 44 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 45 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
+| 46 | [#BossInIncognito](http://twitter.com/search?q=%23BossInIncognito) | N/A |
 | 47 | [#orianitas](http://twitter.com/search?q=%23orianitas) | N/A |
-| 48 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 49 | [#RedditoDiCittadinanza](http://twitter.com/search?q=%23RedditoDiCittadinanza) | N/A |
-| 50 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 48 | [#primafestival](http://twitter.com/search?q=%23primafestival) | N/A |
+| 49 | [#VeronaLazio](http://twitter.com/search?q=%23VeronaLazio) | N/A |
+| 50 | [#greencarpet](http://twitter.com/search?q=%23greencarpet) | N/A |
 
 
 

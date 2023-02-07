@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-02-06 23:15:55 UTC`
+📆 Last Updated: `2023-02-07 00:28:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [India](</India>)
 | 6 | [लता मंगेशकर](http://twitter.com/search?q=%e0%a4%b2%e0%a4%a4%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a4%95%e0%a4%b0) | N/A |
 | 7 | [SHIV CHAL RAHA HAI](http://twitter.com/search?q=SHIV+CHAL+RAHA+HAI) | N/A |
 | 8 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 9 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [PATHAAN 832 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+832+CRORES+WORLDWIDE) | PATHAAN 832 CRORES WORLDWIDE is a phrase used to describe the success of the Indian film, Pathan, which has earned 832 crores (83.2 billion rupees) worldwide. In English, it means that the movie Pathan has earned a total of 832 crores (83.2 billion rupees) worldwide. |
+| 9 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 10 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 11 | [pathaan 832 crores worldwide](http://twitter.com/search?q=pathaan+832+crores+worldwide) | N/A |
+| 12 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
 | 13 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 14 | [INS Vikrant](http://twitter.com/search?q=INS+Vikrant) | N/A |
-| 15 | [Mahadev Son Sushant](http://twitter.com/search?q=Mahadev+Son+Sushant) | N/A |
-| 16 | [NIMRIT WON HEARTS](http://twitter.com/search?q=NIMRIT+WON+HEARTS) | N/A |
-| 17 | [PRIYANKA OWNS TROPHY](http://twitter.com/search?q=PRIYANKA+OWNS+TROPHY) | N/A |
-| 18 | [संघ प्रमुख](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%98+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 19 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 20 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
-| 21 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
-| 22 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 23 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 24 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
-| 25 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
-| 26 | [DECADE OF ASHRUP](http://twitter.com/search?q=DECADE+OF+ASHRUP) | N/A |
-| 27 | [CONGRATULATIONS PRATIK](http://twitter.com/search?q=CONGRATULATIONS+PRATIK) | N/A |
-| 28 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 29 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 30 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 31 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
-| 32 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 33 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 14 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 15 | [INS Vikrant](http://twitter.com/search?q=INS+Vikrant) | N/A |
+| 16 | [PRIYANKA OWNS TROPHY](http://twitter.com/search?q=PRIYANKA+OWNS+TROPHY) | N/A |
+| 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 18 | [NIMRIT WON HEARTS](http://twitter.com/search?q=NIMRIT+WON+HEARTS) | N/A |
+| 19 | [संघ प्रमुख](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%98+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 20 | [Mahadev Son Sushant](http://twitter.com/search?q=Mahadev+Son+Sushant) | N/A |
+| 21 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 22 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
+| 23 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
+| 24 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 26 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
+| 27 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
+| 28 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
+| 29 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
+| 30 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
+| 31 | [decade of ashrup](http://twitter.com/search?q=decade+of+ashrup) | N/A |
+| 32 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 33 | [रविदास जयंती](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
 | 34 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 35 | [वीरेंद्र सहवाग](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%b9%e0%a4%b5%e0%a4%be%e0%a4%97) | N/A |
-| 36 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 37 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
-| 38 | [रविदास जयंती](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 39 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
-| 40 | [शिरोमणि रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि रविदास is a Sanskrit phrase meaning "the sun of the head of the mountain". It is often used as a metaphor for someone who is wise and noble. |
-| 41 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
-| 42 | [DIL SE REAL ARCHANA](http://twitter.com/search?q=DIL+SE+REAL+ARCHANA) | N/A |
-| 43 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 44 | [Tumakuru](http://twitter.com/search?q=Tumakuru) | N/A |
+| 35 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
+| 36 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
+| 37 | [congratulations pratik](http://twitter.com/search?q=congratulations+pratik) | N/A |
+| 38 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 40 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 42 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 43 | [वीरेंद्र सहवाग](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%b9%e0%a4%b5%e0%a4%be%e0%a4%97) | N/A |
+| 44 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 45 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 46 | [15YRS OF VIVIAN DSENA ERA](http://twitter.com/search?q=15YRS+OF+VIVIAN+DSENA+ERA) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 47 | [LaMDA](http://twitter.com/search?q=LaMDA) | N/A |
+| 48 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 49 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
 
 
 

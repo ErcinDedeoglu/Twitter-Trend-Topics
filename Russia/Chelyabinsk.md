@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chelyabinsk
 
-📆 Last Updated: `2023-02-06 23:15:51 UTC`
+📆 Last Updated: `2023-02-07 00:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 2 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
-| 3 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 4 | [Users](http://twitter.com/search?q=Users) | N/A |
+| 3 | [Users](http://twitter.com/search?q=Users) | N/A |
+| 4 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 5 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
 | 6 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 7 | [Певчих](http://twitter.com/search?q=%d0%9f%d0%b5%d0%b2%d1%87%d0%b8%d1%85) | N/A |
-| 8 | [Announcement](http://twitter.com/search?q=Announcement) | N/A |
-| 9 | [Dope xD](http://twitter.com/search?q=Dope+xD) | N/A |
-| 10 | [#импровизации7лет](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d0%b87%d0%bb%d0%b5%d1%82) | N/A |
-| 11 | [Logical](http://twitter.com/search?q=Logical) | N/A |
-| 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 13 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 14 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
-| 15 | [Явлинский](http://twitter.com/search?q=%d0%af%d0%b2%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 16 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
-| 17 | [god of the crypto world](http://twitter.com/search?q=god+of+the+crypto+world) | N/A |
-| 18 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 19 | [Artificial](http://twitter.com/search?q=Artificial) | N/A |
-| 20 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
-| 21 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 22 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
-| 23 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 8 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 9 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
+| 10 | [Announcement](http://twitter.com/search?q=Announcement) | N/A |
+| 11 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 12 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
+| 13 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
+| 14 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 15 | [явлинский](http://twitter.com/search?q=%d1%8f%d0%b2%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 16 | [god of the crypto world](http://twitter.com/search?q=god+of+the+crypto+world) | N/A |
+| 17 | [artificiall](http://twitter.com/search?q=artificiall) | N/A |
+| 18 | [#импровизация7лет](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f7%d0%bb%d0%b5%d1%82) | N/A |
+| 19 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 20 | [китая](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
+| 21 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
+| 22 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 23 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
 | 24 | [грустно](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 25 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
-| 26 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
-| 27 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
-| 28 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 29 | [Стамбуле](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bc%d0%b1%d1%83%d0%bb%d0%b5) | N/A |
-| 30 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 31 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 32 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 33 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 34 | [Божечки](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
-| 35 | [Санкт-Петербург](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bd%d0%ba%d1%82-%d0%9f%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3) | N/A |
-| 36 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 37 | [Вполне](http://twitter.com/search?q=%d0%92%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
-| 38 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 39 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 41 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 42 | [Здорово](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d0%be) | N/A |
-| 43 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 44 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 47 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 48 | [Приезжай](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b5%d0%b7%d0%b6%d0%b0%d0%b9) | N/A |
-| 49 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 50 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 25 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 26 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 27 | [стамбуле](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bc%d0%b1%d1%83%d0%bb%d0%b5) | N/A |
+| 28 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
+| 29 | [Божечки](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
+| 30 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 31 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 32 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 33 | [Вполне](http://twitter.com/search?q=%d0%92%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
+| 34 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 35 | [согласна](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
+| 36 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 37 | [санкт-петербург](http://twitter.com/search?q=%d1%81%d0%b0%d0%bd%d0%ba%d1%82-%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3) | N/A |
+| 38 | [Здорово](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d0%be) | N/A |
+| 39 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 42 | [Приезжай](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b5%d0%b7%d0%b6%d0%b0%d0%b9) | N/A |
+| 43 | [Неплохо](http://twitter.com/search?q=%d0%9d%d0%b5%d0%bf%d0%bb%d0%be%d1%85%d0%be) | N/A |
+| 44 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 45 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 46 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 47 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 48 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 49 | [ужасно](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81%d0%bd%d0%be) | N/A |
+| 50 | [аналогично](http://twitter.com/search?q=%d0%b0%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
 
 
 

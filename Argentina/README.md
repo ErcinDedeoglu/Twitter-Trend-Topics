@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-06 23:16:07 UTC`
+📆 Last Updated: `2023-02-07 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 2 | [Thomsen](http://twitter.com/search?q=Thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
-| 3 | [Zarate](http://twitter.com/search?q=Zarate) | N/A |
-| 4 | [#LollapaloozaEnLOS40](http://twitter.com/search?q=%23LollapaloozaEnLOS40) | N/A |
-| 5 | [#JusticiaEsPerpetua](http://twitter.com/search?q=%23JusticiaEsPerpetua) | N/A |
-| 6 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
-| 7 | [Graciela](http://twitter.com/search?q=Graciela) | Graciela is a Spanish female name derived from the Latin word gracilis, meaning "graceful". It is also a variation of the name Grace. |
-| 8 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 9 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 10 | [ASESINOS](http://twitter.com/search?q=ASESINOS) | N/A |
-| 11 | [Casación](http://twitter.com/search?q=Casaci%c3%b3n) | N/A |
-| 12 | [Machu](http://twitter.com/search?q=Machu) | N/A |
-| 13 | [#DefensayJusticia](http://twitter.com/search?q=%23DefensayJusticia) | N/A |
-| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 15 | [Sierra Chica](http://twitter.com/search?q=Sierra+Chica) | N/A |
-| 16 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 17 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
-| 18 | [Robledo Puch](http://twitter.com/search?q=Robledo+Puch) | N/A |
-| 19 | [Bati](http://twitter.com/search?q=Bati) | N/A |
-| 20 | [Los 8](http://twitter.com/search?q=Los+8) | N/A |
-| 21 | [Bosque](http://twitter.com/search?q=Bosque) | N/A |
-| 22 | [Blas Cinalli](http://twitter.com/search?q=Blas+Cinalli) | Blas Cinalli is a Spanish phrase that translates to "good luck" in English. It is often used as a way to wish someone good luck or success in a particular endeavor. |
-| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 24 | [Rocío](http://twitter.com/search?q=Roc%c3%ado) | N/A |
-| 25 | [Enzo Comelli](http://twitter.com/search?q=Enzo+Comelli) | N/A |
-| 26 | [Villa Gesell](http://twitter.com/search?q=Villa+Gesell) | N/A |
-| 27 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 28 | [#LaSentencia](http://twitter.com/search?q=%23LaSentencia) | N/A |
-| 29 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 30 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 31 | [TODO EMPIEZA POR CASA](http://twitter.com/search?q=TODO+EMPIEZA+POR+CASA) | N/A |
-| 32 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
-| 33 | [En 7](http://twitter.com/search?q=En+7) | N/A |
-| 34 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 35 | [Matías Benicelli](http://twitter.com/search?q=Mat%c3%adas+Benicelli) | N/A |
-| 36 | [Ayrton Viollaz](http://twitter.com/search?q=Ayrton+Viollaz) | N/A |
-| 37 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
-| 38 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 39 | [15 AÑOS](http://twitter.com/search?q=15+A%c3%91OS) | N/A |
-| 40 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 41 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 42 | [La Justicia](http://twitter.com/search?q=La+Justicia) | N/A |
-| 43 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 44 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 45 | [Iron Mountain](http://twitter.com/search?q=Iron+Mountain) | N/A |
+| 2 | [#JusticiaQueSi](http://twitter.com/search?q=%23JusticiaQueSi) | N/A |
+| 3 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
+| 4 | [Thomsen](http://twitter.com/search?q=Thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
+| 5 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 7 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 8 | [Zárate](http://twitter.com/search?q=Z%c3%a1rate) | N/A |
+| 9 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 10 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 11 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
+| 12 | [#LollapaloozaEnLOS40](http://twitter.com/search?q=%23LollapaloozaEnLOS40) | N/A |
+| 13 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 14 | [Esquivo](http://twitter.com/search?q=Esquivo) | N/A |
+| 15 | [#JusticiaEsPerpetua](http://twitter.com/search?q=%23JusticiaEsPerpetua) | N/A |
+| 16 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 17 | [Graciela](http://twitter.com/search?q=Graciela) | Graciela is a Spanish female name derived from the Latin word gracilis, meaning "graceful". It is also a variation of the name Grace. |
+| 18 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 19 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 20 | [Actuación](http://twitter.com/search?q=Actuaci%c3%b3n) | N/A |
+| 21 | [Ducó](http://twitter.com/search?q=Duc%c3%b3) | N/A |
+| 22 | [ASESINOS](http://twitter.com/search?q=ASESINOS) | N/A |
+| 23 | [Melchor Romero](http://twitter.com/search?q=Melchor+Romero) | N/A |
+| 24 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 25 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 26 | [#DefensayJusticia](http://twitter.com/search?q=%23DefensayJusticia) | N/A |
+| 27 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 28 | [Robledo Puch](http://twitter.com/search?q=Robledo+Puch) | N/A |
+| 29 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 30 | [Bosque](http://twitter.com/search?q=Bosque) | N/A |
+| 31 | [Los 8](http://twitter.com/search?q=Los+8) | N/A |
+| 32 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 33 | [Casación](http://twitter.com/search?q=Casaci%c3%b3n) | N/A |
+| 34 | [Machu](http://twitter.com/search?q=Machu) | N/A |
+| 35 | [Rocío](http://twitter.com/search?q=Roc%c3%ado) | N/A |
+| 36 | [Sierra Chica](http://twitter.com/search?q=Sierra+Chica) | N/A |
+| 37 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 38 | [Mataron](http://twitter.com/search?q=Mataron) | N/A |
+| 39 | [Luciano Pertossi](http://twitter.com/search?q=Luciano+Pertossi) | Luciano Pertossi is an Italian surname. It is derived from the Latin word pertusus, which means pierced or pierced through. In English, the name Luciano Pertossi can be translated to mean "pierced through". |
+| 40 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 41 | [Batistuta](http://twitter.com/search?q=Batistuta) | N/A |
+| 42 | [Blas Cinalli](http://twitter.com/search?q=Blas+Cinalli) | Blas Cinalli is a Spanish phrase that translates to "good luck" in English. It is often used as a way to wish someone good luck or success in a particular endeavor. |
+| 43 | [Enzo Comelli](http://twitter.com/search?q=Enzo+Comelli) | N/A |
+| 44 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
+| 45 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
+| 46 | [Villa Gesell](http://twitter.com/search?q=Villa+Gesell) | N/A |
+| 47 | [Benicelli](http://twitter.com/search?q=Benicelli) | N/A |
+| 48 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 50 | [Ayrton Viollaz](http://twitter.com/search?q=Ayrton+Viollaz) | N/A |
 
 
 

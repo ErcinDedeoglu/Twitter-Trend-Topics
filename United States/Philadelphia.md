@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-06 23:16:04 UTC`
+📆 Last Updated: `2023-02-07 00:28:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 3 | [Brian Flores](http://twitter.com/search?q=Brian+Flores) | Brian Flores is the head coach of the Miami Dolphins of the National Football League (NFL). His name is derived from the Spanish word for "flower," and it can be translated to mean "flowering" or "blooming." |
-| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 5 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 6 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 7 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 8 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 9 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
+| 2 | [Brian Flores](http://twitter.com/search?q=Brian+Flores) | Brian Flores is the head coach of the Miami Dolphins of the National Football League (NFL). His name is derived from the Spanish word for "flower," and it can be translated to mean "flowering" or "blooming." |
+| 3 | [#MaddenBowl](http://twitter.com/search?q=%23MaddenBowl) | N/A |
+| 4 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 5 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
+| 6 | [#Skol](http://twitter.com/search?q=%23Skol) | N/A |
+| 7 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 8 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
+| 9 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
 | 10 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 12 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
-| 13 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 14 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
-| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 16 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 17 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
-| 18 | [#loveeternal](http://twitter.com/search?q=%23loveeternal) | N/A |
-| 19 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 20 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
-| 21 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 14 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 15 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
+| 16 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 17 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 18 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 19 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 20 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 21 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
 | 22 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 23 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 23 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
 | 24 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 25 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 26 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 27 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 28 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 29 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
-| 30 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 31 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
-| 32 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 33 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
-| 34 | [Kafka](http://twitter.com/search?q=Kafka) | N/A |
-| 35 | [Carry the 1](http://twitter.com/search?q=Carry+the+1) | N/A |
-| 36 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 37 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
-| 38 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
-| 39 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
-| 40 | [Sir Ryan](http://twitter.com/search?q=Sir+Ryan) | N/A |
-| 41 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 42 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 43 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
-| 44 | [Lou Anarumo](http://twitter.com/search?q=Lou+Anarumo) | N/A |
-| 45 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 46 | [McKeesport](http://twitter.com/search?q=McKeesport) | N/A |
-| 47 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
-| 48 | [Cho Chang](http://twitter.com/search?q=Cho+Chang) | N/A |
-| 49 | [Jake Heaps](http://twitter.com/search?q=Jake+Heaps) | N/A |
-| 50 | [Kingsley Shacklebolt](http://twitter.com/search?q=Kingsley+Shacklebolt) | N/A |
+| 25 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 26 | [Sirona](http://twitter.com/search?q=Sirona) | N/A |
+| 27 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 28 | [Kafka](http://twitter.com/search?q=Kafka) | N/A |
+| 29 | [Carry the 1](http://twitter.com/search?q=Carry+the+1) | N/A |
+| 30 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 31 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
+| 32 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
+| 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 34 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 35 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
+| 36 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
+| 37 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 38 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
+| 39 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 40 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 41 | [Miami -3](http://twitter.com/search?q=Miami+-3) | N/A |
+| 42 | [Beanpot](http://twitter.com/search?q=Beanpot) | N/A |
+| 43 | [Korkmaz](http://twitter.com/search?q=Korkmaz) | N/A |
+| 44 | [Opening Night](http://twitter.com/search?q=Opening+Night) | N/A |
+| 45 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
+| 46 | [Lou Anarumo](http://twitter.com/search?q=Lou+Anarumo) | N/A |
+| 47 | [Costner](http://twitter.com/search?q=Costner) | N/A |
+| 48 | [Backrooms](http://twitter.com/search?q=Backrooms) | N/A |
+| 49 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
+| 50 | [Steve Albini](http://twitter.com/search?q=Steve+Albini) | N/A |
 
 
 

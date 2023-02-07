@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-06 23:15:40 UTC`
+📆 Last Updated: `2023-02-07 00:28:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 2 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 3 | [#Okay_BSS_Fighting](http://twitter.com/search?q=%23Okay_BSS_Fighting) | #Okay_BSS_Fighting is a hashtag used by fans of the South Korean girl group BSS (also known as Beyond the Scene or TXT). It is used to show support and encouragement for the group. In English, it means "Let's go BSS, fight!" |
+| 2 | [#AkuNUAkuPKB](http://twitter.com/search?q=%23AkuNUAkuPKB) | N/A |
+| 3 | [#SaatnyaKitaMuhasabah](http://twitter.com/search?q=%23SaatnyaKitaMuhasabah) | N/A |
 | 4 | [Bangkit Dengan Syariah](http://twitter.com/search?q=Bangkit+Dengan+Syariah) | N/A |
-| 5 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 6 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 7 | [army battle party](http://twitter.com/search?q=army+battle+party) | N/A |
-| 8 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 5 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 6 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 7 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 8 | [army battle party](http://twitter.com/search?q=army+battle+party) | N/A |
 | 9 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 10 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
-| 11 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 12 | [BRImo](http://twitter.com/search?q=BRImo) | N/A |
-| 13 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
-| 14 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 15 | [50 M](http://twitter.com/search?q=50+M) | N/A |
-| 16 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 18 | [Sophia Latjuba](http://twitter.com/search?q=Sophia+Latjuba) | N/A |
-| 19 | [Sebelahan](http://twitter.com/search?q=Sebelahan) | N/A |
-| 20 | [Aku PKB](http://twitter.com/search?q=Aku+PKB) | N/A |
-| 21 | [NCT SEHUN](http://twitter.com/search?q=NCT+SEHUN) | N/A |
-| 22 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 23 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 24 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 25 | [the boyz roar d-15](http://twitter.com/search?q=the+boyz+roar+d-15) | N/A |
-| 26 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 27 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 28 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
-| 29 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
-| 30 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
-| 31 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 32 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 34 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 10 | [its bss fighting day](http://twitter.com/search?q=its+bss+fighting+day) | N/A |
+| 11 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 12 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 13 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 14 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 15 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 16 | [BRImo](http://twitter.com/search?q=BRImo) | N/A |
+| 17 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 18 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 19 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 20 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 21 | [Sebelahan](http://twitter.com/search?q=Sebelahan) | N/A |
+| 22 | [NCT SEHUN](http://twitter.com/search?q=NCT+SEHUN) | N/A |
+| 23 | [Sophia Latjuba](http://twitter.com/search?q=Sophia+Latjuba) | N/A |
+| 24 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 25 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 26 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 27 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 28 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
+| 29 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
+| 30 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 31 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 32 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 33 | [the boyz roar d-15](http://twitter.com/search?q=the+boyz+roar+d-15) | N/A |
+| 34 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
 | 35 | [Berhadapan](http://twitter.com/search?q=Berhadapan) | N/A |
-| 36 | [POWERVOTE ON CIRCLE AWARD](http://twitter.com/search?q=POWERVOTE+ON+CIRCLE+AWARD) | N/A |
-| 37 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 38 | [Sawi](http://twitter.com/search?q=Sawi) | N/A |
-| 39 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 40 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Pembalut](http://twitter.com/search?q=Pembalut) | N/A |
+| 38 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 39 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 40 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
 | 41 | [BTS OUR PRIDE](http://twitter.com/search?q=BTS+OUR+PRIDE) | N/A |
-| 42 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
-| 43 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 44 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 45 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
-| 46 | [Encanto](http://twitter.com/search?q=Encanto) | N/A |
-| 47 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
-| 48 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 42 | [nyapu](http://twitter.com/search?q=nyapu) | N/A |
+| 43 | [Gaji](http://twitter.com/search?q=Gaji) | N/A |
+| 44 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 45 | [Encanto](http://twitter.com/search?q=Encanto) | N/A |
+| 46 | [Sholat](http://twitter.com/search?q=Sholat) | N/A |
+| 47 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 48 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
 
 
 
