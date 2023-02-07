@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-07 00:28:56 UTC`
+📆 Last Updated: `2023-02-07 01:43:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Austria
 | 6 | [#Wiensindwiralle](http://twitter.com/search?q=%23Wiensindwiralle) | N/A |
 | 7 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
 | 8 | [#Falco](http://twitter.com/search?q=%23Falco) | N/A |
-| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 9 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 10 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
 | 11 | [Standard](http://twitter.com/search?q=Standard) | N/A |
 | 12 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
@@ -41,13 +41,13 @@ This is top 50 for Austria
 | 24 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
 | 25 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
 | 26 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 27 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 27 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
 | 28 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 29 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
-| 30 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
-| 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 32 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 33 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 29 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 31 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 32 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
+| 33 | [kundgebung](http://twitter.com/search?q=kundgebung) | N/A |
 | 34 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
 | 35 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
 | 36 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Austria
 | 38 | [Freut](http://twitter.com/search?q=Freut) | N/A |
 | 39 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
 | 40 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
-| 41 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
+| 41 | [rabatt](http://twitter.com/search?q=rabatt) | N/A |
 | 42 | [Studium](http://twitter.com/search?q=Studium) | N/A |
 | 43 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
 | 44 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Austria
 | 46 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
 | 47 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
 | 48 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
-| 49 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 50 | [Kasperl](http://twitter.com/search?q=Kasperl) | N/A |
+| 49 | [Kasperl](http://twitter.com/search?q=Kasperl) | N/A |
+| 50 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
 
 
 

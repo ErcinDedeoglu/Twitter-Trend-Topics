@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-07 00:28:12 UTC`
+📆 Last Updated: `2023-02-07 01:42:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,46 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
 | 2 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 3 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
-| 4 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 5 | [#PeligranEstudiantes](http://twitter.com/search?q=%23PeligranEstudiantes) | N/A |
-| 6 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
+| 3 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 4 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 5 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
+| 6 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
 | 7 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 8 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
-| 9 | [Rubén Omar Romano](http://twitter.com/search?q=Rub%c3%a9n+Omar+Romano) | N/A |
-| 10 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 11 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 12 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 13 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 14 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
-| 15 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
-| 16 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
-| 17 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
-| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 19 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 20 | [Riva Palacio](http://twitter.com/search?q=Riva+Palacio) | N/A |
-| 21 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
-| 22 | [Steve Austin](http://twitter.com/search?q=Steve+Austin) | N/A |
-| 23 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 24 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 25 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 26 | [Fumar](http://twitter.com/search?q=Fumar) | N/A |
+| 8 | [#TeamWithLuv](http://twitter.com/search?q=%23TeamWithLuv) | N/A |
+| 9 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
+| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 11 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
+| 12 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
+| 13 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 14 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 16 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 17 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
+| 18 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
+| 19 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 20 | [Rubén Omar Romano](http://twitter.com/search?q=Rub%c3%a9n+Omar+Romano) | N/A |
+| 21 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
+| 22 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
+| 23 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 24 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
+| 25 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 26 | [Simi](http://twitter.com/search?q=Simi) | N/A |
 | 27 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 28 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
-| 29 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 30 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
-| 31 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
-| 32 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 33 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 34 | [Legislativo y Judicial](http://twitter.com/search?q=Legislativo+y+Judicial) | N/A |
+| 28 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 29 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 30 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
+| 31 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
+| 32 | [Fumar](http://twitter.com/search?q=Fumar) | N/A |
+| 33 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 34 | [Atlixco](http://twitter.com/search?q=Atlixco) | N/A |
 | 35 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 36 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 37 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
-| 38 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 39 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
-| 40 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 41 | [Protocolo](http://twitter.com/search?q=Protocolo) | N/A |
-| 42 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 43 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 44 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 45 | [Poderes](http://twitter.com/search?q=Poderes) | N/A |
-| 46 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 36 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 37 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
+| 38 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 39 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
+| 40 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
+| 41 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 42 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
 
 
 

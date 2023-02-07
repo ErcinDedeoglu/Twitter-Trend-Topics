@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-07 00:28:17 UTC`
+📆 Last Updated: `2023-02-07 01:42:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 1 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
 | 2 | [Strogonoff](http://twitter.com/search?q=Strogonoff) | N/A |
-| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 4 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 5 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
-| 6 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
-| 7 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
-| 8 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
-| 9 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 10 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 11 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 12 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 14 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 15 | [#FelipeNetoNaTwitch](http://twitter.com/search?q=%23FelipeNetoNaTwitch) | N/A |
+| 3 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
+| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 6 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 7 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
+| 8 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
+| 9 | [fear of the dark](http://twitter.com/search?q=fear+of+the+dark) | N/A |
+| 10 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 11 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
+| 12 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 13 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
+| 14 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
+| 15 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
 | 16 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 17 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 18 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 17 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 18 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 19 | [#PolianaMoça](http://twitter.com/search?q=%23PolianaMo%c3%a7a) | N/A |
-| 20 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 21 | [Sol e Ben](http://twitter.com/search?q=Sol+e+Ben) | N/A |
-| 22 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 23 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 24 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 25 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
-| 26 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 27 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 28 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 29 | [Kamehameha](http://twitter.com/search?q=Kamehameha) | N/A |
-| 30 | [FELIPE ARAUJO NO TVZ](http://twitter.com/search?q=FELIPE+ARAUJO+NO+TVZ) | N/A |
-| 31 | [Kaio Jorge](http://twitter.com/search?q=Kaio+Jorge) | N/A |
-| 32 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 33 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
-| 34 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 35 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 36 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
-| 37 | [Conselho Deliberativo](http://twitter.com/search?q=Conselho+Deliberativo) | N/A |
-| 38 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 39 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 40 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 41 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 42 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 43 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 44 | [Oliver Queen](http://twitter.com/search?q=Oliver+Queen) | Oliver Queen is the alter ego of the DC Comics superhero Green Arrow. He is a billionaire playboy and vigilante who fights crime using archery, martial arts, and technology. The name Oliver Queen is derived from the phrase "all for one and one for all," which was popularized by Alexandre Dumas' novel The Three Musketeers. |
-| 45 | [Cellbit](http://twitter.com/search?q=Cellbit) | N/A |
-| 46 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 47 | [Walter Delgatti](http://twitter.com/search?q=Walter+Delgatti) | N/A |
+| 20 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 21 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
+| 22 | [tasha](http://twitter.com/search?q=tasha) | N/A |
+| 23 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 24 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
+| 25 | [thomaz costa](http://twitter.com/search?q=thomaz+costa) | N/A |
+| 26 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
+| 27 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 28 | [Esse Ari](http://twitter.com/search?q=Esse+Ari) | N/A |
+| 29 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 30 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 31 | [Kamehameha](http://twitter.com/search?q=Kamehameha) | N/A |
+| 32 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 33 | [Escrotos](http://twitter.com/search?q=Escrotos) | N/A |
+| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 35 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 36 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 37 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
+| 38 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 39 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
+| 40 | [Ben e Sol](http://twitter.com/search?q=Ben+e+Sol) | N/A |
+| 41 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 42 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
+| 43 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 44 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
+| 45 | [FELIPE ARAUJO NO TVZ](http://twitter.com/search?q=FELIPE+ARAUJO+NO+TVZ) | N/A |
+| 46 | [Kaio Jorge](http://twitter.com/search?q=Kaio+Jorge) | N/A |
+| 47 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 48 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 49 | [Escárnio](http://twitter.com/search?q=Esc%c3%a1rnio) | N/A |
+| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 
 
 

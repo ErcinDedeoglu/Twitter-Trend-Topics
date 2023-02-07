@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-07 00:28:25 UTC`
+📆 Last Updated: `2023-02-07 01:42:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,17 +29,17 @@ This is top 50 for [Latvia](</Latvia>)
 | 12 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 13 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 14 | [levitu](http://twitter.com/search?q=levitu) | N/A |
-| 15 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 16 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
-| 17 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 18 | ["Labrīt"](http://twitter.com/search?q=%22Labr%c4%abt%22) | N/A |
-| 19 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 20 | [skultes](http://twitter.com/search?q=skultes) | N/A |
-| 21 | [baigi](http://twitter.com/search?q=baigi) | N/A |
-| 22 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 23 | [ogres](http://twitter.com/search?q=ogres) | N/A |
-| 24 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 25 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 15 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
+| 16 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 17 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 18 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 19 | [skultes](http://twitter.com/search?q=skultes) | N/A |
+| 20 | [baigi](http://twitter.com/search?q=baigi) | N/A |
+| 21 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 22 | [ogres](http://twitter.com/search?q=ogres) | N/A |
+| 23 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 24 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 25 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
 | 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 27 | [eirovīziju](http://twitter.com/search?q=eirov%c4%abziju) | N/A |
 | 28 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 39 | [katram](http://twitter.com/search?q=katram) | N/A |
 | 40 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
 | 41 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
-| 42 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
+| 42 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
 | 43 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
 | 44 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 45 | [Mūsu](http://twitter.com/search?q=M%c5%absu) | N/A |
+| 45 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
 | 46 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
 | 47 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 48 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
-| 49 | [Jautājums](http://twitter.com/search?q=Jaut%c4%81jums) | N/A |
-| 50 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
+| 48 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 49 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
+| 50 | [csdd](http://twitter.com/search?q=csdd) | N/A |
 
 
 

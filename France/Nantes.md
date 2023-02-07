@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-07 00:28:20 UTC`
+📆 Last Updated: `2023-02-07 01:42:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 2 | [#adp2023](http://twitter.com/search?q=%23adp2023) | N/A |
-| 3 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 4 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 6 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 7 | [4keus](http://twitter.com/search?q=4keus) | N/A |
-| 8 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 9 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 10 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
-| 11 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 12 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 13 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
-| 14 | [Neon](http://twitter.com/search?q=Neon) | N/A |
-| 15 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 16 | [Photon](http://twitter.com/search?q=Photon) | N/A |
-| 17 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 18 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
-| 19 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 20 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 21 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 23 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 24 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 25 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 26 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 27 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 28 | [Saur](http://twitter.com/search?q=Saur) | N/A |
-| 29 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 30 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 31 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 32 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 33 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 34 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
-| 35 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
-| 36 | [#VITWIN](http://twitter.com/search?q=%23VITWIN) | N/A |
-| 37 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
-| 38 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 39 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 40 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
-| 41 | [#pelissard](http://twitter.com/search?q=%23pelissard) | N/A |
-| 42 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 43 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 44 | [#VALRevolution](http://twitter.com/search?q=%23VALRevolution) | N/A |
-| 45 | [#BloquonsMacron](http://twitter.com/search?q=%23BloquonsMacron) | N/A |
+| 1 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 2 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 3 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 4 | [#adp2023](http://twitter.com/search?q=%23adp2023) | N/A |
+| 5 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 6 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 7 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 8 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 9 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 10 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 11 | [Éric](http://twitter.com/search?q=%c3%89ric) | N/A |
+| 12 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 13 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 14 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 15 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 16 | [4keus](http://twitter.com/search?q=4keus) | N/A |
+| 17 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 19 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 21 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 22 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 23 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 24 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 25 | [Photon](http://twitter.com/search?q=Photon) | N/A |
+| 26 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
+| 27 | [Pastèque](http://twitter.com/search?q=Past%c3%a8que) | N/A |
+| 28 | [Mangue](http://twitter.com/search?q=Mangue) | N/A |
+| 29 | [13 Block](http://twitter.com/search?q=13+Block) | N/A |
+| 30 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 31 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 32 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 33 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 34 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 35 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 37 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 38 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 39 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
+| 40 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
+| 41 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 42 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 44 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 45 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 47 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 48 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 49 | [Néon](http://twitter.com/search?q=N%c3%a9on) | N/A |
 
 
 
