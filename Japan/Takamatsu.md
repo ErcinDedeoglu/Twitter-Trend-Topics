@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Takamatsu
 
-📆 Last Updated: `2023-02-07 16:16:03 UTC`
+📆 Last Updated: `2023-02-07 17:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
 | 2 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 3 | [#藤原丈一郎誕生祭2023](http://twitter.com/search?q=%23%e8%97%a4%e5%8e%9f%e4%b8%88%e4%b8%80%e9%83%8e%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 3 | [#美しい彼シーズン2みてる](http://twitter.com/search?q=%23%e7%be%8e%e3%81%97%e3%81%84%e5%bd%bc%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b32%e3%81%bf%e3%81%a6%e3%82%8b) | N/A |
 | 4 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 5 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
-| 6 | [セブンルール](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
-| 7 | [虹色開花ポートレート](http://twitter.com/search?q=%e8%99%b9%e8%89%b2%e9%96%8b%e8%8a%b1%e3%83%9d%e3%83%bc%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
-| 8 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
+| 5 | [#藤原丈一郎誕生祭2023](http://twitter.com/search?q=%23%e8%97%a4%e5%8e%9f%e4%b8%88%e4%b8%80%e9%83%8e%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 6 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 7 | [セブンルール](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
+| 8 | [虹色開花ポートレート](http://twitter.com/search?q=%e8%99%b9%e8%89%b2%e9%96%8b%e8%8a%b1%e3%83%9d%e3%83%bc%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
 | 9 | [第383回](http://twitter.com/search?q=%e7%ac%ac383%e5%9b%9e) | N/A |
-| 10 | [丈くん誕生日](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 11 | [義勇さん](http://twitter.com/search?q=%e7%be%a9%e5%8b%87%e3%81%95%e3%82%93) | N/A |
-| 12 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 13 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
-| 14 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
-| 15 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
-| 16 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
-| 17 | [トモコレ](http://twitter.com/search?q=%e3%83%88%e3%83%a2%e3%82%b3%e3%83%ac) | N/A |
-| 18 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
-| 19 | [ブルアカメンテ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 20 | [丈くん27歳](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%9327%e6%ad%b3) | N/A |
-| 21 | [ddos](http://twitter.com/search?q=ddos) | N/A |
-| 22 | [リズム天国](http://twitter.com/search?q=%e3%83%aa%e3%82%ba%e3%83%a0%e5%a4%a9%e5%9b%bd) | N/A |
-| 23 | [メジャーデビュー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 24 | [メンシ開設](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%82%b7%e9%96%8b%e8%a8%ad) | N/A |
-| 25 | [ニンテンドーダイレクト](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bc%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88) | N/A |
-| 26 | [メンテナメン](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%a1%e3%83%b3) | N/A |
-| 27 | [ナカサチさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ab%e3%82%b5%e3%83%81%e3%81%95%e3%82%93) | N/A |
-| 28 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
-| 29 | [ランガくん](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%ac%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ミスラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
-| 32 | [右衛門佐](http://twitter.com/search?q=%e5%8f%b3%e8%a1%9b%e9%96%80%e4%bd%90) | N/A |
-| 33 | [タリョラ](http://twitter.com/search?q=%e3%82%bf%e3%83%aa%e3%83%a7%e3%83%a9) | タリョラ is a Japanese word that means "a lot of trouble". It is often used to describe a situation that is difficult or complicated. |
-| 34 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
-| 35 | [山本耕史](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e8%80%95%e5%8f%b2) | N/A |
-| 36 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
-| 37 | [田中角栄](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e8%a7%92%e6%a0%84) | N/A |
-| 38 | [ミスラ誕生日](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%a9%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 39 | [行秋完凸](http://twitter.com/search?q=%e8%a1%8c%e7%a7%8b%e5%ae%8c%e5%87%b8) | N/A |
-| 40 | [ニンリル様](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%aa%e3%83%ab%e6%a7%98) | N/A |
-| 41 | [ミサモ確定](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%83%a2%e7%a2%ba%e5%ae%9a) | N/A |
-| 42 | [TAIGAさん](http://twitter.com/search?q=TAIGA%e3%81%95%e3%82%93) | N/A |
-| 43 | [マンボウ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%9c%e3%82%a6) | マンボウ (manbou) is a type of fish found in Japan. It is a species of sea bass and is commonly used in Japanese cuisine. In English, it is known as the Japanese Seabass. |
-| 44 | [イエンちゃん](http://twitter.com/search?q=%e3%82%a4%e3%82%a8%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [ミスフル](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%95%e3%83%ab) | N/A |
-| 46 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
-| 47 | [無印・リマスター](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 48 | [アギパン](http://twitter.com/search?q=%e3%82%a2%e3%82%ae%e3%83%91%e3%83%b3) | N/A |
-| 49 | [メンバーシップ開設](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b7%e3%83%83%e3%83%97%e9%96%8b%e8%a8%ad) | N/A |
+| 10 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
+| 11 | [トモコレ](http://twitter.com/search?q=%e3%83%88%e3%83%a2%e3%82%b3%e3%83%ac) | N/A |
+| 12 | [メンテナメン](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%a1%e3%83%b3) | N/A |
+| 13 | [義勇さん](http://twitter.com/search?q=%e7%be%a9%e5%8b%87%e3%81%95%e3%82%93) | N/A |
+| 14 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
+| 15 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
+| 16 | [丈くん誕生日](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 17 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
+| 18 | [ddos](http://twitter.com/search?q=ddos) | N/A |
+| 19 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 20 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 21 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
+| 22 | [ブルアカメンテ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 23 | [モンスターハンターポータブル](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab) | N/A |
+| 24 | [ルビー・サファイア・エメラルド](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%83%bc%e3%83%bb%e3%82%b5%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bb%e3%82%a8%e3%83%a1%e3%83%a9%e3%83%ab%e3%83%89) | N/A |
+| 25 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
+| 26 | [無印・リマスター](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 27 | [リズム天国](http://twitter.com/search?q=%e3%83%aa%e3%82%ba%e3%83%a0%e5%a4%a9%e5%9b%bd) | N/A |
+| 28 | [ファイナルファンタジーXIV](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bcXIV) | N/A |
+| 29 | [丈くん27歳](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%9327%e6%ad%b3) | N/A |
+| 30 | [無印・G](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbG) | N/A |
+| 31 | [田中角栄](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e8%a7%92%e6%a0%84) | N/A |
+| 32 | [メジャーデビュー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 33 | [ニンテンドーダイレクト](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bc%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88) | N/A |
+| 34 | [金・銀・クリスタル](http://twitter.com/search?q=%e9%87%91%e3%83%bb%e9%8a%80%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf%e3%83%ab) | N/A |
+| 35 | [ダイヤモンド・パール・プラチナ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%83%91%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%97%e3%83%a9%e3%83%81%e3%83%8a) | N/A |
+| 36 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
+| 37 | [星のカービィ](http://twitter.com/search?q=%e6%98%9f%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
+| 38 | [無印・HD](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbHD) | N/A |
+| 39 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
+| 40 | [ミスラちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [エビコロ](http://twitter.com/search?q=%e3%82%a8%e3%83%93%e3%82%b3%e3%83%ad) | N/A |
+| 42 | [ブラック・ホワイト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%bb%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88) | N/A |
+| 43 | [ランガくん](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%ac%e3%81%8f%e3%82%93) | N/A |
+| 44 | [ナカサチさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ab%e3%82%b5%e3%83%81%e3%81%95%e3%82%93) | N/A |
+| 45 | [メンシ開設](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%82%b7%e9%96%8b%e8%a8%ad) | N/A |
+| 46 | [カラフルタッグチーム](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%83%ab%e3%82%bf%e3%83%83%e3%82%b0%e3%83%81%e3%83%bc%e3%83%a0) | N/A |
+| 47 | [どうぶつの森](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e3%81%ae%e6%a3%ae) | N/A |
+| 48 | [右衛門佐](http://twitter.com/search?q=%e5%8f%b3%e8%a1%9b%e9%96%80%e4%bd%90) | N/A |
+| 49 | [手描き合作](http://twitter.com/search?q=%e6%89%8b%e6%8f%8f%e3%81%8d%e5%90%88%e4%bd%9c) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-02-07 16:16:23 UTC`
+📆 Last Updated: `2023-02-07 17:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 5 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 2 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 6 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 8 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
 | 9 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
 | 10 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 11 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 12 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 13 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 12 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 14 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 15 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
 | 16 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 17 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 17 | [TotK](http://twitter.com/search?q=TotK) | N/A |
 | 18 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 19 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 20 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 21 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 19 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 20 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 21 | [Zane](http://twitter.com/search?q=Zane) | N/A |
 | 22 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
 | 23 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 25 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 26 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 27 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 28 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 29 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 30 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 31 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 32 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 33 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 34 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 36 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 37 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 38 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
-| 39 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 40 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 41 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 42 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 43 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 44 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 45 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 46 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 47 | [Rise & Grind](http://twitter.com/search?q=Rise+%26+Grind) | N/A |
-| 48 | [Tom Sachs](http://twitter.com/search?q=Tom+Sachs) | N/A |
+| 24 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 25 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 26 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 27 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
+| 28 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 29 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 30 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 31 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 32 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
+| 33 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 34 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 35 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 36 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 37 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 38 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 40 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 41 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 42 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 43 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
+| 44 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 45 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 46 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 47 | [SNKRS app](http://twitter.com/search?q=SNKRS+app) | N/A |
+| 48 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
 
 
 

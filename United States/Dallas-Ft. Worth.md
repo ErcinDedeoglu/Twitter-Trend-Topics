@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-07 16:16:21 UTC`
+📆 Last Updated: `2023-02-07 17:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 2 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 3 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 4 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
-| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 9 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 10 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 | 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 12 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 15 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 17 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 18 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 20 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 21 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 22 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 23 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 24 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 26 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 29 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 30 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 31 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 32 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 33 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 34 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 35 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 36 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 37 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 38 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 42 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
-| 43 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 44 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 45 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 47 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 48 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 49 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 50 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 13 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 15 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 16 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 17 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 21 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 22 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 23 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 25 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 26 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 27 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
+| 28 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 29 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 30 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 31 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 32 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
+| 33 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 34 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 35 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 37 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
+| 38 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 39 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 40 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 42 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 43 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 46 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 48 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
+| 49 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
 
 
 

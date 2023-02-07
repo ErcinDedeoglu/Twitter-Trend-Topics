@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-07 16:16:14 UTC`
+📆 Last Updated: `2023-02-07 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 5 | [#HBD_WaseemBadami](http://twitter.com/search?q=%23HBD_WaseemBadami) | N/A |
 | 6 | [another 7.5](http://twitter.com/search?q=another+7.5) | N/A |
-| 7 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 8 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 9 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 10 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 11 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
-| 12 | [Powerful 7.8](http://twitter.com/search?q=Powerful+7.8) | N/A |
-| 13 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
-| 14 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 15 | [o allah](http://twitter.com/search?q=o+allah) | N/A |
-| 16 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 17 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 18 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
-| 19 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 21 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 23 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
-| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 25 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
-| 26 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 28 | [Sehat Card](http://twitter.com/search?q=Sehat+Card) | N/A |
-| 29 | [Billions Views](http://twitter.com/search?q=Billions+Views) | N/A |
-| 30 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 31 | [Haina](http://twitter.com/search?q=Haina) | N/A |
-| 32 | [Medical](http://twitter.com/search?q=Medical) | N/A |
-| 33 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 34 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 35 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
-| 36 | [Hats](http://twitter.com/search?q=Hats) | N/A |
-| 37 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 38 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 39 | [prime minister shehbaz sharif](http://twitter.com/search?q=prime+minister+shehbaz+sharif) | N/A |
-| 40 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 41 | [Subscribe](http://twitter.com/search?q=Subscribe) | N/A |
+| 7 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 8 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
+| 9 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 10 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 11 | [powerful 7.8](http://twitter.com/search?q=powerful+7.8) | N/A |
+| 12 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 13 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 14 | [C-130](http://twitter.com/search?q=C-130) | N/A |
+| 15 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
+| 16 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
+| 17 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 20 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 21 | [Lady Zainab](http://twitter.com/search?q=Lady+Zainab) | N/A |
+| 22 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
+| 23 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 24 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 25 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 26 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 27 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 28 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 29 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 30 | [Billions Views](http://twitter.com/search?q=Billions+Views) | N/A |
+| 31 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 32 | [England](http://twitter.com/search?q=England) | N/A |
+| 33 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 34 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 35 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 36 | [Subscribe](http://twitter.com/search?q=Subscribe) | N/A |
+| 37 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 38 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 39 | [Pakistan Army](http://twitter.com/search?q=Pakistan+Army) | N/A |
+| 40 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 41 | [Jinnah](http://twitter.com/search?q=Jinnah) | N/A |
 | 42 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
 | 43 | [European](http://twitter.com/search?q=European) | N/A |
-| 44 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 45 | [Jinnah](http://twitter.com/search?q=Jinnah) | N/A |
-| 46 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
-| 47 | [Sath](http://twitter.com/search?q=Sath) | N/A |
-| 48 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
-| 49 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 44 | [Khud](http://twitter.com/search?q=Khud) | N/A |
+| 45 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 46 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
+| 47 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
+| 48 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 49 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
 
 
 

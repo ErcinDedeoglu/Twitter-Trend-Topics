@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-07 16:15:56 UTC`
+📆 Last Updated: `2023-02-07 17:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 3 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 4 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 5 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 6 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 8 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 9 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 10 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 11 | [CONI](http://twitter.com/search?q=CONI) | CONI is an acronym for the Italian National Olympic Committee (Comitato Olimpico Nazionale Italiano). It is responsible for organizing and promoting the participation of Italian athletes in the Olympic Games. |
-| 12 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 13 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 14 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 15 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 16 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 17 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
+| 4 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 6 | [CONI](http://twitter.com/search?q=CONI) | CONI is an acronym for the Italian National Olympic Committee (Comitato Olimpico Nazionale Italiano). It is responsible for organizing and promoting the participation of Italian athletes in the Olympic Games. |
+| 7 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 9 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 10 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 11 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 12 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 13 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
+| 14 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 15 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 16 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 17 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
 | 18 | [Lorella](http://twitter.com/search?q=Lorella) | N/A |
 | 19 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 20 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 20 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
 | 21 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 22 | [Chiappero](http://twitter.com/search?q=Chiappero) | N/A |
-| 23 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
-| 24 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
-| 25 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 26 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
-| 27 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 22 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 23 | [Chiappero](http://twitter.com/search?q=Chiappero) | N/A |
+| 24 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 26 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 27 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
 | 28 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 29 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 30 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 31 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
-| 32 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
-| 33 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 34 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
+| 29 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
+| 30 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 31 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 32 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 33 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
+| 34 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
 | 35 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
-| 36 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 37 | [#Cesaro](http://twitter.com/search?q=%23Cesaro) | N/A |
-| 38 | [#OggiEUnAltroGiorno](http://twitter.com/search?q=%23OggiEUnAltroGiorno) | N/A |
-| 39 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 40 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
-| 41 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 42 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
-| 43 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 44 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
-| 45 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 46 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 47 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 48 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
+| 36 | [#Cesaro](http://twitter.com/search?q=%23Cesaro) | N/A |
+| 37 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 38 | [#ferragni](http://twitter.com/search?q=%23ferragni) | N/A |
+| 39 | [#OggiEUnAltroGiorno](http://twitter.com/search?q=%23OggiEUnAltroGiorno) | N/A |
+| 40 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
+| 41 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 42 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 43 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
+| 44 | [#festivaldisanremo](http://twitter.com/search?q=%23festivaldisanremo) | N/A |
+| 45 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
+| 46 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
+| 47 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 48 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 49 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
 
 
 

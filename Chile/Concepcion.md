@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-07 16:15:47 UTC`
+📆 Last Updated: `2023-02-07 17:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Chile](</Chile>)
 | 4 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
 | 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 6 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 7 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
-| 8 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 9 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 10 | [#GRAMMYsTNT](http://twitter.com/search?q=%23GRAMMYsTNT) | N/A |
-| 11 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
-| 12 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
-| 13 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
-| 14 | [Fher](http://twitter.com/search?q=Fher) | N/A |
-| 15 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
-| 16 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 17 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 7 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 8 | [#grammystnt](http://twitter.com/search?q=%23grammystnt) | N/A |
+| 9 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
+| 10 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
+| 11 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
+| 12 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 13 | [#TuDia](http://twitter.com/search?q=%23TuDia) | N/A |
+| 14 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 15 | [Opening Trailer Photo Sana](http://twitter.com/search?q=Opening+Trailer+Photo+Sana) | N/A |
+| 16 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 17 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
 | 18 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 19 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 20 | [Alex Gárgolas](http://twitter.com/search?q=Alex+G%c3%a1rgolas) | N/A |
-| 21 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
-| 22 | [Futa](http://twitter.com/search?q=Futa) | N/A |
+| 19 | [Matías Dituro](http://twitter.com/search?q=Mat%c3%adas+Dituro) | N/A |
+| 20 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 21 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 22 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
 | 23 | [Carmen Frei](http://twitter.com/search?q=Carmen+Frei) | N/A |
-| 24 | [Soap](http://twitter.com/search?q=Soap) | N/A |
-| 25 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 26 | [Brigadistas y Brigadistos](http://twitter.com/search?q=Brigadistas+y+Brigadistos) | N/A |
-| 27 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 28 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 30 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 31 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 34 | [UP Chile](http://twitter.com/search?q=UP+Chile) | N/A |
-| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 36 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 37 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 38 | [Yerko Ljubetic](http://twitter.com/search?q=Yerko+Ljubetic) | N/A |
-| 39 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 40 | [Castrilli](http://twitter.com/search?q=Castrilli) | N/A |
-| 41 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 42 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 43 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 44 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 45 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 46 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 47 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 48 | [ABERRACIÓN](http://twitter.com/search?q=ABERRACI%c3%93N) | N/A |
-| 49 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 50 | [Rodrigo Delgado](http://twitter.com/search?q=Rodrigo+Delgado) | N/A |
+| 24 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
+| 25 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
+| 26 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 27 | [Alex Gárgolas](http://twitter.com/search?q=Alex+G%c3%a1rgolas) | N/A |
+| 28 | [Futa](http://twitter.com/search?q=Futa) | N/A |
+| 29 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 30 | [Soap](http://twitter.com/search?q=Soap) | N/A |
+| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 34 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 35 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 36 | [Pololeo](http://twitter.com/search?q=Pololeo) | N/A |
+| 37 | [Bienvenido a Chile](http://twitter.com/search?q=Bienvenido+a+Chile) | N/A |
+| 38 | [Castrilli](http://twitter.com/search?q=Castrilli) | N/A |
+| 39 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 40 | [UP Chile](http://twitter.com/search?q=UP+Chile) | N/A |
+| 41 | [Fher](http://twitter.com/search?q=Fher) | N/A |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 44 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 45 | [Laura Albornoz](http://twitter.com/search?q=Laura+Albornoz) | N/A |
+| 46 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 47 | [Yerko Ljubetic](http://twitter.com/search?q=Yerko+Ljubetic) | N/A |
+| 48 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 49 | [Consejo Constitucional](http://twitter.com/search?q=Consejo+Constitucional) | N/A |
+| 50 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 
 
 

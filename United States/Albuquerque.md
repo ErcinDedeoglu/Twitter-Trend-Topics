@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-07 16:16:19 UTC`
+📆 Last Updated: `2023-02-07 17:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 5 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 10 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 11 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 12 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 13 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 15 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 2 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 5 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 6 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 8 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 9 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 10 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 13 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
 | 17 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 18 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 18 | [TotK](http://twitter.com/search?q=TotK) | N/A |
 | 19 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 20 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 21 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 20 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 21 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 22 | [Zane](http://twitter.com/search?q=Zane) | N/A |
 | 23 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
 | 24 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 25 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 26 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 27 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 29 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 30 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 31 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 32 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 33 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 34 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 35 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 36 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 37 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 39 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
-| 40 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 41 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 42 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 43 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 44 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 45 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 46 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 25 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 26 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 27 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 28 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
+| 29 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 30 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 31 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 32 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 33 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
+| 34 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 35 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 36 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 37 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 38 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 39 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 40 | [Eartha Kitt](http://twitter.com/search?q=Eartha+Kitt) | N/A |
+| 41 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 42 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 43 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 44 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 45 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
+| 46 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
 
 
 

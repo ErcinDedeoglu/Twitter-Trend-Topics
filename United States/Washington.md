@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-02-07 16:16:27 UTC`
+📆 Last Updated: `2023-02-07 17:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Turkey and Syria](http://twitter.com/search?q=Turkey+and+Syria) | N/A |
 | 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 6 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 9 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 3 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 6 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 9 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
 | 10 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 12 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 13 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 11 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 13 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 14 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 16 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 17 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 18 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 19 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 20 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 21 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 22 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 23 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 15 | [#NBHAAD](http://twitter.com/search?q=%23NBHAAD) | N/A |
+| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 18 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 20 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 21 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 23 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 24 | [Zane](http://twitter.com/search?q=Zane) | N/A |
 | 25 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 26 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 29 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 30 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 31 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 32 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 33 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 34 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 35 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 36 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 37 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 38 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 39 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 40 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 41 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
-| 42 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 43 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 44 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 45 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 46 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 47 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 48 | [Audrey Hepburn](http://twitter.com/search?q=Audrey+Hepburn) | N/A |
-| 49 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
-| 50 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 26 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 27 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 28 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 29 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 30 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
+| 31 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
+| 32 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 33 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 34 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 36 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 37 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 38 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 39 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 40 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 41 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 42 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 43 | [Eartha Kitt](http://twitter.com/search?q=Eartha+Kitt) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 46 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 47 | [Today is National Black HIV](http://twitter.com/search?q=Today+is+National+Black+HIV) | N/A |
+| 48 | [Nagy](http://twitter.com/search?q=Nagy) | N/A |
+| 49 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 50 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-07 16:16:24 UTC`
+📆 Last Updated: `2023-02-07 17:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 2 | [blazers](http://twitter.com/search?q=blazers) | N/A |
+| 2 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 3 | [Portland](http://twitter.com/search?q=Portland) | N/A |
 | 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 8 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 | 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 11 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 10 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 11 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
 | 12 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 13 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 15 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 17 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 18 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 20 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 21 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
-| 22 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 23 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 24 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
-| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 13 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 14 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 15 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 16 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 19 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 21 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 23 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 24 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 25 | [Zane](http://twitter.com/search?q=Zane) | N/A |
 | 26 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
 | 27 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 28 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 29 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
-| 30 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
-| 31 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 32 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
-| 33 | [Langa](http://twitter.com/search?q=Langa) | N/A |
-| 34 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 35 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 36 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
-| 37 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 38 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
-| 39 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 40 | [Rhythm Heaven](http://twitter.com/search?q=Rhythm+Heaven) | N/A |
-| 41 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 42 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 43 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 44 | [MAGA Republicans](http://twitter.com/search?q=MAGA+Republicans) | N/A |
-| 45 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 47 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
+| 28 | [Todd Gilliland](http://twitter.com/search?q=Todd+Gilliland) | N/A |
+| 29 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 30 | [Kim Pegula](http://twitter.com/search?q=Kim+Pegula) | N/A |
+| 31 | [Front Row](http://twitter.com/search?q=Front+Row) | N/A |
+| 32 | [Skinny Puppy](http://twitter.com/search?q=Skinny+Puppy) | N/A |
+| 33 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 34 | [HAPPY BIRTHDAY JACK](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACK) | N/A |
+| 35 | [J Dilla](http://twitter.com/search?q=J+Dilla) | N/A |
+| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 37 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 38 | [Mario Baseball](http://twitter.com/search?q=Mario+Baseball) | N/A |
+| 39 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
+| 40 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 41 | [Trans Lives Matter](http://twitter.com/search?q=Trans+Lives+Matter) | N/A |
+| 42 | [Brockton Hospital](http://twitter.com/search?q=Brockton+Hospital) | N/A |
+| 43 | [Eartha Kitt](http://twitter.com/search?q=Eartha+Kitt) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [Langa](http://twitter.com/search?q=Langa) | N/A |
+| 46 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
 
 
 
