@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-07 07:15:32 UTC`
+📆 Last Updated: `2023-02-07 08:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 2 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 3 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 4 | [#adp2023](http://twitter.com/search?q=%23adp2023) | N/A |
+| 3 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 4 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
 | 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 6 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 7 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 8 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
-| 9 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 7 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 8 | [#mardiconseil](http://twitter.com/search?q=%23mardiconseil) | N/A |
+| 9 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
 | 10 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 11 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
-| 12 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 13 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 14 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Éric](http://twitter.com/search?q=%c3%89ric) | N/A |
-| 17 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 18 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 19 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 20 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 11 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 12 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
+| 15 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 16 | [Racine](http://twitter.com/search?q=Racine) | N/A |
+| 17 | [Celleux](http://twitter.com/search?q=Celleux) | N/A |
+| 18 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
+| 19 | [Éric](http://twitter.com/search?q=%c3%89ric) | N/A |
+| 20 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
 | 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 23 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 24 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 25 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 26 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 27 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 28 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 29 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 22 | [Bonjour Gabrielle](http://twitter.com/search?q=Bonjour+Gabrielle) | N/A |
+| 23 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 24 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 26 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 27 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 28 | [Eugénie](http://twitter.com/search?q=Eug%c3%a9nie) | N/A |
+| 29 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
 | 30 | [Mangue](http://twitter.com/search?q=Mangue) | N/A |
-| 31 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 32 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 33 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 34 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 35 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 36 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 37 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 38 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 39 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
-| 40 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
-| 41 | [Bon Anniversaire](http://twitter.com/search?q=Bon+Anniversaire) | N/A |
-| 42 | [La Corée du Nord](http://twitter.com/search?q=La+Cor%c3%a9e+du+Nord) | N/A |
-| 43 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 44 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 45 | [Bonjour Isabelle](http://twitter.com/search?q=Bonjour+Isabelle) | N/A |
-| 46 | [rennes ii](http://twitter.com/search?q=rennes+ii) | N/A |
-| 47 | [Knut](http://twitter.com/search?q=Knut) | N/A |
-| 48 | [claude erignac](http://twitter.com/search?q=claude+erignac) | N/A |
-| 49 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
-| 50 | [4Keus](http://twitter.com/search?q=4Keus) | N/A |
+| 31 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
+| 32 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 33 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 34 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 35 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 36 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 37 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 38 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 39 | [Bonjour Thierry](http://twitter.com/search?q=Bonjour+Thierry) | N/A |
+| 40 | [TotalEnergies](http://twitter.com/search?q=TotalEnergies) | N/A |
+| 41 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 42 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 43 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 44 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 45 | [Estrosi](http://twitter.com/search?q=Estrosi) | N/A |
+| 46 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 47 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 48 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
+| 49 | [claude erignac](http://twitter.com/search?q=claude+erignac) | N/A |
+| 50 | [rennes ii](http://twitter.com/search?q=rennes+ii) | N/A |
 
 
 

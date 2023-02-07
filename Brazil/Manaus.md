@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-02-07 07:15:29 UTC`
+📆 Last Updated: `2023-02-07 08:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
 | 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 5 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 5 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 | 6 | [#Jogodadiscordia](http://twitter.com/search?q=%23Jogodadiscordia) | N/A |
 | 7 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
 | 8 | [gaga](http://twitter.com/search?q=gaga) | N/A |
@@ -30,41 +30,31 @@ This is top 50 for [Brazil](</Brazil>)
 | 13 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
 | 14 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
 | 15 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 16 | [Parabéns Gustavo](http://twitter.com/search?q=Parab%c3%a9ns+Gustavo) | N/A |
-| 17 | [Esse Bruno](http://twitter.com/search?q=Esse+Bruno) | Esse Bruno is a Portuguese phrase that translates to “Be Brave” in English. It is often used as a motivational phrase to encourage someone to be brave and take risks. |
-| 18 | [O SEU MELHOR](http://twitter.com/search?q=O+SEU+MELHOR) | N/A |
-| 19 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 20 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 21 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 22 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
-| 23 | [Flamém](http://twitter.com/search?q=Flam%c3%a9m) | N/A |
-| 24 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 25 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 26 | [Fora Prior](http://twitter.com/search?q=Fora+Prior) | N/A |
-| 27 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 28 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 29 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
-| 30 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 31 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
-| 32 | [Arregona](http://twitter.com/search?q=Arregona) | N/A |
-| 33 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 34 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
-| 35 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 36 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 39 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
-| 40 | [Topete](http://twitter.com/search?q=Topete) | N/A |
-| 41 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 42 | [Topetudo](http://twitter.com/search?q=Topetudo) | N/A |
-| 43 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 44 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 45 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
-| 46 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
-| 47 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
-| 48 | [BH de 2019](http://twitter.com/search?q=BH+de+2019) | N/A |
-| 49 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 50 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
+| 16 | [O SEU MELHOR](http://twitter.com/search?q=O+SEU+MELHOR) | N/A |
+| 17 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 18 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
+| 19 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
+| 20 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 21 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
+| 22 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
+| 23 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 24 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 25 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 26 | [gabriel santana](http://twitter.com/search?q=gabriel+santana) | Gabriel Santana is a Spanish name, derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 27 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 28 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 29 | [Cellbit](http://twitter.com/search?q=Cellbit) | N/A |
+| 30 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
+| 31 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
+| 32 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 33 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 35 | [CHASE ATLANTIC](http://twitter.com/search?q=CHASE+ATLANTIC) | N/A |
+| 36 | [Esse Gustavo](http://twitter.com/search?q=Esse+Gustavo) | N/A |
+| 37 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 38 | [tati zaqui](http://twitter.com/search?q=tati+zaqui) | N/A |
+| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 40 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
 
 
 

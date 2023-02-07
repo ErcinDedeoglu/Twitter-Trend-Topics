@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-07 07:16:06 UTC`
+📆 Last Updated: `2023-02-07 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
 | 2 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 3 | [Gang](http://twitter.com/search?q=Gang) | N/A |
+| 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 5 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 6 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 7 | [Bine](http://twitter.com/search?q=Bine) | N/A |
-| 8 | [Lächerlich](http://twitter.com/search?q=L%c3%a4cherlich) | N/A |
-| 9 | [#wiensindwiralle](http://twitter.com/search?q=%23wiensindwiralle) | N/A |
-| 10 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
-| 11 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
-| 12 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
-| 13 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 14 | [#Falco](http://twitter.com/search?q=%23Falco) | N/A |
+| 5 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 6 | [Lächerlich](http://twitter.com/search?q=L%c3%a4cherlich) | N/A |
+| 7 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
+| 8 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 9 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
+| 10 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 11 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 12 | [#Wiensindwiralle](http://twitter.com/search?q=%23Wiensindwiralle) | N/A |
+| 13 | [#Falco](http://twitter.com/search?q=%23Falco) | N/A |
+| 14 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 | 15 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 16 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 17 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 18 | [Worten](http://twitter.com/search?q=Worten) | N/A |
-| 19 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 20 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 21 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 22 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 23 | [kommission](http://twitter.com/search?q=kommission) | N/A |
-| 24 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 25 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
-| 26 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
-| 27 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 28 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 29 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 30 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 31 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 32 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 33 | [botschafter](http://twitter.com/search?q=botschafter) | N/A |
-| 34 | [Matura](http://twitter.com/search?q=Matura) | N/A |
-| 35 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 36 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
-| 37 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
-| 38 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 39 | [roten](http://twitter.com/search?q=roten) | N/A |
-| 40 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 41 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 42 | [Schrecklich](http://twitter.com/search?q=Schrecklich) | N/A |
-| 43 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 44 | [innsbruck](http://twitter.com/search?q=innsbruck) | N/A |
-| 45 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
-| 46 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 47 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 48 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 49 | [Reichweite](http://twitter.com/search?q=Reichweite) | N/A |
-| 50 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 17 | [Worten](http://twitter.com/search?q=Worten) | N/A |
+| 18 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
+| 19 | [kommission](http://twitter.com/search?q=kommission) | N/A |
+| 20 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 21 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 22 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 25 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 26 | [Matura](http://twitter.com/search?q=Matura) | N/A |
+| 27 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
+| 28 | [schallenberg](http://twitter.com/search?q=schallenberg) | N/A |
+| 29 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 30 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 31 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 32 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 33 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 34 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 35 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 36 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 37 | [roten](http://twitter.com/search?q=roten) | N/A |
+| 38 | [Mond](http://twitter.com/search?q=Mond) | N/A |
+| 39 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
+| 40 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 41 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 42 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 43 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 44 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 45 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 46 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
+| 47 | [Schrecklich](http://twitter.com/search?q=Schrecklich) | N/A |
+| 48 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
+| 49 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 50 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 
 
 
