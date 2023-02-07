@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-07 12:17:42 UTC`
+📆 Last Updated: `2023-02-07 13:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 2 | [Jovane](http://twitter.com/search?q=Jovane) | N/A |
-| 3 | [Rui Santos](http://twitter.com/search?q=Rui+Santos) | N/A |
+| 1 | [Rui Santos](http://twitter.com/search?q=Rui+Santos) | N/A |
+| 2 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 3 | [Jovane](http://twitter.com/search?q=Jovane) | N/A |
 | 4 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
 | 5 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
 | 6 | [Morangos](http://twitter.com/search?q=Morangos) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for Portugal
 | 11 | [#janeladabru](http://twitter.com/search?q=%23janeladabru) | N/A |
 | 12 | [Vila do Conde](http://twitter.com/search?q=Vila+do+Conde) | N/A |
 | 13 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 14 | [#algarve](http://twitter.com/search?q=%23algarve) | N/A |
+| 14 | [Sérgio Conceição](http://twitter.com/search?q=S%c3%a9rgio+Concei%c3%a7%c3%a3o) | N/A |
 | 15 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
-| 16 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 17 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 18 | [#FantasyLigaPortugalbwin](http://twitter.com/search?q=%23FantasyLigaPortugalbwin) | N/A |
-| 19 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 20 | [#bercomredbull](http://twitter.com/search?q=%23bercomredbull) | N/A |
-| 21 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [#FantasyLigaPortugalbwin](http://twitter.com/search?q=%23FantasyLigaPortugalbwin) | N/A |
+| 18 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 19 | [#bercomredbull](http://twitter.com/search?q=%23bercomredbull) | N/A |
+| 20 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 21 | [trincão](http://twitter.com/search?q=trinc%c3%a3o) | N/A |
+| 22 | [#Algarve](http://twitter.com/search?q=%23Algarve) | N/A |
 | 23 | [#rafcscp](http://twitter.com/search?q=%23rafcscp) | N/A |
-| 24 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 25 | [gormiti](http://twitter.com/search?q=gormiti) | N/A |
-| 26 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 27 | [Rochinha](http://twitter.com/search?q=Rochinha) | N/A |
+| 24 | [gormiti](http://twitter.com/search?q=gormiti) | N/A |
+| 25 | [rochinha](http://twitter.com/search?q=rochinha) | N/A |
+| 26 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 27 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 28 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 29 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 30 | [vale tudo](http://twitter.com/search?q=vale+tudo) | N/A |
-| 31 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 32 | [Sérgio](http://twitter.com/search?q=S%c3%a9rgio) | N/A |
-| 33 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 34 | [O Esgaio](http://twitter.com/search?q=O+Esgaio) | N/A |
-| 35 | [dia de sporting](http://twitter.com/search?q=dia+de+sporting) | N/A |
-| 36 | [London](http://twitter.com/search?q=London) | N/A |
-| 37 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 38 | [Mouraria](http://twitter.com/search?q=Mouraria) | N/A |
-| 39 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 40 | [mateus reis](http://twitter.com/search?q=mateus+reis) | N/A |
-| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 42 | [Vigo](http://twitter.com/search?q=Vigo) | N/A |
-| 43 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
-| 44 | [Santana Lopes](http://twitter.com/search?q=Santana+Lopes) | N/A |
-| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 46 | [o bellerin](http://twitter.com/search?q=o+bellerin) | N/A |
-| 47 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 48 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 49 | [galeno](http://twitter.com/search?q=galeno) | N/A |
-| 50 | [David](http://twitter.com/search?q=David) | N/A |
+| 29 | [vale tudo](http://twitter.com/search?q=vale+tudo) | N/A |
+| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 31 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 32 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 33 | [O Esgaio](http://twitter.com/search?q=O+Esgaio) | N/A |
+| 34 | [dia de sporting](http://twitter.com/search?q=dia+de+sporting) | N/A |
+| 35 | [Mouraria](http://twitter.com/search?q=Mouraria) | N/A |
+| 36 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 37 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 38 | [mateus reis](http://twitter.com/search?q=mateus+reis) | N/A |
+| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 40 | [Marta Temido](http://twitter.com/search?q=Marta+Temido) | N/A |
+| 41 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
+| 42 | [Santana Lopes](http://twitter.com/search?q=Santana+Lopes) | N/A |
+| 43 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 44 | [London](http://twitter.com/search?q=London) | N/A |
+| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 46 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 47 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 48 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 49 | [Guga](http://twitter.com/search?q=Guga) | N/A |
+| 50 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 
 
 

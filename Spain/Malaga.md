@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-07 12:17:01 UTC`
+📆 Last Updated: `2023-02-07 13:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,52 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#KirbyMM](http://twitter.com/search?q=%23KirbyMM) | N/A |
 | 3 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
 | 4 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 5 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 6 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
 | 7 | [#DiaDeInternetSegura](http://twitter.com/search?q=%23DiaDeInternetSegura) | N/A |
-| 8 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 9 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 10 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 11 | [Ministra de Justicia](http://twitter.com/search?q=Ministra+de+Justicia) | N/A |
+| 8 | [#TikTokYoigo](http://twitter.com/search?q=%23TikTokYoigo) | N/A |
+| 9 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 10 | [Ministra de Justicia](http://twitter.com/search?q=Ministra+de+Justicia) | N/A |
+| 11 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
 | 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Gobierno y Renfe](http://twitter.com/search?q=Gobierno+y+Renfe) | N/A |
-| 14 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
-| 15 | [Froilan](http://twitter.com/search?q=Froilan) | N/A |
-| 16 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [Alexelcapo](http://twitter.com/search?q=Alexelcapo) | N/A |
+| 15 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 16 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
 | 17 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
-| 18 | [Alexelcapo](http://twitter.com/search?q=Alexelcapo) | N/A |
-| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 20 | [Antros](http://twitter.com/search?q=Antros) | N/A |
-| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 22 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 23 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 24 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
-| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 26 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
-| 27 | [Subirse](http://twitter.com/search?q=Subirse) | N/A |
-| 28 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 29 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 30 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
-| 31 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 32 | [Ione](http://twitter.com/search?q=Ione) | N/A |
-| 33 | [Baiona](http://twitter.com/search?q=Baiona) | N/A |
-| 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [Borbones](http://twitter.com/search?q=Borbones) | N/A |
-| 36 | [#APOYOROCIO7F](http://twitter.com/search?q=%23APOYOROCIO7F) | N/A |
-| 37 | [#TikTokYoigo](http://twitter.com/search?q=%23TikTokYoigo) | N/A |
-| 38 | [#Gianmarco7F](http://twitter.com/search?q=%23Gianmarco7F) | N/A |
-| 39 | [#Solos7F](http://twitter.com/search?q=%23Solos7F) | N/A |
-| 40 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 41 | [#YoMeRebelo7F](http://twitter.com/search?q=%23YoMeRebelo7F) | N/A |
-| 42 | [#ciberseguridad](http://twitter.com/search?q=%23ciberseguridad) | N/A |
-| 43 | [#mascarillas](http://twitter.com/search?q=%23mascarillas) | N/A |
-| 44 | [#SoloSiEsSi](http://twitter.com/search?q=%23SoloSiEsSi) | N/A |
-| 45 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
-| 46 | [#SanValentín](http://twitter.com/search?q=%23SanValent%c3%adn) | N/A |
-| 47 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
-| 48 | [#MadridSeLevantaEl12F](http://twitter.com/search?q=%23MadridSeLevantaEl12F) | N/A |
+| 18 | [Gobierno y Renfe](http://twitter.com/search?q=Gobierno+y+Renfe) | N/A |
+| 19 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 22 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
+| 23 | [Froilan](http://twitter.com/search?q=Froilan) | N/A |
+| 24 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
+| 25 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 26 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 27 | [Antros](http://twitter.com/search?q=Antros) | N/A |
+| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 29 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 33 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 34 | [Subirse](http://twitter.com/search?q=Subirse) | N/A |
+| 35 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 36 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 37 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
+| 38 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 39 | [Baiona](http://twitter.com/search?q=Baiona) | N/A |
+| 40 | [Borbones](http://twitter.com/search?q=Borbones) | N/A |
+| 41 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 42 | [#APOYOROCIO7F](http://twitter.com/search?q=%23APOYOROCIO7F) | N/A |
+| 43 | [#Solos7F](http://twitter.com/search?q=%23Solos7F) | N/A |
+| 44 | [#Gianmarco7F](http://twitter.com/search?q=%23Gianmarco7F) | N/A |
+| 45 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 46 | [#ciberseguridad](http://twitter.com/search?q=%23ciberseguridad) | N/A |
+| 47 | [#YoMeRebelo7F](http://twitter.com/search?q=%23YoMeRebelo7F) | N/A |
+| 48 | [#SoloSiEsSi](http://twitter.com/search?q=%23SoloSiEsSi) | N/A |
+| 49 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
+| 50 | [#mascarillas](http://twitter.com/search?q=%23mascarillas) | N/A |
 
 
 

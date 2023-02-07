@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-07 12:17:12 UTC`
+📆 Last Updated: `2023-02-07 13:20:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
-| 3 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 4 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
-| 5 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 6 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 7 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 8 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 1 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 2 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 3 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
+| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 5 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 6 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 7 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 8 | [#DarnaSuperNoHero](http://twitter.com/search?q=%23DarnaSuperNoHero) | N/A |
 | 9 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
-| 10 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
-| 11 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 12 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 13 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 14 | [morente](http://twitter.com/search?q=morente) | N/A |
-| 15 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 16 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 17 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 18 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
-| 19 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 20 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 21 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 10 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 12 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 13 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
+| 14 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 15 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 16 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
+| 17 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 18 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 19 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 20 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 21 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 22 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 23 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 24 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 25 | [Arado](http://twitter.com/search?q=Arado) | N/A |
-| 26 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 27 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 28 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
-| 29 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 30 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 31 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 32 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 33 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 34 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
-| 35 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
-| 36 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 37 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 38 | [Lee Seung Gi](http://twitter.com/search?q=Lee+Seung+Gi) | N/A |
-| 39 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
-| 40 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 41 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 42 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 43 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 44 | [#TwentyFiveWonDONNYfulYears](http://twitter.com/search?q=%23TwentyFiveWonDONNYfulYears) | N/A |
-| 45 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
-| 46 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
-| 47 | [#PINAKAMAKINANG](http://twitter.com/search?q=%23PINAKAMAKINANG) | N/A |
-| 48 | [#DreamMakerSelcaDay](http://twitter.com/search?q=%23DreamMakerSelcaDay) | N/A |
+| 23 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 25 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 26 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 27 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
+| 28 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 29 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 30 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 31 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 32 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 33 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 34 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 35 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 36 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 37 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 38 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 40 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
+| 41 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
+| 42 | [Lee Seung Gi](http://twitter.com/search?q=Lee+Seung+Gi) | N/A |
+| 43 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 44 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 45 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 46 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 47 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 48 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 
 
 

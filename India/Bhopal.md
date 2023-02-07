@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-02-07 12:17:23 UTC`
+📆 Last Updated: `2023-02-07 13:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ग्राम पंचायत](http://twitter.com/search?q=%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%af%e0%a4%a4) | N/A |
-| 2 | [विधानसभा क्षेत्र](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 3 | [#Unbottled](http://twitter.com/search?q=%23Unbottled) | N/A |
-| 4 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
-| 5 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
-| 6 | [#CNNNews18TownHall](http://twitter.com/search?q=%23CNNNews18TownHall) | N/A |
+| 1 | [#StopDrinkingAlcohol](http://twitter.com/search?q=%23StopDrinkingAlcohol) | N/A |
+| 2 | [ग्राम पंचायत](http://twitter.com/search?q=%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%af%e0%a4%a4) | N/A |
+| 3 | [विधानसभा क्षेत्र](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 4 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
+| 5 | [#ETAutoEVC](http://twitter.com/search?q=%23ETAutoEVC) | N/A |
+| 6 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
 | 7 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
-| 8 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
+| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
 | 9 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 10 | [64 GB STORAGE](http://twitter.com/search?q=64+GB+STORAGE) | N/A |
-| 11 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 12 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 13 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
-| 14 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 15 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 16 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 17 | [रक्षा क्षेत्र](http://twitter.com/search?q=%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 18 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 19 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
-| 20 | [SSR Projects Stalled Nd Stolen](http://twitter.com/search?q=SSR+Projects+Stalled+Nd+Stolen) | N/A |
+| 10 | [विदेश यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 11 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 12 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 13 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 15 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 16 | [रक्षा क्षेत्र](http://twitter.com/search?q=%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 17 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
+| 18 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
+| 19 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 20 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
 | 21 | [राखी सावंत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
-| 22 | [kl Rahul](http://twitter.com/search?q=kl+Rahul) | N/A |
-| 23 | [रमाबाई अंबेडकर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 24 | [MiG-29K](http://twitter.com/search?q=MiG-29K) | N/A |
-| 25 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
-| 26 | [उत्तर भारत](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 27 | [Kiara Advani](http://twitter.com/search?q=Kiara+Advani) | N/A |
-| 28 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 29 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 30 | [भक्ति मार्ग](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
-| 31 | [Ghaziabad](http://twitter.com/search?q=Ghaziabad) | N/A |
-| 32 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 33 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 34 | [#GoldenBookAwards](http://twitter.com/search?q=%23GoldenBookAwards) | N/A |
-| 35 | [#RoseDay](http://twitter.com/search?q=%23RoseDay) | N/A |
-| 36 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
-| 37 | [#AskPrashanth](http://twitter.com/search?q=%23AskPrashanth) | N/A |
-| 38 | [#AskDK](http://twitter.com/search?q=%23AskDK) | N/A |
-| 39 | [#LokSabha](http://twitter.com/search?q=%23LokSabha) | N/A |
-| 40 | [#उपेन_यादव_को_रिहा_करो](http://twitter.com/search?q=%23%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%b0%e0%a4%bf%e0%a4%b9%e0%a4%be_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 41 | [#SidKiara](http://twitter.com/search?q=%23SidKiara) | N/A |
-| 42 | [#OnePlus115GO](http://twitter.com/search?q=%23OnePlus115GO) | N/A |
-| 43 | [#VaaThalaivaa](http://twitter.com/search?q=%23VaaThalaivaa) | N/A |
-| 44 | [#AtkeNahiHatke](http://twitter.com/search?q=%23AtkeNahiHatke) | N/A |
-| 45 | [#AppuRatnaAPCM](http://twitter.com/search?q=%23AppuRatnaAPCM) | N/A |
-| 46 | [#RakhiSawant](http://twitter.com/search?q=%23RakhiSawant) | N/A |
-| 47 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 48 | [#ValentinesWeek](http://twitter.com/search?q=%23ValentinesWeek) | N/A |
-| 49 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 23 | [SSR Projects Stalled Nd Stolen](http://twitter.com/search?q=SSR+Projects+Stalled+Nd+Stolen) | N/A |
+| 24 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
+| 25 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 26 | [Rana Ayyub](http://twitter.com/search?q=Rana+Ayyub) | N/A |
+| 27 | [MiG-29K](http://twitter.com/search?q=MiG-29K) | N/A |
+| 28 | [परम मित्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 29 | [रमाबाई अंबेडकर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 30 | [उत्तर भारत](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 31 | [Rafale](http://twitter.com/search?q=Rafale) | N/A |
+| 32 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 33 | [भक्ति मार्ग](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
+| 34 | [Ghaziabad](http://twitter.com/search?q=Ghaziabad) | N/A |
+| 35 | [मानव जीवन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 36 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
+| 37 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
+| 38 | [#Unbottled](http://twitter.com/search?q=%23Unbottled) | N/A |
+| 39 | [#GoldenBookAwards](http://twitter.com/search?q=%23GoldenBookAwards) | N/A |
+| 40 | [#CNNNews18TownHall](http://twitter.com/search?q=%23CNNNews18TownHall) | N/A |
+| 41 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
+| 42 | [#SidKiaraWedding](http://twitter.com/search?q=%23SidKiaraWedding) | N/A |
+| 43 | [#RoseDay](http://twitter.com/search?q=%23RoseDay) | N/A |
+| 44 | [#AskPrashanth](http://twitter.com/search?q=%23AskPrashanth) | N/A |
+| 45 | [#OnePlus115GO](http://twitter.com/search?q=%23OnePlus115GO) | N/A |
+| 46 | [#LokSabha](http://twitter.com/search?q=%23LokSabha) | N/A |
+| 47 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 48 | [#AdaniGroups](http://twitter.com/search?q=%23AdaniGroups) | N/A |
+| 49 | [#VaaThalaivaa](http://twitter.com/search?q=%23VaaThalaivaa) | N/A |
 
 
 

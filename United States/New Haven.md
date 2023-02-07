@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-07 12:17:31 UTC`
+📆 Last Updated: `2023-02-07 13:20:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 3 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 5 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 9 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 13 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 14 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 15 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 16 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 17 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 18 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 19 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 20 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 21 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 22 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 23 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 24 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 25 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 26 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 27 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 28 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 29 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 30 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 31 | [Sirona](http://twitter.com/search?q=Sirona) | N/A |
-| 32 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 33 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 34 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 35 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 36 | [Turquía y Siria](http://twitter.com/search?q=Turqu%c3%ada+y+Siria) | N/A |
-| 37 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 38 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
-| 39 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 40 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 41 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 5 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
+| 6 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 7 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 10 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 11 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 14 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 15 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 16 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 20 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 21 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 22 | [Animal Farm](http://twitter.com/search?q=Animal+Farm) | N/A |
+| 23 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 24 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 25 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 26 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 27 | [Reverend](http://twitter.com/search?q=Reverend) | N/A |
+| 28 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 29 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
+| 30 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 31 | [Turquía y Siria](http://twitter.com/search?q=Turqu%c3%ada+y+Siria) | N/A |
+| 32 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
+| 33 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 34 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 35 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 36 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 37 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 38 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 39 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 40 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 41 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
 | 42 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 43 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 44 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
-| 45 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
+| 43 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 44 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
+| 45 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
 | 46 | [#QuantumLeap](http://twitter.com/search?q=%23QuantumLeap) | N/A |
 | 47 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
-| 48 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 49 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
 
 
 

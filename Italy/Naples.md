@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-07 12:16:59 UTC`
+📆 Last Updated: `2023-02-07 13:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,44 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 4 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
-| 5 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 6 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 7 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 8 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 9 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 10 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 11 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 12 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
-| 13 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
-| 14 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 15 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
-| 16 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
-| 17 | [Odio la Juve](http://twitter.com/search?q=Odio+la+Juve) | N/A |
-| 18 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
-| 19 | [Consob](http://twitter.com/search?q=Consob) | N/A |
-| 20 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
-| 21 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 22 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 23 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 24 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 25 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 26 | [ariston](http://twitter.com/search?q=ariston) | N/A |
+| 1 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 2 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 4 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
+| 5 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 6 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 7 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 8 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
+| 9 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
+| 10 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 11 | [Chiappero](http://twitter.com/search?q=Chiappero) | N/A |
+| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 13 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
+| 14 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 15 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
+| 16 | [La Stampa](http://twitter.com/search?q=La+Stampa) | N/A |
+| 17 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 18 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 19 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
+| 20 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 21 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 22 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 23 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
+| 24 | [Consob](http://twitter.com/search?q=Consob) | N/A |
+| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 26 | [Falcone e Borsellino](http://twitter.com/search?q=Falcone+e+Borsellino) | N/A |
 | 27 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 28 | [Vesuvio](http://twitter.com/search?q=Vesuvio) | N/A |
-| 29 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 30 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 31 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 32 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 33 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
-| 34 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
-| 35 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
-| 36 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 37 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 38 | [#Aleppo](http://twitter.com/search?q=%23Aleppo) | N/A |
-| 39 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
+| 28 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 29 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 30 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
+| 31 | [Vesuvio](http://twitter.com/search?q=Vesuvio) | N/A |
+| 32 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
+| 33 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 34 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 35 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
+| 36 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
+| 37 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
+| 38 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
 
 
 
