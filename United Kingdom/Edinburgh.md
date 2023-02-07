@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-07 22:15:28 UTC`
+📆 Last Updated: `2023-02-07 23:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 2 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 3 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 4 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 3 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 5 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
 | 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 7 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
 | 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
 | 9 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 10 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 11 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 12 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 10 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 12 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
 | 13 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 14 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 15 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
-| 16 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 17 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 14 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
+| 15 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 16 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 17 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
 | 18 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 19 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 20 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 21 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 22 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 23 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 24 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 19 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 20 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 21 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 22 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 23 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 24 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
 | 25 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
-| 26 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 27 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 28 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
-| 29 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
-| 30 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
-| 31 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 32 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
-| 33 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 34 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 36 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
-| 37 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 38 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 39 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 40 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 41 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 42 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
-| 43 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
-| 44 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 26 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 27 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 28 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 29 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 30 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 31 | [Rene](http://twitter.com/search?q=Rene) | N/A |
+| 32 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 33 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 34 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
+| 35 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 36 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 37 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 38 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
+| 39 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
+| 40 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
+| 41 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 42 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 43 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 44 | [Nuttall](http://twitter.com/search?q=Nuttall) | N/A |
 | 45 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 46 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 47 | [Ron and Tanyel](http://twitter.com/search?q=Ron+and+Tanyel) | N/A |
-| 48 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 49 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 50 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 46 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 47 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 48 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 49 | [Sam Matterface](http://twitter.com/search?q=Sam+Matterface) | Sam Matterface is a British sports commentator and presenter. The phrase is a play on words, as the name "Matterface" is a combination of the words "matter" and "face". It implies that Sam has an authoritative presence when it comes to sports commentary. |
+| 50 | [Wills](http://twitter.com/search?q=Wills) | N/A |
 
 
 

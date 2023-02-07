@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-07 22:15:58 UTC`
+📆 Last Updated: `2023-02-07 23:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#beoncloudapologizetovnfans](http://twitter.com/search?q=%23beoncloudapologizetovnfans) | N/A |
+| 1 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
 | 2 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
 | 3 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
 | 4 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [thổ nhĩ kỳ](http://twitter.com/search?q=th%e1%bb%95+nh%c4%a9+k%e1%bb%b3) | N/A |
 | 17 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
 | 18 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 19 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 20 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 21 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 22 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 24 | [hồ chí minh](http://twitter.com/search?q=h%e1%bb%93+ch%c3%ad+minh) | N/A |
-| 25 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 26 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 19 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 20 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 21 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 23 | [hồ chí minh](http://twitter.com/search?q=h%e1%bb%93+ch%c3%ad+minh) | N/A |
+| 24 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 25 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 26 | [Chúa](http://twitter.com/search?q=Ch%c3%baa) | N/A |
 | 27 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 28 | [Chúa](http://twitter.com/search?q=Ch%c3%baa) | N/A |
-| 29 | [Đảng](http://twitter.com/search?q=%c4%90%e1%ba%a3ng) | N/A |
-| 30 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
-| 31 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 32 | [SECC](http://twitter.com/search?q=SECC) | N/A |
-| 33 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 34 | [Cho-Gen](http://twitter.com/search?q=Cho-Gen) | N/A |
+| 28 | [Đảng](http://twitter.com/search?q=%c4%90%e1%ba%a3ng) | N/A |
+| 29 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
+| 30 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 31 | [SECC](http://twitter.com/search?q=SECC) | N/A |
+| 32 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 33 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 34 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
 | 35 | [Shikibu](http://twitter.com/search?q=Shikibu) | N/A |
-| 36 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 37 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 39 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 40 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 41 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 42 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
-| 43 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 44 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 45 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 46 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 47 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
-| 48 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 50 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 36 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 37 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 38 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 39 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
+| 40 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 41 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 42 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 43 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 44 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
+| 45 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 47 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 48 | [source link](http://twitter.com/search?q=source+link) | N/A |
+| 49 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
+| 50 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 
 
 

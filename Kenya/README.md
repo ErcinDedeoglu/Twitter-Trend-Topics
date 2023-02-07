@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-02-07 22:16:24 UTC`
+📆 Last Updated: `2023-02-07 23:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Kenya
 | 2 | [#FulfilledProphecy](http://twitter.com/search?q=%23FulfilledProphecy) | N/A |
 | 3 | [NSSF](http://twitter.com/search?q=NSSF) | N/A |
 | 4 | [ODM MPs](http://twitter.com/search?q=ODM+MPs) | N/A |
-| 5 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 6 | [Njugush](http://twitter.com/search?q=Njugush) | N/A |
-| 7 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 8 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 10 | [#kindikidelivers](http://twitter.com/search?q=%23kindikidelivers) | N/A |
-| 11 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
-| 12 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
+| 5 | [State House](http://twitter.com/search?q=State+House) | N/A |
+| 6 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 7 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 8 | [#kindikidelivers](http://twitter.com/search?q=%23kindikidelivers) | N/A |
+| 9 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
+| 10 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
+| 11 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 12 | [Njugush](http://twitter.com/search?q=Njugush) | N/A |
 | 13 | [John Mbadi](http://twitter.com/search?q=John+Mbadi) | N/A |
 | 14 | [Youth Resistance Movement MDD](http://twitter.com/search?q=Youth+Resistance+Movement+MDD) | N/A |
 | 15 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
@@ -35,13 +35,13 @@ This is top 50 for Kenya
 | 18 | [Juma Chitembwe](http://twitter.com/search?q=Juma+Chitembwe) | N/A |
 | 19 | [kara forum](http://twitter.com/search?q=kara+forum) | N/A |
 | 20 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 21 | [Tony Elumelu Foundation](http://twitter.com/search?q=Tony+Elumelu+Foundation) | N/A |
+| 21 | [tony elumelu foundation](http://twitter.com/search?q=tony+elumelu+foundation) | N/A |
 | 22 | [interior cs](http://twitter.com/search?q=interior+cs) | N/A |
 | 23 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
 | 24 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
 | 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 27 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 26 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 27 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 28 | [Nairobi Expressway](http://twitter.com/search?q=Nairobi+Expressway) | N/A |
 | 29 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 30 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Kenya
 | 45 | [KES 200](http://twitter.com/search?q=KES+200) | N/A |
 | 46 | [Mombasa Road](http://twitter.com/search?q=Mombasa+Road) | N/A |
 | 47 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 48 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 49 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 50 | [DM or WhatsApp](http://twitter.com/search?q=DM+or+WhatsApp) | N/A |
+| 48 | [The MPs](http://twitter.com/search?q=The+MPs) | N/A |
+| 49 | [Paper Pay](http://twitter.com/search?q=Paper+Pay) | N/A |
+| 50 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 
 
 

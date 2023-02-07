@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-02-07 22:16:20 UTC`
+📆 Last Updated: `2023-02-07 23:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,27 +22,27 @@ This is top 50 for Bahrain
 | 5 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 6 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
 | 7 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 8 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 10 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 8 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | #كاس_العالم_للانديه is a hashtag used on social media to promote the FIFA Club World Cup, an international association football tournament for clubs. In English, it translates to "World Cup for Clubs". |
+| 9 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 10 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 11 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 12 | [صبر العقيله](http://twitter.com/search?q=%d8%b5%d8%a8%d8%b1+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d9%84%d9%87) | N/A |
-| 13 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 12 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 13 | [صبر العقيله](http://twitter.com/search?q=%d8%b5%d8%a8%d8%b1+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d9%84%d9%87) | N/A |
 | 14 | [علي القلب الصبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a8+%d8%a7%d9%84%d8%b5%d8%a8%d9%88%d8%b1) | N/A |
 | 15 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 16 | [علي جبل الصبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
 | 17 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 18 | [علي الحوراء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%b1%d8%a7%d8%a1) | N/A |
-| 19 | [بني هاشم](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 20 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 21 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 22 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 19 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 20 | [بني هاشم](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 21 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
+| 22 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 23 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 24 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
 | 25 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 26 | [الكلمه الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 27 | [علي الانسان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 28 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 26 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 27 | [الكلمه الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 28 | [علي الانسان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
 | 29 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
 | 30 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
 | 31 | [الابالله العلي العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Bahrain
 | 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 37 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
 | 38 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 39 | [جبر خاطر](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1+%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
-| 40 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 41 | [GOLD TOOLS](http://twitter.com/search?q=GOLD+TOOLS) | N/A |
-| 42 | [فاطمة الزهراء](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
-| 43 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 44 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 45 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
-| 46 | [قوه الدفاع](http://twitter.com/search?q=%d9%82%d9%88%d9%87+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
-| 47 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
-| 48 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 49 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 50 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 39 | [علي نعمه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87) | N/A |
+| 40 | [جبر خاطر](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1+%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
+| 41 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 42 | [GOLD TOOLS](http://twitter.com/search?q=GOLD+TOOLS) | N/A |
+| 43 | [فاطمة الزهراء](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
+| 44 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 45 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
+| 46 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 47 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 48 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
+| 49 | [قوه الدفاع](http://twitter.com/search?q=%d9%82%d9%88%d9%87+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 50 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
 
 
 

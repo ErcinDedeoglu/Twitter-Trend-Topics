@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-07 22:16:08 UTC`
+📆 Last Updated: `2023-02-07 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ஏன்_வேண்டும்_திராவிடம்](http://twitter.com/search?q=%23%e0%ae%8f%e0%ae%a9%e0%af%8d_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d) | N/A |
-| 2 | [#SidharthKiaraWedding](http://twitter.com/search?q=%23SidharthKiaraWedding) | N/A |
-| 3 | [#HBDRitaMaa](http://twitter.com/search?q=%23HBDRitaMaa) | N/A |
-| 4 | [#ThunivuOnNetflix](http://twitter.com/search?q=%23ThunivuOnNetflix) | N/A |
-| 5 | [#MahuaMoitra](http://twitter.com/search?q=%23MahuaMoitra) | N/A |
-| 6 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 2 | [#StopDrinkingAlcohol](http://twitter.com/search?q=%23StopDrinkingAlcohol) | N/A |
+| 3 | [#RoseDay](http://twitter.com/search?q=%23RoseDay) | N/A |
+| 4 | [#SidKiaraWedding](http://twitter.com/search?q=%23SidKiaraWedding) | N/A |
+| 5 | [#AskDK](http://twitter.com/search?q=%23AskDK) | N/A |
+| 6 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
 | 7 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 8 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 9 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
-| 10 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
-| 11 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 12 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
-| 13 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 14 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
-| 15 | [सिद्धार्थ मल्होत्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 16 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
-| 17 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 18 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
-| 19 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
-| 20 | [#OnePlus11](http://twitter.com/search?q=%23OnePlus11) | N/A |
-| 21 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
-| 22 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
-| 23 | [#Shershaah](http://twitter.com/search?q=%23Shershaah) | N/A |
-| 24 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 25 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
-| 26 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
-| 27 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 28 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
-| 29 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
-| 30 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
-| 31 | [#AtkeNahiHatke](http://twitter.com/search?q=%23AtkeNahiHatke) | N/A |
+| 8 | [PIYA RE TEASER OUT NOW](http://twitter.com/search?q=PIYA+RE+TEASER+OUT+NOW) | N/A |
+| 9 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 10 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
+| 11 | [SHIV CHAL RAHA HAI](http://twitter.com/search?q=SHIV+CHAL+RAHA+HAI) | N/A |
+| 12 | [SSR Projects Stalled Nd Stolen](http://twitter.com/search?q=SSR+Projects+Stalled+Nd+Stolen) | N/A |
+| 13 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
+| 14 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
+| 15 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 16 | [स्वर कोकिला](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 17 | [GANAPATH AANE WALA HAI](http://twitter.com/search?q=GANAPATH+AANE+WALA+HAI) | N/A |
+| 18 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 19 | [रमाबाई अंबेडकर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 20 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 21 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 22 | [SHIVANGI IN JAB WE MATCHED](http://twitter.com/search?q=SHIVANGI+IN+JAB+WE+MATCHED) | N/A |
+| 23 | [Sabka Mangal Sabka Bhala](http://twitter.com/search?q=Sabka+Mangal+Sabka+Bhala) | N/A |
+| 24 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 25 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
+| 26 | [Mere Desh Ki Jawani](http://twitter.com/search?q=Mere+Desh+Ki+Jawani) | N/A |
+| 27 | [Selfless Services](http://twitter.com/search?q=Selfless+Services) | N/A |
+| 28 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 29 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 30 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 31 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
+| 32 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 34 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 35 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 36 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 37 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 38 | [Navi](http://twitter.com/search?q=Navi) | N/A |
+| 39 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 40 | [Kabir Singh](http://twitter.com/search?q=Kabir+Singh) | N/A |
+| 41 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
+| 42 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 43 | [Somnath](http://twitter.com/search?q=Somnath) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [महुआ मोइत्रा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%81%e0%a4%86+%e0%a4%ae%e0%a5%8b%e0%a4%87%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 46 | [Alia](http://twitter.com/search?q=Alia) | N/A |
+| 47 | [Diversity](http://twitter.com/search?q=Diversity) | N/A |
+| 48 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 49 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 50 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
 
 
 

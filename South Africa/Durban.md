@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-02-07 22:16:00 UTC`
+📆 Last Updated: `2023-02-07 23:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 4 | [#NedbankCup2023](http://twitter.com/search?q=%23NedbankCup2023) | N/A |
 | 5 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
-| 6 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 8 | [#WooliesValentines](http://twitter.com/search?q=%23WooliesValentines) | N/A |
-| 9 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 10 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 11 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 12 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
-| 13 | [Ngobeni](http://twitter.com/search?q=Ngobeni) | N/A |
-| 14 | [africa for thabang](http://twitter.com/search?q=africa+for+thabang) | N/A |
-| 15 | [Jenni O](http://twitter.com/search?q=Jenni+O) | N/A |
-| 16 | [Ma R5](http://twitter.com/search?q=Ma+R5) | N/A |
-| 17 | [Kapinga](http://twitter.com/search?q=Kapinga) | N/A |
-| 18 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 6 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 7 | [#WooliesValentines](http://twitter.com/search?q=%23WooliesValentines) | N/A |
+| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 9 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 10 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 11 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 12 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 13 | [Ma R5](http://twitter.com/search?q=Ma+R5) | N/A |
+| 14 | [Jenni O](http://twitter.com/search?q=Jenni+O) | N/A |
+| 15 | [Kapinga](http://twitter.com/search?q=Kapinga) | N/A |
+| 16 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 17 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 18 | [BLAQLENG](http://twitter.com/search?q=BLAQLENG) | N/A |
 | 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 21 | [BLAQLENG](http://twitter.com/search?q=BLAQLENG) | N/A |
-| 22 | [Sha Sha](http://twitter.com/search?q=Sha+Sha) | N/A |
-| 23 | [Richards Bay](http://twitter.com/search?q=Richards+Bay) | N/A |
-| 24 | [Mahambehlala](http://twitter.com/search?q=Mahambehlala) | N/A |
-| 25 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 26 | [Bongani Zungu](http://twitter.com/search?q=Bongani+Zungu) | N/A |
-| 27 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 28 | [Madea](http://twitter.com/search?q=Madea) | N/A |
-| 29 | [Ntukza](http://twitter.com/search?q=Ntukza) | N/A |
-| 30 | [Shalulile](http://twitter.com/search?q=Shalulile) | N/A |
-| 31 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 32 | [Zakes](http://twitter.com/search?q=Zakes) | N/A |
-| 33 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 34 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 35 | [kanaiva](http://twitter.com/search?q=kanaiva) | N/A |
-| 36 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
-| 37 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
-| 38 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 39 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 40 | [Gift of the Givers](http://twitter.com/search?q=Gift+of+the+Givers) | N/A |
-| 41 | [Cape Town CBD](http://twitter.com/search?q=Cape+Town+CBD) | N/A |
-| 42 | [le franschhoek hotel & spa](http://twitter.com/search?q=le+franschhoek+hotel+%26+spa) | N/A |
-| 43 | [John Moeti](http://twitter.com/search?q=John+Moeti) | N/A |
-| 44 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
-| 45 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 46 | [Idols](http://twitter.com/search?q=Idols) | N/A |
-| 47 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
-| 48 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 49 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 50 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 20 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 21 | [Richards Bay](http://twitter.com/search?q=Richards+Bay) | N/A |
+| 22 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 23 | [Mahambehlala](http://twitter.com/search?q=Mahambehlala) | N/A |
+| 24 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 25 | [Ntukza](http://twitter.com/search?q=Ntukza) | N/A |
+| 26 | [Madea](http://twitter.com/search?q=Madea) | N/A |
+| 27 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 28 | [Zakes](http://twitter.com/search?q=Zakes) | N/A |
+| 29 | [Ngobeni](http://twitter.com/search?q=Ngobeni) | N/A |
+| 30 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
+| 31 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 32 | [kanaiva](http://twitter.com/search?q=kanaiva) | N/A |
+| 33 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
+| 34 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 35 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 36 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 37 | [Gift of the Givers](http://twitter.com/search?q=Gift+of+the+Givers) | N/A |
+| 38 | [Shalulile](http://twitter.com/search?q=Shalulile) | N/A |
+| 39 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 40 | [le franschhoek hotel & spa](http://twitter.com/search?q=le+franschhoek+hotel+%26+spa) | N/A |
+| 41 | [John Moeti](http://twitter.com/search?q=John+Moeti) | N/A |
+| 42 | [Cape Town CBD](http://twitter.com/search?q=Cape+Town+CBD) | N/A |
+| 43 | [Idols](http://twitter.com/search?q=Idols) | N/A |
+| 44 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
+| 45 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 46 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
+| 47 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
+| 48 | [Marshall Dlamini](http://twitter.com/search?q=Marshall+Dlamini) | N/A |
+| 49 | [MY SIM](http://twitter.com/search?q=MY+SIM) | N/A |
+| 50 | [Block 14](http://twitter.com/search?q=Block+14) | N/A |
 
 
 

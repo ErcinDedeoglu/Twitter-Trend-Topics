@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-07 22:16:06 UTC`
+📆 Last Updated: `2023-02-07 23:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 20 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
 | 21 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
 | 22 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 23 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
-| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 25 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 26 | [Peter Hatzoglou](http://twitter.com/search?q=Peter+Hatzoglou) | N/A |
-| 27 | [ADIZA STILL REIGNING HEARTS](http://twitter.com/search?q=ADIZA+STILL+REIGNING+HEARTS) | N/A |
-| 28 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 29 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 30 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 31 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 32 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 24 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 25 | [ADIZA STILL REIGNING HEARTS](http://twitter.com/search?q=ADIZA+STILL+REIGNING+HEARTS) | N/A |
+| 26 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 27 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 28 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
+| 29 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 30 | [Adam Rossington](http://twitter.com/search?q=Adam+Rossington) | N/A |
+| 31 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 32 | [Peter Hatzoglou](http://twitter.com/search?q=Peter+Hatzoglou) | N/A |
 | 33 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 34 | [James Vince](http://twitter.com/search?q=James+Vince) | N/A |
-| 35 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 36 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [Showbaz](http://twitter.com/search?q=Showbaz) | N/A |
-| 39 | [Video Link](http://twitter.com/search?q=Video+Link) | N/A |
-| 40 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 41 | [Shehbaz](http://twitter.com/search?q=Shehbaz) | N/A |
-| 42 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 43 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 44 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 45 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 46 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 47 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 48 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
-| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 37 | [Shehbaz](http://twitter.com/search?q=Shehbaz) | N/A |
+| 38 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 39 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 40 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 41 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 45 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 46 | [Raha](http://twitter.com/search?q=Raha) | N/A |
+| 47 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 48 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 49 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 50 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 
 
 

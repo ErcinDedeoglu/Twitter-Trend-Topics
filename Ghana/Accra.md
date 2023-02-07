@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-02-07 22:15:58 UTC`
+📆 Last Updated: `2023-02-07 23:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ghana](</Ghana>)
 | ------- | ------------ | ------------ |
 | 1 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 4 | [#BrunchintheCiti](http://twitter.com/search?q=%23BrunchintheCiti) | N/A |
+| 3 | [#BrunchintheCiti](http://twitter.com/search?q=%23BrunchintheCiti) | N/A |
+| 4 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
 | 5 | [#Starbites](http://twitter.com/search?q=%23Starbites) | N/A |
-| 6 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
-| 7 | [#loveintheciti](http://twitter.com/search?q=%23loveintheciti) | N/A |
+| 6 | [#loveintheciti](http://twitter.com/search?q=%23loveintheciti) | N/A |
+| 7 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
 | 8 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 9 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
-| 10 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 11 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 12 | [BLAQLENG](http://twitter.com/search?q=BLAQLENG) | N/A |
-| 13 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 14 | [KT Hammond](http://twitter.com/search?q=KT+Hammond) | N/A |
-| 15 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 9 | [#thebigbreakfast](http://twitter.com/search?q=%23thebigbreakfast) | N/A |
+| 10 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 11 | [BLAQLENG](http://twitter.com/search?q=BLAQLENG) | N/A |
+| 12 | [KT Hammond](http://twitter.com/search?q=KT+Hammond) | N/A |
+| 13 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 14 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 15 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 16 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
 | 17 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
 | 18 | [Madea](http://twitter.com/search?q=Madea) | N/A |
-| 19 | [DDEP](http://twitter.com/search?q=DDEP) | N/A |
-| 20 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 21 | [Ken Ofori](http://twitter.com/search?q=Ken+Ofori) | N/A |
-| 22 | [God Did](http://twitter.com/search?q=God+Did) | God Did is a phrase used to express gratitude and appreciation for something that has been done. It is often used as a way of thanking God for providing help or guidance in a difficult situation. The phrase can also be used to express admiration for someone who has accomplished something great. |
+| 19 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
+| 20 | [DDEP](http://twitter.com/search?q=DDEP) | N/A |
+| 21 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 22 | [Ken Ofori](http://twitter.com/search?q=Ken+Ofori) | N/A |
 | 23 | [Osebo](http://twitter.com/search?q=Osebo) | N/A |
-| 24 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 25 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 27 | [Finance Ministry](http://twitter.com/search?q=Finance+Ministry) | N/A |
-| 28 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
-| 29 | [Glory](http://twitter.com/search?q=Glory) | N/A |
-| 30 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 31 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 32 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
-| 33 | [saddick adams](http://twitter.com/search?q=saddick+adams) | N/A |
-| 34 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 35 | [Alive](http://twitter.com/search?q=Alive) | N/A |
-| 36 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 37 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
-| 38 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 39 | [Grateful](http://twitter.com/search?q=Grateful) | N/A |
-| 40 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 41 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 43 | [Almighty God](http://twitter.com/search?q=Almighty+God) | N/A |
-| 44 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 45 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 46 | [Vawulence](http://twitter.com/search?q=Vawulence) | N/A |
-| 47 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 48 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
-| 49 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
-| 50 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
+| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 25 | [GOD DID](http://twitter.com/search?q=GOD+DID) | N/A |
+| 26 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 27 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 28 | [Finance Ministry](http://twitter.com/search?q=Finance+Ministry) | N/A |
+| 29 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 30 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 31 | [Glory](http://twitter.com/search?q=Glory) | N/A |
+| 32 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
+| 33 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
+| 34 | [saddick adams](http://twitter.com/search?q=saddick+adams) | N/A |
+| 35 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 36 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 37 | [Alive](http://twitter.com/search?q=Alive) | N/A |
+| 38 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
+| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 40 | [Vote YELISA](http://twitter.com/search?q=Vote+YELISA) | N/A |
+| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 42 | [Almighty God](http://twitter.com/search?q=Almighty+God) | N/A |
+| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 44 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Trade](http://twitter.com/search?q=Trade) | N/A |
+| 47 | [Vawulence](http://twitter.com/search?q=Vawulence) | N/A |
+| 48 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 49 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
+| 50 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
 
 
 

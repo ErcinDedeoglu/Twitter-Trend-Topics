@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-07 22:15:59 UTC`
+📆 Last Updated: `2023-02-07 23:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Abeokuta](http://twitter.com/search?q=Abeokuta) | N/A |
-| 2 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 3 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
 | 4 | [#Cmetu32](http://twitter.com/search?q=%23Cmetu32) | N/A |
 | 5 | [Zenith Bank](http://twitter.com/search?q=Zenith+Bank) | N/A |
-| 6 | [#TatasheOfficialVideo](http://twitter.com/search?q=%23TatasheOfficialVideo) | N/A |
-| 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 9 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 10 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 11 | [#YellowCardxODUMODU](http://twitter.com/search?q=%23YellowCardxODUMODU) | N/A |
+| 6 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 8 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 9 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 10 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 11 | [HAPPENING NOW](http://twitter.com/search?q=HAPPENING+NOW) | N/A |
 | 12 | [22bet](http://twitter.com/search?q=22bet) | N/A |
-| 13 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 14 | [HAPPENING NOW](http://twitter.com/search?q=HAPPENING+NOW) | N/A |
+| 13 | [#SunTrustCares](http://twitter.com/search?q=%23SunTrustCares) | N/A |
+| 14 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
 | 15 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 16 | [#SunTrustCares](http://twitter.com/search?q=%23SunTrustCares) | N/A |
+| 16 | [#YellowCardxODUMODU](http://twitter.com/search?q=%23YellowCardxODUMODU) | N/A |
 | 17 | [Lawan](http://twitter.com/search?q=Lawan) | N/A |
-| 18 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 19 | [Machina](http://twitter.com/search?q=Machina) | N/A |
+| 18 | [#TatasheOfficialVideo](http://twitter.com/search?q=%23TatasheOfficialVideo) | N/A |
+| 19 | [Opay](http://twitter.com/search?q=Opay) | N/A |
 | 20 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 21 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 22 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 23 | [CONGRATULATIONS SHEGGZ](http://twitter.com/search?q=CONGRATULATIONS+SHEGGZ) | N/A |
-| 24 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 21 | [CONGRATULATIONS SHEGGZ](http://twitter.com/search?q=CONGRATULATIONS+SHEGGZ) | N/A |
+| 22 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 23 | [Machina](http://twitter.com/search?q=Machina) | N/A |
+| 24 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 25 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
 | 26 | [SHEGGZ X FEKOMI](http://twitter.com/search?q=SHEGGZ+X+FEKOMI) | N/A |
 | 27 | [DETOX WITH SHEGGZ](http://twitter.com/search?q=DETOX+WITH+SHEGGZ) | N/A |
 | 28 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 29 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
-| 30 | [Arrest Havertz](http://twitter.com/search?q=Arrest+Havertz) | N/A |
+| 29 | [Stake](http://twitter.com/search?q=Stake) | N/A |
+| 30 | [Start Mbappe](http://twitter.com/search?q=Start+Mbappe) | N/A |
 | 31 | [Stears](http://twitter.com/search?q=Stears) | N/A |
-| 32 | [Start Mbappe](http://twitter.com/search?q=Start+Mbappe) | N/A |
-| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 34 | [Prestige](http://twitter.com/search?q=Prestige) | N/A |
-| 35 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 37 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 38 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
-| 39 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 40 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 41 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
-| 42 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 43 | [Jim Ovia](http://twitter.com/search?q=Jim+Ovia) | N/A |
+| 32 | [Arrest Havertz](http://twitter.com/search?q=Arrest+Havertz) | N/A |
+| 33 | [Prestige](http://twitter.com/search?q=Prestige) | N/A |
+| 34 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 36 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 37 | [PHYNA THE BOSS](http://twitter.com/search?q=PHYNA+THE+BOSS) | N/A |
+| 38 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 39 | [TB TWENTY SIX](http://twitter.com/search?q=TB+TWENTY+SIX) | N/A |
+| 40 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 41 | [Jim Ovia](http://twitter.com/search?q=Jim+Ovia) | N/A |
+| 42 | [Kanuri](http://twitter.com/search?q=Kanuri) | N/A |
+| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 44 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 45 | [Obi and Atiku](http://twitter.com/search?q=Obi+and+Atiku) | N/A |
-| 46 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 47 | [Fashola](http://twitter.com/search?q=Fashola) | N/A |
-| 48 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 49 | [C. Ronaldo](http://twitter.com/search?q=C.+Ronaldo) | N/A |
+| 45 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 46 | [Obi and Atiku](http://twitter.com/search?q=Obi+and+Atiku) | N/A |
+| 47 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 48 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 49 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
 
 
 

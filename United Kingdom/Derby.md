@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-07 22:15:28 UTC`
+📆 Last Updated: `2023-02-07 23:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 2 | [#drfc](http://twitter.com/search?q=%23drfc) | N/A |
-| 3 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 4 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 5 | [Carlos Corberan](http://twitter.com/search?q=Carlos+Corberan) | N/A |
-| 6 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
-| 7 | [#InternetSafetyDay](http://twitter.com/search?q=%23InternetSafetyDay) | N/A |
-| 8 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
-| 9 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 10 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 11 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 12 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
-| 13 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 17 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 18 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 19 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 20 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 22 | [Ange](http://twitter.com/search?q=Ange) | N/A |
-| 23 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 24 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
-| 25 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 26 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 27 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 28 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 29 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 30 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 31 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 32 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 33 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 34 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 35 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 36 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 37 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 38 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 39 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 40 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 41 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 42 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
-| 43 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 44 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 45 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
-| 46 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
-| 47 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
-| 48 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 49 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
+| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 2 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
+| 3 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
+| 4 | [#NotAloneTalk](http://twitter.com/search?q=%23NotAloneTalk) | N/A |
+| 5 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 6 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 7 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 8 | [Carlos Corberan](http://twitter.com/search?q=Carlos+Corberan) | N/A |
+| 9 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 10 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 11 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 12 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 14 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 18 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 19 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 20 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 22 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 23 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 24 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 25 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 26 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 27 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 28 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 29 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 30 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 31 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 32 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 33 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 34 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 35 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 36 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 37 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 38 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 39 | [Rene](http://twitter.com/search?q=Rene) | N/A |
+| 40 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 41 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 42 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
+| 43 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 44 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 45 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 46 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
+| 47 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
+| 48 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 49 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
 
 
 

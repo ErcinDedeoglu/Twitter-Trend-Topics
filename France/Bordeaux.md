@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-07 22:15:41 UTC`
+📆 Last Updated: `2023-02-07 23:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,47 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
-| 2 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 2 | [#quipeutnousbattre](http://twitter.com/search?q=%23quipeutnousbattre) | N/A |
 | 3 | [#ToujoursPlusAvecPoco](http://twitter.com/search?q=%23ToujoursPlusAvecPoco) | N/A |
-| 4 | [#quipeutnousbattre](http://twitter.com/search?q=%23quipeutnousbattre) | N/A |
-| 5 | [#Qdor](http://twitter.com/search?q=%23Qdor) | N/A |
-| 6 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 7 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 8 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 9 | [Adrien Quatennens](http://twitter.com/search?q=Adrien+Quatennens) | N/A |
-| 10 | [Der Zak](http://twitter.com/search?q=Der+Zak) | N/A |
+| 4 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 5 | [Adrien Quatennens](http://twitter.com/search?q=Adrien+Quatennens) | N/A |
+| 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 7 | [#Qdor](http://twitter.com/search?q=%23Qdor) | N/A |
+| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 9 | [Der Zak](http://twitter.com/search?q=Der+Zak) | N/A |
+| 10 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 11 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 12 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 13 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 15 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 16 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 17 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 18 | [Amine](http://twitter.com/search?q=Amine) | N/A |
-| 19 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 20 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 23 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
-| 24 | [Bachar](http://twitter.com/search?q=Bachar) | N/A |
-| 25 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 26 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 12 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 13 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 14 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 15 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 16 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 17 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 18 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 19 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 20 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 21 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Pécresse](http://twitter.com/search?q=P%c3%a9cresse) | N/A |
+| 24 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
+| 25 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 26 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
 | 27 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 28 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 29 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
-| 30 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 31 | [La SNCF](http://twitter.com/search?q=La+SNCF) | N/A |
-| 32 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 33 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 34 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 35 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 37 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 38 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 39 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 40 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
-| 41 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 42 | [#FreebetUnibetVpronos](http://twitter.com/search?q=%23FreebetUnibetVpronos) | N/A |
-| 43 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 44 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 45 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 46 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
-| 47 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 28 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 29 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 30 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 31 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 32 | [#FreebetUnibetVpronos](http://twitter.com/search?q=%23FreebetUnibetVpronos) | N/A |
+| 33 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 34 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 35 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 36 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 37 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
+| 38 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 39 | [#MHSC](http://twitter.com/search?q=%23MHSC) | N/A |
+| 40 | [#VALRevolution](http://twitter.com/search?q=%23VALRevolution) | N/A |
+| 41 | [#Overwatch2](http://twitter.com/search?q=%23Overwatch2) | N/A |
+| 42 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
 
 
 
