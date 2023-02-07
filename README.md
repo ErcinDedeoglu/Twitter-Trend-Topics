@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-07 11:15:09 UTC`
+📆 Last Updated: `2023-02-07 12:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
-| 2 | [#GUコラボ案大募集](http://twitter.com/search?q=%23GU%e3%82%b3%e3%83%a9%e3%83%9c%e6%a1%88%e5%a4%a7%e5%8b%9f%e9%9b%86) | N/A |
-| 3 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 4 | [中京テレビ](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93) | N/A |
-| 5 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
-| 6 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
-| 7 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
-| 8 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 9 | [トラロック](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%ad%e3%83%83%e3%82%af) | トラロック (torarokku) is a type of Japanese traditional dance that originated in the Edo period. It is characterized by its lively and energetic movements, and is often accompanied by singing and clapping. The name comes from the Japanese words "tora" (tiger) and "rokku" (rock). In English, it can be translated as "Tiger Rock". |
-| 10 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
-| 11 | [キキちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | キキちゃん is a nickname for the Japanese character Kiki, who is the protagonist of the 1989 animated film Kiki's Delivery Service. In English, it can be translated to "Kiki-chan". |
-| 12 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
-| 13 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 14 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
-| 15 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
+| 2 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
+| 3 | [#Weareyoung_MV](http://twitter.com/search?q=%23Weareyoung_MV) | N/A |
+| 4 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
+| 5 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
+| 6 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
+| 7 | [#GUコラボ案大募集](http://twitter.com/search?q=%23GU%e3%82%b3%e3%83%a9%e3%83%9c%e6%a1%88%e5%a4%a7%e5%8b%9f%e9%9b%86) | N/A |
+| 8 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
+| 9 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
+| 10 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
+| 11 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 12 | [中京テレビ](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93) | N/A |
+| 13 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
+| 14 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
+| 15 | [トラロック](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%ad%e3%83%83%e3%82%af) | トラロック (torarokku) is a type of Japanese traditional dance that originated in the Edo period. It is characterized by its lively and energetic movements, and is often accompanied by singing and clapping. The name comes from the Japanese words "tora" (tiger) and "rokku" (rock). In English, it can be translated as "Tiger Rock". |
 | 16 | [ホグワーツレガシー](http://twitter.com/search?q=%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84%e3%83%ac%e3%82%ac%e3%82%b7%e3%83%bc) | ホグワーツレガシー is a Japanese term used to refer to the Harry Potter series of books and films. It literally translates to "Hogwarts Legacy" in English, referring to the legacy of Hogwarts School of Witchcraft and Wizardry. |
-| 17 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
-| 18 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 19 | [ミスフル](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%95%e3%83%ab) | N/A |
-| 20 | [人魚のミイラ](http://twitter.com/search?q=%e4%ba%ba%e9%ad%9a%e3%81%ae%e3%83%9f%e3%82%a4%e3%83%a9) | N/A |
-| 21 | [行秋完凸](http://twitter.com/search?q=%e8%a1%8c%e7%a7%8b%e5%ae%8c%e5%87%b8) | N/A |
-| 22 | [レオナさん](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8a%e3%81%95%e3%82%93) | レオナさん is a Japanese honorific used to refer to someone with the given name Leon or Leona. It is roughly equivalent to "Mr./Ms. Leon/Leona" in English. |
-| 23 | [ふーたお](http://twitter.com/search?q=%e3%81%b5%e3%83%bc%e3%81%9f%e3%81%8a) | ふーたお is an onomatopoeia used to express the sound of a person sighing. In English, it could be translated as "sigh". |
-| 24 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 25 | [フータオ](http://twitter.com/search?q=%e3%83%95%e3%83%bc%e3%82%bf%e3%82%aa) | フータオ is a Japanese word that means "a person who is always happy and cheerful". It is often used to describe someone who is always in a good mood and has a positive outlook on life. |
-| 26 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
-| 27 | [フォーリナー](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%83%8a%e3%83%bc) | フォーリナー (Föriner) is a Japanese rock band formed in 2003. The band's name is derived from the German word "Füriner," which means "foreigner." The band's music is a mix of rock, punk, and ska. Their lyrics often focus on themes of love, friendship, and social issues. |
-| 28 | [Farewell Marima](http://twitter.com/search?q=Farewell+Marima) | N/A |
-| 29 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 30 | [イヴェルカーナ](http://twitter.com/search?q=%e3%82%a4%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%bc%e3%83%8a) | イヴェルカーナ is a type of traditional Japanese dance. It is characterized by its graceful movements and elegant costumes. The name comes from the Italian word "Eve" meaning "evening" and "Carina" meaning "lovely". In English, it can be translated as "Lovely Evening Dance". |
-| 31 | [ちいちいレモン](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%a1%e3%81%84%e3%83%ac%e3%83%a2%e3%83%b3) | N/A |
-| 32 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 33 | [禁煙失敗](http://twitter.com/search?q=%e7%a6%81%e7%85%99%e5%a4%b1%e6%95%97) | N/A |
-| 34 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 35 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
-| 36 | [賃上げ倒産](http://twitter.com/search?q=%e8%b3%83%e4%b8%8a%e3%81%92%e5%80%92%e7%94%a3) | N/A |
-| 37 | [カリムくん](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%a0%e3%81%8f%e3%82%93) | N/A |
-| 38 | [トップ娘役](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%a8%98%e5%bd%b9) | N/A |
-| 39 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 40 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 41 | [マインドコントロール](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%b3%e3%83%89%e3%82%b3%e3%83%b3%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 42 | [冬休み雪の山形7人旅](http://twitter.com/search?q=%e5%86%ac%e4%bc%91%e3%81%bf%e9%9b%aa%e3%81%ae%e5%b1%b1%e5%bd%a27%e4%ba%ba%e6%97%85) | N/A |
-| 43 | [ジュノンとレイちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8e%e3%83%b3%e3%81%a8%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [ポケモンパン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%91%e3%83%b3) | N/A |
-| 45 | [道枝王開催](http://twitter.com/search?q=%e9%81%93%e6%9e%9d%e7%8e%8b%e9%96%8b%e5%82%ac) | N/A |
-| 46 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 47 | [イェラン](http://twitter.com/search?q=%e3%82%a4%e3%82%a7%e3%83%a9%e3%83%b3) | N/A |
-| 48 | [Adıyamana AcilYardım](http://twitter.com/search?q=Ad%c4%b1yamana+AcilYard%c4%b1m) | N/A |
-| 49 | [護摩の杖](http://twitter.com/search?q=%e8%ad%b7%e6%91%a9%e3%81%ae%e6%9d%96) | N/A |
-| 50 | [原神ガチャ](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 17 | [在日ファンク](http://twitter.com/search?q=%e5%9c%a8%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af) | N/A |
+| 18 | [キキちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | キキちゃん is a nickname for the Japanese character Kiki, who is the protagonist of the 1989 animated film Kiki's Delivery Service. In English, it can be translated to "Kiki-chan". |
+| 19 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 20 | [行秋完凸](http://twitter.com/search?q=%e8%a1%8c%e7%a7%8b%e5%ae%8c%e5%87%b8) | N/A |
+| 21 | [ミスフル](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%95%e3%83%ab) | N/A |
+| 22 | [山本リンダ](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e3%83%aa%e3%83%b3%e3%83%80) | N/A |
+| 23 | [人魚のミイラ](http://twitter.com/search?q=%e4%ba%ba%e9%ad%9a%e3%81%ae%e3%83%9f%e3%82%a4%e3%83%a9) | N/A |
+| 24 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 25 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
+| 26 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 27 | [フータオ](http://twitter.com/search?q=%e3%83%95%e3%83%bc%e3%82%bf%e3%82%aa) | フータオ is a Japanese word that means "a person who is always happy and cheerful". It is often used to describe someone who is always in a good mood and has a positive outlook on life. |
+| 28 | [カネコアヤノ](http://twitter.com/search?q=%e3%82%ab%e3%83%8d%e3%82%b3%e3%82%a2%e3%83%a4%e3%83%8e) | N/A |
+| 29 | [ふーたお](http://twitter.com/search?q=%e3%81%b5%e3%83%bc%e3%81%9f%e3%81%8a) | ふーたお is an onomatopoeia used to express the sound of a person sighing. In English, it could be translated as "sigh". |
+| 30 | [レオナさん](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8a%e3%81%95%e3%82%93) | レオナさん is a Japanese honorific used to refer to someone with the given name Leon or Leona. It is roughly equivalent to "Mr./Ms. Leon/Leona" in English. |
+| 31 | [菜子ちゃん](http://twitter.com/search?q=%e8%8f%9c%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 32 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
+| 33 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 34 | [OCHA NORMA](http://twitter.com/search?q=OCHA+NORMA) | N/A |
+| 35 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
+| 36 | [イヴェルカーナ](http://twitter.com/search?q=%e3%82%a4%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%bc%e3%83%8a) | イヴェルカーナ is a type of traditional Japanese dance. It is characterized by its graceful movements and elegant costumes. The name comes from the Italian word "Eve" meaning "evening" and "Carina" meaning "lovely". In English, it can be translated as "Lovely Evening Dance". |
+| 37 | [護摩の杖](http://twitter.com/search?q=%e8%ad%b7%e6%91%a9%e3%81%ae%e6%9d%96) | N/A |
+| 38 | [小林旭さん](http://twitter.com/search?q=%e5%b0%8f%e6%9e%97%e6%97%ad%e3%81%95%e3%82%93) | N/A |
+| 39 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 40 | [蘭ちゃん](http://twitter.com/search?q=%e8%98%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [イェラン](http://twitter.com/search?q=%e3%82%a4%e3%82%a7%e3%83%a9%e3%83%b3) | N/A |
+| 42 | [フォーリナー](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%83%8a%e3%83%bc) | フォーリナー (Föriner) is a Japanese rock band formed in 2003. The band's name is derived from the German word "Füriner," which means "foreigner." The band's music is a mix of rock, punk, and ska. Their lyrics often focus on themes of love, friendship, and social issues. |
+| 43 | [原神ガチャ](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 44 | [大橋くん](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93) | 大橋くん (Ohashi-kun) is a Japanese nickname given to someone who is tall and strong. It literally translates to "Mr. Big Bridge" in English. |
+| 45 | [アンノウン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%8e%e3%82%a6%e3%83%b3) | N/A |
+| 46 | [賃上げ倒産](http://twitter.com/search?q=%e8%b3%83%e4%b8%8a%e3%81%92%e5%80%92%e7%94%a3) | N/A |
+| 47 | [神域リーグ](http://twitter.com/search?q=%e7%a5%9e%e5%9f%9f%e3%83%aa%e3%83%bc%e3%82%b0) | N/A |
+| 48 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 49 | [カリムくん](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%a0%e3%81%8f%e3%82%93) | N/A |
+| 50 | [ポケモンパン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%91%e3%83%b3) | N/A |
 
 
 

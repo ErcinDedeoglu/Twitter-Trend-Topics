@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-07 11:15:33 UTC`
+📆 Last Updated: `2023-02-07 12:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turcijā](http://twitter.com/search?q=Turcij%c4%81) | N/A |
+| 1 | [turcijā](http://twitter.com/search?q=turcij%c4%81) | N/A |
 | 2 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
-| 3 | [Sīrijā](http://twitter.com/search?q=S%c4%abrij%c4%81) | N/A |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 5 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 6 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
-| 7 | [Vāgnera](http://twitter.com/search?q=V%c4%81gnera) | N/A |
-| 8 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 9 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 10 | [helmani](http://twitter.com/search?q=helmani) | N/A |
-| 11 | [#betting](http://twitter.com/search?q=%23betting) | N/A |
-| 12 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 13 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 14 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 15 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 16 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 17 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 18 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 19 | [Levita](http://twitter.com/search?q=Levita) | N/A |
-| 20 | [Skultes](http://twitter.com/search?q=Skultes) | N/A |
-| 21 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 22 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 23 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 24 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 25 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
-| 26 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 27 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 28 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
-| 29 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 30 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
-| 31 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 32 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
-| 33 | [baigi](http://twitter.com/search?q=baigi) | N/A |
-| 34 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 35 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 36 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
-| 37 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 38 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 39 | [Mūsu](http://twitter.com/search?q=M%c5%absu) | N/A |
-| 40 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 41 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | N/A |
-| 42 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 43 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 44 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
-| 45 | [Vienīgais](http://twitter.com/search?q=Vien%c4%abgais) | N/A |
-| 46 | [Kādu](http://twitter.com/search?q=K%c4%81du) | N/A |
-| 47 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 48 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
-| 49 | [Iesaku](http://twitter.com/search?q=Iesaku) | N/A |
-| 50 | [supernovas](http://twitter.com/search?q=supernovas) | N/A |
+| 3 | [Vāgnera](http://twitter.com/search?q=V%c4%81gnera) | N/A |
+| 4 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 5 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 6 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 7 | [Sīrijā](http://twitter.com/search?q=S%c4%abrij%c4%81) | N/A |
+| 8 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 9 | [Helmani](http://twitter.com/search?q=Helmani) | N/A |
+| 10 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 11 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 12 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 13 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 14 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 15 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
+| 16 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 17 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
+| 18 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 19 | [Ukrainā](http://twitter.com/search?q=Ukrain%c4%81) | N/A |
+| 20 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 21 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 22 | [Levita](http://twitter.com/search?q=Levita) | N/A |
+| 23 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 24 | [skultes](http://twitter.com/search?q=skultes) | N/A |
+| 25 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 26 | [Krievijā](http://twitter.com/search?q=Krievij%c4%81) | N/A |
+| 27 | [#betting](http://twitter.com/search?q=%23betting) | N/A |
+| 28 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 29 | [Tāpat](http://twitter.com/search?q=T%c4%81pat) | N/A |
+| 30 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 31 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 32 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 33 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
+| 34 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 35 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 36 | [baigi](http://twitter.com/search?q=baigi) | N/A |
+| 37 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 38 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
+| 39 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 40 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 41 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 42 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 43 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | N/A |
+| 44 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 45 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
+| 46 | [Vienīgais](http://twitter.com/search?q=Vien%c4%abgais) | N/A |
+| 47 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 48 | [Kādu](http://twitter.com/search?q=K%c4%81du) | N/A |
+| 49 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 50 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 
 
 

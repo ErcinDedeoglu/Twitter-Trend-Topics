@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-07 11:15:35 UTC`
+📆 Last Updated: `2023-02-07 12:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 2 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 3 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
-| 4 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
-| 5 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 6 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 7 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 8 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 9 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 10 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 11 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 12 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
+| 2 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 3 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 4 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
+| 5 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
+| 6 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
+| 7 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 8 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
+| 9 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 10 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 11 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
+| 12 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
 | 13 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
-| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 15 | [AHY Bersama NU](http://twitter.com/search?q=AHY+Bersama+NU) | N/A |
-| 16 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 17 | [Hutao](http://twitter.com/search?q=Hutao) | N/A |
-| 18 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
-| 19 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 20 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 21 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 22 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 23 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 24 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 25 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 26 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 27 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 28 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 29 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 30 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 31 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 32 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 33 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
-| 34 | [Nahdliyin](http://twitter.com/search?q=Nahdliyin) | N/A |
-| 35 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 36 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
-| 37 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
-| 38 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
-| 39 | [#OPPOReno8TdiTokopedia](http://twitter.com/search?q=%23OPPOReno8TdiTokopedia) | N/A |
-| 40 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 41 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 42 | [#PDNasionalisReligius](http://twitter.com/search?q=%23PDNasionalisReligius) | N/A |
-| 43 | [#FreyTalk](http://twitter.com/search?q=%23FreyTalk) | N/A |
-| 44 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 45 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
-| 46 | [#CrushOnYou](http://twitter.com/search?q=%23CrushOnYou) | N/A |
-| 47 | [#AkuNUAkuPKB](http://twitter.com/search?q=%23AkuNUAkuPKB) | N/A |
-| 48 | [#PrayforSyria](http://twitter.com/search?q=%23PrayforSyria) | N/A |
+| 14 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 15 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 16 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 17 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [AHY Bersama NU](http://twitter.com/search?q=AHY+Bersama+NU) | N/A |
+| 20 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 21 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 22 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
+| 23 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 24 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 25 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
+| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 27 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 28 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 29 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 30 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 31 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
+| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 33 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 34 | [nahdlatul ulama](http://twitter.com/search?q=nahdlatul+ulama) | N/A |
+| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 36 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 37 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 38 | [Nahdliyin](http://twitter.com/search?q=Nahdliyin) | N/A |
+| 39 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
+| 40 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
+| 41 | [#OPPOReno8TdiTokopedia](http://twitter.com/search?q=%23OPPOReno8TdiTokopedia) | N/A |
+| 42 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
+| 43 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
+| 44 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 45 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
+| 46 | [#chatamara](http://twitter.com/search?q=%23chatamara) | N/A |
+| 47 | [#pdnasionalisreligius](http://twitter.com/search?q=%23pdnasionalisreligius) | N/A |
+| 48 | [#FreyTalk](http://twitter.com/search?q=%23FreyTalk) | N/A |
+| 49 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
 
 
 

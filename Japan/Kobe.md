@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-02-07 11:15:37 UTC`
+📆 Last Updated: `2023-02-07 12:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
-| 2 | [#GUコラボ案大募集](http://twitter.com/search?q=%23GU%e3%82%b3%e3%83%a9%e3%83%9c%e6%a1%88%e5%a4%a7%e5%8b%9f%e9%9b%86) | N/A |
-| 3 | [中京テレビ](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93) | N/A |
-| 4 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
-| 5 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
-| 6 | [トラロック](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%ad%e3%83%83%e3%82%af) | トラロック (torarokku) is a type of Japanese traditional dance that originated in the Edo period. It is characterized by its lively and energetic movements, and is often accompanied by singing and clapping. The name comes from the Japanese words "tora" (tiger) and "rokku" (rock). In English, it can be translated as "Tiger Rock". |
-| 7 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 8 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
-| 9 | [キキちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | キキちゃん is a nickname for the Japanese character Kiki, who is the protagonist of the 1989 animated film Kiki's Delivery Service. In English, it can be translated to "Kiki-chan". |
-| 10 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
-| 11 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
-| 12 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
-| 13 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
-| 14 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
-| 15 | [#キショオタツイガチャ](http://twitter.com/search?q=%23%e3%82%ad%e3%82%b7%e3%83%a7%e3%82%aa%e3%82%bf%e3%83%84%e3%82%a4%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 16 | [ミスフル](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%95%e3%83%ab) | N/A |
-| 17 | [#Weareyoung_MV](http://twitter.com/search?q=%23Weareyoung_MV) | N/A |
-| 18 | [人魚のミイラ](http://twitter.com/search?q=%e4%ba%ba%e9%ad%9a%e3%81%ae%e3%83%9f%e3%82%a4%e3%83%a9) | N/A |
-| 19 | [行秋完凸](http://twitter.com/search?q=%e8%a1%8c%e7%a7%8b%e5%ae%8c%e5%87%b8) | N/A |
-| 20 | [ホグワーツレガシー](http://twitter.com/search?q=%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84%e3%83%ac%e3%82%ac%e3%82%b7%e3%83%bc) | ホグワーツレガシー is a Japanese term used to refer to the Harry Potter series of books and films. It literally translates to "Hogwarts Legacy" in English, referring to the legacy of Hogwarts School of Witchcraft and Wizardry. |
-| 21 | [フータオ](http://twitter.com/search?q=%e3%83%95%e3%83%bc%e3%82%bf%e3%82%aa) | フータオ is a Japanese word that means "a person who is always happy and cheerful". It is often used to describe someone who is always in a good mood and has a positive outlook on life. |
-| 22 | [ふーたお](http://twitter.com/search?q=%e3%81%b5%e3%83%bc%e3%81%9f%e3%81%8a) | ふーたお is an onomatopoeia used to express the sound of a person sighing. In English, it could be translated as "sigh". |
-| 23 | [レオナさん](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8a%e3%81%95%e3%82%93) | レオナさん is a Japanese honorific used to refer to someone with the given name Leon or Leona. It is roughly equivalent to "Mr./Ms. Leon/Leona" in English. |
-| 24 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 25 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
-| 26 | [フォーリナー](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%83%8a%e3%83%bc) | フォーリナー (Föriner) is a Japanese rock band formed in 2003. The band's name is derived from the German word "Füriner," which means "foreigner." The band's music is a mix of rock, punk, and ska. Their lyrics often focus on themes of love, friendship, and social issues. |
-| 27 | [禁煙失敗](http://twitter.com/search?q=%e7%a6%81%e7%85%99%e5%a4%b1%e6%95%97) | N/A |
-| 28 | [ちいちいレモン](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%a1%e3%81%84%e3%83%ac%e3%83%a2%e3%83%b3) | N/A |
-| 29 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
-| 30 | [カリムくん](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%a0%e3%81%8f%e3%82%93) | N/A |
-| 31 | [ジュノンとレイちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8e%e3%83%b3%e3%81%a8%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 32 | [冬休み雪の山形7人旅](http://twitter.com/search?q=%e5%86%ac%e4%bc%91%e3%81%bf%e9%9b%aa%e3%81%ae%e5%b1%b1%e5%bd%a27%e4%ba%ba%e6%97%85) | N/A |
-| 33 | [賃上げ倒産](http://twitter.com/search?q=%e8%b3%83%e4%b8%8a%e3%81%92%e5%80%92%e7%94%a3) | N/A |
-| 34 | [道枝王開催](http://twitter.com/search?q=%e9%81%93%e6%9e%9d%e7%8e%8b%e9%96%8b%e5%82%ac) | N/A |
-| 35 | [イヴェルカーナ](http://twitter.com/search?q=%e3%82%a4%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%bc%e3%83%8a) | イヴェルカーナ is a type of traditional Japanese dance. It is characterized by its graceful movements and elegant costumes. The name comes from the Italian word "Eve" meaning "evening" and "Carina" meaning "lovely". In English, it can be translated as "Lovely Evening Dance". |
-| 36 | [イェラン](http://twitter.com/search?q=%e3%82%a4%e3%82%a7%e3%83%a9%e3%83%b3) | N/A |
-| 37 | [護摩の杖](http://twitter.com/search?q=%e8%ad%b7%e6%91%a9%e3%81%ae%e6%9d%96) | N/A |
-| 38 | [トップ娘役](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%a8%98%e5%bd%b9) | N/A |
-| 39 | [マインドコントロール](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%b3%e3%83%89%e3%82%b3%e3%83%b3%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 40 | [ポケモンパン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%91%e3%83%b3) | N/A |
-| 41 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 42 | [紅閻魔オルタ](http://twitter.com/search?q=%e7%b4%85%e9%96%bb%e9%ad%94%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
-| 43 | [原神ガチャ](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 44 | [小林旭さん](http://twitter.com/search?q=%e5%b0%8f%e6%9e%97%e6%97%ad%e3%81%95%e3%82%93) | N/A |
-| 45 | [緊急支援募金](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e6%94%af%e6%8f%b4%e5%8b%9f%e9%87%91) | N/A |
-| 46 | [次期トップスター](http://twitter.com/search?q=%e6%ac%a1%e6%9c%9f%e3%83%88%e3%83%83%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 47 | [Yahoo!基金](http://twitter.com/search?q=Yahoo!%e5%9f%ba%e9%87%91) | N/A |
-| 48 | [従業員の転退職](http://twitter.com/search?q=%e5%be%93%e6%a5%ad%e5%93%a1%e3%81%ae%e8%bb%a2%e9%80%80%e8%81%b7) | N/A |
-| 49 | [大橋くん運転](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93%e9%81%8b%e8%bb%a2) | N/A |
-| 50 | [クラススキル](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
+| 1 | [#KingandPrince](http://twitter.com/search?q=%23KingandPrince) | #KingandPrince is a hashtag used to promote the Japanese boy band King & Prince. The hashtag is used to share news, updates, and fan content related to the group. In English, it translates to "King and Prince". |
+| 2 | [バルファルク](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%95%e3%82%a1%e3%83%ab%e3%82%af) | バルファルク (Barufaruku) is a Japanese word that means "to be free from worry or anxiety". It is often used to describe a feeling of relaxation and contentment. |
+| 3 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
+| 4 | [#Weareyoung_MV](http://twitter.com/search?q=%23Weareyoung_MV) | N/A |
+| 5 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
+| 6 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 7 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
+| 8 | [#GUコラボ案大募集](http://twitter.com/search?q=%23GU%e3%82%b3%e3%83%a9%e3%83%9c%e6%a1%88%e5%a4%a7%e5%8b%9f%e9%9b%86) | N/A |
+| 9 | [スリザリン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%82%b6%e3%83%aa%e3%83%b3) | スリザリン (Sulzerin) is a Japanese word that means "trickster" or "deceiver". It is often used to describe someone who is cunning and sly. |
+| 10 | [ハッフルパフ](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%95%e3%83%ab%e3%83%91%e3%83%95) | N/A |
+| 11 | [胡桃1凸](http://twitter.com/search?q=%e8%83%a1%e6%a1%831%e5%87%b8) | "胡桃1凸" is a Japanese phrase that literally translates to "walnut one convex". It is used to describe someone who is a bit of an oddball or an eccentric. |
+| 12 | [レイブンクロー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%96%e3%83%b3%e3%82%af%e3%83%ad%e3%83%bc) | N/A |
+| 13 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
+| 14 | [グリフィンドール](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 15 | [中京テレビ](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93) | N/A |
+| 16 | [在日ファンク](http://twitter.com/search?q=%e5%9c%a8%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3%e3%82%af) | N/A |
+| 17 | [トラロック](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%ad%e3%83%83%e3%82%af) | トラロック (torarokku) is a type of Japanese traditional dance that originated in the Edo period. It is characterized by its lively and energetic movements, and is often accompanied by singing and clapping. The name comes from the Japanese words "tora" (tiger) and "rokku" (rock). In English, it can be translated as "Tiger Rock". |
+| 18 | [行秋完凸](http://twitter.com/search?q=%e8%a1%8c%e7%a7%8b%e5%ae%8c%e5%87%b8) | N/A |
+| 19 | [ミスフル](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%95%e3%83%ab) | N/A |
+| 20 | [キキちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | キキちゃん is a nickname for the Japanese character Kiki, who is the protagonist of the 1989 animated film Kiki's Delivery Service. In English, it can be translated to "Kiki-chan". |
+| 21 | [山本リンダ](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e3%83%aa%e3%83%b3%e3%83%80) | N/A |
+| 22 | [人魚のミイラ](http://twitter.com/search?q=%e4%ba%ba%e9%ad%9a%e3%81%ae%e3%83%9f%e3%82%a4%e3%83%a9) | N/A |
+| 23 | [ガチャ禁](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e7%a6%81) | N/A |
+| 24 | [ホグワーツレガシー](http://twitter.com/search?q=%e3%83%9b%e3%82%b0%e3%83%af%e3%83%bc%e3%83%84%e3%83%ac%e3%82%ac%e3%82%b7%e3%83%bc) | ホグワーツレガシー is a Japanese term used to refer to the Harry Potter series of books and films. It literally translates to "Hogwarts Legacy" in English, referring to the legacy of Hogwarts School of Witchcraft and Wizardry. |
+| 25 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 26 | [フータオ](http://twitter.com/search?q=%e3%83%95%e3%83%bc%e3%82%bf%e3%82%aa) | フータオ is a Japanese word that means "a person who is always happy and cheerful". It is often used to describe someone who is always in a good mood and has a positive outlook on life. |
+| 27 | [カネコアヤノ](http://twitter.com/search?q=%e3%82%ab%e3%83%8d%e3%82%b3%e3%82%a2%e3%83%a4%e3%83%8e) | N/A |
+| 28 | [ふーたお](http://twitter.com/search?q=%e3%81%b5%e3%83%bc%e3%81%9f%e3%81%8a) | ふーたお is an onomatopoeia used to express the sound of a person sighing. In English, it could be translated as "sigh". |
+| 29 | [レオナさん](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8a%e3%81%95%e3%82%93) | レオナさん is a Japanese honorific used to refer to someone with the given name Leon or Leona. It is roughly equivalent to "Mr./Ms. Leon/Leona" in English. |
+| 30 | [菜子ちゃん](http://twitter.com/search?q=%e8%8f%9c%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [レイちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | レイちゃん is a nickname for the Japanese name Rei. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 32 | [ディルック](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ab%e3%83%83%e3%82%af) | N/A |
+| 33 | [OCHA NORMA](http://twitter.com/search?q=OCHA+NORMA) | N/A |
+| 34 | [タリョラ](http://twitter.com/search?q=%e3%82%bf%e3%83%aa%e3%83%a7%e3%83%a9) | タリョラ is a Japanese word that means "a lot of trouble". It is often used to describe a situation that is difficult or complicated. |
+| 35 | [小林旭さん](http://twitter.com/search?q=%e5%b0%8f%e6%9e%97%e6%97%ad%e3%81%95%e3%82%93) | N/A |
+| 36 | [護摩の杖](http://twitter.com/search?q=%e8%ad%b7%e6%91%a9%e3%81%ae%e6%9d%96) | N/A |
+| 37 | [蘭ちゃん](http://twitter.com/search?q=%e8%98%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [イェラン](http://twitter.com/search?q=%e3%82%a4%e3%82%a7%e3%83%a9%e3%83%b3) | N/A |
+| 39 | [フォーリナー](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%83%8a%e3%83%bc) | フォーリナー (Föriner) is a Japanese rock band formed in 2003. The band's name is derived from the German word "Füriner," which means "foreigner." The band's music is a mix of rock, punk, and ska. Their lyrics often focus on themes of love, friendship, and social issues. |
+| 40 | [アンノウン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%8e%e3%82%a6%e3%83%b3) | N/A |
+| 41 | [原神ガチャ](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 42 | [賃上げ倒産](http://twitter.com/search?q=%e8%b3%83%e4%b8%8a%e3%81%92%e5%80%92%e7%94%a3) | N/A |
+| 43 | [大橋くん](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93) | 大橋くん (Ohashi-kun) is a Japanese nickname given to someone who is tall and strong. It literally translates to "Mr. Big Bridge" in English. |
+| 44 | [Crossing](http://twitter.com/search?q=Crossing) | N/A |
+| 45 | [神域リーグ](http://twitter.com/search?q=%e7%a5%9e%e5%9f%9f%e3%83%aa%e3%83%bc%e3%82%b0) | N/A |
+| 46 | [最後の5人の笑顔](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae5%e4%ba%ba%e3%81%ae%e7%ac%91%e9%a1%94) | N/A |
+| 47 | [こーりー](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%82%8a%e3%83%bc) | N/A |
+| 48 | [カリムくん](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%a0%e3%81%8f%e3%82%93) | N/A |
+| 49 | [イヴェルカーナ](http://twitter.com/search?q=%e3%82%a4%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%bc%e3%83%8a) | イヴェルカーナ is a type of traditional Japanese dance. It is characterized by its graceful movements and elegant costumes. The name comes from the Italian word "Eve" meaning "evening" and "Carina" meaning "lovely". In English, it can be translated as "Lovely Evening Dance". |
+| 50 | [ポケモンパン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%91%e3%83%b3) | N/A |
 
 
 

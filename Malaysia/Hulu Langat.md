@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-02-07 11:16:18 UTC`
+📆 Last Updated: `2023-02-07 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
 | 3 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
 | 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 5 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
 | 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 7 | [#OurChosenLoveJinhwanDay](http://twitter.com/search?q=%23OurChosenLoveJinhwanDay) | N/A |
-| 8 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
+| 7 | [#진환이가있어_따뜻한_겨울](http://twitter.com/search?q=%23%ec%a7%84%ed%99%98%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%eb%94%b0%eb%9c%bb%ed%95%9c_%ea%b2%a8%ec%9a%b8) | N/A |
+| 8 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 9 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
 | 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 11 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
 | 12 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 13 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 14 | [Paul Kim](http://twitter.com/search?q=Paul+Kim) | N/A |
+| 13 | [paul kim](http://twitter.com/search?q=paul+kim) | Paul Kim is a Korean-American singer and songwriter. He is best known for his hit single "Me After You" which was released in 2018. The title of the song is a metaphor for how life can be after a breakup or other difficult situation. The phrase "Paul Kim" has come to mean resilience and hope in the face of adversity. |
+| 14 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
 | 15 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 16 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 17 | [Hacksaw Ridge](http://twitter.com/search?q=Hacksaw+Ridge) | N/A |
-| 18 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 19 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 20 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 21 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 22 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 23 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 25 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 26 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
-| 27 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 28 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 29 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 31 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 32 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 33 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 34 | [band of brothers](http://twitter.com/search?q=band+of+brothers) | N/A |
-| 35 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 36 | [Take Down](http://twitter.com/search?q=Take+Down) | N/A |
-| 37 | [Diam](http://twitter.com/search?q=Diam) | N/A |
-| 38 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 40 | [Thaipusam](http://twitter.com/search?q=Thaipusam) | N/A |
-| 41 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
-| 42 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 43 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 44 | [Twitter Page "HarakatDailyHD"](http://twitter.com/search?q=Twitter+Page+%22HarakatDailyHD%22) | N/A |
-| 45 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 46 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 47 | [Awat](http://twitter.com/search?q=Awat) | N/A |
-| 48 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 49 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 16 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 17 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [Hacksaw Ridge](http://twitter.com/search?q=Hacksaw+Ridge) | N/A |
+| 20 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 21 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 22 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 23 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 24 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 25 | [taecyeon](http://twitter.com/search?q=taecyeon) | N/A |
+| 26 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 28 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 29 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 30 | [sign the petition](http://twitter.com/search?q=sign+the+petition) | N/A |
+| 31 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 32 | [Band of Brothers](http://twitter.com/search?q=Band+of+Brothers) | N/A |
+| 33 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 34 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 35 | [Take Down](http://twitter.com/search?q=Take+Down) | N/A |
+| 36 | [Diam](http://twitter.com/search?q=Diam) | N/A |
+| 37 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 38 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
+| 39 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 41 | [Thaipusam](http://twitter.com/search?q=Thaipusam) | N/A |
+| 42 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
+| 43 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 44 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 45 | [Twitter Page "HarakatDailyHD"](http://twitter.com/search?q=Twitter+Page+%22HarakatDailyHD%22) | N/A |
+| 46 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 47 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 48 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 49 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
 
 
 

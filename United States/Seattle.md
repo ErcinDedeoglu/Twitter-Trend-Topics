@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-07 11:16:07 UTC`
+📆 Last Updated: `2023-02-07 12:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 2 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
-| 6 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 7 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 8 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 10 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 12 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
-| 13 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
-| 14 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
-| 15 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 16 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 17 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 18 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 19 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 20 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 21 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 22 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 1 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 2 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 3 | [#Wordle598](http://twitter.com/search?q=%23Wordle598) | N/A |
+| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 5 | [Daily Quordle 379](http://twitter.com/search?q=Daily+Quordle+379) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 9 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 10 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 11 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 13 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 14 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
+| 15 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 16 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
+| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 18 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 19 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 20 | [Tim Pool](http://twitter.com/search?q=Tim+Pool) | N/A |
+| 21 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 22 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 23 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 24 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 25 | [Powerball](http://twitter.com/search?q=Powerball) | N/A |
-| 26 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 27 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 28 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 29 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 30 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 31 | [Sirona](http://twitter.com/search?q=Sirona) | N/A |
-| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 33 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 34 | [Timcast](http://twitter.com/search?q=Timcast) | N/A |
-| 35 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 36 | [Madara](http://twitter.com/search?q=Madara) | N/A |
-| 37 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 38 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
-| 39 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
-| 40 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 41 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 42 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 43 | [Andre Drummond](http://twitter.com/search?q=Andre+Drummond) | N/A |
-| 44 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 45 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
-| 46 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
-| 47 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 48 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 49 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 50 | [Hanzo](http://twitter.com/search?q=Hanzo) | N/A |
+| 24 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 25 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment that translates to "dear man" or "dear sir." It is used as a way to show respect and affection for someone. |
+| 26 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 27 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 28 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 29 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 30 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 31 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 32 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 33 | [Sirona](http://twitter.com/search?q=Sirona) | N/A |
+| 34 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 35 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 36 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 37 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 38 | [Turquía y Siria](http://twitter.com/search?q=Turqu%c3%ada+y+Siria) | N/A |
+| 39 | [62% of Americans](http://twitter.com/search?q=62%25+of+Americans) | N/A |
+| 40 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
+| 41 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 42 | [Ant-Man](http://twitter.com/search?q=Ant-Man) | Ant-Man is a Marvel superhero created by Stan Lee and Jack Kirby. He is a scientist named Dr. Hank Pym who discovers a special type of technology that allows him to shrink himself down to the size of an ant while still retaining his normal strength and agility. The character has appeared in various Marvel comics, films, and television shows since his debut in 1962. The name "Ant-Man" is derived from the fact that he can shrink himself down to the size of an ant. |
+| 43 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 44 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 45 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 46 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
+| 47 | [#earthquakeinturkey](http://twitter.com/search?q=%23earthquakeinturkey) | N/A |
+| 48 | [#QuantumLeap](http://twitter.com/search?q=%23QuantumLeap) | N/A |
+| 49 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 50 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
 
 
 

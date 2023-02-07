@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-07 11:15:30 UTC`
+📆 Last Updated: `2023-02-07 12:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,46 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 2 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
-| 3 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
-| 4 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 5 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 6 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 7 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 8 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
-| 9 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
-| 10 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 11 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
-| 12 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
-| 13 | [Consob](http://twitter.com/search?q=Consob) | N/A |
-| 14 | [Odio la Juve](http://twitter.com/search?q=Odio+la+Juve) | N/A |
-| 15 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
-| 16 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
-| 17 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 18 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 19 | [Vesuvio](http://twitter.com/search?q=Vesuvio) | N/A |
-| 20 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 21 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 22 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 23 | [Amatrice](http://twitter.com/search?q=Amatrice) | N/A |
-| 24 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
-| 25 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 26 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
-| 27 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
-| 28 | [#festivaldisanremo](http://twitter.com/search?q=%23festivaldisanremo) | N/A |
-| 29 | [#VascoRossi](http://twitter.com/search?q=%23VascoRossi) | N/A |
-| 30 | [#DisdettaDaznSky](http://twitter.com/search?q=%23DisdettaDaznSky) | N/A |
-| 31 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 32 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 33 | [#Aleppo](http://twitter.com/search?q=%23Aleppo) | N/A |
-| 34 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
-| 35 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 36 | [#fantasanremo2023](http://twitter.com/search?q=%23fantasanremo2023) | N/A |
-| 37 | [#IlSilenzioDellaLuna](http://twitter.com/search?q=%23IlSilenzioDellaLuna) | N/A |
-| 38 | [#BOICOTTASANREMO](http://twitter.com/search?q=%23BOICOTTASANREMO) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [#Fazzolari](http://twitter.com/search?q=%23Fazzolari) | N/A |
+| 4 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 5 | [#7febbraio](http://twitter.com/search?q=%237febbraio) | N/A |
+| 6 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 7 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 8 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
+| 9 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 10 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 11 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
+| 12 | [Il PM](http://twitter.com/search?q=Il+PM) | N/A |
+| 13 | [Un PM](http://twitter.com/search?q=Un+PM) | N/A |
+| 14 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 15 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 16 | [Possiamo](http://twitter.com/search?q=Possiamo) | N/A |
+| 17 | [Odio la Juve](http://twitter.com/search?q=Odio+la+Juve) | N/A |
+| 18 | [Festival](http://twitter.com/search?q=Festival) | N/A |
+| 19 | [Borsellino](http://twitter.com/search?q=Borsellino) | N/A |
+| 20 | [Consob](http://twitter.com/search?q=Consob) | N/A |
+| 21 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
+| 22 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 23 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 24 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 25 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 26 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 27 | [ariston](http://twitter.com/search?q=ariston) | N/A |
+| 28 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 29 | [Vesuvio](http://twitter.com/search?q=Vesuvio) | N/A |
+| 30 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 31 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 32 | [Zelensky a Sanremo](http://twitter.com/search?q=Zelensky+a+Sanremo) | N/A |
+| 33 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 34 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 35 | [#bullismo](http://twitter.com/search?q=%23bullismo) | N/A |
+| 36 | [#luigistrangis](http://twitter.com/search?q=%23luigistrangis) | N/A |
+| 37 | [#VorreiImparare](http://twitter.com/search?q=%23VorreiImparare) | N/A |
+| 38 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
+| 39 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 40 | [#Aleppo](http://twitter.com/search?q=%23Aleppo) | N/A |
+| 41 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
 
 
 

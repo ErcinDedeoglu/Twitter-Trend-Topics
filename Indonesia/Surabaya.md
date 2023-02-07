@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-07 11:15:34 UTC`
+📆 Last Updated: `2023-02-07 12:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 2 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 3 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
-| 4 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
-| 5 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
-| 6 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 7 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 8 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 9 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 10 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 11 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 12 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 13 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
-| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 15 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
-| 16 | [AHY Bersama NU](http://twitter.com/search?q=AHY+Bersama+NU) | N/A |
-| 17 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 18 | [Hutao](http://twitter.com/search?q=Hutao) | N/A |
-| 19 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
-| 20 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 21 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 22 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 23 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 24 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 25 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 26 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 27 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 29 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 30 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 31 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 32 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 33 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 34 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
-| 35 | [Nahdliyin](http://twitter.com/search?q=Nahdliyin) | N/A |
-| 36 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 37 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
-| 38 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
-| 39 | [#OPPOReno8TdiTokopedia](http://twitter.com/search?q=%23OPPOReno8TdiTokopedia) | N/A |
-| 40 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 41 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 42 | [#PDNasionalisReligius](http://twitter.com/search?q=%23PDNasionalisReligius) | N/A |
-| 43 | [#FreyTalk](http://twitter.com/search?q=%23FreyTalk) | N/A |
-| 44 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 45 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
-| 46 | [#CrushOnYou](http://twitter.com/search?q=%23CrushOnYou) | N/A |
-| 47 | [#AkuNUAkuPKB](http://twitter.com/search?q=%23AkuNUAkuPKB) | N/A |
-| 48 | [#PrayforSyria](http://twitter.com/search?q=%23PrayforSyria) | N/A |
+| 2 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 3 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 4 | [#MoonlightChickenLIVE](http://twitter.com/search?q=%23MoonlightChickenLIVE) | N/A |
+| 5 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
+| 6 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 7 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
+| 8 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 9 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
+| 10 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 11 | [#OPPOReno8TdiTokopedia](http://twitter.com/search?q=%23OPPOReno8TdiTokopedia) | N/A |
+| 12 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
+| 13 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 14 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
+| 15 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 16 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 17 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 18 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 19 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 20 | [AHY Bersama NU](http://twitter.com/search?q=AHY+Bersama+NU) | N/A |
+| 21 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 23 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
+| 24 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 25 | [3 SD](http://twitter.com/search?q=3+SD) | N/A |
+| 26 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 29 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 30 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 31 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 32 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
+| 33 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 34 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 35 | [nahdlatul ulama](http://twitter.com/search?q=nahdlatul+ulama) | N/A |
+| 36 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 37 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 38 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 39 | [Nahdliyin](http://twitter.com/search?q=Nahdliyin) | N/A |
+| 40 | [Sapi](http://twitter.com/search?q=Sapi) | N/A |
+| 41 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
+| 42 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
+| 43 | [#Reno8TdiShopee](http://twitter.com/search?q=%23Reno8TdiShopee) | N/A |
+| 44 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 45 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
+| 46 | [#chatamara](http://twitter.com/search?q=%23chatamara) | N/A |
+| 47 | [#pdnasionalisreligius](http://twitter.com/search?q=%23pdnasionalisreligius) | N/A |
+| 48 | [#FreyTalk](http://twitter.com/search?q=%23FreyTalk) | N/A |
+| 49 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
+| 50 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
 
 
 

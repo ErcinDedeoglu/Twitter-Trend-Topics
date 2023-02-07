@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-07 11:15:42 UTC`
+📆 Last Updated: `2023-02-07 12:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 2 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 3 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 5 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 6 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 7 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 8 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 9 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
-| 10 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 11 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 12 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 13 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 14 | [Morente](http://twitter.com/search?q=Morente) | N/A |
-| 15 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 16 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
-| 17 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
-| 18 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 19 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 20 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 21 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
-| 22 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
-| 23 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 25 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 26 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 27 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 28 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 29 | [the audacity](http://twitter.com/search?q=the+audacity) | N/A |
-| 30 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 31 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 32 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 33 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 34 | [INNIE BDAY BOIII](http://twitter.com/search?q=INNIE+BDAY+BOIII) | N/A |
-| 35 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 36 | [Jinhwan](http://twitter.com/search?q=Jinhwan) | N/A |
-| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 38 | [#PINAKAMAKINANG](http://twitter.com/search?q=%23PINAKAMAKINANG) | N/A |
-| 39 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
-| 40 | [#TenLittleMistresses](http://twitter.com/search?q=%23TenLittleMistresses) | N/A |
-| 41 | [#VXON_DuloPresave](http://twitter.com/search?q=%23VXON_DuloPresave) | N/A |
-| 42 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
-| 43 | [#SharleneSanPedro](http://twitter.com/search?q=%23SharleneSanPedro) | N/A |
-| 44 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 45 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 46 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
-| 47 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
-| 48 | [#BOYCOTTMZETxAPTxGMA699](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA699) | N/A |
+| 2 | [#VXON_DuloPresave](http://twitter.com/search?q=%23VXON_DuloPresave) | N/A |
+| 3 | [PRESAVE DULO NOW](http://twitter.com/search?q=PRESAVE+DULO+NOW) | N/A |
+| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 6 | [VERSATILE DONNY PANGILINAN](http://twitter.com/search?q=VERSATILE+DONNY+PANGILINAN) | N/A |
+| 7 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 8 | [RUN BTS](http://twitter.com/search?q=RUN+BTS) | N/A |
+| 9 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 10 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 11 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 12 | [#TwentyFiveWonDONNYfulYears](http://twitter.com/search?q=%23TwentyFiveWonDONNYfulYears) | N/A |
+| 13 | [VALENTINA VENOMOUS QUEEN](http://twitter.com/search?q=VALENTINA+VENOMOUS+QUEEN) | N/A |
+| 14 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 15 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 16 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
+| 17 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 18 | [morente](http://twitter.com/search?q=morente) | N/A |
+| 19 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 20 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 21 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 22 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 23 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
+| 24 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 25 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 26 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 27 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 28 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 29 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 30 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 31 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 32 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 33 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 34 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 35 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 36 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 37 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
+| 38 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 39 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 40 | [Lee Seung Gi](http://twitter.com/search?q=Lee+Seung+Gi) | N/A |
+| 41 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
+| 42 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 43 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 44 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 45 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 46 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 47 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
+| 48 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
+| 49 | [#PINAKAMAKINANG](http://twitter.com/search?q=%23PINAKAMAKINANG) | N/A |
 
 
 

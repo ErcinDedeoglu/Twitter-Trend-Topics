@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-07 11:15:27 UTC`
+📆 Last Updated: `2023-02-07 12:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,40 +18,43 @@ This is top 50 for [France](</France>)
 | 1 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
 | 2 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
 | 3 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 4 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 5 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 8 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 9 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
-| 10 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 4 | [Steve Lomas](http://twitter.com/search?q=Steve+Lomas) | N/A |
+| 5 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 6 | [Apple Pay](http://twitter.com/search?q=Apple+Pay) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 9 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 10 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
 | 11 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 12 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 13 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 14 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 15 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 16 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 17 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 12 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
+| 13 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 14 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 15 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 17 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
 | 18 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 21 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 22 | [#Beyonce](http://twitter.com/search?q=%23Beyonce) | N/A |
-| 23 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 24 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 25 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 26 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 27 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
-| 28 | [#BloquonsMacron](http://twitter.com/search?q=%23BloquonsMacron) | N/A |
-| 29 | [#neige](http://twitter.com/search?q=%23neige) | N/A |
-| 30 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
-| 31 | [#SaintValentin](http://twitter.com/search?q=%23SaintValentin) | N/A |
-| 32 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 33 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 34 | [#Google](http://twitter.com/search?q=%23Google) | N/A |
+| 19 | [La NUPES](http://twitter.com/search?q=La+NUPES) | N/A |
+| 20 | [Le 7](http://twitter.com/search?q=Le+7) | N/A |
+| 21 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 22 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 23 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 24 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 25 | [#Beyonce](http://twitter.com/search?q=%23Beyonce) | N/A |
+| 26 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 27 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 28 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 29 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
+| 30 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 31 | [#BloquonsMacron](http://twitter.com/search?q=%23BloquonsMacron) | N/A |
+| 32 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 33 | [#SaintValentin](http://twitter.com/search?q=%23SaintValentin) | N/A |
+| 34 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
 | 35 | [#courchevelmeribel2023](http://twitter.com/search?q=%23courchevelmeribel2023) | N/A |
-| 36 | [#Rennes2](http://twitter.com/search?q=%23Rennes2) | N/A |
-| 37 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 36 | [#neige](http://twitter.com/search?q=%23neige) | N/A |
+| 37 | [#RetraiteA60Ans](http://twitter.com/search?q=%23RetraiteA60Ans) | N/A |
+| 38 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 39 | [#Google](http://twitter.com/search?q=%23Google) | N/A |
+| 40 | [#Rennes2](http://twitter.com/search?q=%23Rennes2) | N/A |
 
 
 
