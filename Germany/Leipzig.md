@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-07 18:15:57 UTC`
+📆 Last Updated: `2023-02-07 19:15:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 1 | [#SVSSCF](http://twitter.com/search?q=%23SVSSCF) | N/A |
 | 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 3 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 5 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 3 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 5 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
 | 6 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 7 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 8 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 9 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 12 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 13 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 14 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 15 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 16 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 17 | [Herr Czaja](http://twitter.com/search?q=Herr+Czaja) | N/A |
-| 18 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 19 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
-| 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 21 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 22 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 23 | [gabi](http://twitter.com/search?q=gabi) | N/A |
-| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 25 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 26 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 27 | [Gamepass](http://twitter.com/search?q=Gamepass) | N/A |
-| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 29 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 30 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 31 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
-| 32 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 33 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 34 | [Schönen Feierabend](http://twitter.com/search?q=Sch%c3%b6nen+Feierabend) | N/A |
-| 35 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 36 | [Menschen mit Uterus](http://twitter.com/search?q=Menschen+mit+Uterus) | N/A |
-| 37 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 38 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 39 | [Straßenrennen](http://twitter.com/search?q=Stra%c3%9fenrennen) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 42 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 43 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 44 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 45 | [William Turner](http://twitter.com/search?q=William+Turner) | N/A |
-| 46 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 47 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
-| 48 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 49 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 7 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 8 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 9 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 10 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 11 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
+| 12 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 13 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 14 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 15 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 20 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 21 | [Straftat](http://twitter.com/search?q=Straftat) | N/A |
+| 22 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 23 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
+| 24 | [Witze](http://twitter.com/search?q=Witze) | N/A |
+| 25 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 26 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 27 | [Spenden](http://twitter.com/search?q=Spenden) | N/A |
+| 28 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 29 | [Zensur](http://twitter.com/search?q=Zensur) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 32 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 33 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 34 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
+| 35 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 36 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 38 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
+| 39 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 40 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 41 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 42 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 43 | [#Matarazzo](http://twitter.com/search?q=%23Matarazzo) | N/A |
+| 44 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
+| 45 | [#Tuerkei](http://twitter.com/search?q=%23Tuerkei) | N/A |
+| 46 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 47 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
 
 
 

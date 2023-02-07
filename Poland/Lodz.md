@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-07 18:15:52 UTC`
+📆 Last Updated: `2023-02-07 19:15:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 2 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 3 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 6 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 7 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 8 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 9 | [Krajowym Zasobie Nieruchomości](http://twitter.com/search?q=Krajowym+Zasobie+Nieruchomo%c5%9bci) | N/A |
-| 10 | [Świerczok](http://twitter.com/search?q=%c5%9awierczok) | N/A |
-| 11 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 12 | [Lizał](http://twitter.com/search?q=Liza%c5%82) | N/A |
-| 13 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 14 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 15 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 16 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 17 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 18 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 19 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
-| 20 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 4 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
+| 5 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 6 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 7 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 8 | [Świerczok](http://twitter.com/search?q=%c5%9awierczok) | N/A |
+| 9 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 11 | [Lizał](http://twitter.com/search?q=Liza%c5%82) | N/A |
+| 12 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 13 | [Łotwie](http://twitter.com/search?q=%c5%81otwie) | N/A |
+| 14 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 15 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 16 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 17 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 18 | [Grupa Żywiec](http://twitter.com/search?q=Grupa+%c5%bbywiec) | N/A |
+| 19 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 20 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
 | 21 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 22 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 23 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 24 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
-| 25 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
-| 26 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 27 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
-| 28 | [Besni](http://twitter.com/search?q=Besni) | N/A |
-| 29 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 30 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 22 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
+| 23 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
+| 24 | [Sowa](http://twitter.com/search?q=Sowa) | N/A |
+| 25 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 26 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 27 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 28 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 29 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 30 | [Izera](http://twitter.com/search?q=Izera) | N/A |
 | 31 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 32 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 33 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 34 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 35 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 37 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
-| 38 | [Państwowej Straży Pożarnej](http://twitter.com/search?q=Pa%c5%84stwowej+Stra%c5%bcy+Po%c5%bcarnej) | N/A |
-| 39 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
-| 40 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 41 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
-| 42 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 43 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
-| 44 | [Biały](http://twitter.com/search?q=Bia%c5%82y) | N/A |
-| 45 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 46 | [wielkanoc](http://twitter.com/search?q=wielkanoc) | N/A |
-| 47 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 32 | [Krajowym Zasobie Nieruchomości](http://twitter.com/search?q=Krajowym+Zasobie+Nieruchomo%c5%9bci) | N/A |
+| 33 | [Szłapka](http://twitter.com/search?q=Sz%c5%82apka) | N/A |
+| 34 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 35 | [Besni](http://twitter.com/search?q=Besni) | N/A |
+| 36 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 37 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 38 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 39 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 40 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
+| 41 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 42 | [Brawo](http://twitter.com/search?q=Brawo) | N/A |
+| 43 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 44 | [Kohut](http://twitter.com/search?q=Kohut) | N/A |
+| 45 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 46 | [Państwowej Straży Pożarnej](http://twitter.com/search?q=Pa%c5%84stwowej+Stra%c5%bcy+Po%c5%bcarnej) | N/A |
+| 47 | [Biały](http://twitter.com/search?q=Bia%c5%82y) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-07 18:16:32 UTC`
+📆 Last Updated: `2023-02-07 19:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 2 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 3 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 5 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 1 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 2 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
 | 7 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 8 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 9 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 10 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 11 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 12 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 14 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 15 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 16 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
-| 17 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 19 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 20 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 22 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 23 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 24 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 25 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 26 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 27 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 28 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 29 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
-| 30 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 31 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 32 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 33 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 34 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 36 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 37 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
-| 38 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 39 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 40 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
-| 41 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 42 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 43 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 44 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 45 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
-| 46 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
-| 47 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 48 | [Orlando Robinson](http://twitter.com/search?q=Orlando+Robinson) | N/A |
+| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 14 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
+| 15 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 16 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 17 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 18 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 19 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 20 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 21 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 23 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 25 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 26 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 27 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 29 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 30 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 33 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 34 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 35 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 36 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 38 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 39 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 40 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 41 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 42 | [Lance Guidry](http://twitter.com/search?q=Lance+Guidry) | N/A |
+| 43 | [Chase Tower](http://twitter.com/search?q=Chase+Tower) | N/A |
+| 44 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 45 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 46 | [Death Island](http://twitter.com/search?q=Death+Island) | N/A |
+| 47 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 48 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
 
 
 

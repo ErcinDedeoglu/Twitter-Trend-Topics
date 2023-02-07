@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-02-07 18:16:00 UTC`
+📆 Last Updated: `2023-02-07 19:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [El PSOE](http://twitter.com/search?q=El+PSOE) | N/A |
-| 2 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 3 | [Siro](http://twitter.com/search?q=Siro) | N/A |
-| 4 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 5 | [#CrisPorta7F](http://twitter.com/search?q=%23CrisPorta7F) | N/A |
-| 6 | [#TierraAmarga7Feb](http://twitter.com/search?q=%23TierraAmarga7Feb) | N/A |
-| 7 | [Ence](http://twitter.com/search?q=Ence) | N/A |
-| 8 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 9 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 10 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 11 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 12 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 15 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
-| 16 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
+| 2 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 4 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 5 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 6 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 7 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
+| 8 | [#CrisPorta7F](http://twitter.com/search?q=%23CrisPorta7F) | N/A |
+| 9 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 10 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
+| 11 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
+| 12 | [#escz2023](http://twitter.com/search?q=%23escz2023) | N/A |
+| 13 | [#TierraAmarga7Feb](http://twitter.com/search?q=%23TierraAmarga7Feb) | N/A |
+| 14 | [Frigenti](http://twitter.com/search?q=Frigenti) | N/A |
+| 15 | [#Solos7F](http://twitter.com/search?q=%23Solos7F) | N/A |
+| 16 | [Ence](http://twitter.com/search?q=Ence) | N/A |
 | 17 | [Sanlúcar de Barrameda](http://twitter.com/search?q=Sanl%c3%bacar+de+Barrameda) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Tribunal Supremo](http://twitter.com/search?q=Tribunal+Supremo) | N/A |
-| 20 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 21 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 22 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
-| 23 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 24 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 25 | [Bono Cultural Joven](http://twitter.com/search?q=Bono+Cultural+Joven) | N/A |
-| 26 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
-| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
-| 29 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 30 | [Gris](http://twitter.com/search?q=Gris) | N/A |
-| 31 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
-| 32 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 33 | [Queipo](http://twitter.com/search?q=Queipo) | N/A |
-| 34 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
-| 35 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 36 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 37 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 38 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 39 | [Ministra de Justicia](http://twitter.com/search?q=Ministra+de+Justicia) | N/A |
-| 40 | [Antros](http://twitter.com/search?q=Antros) | N/A |
-| 41 | [Game Pass](http://twitter.com/search?q=Game+Pass) | N/A |
-| 42 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 44 | [Froilan](http://twitter.com/search?q=Froilan) | N/A |
-| 45 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 46 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 47 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 48 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 49 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
-| 50 | [Alexelcapo](http://twitter.com/search?q=Alexelcapo) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 20 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 21 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 22 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 23 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 24 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 27 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
+| 28 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 29 | [Rafa Mora](http://twitter.com/search?q=Rafa+Mora) | N/A |
+| 30 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 31 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 32 | [Queipo](http://twitter.com/search?q=Queipo) | N/A |
+| 33 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 34 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 35 | [Bono Cultural Joven](http://twitter.com/search?q=Bono+Cultural+Joven) | N/A |
+| 36 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
+| 37 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 38 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
+| 39 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
+| 40 | [Anguita](http://twitter.com/search?q=Anguita) | N/A |
+| 41 | [Gris](http://twitter.com/search?q=Gris) | N/A |
+| 42 | [Complemento](http://twitter.com/search?q=Complemento) | N/A |
+| 43 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 44 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 45 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
+| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 47 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 48 | [Game Pass](http://twitter.com/search?q=Game+Pass) | N/A |
+| 49 | [Antros](http://twitter.com/search?q=Antros) | N/A |
+| 50 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
 
 
 

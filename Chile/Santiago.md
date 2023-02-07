@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-07 18:15:46 UTC`
+📆 Last Updated: `2023-02-07 19:15:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 5 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 6 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
-| 7 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 8 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 9 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
+| 1 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 2 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
+| 3 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 5 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 6 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 7 | [#bettyenel13](http://twitter.com/search?q=%23bettyenel13) | N/A |
+| 8 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
+| 9 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
 | 10 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
-| 11 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 12 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
-| 13 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 14 | [#FestivalDeVina2023](http://twitter.com/search?q=%23FestivalDeVina2023) | N/A |
-| 15 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 16 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
-| 17 | [Opening Trailer Photo Sana](http://twitter.com/search?q=Opening+Trailer+Photo+Sana) | N/A |
-| 18 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 19 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 20 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 21 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 22 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
-| 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 24 | [Carmen Frei](http://twitter.com/search?q=Carmen+Frei) | N/A |
-| 25 | [Matías Dituro](http://twitter.com/search?q=Mat%c3%adas+Dituro) | N/A |
-| 26 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 27 | [Alex Gárgolas](http://twitter.com/search?q=Alex+G%c3%a1rgolas) | N/A |
-| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 29 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 30 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 31 | [Soap](http://twitter.com/search?q=Soap) | N/A |
-| 32 | [Futa](http://twitter.com/search?q=Futa) | N/A |
-| 33 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 34 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 35 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
+| 11 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 13 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 14 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 15 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
+| 16 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
+| 17 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 18 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 19 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 20 | [Carmen Frei](http://twitter.com/search?q=Carmen+Frei) | N/A |
+| 21 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 22 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 23 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 24 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 25 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
+| 26 | [Soap](http://twitter.com/search?q=Soap) | N/A |
+| 27 | [Futa](http://twitter.com/search?q=Futa) | N/A |
+| 28 | [Matías Zaldivia](http://twitter.com/search?q=Mat%c3%adas+Zaldivia) | N/A |
+| 29 | [Alex Gárgolas](http://twitter.com/search?q=Alex+G%c3%a1rgolas) | N/A |
+| 30 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 31 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 32 | [Pololeo](http://twitter.com/search?q=Pololeo) | N/A |
+| 33 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 34 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 35 | [Bienvenido a Chile](http://twitter.com/search?q=Bienvenido+a+Chile) | N/A |
 | 36 | [Yerko Ljubetic](http://twitter.com/search?q=Yerko+Ljubetic) | N/A |
-| 37 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 38 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
-| 39 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 40 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 41 | [Laura Albornoz](http://twitter.com/search?q=Laura+Albornoz) | N/A |
-| 42 | [Fher](http://twitter.com/search?q=Fher) | N/A |
-| 43 | [Pololeo](http://twitter.com/search?q=Pololeo) | N/A |
-| 44 | [castrilli](http://twitter.com/search?q=castrilli) | N/A |
-| 45 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 46 | [Experta](http://twitter.com/search?q=Experta) | N/A |
+| 37 | [Experta](http://twitter.com/search?q=Experta) | N/A |
+| 38 | [Brigadistas y Brigadistos](http://twitter.com/search?q=Brigadistas+y+Brigadistos) | N/A |
+| 39 | [Incompetencia](http://twitter.com/search?q=Incompetencia) | N/A |
+| 40 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 41 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 42 | [Castrilli](http://twitter.com/search?q=Castrilli) | N/A |
+| 43 | [Laura Albornoz](http://twitter.com/search?q=Laura+Albornoz) | N/A |
+| 44 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 45 | [UP Chile](http://twitter.com/search?q=UP+Chile) | N/A |
+| 46 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
 | 47 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 48 | [UP Chile](http://twitter.com/search?q=UP+Chile) | N/A |
-| 49 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 50 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 48 | [Jeongin](http://twitter.com/search?q=Jeongin) | N/A |
+| 49 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 50 | [Rodrigo Delgado](http://twitter.com/search?q=Rodrigo+Delgado) | N/A |
 
 
 

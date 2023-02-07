@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-02-07 18:16:29 UTC`
+📆 Last Updated: `2023-02-07 19:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
 | 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 4 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 | 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 6 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 8 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 10 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 11 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 12 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 6 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 7 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 11 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 13 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 15 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 16 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 17 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
+| 14 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
+| 15 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 16 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 17 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 18 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 21 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 22 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 19 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 20 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 21 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 22 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
 | 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 24 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 24 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
 | 25 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 26 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 27 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 28 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 29 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 30 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
-| 31 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 32 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 33 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 34 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 35 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 36 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 37 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 38 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 39 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 40 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
-| 41 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 42 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
-| 43 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 44 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 45 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 47 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
-| 48 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 49 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 26 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 27 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 28 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 29 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 30 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 31 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 32 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 33 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 34 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 35 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 37 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 38 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 39 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 40 | [Lance Guidry](http://twitter.com/search?q=Lance+Guidry) | N/A |
+| 41 | [Chase Tower](http://twitter.com/search?q=Chase+Tower) | N/A |
+| 42 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 43 | [Death Island](http://twitter.com/search?q=Death+Island) | N/A |
+| 44 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 45 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 46 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 47 | [Extreme](http://twitter.com/search?q=Extreme) | N/A |
+| 48 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
 
 
 

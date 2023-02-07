@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-02-07 18:16:33 UTC`
+📆 Last Updated: `2023-02-07 19:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 3 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 5 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 9 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 10 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 11 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 12 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 16 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 17 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 18 | [#GetTheirAttentionBy](http://twitter.com/search?q=%23GetTheirAttentionBy) | N/A |
-| 19 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 20 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 22 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 23 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 25 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 26 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 27 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 28 | [Zane](http://twitter.com/search?q=Zane) | N/A |
-| 29 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 30 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 31 | [SummerSlam](http://twitter.com/search?q=SummerSlam) | N/A |
-| 32 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 33 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 34 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 35 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 36 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 37 | [State of Confusion](http://twitter.com/search?q=State+of+Confusion) | N/A |
-| 38 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 39 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 40 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
-| 41 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 42 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 43 | [Gilliland](http://twitter.com/search?q=Gilliland) | N/A |
-| 44 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 45 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 46 | [Tomodachi](http://twitter.com/search?q=Tomodachi) | N/A |
-| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 48 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
+| 2 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
+| 3 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 4 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 5 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 7 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 14 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 17 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
+| 18 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 19 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 20 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 21 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 22 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 24 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 25 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 27 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 28 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 29 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 33 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 34 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 35 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 36 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 37 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 38 | [Zane](http://twitter.com/search?q=Zane) | N/A |
+| 39 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 40 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 41 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 42 | [Lance Guidry](http://twitter.com/search?q=Lance+Guidry) | N/A |
+| 43 | [Chase Tower](http://twitter.com/search?q=Chase+Tower) | N/A |
+| 44 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 45 | [Death Island](http://twitter.com/search?q=Death+Island) | N/A |
+| 46 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 47 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 48 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
 
 
 

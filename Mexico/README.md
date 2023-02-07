@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-07 18:16:45 UTC`
+📆 Last Updated: `2023-02-07 19:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
 | 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 6 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 7 | [#PoderosoMilagro](http://twitter.com/search?q=%23PoderosoMilagro) | N/A |
+| 4 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
+| 5 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 6 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 7 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
 | 8 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 9 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 10 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 11 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 12 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 13 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 14 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
-| 15 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 16 | [Fernando Marcos](http://twitter.com/search?q=Fernando+Marcos) | N/A |
-| 17 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 18 | [Orly](http://twitter.com/search?q=Orly) | N/A |
-| 19 | [todo méxico](http://twitter.com/search?q=todo+m%c3%a9xico) | N/A |
-| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 21 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 22 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 23 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 24 | [Aportaciones](http://twitter.com/search?q=Aportaciones) | N/A |
-| 25 | [Superama](http://twitter.com/search?q=Superama) | N/A |
-| 26 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 27 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 28 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 29 | [Manelyk](http://twitter.com/search?q=Manelyk) | N/A |
-| 30 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 31 | [Jeongin](http://twitter.com/search?q=Jeongin) | N/A |
-| 32 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 33 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
-| 34 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 35 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 36 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 37 | [#MartesDelJaguar](http://twitter.com/search?q=%23MartesDelJaguar) | N/A |
-| 38 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 39 | [#EduardoRiveraCumple](http://twitter.com/search?q=%23EduardoRiveraCumple) | N/A |
-| 40 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 41 | [#playdoitmexico](http://twitter.com/search?q=%23playdoitmexico) | N/A |
-| 42 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 43 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 44 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 45 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 46 | [#GarciaLuna](http://twitter.com/search?q=%23GarciaLuna) | N/A |
-| 47 | [#Turquía](http://twitter.com/search?q=%23Turqu%c3%ada) | N/A |
-| 48 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
-| 49 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 50 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
+| 9 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 10 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 12 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 13 | [Pixies](http://twitter.com/search?q=Pixies) | N/A |
+| 14 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
+| 15 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
+| 16 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 17 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 18 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
+| 19 | [Charlie Puth](http://twitter.com/search?q=Charlie+Puth) | N/A |
+| 20 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 22 | [SE LOGRÓ](http://twitter.com/search?q=SE+LOGR%c3%93) | N/A |
+| 23 | [Fernando Marcos](http://twitter.com/search?q=Fernando+Marcos) | N/A |
+| 24 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 25 | [Corona Capital Guadalajara](http://twitter.com/search?q=Corona+Capital+Guadalajara) | N/A |
+| 26 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
+| 27 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 28 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
+| 29 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 30 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 31 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
+| 32 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 33 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
+| 34 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 35 | [Orly](http://twitter.com/search?q=Orly) | N/A |
+| 36 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 37 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 39 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [Charles Dickens](http://twitter.com/search?q=Charles+Dickens) | N/A |
+| 42 | [Cinismo](http://twitter.com/search?q=Cinismo) | N/A |
+| 43 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 44 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 45 | [Aportaciones](http://twitter.com/search?q=Aportaciones) | N/A |
+| 46 | [Cruz Roja Mexicana](http://twitter.com/search?q=Cruz+Roja+Mexicana) | N/A |
+| 47 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 48 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 49 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 50 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
 
 
 

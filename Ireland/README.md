@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-07 18:16:42 UTC`
+📆 Last Updated: `2023-02-07 19:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ireland
 | 2 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
 | 3 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
 | 4 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 5 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 6 | [#SilentWitness](http://twitter.com/search?q=%23SilentWitness) | N/A |
-| 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 8 | [Niamh Bhreathnach](http://twitter.com/search?q=Niamh+Bhreathnach) | N/A |
-| 9 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 10 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 12 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
-| 13 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 14 | [#UCC2028](http://twitter.com/search?q=%23UCC2028) | N/A |
-| 15 | [Eoghan](http://twitter.com/search?q=Eoghan) | N/A |
-| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 5 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 7 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 8 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 9 | [#SilentWitness](http://twitter.com/search?q=%23SilentWitness) | N/A |
+| 10 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 11 | [Niamh Bhreathnach](http://twitter.com/search?q=Niamh+Bhreathnach) | N/A |
+| 12 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 13 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 14 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 15 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 18 | [Minister for Education](http://twitter.com/search?q=Minister+for+Education) | N/A |
-| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 20 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 22 | [strategic plan](http://twitter.com/search?q=strategic+plan) | N/A |
-| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 24 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 25 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 26 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 27 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 30 | [Listen Here](http://twitter.com/search?q=Listen+Here) | N/A |
-| 31 | [Mares](http://twitter.com/search?q=Mares) | N/A |
-| 32 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 33 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 34 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 35 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 19 | [Eoghan](http://twitter.com/search?q=Eoghan) | N/A |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 21 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 22 | [Strategic Plan](http://twitter.com/search?q=Strategic+Plan) | N/A |
+| 23 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 24 | [Philip Dwyer](http://twitter.com/search?q=Philip+Dwyer) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 27 | [Mares](http://twitter.com/search?q=Mares) | N/A |
+| 28 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 29 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 30 | [Conservative](http://twitter.com/search?q=Conservative) | N/A |
+| 31 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
+| 32 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 33 | [Listen Here](http://twitter.com/search?q=Listen+Here) | N/A |
+| 34 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 35 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
 | 36 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 37 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
-| 38 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 39 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 40 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 41 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 42 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 43 | [Philip Dwyer](http://twitter.com/search?q=Philip+Dwyer) | N/A |
-| 44 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 45 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 46 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 37 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 38 | [Valentines Day](http://twitter.com/search?q=Valentines+Day) | N/A |
+| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 40 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 41 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 42 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 43 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 44 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 45 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 46 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
 | 47 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 48 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 49 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 50 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 48 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 49 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 50 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 
 
 

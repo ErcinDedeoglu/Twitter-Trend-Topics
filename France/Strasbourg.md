@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-07 18:15:55 UTC`
+📆 Last Updated: `2023-02-07 19:15:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 5 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 6 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 1 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 2 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 3 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 4 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 5 | [#ToujoursPlusAvecPoco](http://twitter.com/search?q=%23ToujoursPlusAvecPoco) | N/A |
+| 6 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
 | 7 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 10 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 11 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
-| 12 | [Kabore](http://twitter.com/search?q=Kabore) | N/A |
-| 13 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 14 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 15 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
-| 16 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 17 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 18 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 19 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 20 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 21 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 22 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 23 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 24 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 25 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 26 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
-| 27 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 28 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 29 | [Courchevel](http://twitter.com/search?q=Courchevel) | N/A |
-| 30 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
-| 31 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 33 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 34 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 35 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 36 | [Anne Hidalgo](http://twitter.com/search?q=Anne+Hidalgo) | N/A |
-| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 38 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
-| 39 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 40 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 41 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
-| 42 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
-| 43 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 44 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 45 | [#greve7février](http://twitter.com/search?q=%23greve7f%c3%a9vrier) | N/A |
-| 46 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 47 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 48 | [#Beyonce](http://twitter.com/search?q=%23Beyonce) | N/A |
+| 8 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
+| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 10 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 11 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 12 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
+| 13 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 14 | [Instant Gaming](http://twitter.com/search?q=Instant+Gaming) | N/A |
+| 15 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 16 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 17 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 18 | [Kabore](http://twitter.com/search?q=Kabore) | N/A |
+| 19 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 21 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 22 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 23 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 24 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 25 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 26 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 27 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 28 | [La SNCF](http://twitter.com/search?q=La+SNCF) | N/A |
+| 29 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 30 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
+| 31 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 32 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 33 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 34 | [Nuno Tavares](http://twitter.com/search?q=Nuno+Tavares) | N/A |
+| 35 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
+| 36 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 38 | [Courchevel](http://twitter.com/search?q=Courchevel) | N/A |
+| 39 | [Wind Waker](http://twitter.com/search?q=Wind+Waker) | N/A |
+| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 41 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
+| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 43 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 44 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
+| 45 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 46 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
+| 47 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 48 | [#IciToutCommence](http://twitter.com/search?q=%23IciToutCommence) | N/A |
 
 
 

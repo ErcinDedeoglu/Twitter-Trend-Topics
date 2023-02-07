@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-07 18:16:49 UTC`
+📆 Last Updated: `2023-02-07 19:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#beoncloudapologizetovnfans](http://twitter.com/search?q=%23beoncloudapologizetovnfans) | N/A |
-| 2 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 3 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
-| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
-| 6 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 7 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 8 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
+| 1 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
+| 2 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
+| 3 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
+| 4 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 6 | [#whitelist](http://twitter.com/search?q=%23whitelist) | N/A |
+| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 8 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
 | 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 10 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 11 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 12 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 10 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
+| 11 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
+| 12 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
 | 13 | [ENGLOT](http://twitter.com/search?q=ENGLOT) | N/A |
-| 14 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 15 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 16 | [Opening Trailer Photo Mina](http://twitter.com/search?q=Opening+Trailer+Photo+Mina) | N/A |
+| 14 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
+| 15 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 16 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
 | 17 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
 | 18 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
-| 19 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 20 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 21 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 19 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 20 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 21 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 22 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 24 | [hồ chí minh](http://twitter.com/search?q=h%e1%bb%93+ch%c3%ad+minh) | N/A |
-| 25 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 26 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 27 | [Massage in Riaydh](http://twitter.com/search?q=Massage+in+Riaydh) | N/A |
-| 28 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 29 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 30 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
-| 31 | [SECC](http://twitter.com/search?q=SECC) | N/A |
-| 32 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 33 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
-| 34 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 35 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 37 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
-| 38 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 39 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 40 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 41 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
-| 42 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 43 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 44 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 45 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 46 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 47 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 48 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
-| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 50 | [Nhưng](http://twitter.com/search?q=Nh%c6%b0ng) | N/A |
+| 24 | [Đảng](http://twitter.com/search?q=%c4%90%e1%ba%a3ng) | N/A |
+| 25 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 26 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
+| 27 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 28 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 29 | [SECC](http://twitter.com/search?q=SECC) | N/A |
+| 30 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 31 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 32 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 33 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
+| 34 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
+| 35 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 36 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 37 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 38 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 39 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 40 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
+| 41 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 42 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 43 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 45 | [source link](http://twitter.com/search?q=source+link) | N/A |
+| 46 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
+| 47 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 48 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
+| 49 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
+| 50 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
 
 
 

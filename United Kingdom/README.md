@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-07 18:16:49 UTC`
+📆 Last Updated: `2023-02-07 19:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 2 | [#SaferInternetDay2023](http://twitter.com/search?q=%23SaferInternetDay2023) | N/A |
-| 3 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 4 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
-| 5 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
-| 6 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 2 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 3 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 4 | [#SaferInternetDay2023](http://twitter.com/search?q=%23SaferInternetDay2023) | N/A |
+| 5 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 6 | [Jill](http://twitter.com/search?q=Jill) | N/A |
 | 7 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 8 | [#CurrysHogwartsLegacy](http://twitter.com/search?q=%23CurrysHogwartsLegacy) | N/A |
-| 9 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 8 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
+| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 10 | [#escz2023](http://twitter.com/search?q=%23escz2023) | N/A |
 | 11 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 12 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 12 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
 | 13 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 14 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 18 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 19 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 20 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 21 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 22 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
-| 23 | [Queens Gamble](http://twitter.com/search?q=Queens+Gamble) | N/A |
-| 24 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 25 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 26 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 27 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 28 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 29 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 30 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 31 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 32 | [Room 3](http://twitter.com/search?q=Room+3) | N/A |
-| 33 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
-| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 35 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 36 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 37 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 38 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 39 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
-| 40 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 41 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 42 | [Red Wall](http://twitter.com/search?q=Red+Wall) | N/A |
-| 43 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 44 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
-| 45 | [Lucy Frazer](http://twitter.com/search?q=Lucy+Frazer) | N/A |
-| 46 | [Department](http://twitter.com/search?q=Department) | N/A |
-| 47 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 48 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 49 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 50 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
+| 14 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 15 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 16 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
+| 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 18 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
+| 19 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
+| 20 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 21 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 22 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
+| 23 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 24 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
+| 25 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 26 | [Ange](http://twitter.com/search?q=Ange) | N/A |
+| 27 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 28 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 30 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 31 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 32 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
+| 33 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 34 | [Radz](http://twitter.com/search?q=Radz) | N/A |
+| 35 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 36 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
+| 37 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
+| 38 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 39 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 40 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 41 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
+| 42 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 43 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 44 | [Queens Gamble](http://twitter.com/search?q=Queens+Gamble) | N/A |
+| 45 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 46 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 47 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
+| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 49 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
+| 50 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
 
 
 

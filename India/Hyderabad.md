@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-02-07 18:16:25 UTC`
+📆 Last Updated: `2023-02-07 19:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SidharthKiaraWedding](http://twitter.com/search?q=%23SidharthKiaraWedding) | N/A |
-| 2 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
+| 2 | [#ThunivuOnNetflix](http://twitter.com/search?q=%23ThunivuOnNetflix) | N/A |
 | 3 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 4 | [PIYA RE TEASER OUT NOW](http://twitter.com/search?q=PIYA+RE+TEASER+OUT+NOW) | N/A |
-| 5 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 6 | [#AskVD](http://twitter.com/search?q=%23AskVD) | N/A |
-| 7 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 8 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
-| 9 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
-| 10 | [Mahua](http://twitter.com/search?q=Mahua) | N/A |
+| 4 | [#HBDRitaMaa](http://twitter.com/search?q=%23HBDRitaMaa) | N/A |
+| 5 | [#DecadeforMirchiఘాటు](http://twitter.com/search?q=%23DecadeforMirchi%e0%b0%98%e0%b0%be%e0%b0%9f%e0%b1%81) | N/A |
+| 6 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 7 | [PIYA RE TEASER OUT NOW](http://twitter.com/search?q=PIYA+RE+TEASER+OUT+NOW) | N/A |
+| 8 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 9 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 10 | [Sushant A Brilliant Mind](http://twitter.com/search?q=Sushant+A+Brilliant+Mind) | N/A |
 | 11 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
-| 12 | [Somnath](http://twitter.com/search?q=Somnath) | N/A |
+| 12 | [Shershah](http://twitter.com/search?q=Shershah) | N/A |
 | 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [ganapath aane wala hai](http://twitter.com/search?q=ganapath+aane+wala+hai) | N/A |
-| 15 | [सिद्धार्थ मल्होत्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 16 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 17 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 18 | [WELCOME BACK NAMIK](http://twitter.com/search?q=WELCOME+BACK+NAMIK) | N/A |
-| 19 | [Logad](http://twitter.com/search?q=Logad) | N/A |
-| 20 | [SHIVANGI IN JAB WE MATCHED](http://twitter.com/search?q=SHIVANGI+IN+JAB+WE+MATCHED) | N/A |
-| 21 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 22 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
-| 23 | [NITI RANDEEP IN BALH2](http://twitter.com/search?q=NITI+RANDEEP+IN+BALH2) | N/A |
-| 24 | [2M IG POST OF MUNAWAR](http://twitter.com/search?q=2M+IG+POST+OF+MUNAWAR) | N/A |
-| 25 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 26 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
-| 27 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
-| 28 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 29 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 31 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 32 | [नेशनल हेराल्ड](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%b9%e0%a5%87%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
-| 33 | [राजीव गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 34 | [राखी सावंत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
-| 35 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 36 | [लक्ष्मी योजना](http://twitter.com/search?q=%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 37 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 38 | [सिंह यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 39 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 14 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [Kabir Singh](http://twitter.com/search?q=Kabir+Singh) | N/A |
+| 17 | [Somnath](http://twitter.com/search?q=Somnath) | N/A |
+| 18 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 19 | [सिद्धार्थ मल्होत्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 20 | [Alia](http://twitter.com/search?q=Alia) | N/A |
+| 21 | [GANAPATH AANE WALA HAI](http://twitter.com/search?q=GANAPATH+AANE+WALA+HAI) | N/A |
+| 22 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 23 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 24 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 25 | [Bombay](http://twitter.com/search?q=Bombay) | N/A |
+| 26 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 27 | [16M LOVE ANNIVERSARY RUBINA](http://twitter.com/search?q=16M+LOVE+ANNIVERSARY+RUBINA) | N/A |
+| 28 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
+| 29 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 30 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 31 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 32 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [नेशनल हेराल्ड](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%b9%e0%a5%87%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
+| 34 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 35 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 36 | [राजीव गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 37 | [राखी सावंत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%82%e0%a4%a4) | N/A |
+| 38 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 39 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
 | 40 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
-| 41 | [मानव जीवन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 42 | [भक्ति मार्ग](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
-| 43 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 44 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
-| 45 | [#OnePlus](http://twitter.com/search?q=%23OnePlus) | N/A |
-| 46 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
-| 47 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 48 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
-| 49 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
-| 50 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
+| 41 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
+| 42 | [#MahuaMoitra](http://twitter.com/search?q=%23MahuaMoitra) | N/A |
+| 43 | [#AskVD](http://twitter.com/search?q=%23AskVD) | N/A |
+| 44 | [#MonsterInside](http://twitter.com/search?q=%23MonsterInside) | N/A |
+| 45 | [#iQOO11](http://twitter.com/search?q=%23iQOO11) | N/A |
+| 46 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
+| 47 | [#OnePlus](http://twitter.com/search?q=%23OnePlus) | N/A |
+| 48 | [#ModiJPCseDaroMat](http://twitter.com/search?q=%23ModiJPCseDaroMat) | N/A |
+| 49 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
+| 50 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 
 
 

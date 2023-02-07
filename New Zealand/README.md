@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-07 18:16:46 UTC`
+📆 Last Updated: `2023-02-07 19:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 2 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 3 | [waitangi day](http://twitter.com/search?q=waitangi+day) | N/A |
-| 4 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 3 | [Waitangi Day](http://twitter.com/search?q=Waitangi+Day) | N/A |
+| 4 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 5 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 7 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 8 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 10 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 11 | [Willie](http://twitter.com/search?q=Willie) | N/A |
-| 12 | [west Auckland](http://twitter.com/search?q=west+Auckland) | N/A |
-| 13 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 14 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 15 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 16 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 17 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 18 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 9 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 11 | [West Auckland](http://twitter.com/search?q=West+Auckland) | N/A |
+| 12 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 13 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 14 | [Willie Jackson](http://twitter.com/search?q=Willie+Jackson) | N/A |
+| 15 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 16 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 17 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 18 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 | 19 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 22 | [kaumatua](http://twitter.com/search?q=kaumatua) | N/A |
-| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 24 | [Happy Valley](http://twitter.com/search?q=Happy+Valley) | N/A |
-| 25 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 26 | [California](http://twitter.com/search?q=California) | N/A |
-| 27 | [Marama](http://twitter.com/search?q=Marama) | N/A |
-| 28 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 29 | [#shortlandstreet](http://twitter.com/search?q=%23shortlandstreet) | N/A |
-| 30 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
-| 31 | [#readnz](http://twitter.com/search?q=%23readnz) | N/A |
-| 32 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 33 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 34 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 35 | [#nature](http://twitter.com/search?q=%23nature) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 22 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 23 | [Happy Valley](http://twitter.com/search?q=Happy+Valley) | N/A |
+| 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 25 | [Marama](http://twitter.com/search?q=Marama) | N/A |
+| 26 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 27 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
+| 28 | [#shortlandstreet](http://twitter.com/search?q=%23shortlandstreet) | N/A |
+| 29 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 30 | [#readnz](http://twitter.com/search?q=%23readnz) | N/A |
+| 31 | [bronwyn elsmore](http://twitter.com/search?q=bronwyn+elsmore) | N/A |
+| 32 | [California](http://twitter.com/search?q=California) | N/A |
+| 33 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 34 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 35 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 36 | [#nature](http://twitter.com/search?q=%23nature) | N/A |
 | 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 38 | [Disgraceful](http://twitter.com/search?q=Disgraceful) | N/A |
-| 39 | [Bronwyn Elsmore](http://twitter.com/search?q=Bronwyn+Elsmore) | N/A |
-| 40 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 41 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
-| 42 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [tremain](http://twitter.com/search?q=tremain) | N/A |
-| 45 | [Takapuna](http://twitter.com/search?q=Takapuna) | N/A |
-| 46 | [Coral Sea](http://twitter.com/search?q=Coral+Sea) | N/A |
-| 47 | [Trumps](http://twitter.com/search?q=Trumps) | N/A |
-| 48 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
-| 49 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 38 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 39 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 40 | [Disgraceful](http://twitter.com/search?q=Disgraceful) | N/A |
+| 41 | [Sth Pacific](http://twitter.com/search?q=Sth+Pacific) | N/A |
+| 42 | [tremain](http://twitter.com/search?q=tremain) | N/A |
+| 43 | [Takapuna](http://twitter.com/search?q=Takapuna) | N/A |
+| 44 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 46 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 47 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
+| 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 49 | [SO MUCH](http://twitter.com/search?q=SO+MUCH) | N/A |
 | 50 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-07 18:15:50 UTC`
+📆 Last Updated: `2023-02-07 19:15:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
-| 2 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 3 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 4 | [Curitiba](http://twitter.com/search?q=Curitiba) | Curitiba is the capital and largest city of the Brazilian state of Paraná. The name Curitiba comes from the Tupi language and means "Pine Nut Land". |
-| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 6 | [NASCI PRA VENCER](http://twitter.com/search?q=NASCI+PRA+VENCER) | N/A |
-| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 8 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 9 | [SOU MÁ](http://twitter.com/search?q=SOU+M%c3%81) | N/A |
-| 10 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 11 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 12 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 13 | [#sallesnao](http://twitter.com/search?q=%23sallesnao) | N/A |
-| 14 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 15 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 16 | [Lua Tube](http://twitter.com/search?q=Lua+Tube) | N/A |
-| 17 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 18 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 19 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 20 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 21 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 22 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 23 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
-| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 25 | [FLAMÉM](http://twitter.com/search?q=FLAM%c3%89M) | N/A |
-| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 27 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 28 | [87 É DO SPORT](http://twitter.com/search?q=87+%c3%89+DO+SPORT) | N/A |
-| 29 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 30 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 31 | [Ighalo](http://twitter.com/search?q=Ighalo) | N/A |
-| 32 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 34 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 35 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 36 | [Torci](http://twitter.com/search?q=Torci) | N/A |
-| 37 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 38 | [Filipe Luís](http://twitter.com/search?q=Filipe+Lu%c3%ads) | N/A |
-| 39 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 40 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 41 | [Direct](http://twitter.com/search?q=Direct) | N/A |
-| 42 | [Futebol](http://twitter.com/search?q=Futebol) | N/A |
-| 43 | [Povos Indígenas](http://twitter.com/search?q=Povos+Ind%c3%adgenas) | Povos Indígenas is a Portuguese phrase meaning "Indigenous Peoples". It is used to refer to the original inhabitants of a region, often with distinct cultural and linguistic traditions. |
-| 44 | [Matheuzinho](http://twitter.com/search?q=Matheuzinho) | Matheuzinho is a Portuguese nickname for someone named Matheus. It is derived from the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
-| 45 | [GRLS](http://twitter.com/search?q=GRLS) | N/A |
-| 46 | [CNPq](http://twitter.com/search?q=CNPq) | N/A |
-| 47 | [Aurelion](http://twitter.com/search?q=Aurelion) | N/A |
-| 48 | [Emprego Atual](http://twitter.com/search?q=Emprego+Atual) | N/A |
-| 49 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 50 | [Pior Emprego](http://twitter.com/search?q=Pior+Emprego) | N/A |
+| 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 2 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
+| 3 | [Meio Ambiente](http://twitter.com/search?q=Meio+Ambiente) | Meio Ambiente is a Portuguese phrase that translates to "environment" in English. It is used to refer to the natural environment, including air, water, land, and all living things. It is also used to refer to the social and economic conditions that affect the environment. |
+| 4 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 5 | [Bacen](http://twitter.com/search?q=Bacen) | N/A |
+| 6 | [Curitiba](http://twitter.com/search?q=Curitiba) | Curitiba is the capital and largest city of the Brazilian state of Paraná. The name Curitiba comes from the Tupi language and means "Pine Nut Land". |
+| 7 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
+| 8 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 9 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 10 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 11 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 12 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 13 | [Cellbit](http://twitter.com/search?q=Cellbit) | N/A |
+| 14 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 15 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 16 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 17 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
+| 18 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 19 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
+| 20 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 21 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 22 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 23 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 24 | [#sallesnao](http://twitter.com/search?q=%23sallesnao) | N/A |
+| 25 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 26 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 27 | [NASCI PRA VENCER](http://twitter.com/search?q=NASCI+PRA+VENCER) | N/A |
+| 28 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 29 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
+| 30 | [SOU MÁ](http://twitter.com/search?q=SOU+M%c3%81) | N/A |
+| 31 | [Salem](http://twitter.com/search?q=Salem) | N/A |
+| 32 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 33 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 34 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 35 | [Esse Santos](http://twitter.com/search?q=Esse+Santos) | N/A |
+| 36 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 37 | [Ighalo](http://twitter.com/search?q=Ighalo) | N/A |
+| 38 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 39 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 40 | [FLAMÉM](http://twitter.com/search?q=FLAM%c3%89M) | N/A |
+| 41 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 42 | [Lua Tube](http://twitter.com/search?q=Lua+Tube) | N/A |
+| 43 | [Luís Roberto](http://twitter.com/search?q=Lu%c3%ads+Roberto) | N/A |
+| 44 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 45 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 46 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 47 | [Filipe Luís](http://twitter.com/search?q=Filipe+Lu%c3%ads) | N/A |
+| 48 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 49 | [Vendetta](http://twitter.com/search?q=Vendetta) | N/A |
+| 50 | [Emprego Atual](http://twitter.com/search?q=Emprego+Atual) | N/A |
 
 
 
