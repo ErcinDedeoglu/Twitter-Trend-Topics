@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-07 20:15:32 UTC`
+📆 Last Updated: `2023-02-07 21:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Kenya](</Kenya>)
 | 3 | [#FulfilledProphecy](http://twitter.com/search?q=%23FulfilledProphecy) | N/A |
 | 4 | [ODM MPs](http://twitter.com/search?q=ODM+MPs) | N/A |
 | 5 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 6 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 7 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 8 | [Njugush](http://twitter.com/search?q=Njugush) | N/A |
+| 6 | [Njugush](http://twitter.com/search?q=Njugush) | N/A |
+| 7 | [State House](http://twitter.com/search?q=State+House) | N/A |
+| 8 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 9 | [John Mbadi](http://twitter.com/search?q=John+Mbadi) | N/A |
 | 10 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
 | 11 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
 | 12 | [#kindikidelivers](http://twitter.com/search?q=%23kindikidelivers) | N/A |
 | 13 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
 | 14 | [youth resistance movement mdd](http://twitter.com/search?q=youth+resistance+movement+mdd) | N/A |
-| 15 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 15 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
 | 16 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
-| 17 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
-| 18 | [Juma Chitembwe](http://twitter.com/search?q=Juma+Chitembwe) | N/A |
+| 17 | [Juma Chitembwe](http://twitter.com/search?q=Juma+Chitembwe) | N/A |
+| 18 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
 | 19 | [tony elumelu foundation](http://twitter.com/search?q=tony+elumelu+foundation) | N/A |
 | 20 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 21 | [Orengo](http://twitter.com/search?q=Orengo) | N/A |
-| 22 | [kara forum](http://twitter.com/search?q=kara+forum) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 25 | [Interior CS](http://twitter.com/search?q=Interior+CS) | N/A |
-| 26 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 27 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 28 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
-| 29 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
-| 30 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 31 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 32 | [Joho](http://twitter.com/search?q=Joho) | N/A |
+| 21 | [kara forum](http://twitter.com/search?q=kara+forum) | N/A |
+| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 23 | [Interior CS](http://twitter.com/search?q=Interior+CS) | N/A |
+| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 25 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 26 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
+| 27 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
+| 28 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 29 | [Joho](http://twitter.com/search?q=Joho) | N/A |
+| 30 | [Nairobi Expressway](http://twitter.com/search?q=Nairobi+Expressway) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 33 | [Larry](http://twitter.com/search?q=Larry) | N/A |
 | 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 36 | [Nairobi Expressway](http://twitter.com/search?q=Nairobi+Expressway) | N/A |
-| 37 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 38 | [Langata](http://twitter.com/search?q=Langata) | N/A |
+| 35 | [Langata](http://twitter.com/search?q=Langata) | N/A |
+| 36 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 37 | [Development](http://twitter.com/search?q=Development) | N/A |
+| 38 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 39 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
-| 40 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 41 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 40 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 41 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
 | 42 | [ODM party](http://twitter.com/search?q=ODM+party) | N/A |
-| 43 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 44 | [Development](http://twitter.com/search?q=Development) | N/A |
-| 45 | [DM or WhatsApp](http://twitter.com/search?q=DM+or+WhatsApp) | N/A |
-| 46 | [Kabando](http://twitter.com/search?q=Kabando) | N/A |
-| 47 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 48 | [kes 200](http://twitter.com/search?q=kes+200) | N/A |
-| 49 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 50 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 43 | [Kabando](http://twitter.com/search?q=Kabando) | N/A |
+| 44 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 45 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 46 | [kes 200](http://twitter.com/search?q=kes+200) | N/A |
+| 47 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 48 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 49 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 50 | [Nyong](http://twitter.com/search?q=Nyong) | N/A |
 
 
 

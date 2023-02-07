@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-07 20:15:11 UTC`
+📆 Last Updated: `2023-02-07 21:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 2 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 4 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 5 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 6 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 1 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 2 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 3 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 4 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 7 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 8 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 10 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 11 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
-| 12 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 13 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 14 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 15 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 16 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 17 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 18 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 19 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 20 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 21 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 22 | [leo pereira](http://twitter.com/search?q=leo+pereira) | N/A |
-| 23 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
-| 24 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 25 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 26 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 27 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 28 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 29 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 30 | [QUER UM 9 BOLADO](http://twitter.com/search?q=QUER+UM+9+BOLADO) | "QUER UM 9 BOLADO" is a Portuguese phrase that translates to "Do you want a nine ball?" It is typically used in the context of playing pool or billiards. |
-| 31 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 32 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 33 | [PEDRO GUILHERME](http://twitter.com/search?q=PEDRO+GUILHERME) | PEDRO GUILHERME is a Portuguese name. It is composed of two given names, Pedro and Guilherme. In English, it would be Peter William. |
-| 34 | [Esse Santos](http://twitter.com/search?q=Esse+Santos) | N/A |
-| 35 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 36 | [Queixada](http://twitter.com/search?q=Queixada) | N/A |
-| 37 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 38 | [Assalto](http://twitter.com/search?q=Assalto) | N/A |
-| 39 | [Wilton Pereira Sampaio](http://twitter.com/search?q=Wilton+Pereira+Sampaio) | Wilton Pereira Sampaio is a Brazilian surname. It is derived from the Portuguese words "wil" (will) and "ton" (town). The literal translation of the name is "Will Town". |
-| 40 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 41 | [SIMULAÇÃO](http://twitter.com/search?q=SIMULA%c3%87%c3%83O) | N/A |
-| 42 | [O Pedro](http://twitter.com/search?q=O+Pedro) | N/A |
-| 43 | [QUER UM NOVE BOLADO](http://twitter.com/search?q=QUER+UM+NOVE+BOLADO) | N/A |
-| 44 | [AI PEDRO](http://twitter.com/search?q=AI+PEDRO) | N/A |
-| 45 | [Andreas Pereira](http://twitter.com/search?q=Andreas+Pereira) | Andreas Pereira is a Portuguese-Brazilian professional footballer who plays as a midfielder for Manchester United in the English Premier League. His name is derived from the combination of his Portuguese father's first name, Andreas, and his Brazilian mother's maiden name, Pereira. |
-| 46 | [#FIFAClubWorldCup](http://twitter.com/search?q=%23FIFAClubWorldCup) | N/A |
-| 47 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 48 | [Pisão](http://twitter.com/search?q=Pis%c3%a3o) | N/A |
-| 49 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 50 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 8 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 9 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
+| 10 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 11 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 12 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 13 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 14 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
+| 15 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 16 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 17 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 18 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 19 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
+| 20 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 21 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 22 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 23 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 24 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 25 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 26 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 27 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 28 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
+| 29 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 30 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 31 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
+| 32 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 33 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 34 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 35 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 36 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
+| 37 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
+| 38 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 39 | [Varmengo](http://twitter.com/search?q=Varmengo) | N/A |
+| 40 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 41 | [#FLAxHIL](http://twitter.com/search?q=%23FLAxHIL) | N/A |
+| 42 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 43 | [Salem](http://twitter.com/search?q=Salem) | N/A |
+| 44 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 45 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
+| 46 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 47 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
+| 48 | [Praga de Corinthiano](http://twitter.com/search?q=Praga+de+Corinthiano) | N/A |
+| 49 | [Mazembe](http://twitter.com/search?q=Mazembe) | N/A |
+| 50 | [pardal](http://twitter.com/search?q=pardal) | N/A |
 
 
 

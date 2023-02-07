@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-02-07 20:15:06 UTC`
+📆 Last Updated: `2023-02-07 21:15:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
-| 2 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
-| 3 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 4 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 5 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 8 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 2 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
+| 3 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 5 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 6 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
+| 7 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 8 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 | 9 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 10 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 11 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 12 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
-| 13 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
-| 14 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
-| 15 | [Foals](http://twitter.com/search?q=Foals) | N/A |
-| 16 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
-| 17 | [Pixies](http://twitter.com/search?q=Pixies) | N/A |
-| 18 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 20 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
-| 21 | [Bloc Party](http://twitter.com/search?q=Bloc+Party) | N/A |
-| 22 | [Bextor](http://twitter.com/search?q=Bextor) | N/A |
+| 10 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 11 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 12 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 13 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 14 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 15 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
+| 16 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 17 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
+| 18 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 19 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 20 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
+| 21 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 22 | [Cash](http://twitter.com/search?q=Cash) | N/A |
 | 23 | [Charlie Puth](http://twitter.com/search?q=Charlie+Puth) | N/A |
-| 24 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 25 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
-| 26 | [Corona Capital Guadalajara](http://twitter.com/search?q=Corona+Capital+Guadalajara) | N/A |
-| 27 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 28 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 29 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
-| 30 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 31 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 32 | [SE LOGRÓ](http://twitter.com/search?q=SE+LOGR%c3%93) | N/A |
-| 33 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 34 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 35 | [Calderón y García Luna](http://twitter.com/search?q=Calder%c3%b3n+y+Garc%c3%ada+Luna) | N/A |
-| 36 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 37 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 38 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 39 | [Fernando Marcos](http://twitter.com/search?q=Fernando+Marcos) | N/A |
-| 40 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 41 | [Orly](http://twitter.com/search?q=Orly) | N/A |
-| 42 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
-| 43 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
-| 44 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 45 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
-| 46 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 47 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 48 | [Balam](http://twitter.com/search?q=Balam) | N/A |
+| 24 | [Pixies](http://twitter.com/search?q=Pixies) | N/A |
+| 25 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 26 | [IDLES](http://twitter.com/search?q=IDLES) | N/A |
+| 27 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
+| 28 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 29 | [Bloc Party](http://twitter.com/search?q=Bloc+Party) | N/A |
+| 30 | [CC GDL](http://twitter.com/search?q=CC+GDL) | N/A |
+| 31 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 32 | [Bextor](http://twitter.com/search?q=Bextor) | N/A |
+| 33 | [My Morning Jacket](http://twitter.com/search?q=My+Morning+Jacket) | N/A |
+| 34 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 35 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 36 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
+| 37 | [Ney González](http://twitter.com/search?q=Ney+Gonz%c3%a1lez) | N/A |
+| 38 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
+| 39 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
+| 40 | [Memo Ochoa](http://twitter.com/search?q=Memo+Ochoa) | N/A |
+| 41 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 42 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 43 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 44 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 45 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 46 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 47 | [Beltrán Leyva](http://twitter.com/search?q=Beltr%c3%a1n+Leyva) | N/A |
+| 48 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
 
 
 

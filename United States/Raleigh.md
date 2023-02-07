@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-07 20:15:49 UTC`
+📆 Last Updated: `2023-02-07 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 2 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 3 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 2 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 6 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 7 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
 | 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 10 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 11 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 12 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
-| 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 14 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 15 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 16 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 17 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 18 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 20 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 21 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 24 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 25 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 26 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 28 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 30 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 31 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 33 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 34 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 35 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 36 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 37 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 38 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 39 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 40 | [Guidry](http://twitter.com/search?q=Guidry) | N/A |
-| 41 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 42 | [Family Matters](http://twitter.com/search?q=Family+Matters) | N/A |
+| 9 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 11 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 12 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 13 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 14 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [#PMSinAZ](http://twitter.com/search?q=%23PMSinAZ) | N/A |
+| 17 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 18 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 19 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
+| 20 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 22 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 23 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 24 | [Charles London](http://twitter.com/search?q=Charles+London) | N/A |
+| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 26 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 27 | [Deron](http://twitter.com/search?q=Deron) | N/A |
+| 28 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 29 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 30 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 31 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 32 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
+| 33 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 34 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 35 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 36 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 37 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 38 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 39 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 40 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 41 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 42 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
 | 43 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 44 | [Fund](http://twitter.com/search?q=Fund) | N/A |
-| 45 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 46 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 47 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
-| 48 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 45 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 46 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 47 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
+| 48 | [Kid Icarus](http://twitter.com/search?q=Kid+Icarus) | N/A |
 
 
 

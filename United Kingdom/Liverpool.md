@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-07 20:15:03 UTC`
+📆 Last Updated: `2023-02-07 21:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrexhamAFC](http://twitter.com/search?q=%23WrexhamAFC) | N/A |
-| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 3 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 4 | [#UTMP](http://twitter.com/search?q=%23UTMP) | N/A |
-| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 6 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
-| 7 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 8 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 9 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 10 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 11 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 12 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 13 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
-| 14 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 15 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 16 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 17 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
-| 18 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
-| 19 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 20 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 21 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 22 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 23 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
-| 24 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 25 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 26 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 27 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 28 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 29 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 30 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 31 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 32 | [Trevor Sinclair](http://twitter.com/search?q=Trevor+Sinclair) | N/A |
-| 33 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 34 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 35 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 36 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 39 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 40 | [Ange](http://twitter.com/search?q=Ange) | N/A |
-| 41 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
-| 42 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
-| 43 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 44 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 45 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 46 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
-| 47 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
-| 48 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 49 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 1 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
+| 2 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 3 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 4 | [#EmiratesFACup](http://twitter.com/search?q=%23EmiratesFACup) | N/A |
+| 5 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 6 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 7 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 8 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 9 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
+| 10 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 11 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 12 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 13 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
+| 16 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 17 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 18 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
+| 19 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 20 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 21 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 22 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 23 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 24 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 25 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 26 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
+| 29 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 32 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 33 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 34 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 35 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 36 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 37 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 38 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 39 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
+| 40 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 41 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 42 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 43 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 44 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 45 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
+| 46 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 47 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 48 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 49 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
 
 
 

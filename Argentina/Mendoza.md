@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-07 20:15:08 UTC`
+📆 Last Updated: `2023-02-07 21:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 3 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 4 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 5 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 6 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 7 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 8 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 9 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 10 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 11 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 12 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 13 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 14 | [Fecha 4](http://twitter.com/search?q=Fecha+4) | N/A |
-| 15 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 16 | [Wanda Nara](http://twitter.com/search?q=Wanda+Nara) | N/A |
-| 17 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 18 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 19 | [Rivadavia](http://twitter.com/search?q=Rivadavia) | N/A |
-| 20 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 21 | [#ParedesABoca](http://twitter.com/search?q=%23ParedesABoca) | N/A |
-| 22 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 23 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 24 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 25 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 26 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 28 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
-| 29 | [Éxito](http://twitter.com/search?q=%c3%89xito) | N/A |
-| 30 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 31 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
-| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 33 | [Montevideo](http://twitter.com/search?q=Montevideo) | N/A |
-| 34 | [Iván de Pineda](http://twitter.com/search?q=Iv%c3%a1n+de+Pineda) | N/A |
-| 35 | [Gigante de Arroyito](http://twitter.com/search?q=Gigante+de+Arroyito) | N/A |
-| 36 | [Centenario](http://twitter.com/search?q=Centenario) | N/A |
-| 37 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 38 | [Faurie](http://twitter.com/search?q=Faurie) | N/A |
-| 39 | [Único de La Plata](http://twitter.com/search?q=%c3%9anico+de+La+Plata) | N/A |
-| 40 | [Venganza](http://twitter.com/search?q=Venganza) | N/A |
-| 41 | [Malvinas Argentinas](http://twitter.com/search?q=Malvinas+Argentinas) | N/A |
-| 42 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
-| 43 | [Alejandro Domínguez](http://twitter.com/search?q=Alejandro+Dom%c3%adnguez) | N/A |
-| 44 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 45 | [Cilindro](http://twitter.com/search?q=Cilindro) | N/A |
-| 46 | [Egipto](http://twitter.com/search?q=Egipto) | N/A |
-| 47 | [Lucía Pérez](http://twitter.com/search?q=Luc%c3%ada+P%c3%a9rez) | N/A |
-| 48 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 49 | [Potenciar Trabajo](http://twitter.com/search?q=Potenciar+Trabajo) | N/A |
+| 2 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 3 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
+| 4 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 5 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 6 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 7 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 8 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 9 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 10 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 11 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 12 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 13 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 14 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 15 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 16 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 17 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 18 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 19 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 20 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 22 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 23 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 24 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 25 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 26 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 27 | [Rivadavia](http://twitter.com/search?q=Rivadavia) | N/A |
+| 28 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 29 | [Fecha 6](http://twitter.com/search?q=Fecha+6) | N/A |
+| 30 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 31 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
+| 32 | [Iván de Pineda](http://twitter.com/search?q=Iv%c3%a1n+de+Pineda) | N/A |
+| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 34 | [Éxito](http://twitter.com/search?q=%c3%89xito) | N/A |
+| 35 | [Malvinas Argentinas](http://twitter.com/search?q=Malvinas+Argentinas) | N/A |
+| 36 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
+| 37 | [Venganza](http://twitter.com/search?q=Venganza) | N/A |
+| 38 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
+| 39 | [#ParedesABoca](http://twitter.com/search?q=%23ParedesABoca) | N/A |
+| 40 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 41 | [Montevideo](http://twitter.com/search?q=Montevideo) | N/A |
+| 42 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 43 | [Centenario](http://twitter.com/search?q=Centenario) | N/A |
+| 44 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 45 | [Faurie](http://twitter.com/search?q=Faurie) | N/A |
+| 46 | [Único de La Plata](http://twitter.com/search?q=%c3%9anico+de+La+Plata) | N/A |
+| 47 | [Pasarella](http://twitter.com/search?q=Pasarella) | N/A |
+| 48 | [Cilindro](http://twitter.com/search?q=Cilindro) | N/A |
+| 49 | [Gigante de Arroyito](http://twitter.com/search?q=Gigante+de+Arroyito) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-07 20:15:23 UTC`
+📆 Last Updated: `2023-02-07 21:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,31 +31,31 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 14 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
 | 15 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
 | 16 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 17 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 18 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 19 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 20 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 17 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 18 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 19 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 20 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
 | 21 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 22 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 23 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 24 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 25 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 26 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 27 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 28 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
-| 29 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
-| 30 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 31 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 32 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 33 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 35 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 36 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 37 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 22 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 23 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 24 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 25 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 26 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 27 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
+| 28 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
+| 29 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 30 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 31 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 33 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 34 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 35 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
+| 36 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 37 | [Homa](http://twitter.com/search?q=Homa) | N/A |
 | 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 39 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
-| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 41 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 40 | [Banser](http://twitter.com/search?q=Banser) | N/A |
+| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 42 | [Friendly](http://twitter.com/search?q=Friendly) | N/A |
 | 43 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
 | 44 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-07 20:15:57 UTC`
+📆 Last Updated: `2023-02-07 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Qatar
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#زلزال_سوريا_تركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 3 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 4 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 5 | [محمد بن غانم الغانم البحريه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
-| 6 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 7 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 8 | [الدفعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 9 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 10 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 11 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
-| 12 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
-| 13 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 14 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 15 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 16 | [#كاس_قطر_2023](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d9%82%d8%b7%d8%b1_2023) | N/A |
-| 17 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
-| 18 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 19 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 20 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
-| 21 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 22 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 23 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 24 | [اسطنبول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84) | N/A |
-| 25 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 26 | [أيمن حسين](http://twitter.com/search?q=%d8%a3%d9%8a%d9%85%d9%86+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 27 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 28 | [وزير التعاون التنموي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a) | N/A |
-| 29 | [الداخل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 30 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 31 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 32 | [وزير المواصلات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a7%d8%aa) | N/A |
+| 1 | [#الهلال_فلامينغو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%84%d8%a7%d9%85%d9%8a%d9%86%d8%ba%d9%88) | N/A |
+| 2 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 3 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
+| 4 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 5 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 7 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 8 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | #كاس_العالم_للانديه is a hashtag used on social media to promote the FIFA Club World Cup, an international association football tournament for clubs. In English, it translates to "World Cup for Clubs". |
+| 9 | [محمد بن غانم الغانم البحريه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
+| 10 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 11 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 12 | [الدفعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 13 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 14 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 15 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 16 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
+| 17 | [#كاس_قطر_٢٠٢٣](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d9%82%d8%b7%d8%b1_%d9%a2%d9%a0%d9%a2%d9%a3) | N/A |
+| 18 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 19 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 20 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 21 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 22 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 23 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 24 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 25 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 26 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 27 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 28 | [أيمن حسين](http://twitter.com/search?q=%d8%a3%d9%8a%d9%85%d9%86+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 29 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 30 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 31 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 32 | [وزير التعاون التنموي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a) | N/A |
 | 33 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 34 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 36 | [الطواري التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 37 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 38 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 39 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 40 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 41 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 42 | [الجهات المعنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a%d9%87) | N/A |
-| 43 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 44 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 45 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 46 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 47 | [الجسر الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 48 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 49 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 50 | [دوله قطر](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
+| 34 | [الداخل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 35 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 36 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 37 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 38 | [وزير المواصلات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a7%d8%aa) | N/A |
+| 39 | [الطواري التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 40 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 41 | [اسطنبول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84) | N/A |
+| 42 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 43 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 45 | [الجهات المعنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 47 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 48 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 49 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 50 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
 
 
 

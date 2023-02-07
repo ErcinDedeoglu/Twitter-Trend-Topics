@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-07 20:15:14 UTC`
+📆 Last Updated: `2023-02-07 21:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
-| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 4 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 5 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 6 | [#Hartig](http://twitter.com/search?q=%23Hartig) | N/A |
-| 7 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 8 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 9 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
-| 10 | [#SkiWM](http://twitter.com/search?q=%23SkiWM) | N/A |
-| 11 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 12 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
-| 13 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 14 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
-| 15 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 16 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 17 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 18 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 19 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 20 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 22 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 23 | [Unfassbar](http://twitter.com/search?q=Unfassbar) | N/A |
-| 24 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
-| 25 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 26 | [Depperten](http://twitter.com/search?q=Depperten) | N/A |
-| 27 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
-| 28 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
-| 29 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
-| 30 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 31 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 32 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 33 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 34 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 35 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 36 | [Gelände](http://twitter.com/search?q=Gel%c3%a4nde) | N/A |
-| 37 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 38 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 39 | [Mitgefühl](http://twitter.com/search?q=Mitgef%c3%bchl) | N/A |
-| 40 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 41 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 42 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 43 | [Lauf](http://twitter.com/search?q=Lauf) | N/A |
-| 44 | [Nudeln](http://twitter.com/search?q=Nudeln) | N/A |
-| 45 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 46 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 47 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 48 | [Matura](http://twitter.com/search?q=Matura) | N/A |
-| 49 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 50 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
+| 2 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 6 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 7 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 8 | [#Hartig](http://twitter.com/search?q=%23Hartig) | N/A |
+| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 10 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 11 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
+| 12 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 13 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Frauenpolitik](http://twitter.com/search?q=Frauenpolitik) | N/A |
+| 16 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 17 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 18 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 19 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 20 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
+| 21 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
+| 22 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
+| 23 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
+| 24 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 25 | [Helfer](http://twitter.com/search?q=Helfer) | N/A |
+| 26 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 27 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 28 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 29 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 30 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
+| 31 | [Depperten](http://twitter.com/search?q=Depperten) | N/A |
+| 32 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 33 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 34 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 36 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
+| 37 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
+| 38 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 39 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
+| 40 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 41 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
+| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 43 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
+| 44 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 45 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 46 | [Gelände](http://twitter.com/search?q=Gel%c3%a4nde) | N/A |
+| 47 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 48 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 49 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 50 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
 
 
 

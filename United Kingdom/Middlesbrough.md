@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-02-07 20:15:04 UTC`
+📆 Last Updated: `2023-02-07 21:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrexhamAFC](http://twitter.com/search?q=%23WrexhamAFC) | N/A |
-| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 3 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 4 | [#UTMP](http://twitter.com/search?q=%23UTMP) | N/A |
-| 5 | [BP and Shell](http://twitter.com/search?q=BP+and+Shell) | N/A |
-| 6 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 7 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
-| 8 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 9 | [DCMS](http://twitter.com/search?q=DCMS) | N/A |
-| 10 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 11 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 12 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 13 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 14 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 15 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 16 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 17 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
-| 18 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 19 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 21 | [Diolch Joe](http://twitter.com/search?q=Diolch+Joe) | N/A |
-| 22 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
-| 23 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 24 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 25 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 26 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 27 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
-| 28 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 30 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 31 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 32 | [Scraping](http://twitter.com/search?q=Scraping) | N/A |
-| 33 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 34 | [Catchphrase](http://twitter.com/search?q=Catchphrase) | N/A |
-| 35 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 36 | [Trevor Sinclair](http://twitter.com/search?q=Trevor+Sinclair) | N/A |
-| 37 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 38 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 39 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 40 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 42 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 43 | [Ange](http://twitter.com/search?q=Ange) | N/A |
-| 44 | [Barrel](http://twitter.com/search?q=Barrel) | N/A |
-| 45 | [Laura Coombs](http://twitter.com/search?q=Laura+Coombs) | N/A |
-| 46 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 47 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 48 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 1 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 2 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 3 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
+| 8 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 9 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 10 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 11 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
+| 12 | [#ToryShambles](http://twitter.com/search?q=%23ToryShambles) | N/A |
+| 13 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 14 | [#ToriesOut215](http://twitter.com/search?q=%23ToriesOut215) | N/A |
+| 15 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 16 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 17 | [Innovation and Technology](http://twitter.com/search?q=Innovation+and+Technology) | N/A |
+| 18 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 19 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 20 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 21 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 22 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 23 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 24 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 25 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 26 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
+| 29 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 32 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 33 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 34 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 35 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 36 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 37 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 38 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 39 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 40 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
+| 41 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 42 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 43 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 44 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 45 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 46 | [Woodley](http://twitter.com/search?q=Woodley) | N/A |
+| 47 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
+| 48 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 49 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
 
 
 
