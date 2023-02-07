@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-07 02:35:28 UTC`
+📆 Last Updated: `2023-02-07 03:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,11 +31,11 @@ This is top 50 for Algeria
 | 14 | [فريق انقاذ](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%86%d9%82%d8%a7%d8%b0) | N/A |
 | 15 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 16 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 18 | [الرقابه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 19 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 20 | [الاماكن الحضريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a%d9%87) | N/A |
-| 21 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 17 | [الرقابه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 18 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 19 | [الاماكن الحضريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a%d9%87) | N/A |
+| 20 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 21 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 22 | [الشعب التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
 | 23 | [سلم اللهم](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
 | 24 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |

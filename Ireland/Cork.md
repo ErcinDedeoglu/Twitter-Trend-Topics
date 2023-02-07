@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-07 02:34:52 UTC`
+📆 Last Updated: `2023-02-07 03:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 12 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 14 | [Philip Dwyer](http://twitter.com/search?q=Philip+Dwyer) | N/A |
-| 15 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 16 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 17 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 18 | [minister for education](http://twitter.com/search?q=minister+for+education) | N/A |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 14 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 15 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 17 | [minister for education](http://twitter.com/search?q=minister+for+education) | N/A |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 20 | [Philip Dwyer](http://twitter.com/search?q=Philip+Dwyer) | N/A |
 | 21 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
 | 22 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 24 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 25 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 26 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 27 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 28 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 29 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 30 | [St. Brigid](http://twitter.com/search?q=St.+Brigid) | N/A |
-| 31 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 32 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 33 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 34 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 23 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 24 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 25 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 28 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 29 | [St. Brigid](http://twitter.com/search?q=St.+Brigid) | N/A |
+| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 31 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 32 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 33 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 35 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
 | 36 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
 | 37 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
+| 38 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 39 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 40 | [saint brigid](http://twitter.com/search?q=saint+brigid) | N/A |
 | 41 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 42 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 43 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 44 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 45 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 47 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 48 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 49 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 42 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 43 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 44 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 46 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 47 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 48 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 49 | [Meath](http://twitter.com/search?q=Meath) | N/A |
 
 
 

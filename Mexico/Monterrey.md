@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-07 02:34:45 UTC`
+📆 Last Updated: `2023-02-07 03:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 2 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 3 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
-| 4 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 1 | [#EllasEnViX](http://twitter.com/search?q=%23EllasEnViX) | N/A |
+| 2 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 3 | [#EstrenoAllStar](http://twitter.com/search?q=%23EstrenoAllStar) | N/A |
+| 4 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
 | 5 | [THE RETURN OF SNIPER](http://twitter.com/search?q=THE+RETURN+OF+SNIPER) | N/A |
-| 6 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 7 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 10 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 11 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
-| 12 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
-| 13 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
-| 14 | [#TeamWithLuv](http://twitter.com/search?q=%23TeamWithLuv) | N/A |
-| 15 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
-| 16 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 17 | [#EllasEnViX](http://twitter.com/search?q=%23EllasEnViX) | N/A |
-| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 19 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 20 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 21 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
-| 22 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
-| 23 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 24 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 25 | [Simi](http://twitter.com/search?q=Simi) | N/A |
-| 26 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 27 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
-| 28 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 29 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 30 | [Riva Palacio](http://twitter.com/search?q=Riva+Palacio) | N/A |
-| 31 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
+| 6 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 7 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 8 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 9 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 10 | [THE BLACK PANTHER RETURNS](http://twitter.com/search?q=THE+BLACK+PANTHER+RETURNS) | N/A |
+| 11 | [LA MAGIA ESTÁ DE VUELTA](http://twitter.com/search?q=LA+MAGIA+EST%c3%81+DE+VUELTA) | N/A |
+| 12 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 13 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 14 | [#MXSTREAMINGFIESTA](http://twitter.com/search?q=%23MXSTREAMINGFIESTA) | N/A |
+| 15 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 16 | [COBRE IS COMING](http://twitter.com/search?q=COBRE+IS+COMING) | N/A |
+| 17 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
+| 18 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 19 | [LAS QUESADILLAS CON QUESO](http://twitter.com/search?q=LAS+QUESADILLAS+CON+QUESO) | N/A |
+| 20 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 21 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 22 | [Rafael Caro Quintero](http://twitter.com/search?q=Rafael+Caro+Quintero) | N/A |
+| 23 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 24 | [Exatlon](http://twitter.com/search?q=Exatlon) | N/A |
+| 25 | [Héctor Villarreal](http://twitter.com/search?q=H%c3%a9ctor+Villarreal) | N/A |
+| 26 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 28 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 29 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 30 | [Topos](http://twitter.com/search?q=Topos) | N/A |
+| 31 | [Lomas de Chapultepec](http://twitter.com/search?q=Lomas+de+Chapultepec) | N/A |
 | 32 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 33 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 34 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 35 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
-| 36 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 37 | [Don Goyo](http://twitter.com/search?q=Don+Goyo) | N/A |
-| 38 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
-| 39 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
-| 40 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 41 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 42 | [Poder Ejecutivo](http://twitter.com/search?q=Poder+Ejecutivo) | N/A |
-| 43 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 44 | [#EstrenoAllStar](http://twitter.com/search?q=%23EstrenoAllStar) | N/A |
-| 45 | [#OposicionMiserableYCorrupta](http://twitter.com/search?q=%23OposicionMiserableYCorrupta) | N/A |
-| 46 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 33 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 34 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 35 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 36 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
+| 37 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 38 | [Warrior](http://twitter.com/search?q=Warrior) | N/A |
+| 39 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 40 | [Simi](http://twitter.com/search?q=Simi) | N/A |
+| 41 | [Riva Palacio](http://twitter.com/search?q=Riva+Palacio) | N/A |
+| 42 | [Anaya](http://twitter.com/search?q=Anaya) | N/A |
+| 43 | [Pablo Montero](http://twitter.com/search?q=Pablo+Montero) | N/A |
+| 44 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 45 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 46 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
 
 
 

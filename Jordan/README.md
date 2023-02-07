@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-02-07 02:35:32 UTC`
+📆 Last Updated: `2023-02-07 03:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Jordan
 | 9 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 10 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
 | 11 | [هون برد الشتاء](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%a8%d8%b1%d8%af+%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1) | N/A |
-| 12 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 13 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
-| 14 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 15 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 16 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 17 | [الظروف الجويه السايده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d8%af%d9%87) | N/A |
-| 18 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 19 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 20 | [موت الغفله](http://twitter.com/search?q=%d9%85%d9%88%d8%aa+%d8%a7%d9%84%d8%ba%d9%81%d9%84%d9%87) | N/A |
-| 21 | [سلم اللهم](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 22 | [#المنخفض_الجوي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6_%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 23 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 24 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 25 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 26 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 27 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 28 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 29 | [لاسر الضحايا](http://twitter.com/search?q=%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7) | N/A |
-| 30 | [الامتحان التنافسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3%d9%8a) | N/A |
-| 31 | [خفي الالطاف](http://twitter.com/search?q=%d8%ae%d9%81%d9%8a+%d8%a7%d9%84%d8%a7%d9%84%d8%b7%d8%a7%d9%81) | N/A |
-| 32 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 33 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
-| 34 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 35 | [نومي ثقيل](http://twitter.com/search?q=%d9%86%d9%88%d9%85%d9%8a+%d8%ab%d9%82%d9%8a%d9%84) | N/A |
-| 36 | [البرد القارس](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d8%b3) | N/A |
-| 37 | [البورد الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 38 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 39 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 40 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 41 | [إشبيلية](http://twitter.com/search?q=%d8%a5%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 42 | [مرصد الزلازل الاردني](http://twitter.com/search?q=%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 43 | [بلاد الشام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d8%a7%d9%85) | N/A |
-| 44 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 45 | [برويز مشرف](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d8%b2+%d9%85%d8%b4%d8%b1%d9%81) | N/A |
+| 12 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 13 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 14 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 15 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 16 | [الظروف الجويه السايده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%8a%d8%af%d9%87) | N/A |
+| 17 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 18 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 19 | [موت الغفله](http://twitter.com/search?q=%d9%85%d9%88%d8%aa+%d8%a7%d9%84%d8%ba%d9%81%d9%84%d9%87) | N/A |
+| 20 | [سلم اللهم](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 21 | [#المنخفض_الجوي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6_%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 22 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 23 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 24 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 25 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [لاسر الضحايا](http://twitter.com/search?q=%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7) | N/A |
+| 27 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 28 | [الامتحان التنافسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3%d9%8a) | N/A |
+| 29 | [خفي الالطاف](http://twitter.com/search?q=%d8%ae%d9%81%d9%8a+%d8%a7%d9%84%d8%a7%d9%84%d8%b7%d8%a7%d9%81) | N/A |
+| 30 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 31 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
+| 32 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 33 | [نومي ثقيل](http://twitter.com/search?q=%d9%86%d9%88%d9%85%d9%8a+%d8%ab%d9%82%d9%8a%d9%84) | N/A |
+| 34 | [البرد القارس](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d8%b3) | N/A |
+| 35 | [البورد الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 36 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 37 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 38 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 39 | [إشبيلية](http://twitter.com/search?q=%d8%a5%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 40 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 41 | [مرصد الزلازل الاردني](http://twitter.com/search?q=%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 42 | [بلاد الشام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d8%a7%d9%85) | N/A |
+| 43 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 44 | [برويز مشرف](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d8%b2+%d9%85%d8%b4%d8%b1%d9%81) | N/A |
+| 45 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 46 | [البحر الميت](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d9%85%d9%8a%d8%aa) | N/A |
 | 47 | [الكوارث التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
 | 48 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
-| 49 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 50 | [صوت الهوا](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7) | N/A |
+| 49 | [صوت الهوا](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7) | N/A |
+| 50 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 
 
 

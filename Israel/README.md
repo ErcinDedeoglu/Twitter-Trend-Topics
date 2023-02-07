@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-07 02:35:31 UTC`
+📆 Last Updated: `2023-02-07 03:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,16 +45,16 @@ This is top 50 for Israel
 | 28 | [סמל שלטון](http://twitter.com/search?q=%d7%a1%d7%9e%d7%9c+%d7%a9%d7%9c%d7%98%d7%95%d7%9f) | N/A |
 | 29 | [#اريحا](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%8a%d8%ad%d8%a7) | N/A |
 | 30 | [חיי אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%90%d7%93%d7%9d) | N/A |
-| 31 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 32 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
-| 33 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
-| 34 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
-| 35 | [פחד אלוהים](http://twitter.com/search?q=%d7%a4%d7%97%d7%93+%d7%90%d7%9c%d7%95%d7%94%d7%99%d7%9d) | N/A |
-| 36 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 37 | [האדמה היא](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%99%d7%90) | N/A |
-| 38 | [האדמה הלילה](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%9c%d7%99%d7%9c%d7%94) | N/A |
-| 39 | [איזה אסון](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%90%d7%a1%d7%95%d7%9f) | N/A |
-| 40 | [דרום תל אביב](http://twitter.com/search?q=%d7%93%d7%a8%d7%95%d7%9d+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 31 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
+| 32 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
+| 33 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
+| 34 | [פחד אלוהים](http://twitter.com/search?q=%d7%a4%d7%97%d7%93+%d7%90%d7%9c%d7%95%d7%94%d7%99%d7%9d) | N/A |
+| 35 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 36 | [האדמה היא](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%99%d7%90) | N/A |
+| 37 | [האדמה הלילה](http://twitter.com/search?q=%d7%94%d7%90%d7%93%d7%9e%d7%94+%d7%94%d7%9c%d7%99%d7%9c%d7%94) | N/A |
+| 38 | [איזה אסון](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%90%d7%a1%d7%95%d7%9f) | N/A |
+| 39 | [דרום תל אביב](http://twitter.com/search?q=%d7%93%d7%a8%d7%95%d7%9d+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 40 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
 | 41 | [צבי סוכות](http://twitter.com/search?q=%d7%a6%d7%91%d7%99+%d7%a1%d7%95%d7%9b%d7%95%d7%aa) | N/A |
 | 42 | [אדמה״](http://twitter.com/search?q=%d7%90%d7%93%d7%9e%d7%94%d7%b4) | N/A |
 | 43 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |

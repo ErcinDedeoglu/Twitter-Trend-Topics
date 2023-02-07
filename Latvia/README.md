@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-07 02:35:32 UTC`
+📆 Last Updated: `2023-02-07 03:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Latvia
 | 7 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 8 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 9 | [#BETTING](http://twitter.com/search?q=%23BETTING) | N/A |
-| 10 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 10 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
 | 11 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 12 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 13 | [Putina](http://twitter.com/search?q=Putina) | N/A |

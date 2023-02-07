@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-07 02:34:52 UTC`
+📆 Last Updated: `2023-02-07 03:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Austria](</Austria>)
 | 16 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
 | 17 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
 | 18 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 19 | [Matura](http://twitter.com/search?q=Matura) | N/A |
+| 19 | [matura](http://twitter.com/search?q=matura) | N/A |
 | 20 | [FPÖ Wähler](http://twitter.com/search?q=FP%c3%96+W%c3%a4hler) | N/A |
 | 21 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
 | 22 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [Austria](</Austria>)
 | 36 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
 | 37 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 38 | [Freut](http://twitter.com/search?q=Freut) | N/A |
-| 39 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 40 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
-| 41 | [rabatt](http://twitter.com/search?q=rabatt) | N/A |
-| 42 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 43 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 44 | [Lied](http://twitter.com/search?q=Lied) | N/A |
-| 45 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
-| 46 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 47 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 48 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
-| 49 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
-| 50 | [kasperl](http://twitter.com/search?q=kasperl) | N/A |
+| 39 | [klaus](http://twitter.com/search?q=klaus) | N/A |
+| 40 | [rabatt](http://twitter.com/search?q=rabatt) | N/A |
+| 41 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 42 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 43 | [Lied](http://twitter.com/search?q=Lied) | N/A |
+| 44 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 45 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 46 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 47 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 48 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
+| 49 | [kasperl](http://twitter.com/search?q=kasperl) | N/A |
+| 50 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
 
 
 

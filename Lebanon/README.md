@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-07 02:35:32 UTC`
+📆 Last Updated: `2023-02-07 03:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,9 +27,9 @@ This is top 50 for Lebanon
 | 10 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
 | 11 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
 | 12 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 13 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 14 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 15 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 13 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 14 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 15 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 16 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 17 | [#صون_الهويه](http://twitter.com/search?q=%23%d8%b5%d9%88%d9%86_%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87) | N/A |
 | 18 | [#بدنا_الحقيقه](http://twitter.com/search?q=%23%d8%a8%d8%af%d9%86%d8%a7_%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%87) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Lebanon
 | 47 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 48 | [علي الظالمين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b8%d8%a7%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 49 | [صوت الهوا](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7) | N/A |
-| 50 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 50 | [امريكا الشيطان الاكبر](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7+%d8%a7%d9%84%d8%b4%d9%8a%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
 
 
 

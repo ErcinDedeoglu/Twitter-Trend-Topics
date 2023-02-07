@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-07 02:35:34 UTC`
+📆 Last Updated: `2023-02-07 03:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,24 +19,24 @@ This is top 50 for Qatar
 | 2 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 3 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
 | 4 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 5 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 6 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 5 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 6 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 | 7 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
 | 8 | [كارلوس كيروش](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3+%d9%83%d9%8a%d8%b1%d9%88%d8%b4) | N/A |
 | 9 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 10 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 11 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 12 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 13 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
-| 14 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 15 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 16 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 17 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 18 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 19 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 20 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 21 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 22 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 11 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 12 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
+| 13 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 14 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 15 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 16 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 17 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 18 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 19 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 20 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 21 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 22 | [فجر اليوم](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 23 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
 | 24 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
 | 25 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |

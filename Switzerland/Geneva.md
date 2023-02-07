@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-07 02:34:58 UTC`
+📆 Last Updated: `2023-02-07 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 4 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 5 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 6 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
 | 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 8 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
 | 9 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
@@ -37,31 +37,31 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
 | 21 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
 | 22 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 23 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 25 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 26 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 27 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
-| 28 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 29 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 30 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 32 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 33 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 34 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 36 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 37 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 38 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 39 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 40 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 41 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 42 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 43 | [Laden](http://twitter.com/search?q=Laden) | N/A |
-| 44 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
-| 45 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 46 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 47 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 23 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 24 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 26 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 27 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 28 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 29 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
+| 30 | [konsens](http://twitter.com/search?q=konsens) | N/A |
+| 31 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 32 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 35 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 36 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 37 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 38 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 39 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 40 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 41 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 42 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 45 | [Laden](http://twitter.com/search?q=Laden) | N/A |
+| 46 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
+| 47 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
 
 
 

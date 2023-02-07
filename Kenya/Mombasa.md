@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-02-07 02:35:10 UTC`
+📆 Last Updated: `2023-02-07 03:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Kenya](</Kenya>)
 | 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 2 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
 | 3 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
-| 4 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 5 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
-| 6 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [ecde](http://twitter.com/search?q=ecde) | N/A |
-| 9 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 5 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 6 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
+| 7 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
 | 10 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 11 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 12 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
@@ -34,36 +34,36 @@ This is top 50 for [Kenya](</Kenya>)
 | 17 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 18 | [let kra](http://twitter.com/search?q=let+kra) | N/A |
 | 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 20 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
+| 20 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 21 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 22 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
-| 23 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 24 | [Tanuki](http://twitter.com/search?q=Tanuki) | N/A |
-| 25 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 26 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 27 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 28 | [Youth Resistance Movement MDD](http://twitter.com/search?q=Youth+Resistance+Movement+MDD) | N/A |
-| 29 | [Female Genital Mutilation](http://twitter.com/search?q=Female+Genital+Mutilation) | N/A |
-| 30 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 31 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 32 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 33 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 22 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
+| 23 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 25 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
+| 26 | [tanuki](http://twitter.com/search?q=tanuki) | N/A |
+| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 28 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 29 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 30 | [Youth Resistance Movement MDD](http://twitter.com/search?q=Youth+Resistance+Movement+MDD) | N/A |
+| 31 | [Female Genital Mutilation](http://twitter.com/search?q=Female+Genital+Mutilation) | N/A |
+| 32 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 33 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 34 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
 | 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 36 | [Google Maps](http://twitter.com/search?q=Google+Maps) | N/A |
-| 37 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 38 | [edith cowan university](http://twitter.com/search?q=edith+cowan+university) | N/A |
-| 39 | [NSSF](http://twitter.com/search?q=NSSF) | N/A |
-| 40 | [Somaliland](http://twitter.com/search?q=Somaliland) | N/A |
-| 41 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 37 | [edith cowan university](http://twitter.com/search?q=edith+cowan+university) | N/A |
+| 38 | [nssf](http://twitter.com/search?q=nssf) | N/A |
+| 39 | [Somaliland](http://twitter.com/search?q=Somaliland) | N/A |
+| 40 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 41 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
 | 42 | [mama ngina](http://twitter.com/search?q=mama+ngina) | N/A |
 | 43 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 44 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 45 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 45 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 46 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 47 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 48 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 49 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 47 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 48 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 49 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
 
 
 

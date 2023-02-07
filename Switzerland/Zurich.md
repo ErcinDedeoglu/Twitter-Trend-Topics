@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-07 02:34:58 UTC`
+📆 Last Updated: `2023-02-07 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 4 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 7 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 8 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 9 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 10 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 5 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 6 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 7 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 8 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 9 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 10 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
 | 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 12 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 13 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
 | 22 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
 | 23 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 24 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 26 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 27 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 28 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
-| 29 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 30 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 31 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 33 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 34 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 35 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 36 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 37 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 38 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 39 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 40 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 41 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 43 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 44 | [Laden](http://twitter.com/search?q=Laden) | N/A |
-| 45 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
-| 46 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 47 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 48 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 49 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 50 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 25 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 26 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 27 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 28 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 29 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 30 | [Rezension](http://twitter.com/search?q=Rezension) | N/A |
+| 31 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 32 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 33 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 36 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 37 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 38 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 39 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 40 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 42 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 43 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
+| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 45 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 46 | [Laden](http://twitter.com/search?q=Laden) | N/A |
+| 47 | [Ballons](http://twitter.com/search?q=Ballons) | N/A |
+| 48 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 49 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 50 | [May God](http://twitter.com/search?q=May+God) | N/A |
 
 
 

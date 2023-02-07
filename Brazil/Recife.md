@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-07 02:34:49 UTC`
+📆 Last Updated: `2023-02-07 03:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 3 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 5 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 6 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 7 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 5 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 6 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 7 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 8 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 9 | [Mosca Morta](http://twitter.com/search?q=Mosca+Morta) | N/A |
-| 10 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
-| 11 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
-| 12 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
-| 13 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 14 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 15 | [fear of the dark](http://twitter.com/search?q=fear+of+the+dark) | N/A |
-| 16 | [Zellsis](http://twitter.com/search?q=Zellsis) | N/A |
-| 17 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
-| 18 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
-| 19 | [Fora Prior](http://twitter.com/search?q=Fora+Prior) | N/A |
-| 20 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 21 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 22 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
-| 23 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 24 | [#PolianaMoça](http://twitter.com/search?q=%23PolianaMo%c3%a7a) | N/A |
-| 25 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
-| 26 | [BH de 2019](http://twitter.com/search?q=BH+de+2019) | N/A |
-| 27 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
-| 28 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 29 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 30 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
-| 31 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
-| 32 | [Topete](http://twitter.com/search?q=Topete) | N/A |
-| 33 | [topetudo](http://twitter.com/search?q=topetudo) | N/A |
-| 34 | [Esse Ari](http://twitter.com/search?q=Esse+Ari) | N/A |
-| 35 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
-| 36 | [Larissinha](http://twitter.com/search?q=Larissinha) | N/A |
-| 37 | [Escrotos](http://twitter.com/search?q=Escrotos) | N/A |
-| 38 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
-| 39 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 40 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 41 | [tasha](http://twitter.com/search?q=tasha) | N/A |
-| 42 | [Bad Liar](http://twitter.com/search?q=Bad+Liar) | N/A |
-| 43 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 44 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 45 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 46 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 47 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 48 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 49 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
-| 50 | [Fita](http://twitter.com/search?q=Fita) | N/A |
+| 9 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 10 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 11 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 12 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 13 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 14 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 15 | [Sonsa](http://twitter.com/search?q=Sonsa) | N/A |
+| 16 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 17 | [Fora Prior](http://twitter.com/search?q=Fora+Prior) | N/A |
+| 18 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 19 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 20 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
+| 21 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 22 | [fear of the dark](http://twitter.com/search?q=fear+of+the+dark) | N/A |
+| 23 | [Zellsis](http://twitter.com/search?q=Zellsis) | N/A |
+| 24 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
+| 25 | [O SEU MELHOR](http://twitter.com/search?q=O+SEU+MELHOR) | N/A |
+| 26 | [#SegundasDeChicago](http://twitter.com/search?q=%23SegundasDeChicago) | N/A |
+| 27 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
+| 28 | [BH de 2019](http://twitter.com/search?q=BH+de+2019) | N/A |
+| 29 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
+| 30 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 31 | [OUÇA BANDIDA](http://twitter.com/search?q=OU%c3%87A+BANDIDA) | N/A |
+| 32 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 33 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 34 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
+| 35 | [Ricardo Alface](http://twitter.com/search?q=Ricardo+Alface) | N/A |
+| 36 | [Darwin Awards](http://twitter.com/search?q=Darwin+Awards) | N/A |
+| 37 | [Topete](http://twitter.com/search?q=Topete) | N/A |
+| 38 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
+| 39 | [Larrisa](http://twitter.com/search?q=Larrisa) | N/A |
+| 40 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 41 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 42 | [topetudo](http://twitter.com/search?q=topetudo) | N/A |
+| 43 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
+| 44 | [Larissinha](http://twitter.com/search?q=Larissinha) | N/A |
+| 45 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 46 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 47 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 48 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 49 | [Bad Liar](http://twitter.com/search?q=Bad+Liar) | N/A |
+| 50 | [Escrotos](http://twitter.com/search?q=Escrotos) | N/A |
 
 
 
