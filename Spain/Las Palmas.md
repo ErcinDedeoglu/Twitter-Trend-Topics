@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-08 10:15:50 UTC`
+📆 Last Updated: `2023-02-08 11:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,43 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
-| 2 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 3 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 5 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 6 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 7 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
-| 8 | [Froilán](http://twitter.com/search?q=Froil%c3%a1n) | Froilán is a Spanish name derived from the Germanic name Fridulph, which means "peaceful wolf". It is also a common given name in Spanish-speaking countries. |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 10 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 11 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
-| 12 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 13 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 14 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 15 | [Ence](http://twitter.com/search?q=Ence) | N/A |
-| 16 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 17 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 18 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 19 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 20 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 21 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 22 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Siro](http://twitter.com/search?q=Siro) | N/A |
-| 25 | [Villaverde Bajo](http://twitter.com/search?q=Villaverde+Bajo) | N/A |
-| 26 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 27 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 28 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 29 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 30 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 31 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 32 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 35 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
-| 36 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 37 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 38 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
-| 39 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 40 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 41 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 42 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 43 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 44 | [Maguiro](http://twitter.com/search?q=Maguiro) | N/A |
-| 45 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 46 | [Meta Knight](http://twitter.com/search?q=Meta+Knight) | N/A |
-| 47 | [Evole](http://twitter.com/search?q=Evole) | N/A |
-| 48 | [Fofó](http://twitter.com/search?q=Fof%c3%b3) | N/A |
+| 1 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 2 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
+| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 4 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 5 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 6 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 7 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 8 | [Llop](http://twitter.com/search?q=Llop) | N/A |
+| 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 10 | [Fofó](http://twitter.com/search?q=Fof%c3%b3) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 13 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 14 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 15 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 17 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 18 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 19 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 20 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 21 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 22 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
+| 23 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 24 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 25 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 26 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
+| 27 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
+| 28 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
+| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 30 | [Miare](http://twitter.com/search?q=Miare) | N/A |
+| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 32 | [#APOYOROCIO8F](http://twitter.com/search?q=%23APOYOROCIO8F) | N/A |
+| 33 | [#YoMeRebelo8F](http://twitter.com/search?q=%23YoMeRebelo8F) | N/A |
+| 34 | [#elbuñuelnoserinde](http://twitter.com/search?q=%23elbu%c3%b1uelnoserinde) | N/A |
+| 35 | [#mascarillas](http://twitter.com/search?q=%23mascarillas) | N/A |
+| 36 | [#SanValentín](http://twitter.com/search?q=%23SanValent%c3%adn) | N/A |
+| 37 | [#LeySoloSiEsSi](http://twitter.com/search?q=%23LeySoloSiEsSi) | N/A |
 
 
 

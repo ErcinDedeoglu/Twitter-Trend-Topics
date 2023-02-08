@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-08 10:15:34 UTC`
+📆 Last Updated: `2023-02-08 11:15:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 2 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 4 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 5 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 7 | [#ReadForEmpathy](http://twitter.com/search?q=%23ReadForEmpathy) | N/A |
-| 8 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 9 | [#ASongOrMovieForAnythingLoud](http://twitter.com/search?q=%23ASongOrMovieForAnythingLoud) | N/A |
-| 10 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 11 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 12 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
-| 13 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 2 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 3 | [#30pLee](http://twitter.com/search?q=%2330pLee) | N/A |
+| 4 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 5 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 8 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 10 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
+| 11 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 12 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 14 | [Welby](http://twitter.com/search?q=Welby) | N/A |
-| 15 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 16 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
-| 17 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 18 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 19 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
-| 20 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 21 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
-| 22 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 23 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 24 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 25 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 26 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 29 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 30 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 31 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 32 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 33 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 34 | [Major](http://twitter.com/search?q=Major) | N/A |
-| 35 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 36 | [The Bible](http://twitter.com/search?q=The+Bible) | N/A |
-| 37 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 38 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 39 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 41 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 42 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 43 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 44 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
-| 45 | [#DELT](http://twitter.com/search?q=%23DELT) | N/A |
-| 46 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 47 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 48 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 15 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 16 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 17 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 18 | [David Goodwillie](http://twitter.com/search?q=David+Goodwillie) | N/A |
+| 19 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 20 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
+| 21 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 22 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 23 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 24 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 25 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 26 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 27 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
+| 28 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 29 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 30 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 31 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 32 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 35 | [The Bible](http://twitter.com/search?q=The+Bible) | N/A |
+| 36 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 37 | [Middle Eastern](http://twitter.com/search?q=Middle+Eastern) | N/A |
+| 38 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 39 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 40 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 41 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 42 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 43 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 44 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 45 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 46 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 47 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 48 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
 
 
 

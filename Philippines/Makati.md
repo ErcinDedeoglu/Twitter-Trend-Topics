@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-08 10:16:00 UTC`
+📆 Last Updated: `2023-02-08 11:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
-| 2 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
-| 3 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 8 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 9 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
-| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 12 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
-| 13 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
-| 14 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 15 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 16 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 17 | [VXONxVICTOR Fiyaah Shots](http://twitter.com/search?q=VXONxVICTOR+Fiyaah+Shots) | N/A |
-| 18 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 1 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
+| 2 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 3 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
+| 4 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
+| 5 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 6 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 7 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 8 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
+| 9 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
+| 10 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 11 | [TEENCLASH JOSHMANDY ON BRGY](http://twitter.com/search?q=TEENCLASH+JOSHMANDY+ON+BRGY) | N/A |
+| 12 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 13 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 15 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
+| 16 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 17 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 19 | [JANENELLA AngTunayNaBIDA](http://twitter.com/search?q=JANENELLA+AngTunayNaBIDA) | N/A |
-| 20 | [TEENCLASH JOSHMANDY ON BRGY](http://twitter.com/search?q=TEENCLASH+JOSHMANDY+ON+BRGY) | N/A |
-| 21 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
-| 22 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 23 | [ROYALTY SEATED](http://twitter.com/search?q=ROYALTY+SEATED) | N/A |
-| 24 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 25 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
-| 26 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 27 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 28 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
-| 29 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 30 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 31 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 32 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
-| 33 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 37 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 38 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 39 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
-| 40 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 41 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 42 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 43 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 44 | [MiSaMo](http://twitter.com/search?q=MiSaMo) | N/A |
-| 45 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
-| 46 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
-| 47 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 48 | [Joel Villanueva](http://twitter.com/search?q=Joel+Villanueva) | N/A |
-| 49 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 50 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 20 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 21 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 22 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 23 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
+| 24 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
+| 25 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 26 | [#TEUBUSKING](http://twitter.com/search?q=%23TEUBUSKING) | N/A |
+| 27 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
+| 28 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
+| 29 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 30 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
+| 31 | [#FELIPonTAG11AE](http://twitter.com/search?q=%23FELIPonTAG11AE) | N/A |
+| 32 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
+| 33 | [#OPPOReno8T](http://twitter.com/search?q=%23OPPOReno8T) | N/A |
+| 34 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 35 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 36 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
+| 37 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
+| 38 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 39 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 40 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 41 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
+| 42 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 43 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
+| 44 | [#OnlyREYSTERday](http://twitter.com/search?q=%23OnlyREYSTERday) | N/A |
 
 
 

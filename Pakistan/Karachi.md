@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-08 10:16:08 UTC`
+📆 Last Updated: `2023-02-08 11:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 2 | [#StayStrongJaveriaBhabhi](http://twitter.com/search?q=%23StayStrongJaveriaBhabhi) | N/A |
+| 2 | [#پاکستان_دشمن_فتنہ](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%af%d8%b4%d9%85%d9%86_%d9%81%d8%aa%d9%86%db%81) | N/A |
 | 3 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 4 | [#TowardsClimateResilientSindh](http://twitter.com/search?q=%23TowardsClimateResilientSindh) | N/A |
+| 4 | [#StayStrongJaveriaBhabhi](http://twitter.com/search?q=%23StayStrongJaveriaBhabhi) | N/A |
 | 5 | [#Zaman_Park](http://twitter.com/search?q=%23Zaman_Park) | N/A |
-| 6 | [Hassan Naqvi](http://twitter.com/search?q=Hassan+Naqvi) | N/A |
-| 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 8 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 9 | [SPHF](http://twitter.com/search?q=SPHF) | N/A |
-| 10 | [Knut Otsby](http://twitter.com/search?q=Knut+Otsby) | N/A |
-| 11 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 12 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 13 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 14 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 15 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 16 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 17 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 18 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
-| 19 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 20 | [Lakki Marwat](http://twitter.com/search?q=Lakki+Marwat) | N/A |
-| 21 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 22 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 23 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 25 | [Chairman PPP](http://twitter.com/search?q=Chairman+PPP) | N/A |
-| 26 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
-| 27 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 28 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 29 | [Sheikh](http://twitter.com/search?q=Sheikh) | N/A |
-| 30 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 31 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 33 | [Alkhidmat](http://twitter.com/search?q=Alkhidmat) | N/A |
-| 34 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 35 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
-| 36 | [MNAs](http://twitter.com/search?q=MNAs) | N/A |
-| 37 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 38 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
-| 39 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
-| 40 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 41 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 42 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
+| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 7 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 8 | [SPHF](http://twitter.com/search?q=SPHF) | N/A |
+| 9 | [C-130](http://twitter.com/search?q=C-130) | N/A |
+| 10 | [Hassan Naqvi](http://twitter.com/search?q=Hassan+Naqvi) | N/A |
+| 11 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 12 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 13 | [shae gill](http://twitter.com/search?q=shae+gill) | N/A |
+| 14 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 15 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 16 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 17 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 18 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 19 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 20 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 21 | [Chairman PPP](http://twitter.com/search?q=Chairman+PPP) | N/A |
+| 22 | [knut otsby](http://twitter.com/search?q=knut+otsby) | N/A |
+| 23 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 24 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 26 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 27 | [Sheikh](http://twitter.com/search?q=Sheikh) | N/A |
+| 28 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 29 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 30 | [Alkhidmat](http://twitter.com/search?q=Alkhidmat) | N/A |
+| 31 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 32 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 33 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
+| 34 | [Get In Touch](http://twitter.com/search?q=Get+In+Touch) | N/A |
+| 35 | [MNAs](http://twitter.com/search?q=MNAs) | N/A |
+| 36 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 37 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 39 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 40 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
+| 41 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 42 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
 | 43 | [Hoping](http://twitter.com/search?q=Hoping) | N/A |
-| 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 45 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 46 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 47 | [Loving](http://twitter.com/search?q=Loving) | N/A |
+| 44 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 45 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 46 | [President](http://twitter.com/search?q=President) | N/A |
+| 47 | [hyderabad](http://twitter.com/search?q=hyderabad) | N/A |
 | 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 50 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 49 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 50 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-08 10:15:45 UTC`
+📆 Last Updated: `2023-02-08 11:15:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 6 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 7 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
-| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 6 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 7 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 8 | [#SID2023](http://twitter.com/search?q=%23SID2023) | N/A |
 | 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
 | 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [#shuwre](http://twitter.com/search?q=%23shuwre) | N/A |
-| 12 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
-| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 14 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 15 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 16 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 19 | [The AG](http://twitter.com/search?q=The+AG) | N/A |
-| 20 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 21 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 24 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 25 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 26 | [Strategic Plan](http://twitter.com/search?q=Strategic+Plan) | N/A |
-| 27 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 28 | [finglas](http://twitter.com/search?q=finglas) | N/A |
-| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 30 | [Pathetic](http://twitter.com/search?q=Pathetic) | N/A |
-| 31 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 32 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 11 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 12 | [#shuwre](http://twitter.com/search?q=%23shuwre) | N/A |
+| 13 | [Attorney General](http://twitter.com/search?q=Attorney+General) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [The AG](http://twitter.com/search?q=The+AG) | N/A |
+| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 20 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 21 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 22 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 23 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 24 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 25 | [Pathetic](http://twitter.com/search?q=Pathetic) | N/A |
+| 26 | [strategic plan](http://twitter.com/search?q=strategic+plan) | N/A |
+| 27 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 28 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 29 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 30 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
+| 31 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 32 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 33 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 34 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 34 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
 | 35 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 36 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 37 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 38 | [philip dwyer](http://twitter.com/search?q=philip+dwyer) | N/A |
-| 39 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 40 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 41 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 42 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 36 | [Aviva Stadium](http://twitter.com/search?q=Aviva+Stadium) | N/A |
+| 37 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 38 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 39 | [philip dwyer](http://twitter.com/search?q=philip+dwyer) | N/A |
+| 40 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 41 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 42 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 43 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 45 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 46 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 47 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 48 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 49 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 44 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Irish Rail](http://twitter.com/search?q=Irish+Rail) | N/A |
+| 47 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
+| 48 | [Wicklow](http://twitter.com/search?q=Wicklow) | N/A |
+| 49 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 
 
 
