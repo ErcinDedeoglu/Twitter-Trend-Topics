@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-08 01:44:52 UTC`
+📆 Last Updated: `2023-02-08 02:40:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#Preds](http://twitter.com/search?q=%23Preds) | N/A |
 | 2 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
-| 3 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
-| 4 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 5 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 3 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 4 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
+| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 6 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 7 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 8 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 9 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 10 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
-| 11 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 12 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 13 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 14 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 15 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 16 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 17 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 18 | [Sol Ruca](http://twitter.com/search?q=Sol+Ruca) | N/A |
-| 19 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 20 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
-| 21 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 22 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 23 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 24 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 25 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 26 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 27 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
-| 28 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 30 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 31 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 32 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
-| 33 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 34 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 35 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
-| 36 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
-| 37 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 38 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 39 | [Jalen Hood-Schifino](http://twitter.com/search?q=Jalen+Hood-Schifino) | N/A |
-| 40 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 41 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 42 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 43 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 44 | [Lattimore](http://twitter.com/search?q=Lattimore) | Lattimore is a surname of English origin. It is derived from the Old English words "lætt" meaning "light" and "mōr" meaning "moor". The name is thought to have originally referred to someone who lived on or near a light-colored moor. |
-| 45 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
-| 46 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 47 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 48 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 49 | [Good Morning Vietnam](http://twitter.com/search?q=Good+Morning+Vietnam) | N/A |
+| 7 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 8 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
+| 9 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 11 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 12 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 13 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 14 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 15 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 16 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 17 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 19 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
+| 20 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 21 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 22 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 23 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 24 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 25 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 26 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
+| 27 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 28 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
+| 29 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 30 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 31 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
+| 32 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
+| 33 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 34 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 35 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 36 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
+| 37 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
+| 38 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 39 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 40 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 41 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 42 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
+| 43 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
+| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 45 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 47 | [Bipartisan Infrastructure Law](http://twitter.com/search?q=Bipartisan+Infrastructure+Law) | N/A |
+| 48 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 49 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
 
 
 

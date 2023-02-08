@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-08 01:45:03 UTC`
+📆 Last Updated: `2023-02-08 02:40:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Switzerland
 | 10 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
 | 11 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
 | 12 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 13 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
+| 13 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
 | 14 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
 | 15 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 16 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Switzerland
 | 28 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
 | 29 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
 | 30 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 33 | [Shop](http://twitter.com/search?q=Shop) | N/A |
-| 34 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 36 | [David](http://twitter.com/search?q=David) | N/A |
-| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 38 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 41 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 42 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 43 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 45 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 48 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
-| 49 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 50 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 31 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 32 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 33 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 34 | [Shop](http://twitter.com/search?q=Shop) | N/A |
+| 35 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 36 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 37 | [David](http://twitter.com/search?q=David) | N/A |
+| 38 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 39 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
+| 42 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 43 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 44 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 45 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 46 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 49 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
+| 50 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
 
 
 

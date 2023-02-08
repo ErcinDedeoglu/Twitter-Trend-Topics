@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-08 01:44:51 UTC`
+📆 Last Updated: `2023-02-08 02:40:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 2 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 3 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 4 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 5 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 6 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 7 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 8 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 9 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 10 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 11 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 13 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 14 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 15 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 16 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 17 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 18 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 19 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 20 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 21 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 23 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
-| 24 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 25 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 27 | [#InsteadOfRosesGiveHer](http://twitter.com/search?q=%23InsteadOfRosesGiveHer) | N/A |
-| 28 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 29 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 30 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
-| 31 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 32 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 33 | [Sol Ruca](http://twitter.com/search?q=Sol+Ruca) | N/A |
-| 34 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 35 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 36 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
-| 37 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 38 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 39 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 40 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 41 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 42 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 43 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 44 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
-| 45 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
-| 46 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 47 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 48 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 49 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 50 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 2 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 3 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 5 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 6 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 8 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 9 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 10 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 12 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 16 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 17 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 18 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 19 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 20 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 21 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 22 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 23 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 24 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
+| 25 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 26 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 27 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 28 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 29 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 30 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 31 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 32 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 33 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
+| 34 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 35 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 36 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 37 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
+| 38 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 39 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 40 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 41 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 42 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 43 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 44 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
+| 45 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 46 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
+| 47 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
+| 48 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 49 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
+| 50 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
 
 
 

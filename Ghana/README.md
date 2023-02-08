@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-08 01:44:58 UTC`
+📆 Last Updated: `2023-02-08 02:40:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Ghana
 | 1 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 | 2 | [Enokay](http://twitter.com/search?q=Enokay) | N/A |
 | 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 4 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 5 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 6 | [#brunchintheciti](http://twitter.com/search?q=%23brunchintheciti) | N/A |
-| 7 | [#LoveInTheCiti](http://twitter.com/search?q=%23LoveInTheCiti) | N/A |
+| 4 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 5 | [#brunchintheciti](http://twitter.com/search?q=%23brunchintheciti) | N/A |
+| 6 | [#LoveInTheCiti](http://twitter.com/search?q=%23LoveInTheCiti) | N/A |
+| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 8 | [Olibang](http://twitter.com/search?q=Olibang) | N/A |
-| 9 | [#starbites](http://twitter.com/search?q=%23starbites) | N/A |
-| 10 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
-| 11 | [#thebigbreakfast](http://twitter.com/search?q=%23thebigbreakfast) | N/A |
-| 12 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [kt hammond](http://twitter.com/search?q=kt+hammond) | N/A |
-| 15 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 16 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 17 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 18 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 9 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 10 | [#starbites](http://twitter.com/search?q=%23starbites) | N/A |
+| 11 | [Nana Aba](http://twitter.com/search?q=Nana+Aba) | N/A |
+| 12 | [#thebigbreakfast](http://twitter.com/search?q=%23thebigbreakfast) | N/A |
+| 13 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 14 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 15 | [kt hammond](http://twitter.com/search?q=kt+hammond) | N/A |
+| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 17 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 18 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 19 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
 | 20 | [Madea](http://twitter.com/search?q=Madea) | N/A |
 | 21 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 23 | [God Did](http://twitter.com/search?q=God+Did) | God Did is a phrase used to express gratitude and appreciation for something that has been done. It is often used as a way of thanking God for providing help or guidance in a difficult situation. The phrase can also be used to express admiration for someone who has accomplished something great. |
-| 24 | [Osebo](http://twitter.com/search?q=Osebo) | N/A |
-| 25 | [Ken Ofori](http://twitter.com/search?q=Ken+Ofori) | N/A |
-| 26 | [bryan acheampong](http://twitter.com/search?q=bryan+acheampong) | N/A |
-| 27 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 28 | [DDEP](http://twitter.com/search?q=DDEP) | N/A |
-| 29 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 30 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
-| 31 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 32 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 33 | [saddick adams](http://twitter.com/search?q=saddick+adams) | N/A |
-| 34 | [Glory to God](http://twitter.com/search?q=Glory+to+God) | N/A |
-| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 36 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 37 | [Alive](http://twitter.com/search?q=Alive) | N/A |
-| 38 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 39 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
-| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 41 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
-| 42 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
-| 43 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 44 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 46 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 47 | [Almighty God](http://twitter.com/search?q=Almighty+God) | N/A |
-| 48 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 49 | [Kayode](http://twitter.com/search?q=Kayode) | N/A |
-| 50 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 22 | [God Did](http://twitter.com/search?q=God+Did) | God Did is a phrase used to express gratitude and appreciation for something that has been done. It is often used as a way of thanking God for providing help or guidance in a difficult situation. The phrase can also be used to express admiration for someone who has accomplished something great. |
+| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 24 | [bryan acheampong](http://twitter.com/search?q=bryan+acheampong) | N/A |
+| 25 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 26 | [DDEP](http://twitter.com/search?q=DDEP) | N/A |
+| 27 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 28 | [Osebo](http://twitter.com/search?q=Osebo) | N/A |
+| 29 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 30 | [Ken Ofori](http://twitter.com/search?q=Ken+Ofori) | N/A |
+| 31 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 32 | [saddick adams](http://twitter.com/search?q=saddick+adams) | N/A |
+| 33 | [Glory to God](http://twitter.com/search?q=Glory+to+God) | N/A |
+| 34 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 35 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 36 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
+| 37 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
+| 38 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
+| 39 | [VOTE YELISA](http://twitter.com/search?q=VOTE+YELISA) | N/A |
+| 40 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 42 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 43 | [Almighty God](http://twitter.com/search?q=Almighty+God) | N/A |
+| 44 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 47 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 48 | [minister of state](http://twitter.com/search?q=minister+of+state) | N/A |
+| 49 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 50 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-02-08 01:45:00 UTC`
+📆 Last Updated: `2023-02-08 02:40:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,20 +17,20 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 2 | [NSSF](http://twitter.com/search?q=NSSF) | N/A |
-| 3 | [#FulfilledProphecy](http://twitter.com/search?q=%23FulfilledProphecy) | N/A |
-| 4 | [odm mps](http://twitter.com/search?q=odm+mps) | N/A |
-| 5 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 6 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
+| 3 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 4 | [#FulfilledProphecy](http://twitter.com/search?q=%23FulfilledProphecy) | N/A |
+| 5 | [ODM MPs](http://twitter.com/search?q=ODM+MPs) | N/A |
+| 6 | [State House](http://twitter.com/search?q=State+House) | N/A |
 | 7 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 8 | [#barakazamilele](http://twitter.com/search?q=%23barakazamilele) | N/A |
+| 8 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 9 | [#kindikidelivers](http://twitter.com/search?q=%23kindikidelivers) | N/A |
 | 10 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
 | 11 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
 | 12 | [John Mbadi](http://twitter.com/search?q=John+Mbadi) | N/A |
 | 13 | [youth resistance movement mdd](http://twitter.com/search?q=youth+resistance+movement+mdd) | N/A |
 | 14 | [Njugush](http://twitter.com/search?q=Njugush) | N/A |
-| 15 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
-| 16 | [jeremiah kioni](http://twitter.com/search?q=jeremiah+kioni) | N/A |
+| 15 | [jeremiah kioni](http://twitter.com/search?q=jeremiah+kioni) | N/A |
+| 16 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
 | 17 | [Math](http://twitter.com/search?q=Math) | N/A |
 | 18 | [tirries tuesday](http://twitter.com/search?q=tirries+tuesday) | N/A |
 | 19 | [juma chitembwe](http://twitter.com/search?q=juma+chitembwe) | N/A |
@@ -42,11 +42,11 @@ This is top 50 for Kenya
 | 25 | [moses kuria](http://twitter.com/search?q=moses+kuria) | N/A |
 | 26 | [ruto must go](http://twitter.com/search?q=ruto+must+go) | N/A |
 | 27 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 28 | [Nairobi Expressway](http://twitter.com/search?q=Nairobi+Expressway) | N/A |
-| 29 | [Joho](http://twitter.com/search?q=Joho) | N/A |
-| 30 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
-| 31 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 32 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 28 | [Joho](http://twitter.com/search?q=Joho) | N/A |
+| 29 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 30 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 31 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
+| 32 | [Nairobi Expressway](http://twitter.com/search?q=Nairobi+Expressway) | N/A |
 | 33 | [langata](http://twitter.com/search?q=langata) | N/A |
 | 34 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
 | 35 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
@@ -60,11 +60,11 @@ This is top 50 for Kenya
 | 43 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 44 | [kes 200](http://twitter.com/search?q=kes+200) | N/A |
 | 45 | [Kabando](http://twitter.com/search?q=Kabando) | N/A |
-| 46 | [Kindly HMU](http://twitter.com/search?q=Kindly+HMU) | N/A |
-| 47 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 48 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 49 | [DM or WhatsApp](http://twitter.com/search?q=DM+or+WhatsApp) | N/A |
-| 50 | [The MPs](http://twitter.com/search?q=The+MPs) | N/A |
+| 46 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 47 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
+| 48 | [DM or WhatsApp](http://twitter.com/search?q=DM+or+WhatsApp) | N/A |
+| 49 | [The MPs](http://twitter.com/search?q=The+MPs) | N/A |
+| 50 | [Junet](http://twitter.com/search?q=Junet) | N/A |
 
 
 

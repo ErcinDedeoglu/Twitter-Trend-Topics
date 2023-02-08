@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-08 01:44:27 UTC`
+📆 Last Updated: `2023-02-08 02:39:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
-| 2 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
-| 3 | [#TentacionesDBT3](http://twitter.com/search?q=%23TentacionesDBT3) | N/A |
+| 1 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
+| 2 | [#TentacionesDBT3](http://twitter.com/search?q=%23TentacionesDBT3) | N/A |
+| 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 5 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 5 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 6 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
-| 7 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 8 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 9 | [#Hermanos7Feb](http://twitter.com/search?q=%23Hermanos7Feb) | N/A |
-| 10 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 11 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 13 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 14 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
-| 15 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
-| 16 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 17 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 18 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 21 | [Miare](http://twitter.com/search?q=Miare) | N/A |
-| 22 | [Frente Atlético](http://twitter.com/search?q=Frente+Atl%c3%a9tico) | N/A |
-| 23 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 25 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 26 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 27 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 28 | [Ence](http://twitter.com/search?q=Ence) | N/A |
-| 29 | [Siro](http://twitter.com/search?q=Siro) | N/A |
-| 30 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 31 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 32 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
-| 33 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 34 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 36 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 37 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
-| 38 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 39 | [Sanlúcar](http://twitter.com/search?q=Sanl%c3%bacar) | N/A |
-| 40 | [Pedrerol](http://twitter.com/search?q=Pedrerol) | N/A |
-| 41 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 42 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 43 | [#VamosALlevarnosBien](http://twitter.com/search?q=%23VamosALlevarnosBien) | N/A |
-| 44 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 45 | [#ElEscudoQueNosUne](http://twitter.com/search?q=%23ElEscudoQueNosUne) | N/A |
-| 46 | [#LosMiAlma](http://twitter.com/search?q=%23LosMiAlma) | N/A |
-| 47 | [#DebateDeLasTentaciones](http://twitter.com/search?q=%23DebateDeLasTentaciones) | N/A |
-| 48 | [#ViajandoConChester](http://twitter.com/search?q=%23ViajandoConChester) | N/A |
-| 49 | [#Solos7F](http://twitter.com/search?q=%23Solos7F) | N/A |
-| 50 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 7 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 8 | [#LaIslaDeLasTentaciones3](http://twitter.com/search?q=%23LaIslaDeLasTentaciones3) | N/A |
+| 9 | [Froilán](http://twitter.com/search?q=Froil%c3%a1n) | Froilán is a Spanish name derived from the Germanic name Fridulph, which means "peaceful wolf". It is also a common given name in Spanish-speaking countries. |
+| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 11 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 12 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 13 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 14 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 15 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
+| 16 | [Ence](http://twitter.com/search?q=Ence) | N/A |
+| 17 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 18 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
+| 19 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 20 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 21 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 22 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 23 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 24 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 25 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 26 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 27 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
+| 28 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
+| 29 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
+| 30 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 31 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
+| 32 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 33 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 34 | [Sanlúcar](http://twitter.com/search?q=Sanl%c3%bacar) | N/A |
+| 35 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 36 | [Bizcocho](http://twitter.com/search?q=Bizcocho) | N/A |
+| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 38 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 39 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 40 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 41 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 42 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
+| 43 | [Frente Atlético](http://twitter.com/search?q=Frente+Atl%c3%a9tico) | N/A |
+| 44 | [Antros](http://twitter.com/search?q=Antros) | N/A |
+| 45 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 47 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 48 | [Ministra de Justicia](http://twitter.com/search?q=Ministra+de+Justicia) | N/A |
+| 49 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 50 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
 
 
 

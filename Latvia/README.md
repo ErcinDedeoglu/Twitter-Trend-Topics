@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-08 01:45:00 UTC`
+📆 Last Updated: `2023-02-08 02:40:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Latvia
 | 5 | [vāgnera](http://twitter.com/search?q=v%c4%81gnera) | N/A |
 | 6 | [Edge Autonomy](http://twitter.com/search?q=Edge+Autonomy) | N/A |
 | 7 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
-| 8 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 8 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 9 | [saskaņas](http://twitter.com/search?q=saska%c5%86as) | N/A |
 | 10 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 11 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
@@ -36,16 +36,16 @@ This is top 50 for Latvia
 | 19 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 20 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
 | 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [Leta](http://twitter.com/search?q=Leta) | N/A |
+| 22 | [leta](http://twitter.com/search?q=leta) | N/A |
 | 23 | [levita](http://twitter.com/search?q=levita) | N/A |
 | 24 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 25 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 26 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 26 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 27 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 28 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 29 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 30 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 31 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 31 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 32 | [baigi](http://twitter.com/search?q=baigi) | N/A |
 | 33 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 34 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Latvia
 | 46 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
 | 47 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
 | 48 | [tūlīt](http://twitter.com/search?q=t%c5%abl%c4%abt) | N/A |
-| 49 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 49 | [toties](http://twitter.com/search?q=toties) | N/A |
 | 50 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 
 

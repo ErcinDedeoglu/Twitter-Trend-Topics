@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-08 01:44:18 UTC`
+📆 Last Updated: `2023-02-08 02:39:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 2 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 3 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
-| 4 | [#FLAxHIL](http://twitter.com/search?q=%23FLAxHIL) | N/A |
-| 5 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 6 | [Al Bilau](http://twitter.com/search?q=Al+Bilau) | N/A |
-| 7 | [Assalto](http://twitter.com/search?q=Assalto) | N/A |
-| 8 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
-| 9 | [Nova América](http://twitter.com/search?q=Nova+Am%c3%a9rica) | N/A |
-| 10 | [Méier](http://twitter.com/search?q=M%c3%a9ier) | N/A |
-| 11 | [Catete](http://twitter.com/search?q=Catete) | N/A |
-| 12 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 13 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
-| 14 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 15 | [Veneza](http://twitter.com/search?q=Veneza) | N/A |
-| 16 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
-| 17 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
-| 18 | [O RJ](http://twitter.com/search?q=O+RJ) | N/A |
-| 19 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 20 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
-| 21 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 22 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 23 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
-| 24 | [Injustiçado](http://twitter.com/search?q=Injusti%c3%a7ado) | N/A |
-| 25 | [Bonsucesso](http://twitter.com/search?q=Bonsucesso) | N/A |
-| 26 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 27 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 28 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 29 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 30 | [São Cristóvão](http://twitter.com/search?q=S%c3%a3o+Crist%c3%b3v%c3%a3o) | N/A |
-| 31 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 32 | [Prefeito](http://twitter.com/search?q=Prefeito) | N/A |
-| 33 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
-| 34 | [#foravp](http://twitter.com/search?q=%23foravp) | N/A |
-| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 36 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 37 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 38 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 39 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 40 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
-| 41 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 42 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 43 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 44 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 45 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 46 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 47 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
-| 48 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 49 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 50 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 1 | [Rio de Janeiro](http://twitter.com/search?q=Rio+de+Janeiro) | N/A |
+| 2 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
+| 3 | [Bonsucesso](http://twitter.com/search?q=Bonsucesso) | N/A |
+| 4 | [São Cristóvão](http://twitter.com/search?q=S%c3%a3o+Crist%c3%b3v%c3%a3o) | N/A |
+| 5 | [Flamenguistas](http://twitter.com/search?q=Flamenguistas) | N/A |
+| 6 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 7 | [#FLAxHIL](http://twitter.com/search?q=%23FLAxHIL) | N/A |
+| 8 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 9 | [Méier](http://twitter.com/search?q=M%c3%a9ier) | N/A |
+| 10 | [Catete](http://twitter.com/search?q=Catete) | N/A |
+| 11 | [Av Brasil](http://twitter.com/search?q=Av+Brasil) | N/A |
+| 12 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
+| 13 | [Nova América](http://twitter.com/search?q=Nova+Am%c3%a9rica) | N/A |
+| 14 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 15 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 16 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
+| 17 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 18 | [Avenida Brasil](http://twitter.com/search?q=Avenida+Brasil) | N/A |
+| 19 | [O RJ](http://twitter.com/search?q=O+RJ) | N/A |
+| 20 | [Veneza](http://twitter.com/search?q=Veneza) | N/A |
+| 21 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 22 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 23 | [Diretoria](http://twitter.com/search?q=Diretoria) | N/A |
+| 24 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 25 | [Prefeito](http://twitter.com/search?q=Prefeito) | N/A |
+| 26 | [VAI TOMAR NO CU](http://twitter.com/search?q=VAI+TOMAR+NO+CU) | "VAI TOMAR NO CU" is a Portuguese phrase that translates to "go take it in the ass" in English. It is an offensive phrase used as an insult. |
+| 27 | [Mané Garrincha](http://twitter.com/search?q=Man%c3%a9+Garrincha) | N/A |
+| 28 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 29 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 31 | [Injustiçado](http://twitter.com/search?q=Injusti%c3%a7ado) | N/A |
+| 32 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 33 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
+| 34 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 35 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 36 | [PODE ESPERAR](http://twitter.com/search?q=PODE+ESPERAR) | N/A |
+| 37 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
+| 38 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 39 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 41 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 42 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 43 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 44 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 45 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 46 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 47 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 48 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
+| 49 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
+| 50 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 
 
 

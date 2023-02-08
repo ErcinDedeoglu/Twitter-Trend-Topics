@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-08 01:44:43 UTC`
+📆 Last Updated: `2023-02-08 02:40:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 5 | [#جیل_بھرو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88) | N/A |
 | 6 | [another 7.5](http://twitter.com/search?q=another+7.5) | N/A |
-| 7 | [shae gill](http://twitter.com/search?q=shae+gill) | N/A |
-| 8 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 9 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
-| 10 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 11 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 12 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 7 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 8 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
+| 9 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 10 | [islamabad united](http://twitter.com/search?q=islamabad+united) | N/A |
+| 11 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 12 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
 | 13 | [asif afridi](http://twitter.com/search?q=asif+afridi) | N/A |
 | 14 | [C-130](http://twitter.com/search?q=C-130) | N/A |
 | 15 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
@@ -34,36 +34,36 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [ramiz raja](http://twitter.com/search?q=ramiz+raja) | N/A |
 | 18 | [powerful 7.8](http://twitter.com/search?q=powerful+7.8) | N/A |
 | 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 20 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 20 | [Faris shafi](http://twitter.com/search?q=Faris+shafi) | N/A |
 | 21 | [Adana](http://twitter.com/search?q=Adana) | N/A |
 | 22 | [Rose](http://twitter.com/search?q=Rose) | N/A |
 | 23 | [lady zainab](http://twitter.com/search?q=lady+zainab) | N/A |
-| 24 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 25 | [peter hatzoglou](http://twitter.com/search?q=peter+hatzoglou) | N/A |
+| 24 | [peter hatzoglou](http://twitter.com/search?q=peter+hatzoglou) | N/A |
+| 25 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
 | 26 | [adam rossington](http://twitter.com/search?q=adam+rossington) | N/A |
-| 27 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 28 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 29 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 30 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 31 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 27 | [mrs malhotra](http://twitter.com/search?q=mrs+malhotra) | N/A |
+| 28 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 29 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 30 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 32 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 33 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 35 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 36 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 38 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 41 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 35 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 36 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
+| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 40 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 43 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 44 | [Professional](http://twitter.com/search?q=Professional) | N/A |
-| 45 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 46 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 47 | [Reports](http://twitter.com/search?q=Reports) | N/A |
-| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 49 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 44 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 45 | [Reports](http://twitter.com/search?q=Reports) | N/A |
+| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 49 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 
 
 

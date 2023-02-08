@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-08 01:44:27 UTC`
+📆 Last Updated: `2023-02-08 02:39:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
 | 10 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
 | 11 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 12 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
+| 12 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
 | 13 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
 | 14 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 15 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
@@ -54,14 +54,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
 | 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 39 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 41 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 42 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 43 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 44 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 46 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 47 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
+| 40 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 41 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 42 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 43 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 45 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
 
 
 

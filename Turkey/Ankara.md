@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-08 01:44:46 UTC`
+📆 Last Updated: `2023-02-08 02:40:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#acilvinc](http://twitter.com/search?q=%23acilvinc) | N/A |
-| 2 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
+| 2 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
 | 3 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
 | 4 | [Tuğba Södekoğlu](http://twitter.com/search?q=Tu%c4%9fba+S%c3%b6deko%c4%9flu) | N/A |
 | 5 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 9 | [DepremBölgelerine IşıkKaynağı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+I%c5%9f%c4%b1kKayna%c4%9f%c4%b1) | N/A |
 | 10 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
 | 11 | [Çay Mahallesi 112](http://twitter.com/search?q=%c3%87ay+Mahallesi+112) | N/A |
-| 12 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
+| 12 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
 | 13 | [NEREDE BU DEVLET](http://twitter.com/search?q=NEREDE+BU+DEVLET) | N/A |
-| 14 | [BEYZA SİTESİ NO](http://twitter.com/search?q=BEYZA+S%c4%b0TES%c4%b0+NO) | N/A |
+| 14 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
 | 15 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 16 | [Can Azerbaycan](http://twitter.com/search?q=Can+Azerbaycan) | N/A |
+| 16 | [BEYZA SİTESİ NO](http://twitter.com/search?q=BEYZA+S%c4%b0TES%c4%b0+NO) | N/A |
 | 17 | [Teşekkürler Yunanistan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Yunanistan) | N/A |
-| 18 | [İpek Düğün Salonu](http://twitter.com/search?q=%c4%b0pek+D%c3%bc%c4%9f%c3%bcn+Salonu) | N/A |
-| 19 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 20 | [DepremBölgesine SuGötürün](http://twitter.com/search?q=DepremB%c3%b6lgesine+SuG%c3%b6t%c3%bcr%c3%bcn) | N/A |
-| 21 | [Hemen Çaprazındaki Apartman](http://twitter.com/search?q=Hemen+%c3%87apraz%c4%b1ndaki+Apartman) | N/A |
-| 22 | [Alo 183](http://twitter.com/search?q=Alo+183) | N/A |
-| 23 | [Sarı Bina](http://twitter.com/search?q=Sar%c4%b1+Bina) | N/A |
+| 18 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 19 | [Can Azerbaycan](http://twitter.com/search?q=Can+Azerbaycan) | N/A |
+| 20 | [İpek Düğün Salonu](http://twitter.com/search?q=%c4%b0pek+D%c3%bc%c4%9f%c3%bcn+Salonu) | N/A |
+| 21 | [DepremBölgesine SuGötürün](http://twitter.com/search?q=DepremB%c3%b6lgesine+SuG%c3%b6t%c3%bcr%c3%bcn) | N/A |
+| 22 | [Hemen Çaprazındaki Apartman](http://twitter.com/search?q=Hemen+%c3%87apraz%c4%b1ndaki+Apartman) | N/A |
+| 23 | [Alo 183](http://twitter.com/search?q=Alo+183) | N/A |
 | 24 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 25 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 25 | [Sarı Bina](http://twitter.com/search?q=Sar%c4%b1+Bina) | N/A |
 | 26 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 27 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 27 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 29 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
-| 30 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 31 | [Acun Ilıcalı](http://twitter.com/search?q=Acun+Il%c4%b1cal%c4%b1) | N/A |
-| 32 | [ÇOK ACİL](http://twitter.com/search?q=%c3%87OK+AC%c4%b0L) | N/A |
-| 33 | [TÜSİAD](http://twitter.com/search?q=T%c3%9cS%c4%b0AD) | N/A |
-| 34 | [Zahmet](http://twitter.com/search?q=Zahmet) | N/A |
-| 35 | [Merih](http://twitter.com/search?q=Merih) | N/A |
-| 36 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
-| 37 | [Çağrı](http://twitter.com/search?q=%c3%87a%c4%9fr%c4%b1) | N/A |
-| 38 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 39 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 40 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 41 | [Help Turkey](http://twitter.com/search?q=Help+Turkey) | N/A |
-| 42 | [Numara](http://twitter.com/search?q=Numara) | N/A |
-| 43 | [Yayalım](http://twitter.com/search?q=Yayal%c4%b1m) | N/A |
-| 44 | [Yılmaz](http://twitter.com/search?q=Y%c4%b1lmaz) | N/A |
-| 45 | [Rezilsiniz](http://twitter.com/search?q=Rezilsiniz) | N/A |
-| 46 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
-| 47 | [#AHBAP](http://twitter.com/search?q=%23AHBAP) | N/A |
-| 48 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 49 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
-| 50 | [#HalukLevent](http://twitter.com/search?q=%23HalukLevent) | N/A |
+| 29 | [Gönüllü](http://twitter.com/search?q=G%c3%b6n%c3%bcll%c3%bc) | N/A |
+| 30 | [TÜSİAD](http://twitter.com/search?q=T%c3%9cS%c4%b0AD) | N/A |
+| 31 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
+| 32 | [Çağrı](http://twitter.com/search?q=%c3%87a%c4%9fr%c4%b1) | N/A |
+| 33 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 34 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 35 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 36 | [Help Turkey](http://twitter.com/search?q=Help+Turkey) | N/A |
+| 37 | [Rezilsiniz](http://twitter.com/search?q=Rezilsiniz) | N/A |
+| 38 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
+| 39 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
+| 40 | [#AHBAP](http://twitter.com/search?q=%23AHBAP) | N/A |
+| 41 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
+| 42 | [#HalukLevent](http://twitter.com/search?q=%23HalukLevent) | N/A |
+| 43 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
+| 44 | [#kahramanmas](http://twitter.com/search?q=%23kahramanmas) | N/A |
+| 45 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 46 | [#ADIYAMANAFAD](http://twitter.com/search?q=%23ADIYAMANAFAD) | N/A |
+| 47 | [#özgürdemirtaş](http://twitter.com/search?q=%23%c3%b6zg%c3%bcrdemirta%c5%9f) | N/A |
+| 48 | [#Bistson2güniptaledilsin](http://twitter.com/search?q=%23Bistson2g%c3%bcniptaledilsin) | N/A |
+| 49 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
+| 50 | [#ACILYARDIM](http://twitter.com/search?q=%23ACILYARDIM) | N/A |
 
 
 

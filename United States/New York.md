@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-08 01:44:53 UTC`
+📆 Last Updated: `2023-02-08 02:40:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 2 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 3 | [#NYPD](http://twitter.com/search?q=%23NYPD) | N/A |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 6 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 7 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 8 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 9 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 10 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 13 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 14 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 16 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 17 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 18 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 19 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 20 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 21 | [Sol Ruca](http://twitter.com/search?q=Sol+Ruca) | N/A |
-| 22 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 23 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
-| 24 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 25 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 28 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 29 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 30 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 31 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
-| 32 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
-| 33 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 34 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 35 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 36 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 37 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 38 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 39 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
-| 40 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
-| 41 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 42 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 43 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 44 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 45 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 46 | [Lattimore](http://twitter.com/search?q=Lattimore) | Lattimore is a surname of English origin. It is derived from the Old English words "lætt" meaning "light" and "mōr" meaning "moor". The name is thought to have originally referred to someone who lived on or near a light-colored moor. |
-| 47 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
-| 48 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 49 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 50 | [Schifino](http://twitter.com/search?q=Schifino) | N/A |
+| 1 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 2 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
+| 3 | [Sims](http://twitter.com/search?q=Sims) | N/A |
+| 4 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 5 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 6 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 7 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 9 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 10 | [#NYPD](http://twitter.com/search?q=%23NYPD) | N/A |
+| 11 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 12 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 13 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 14 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 15 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
+| 16 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 17 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 18 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 19 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 20 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 21 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 22 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 23 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
+| 24 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 27 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 28 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 29 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 30 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 31 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 32 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
+| 33 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 34 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
+| 35 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
+| 36 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 37 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
+| 38 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 39 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 40 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 41 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
+| 42 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
+| 43 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 44 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 45 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 46 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 47 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
+| 48 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
+| 49 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 50 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 
 
 

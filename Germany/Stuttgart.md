@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-08 01:44:24 UTC`
+📆 Last Updated: `2023-02-08 02:39:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
-| 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 3 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 5 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
+| 3 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 5 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 6 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
 | 7 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 8 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 9 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 12 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 13 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 14 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 9 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 10 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 11 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 12 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 14 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 | 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 16 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 17 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 18 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 20 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 21 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 22 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 23 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 25 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 26 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 27 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 28 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 29 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 30 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 31 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 32 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 33 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 34 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 35 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
-| 36 | [Masz](http://twitter.com/search?q=Masz) | N/A |
-| 37 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 38 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
-| 39 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 40 | [Helge](http://twitter.com/search?q=Helge) | N/A |
-| 41 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 42 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
+| 16 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 18 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 19 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 20 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 21 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 22 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 23 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
+| 24 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 25 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 26 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 28 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 29 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 30 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 31 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
+| 32 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 33 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 34 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
+| 35 | [Masz](http://twitter.com/search?q=Masz) | N/A |
+| 36 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
+| 37 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 38 | [Helge](http://twitter.com/search?q=Helge) | N/A |
+| 39 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 40 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
+| 41 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
+| 42 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
 | 43 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 44 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
-| 45 | [Witze](http://twitter.com/search?q=Witze) | N/A |
-| 46 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 47 | [Radfahrern](http://twitter.com/search?q=Radfahrern) | N/A |
-| 48 | [Verteidigungsminister](http://twitter.com/search?q=Verteidigungsminister) | Verteidigungsminister is German for "Defense Minister." It is the title given to the head of a country's defense ministry, responsible for overseeing the nation's military and security forces. |
-| 49 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
+| 44 | [Radfahrern](http://twitter.com/search?q=Radfahrern) | N/A |
+| 45 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
+| 46 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
+| 47 | [Menschen mit Uterus](http://twitter.com/search?q=Menschen+mit+Uterus) | N/A |
+| 48 | [Witze](http://twitter.com/search?q=Witze) | N/A |
+| 49 | [Aschermittwoch](http://twitter.com/search?q=Aschermittwoch) | N/A |
 
 
 

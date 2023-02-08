@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-08 01:44:08 UTC`
+📆 Last Updated: `2023-02-08 02:39:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 4 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 5 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 6 | [#VersaceDylanPurple](http://twitter.com/search?q=%23VersaceDylanPurple) | N/A |
-| 7 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 8 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 9 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 10 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 11 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 13 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 14 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 15 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 16 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 17 | [Premiers](http://twitter.com/search?q=Premiers) | N/A |
-| 18 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 19 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 20 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 21 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 22 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 23 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 25 | [PIMs](http://twitter.com/search?q=PIMs) | N/A |
-| 26 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 28 | [#TrudeauBrokeCanada](http://twitter.com/search?q=%23TrudeauBrokeCanada) | N/A |
-| 29 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 31 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 32 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 33 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 34 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 35 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 36 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
-| 37 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 38 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 39 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 2 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 3 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 4 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 5 | [#StateOfTheUnion](http://twitter.com/search?q=%23StateOfTheUnion) | N/A |
+| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 8 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 9 | [#VersaceDylanPurple](http://twitter.com/search?q=%23VersaceDylanPurple) | N/A |
+| 10 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 13 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 14 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 15 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 16 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 17 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
+| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 19 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 20 | [Premiers](http://twitter.com/search?q=Premiers) | N/A |
+| 21 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 22 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 23 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
+| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 25 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 26 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 28 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 29 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 30 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 32 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
+| 33 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 34 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 35 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 36 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 37 | [Islander](http://twitter.com/search?q=Islander) | N/A |
+| 38 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 39 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 40 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 41 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 42 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 43 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 45 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 46 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 47 | [Lawler](http://twitter.com/search?q=Lawler) | N/A |
-| 48 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 49 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 50 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 41 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 42 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 43 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 44 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 45 | [NHLPA](http://twitter.com/search?q=NHLPA) | N/A |
+| 46 | [Teri](http://twitter.com/search?q=Teri) | N/A |
+| 47 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 48 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 49 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 50 | [TotK](http://twitter.com/search?q=TotK) | N/A |
 
 
 

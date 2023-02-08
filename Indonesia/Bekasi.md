@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-02-08 01:44:28 UTC`
+📆 Last Updated: `2023-02-08 02:39:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 3 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 4 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
-| 5 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 6 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
+| 4 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 5 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
+| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 7 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
+| 8 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
 | 9 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 10 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 11 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
-| 12 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 13 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 14 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 15 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 16 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 17 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 18 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 10 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 11 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 12 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 13 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 15 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
+| 16 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 17 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 18 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
 | 19 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 21 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 23 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 24 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 25 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
-| 26 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 27 | [Oagi](http://twitter.com/search?q=Oagi) | N/A |
-| 28 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 29 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 30 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 31 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 32 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 33 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 34 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 35 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 36 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 37 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 20 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 21 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 22 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 23 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 25 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 26 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 27 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 28 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 29 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 30 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 31 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 32 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 33 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 34 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 35 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 36 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 37 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 38 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 39 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
-| 40 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 41 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 42 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 43 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
-| 44 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 45 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
-| 46 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 47 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 48 | [Pelit](http://twitter.com/search?q=Pelit) | N/A |
+| 39 | [Kebalik](http://twitter.com/search?q=Kebalik) | N/A |
+| 40 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 41 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 42 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
+| 43 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 44 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 45 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 46 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 47 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 48 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
 | 49 | [Homa](http://twitter.com/search?q=Homa) | N/A |
 
 
