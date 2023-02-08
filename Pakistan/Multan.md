@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-08 11:15:37 UTC`
+📆 Last Updated: `2023-02-08 12:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#پاکستان_دشمن_فتنہ](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%af%d8%b4%d9%85%d9%86_%d9%81%d8%aa%d9%86%db%81) | N/A |
 | 3 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
 | 4 | [#StayStrongJaveriaBhabhi](http://twitter.com/search?q=%23StayStrongJaveriaBhabhi) | N/A |
-| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 5 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 7 | [SPHF](http://twitter.com/search?q=SPHF) | N/A |
 | 8 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 9 | [Hassan Naqvi](http://twitter.com/search?q=Hassan+Naqvi) | N/A |
-| 10 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 11 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 12 | [shae gill](http://twitter.com/search?q=shae+gill) | N/A |
-| 13 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 14 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
-| 15 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 16 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 17 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 18 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 19 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 20 | [Chairman PPP](http://twitter.com/search?q=Chairman+PPP) | N/A |
-| 21 | [knut otsby](http://twitter.com/search?q=knut+otsby) | N/A |
+| 9 | [hassan naqvi](http://twitter.com/search?q=hassan+naqvi) | N/A |
+| 10 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
+| 11 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 12 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
+| 13 | [Mardan](http://twitter.com/search?q=Mardan) | N/A |
+| 14 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
+| 15 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 16 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 17 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 18 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 19 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 21 | [Chairman PPP](http://twitter.com/search?q=Chairman+PPP) | N/A |
 | 22 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 23 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
-| 24 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 26 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 27 | [Sheikh](http://twitter.com/search?q=Sheikh) | N/A |
+| 23 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 25 | [knut otsby](http://twitter.com/search?q=knut+otsby) | N/A |
+| 26 | [Faris Shafi](http://twitter.com/search?q=Faris+Shafi) | N/A |
+| 27 | [Conference](http://twitter.com/search?q=Conference) | N/A |
 | 28 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 29 | [Alkhidmat](http://twitter.com/search?q=Alkhidmat) | N/A |
+| 29 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
 | 30 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 31 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 32 | [Asif Afridi](http://twitter.com/search?q=Asif+Afridi) | N/A |
-| 33 | [Get In Touch](http://twitter.com/search?q=Get+In+Touch) | N/A |
-| 34 | [MNAs](http://twitter.com/search?q=MNAs) | N/A |
-| 35 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
-| 36 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 38 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 39 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
-| 40 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 41 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 42 | [Hoping](http://twitter.com/search?q=Hoping) | N/A |
-| 43 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 45 | [President](http://twitter.com/search?q=President) | N/A |
-| 46 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 49 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 31 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 32 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 33 | [president alvi](http://twitter.com/search?q=president+alvi) | N/A |
+| 34 | [Get In Touch](http://twitter.com/search?q=Get+In+Touch) | N/A |
+| 35 | [Murree](http://twitter.com/search?q=Murree) | N/A |
+| 36 | [mnas](http://twitter.com/search?q=mnas) | N/A |
+| 37 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 38 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
+| 39 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 40 | [Joon](http://twitter.com/search?q=Joon) | N/A |
+| 41 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 42 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 45 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
+| 46 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 47 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 48 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 49 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 
 
 

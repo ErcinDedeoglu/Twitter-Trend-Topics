@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-08 11:15:04 UTC`
+📆 Last Updated: `2023-02-08 12:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 2 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 3 | [#30pLee](http://twitter.com/search?q=%2330pLee) | N/A |
-| 4 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 6 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 7 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 8 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 9 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 11 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
-| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 13 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 1 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 2 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 3 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 4 | [#SOOCon23](http://twitter.com/search?q=%23SOOCon23) | N/A |
+| 5 | [#30pLee](http://twitter.com/search?q=%2330pLee) | N/A |
+| 6 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 7 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 8 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 9 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 10 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 11 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 12 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 13 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
 | 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 15 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 16 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 17 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 18 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 19 | [David Goodwillie](http://twitter.com/search?q=David+Goodwillie) | N/A |
-| 20 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 21 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
-| 22 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 23 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 24 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 25 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 26 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 27 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 28 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
-| 29 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
-| 30 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 31 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 32 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 33 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 36 | [The Bible](http://twitter.com/search?q=The+Bible) | N/A |
-| 37 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 38 | [Middle Eastern](http://twitter.com/search?q=Middle+Eastern) | N/A |
-| 39 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 40 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 41 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 42 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 43 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 44 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 45 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 46 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 47 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 48 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 49 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 17 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 18 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 19 | [Cleese](http://twitter.com/search?q=Cleese) | N/A |
+| 20 | [David Goodwillie](http://twitter.com/search?q=David+Goodwillie) | N/A |
+| 21 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 22 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 23 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
+| 24 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 25 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 26 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 27 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 28 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 29 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 30 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 31 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 32 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
+| 33 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 34 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 35 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 36 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 39 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 40 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 41 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 42 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 43 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 44 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 45 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 46 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 47 | [Middle Eastern](http://twitter.com/search?q=Middle+Eastern) | N/A |
+| 48 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 49 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
 
 
 

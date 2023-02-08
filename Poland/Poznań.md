@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-08 11:15:14 UTC`
+📆 Last Updated: `2023-02-08 12:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BestselleryEmpiku](http://twitter.com/search?q=%23BestselleryEmpiku) | N/A |
-| 2 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 3 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
-| 4 | [LeBrona](http://twitter.com/search?q=LeBrona) | N/A |
-| 5 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 6 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 7 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 8 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 10 | [#secretgame](http://twitter.com/search?q=%23secretgame) | N/A |
-| 11 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 12 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
+| 2 | [Andrzej Poczobut](http://twitter.com/search?q=Andrzej+Poczobut) | N/A |
+| 3 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 4 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
+| 5 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 6 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 8 | [#SecretGame](http://twitter.com/search?q=%23SecretGame) | N/A |
+| 9 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 10 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 11 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
+| 12 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 13 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 15 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 16 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 17 | [Wielkiej Brytanii](http://twitter.com/search?q=Wielkiej+Brytanii) | N/A |
-| 18 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 19 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 20 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 21 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 22 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 23 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 24 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 25 | [Powstania Styczniowego](http://twitter.com/search?q=Powstania+Styczniowego) | N/A |
-| 26 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 27 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
-| 28 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 14 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
+| 15 | [Wielkiej Brytanii](http://twitter.com/search?q=Wielkiej+Brytanii) | N/A |
+| 16 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 17 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 18 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 19 | [Szymona Hołowni](http://twitter.com/search?q=Szymona+Ho%c5%82owni) | N/A |
+| 20 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 21 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 22 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 23 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 24 | [Zielonych](http://twitter.com/search?q=Zielonych) | N/A |
+| 25 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 26 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 27 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 28 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
 | 29 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
-| 30 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 31 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 32 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 33 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 34 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 35 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 36 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 39 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 40 | [Premiera](http://twitter.com/search?q=Premiera) | N/A |
-| 41 | [Górnicy](http://twitter.com/search?q=G%c3%b3rnicy) | N/A |
-| 42 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 43 | [Pinokio](http://twitter.com/search?q=Pinokio) | N/A |
-| 44 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 45 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 46 | [Rząd PiS](http://twitter.com/search?q=Rz%c4%85d+PiS) | N/A |
-| 47 | [Morawieckiego](http://twitter.com/search?q=Morawieckiego) | N/A |
-| 48 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 49 | [Tusku](http://twitter.com/search?q=Tusku) | N/A |
-| 50 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 30 | [Polska 2050](http://twitter.com/search?q=Polska+2050) | N/A |
+| 31 | [Zieloni](http://twitter.com/search?q=Zieloni) | N/A |
+| 32 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 33 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 34 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
+| 35 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 36 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 37 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 38 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 39 | [Sarkazm](http://twitter.com/search?q=Sarkazm) | N/A |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 42 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 44 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 45 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 46 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
+| 47 | [Departament Stanu USA](http://twitter.com/search?q=Departament+Stanu+USA) | N/A |
+| 48 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 49 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 50 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
 
 
 

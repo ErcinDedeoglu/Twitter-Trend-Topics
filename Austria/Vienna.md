@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-08 11:15:14 UTC`
+📆 Last Updated: `2023-02-08 12:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
 | 2 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 3 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 4 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 3 | [Türkei](http://twitter.com/search?q=T%c3%bcrkei) | N/A |
+| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 5 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
 | 6 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
 | 7 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 8 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 9 | [Wurzeln](http://twitter.com/search?q=Wurzeln) | N/A |
-| 10 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 11 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 12 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
-| 13 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
-| 14 | [#w0602](http://twitter.com/search?q=%23w0602) | N/A |
-| 15 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 16 | [Stein](http://twitter.com/search?q=Stein) | N/A |
-| 17 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 18 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
-| 19 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 20 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 21 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 22 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 23 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 24 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
-| 25 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 28 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 29 | [Ergebnisse](http://twitter.com/search?q=Ergebnisse) | N/A |
-| 30 | [Frauenpolitik](http://twitter.com/search?q=Frauenpolitik) | N/A |
-| 31 | [Helfer](http://twitter.com/search?q=Helfer) | N/A |
-| 32 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 33 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 34 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 35 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 36 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 37 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
-| 38 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 39 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
-| 40 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 41 | [depperten](http://twitter.com/search?q=depperten) | N/A |
-| 42 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
-| 43 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 44 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 45 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
-| 46 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 47 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 48 | [Typen](http://twitter.com/search?q=Typen) | N/A |
-| 49 | [Toilette](http://twitter.com/search?q=Toilette) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 8 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 9 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 10 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 11 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 12 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
+| 13 | [#w0602](http://twitter.com/search?q=%23w0602) | N/A |
+| 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 15 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
+| 16 | [Wurzeln](http://twitter.com/search?q=Wurzeln) | N/A |
+| 17 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 18 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 19 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 21 | [Frauenpolitik](http://twitter.com/search?q=Frauenpolitik) | N/A |
+| 22 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 23 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 24 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 25 | [Ergebnisse](http://twitter.com/search?q=Ergebnisse) | N/A |
+| 26 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 27 | [helfer](http://twitter.com/search?q=helfer) | N/A |
+| 28 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 29 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 30 | [Sauerei](http://twitter.com/search?q=Sauerei) | N/A |
+| 31 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 32 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 33 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
+| 34 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 35 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
+| 36 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
+| 37 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 38 | [depperten](http://twitter.com/search?q=depperten) | N/A |
+| 39 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 40 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
+| 41 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 42 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
+| 43 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 44 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 45 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 46 | [Toilette](http://twitter.com/search?q=Toilette) | N/A |
+| 47 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 49 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
+| 50 | [Welten](http://twitter.com/search?q=Welten) | N/A |
 
 
 

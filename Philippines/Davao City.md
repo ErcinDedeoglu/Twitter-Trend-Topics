@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-08 11:15:29 UTC`
+📆 Last Updated: `2023-02-08 12:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,50 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
-| 2 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
-| 3 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 2 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 3 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
 | 4 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
-| 5 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 5 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
 | 6 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
 | 7 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
-| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 9 | [TEENCLASH JOSHMANDY ON BRGY](http://twitter.com/search?q=TEENCLASH+JOSHMANDY+ON+BRGY) | N/A |
-| 10 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 11 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 13 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
-| 14 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 15 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [JANENELLA AngTunayNaBIDA](http://twitter.com/search?q=JANENELLA+AngTunayNaBIDA) | N/A |
-| 18 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 8 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 9 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
+| 10 | [ROYALTY SEATED](http://twitter.com/search?q=ROYALTY+SEATED) | N/A |
+| 11 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 12 | [TEENCLASH JOSHMANDY ON BRGY](http://twitter.com/search?q=TEENCLASH+JOSHMANDY+ON+BRGY) | N/A |
+| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 14 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
+| 17 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 18 | [Janella](http://twitter.com/search?q=Janella) | N/A |
+| 19 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
 | 20 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 21 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 22 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
-| 23 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
-| 24 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 25 | [#TEUBUSKING](http://twitter.com/search?q=%23TEUBUSKING) | N/A |
-| 26 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
-| 27 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
-| 28 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 29 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 30 | [#FELIPonTAG11AE](http://twitter.com/search?q=%23FELIPonTAG11AE) | N/A |
-| 31 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
+| 21 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
+| 22 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 23 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 24 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 25 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
+| 26 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
+| 27 | [#FELIPonTAG11AE](http://twitter.com/search?q=%23FELIPonTAG11AE) | N/A |
+| 28 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
+| 29 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
+| 30 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 31 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
 | 32 | [#OPPOReno8T](http://twitter.com/search?q=%23OPPOReno8T) | N/A |
-| 33 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 34 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
-| 35 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
-| 36 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
-| 37 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 38 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 39 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 40 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
-| 41 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
-| 42 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 43 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
-| 44 | [#OnlyREYSTERday](http://twitter.com/search?q=%23OnlyREYSTERday) | N/A |
+| 33 | [#TEUBUSKING](http://twitter.com/search?q=%23TEUBUSKING) | N/A |
+| 34 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 35 | [#Fendi](http://twitter.com/search?q=%23Fendi) | N/A |
+| 36 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 37 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
+| 38 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
+| 39 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
+| 40 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 41 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 42 | [#TwentyFiveWonDONNYfulYears](http://twitter.com/search?q=%23TwentyFiveWonDONNYfulYears) | N/A |
+| 43 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 44 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
+| 45 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
 
 
 

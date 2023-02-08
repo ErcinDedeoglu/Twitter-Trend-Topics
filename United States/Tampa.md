@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-02-08 11:15:50 UTC`
+📆 Last Updated: `2023-02-08 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 5 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 6 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 7 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 10 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 11 | [#KingJames](http://twitter.com/search?q=%23KingJames) | N/A |
-| 12 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 14 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 15 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 17 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
-| 18 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 20 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 21 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 22 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 23 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 24 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 25 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
-| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 27 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 28 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 29 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 30 | [Skip](http://twitter.com/search?q=Skip) | Skip is an informal verb meaning to move quickly, usually by jumping or hopping. It can also mean to avoid or ignore something, or to pass over something without doing it. |
-| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 32 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 33 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 34 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 35 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 37 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 38 | [Congrats King](http://twitter.com/search?q=Congrats+King) | N/A |
-| 39 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 41 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 42 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 43 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 44 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 45 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 46 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
-| 47 | [Kenrich Williams](http://twitter.com/search?q=Kenrich+Williams) | N/A |
-| 48 | [F-bomb](http://twitter.com/search?q=F-bomb) | N/A |
-| 49 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 50 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 1 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 2 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
+| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 5 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 10 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 13 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 14 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 16 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 17 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 18 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 20 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 21 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 22 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 23 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 24 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 25 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 26 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 27 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 28 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 29 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 30 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 31 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 32 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 33 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 34 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 35 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
+| 36 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 37 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 38 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 39 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
+| 40 | [Howler](http://twitter.com/search?q=Howler) | N/A |
+| 41 | [Skip](http://twitter.com/search?q=Skip) | Skip is an informal verb meaning to move quickly, usually by jumping or hopping. It can also mean to avoid or ignore something, or to pass over something without doing it. |
+| 42 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 43 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 44 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 45 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
+| 46 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 47 | [congrats king](http://twitter.com/search?q=congrats+king) | N/A |
+| 48 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 49 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 50 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
 
 
 
