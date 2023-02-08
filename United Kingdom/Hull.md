@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-08 16:16:09 UTC`
+📆 Last Updated: `2023-02-08 17:15:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 2 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 3 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
-| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 5 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 6 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 7 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 8 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
-| 9 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 10 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 2 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 3 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 4 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 5 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 6 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
+| 7 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
+| 8 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 9 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 10 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
 | 11 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 12 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 13 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
-| 14 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 15 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 16 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 17 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 18 | [Lindsay Hoyle](http://twitter.com/search?q=Lindsay+Hoyle) | N/A |
-| 19 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 20 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 21 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 22 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 23 | [Strawberry Place](http://twitter.com/search?q=Strawberry+Place) | N/A |
-| 24 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 25 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 26 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 27 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 28 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 29 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 30 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 31 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 32 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 33 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 34 | [Welby](http://twitter.com/search?q=Welby) | N/A |
-| 35 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 36 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 37 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 38 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 39 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 40 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 41 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 42 | [$VRA](http://twitter.com/search?q=%24VRA) | N/A |
-| 43 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 44 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 45 | [Ashford](http://twitter.com/search?q=Ashford) | N/A |
+| 12 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
+| 13 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
+| 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 15 | [Linfield](http://twitter.com/search?q=Linfield) | N/A |
+| 16 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 17 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 18 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 19 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
+| 20 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
+| 21 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 22 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 23 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 24 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 25 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 26 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 28 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 29 | [lindsay hoyle](http://twitter.com/search?q=lindsay+hoyle) | N/A |
+| 30 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 31 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 32 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 34 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 35 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 36 | [Strawberry Place](http://twitter.com/search?q=Strawberry+Place) | N/A |
+| 37 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 38 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 39 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 40 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 41 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 42 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 43 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 44 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 45 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
 | 46 | [Stansted](http://twitter.com/search?q=Stansted) | N/A |
-| 47 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
-| 48 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 49 | [David Goodwillie](http://twitter.com/search?q=David+Goodwillie) | N/A |
+| 47 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 48 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 49 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
 
 
 

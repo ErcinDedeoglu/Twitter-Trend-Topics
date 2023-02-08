@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-08 16:16:11 UTC`
+📆 Last Updated: `2023-02-08 17:15:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 2 | [#GarciaLuna](http://twitter.com/search?q=%23GarciaLuna) | N/A |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [#MuchoPoderoso](http://twitter.com/search?q=%23MuchoPoderoso) | N/A |
-| 6 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 7 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 10 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 11 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 12 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 13 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 14 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 15 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 16 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
-| 17 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 18 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 19 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 20 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
-| 21 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 22 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 23 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 24 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
-| 25 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 26 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 27 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 28 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 29 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 30 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 31 | [#KornoFestivalero](http://twitter.com/search?q=%23KornoFestivalero) | N/A |
-| 32 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 33 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
-| 34 | [#BarrioMañanero](http://twitter.com/search?q=%23BarrioMa%c3%b1anero) | N/A |
-| 35 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
-| 36 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
-| 37 | [#StrayKids_4BOnSpotify](http://twitter.com/search?q=%23StrayKids_4BOnSpotify) | N/A |
-| 38 | [#SKZ_4BillionStreams](http://twitter.com/search?q=%23SKZ_4BillionStreams) | N/A |
-| 39 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 2 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 3 | [Fecal](http://twitter.com/search?q=Fecal) | N/A |
+| 4 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [#MuchoPoderoso](http://twitter.com/search?q=%23MuchoPoderoso) | N/A |
+| 8 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 9 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 11 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 12 | [Carmelita](http://twitter.com/search?q=Carmelita) | N/A |
+| 13 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 14 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
+| 15 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 16 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 17 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 18 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 19 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 20 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 21 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 22 | [Quesillo](http://twitter.com/search?q=Quesillo) | N/A |
+| 23 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 24 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 25 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 26 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 27 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 28 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
+| 29 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 30 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 31 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 32 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 33 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
+| 34 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
+| 35 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
+| 36 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 37 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 38 | [Veytia](http://twitter.com/search?q=Veytia) | N/A |
+| 39 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 40 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 41 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 42 | [#Chetumal](http://twitter.com/search?q=%23Chetumal) | N/A |
+| 43 | [#StrayKids_4BOnSpotify](http://twitter.com/search?q=%23StrayKids_4BOnSpotify) | N/A |
+| 44 | [#SKZ_4BillionStreams](http://twitter.com/search?q=%23SKZ_4BillionStreams) | N/A |
+| 45 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 46 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 47 | [#cash](http://twitter.com/search?q=%23cash) | N/A |
+| 48 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-08 16:16:58 UTC`
+📆 Last Updated: `2023-02-08 17:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Canada
 | 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 10 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 11 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 12 | [#KingJames](http://twitter.com/search?q=%23KingJames) | N/A |
-| 13 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [Triple Treat Box](http://twitter.com/search?q=Triple+Treat+Box) | N/A |
-| 16 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 17 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 19 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 20 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
-| 21 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 22 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 23 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 12 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 13 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 14 | [#KingJames](http://twitter.com/search?q=%23KingJames) | N/A |
+| 15 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 16 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 17 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 18 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 21 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 22 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 23 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
 | 24 | [Premiers](http://twitter.com/search?q=Premiers) | N/A |
-| 25 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
-| 26 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 27 | [Jk rowling](http://twitter.com/search?q=Jk+rowling) | N/A |
-| 28 | [dernière heure](http://twitter.com/search?q=derni%c3%a8re+heure) | N/A |
-| 29 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 30 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 31 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 25 | [Triple Treat Box](http://twitter.com/search?q=Triple+Treat+Box) | N/A |
+| 26 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 27 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 29 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 30 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 31 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 32 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
 | 33 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 34 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 35 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 36 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 34 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 35 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
 | 37 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 38 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 39 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 40 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 41 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 38 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 39 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 40 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 41 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 42 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 44 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 45 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 46 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 48 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 49 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 50 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 43 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 44 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 45 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 46 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 47 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 49 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 50 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-08 16:16:54 UTC`
+📆 Last Updated: `2023-02-08 17:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 3 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 4 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 2 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
+| 3 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 4 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
 | 5 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
 | 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 10 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 11 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 12 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 14 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 15 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 8 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 9 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 10 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 12 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 13 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 14 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 15 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
 | 16 | [Romney](http://twitter.com/search?q=Romney) | N/A |
 | 17 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 18 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 20 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 21 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 22 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 23 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 25 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
-| 26 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
-| 27 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 28 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 29 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 30 | [Participation](http://twitter.com/search?q=Participation) | N/A |
-| 31 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 32 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 33 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 34 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 35 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 36 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 37 | [LIAR](http://twitter.com/search?q=LIAR) | N/A |
-| 38 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
-| 39 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 40 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
-| 41 | [Mama Cax](http://twitter.com/search?q=Mama+Cax) | N/A |
-| 42 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 43 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 44 | [Joe Lie-Den](http://twitter.com/search?q=Joe+Lie-Den) | N/A |
-| 45 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
-| 46 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
-| 47 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 48 | [The CMA](http://twitter.com/search?q=The+CMA) | N/A |
-| 49 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
-| 50 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 20 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 21 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 22 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 23 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 24 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 25 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 26 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 27 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
+| 28 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 29 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
+| 30 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 31 | [$GOOGL](http://twitter.com/search?q=%24GOOGL) | N/A |
+| 32 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 33 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
+| 34 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 35 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 36 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
+| 37 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 38 | [Participation](http://twitter.com/search?q=Participation) | N/A |
+| 39 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
+| 40 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 41 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
+| 42 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 43 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 44 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 45 | [Duran Duran](http://twitter.com/search?q=Duran+Duran) | N/A |
+| 46 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 47 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
+| 48 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 49 | [Bill Russell](http://twitter.com/search?q=Bill+Russell) | N/A |
+| 50 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
 
 
 

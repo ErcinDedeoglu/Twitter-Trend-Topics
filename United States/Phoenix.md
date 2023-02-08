@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-08 16:16:54 UTC`
+📆 Last Updated: `2023-02-08 17:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 4 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 5 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 1 | [#WLPC](http://twitter.com/search?q=%23WLPC) | N/A |
+| 2 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 3 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 4 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 5 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
 | 6 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 12 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 13 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 14 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 15 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 16 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
-| 17 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 18 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 19 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 20 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 21 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 22 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 23 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 25 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
-| 26 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 27 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
-| 28 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 29 | [Participation](http://twitter.com/search?q=Participation) | N/A |
-| 30 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 31 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 32 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 33 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 34 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 35 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 36 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 37 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 38 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 39 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 40 | [LIAR](http://twitter.com/search?q=LIAR) | N/A |
-| 41 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
-| 42 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 43 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
-| 44 | [Mama Cax](http://twitter.com/search?q=Mama+Cax) | N/A |
-| 45 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 46 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 47 | [Joe Lie-Den](http://twitter.com/search?q=Joe+Lie-Den) | N/A |
-| 48 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
-| 49 | [The CMA](http://twitter.com/search?q=The+CMA) | N/A |
-| 50 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 8 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 9 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 10 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 11 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 12 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 13 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 14 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 15 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 16 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 17 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 18 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 19 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 20 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 21 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 22 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 23 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 25 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 26 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 27 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 28 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 29 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
+| 30 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 31 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 32 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
+| 33 | [$GOOGL](http://twitter.com/search?q=%24GOOGL) | N/A |
+| 34 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 35 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
+| 36 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 37 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
+| 38 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 39 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 40 | [Participation](http://twitter.com/search?q=Participation) | N/A |
+| 41 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
+| 42 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 43 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
+| 44 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 45 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 46 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 47 | [Duran Duran](http://twitter.com/search?q=Duran+Duran) | N/A |
+| 48 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 49 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
+| 50 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
 
 
 

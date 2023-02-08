@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-08 16:16:23 UTC`
+📆 Last Updated: `2023-02-08 17:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
 | 3 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
 | 4 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 5 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 6 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 7 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 8 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 9 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 10 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 5 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 6 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 7 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 8 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 9 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 10 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
 | 11 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 14 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 14 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 15 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
 | 16 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 17 | [#MareDiGuai](http://twitter.com/search?q=%23MareDiGuai) | N/A |
-| 18 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 19 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 20 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 21 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 22 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 23 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 24 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
-| 25 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 26 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 27 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 28 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 17 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 18 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 19 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 20 | [#MareDiGuai](http://twitter.com/search?q=%23MareDiGuai) | N/A |
+| 21 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 22 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 23 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 25 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 26 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 27 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 28 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
 | 29 | [paolo bitta](http://twitter.com/search?q=paolo+bitta) | N/A |
-| 30 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 31 | [Auditel](http://twitter.com/search?q=Auditel) | N/A |
-| 32 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 33 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 34 | [Termini](http://twitter.com/search?q=Termini) | N/A |
+| 30 | [Termini](http://twitter.com/search?q=Termini) | N/A |
+| 31 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 32 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 33 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 34 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
 | 35 | [sangiovanni](http://twitter.com/search?q=sangiovanni) | N/A |
 | 36 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
 | 37 | [Olly](http://twitter.com/search?q=Olly) | N/A |
 | 38 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
 | 39 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
-| 40 | [Marta Bassino](http://twitter.com/search?q=Marta+Bassino) | N/A |
-| 41 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 42 | ["Brividi"](http://twitter.com/search?q=%22Brividi%22) | N/A |
-| 43 | [Vendemiale](http://twitter.com/search?q=Vendemiale) | N/A |
-| 44 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 45 | [Londra](http://twitter.com/search?q=Londra) | N/A |
+| 40 | [Vendemiale](http://twitter.com/search?q=Vendemiale) | N/A |
+| 41 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 42 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 43 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
+| 44 | [Auditel](http://twitter.com/search?q=Auditel) | N/A |
+| 45 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
 | 46 | [Grease](http://twitter.com/search?q=Grease) | N/A |
-| 47 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 47 | [Londra](http://twitter.com/search?q=Londra) | N/A |
 | 48 | [sergione](http://twitter.com/search?q=sergione) | N/A |
-| 49 | [Presidente della Repubblica](http://twitter.com/search?q=Presidente+della+Repubblica) | N/A |
-| 50 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 49 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 50 | [Presidente della Repubblica](http://twitter.com/search?q=Presidente+della+Repubblica) | N/A |
 
 
 
