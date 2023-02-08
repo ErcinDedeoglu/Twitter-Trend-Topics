@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-08 14:15:43 UTC`
+📆 Last Updated: `2023-02-08 15:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 2 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 3 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 4 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 5 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 7 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 8 | [SLEMAN SEMBADA](http://twitter.com/search?q=SLEMAN+SEMBADA) | N/A |
-| 9 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 1 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 2 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 3 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 4 | [Beng](http://twitter.com/search?q=Beng) | N/A |
+| 5 | [Superstar](http://twitter.com/search?q=Superstar) | N/A |
+| 6 | [SLEMAN SEMBADA](http://twitter.com/search?q=SLEMAN+SEMBADA) | N/A |
+| 7 | [Scotch x Win](http://twitter.com/search?q=Scotch+x+Win) | N/A |
+| 8 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 9 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
 | 10 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
-| 11 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 13 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 14 | [Scotch x Win](http://twitter.com/search?q=Scotch+x+Win) | N/A |
-| 15 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 16 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 17 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 18 | [Publish](http://twitter.com/search?q=Publish) | N/A |
-| 19 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 20 | [Banten 15310](http://twitter.com/search?q=Banten+15310) | N/A |
-| 21 | [Trailer Bed Friend](http://twitter.com/search?q=Trailer+Bed+Friend) | N/A |
-| 22 | [LASKAR SEMBADA DIGDAYA](http://twitter.com/search?q=LASKAR+SEMBADA+DIGDAYA) | N/A |
-| 23 | [AY-YO FIRST WIN](http://twitter.com/search?q=AY-YO+FIRST+WIN) | N/A |
-| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 11 | [Rasa Sayange](http://twitter.com/search?q=Rasa+Sayange) | N/A |
+| 12 | [Presiden RI Ir](http://twitter.com/search?q=Presiden+RI+Ir) | N/A |
+| 13 | [H. Joko Widodo](http://twitter.com/search?q=H.+Joko+Widodo) | N/A |
+| 14 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
+| 15 | [Trailer Bed Friend](http://twitter.com/search?q=Trailer+Bed+Friend) | N/A |
+| 16 | [Maluku](http://twitter.com/search?q=Maluku) | Maluku is a province in Indonesia, located in the eastern part of the country. The name Maluku is derived from the Arabic word for "islands". In English, it means "Islands of the East". |
+| 17 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 18 | [LIVE FOR YOURSELF DHU](http://twitter.com/search?q=LIVE+FOR+YOURSELF+DHU) | N/A |
+| 19 | [Bripda HS](http://twitter.com/search?q=Bripda+HS) | N/A |
+| 20 | [TNI-Polri](http://twitter.com/search?q=TNI-Polri) | N/A |
+| 21 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 22 | [Siomay](http://twitter.com/search?q=Siomay) | N/A |
+| 23 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 24 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
 | 25 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 26 | [Bripda HS](http://twitter.com/search?q=Bripda+HS) | N/A |
-| 27 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
-| 28 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 29 | [Ay-Yo 1st](http://twitter.com/search?q=Ay-Yo+1st) | N/A |
-| 30 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 31 | [Presiden RI Ir](http://twitter.com/search?q=Presiden+RI+Ir) | N/A |
-| 32 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 33 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 34 | [Rasa Sayange](http://twitter.com/search?q=Rasa+Sayange) | N/A |
-| 35 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
-| 36 | [Kimpet](http://twitter.com/search?q=Kimpet) | N/A |
-| 37 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
-| 38 | [Mas Heru](http://twitter.com/search?q=Mas+Heru) | N/A |
-| 39 | [H. Joko Widodo](http://twitter.com/search?q=H.+Joko+Widodo) | N/A |
-| 40 | [dongwoo](http://twitter.com/search?q=dongwoo) | N/A |
-| 41 | [belanja di lazada bucin sale](http://twitter.com/search?q=belanja+di+lazada+bucin+sale) | N/A |
-| 42 | [LPS SAHABAT NASABAH INDONESIA](http://twitter.com/search?q=LPS+SAHABAT+NASABAH+INDONESIA) | N/A |
-| 43 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 44 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 45 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 46 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 47 | [LIVE FOR YOURSELF DHU](http://twitter.com/search?q=LIVE+FOR+YOURSELF+DHU) | N/A |
-| 48 | [Gudeg](http://twitter.com/search?q=Gudeg) | N/A |
+| 26 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 27 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 28 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 29 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 30 | [#V1RTHDAY_with_NAV](http://twitter.com/search?q=%23V1RTHDAY_with_NAV) | N/A |
+| 31 | [#ᄇ1ᄇ1ᄌ1_1주년](http://twitter.com/search?q=%23%e1%84%871%e1%84%871%e1%84%8c1_1%ec%a3%bc%eb%85%84) | N/A |
+| 32 | [#PKBuntukBangsa](http://twitter.com/search?q=%23PKBuntukBangsa) | N/A |
+| 33 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 34 | [#ตัวอย่างอย่าเล่นกับอนล](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a5) | N/A |
+| 35 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 36 | [#StandWithMrBible](http://twitter.com/search?q=%23StandWithMrBible) | N/A |
+| 37 | [#RapimTNIPolri](http://twitter.com/search?q=%23RapimTNIPolri) | N/A |
+| 38 | [#SakuraForDHU](http://twitter.com/search?q=%23SakuraForDHU) | N/A |
+| 39 | [#宮脇咲良デジハリCM](http://twitter.com/search?q=%23%e5%ae%ae%e8%84%87%e5%92%b2%e8%89%af%e3%83%87%e3%82%b8%e3%83%8f%e3%83%aaCM) | N/A |
+| 40 | [#Titanic](http://twitter.com/search?q=%23Titanic) | N/A |
+| 41 | [#Airdrops](http://twitter.com/search?q=%23Airdrops) | N/A |
+| 42 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 43 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 44 | [#Mahagita200](http://twitter.com/search?q=%23Mahagita200) | N/A |
 
 
 

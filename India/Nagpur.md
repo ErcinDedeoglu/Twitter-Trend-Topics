@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-02-08 14:15:58 UTC`
+📆 Last Updated: `2023-02-08 15:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ValentinesWeek](http://twitter.com/search?q=%23ValentinesWeek) | N/A |
-| 2 | [#AdaniBackOnTrack](http://twitter.com/search?q=%23AdaniBackOnTrack) | N/A |
-| 3 | [#NarendraModiSpeech](http://twitter.com/search?q=%23NarendraModiSpeech) | N/A |
-| 4 | [#ModiInParliament](http://twitter.com/search?q=%23ModiInParliament) | N/A |
-| 5 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
-| 6 | [BHOLAA HAVOC IN 50DAYS](http://twitter.com/search?q=BHOLAA+HAVOC+IN+50DAYS) | N/A |
-| 7 | [कोर्ट परिसर](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b8%e0%a4%b0) | N/A |
-| 8 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 9 | [Animal Welfare Board of India](http://twitter.com/search?q=Animal+Welfare+Board+of+India) | N/A |
-| 10 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
-| 11 | [काका हाथरसी](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%95%e0%a4%be+%e0%a4%b9%e0%a4%be%e0%a4%a5%e0%a4%b0%e0%a4%b8%e0%a5%80) | N/A |
-| 12 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 13 | [दुष्यंत कुमार](http://twitter.com/search?q=%e0%a4%a6%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%af%e0%a4%82%e0%a4%a4+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 14 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 15 | [बड़ी अर्थव्यवस्था](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 16 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 17 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 18 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 19 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 20 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
-| 21 | [अधीर रंजन चौधरी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a4%a8+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 23 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 24 | [Jaisalmer](http://twitter.com/search?q=Jaisalmer) | N/A |
-| 25 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 26 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 27 | [महुआ मोइत्रा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%81%e0%a4%86+%e0%a4%ae%e0%a5%8b%e0%a4%87%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 28 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 29 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 30 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 31 | [KWAN ReEntry Dubious INSSRcs](http://twitter.com/search?q=KWAN+ReEntry+Dubious+INSSRcs) | N/A |
-| 32 | [होम लोन](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%ae+%e0%a4%b2%e0%a5%8b%e0%a4%a8) | N/A |
-| 33 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 34 | [ज़ाकिर हुसैन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%95%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
-| 35 | [लोक सभा](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 36 | [#BanChineseApp](http://twitter.com/search?q=%23BanChineseApp) | N/A |
-| 37 | [#Barzakh](http://twitter.com/search?q=%23Barzakh) | N/A |
-| 38 | [#VaathiTrailer](http://twitter.com/search?q=%23VaathiTrailer) | N/A |
-| 39 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
-| 40 | [#LokSabha](http://twitter.com/search?q=%23LokSabha) | N/A |
-| 41 | [#LoveForNation](http://twitter.com/search?q=%23LoveForNation) | N/A |
-| 42 | [#IconicSpadikamFromFeb9](http://twitter.com/search?q=%23IconicSpadikamFromFeb9) | N/A |
-| 43 | [#proposeday](http://twitter.com/search?q=%23proposeday) | N/A |
+| 1 | [Rahul](http://twitter.com/search?q=Rahul) | N/A |
+| 2 | [#NarendraModiSpeech](http://twitter.com/search?q=%23NarendraModiSpeech) | N/A |
+| 3 | [#ModiInParliament](http://twitter.com/search?q=%23ModiInParliament) | N/A |
+| 4 | [#BanChineseApp](http://twitter.com/search?q=%23BanChineseApp) | N/A |
+| 5 | [#Barzakh](http://twitter.com/search?q=%23Barzakh) | N/A |
+| 6 | [Non Bailable Warrant](http://twitter.com/search?q=Non+Bailable+Warrant) | N/A |
+| 7 | [Our Journalists](http://twitter.com/search?q=Our+Journalists) | N/A |
+| 8 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
+| 9 | [BHOLAA HAVOC IN 50DAYS](http://twitter.com/search?q=BHOLAA+HAVOC+IN+50DAYS) | N/A |
+| 10 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
+| 11 | [Sushant An Enigma](http://twitter.com/search?q=Sushant+An+Enigma) | N/A |
+| 12 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 13 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 14 | [कोर्ट परिसर](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b8%e0%a4%b0) | N/A |
+| 15 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 16 | [काका हाथरसी](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%95%e0%a4%be+%e0%a4%b9%e0%a4%be%e0%a4%a5%e0%a4%b0%e0%a4%b8%e0%a5%80) | N/A |
+| 17 | [Animal Welfare Board of India](http://twitter.com/search?q=Animal+Welfare+Board+of+India) | N/A |
+| 18 | [दुष्यंत कुमार](http://twitter.com/search?q=%e0%a4%a6%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%af%e0%a4%82%e0%a4%a4+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 19 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
+| 20 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
+| 21 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 23 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 24 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
+| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 26 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 27 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 29 | [Jaisalmer](http://twitter.com/search?q=Jaisalmer) | N/A |
+| 30 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 31 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 32 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 33 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 34 | [KWAN ReEntry Dubious INSSRcs](http://twitter.com/search?q=KWAN+ReEntry+Dubious+INSSRcs) | N/A |
+| 35 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 36 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
+| 37 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 38 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
+| 39 | [#भागता_चोर_रसिया](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%a4%e0%a4%be_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 40 | [#VaathiTrailer](http://twitter.com/search?q=%23VaathiTrailer) | N/A |
+| 41 | [#IconicSpadikamFromFeb9](http://twitter.com/search?q=%23IconicSpadikamFromFeb9) | N/A |
+| 42 | [#LokSabha](http://twitter.com/search?q=%23LokSabha) | N/A |
+| 43 | [#LoveForNation](http://twitter.com/search?q=%23LoveForNation) | N/A |
 | 44 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 | 45 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 46 | [#BorderGavaskarTrophy](http://twitter.com/search?q=%23BorderGavaskarTrophy) | N/A |
-| 47 | [#Dhanush](http://twitter.com/search?q=%23Dhanush) | N/A |
-| 48 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 49 | [#VenkyAtluri](http://twitter.com/search?q=%23VenkyAtluri) | N/A |
+| 46 | [#Dhanush](http://twitter.com/search?q=%23Dhanush) | N/A |
+| 47 | [#proposeday](http://twitter.com/search?q=%23proposeday) | N/A |
+| 48 | [#BorderGavaskarTrophy](http://twitter.com/search?q=%23BorderGavaskarTrophy) | N/A |
+| 49 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
 
 
 

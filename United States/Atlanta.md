@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-08 14:16:03 UTC`
+📆 Last Updated: `2023-02-08 15:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 2 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 2 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 3 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 4 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 5 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 11 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 12 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 14 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 15 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 16 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 18 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 19 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 20 | [#Wordle599](http://twitter.com/search?q=%23Wordle599) | N/A |
-| 21 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 11 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 12 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 13 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 14 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 15 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 16 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 17 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 18 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 20 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 21 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 22 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
 | 23 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 24 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 25 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 26 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 27 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 28 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 29 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
-| 30 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 31 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 32 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 33 | [Biden's State of the Union](http://twitter.com/search?q=Biden%27s+State+of+the+Union) | N/A |
-| 34 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 35 | [Howler](http://twitter.com/search?q=Howler) | N/A |
+| 24 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 25 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 26 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 27 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 28 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 29 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 30 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 31 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 32 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 33 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 34 | [bill russell](http://twitter.com/search?q=bill+russell) | N/A |
+| 35 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
 | 36 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 37 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 38 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 39 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
-| 40 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 41 | [mittens](http://twitter.com/search?q=mittens) | N/A |
-| 42 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 43 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 44 | [Bill Russell](http://twitter.com/search?q=Bill+Russell) | N/A |
-| 45 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 46 | [Swingers](http://twitter.com/search?q=Swingers) | N/A |
-| 47 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 48 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 49 | [WELL REGULATED](http://twitter.com/search?q=WELL+REGULATED) | N/A |
-| 50 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 37 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 38 | [Classless](http://twitter.com/search?q=Classless) | N/A |
+| 39 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 40 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
+| 41 | [Assault Weapon](http://twitter.com/search?q=Assault+Weapon) | N/A |
+| 42 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
+| 43 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 44 | [Biden's State of the Union](http://twitter.com/search?q=Biden%27s+State+of+the+Union) | N/A |
+| 45 | [British Parliament](http://twitter.com/search?q=British+Parliament) | N/A |
+| 46 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
+| 47 | [Howler](http://twitter.com/search?q=Howler) | N/A |
+| 48 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
+| 49 | [Punished](http://twitter.com/search?q=Punished) | N/A |
+| 50 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-08 14:15:39 UTC`
+📆 Last Updated: `2023-02-08 15:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
 | 3 | [#MH17](http://twitter.com/search?q=%23MH17) | N/A |
 | 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 5 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
-| 6 | [#NAChee](http://twitter.com/search?q=%23NAChee) | N/A |
-| 7 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 8 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 9 | [Buk-raket](http://twitter.com/search?q=Buk-raket) | N/A |
-| 10 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 5 | [#nachee](http://twitter.com/search?q=%23nachee) | N/A |
+| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 7 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
+| 8 | [Buk-raket](http://twitter.com/search?q=Buk-raket) | N/A |
+| 9 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 10 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
 | 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 12 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 13 | [Tata Steel](http://twitter.com/search?q=Tata+Steel) | N/A |
-| 14 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 15 | [ABN Amro](http://twitter.com/search?q=ABN+Amro) | N/A |
-| 16 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 17 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 18 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 19 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 20 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 21 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 22 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 23 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 24 | [gecondoleerd peter](http://twitter.com/search?q=gecondoleerd+peter) | N/A |
-| 25 | [van aken](http://twitter.com/search?q=van+aken) | N/A |
-| 26 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
-| 27 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 28 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 29 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 30 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 31 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 32 | [Essent](http://twitter.com/search?q=Essent) | N/A |
-| 33 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 34 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 35 | [Anne Frank Stichting](http://twitter.com/search?q=Anne+Frank+Stichting) | N/A |
-| 36 | [Nederlands-Indië](http://twitter.com/search?q=Nederlands-Indi%c3%ab) | N/A |
-| 37 | [Republikeinen](http://twitter.com/search?q=Republikeinen) | N/A |
-| 38 | [Woods](http://twitter.com/search?q=Woods) | N/A |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 40 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
-| 41 | [Jodenhaat](http://twitter.com/search?q=Jodenhaat) | N/A |
-| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 43 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 44 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 45 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 46 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 47 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 48 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 49 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
+| 12 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 13 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 14 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 15 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 16 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 17 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 18 | [ABN Amro](http://twitter.com/search?q=ABN+Amro) | N/A |
+| 19 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
+| 20 | [Tata Steel](http://twitter.com/search?q=Tata+Steel) | N/A |
+| 21 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 22 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 23 | [Openbaar Ministerie](http://twitter.com/search?q=Openbaar+Ministerie) | N/A |
+| 24 | [van aken](http://twitter.com/search?q=van+aken) | N/A |
+| 25 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 26 | [Anne Frank Stichting](http://twitter.com/search?q=Anne+Frank+Stichting) | N/A |
+| 27 | [Goeiemiddag](http://twitter.com/search?q=Goeiemiddag) | N/A |
+| 28 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 29 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 30 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 31 | [dag 7](http://twitter.com/search?q=dag+7) | N/A |
+| 32 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 33 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 34 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 35 | [Sjoerdsma](http://twitter.com/search?q=Sjoerdsma) | N/A |
+| 36 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 38 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 39 | [Essent](http://twitter.com/search?q=Essent) | N/A |
+| 40 | [Jodenhaat](http://twitter.com/search?q=Jodenhaat) | N/A |
+| 41 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 42 | [Hart van Nederland](http://twitter.com/search?q=Hart+van+Nederland) | N/A |
+| 43 | [Republikeinen](http://twitter.com/search?q=Republikeinen) | N/A |
+| 44 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 45 | [Dag 8](http://twitter.com/search?q=Dag+8) | N/A |
+| 46 | [Woods](http://twitter.com/search?q=Woods) | N/A |
+| 47 | [Haren](http://twitter.com/search?q=Haren) | N/A |
+| 48 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 49 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 50 | [johan remkes](http://twitter.com/search?q=johan+remkes) | N/A |
 
 
 

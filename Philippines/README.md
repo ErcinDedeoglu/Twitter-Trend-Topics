@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-08 14:16:18 UTC`
+📆 Last Updated: `2023-02-08 15:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
-| 2 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
-| 3 | [#DLDiversion](http://twitter.com/search?q=%23DLDiversion) | N/A |
-| 4 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 5 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
-| 6 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 7 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 8 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
+| 1 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 2 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 3 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 4 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 5 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
+| 7 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 8 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
 | 9 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
-| 10 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
-| 11 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 12 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
-| 13 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 14 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 15 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 16 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 17 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
-| 18 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
-| 19 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 20 | [Joel Villanueva](http://twitter.com/search?q=Joel+Villanueva) | N/A |
-| 21 | [ROYALTY SEATED](http://twitter.com/search?q=ROYALTY+SEATED) | N/A |
+| 10 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 11 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
+| 12 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 13 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
+| 14 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 15 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 16 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 17 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 18 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
+| 19 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 20 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 21 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
 | 22 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 23 | [Royalty](http://twitter.com/search?q=Royalty) | N/A |
 | 24 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 25 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 26 | [Janella](http://twitter.com/search?q=Janella) | N/A |
-| 27 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
-| 28 | [#LuvIsIsawAtBetamax](http://twitter.com/search?q=%23LuvIsIsawAtBetamax) | N/A |
-| 29 | [#DarnaSuperSavior](http://twitter.com/search?q=%23DarnaSuperSavior) | N/A |
-| 30 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
-| 31 | [#felipontag11ae](http://twitter.com/search?q=%23felipontag11ae) | N/A |
-| 32 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
-| 33 | [#SUGAxValentino](http://twitter.com/search?q=%23SUGAxValentino) | #SUGAxValentino is a hashtag used to promote a collaboration between the fashion brand Valentino and the South Korean girl group SUGA. The hashtag is used to promote the collaboration and its associated products. |
-| 34 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
-| 35 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
-| 36 | [#DreamMakerPieDateTop28](http://twitter.com/search?q=%23DreamMakerPieDateTop28) | N/A |
-| 37 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
-| 38 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 39 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
-| 40 | [#OPPOReno8T](http://twitter.com/search?q=%23OPPOReno8T) | N/A |
-| 41 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#Fendi](http://twitter.com/search?q=%23Fendi) | N/A |
-| 43 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 44 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 45 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 46 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
-| 47 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
-| 48 | [#globalprayerforhumanity](http://twitter.com/search?q=%23globalprayerforhumanity) | N/A |
-| 49 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 50 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 26 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
+| 27 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
+| 28 | [#OpeningTrailerPhoto_Momo](http://twitter.com/search?q=%23OpeningTrailerPhoto_Momo) | N/A |
+| 29 | [#초심_그이상의_사랑받는_정원](http://twitter.com/search?q=%23%ec%b4%88%ec%8b%ac_%ea%b7%b8%ec%9d%b4%ec%83%81%ec%9d%98_%ec%82%ac%eb%9e%91%eb%b0%9b%eb%8a%94_%ec%a0%95%ec%9b%90) | N/A |
+| 30 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 31 | [#DLDiversion](http://twitter.com/search?q=%23DLDiversion) | N/A |
+| 32 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
+| 33 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 34 | [#DreamMakerPieDateTop28](http://twitter.com/search?q=%23DreamMakerPieDateTop28) | N/A |
+| 35 | [#LuvIsIsawAtBetamax](http://twitter.com/search?q=%23LuvIsIsawAtBetamax) | N/A |
+| 36 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
+| 37 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
+| 38 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 39 | [#DarnaSuperSavior](http://twitter.com/search?q=%23DarnaSuperSavior) | N/A |
+| 40 | [#SUGAxValentino](http://twitter.com/search?q=%23SUGAxValentino) | #SUGAxValentino is a hashtag used to promote a collaboration between the fashion brand Valentino and the South Korean girl group SUGA. The hashtag is used to promote the collaboration and its associated products. |
+| 41 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
+| 42 | [#엔하이픈_정원](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88_%ec%a0%95%ec%9b%90) | N/A |
+| 43 | [#maniactourinmanila](http://twitter.com/search?q=%23maniactourinmanila) | N/A |
+| 44 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 45 | [#Fendi](http://twitter.com/search?q=%23Fendi) | N/A |
+| 46 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
+| 47 | [#FELIPonTAG11AE](http://twitter.com/search?q=%23FELIPonTAG11AE) | N/A |
+| 48 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
+| 49 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
+| 50 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

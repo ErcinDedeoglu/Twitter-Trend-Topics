@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-08 14:15:34 UTC`
+📆 Last Updated: `2023-02-08 15:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Mateusz Murański](http://twitter.com/search?q=Mateusz+Mura%c5%84ski) | N/A |
 | 2 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
-| 3 | [Andrzej Poczobut](http://twitter.com/search?q=Andrzej+Poczobut) | N/A |
-| 4 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 5 | [białorusi](http://twitter.com/search?q=bia%c5%82orusi) | N/A |
-| 6 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 7 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 8 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 9 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 10 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
-| 11 | [Gill-Piątek](http://twitter.com/search?q=Gill-Pi%c4%85tek) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [Andrzej Poczobut](http://twitter.com/search?q=Andrzej+Poczobut) | N/A |
+| 5 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 6 | [#famemma](http://twitter.com/search?q=%23famemma) | N/A |
+| 7 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 8 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 9 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 10 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 11 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 12 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 14 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
-| 15 | [Szymona Hołowni](http://twitter.com/search?q=Szymona+Ho%c5%82owni) | N/A |
-| 16 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 17 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 18 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 19 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 20 | [Zielonych](http://twitter.com/search?q=Zielonych) | N/A |
-| 21 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 22 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 23 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 13 | [Gill-Piątek](http://twitter.com/search?q=Gill-Pi%c4%85tek) | N/A |
+| 14 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 15 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 16 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
+| 17 | [Jaca](http://twitter.com/search?q=Jaca) | N/A |
+| 18 | [Wołodymyr Zełenski](http://twitter.com/search?q=Wo%c5%82odymyr+Ze%c5%82enski) | N/A |
+| 19 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 20 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 21 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 22 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 23 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
 | 24 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 25 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 26 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 27 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 28 | [górach izerskich](http://twitter.com/search?q=g%c3%b3rach+izerskich) | N/A |
-| 29 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
-| 30 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
-| 31 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 25 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 26 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 27 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
+| 28 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 29 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 30 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 31 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
 | 32 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 33 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 34 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 33 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 34 | [Zełeńskiego](http://twitter.com/search?q=Ze%c5%82e%c5%84skiego) | N/A |
 | 35 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 36 | [Wołodymyr Zełenski](http://twitter.com/search?q=Wo%c5%82odymyr+Ze%c5%82enski) | N/A |
-| 37 | [Zieloni](http://twitter.com/search?q=Zieloni) | N/A |
-| 38 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 39 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
-| 40 | [Polska 2050](http://twitter.com/search?q=Polska+2050) | N/A |
-| 41 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 36 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 37 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
+| 38 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 39 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 40 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
+| 41 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
 | 42 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 43 | [Sąd Okręgowy](http://twitter.com/search?q=S%c4%85d+Okr%c4%99gowy) | N/A |
-| 44 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
-| 45 | [górnicy](http://twitter.com/search?q=g%c3%b3rnicy) | N/A |
-| 46 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 47 | [Szymek](http://twitter.com/search?q=Szymek) | N/A |
-| 48 | [departament stanu usa](http://twitter.com/search?q=departament+stanu+usa) | N/A |
-| 49 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 50 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 43 | [Szymka](http://twitter.com/search?q=Szymka) | N/A |
+| 44 | [Wielkiej Brytanii](http://twitter.com/search?q=Wielkiej+Brytanii) | N/A |
+| 45 | [Zieloni](http://twitter.com/search?q=Zieloni) | N/A |
+| 46 | [Departament Stanu USA](http://twitter.com/search?q=Departament+Stanu+USA) | N/A |
+| 47 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 48 | [Kareema](http://twitter.com/search?q=Kareema) | N/A |
+| 49 | [ślązacy](http://twitter.com/search?q=%c5%9bl%c4%85zacy) | N/A |
+| 50 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
 
 
 
