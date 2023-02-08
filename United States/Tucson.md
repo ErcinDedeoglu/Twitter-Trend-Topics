@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-08 15:16:24 UTC`
+📆 Last Updated: `2023-02-08 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 2 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 3 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 4 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
 | 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 9 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 10 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 11 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 12 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 13 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 14 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 16 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 10 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 11 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 12 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 14 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 15 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 16 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
 | 17 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 18 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 19 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 20 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 21 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 22 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 23 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 24 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 25 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 26 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 27 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 28 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 29 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 30 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 31 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 32 | [Bill Russell](http://twitter.com/search?q=Bill+Russell) | N/A |
-| 33 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 34 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 35 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 36 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 37 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 38 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
-| 39 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
-| 40 | [Assault Weapon](http://twitter.com/search?q=Assault+Weapon) | N/A |
-| 41 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 42 | [Biden's State of the Union](http://twitter.com/search?q=Biden%27s+State+of+the+Union) | N/A |
-| 43 | [British Parliament](http://twitter.com/search?q=British+Parliament) | N/A |
-| 44 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
-| 45 | [Howler](http://twitter.com/search?q=Howler) | N/A |
-| 46 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
-| 47 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 48 | [Hanging](http://twitter.com/search?q=Hanging) | N/A |
+| 18 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 20 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 21 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 22 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 23 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 25 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
+| 26 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 27 | [Participation](http://twitter.com/search?q=Participation) | N/A |
+| 28 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 29 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 30 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 31 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 32 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 33 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 34 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 35 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 36 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 37 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 38 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 39 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
+| 40 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 41 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
+| 42 | [Mama Cax](http://twitter.com/search?q=Mama+Cax) | N/A |
+| 43 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 44 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 45 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 46 | [Joe Lie-Den](http://twitter.com/search?q=Joe+Lie-Den) | N/A |
+| 47 | [The CMA](http://twitter.com/search?q=The+CMA) | N/A |
+| 48 | [Assault](http://twitter.com/search?q=Assault) | N/A |
 | 49 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
-| 50 | [Swingers](http://twitter.com/search?q=Swingers) | N/A |
+| 50 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
 
 
 

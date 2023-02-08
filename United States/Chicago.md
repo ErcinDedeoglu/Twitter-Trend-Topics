@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-08 15:16:17 UTC`
+📆 Last Updated: `2023-02-08 16:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 3 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 4 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 3 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
 | 6 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 11 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 12 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 13 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 16 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 18 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 19 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 21 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 22 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 23 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 24 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 25 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 26 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 27 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 28 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 29 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 30 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 31 | [bill russell](http://twitter.com/search?q=bill+russell) | N/A |
-| 32 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 33 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 34 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 35 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 36 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 37 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
-| 38 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
-| 39 | [Assault Weapon](http://twitter.com/search?q=Assault+Weapon) | N/A |
-| 40 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 41 | [Biden's State of the Union](http://twitter.com/search?q=Biden%27s+State+of+the+Union) | N/A |
-| 42 | [British Parliament](http://twitter.com/search?q=British+Parliament) | N/A |
-| 43 | [Fact Check](http://twitter.com/search?q=Fact+Check) | N/A |
-| 44 | [Howler](http://twitter.com/search?q=Howler) | N/A |
-| 45 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
-| 46 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 47 | [Hanging](http://twitter.com/search?q=Hanging) | N/A |
-| 48 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
-| 49 | [Swingers](http://twitter.com/search?q=Swingers) | N/A |
-| 50 | [Punished](http://twitter.com/search?q=Punished) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 9 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 10 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 12 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 13 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 14 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 15 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 16 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 17 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 18 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 19 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 20 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 21 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 23 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 24 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
+| 25 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 26 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 28 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 29 | [Participation](http://twitter.com/search?q=Participation) | N/A |
+| 30 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 31 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 32 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 33 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 34 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 35 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 36 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 37 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
+| 38 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 39 | [Mittens](http://twitter.com/search?q=Mittens) | N/A |
+| 40 | [Mama Cax](http://twitter.com/search?q=Mama+Cax) | N/A |
+| 41 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 42 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 43 | [Joe Lie-Den](http://twitter.com/search?q=Joe+Lie-Den) | N/A |
+| 44 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
+| 45 | [The CMA](http://twitter.com/search?q=The+CMA) | N/A |
+| 46 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 47 | [Savannah James](http://twitter.com/search?q=Savannah+James) | N/A |
+| 48 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 49 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 50 | [$GOOG](http://twitter.com/search?q=%24GOOG) | N/A |
 
 
 

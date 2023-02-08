@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-08 15:15:50 UTC`
+📆 Last Updated: `2023-02-08 16:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,49 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 2 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 3 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 5 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 6 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 7 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 8 | [Meilleur Arc DB](http://twitter.com/search?q=Meilleur+Arc+DB) | N/A |
-| 9 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 10 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 11 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
-| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 13 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 14 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 15 | [Johannes](http://twitter.com/search?q=Johannes) | N/A |
-| 16 | [Volodymyr Zelensky](http://twitter.com/search?q=Volodymyr+Zelensky) | N/A |
-| 17 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 18 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 19 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
-| 20 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 21 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 22 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 23 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 24 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 25 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 26 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 27 | [Siboy](http://twitter.com/search?q=Siboy) | N/A |
-| 28 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 29 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 31 | [Gitans](http://twitter.com/search?q=Gitans) | N/A |
-| 32 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 33 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 34 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 35 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 36 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 37 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 38 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 39 | [Grégoire](http://twitter.com/search?q=Gr%c3%a9goire) | N/A |
-| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 41 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
-| 42 | [MILS](http://twitter.com/search?q=MILS) | N/A |
-| 43 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 44 | [Michel Der Zakarian](http://twitter.com/search?q=Michel+Der+Zakarian) | N/A |
-| 45 | [JOUR DE CLASSIQUE](http://twitter.com/search?q=JOUR+DE+CLASSIQUE) | N/A |
-| 46 | [Larcher](http://twitter.com/search?q=Larcher) | N/A |
-| 47 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 48 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 1 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 2 | [Meilleur Arc DB](http://twitter.com/search?q=Meilleur+Arc+DB) | N/A |
+| 3 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 4 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 5 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 6 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
+| 7 | [Valérie](http://twitter.com/search?q=Val%c3%a9rie) | N/A |
+| 8 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 9 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 10 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
+| 11 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 12 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 13 | [siboy](http://twitter.com/search?q=siboy) | N/A |
+| 14 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 15 | [Larcher](http://twitter.com/search?q=Larcher) | N/A |
+| 16 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 18 | [Grégoire](http://twitter.com/search?q=Gr%c3%a9goire) | N/A |
+| 19 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 20 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 21 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 22 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 23 | [Bertrand](http://twitter.com/search?q=Bertrand) | N/A |
+| 24 | [Léa Salamé](http://twitter.com/search?q=L%c3%a9a+Salam%c3%a9) | N/A |
+| 25 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 26 | [Kurdes](http://twitter.com/search?q=Kurdes) | Kurdes is a term used to refer to the Kurdish people, an ethnic group living mainly in the Middle East. The word is derived from the ancient Kurdish language and means "people of the mountains". In English, it can be translated as "Kurdish people". |
+| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 28 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 29 | [#Oberhof23](http://twitter.com/search?q=%23Oberhof23) | N/A |
+| 30 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 31 | [#WednesdayMoji](http://twitter.com/search?q=%23WednesdayMoji) | N/A |
+| 32 | [#booba](http://twitter.com/search?q=%23booba) | N/A |
+| 33 | [#sauvetonpaysan](http://twitter.com/search?q=%23sauvetonpaysan) | N/A |
+| 34 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 35 | [#agriculteurs](http://twitter.com/search?q=%23agriculteurs) | N/A |
+| 36 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
+| 37 | [#MKN23](http://twitter.com/search?q=%23MKN23) | N/A |
+| 38 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
+| 39 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 40 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 41 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 42 | [#Google](http://twitter.com/search?q=%23Google) | N/A |
+| 43 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
 
 
 

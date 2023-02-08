@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-08 15:16:25 UTC`
+📆 Last Updated: `2023-02-08 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,40 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 3 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 4 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 6 | [Elisa Carrió](http://twitter.com/search?q=Elisa+Carri%c3%b3) | N/A |
-| 7 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 8 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 9 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 10 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 11 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 12 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 13 | [Thomsen](http://twitter.com/search?q=Thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
-| 14 | [#StrayKids_4BOnSpotify](http://twitter.com/search?q=%23StrayKids_4BOnSpotify) | N/A |
-| 15 | [#SKZ_4BillionStreams](http://twitter.com/search?q=%23SKZ_4BillionStreams) | N/A |
-| 16 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 17 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 18 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 19 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 20 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 21 | [Rivadavia](http://twitter.com/search?q=Rivadavia) | N/A |
-| 22 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 23 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 25 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 26 | [Zuculini](http://twitter.com/search?q=Zuculini) | N/A |
-| 27 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 29 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
-| 30 | [JOANA](http://twitter.com/search?q=JOANA) | N/A |
-| 31 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 32 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 33 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 34 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 35 | [martín miguel de güemes](http://twitter.com/search?q=mart%c3%adn+miguel+de+g%c3%bcemes) | N/A |
-| 36 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 37 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 38 | [Coalición Cívica](http://twitter.com/search?q=Coalici%c3%b3n+C%c3%advica) | N/A |
-| 39 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
-| 40 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 41 | [Peña Biafore](http://twitter.com/search?q=Pe%c3%b1a+Biafore) | N/A |
-| 42 | [Manzur](http://twitter.com/search?q=Manzur) | N/A |
-| 43 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 44 | [Canosa](http://twitter.com/search?q=Canosa) | N/A |
-| 45 | [Catamarca](http://twitter.com/search?q=Catamarca) | N/A |
-| 46 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 47 | [Gilmour](http://twitter.com/search?q=Gilmour) | N/A |
-| 48 | [Skyler](http://twitter.com/search?q=Skyler) | N/A |
-| 49 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 50 | [madre de ciudades](http://twitter.com/search?q=madre+de+ciudades) | N/A |
+| 2 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 3 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 4 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 5 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 6 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 7 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 8 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 9 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 11 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 12 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 13 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 14 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 16 | [Martín Miguel de Güemes](http://twitter.com/search?q=Mart%c3%adn+Miguel+de+G%c3%bcemes) | N/A |
+| 17 | [Catamarca](http://twitter.com/search?q=Catamarca) | N/A |
+| 18 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 19 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 21 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 22 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
+| 23 | [Mauro Szeta](http://twitter.com/search?q=Mauro+Szeta) | N/A |
+| 24 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
+| 25 | [Zuculini](http://twitter.com/search?q=Zuculini) | N/A |
+| 26 | [Manzur](http://twitter.com/search?q=Manzur) | N/A |
+| 27 | [Kranevitter](http://twitter.com/search?q=Kranevitter) | Kranevitter is a surname of German origin. It is derived from the German words "Kran" (crane) and "Vitter" (fighter). The name literally translates to "crane fighter" or "one who fights with a crane". |
+| 28 | [Frente de Todos](http://twitter.com/search?q=Frente+de+Todos) | N/A |
+| 29 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 30 | [#ArielEnSuSalsa](http://twitter.com/search?q=%23ArielEnSuSalsa) | N/A |
+| 31 | [#alabarbarrosa](http://twitter.com/search?q=%23alabarbarrosa) | N/A |
+| 32 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 33 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 34 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 35 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-02-08 15:15:42 UTC`
+📆 Last Updated: `2023-02-08 16:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,43 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [#KornoFestivalero](http://twitter.com/search?q=%23KornoFestivalero) | N/A |
-| 6 | [#BarrioMañanero](http://twitter.com/search?q=%23BarrioMa%c3%b1anero) | N/A |
-| 7 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 8 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 9 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 10 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 11 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 12 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 13 | [Línea B](http://twitter.com/search?q=L%c3%adnea+B) | N/A |
-| 14 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 15 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
-| 16 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 17 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 18 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
-| 19 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 21 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 22 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
-| 23 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 24 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 25 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 26 | [Miguel Díaz](http://twitter.com/search?q=Miguel+D%c3%adaz) | N/A |
-| 27 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
-| 28 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 29 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 30 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 31 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 34 | [Santi Cobos](http://twitter.com/search?q=Santi+Cobos) | N/A |
-| 35 | [the return of sniper](http://twitter.com/search?q=the+return+of+sniper) | N/A |
-| 36 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
-| 37 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 38 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 39 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 40 | [Humberto Moreira](http://twitter.com/search?q=Humberto+Moreira) | N/A |
-| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 42 | [Jano](http://twitter.com/search?q=Jano) | N/A |
-| 43 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 44 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 45 | [Manelyk](http://twitter.com/search?q=Manelyk) | N/A |
-| 46 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 47 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 48 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 49 | [Cesar Romero](http://twitter.com/search?q=Cesar+Romero) | N/A |
-| 50 | [Epigmenio Ibarra](http://twitter.com/search?q=Epigmenio+Ibarra) | N/A |
+| 3 | [#MuchoPoderoso](http://twitter.com/search?q=%23MuchoPoderoso) | N/A |
+| 4 | [#KornoFestivalero](http://twitter.com/search?q=%23KornoFestivalero) | N/A |
+| 5 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 6 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
+| 7 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 9 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 10 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 11 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 12 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 13 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 14 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 15 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 16 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 17 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 18 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 19 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 20 | [El Diablo](http://twitter.com/search?q=El+Diablo) | N/A |
+| 21 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 22 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 23 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 24 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
+| 25 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 26 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 27 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 28 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 29 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 30 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
+| 31 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 32 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 33 | [#BarrioMañanero](http://twitter.com/search?q=%23BarrioMa%c3%b1anero) | N/A |
+| 34 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 35 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 36 | [#StrayKids_4BOnSpotify](http://twitter.com/search?q=%23StrayKids_4BOnSpotify) | N/A |
+| 37 | [#SKZ_4BillionStreams](http://twitter.com/search?q=%23SKZ_4BillionStreams) | N/A |
+| 38 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 39 | [#GarcíaLuna](http://twitter.com/search?q=%23Garc%c3%adaLuna) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-08 15:15:54 UTC`
+📆 Last Updated: `2023-02-08 16:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
-| 2 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 3 | [Tente](http://twitter.com/search?q=Tente) | N/A |
-| 4 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [Evole](http://twitter.com/search?q=Evole) | N/A |
-| 7 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 10 | [#Solos8F](http://twitter.com/search?q=%23Solos8F) | N/A |
-| 11 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 12 | [#APOYOROCIO8F](http://twitter.com/search?q=%23APOYOROCIO8F) | N/A |
+| 1 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Tente](http://twitter.com/search?q=Tente) | N/A |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
+| 8 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 9 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 10 | [Evole](http://twitter.com/search?q=Evole) | N/A |
+| 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 12 | [#Solos8F](http://twitter.com/search?q=%23Solos8F) | N/A |
 | 13 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 14 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 15 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 16 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 17 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 18 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 19 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 20 | [Llop](http://twitter.com/search?q=Llop) | N/A |
-| 21 | [Borrell](http://twitter.com/search?q=Borrell) | N/A |
-| 22 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 23 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 24 | [Siro](http://twitter.com/search?q=Siro) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 28 | [Canal Sur](http://twitter.com/search?q=Canal+Sur) | N/A |
-| 29 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 30 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
-| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 32 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
-| 33 | [Vesna](http://twitter.com/search?q=Vesna) | N/A |
-| 34 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 35 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 36 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 37 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 38 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 39 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 40 | [#YoMeRebelo8F](http://twitter.com/search?q=%23YoMeRebelo8F) | N/A |
-| 41 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 42 | [#SanValentín](http://twitter.com/search?q=%23SanValent%c3%adn) | N/A |
-| 43 | [#Goya2023](http://twitter.com/search?q=%23Goya2023) | N/A |
+| 14 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 15 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 17 | [#APOYOROCIO8F](http://twitter.com/search?q=%23APOYOROCIO8F) | N/A |
+| 18 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 19 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 20 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 21 | [Cospedal](http://twitter.com/search?q=Cospedal) | N/A |
+| 22 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 23 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 24 | [Llop](http://twitter.com/search?q=Llop) | N/A |
+| 25 | [Borrell](http://twitter.com/search?q=Borrell) | N/A |
+| 26 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 27 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
+| 28 | [Adif](http://twitter.com/search?q=Adif) | N/A |
+| 29 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 30 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 31 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 32 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 33 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 34 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 35 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 36 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 37 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 38 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 39 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 40 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 41 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 42 | [Canal Sur](http://twitter.com/search?q=Canal+Sur) | N/A |
+| 43 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 44 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 45 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 46 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
+| 47 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 48 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
+| 49 | [BotW](http://twitter.com/search?q=BotW) | N/A |
 
 
 

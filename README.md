@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-08 15:15:36 UTC`
+📆 Last Updated: `2023-02-08 16:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,51 +25,51 @@ This is top 50
 | 3 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
 | 4 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
 | 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [散切り頭](http://twitter.com/search?q=%e6%95%a3%e5%88%87%e3%82%8a%e9%a0%ad) | N/A |
-| 7 | [mixi](http://twitter.com/search?q=mixi) | Mixi is a Japanese social networking service. It allows users to connect with friends, family, and colleagues, share photos and videos, and join online communities. The name "mixi" is derived from the words "mix" and "I", referring to the idea of connecting people together. |
-| 8 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 9 | [알티추첨](http://twitter.com/search?q=%ec%95%8c%ed%8b%b0%ec%b6%94%ec%b2%a8) | N/A |
-| 10 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 11 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 12 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 13 | [クロちゃん](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | クロちゃん is a nickname for the Japanese character Kuroko, a black cat from the manga series "Kuroko no Basuke". The English translation of クロちゃん is "Kuro-chan". |
-| 14 | [シッカロール](http://twitter.com/search?q=%e3%82%b7%e3%83%83%e3%82%ab%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 15 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 16 | [イベおつ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%81%8a%e3%81%a4) | イベおつ is an abbreviation of イベントお疲れ様 (Event Otsukaresama), which is a phrase used to express appreciation for someone's hard work in organizing or participating in an event. In English, it can be translated as "Thank you for your hard work on the event". |
-| 17 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 18 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 19 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
-| 20 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 21 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
-| 22 | [Twitter危機](http://twitter.com/search?q=Twitter%e5%8d%b1%e6%a9%9f) | N/A |
-| 23 | [右京さん](http://twitter.com/search?q=%e5%8f%b3%e4%ba%ac%e3%81%95%e3%82%93) | 右京さん is a nickname for the Japanese Prime Minister, Yoshihide Suga. It is a play on words, as the characters for "右" (migi) and "京" (kyo) can be combined to form the word "Suga". In English, it could be translated as "Mr. Suga". |
-| 24 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 25 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 26 | [サモンナイト](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%b3%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 27 | [알티이벤](http://twitter.com/search?q=%ec%95%8c%ed%8b%b0%ec%9d%b4%eb%b2%a4) | N/A |
-| 28 | [Mateusz Murański](http://twitter.com/search?q=Mateusz+Mura%c5%84ski) | N/A |
-| 29 | [文明開化の音](http://twitter.com/search?q=%e6%96%87%e6%98%8e%e9%96%8b%e5%8c%96%e3%81%ae%e9%9f%b3) | N/A |
-| 30 | [Trailer Bed Friend](http://twitter.com/search?q=Trailer+Bed+Friend) | N/A |
-| 31 | [初音ちゃん](http://twitter.com/search?q=%e5%88%9d%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 32 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 33 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
-| 34 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 35 | [朝陽さん](http://twitter.com/search?q=%e6%9c%9d%e9%99%bd%e3%81%95%e3%82%93) | 朝陽さん is a Japanese term of endearment that translates to "dear morning sun". It is used to refer to someone who brings light and warmth into one's life. |
-| 36 | [Bant](http://twitter.com/search?q=Bant) | N/A |
-| 37 | [Scotch x Win](http://twitter.com/search?q=Scotch+x+Win) | N/A |
-| 38 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
-| 39 | [api 유료](http://twitter.com/search?q=api+%ec%9c%a0%eb%a3%8c) | N/A |
-| 40 | [ローレン新衣装](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%b3%e6%96%b0%e8%a1%a3%e8%a3%85) | N/A |
-| 41 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
-| 42 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 43 | [#水曜日のダウンタウン](http://twitter.com/search?q=%23%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | #水曜日のダウンタウン is a Japanese variety show that has been airing since 1989. It is a weekly show that features comedians, celebrities, and other guests in a variety of skits and games. The title translates to "Wednesday Downtown" in English. |
-| 44 | [#リバーサルオーケストラ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%90%e3%83%bc%e3%82%b5%e3%83%ab%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9) | #リバーサルオーケストラ is a Japanese hashtag that translates to "Reverse Orchestra". It is used to refer to a type of music that combines traditional orchestral instruments with modern electronic elements. |
-| 45 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 46 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 47 | [#Aぇヤンタン](http://twitter.com/search?q=%23A%e3%81%87%e3%83%a4%e3%83%b3%e3%82%bf%e3%83%b3) | #Aぇヤンタン is a Japanese hashtag that translates to "Ah, Yantan!" It is used to express surprise or admiration. |
-| 48 | [#NEWニューヨーク](http://twitter.com/search?q=%23NEW%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af) | N/A |
-| 49 | [#RahatDeğiliz](http://twitter.com/search?q=%23RahatDe%c4%9filiz) | N/A |
-| 50 | [#上田と女が吠える夜](http://twitter.com/search?q=%23%e4%b8%8a%e7%94%b0%e3%81%a8%e5%a5%b3%e3%81%8c%e5%90%a0%e3%81%88%e3%82%8b%e5%a4%9c) | "#上田と女が吠える夜" is a hashtag used on social media in Japan. It translates to "Night of Ueda and the Woman Howling". It is used to refer to a scene from the Japanese movie "Ueda and the Woman Howling", which tells the story of a woman who howls at night in order to express her loneliness and longing for her lost love. |
+| 6 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
+| 7 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
+| 8 | [散切り頭](http://twitter.com/search?q=%e6%95%a3%e5%88%87%e3%82%8a%e9%a0%ad) | N/A |
+| 9 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 10 | [青春アミーゴ](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%82%a2%e3%83%9f%e3%83%bc%e3%82%b4) | N/A |
+| 11 | [mixi](http://twitter.com/search?q=mixi) | Mixi is a Japanese social networking service. It allows users to connect with friends, family, and colleagues, share photos and videos, and join online communities. The name "mixi" is derived from the words "mix" and "I", referring to the idea of connecting people together. |
+| 12 | [ワートリ10周年](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%88%e3%83%aa10%e5%91%a8%e5%b9%b4) | N/A |
+| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 14 | [ジョンウォン](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6%e3%82%a9%e3%83%b3) | N/A |
+| 15 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 16 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 17 | [알티추첨](http://twitter.com/search?q=%ec%95%8c%ed%8b%b0%ec%b6%94%ec%b2%a8) | N/A |
+| 18 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 19 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 20 | [第384回](http://twitter.com/search?q=%e7%ac%ac384%e5%9b%9e) | N/A |
+| 21 | [幼稚園WARS](http://twitter.com/search?q=%e5%b9%bc%e7%a8%9a%e5%9c%92WARS) | N/A |
+| 22 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 23 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 24 | [キックボード](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%af%e3%83%9c%e3%83%bc%e3%83%89) | N/A |
+| 25 | [ポンキッキーズ](http://twitter.com/search?q=%e3%83%9d%e3%83%b3%e3%82%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ba) | N/A |
+| 26 | [シッカロール](http://twitter.com/search?q=%e3%82%b7%e3%83%83%e3%82%ab%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
+| 27 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
+| 28 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
+| 29 | [恋愛免許証](http://twitter.com/search?q=%e6%81%8b%e6%84%9b%e5%85%8d%e8%a8%b1%e8%a8%bc) | N/A |
+| 30 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 31 | [Matías Messi](http://twitter.com/search?q=Mat%c3%adas+Messi) | N/A |
+| 32 | [ジャニさん](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%95%e3%82%93) | N/A |
+| 33 | [昭和の霊](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e3%81%ae%e9%9c%8a) | N/A |
+| 34 | [クロちゃん](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | クロちゃん is a nickname for the Japanese character Kuroko, a black cat from the manga series "Kuroko no Basuke". The English translation of クロちゃん is "Kuro-chan". |
+| 35 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
+| 36 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 37 | [瑠姫くん](http://twitter.com/search?q=%e7%91%a0%e5%a7%ab%e3%81%8f%e3%82%93) | 瑠姫くん is a character from the Japanese manga series, Chihayafuru. The character's name is Ruka Tsukuba and she is a high school student who loves the card game karuta. In English, her name can be translated to "Ruka Princess". |
+| 38 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 39 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 40 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 41 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 42 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 43 | [Twitter危機](http://twitter.com/search?q=Twitter%e5%8d%b1%e6%a9%9f) | N/A |
+| 44 | [金指くん](http://twitter.com/search?q=%e9%87%91%e6%8c%87%e3%81%8f%e3%82%93) | N/A |
+| 45 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
+| 46 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
+| 47 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 48 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 49 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 50 | [#HAPPYJOHNNYDAY](http://twitter.com/search?q=%23HAPPYJOHNNYDAY) | N/A |
 
 
 

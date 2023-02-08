@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-08 15:16:32 UTC`
+📆 Last Updated: `2023-02-08 16:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tente](http://twitter.com/search?q=Tente) | N/A |
-| 2 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [Evole](http://twitter.com/search?q=Evole) | N/A |
-| 5 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 6 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 7 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 8 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 9 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 10 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [Tente](http://twitter.com/search?q=Tente) | N/A |
+| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 6 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 7 | [#KirbyenFnac](http://twitter.com/search?q=%23KirbyenFnac) | N/A |
+| 8 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 9 | [Evole](http://twitter.com/search?q=Evole) | N/A |
+| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 11 | [#Solos8F](http://twitter.com/search?q=%23Solos8F) | N/A |
-| 12 | [#APOYOROCIO8F](http://twitter.com/search?q=%23APOYOROCIO8F) | N/A |
-| 13 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 14 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 15 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 16 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 17 | [#YoMeRebelo8F](http://twitter.com/search?q=%23YoMeRebelo8F) | N/A |
-| 18 | [Llop](http://twitter.com/search?q=Llop) | N/A |
-| 19 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 20 | [Borrell](http://twitter.com/search?q=Borrell) | N/A |
-| 21 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 22 | [Siro](http://twitter.com/search?q=Siro) | N/A |
-| 23 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 24 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 28 | [Canal Sur](http://twitter.com/search?q=Canal+Sur) | N/A |
-| 29 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 31 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
-| 32 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
-| 33 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 35 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 36 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 37 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 38 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 39 | [#SanValentín](http://twitter.com/search?q=%23SanValent%c3%adn) | N/A |
-| 40 | [#Goya2023](http://twitter.com/search?q=%23Goya2023) | N/A |
+| 12 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 14 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 16 | [#APOYOROCIO8F](http://twitter.com/search?q=%23APOYOROCIO8F) | N/A |
+| 17 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 18 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 19 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 20 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 21 | [Cospedal](http://twitter.com/search?q=Cospedal) | N/A |
+| 22 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 23 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 24 | [Llop](http://twitter.com/search?q=Llop) | N/A |
+| 25 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 26 | [Borrell](http://twitter.com/search?q=Borrell) | N/A |
+| 27 | [Samantha Hudson](http://twitter.com/search?q=Samantha+Hudson) | N/A |
+| 28 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 29 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 30 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 31 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 32 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 33 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 34 | [Adif](http://twitter.com/search?q=Adif) | N/A |
+| 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 36 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 37 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 38 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 39 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 40 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 41 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 42 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
+| 43 | [canal sur](http://twitter.com/search?q=canal+sur) | N/A |
+| 44 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 45 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 46 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
+| 47 | [Ley Trans](http://twitter.com/search?q=Ley+Trans) | N/A |
+| 48 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 49 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 50 | [Domingo 12](http://twitter.com/search?q=Domingo+12) | N/A |
 
 
 
