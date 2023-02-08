@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-08 12:17:01 UTC`
+📆 Last Updated: `2023-02-08 13:19:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [France](</France>)
 | 1 | [#WednesdayMoji](http://twitter.com/search?q=%23WednesdayMoji) | N/A |
 | 2 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
 | 3 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
-| 4 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 5 | [Siboy](http://twitter.com/search?q=Siboy) | N/A |
+| 4 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
+| 5 | [siboy](http://twitter.com/search?q=siboy) | N/A |
 | 6 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
 | 7 | [Abad](http://twitter.com/search?q=Abad) | N/A |
 | 8 | [Grégoire](http://twitter.com/search?q=Gr%c3%a9goire) | N/A |
 | 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 10 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
-| 11 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 10 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 11 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
 | 12 | [Larcher](http://twitter.com/search?q=Larcher) | N/A |
-| 13 | [Lechypre](http://twitter.com/search?q=Lechypre) | N/A |
-| 14 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 15 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 16 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 17 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 18 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 19 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
-| 20 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 13 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
+| 14 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 15 | [Lechypre](http://twitter.com/search?q=Lechypre) | N/A |
+| 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 17 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 18 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 19 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 20 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
 | 21 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 25 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 26 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 27 | [Le GOAT](http://twitter.com/search?q=Le+GOAT) | N/A |
-| 28 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
-| 29 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 30 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 31 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 32 | [condamné 11](http://twitter.com/search?q=condamn%c3%a9+11) | N/A |
-| 33 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 34 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 35 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 36 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
-| 37 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 38 | [#MKN23](http://twitter.com/search?q=%23MKN23) | N/A |
-| 39 | [#sauvetonpaysan](http://twitter.com/search?q=%23sauvetonpaysan) | N/A |
-| 40 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 22 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 23 | [Bertrand](http://twitter.com/search?q=Bertrand) | N/A |
+| 24 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 25 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 26 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 27 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
+| 28 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 29 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 30 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
+| 31 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 32 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 33 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 34 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 35 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 36 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
+| 37 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 38 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 39 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 40 | [#sauvetonpaysan](http://twitter.com/search?q=%23sauvetonpaysan) | N/A |
 | 41 | [#agriculteurs](http://twitter.com/search?q=%23agriculteurs) | N/A |
-| 42 | [#SuperProfits](http://twitter.com/search?q=%23SuperProfits) | N/A |
-| 43 | [#CPVA](http://twitter.com/search?q=%23CPVA) | N/A |
-| 44 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 45 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 42 | [#mkn23](http://twitter.com/search?q=%23mkn23) | N/A |
+| 43 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 44 | [#superprofits](http://twitter.com/search?q=%23superprofits) | N/A |
+| 45 | [#CPVA](http://twitter.com/search?q=%23CPVA) | N/A |
 | 46 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 47 | [#Solidarité](http://twitter.com/search?q=%23Solidarit%c3%a9) | N/A |
+| 47 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
 
 
 

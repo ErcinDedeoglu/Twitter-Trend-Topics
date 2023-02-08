@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-08 12:16:57 UTC`
+📆 Last Updated: `2023-02-08 13:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 1 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
 | 2 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 3 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 4 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 5 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 3 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 4 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 5 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
 | 6 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 7 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 8 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 9 | [Franco da Rocha](http://twitter.com/search?q=Franco+da+Rocha) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 12 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
-| 13 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 14 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 15 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 17 | [Tasha](http://twitter.com/search?q=Tasha) | N/A |
-| 18 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
-| 19 | [Eletrobrás](http://twitter.com/search?q=Eletrobr%c3%a1s) | N/A |
-| 20 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 21 | [CAMPOS NETO](http://twitter.com/search?q=CAMPOS+NETO) | N/A |
-| 22 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 23 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 24 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
-| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 26 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 27 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
-| 28 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 29 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
-| 30 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
-| 31 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 32 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 33 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 7 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 8 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 9 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 10 | [#f360br](http://twitter.com/search?q=%23f360br) | N/A |
+| 11 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 12 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
+| 13 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 14 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
+| 17 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 18 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
+| 19 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 20 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 21 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 22 | [Eletrobrás](http://twitter.com/search?q=Eletrobr%c3%a1s) | N/A |
+| 23 | [Kareem Abdul-Jabbar](http://twitter.com/search?q=Kareem+Abdul-Jabbar) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 26 | [Tiraram a Tina](http://twitter.com/search?q=Tiraram+a+Tina) | N/A |
+| 27 | [Pobreza](http://twitter.com/search?q=Pobreza) | N/A |
+| 28 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 29 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 30 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
+| 31 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
+| 32 | [#CPIdoDia08](http://twitter.com/search?q=%23CPIdoDia08) | N/A |
+| 33 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
 | 34 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
-| 35 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
-| 36 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 38 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
-| 39 | [O Rio de Janeiro](http://twitter.com/search?q=O+Rio+de+Janeiro) | N/A |
-| 40 | [#CPIdoDia08](http://twitter.com/search?q=%23CPIdoDia08) | N/A |
-| 41 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 35 | [Flapress](http://twitter.com/search?q=Flapress) | N/A |
+| 36 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
+| 37 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 38 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
+| 39 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 40 | [Getúlio](http://twitter.com/search?q=Get%c3%balio) | N/A |
+| 41 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 42 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 43 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
+| 44 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
+| 45 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 46 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
+| 47 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 48 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
+| 49 | [Prefeito](http://twitter.com/search?q=Prefeito) | N/A |
+| 50 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
 
 
 

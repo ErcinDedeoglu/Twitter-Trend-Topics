@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-08 12:16:59 UTC`
+📆 Last Updated: `2023-02-08 13:19:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
 | 2 | [Andrzej Poczobut](http://twitter.com/search?q=Andrzej+Poczobut) | N/A |
 | 3 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 4 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
-| 5 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 6 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 8 | [#SecretGame](http://twitter.com/search?q=%23SecretGame) | N/A |
-| 9 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 10 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 11 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
-| 12 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 13 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 14 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
-| 15 | [Wielkiej Brytanii](http://twitter.com/search?q=Wielkiej+Brytanii) | N/A |
-| 16 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 17 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 18 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 19 | [Szymona Hołowni](http://twitter.com/search?q=Szymona+Ho%c5%82owni) | N/A |
-| 20 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 21 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 22 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 23 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 24 | [Zielonych](http://twitter.com/search?q=Zielonych) | N/A |
+| 4 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
+| 5 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 6 | [Gill-Piątek](http://twitter.com/search?q=Gill-Pi%c4%85tek) | N/A |
+| 7 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 8 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 9 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 11 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
+| 12 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 14 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 15 | [Szymona Hołowni](http://twitter.com/search?q=Szymona+Ho%c5%82owni) | N/A |
+| 16 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 17 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 18 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 19 | [#KoszKadra](http://twitter.com/search?q=%23KoszKadra) | N/A |
+| 20 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 21 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 22 | [Zielonych](http://twitter.com/search?q=Zielonych) | N/A |
+| 23 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 24 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
 | 25 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 26 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 27 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 26 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 27 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
 | 28 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 29 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
-| 30 | [Polska 2050](http://twitter.com/search?q=Polska+2050) | N/A |
-| 31 | [Zieloni](http://twitter.com/search?q=Zieloni) | N/A |
-| 32 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 29 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 30 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
+| 31 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
+| 32 | [Wielkiej Brytanii](http://twitter.com/search?q=Wielkiej+Brytanii) | N/A |
 | 33 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 34 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
-| 35 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 36 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 37 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 38 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 34 | [Zieloni](http://twitter.com/search?q=Zieloni) | N/A |
+| 35 | [Polska 2050](http://twitter.com/search?q=Polska+2050) | N/A |
+| 36 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 37 | [Sąd Okręgowy](http://twitter.com/search?q=S%c4%85d+Okr%c4%99gowy) | N/A |
+| 38 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
 | 39 | [Sarkazm](http://twitter.com/search?q=Sarkazm) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 41 | [wiatraki](http://twitter.com/search?q=wiatraki) | N/A |
 | 42 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 44 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 45 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 46 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
-| 47 | [Departament Stanu USA](http://twitter.com/search?q=Departament+Stanu+USA) | N/A |
-| 48 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 49 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 50 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 43 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 44 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
+| 45 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 46 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 47 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
+| 48 | [górnicy](http://twitter.com/search?q=g%c3%b3rnicy) | N/A |
+| 49 | [Departament Stanu USA](http://twitter.com/search?q=Departament+Stanu+USA) | N/A |
+| 50 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
 
 
 

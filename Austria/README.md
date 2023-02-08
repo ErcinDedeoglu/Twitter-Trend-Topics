@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-08 12:17:37 UTC`
+📆 Last Updated: `2023-02-08 13:20:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
+| 1 | [#Gang](http://twitter.com/search?q=%23Gang) | N/A |
 | 2 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 3 | [Türkei](http://twitter.com/search?q=T%c3%bcrkei) | N/A |
-| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 5 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 6 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
-| 7 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 8 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 9 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 10 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
-| 11 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
-| 12 | [#reumannplatz](http://twitter.com/search?q=%23reumannplatz) | N/A |
-| 13 | [#w0602](http://twitter.com/search?q=%23w0602) | N/A |
-| 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 15 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
-| 16 | [Wurzeln](http://twitter.com/search?q=Wurzeln) | N/A |
-| 17 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 18 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 19 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 22 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 23 | [Sauerei](http://twitter.com/search?q=Sauerei) | N/A |
-| 24 | [Frauenpolitik](http://twitter.com/search?q=Frauenpolitik) | N/A |
-| 25 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 26 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 27 | [Ergebnisse](http://twitter.com/search?q=Ergebnisse) | N/A |
-| 28 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 29 | [helfer](http://twitter.com/search?q=helfer) | N/A |
-| 30 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 31 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 33 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 34 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
-| 35 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 36 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
-| 37 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
-| 38 | [depperten](http://twitter.com/search?q=depperten) | N/A |
+| 3 | [Doppelspitze](http://twitter.com/search?q=Doppelspitze) | N/A |
+| 4 | [Türkei](http://twitter.com/search?q=T%c3%bcrkei) | N/A |
+| 5 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 6 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 7 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 8 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 10 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 11 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 12 | [#hartig](http://twitter.com/search?q=%23hartig) | N/A |
+| 13 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
+| 14 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 15 | [Wurzeln](http://twitter.com/search?q=Wurzeln) | N/A |
+| 16 | [flügel](http://twitter.com/search?q=fl%c3%bcgel) | N/A |
+| 17 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 18 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 19 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 20 | [Sauerei](http://twitter.com/search?q=Sauerei) | N/A |
+| 21 | [frauenpolitik](http://twitter.com/search?q=frauenpolitik) | N/A |
+| 22 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 23 | [Helfer](http://twitter.com/search?q=Helfer) | N/A |
+| 24 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 25 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
+| 26 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 27 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 28 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
+| 29 | [Telefon](http://twitter.com/search?q=Telefon) | N/A |
+| 30 | [depperten](http://twitter.com/search?q=depperten) | N/A |
+| 31 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 32 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
+| 33 | [kundgebung](http://twitter.com/search?q=kundgebung) | N/A |
+| 34 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 35 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 36 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 38 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
 | 39 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 40 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
-| 41 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 42 | [Kundgebung](http://twitter.com/search?q=Kundgebung) | N/A |
-| 43 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 44 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
-| 45 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 46 | [Toilette](http://twitter.com/search?q=Toilette) | N/A |
-| 47 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 49 | [Fahrrad](http://twitter.com/search?q=Fahrrad) | N/A |
-| 50 | [Welten](http://twitter.com/search?q=Welten) | N/A |
+| 40 | [Welten](http://twitter.com/search?q=Welten) | N/A |
+| 41 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 42 | [Homeoffice](http://twitter.com/search?q=Homeoffice) | N/A |
+| 43 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 44 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 45 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 46 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 47 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 48 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 49 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 50 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
 
 
 

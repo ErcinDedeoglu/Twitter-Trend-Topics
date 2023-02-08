@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-08 12:17:27 UTC`
+📆 Last Updated: `2023-02-08 13:20:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalga](http://twitter.com/search?q=Dalga) | N/A |
-| 2 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
-| 3 | [Hesap](http://twitter.com/search?q=Hesap) | N/A |
-| 4 | [#halukleventacil](http://twitter.com/search?q=%23halukleventacil) | N/A |
-| 5 | [Halk](http://twitter.com/search?q=Halk) | N/A |
-| 6 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
-| 7 | [#ismakinelerideprembolgesine](http://twitter.com/search?q=%23ismakinelerideprembolgesine) | N/A |
-| 8 | [İskenderun Limanı'ndaki](http://twitter.com/search?q=%c4%b0skenderun+Liman%c4%b1%27ndaki) | N/A |
-| 9 | [Zahmet](http://twitter.com/search?q=Zahmet) | N/A |
-| 10 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 11 | [#earthquakes](http://twitter.com/search?q=%23earthquakes) | N/A |
-| 12 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 13 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
-| 14 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 15 | [Rezilsiniz](http://twitter.com/search?q=Rezilsiniz) | N/A |
-| 16 | [#kahranmaras](http://twitter.com/search?q=%23kahranmaras) | N/A |
-| 17 | [Battaniye](http://twitter.com/search?q=Battaniye) | N/A |
-| 18 | [diyecek](http://twitter.com/search?q=diyecek) | N/A |
-| 19 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
-| 20 | [Enkazdan](http://twitter.com/search?q=Enkazdan) | N/A |
-| 21 | [Vatandaş](http://twitter.com/search?q=Vatanda%c5%9f) | N/A |
-| 22 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 23 | [DepremBölgesine IsıtıcıDesteği](http://twitter.com/search?q=DepremB%c3%b6lgesine+Is%c4%b1t%c4%b1c%c4%b1Deste%c4%9fi) | N/A |
-| 24 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 25 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
-| 26 | [DepremBölgesine SuGötürün](http://twitter.com/search?q=DepremB%c3%b6lgesine+SuG%c3%b6t%c3%bcr%c3%bcn) | N/A |
-| 27 | [10 Bin](http://twitter.com/search?q=10+Bin) | N/A |
-| 28 | [İskenderun Expo](http://twitter.com/search?q=%c4%b0skenderun+Expo) | N/A |
-| 29 | [Birlik Zamanı](http://twitter.com/search?q=Birlik+Zaman%c4%b1) | N/A |
-| 30 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
-| 31 | [Son 3](http://twitter.com/search?q=Son+3) | N/A |
-| 32 | [Ankara Büyükşehir Belediyesi](http://twitter.com/search?q=Ankara+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
-| 33 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
-| 34 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
-| 35 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
-| 36 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
-| 37 | [Hepimiz Türküz](http://twitter.com/search?q=Hepimiz+T%c3%bcrk%c3%bcz) | N/A |
-| 38 | [Masal](http://twitter.com/search?q=Masal) | N/A |
-| 39 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 40 | [Ankara BB](http://twitter.com/search?q=Ankara+BB) | N/A |
-| 41 | [Ankara Belediyesi](http://twitter.com/search?q=Ankara+Belediyesi) | N/A |
-| 42 | [Halil Ölmez](http://twitter.com/search?q=Halil+%c3%96lmez) | N/A |
-| 43 | [güney kıbrıs](http://twitter.com/search?q=g%c3%bcney+k%c4%b1br%c4%b1s) | N/A |
-| 44 | [Seviye Acil Durum](http://twitter.com/search?q=Seviye+Acil+Durum) | N/A |
-| 45 | [Tuğba](http://twitter.com/search?q=Tu%c4%9fba) | N/A |
-| 46 | [Dünya Sağlık Örgütü](http://twitter.com/search?q=D%c3%bcnya+Sa%c4%9fl%c4%b1k+%c3%96rg%c3%bct%c3%bc) | N/A |
-| 47 | [Dries Mertens](http://twitter.com/search?q=Dries+Mertens) | N/A |
-| 48 | [Kefen](http://twitter.com/search?q=Kefen) | N/A |
-| 49 | [Neyin](http://twitter.com/search?q=Neyin) | N/A |
-| 50 | [Bugün 3](http://twitter.com/search?q=Bug%c3%bcn+3) | N/A |
+| 1 | [Ataşehir](http://twitter.com/search?q=Ata%c5%9fehir) | N/A |
+| 2 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 3 | [Dalga](http://twitter.com/search?q=Dalga) | N/A |
+| 4 | [Binlerce](http://twitter.com/search?q=Binlerce) | N/A |
+| 5 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
+| 6 | [Hesap](http://twitter.com/search?q=Hesap) | N/A |
+| 7 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 8 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 9 | [Halk](http://twitter.com/search?q=Halk) | N/A |
+| 10 | [Yardıma](http://twitter.com/search?q=Yard%c4%b1ma) | N/A |
+| 11 | [Yazik](http://twitter.com/search?q=Yazik) | N/A |
+| 12 | [İnsanlıktan](http://twitter.com/search?q=%c4%b0nsanl%c4%b1ktan) | N/A |
+| 13 | [Diyecek](http://twitter.com/search?q=Diyecek) | N/A |
+| 14 | [Selman](http://twitter.com/search?q=Selman) | N/A |
+| 15 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 16 | [Hükümet](http://twitter.com/search?q=H%c3%bck%c3%bcmet) | N/A |
+| 17 | [#Greece](http://twitter.com/search?q=%23Greece) | N/A |
+| 18 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 19 | [Utanma](http://twitter.com/search?q=Utanma) | N/A |
+| 20 | [Vatandaş](http://twitter.com/search?q=Vatanda%c5%9f) | N/A |
+| 21 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 22 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 23 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
+| 24 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
+| 25 | [DepremBölgesine IsıtıcıDesteği](http://twitter.com/search?q=DepremB%c3%b6lgesine+Is%c4%b1t%c4%b1c%c4%b1Deste%c4%9fi) | N/A |
+| 26 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
+| 27 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
+| 28 | [DepremBölgesine SuGötürün](http://twitter.com/search?q=DepremB%c3%b6lgesine+SuG%c3%b6t%c3%bcr%c3%bcn) | N/A |
+| 29 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 30 | [10 Bin](http://twitter.com/search?q=10+Bin) | N/A |
+| 31 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
+| 32 | [Expo İskenderun](http://twitter.com/search?q=Expo+%c4%b0skenderun) | N/A |
+| 33 | [Ankara Büyükşehir Belediyesi](http://twitter.com/search?q=Ankara+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
+| 34 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 35 | [Depremin 3](http://twitter.com/search?q=Depremin+3) | N/A |
+| 36 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
+| 37 | [Uyuyun](http://twitter.com/search?q=Uyuyun) | N/A |
+| 38 | [Birlik Zamanı](http://twitter.com/search?q=Birlik+Zaman%c4%b1) | N/A |
+| 39 | [Son 3](http://twitter.com/search?q=Son+3) | N/A |
+| 40 | [Dayım](http://twitter.com/search?q=Day%c4%b1m) | N/A |
+| 41 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 42 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 43 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
+| 44 | [Hepimiz Türküz](http://twitter.com/search?q=Hepimiz+T%c3%bcrk%c3%bcz) | N/A |
+| 45 | [İsmail Palakoğlu](http://twitter.com/search?q=%c4%b0smail+Palako%c4%9flu) | N/A |
+| 46 | [Ankara BB](http://twitter.com/search?q=Ankara+BB) | N/A |
+| 47 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 48 | [Neyin](http://twitter.com/search?q=Neyin) | N/A |
+| 49 | [Abiye](http://twitter.com/search?q=Abiye) | N/A |
+| 50 | [Seviye Acil Durum](http://twitter.com/search?q=Seviye+Acil+Durum) | N/A |
 
 
 
