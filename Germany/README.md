@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-08 08:17:12 UTC`
+📆 Last Updated: `2023-02-08 09:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
-| 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 3 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 1 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 2 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
+| 3 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
 | 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
-| 5 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 5 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
 | 6 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 7 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
-| 8 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 10 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 11 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 12 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 13 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 14 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 15 | [Stausee](http://twitter.com/search?q=Stausee) | N/A |
-| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 18 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 19 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 21 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 22 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 23 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 24 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 25 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 26 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 28 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
-| 29 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 30 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 31 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 33 | [Guten Morgen Wolfgang](http://twitter.com/search?q=Guten+Morgen+Wolfgang) | N/A |
-| 34 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 35 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 36 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 37 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 38 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 39 | [Verkehrsregeln](http://twitter.com/search?q=Verkehrsregeln) | N/A |
-| 40 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 41 | [Guten Morgen Markus](http://twitter.com/search?q=Guten+Morgen+Markus) | N/A |
-| 42 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 43 | [lade](http://twitter.com/search?q=lade) | N/A |
-| 44 | [Falk](http://twitter.com/search?q=Falk) | N/A |
-| 45 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 46 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 47 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 48 | [Dieter Nuhr](http://twitter.com/search?q=Dieter+Nuhr) | N/A |
-| 49 | [Zitaten](http://twitter.com/search?q=Zitaten) | N/A |
-| 50 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 7 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 8 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 9 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 10 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 11 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 12 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 13 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 14 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 15 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 16 | [Stausee](http://twitter.com/search?q=Stausee) | N/A |
+| 17 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 18 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 19 | [Pellegrino Matarazzo](http://twitter.com/search?q=Pellegrino+Matarazzo) | N/A |
+| 20 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 21 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 22 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 23 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 25 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 26 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 27 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 28 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 29 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 32 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 33 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 34 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 35 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 36 | [Verkehrsregeln](http://twitter.com/search?q=Verkehrsregeln) | N/A |
+| 37 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
+| 38 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
+| 39 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 40 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 41 | [Schächten](http://twitter.com/search?q=Sch%c3%a4chten) | N/A |
+| 42 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 43 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 44 | [Großbritannien](http://twitter.com/search?q=Gro%c3%9fbritannien) | N/A |
+| 45 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 46 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 47 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 48 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 49 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
+| 50 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
 
 
 

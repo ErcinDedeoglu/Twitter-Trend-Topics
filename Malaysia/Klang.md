@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-02-08 08:16:42 UTC`
+📆 Last Updated: `2023-02-08 09:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 6 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 11 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
-| 12 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 13 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 14 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 15 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 17 | [Kamn Ismail](http://twitter.com/search?q=Kamn+Ismail) | N/A |
+| 5 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 6 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 7 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 8 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 10 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 11 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 12 | [Hermes](http://twitter.com/search?q=Hermes) | N/A |
+| 13 | [Kamn Ismail](http://twitter.com/search?q=Kamn+Ismail) | N/A |
+| 14 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 18 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 19 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 20 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 21 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 22 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 23 | [Keluang Man](http://twitter.com/search?q=Keluang+Man) | N/A |
-| 24 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 25 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 26 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 27 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 28 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 19 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 20 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 21 | [dolla comeback concept teaser](http://twitter.com/search?q=dolla+comeback+concept+teaser) | N/A |
+| 22 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 23 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 24 | [MUDA](http://twitter.com/search?q=MUDA) | N/A |
+| 25 | [Keluang Man](http://twitter.com/search?q=Keluang+Man) | N/A |
+| 26 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 27 | [Digital Code](http://twitter.com/search?q=Digital+Code) | N/A |
+| 28 | [Homa](http://twitter.com/search?q=Homa) | N/A |
 | 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 30 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 32 | [Yang Jeongin](http://twitter.com/search?q=Yang+Jeongin) | N/A |
-| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 34 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 35 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 36 | [shinee](http://twitter.com/search?q=shinee) | N/A |
-| 37 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 38 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 39 | [Paul Kim](http://twitter.com/search?q=Paul+Kim) | N/A |
-| 40 | [Happy Birthday I.N](http://twitter.com/search?q=Happy+Birthday+I.N) | N/A |
-| 41 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 42 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 43 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 44 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 45 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
-| 46 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
-| 47 | [umno hq](http://twitter.com/search?q=umno+hq) | N/A |
-| 48 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 30 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 31 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 32 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 33 | [Wetransfer](http://twitter.com/search?q=Wetransfer) | N/A |
+| 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 35 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 36 | [Happy Birthday I.N](http://twitter.com/search?q=Happy+Birthday+I.N) | N/A |
+| 37 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 38 | [Yang Jeongin](http://twitter.com/search?q=Yang+Jeongin) | N/A |
+| 39 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 40 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 41 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 42 | [Paul Kim](http://twitter.com/search?q=Paul+Kim) | N/A |
+| 43 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [umno hq](http://twitter.com/search?q=umno+hq) | N/A |
+| 47 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
 
 
 

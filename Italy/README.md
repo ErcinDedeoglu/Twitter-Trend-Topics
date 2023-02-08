@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-08 08:17:13 UTC`
+📆 Last Updated: `2023-02-08 09:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 3 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
-| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 2 | [#Blanco](http://twitter.com/search?q=%23Blanco) | N/A |
+| 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 4 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
 | 5 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
 | 6 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
 | 7 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
 | 8 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
 | 9 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 10 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
-| 11 | [#costringono](http://twitter.com/search?q=%23costringono) | N/A |
-| 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 14 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 15 | [Grease](http://twitter.com/search?q=Grease) | N/A |
-| 16 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 17 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 19 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 20 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 21 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 22 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 23 | [PIERO PELÙ](http://twitter.com/search?q=PIERO+PEL%c3%99) | N/A |
-| 24 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 25 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
-| 26 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 27 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 28 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 29 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
-| 30 | [SanGiovanni](http://twitter.com/search?q=SanGiovanni) | N/A |
-| 31 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 32 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 33 | [Kareem Abdul-Jabbar](http://twitter.com/search?q=Kareem+Abdul-Jabbar) | N/A |
-| 34 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 35 | [BRIVIDI](http://twitter.com/search?q=BRIVIDI) | N/A |
-| 36 | [Giuseppe Ungaretti](http://twitter.com/search?q=Giuseppe+Ungaretti) | N/A |
-| 37 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 38 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 39 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 40 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
-| 41 | [Buongiorno Giovanni](http://twitter.com/search?q=Buongiorno+Giovanni) | N/A |
-| 42 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
-| 43 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 44 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
-| 45 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 46 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 47 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 48 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 49 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 50 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 10 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 11 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 13 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 14 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 15 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 16 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 17 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 18 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 19 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 20 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 21 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 22 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 23 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 24 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
+| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 26 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 27 | [paolo bitta](http://twitter.com/search?q=paolo+bitta) | N/A |
+| 28 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 29 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 30 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 32 | [BRIVIDI](http://twitter.com/search?q=BRIVIDI) | N/A |
+| 33 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 34 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 35 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 36 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 37 | [Giuseppe Ungaretti](http://twitter.com/search?q=Giuseppe+Ungaretti) | N/A |
+| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 39 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
+| 40 | [Stockard Channing](http://twitter.com/search?q=Stockard+Channing) | N/A |
+| 41 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 43 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
+| 44 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 45 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 46 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
+| 47 | [Tette](http://twitter.com/search?q=Tette) | N/A |
+| 48 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 49 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
+| 50 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
 
 
 

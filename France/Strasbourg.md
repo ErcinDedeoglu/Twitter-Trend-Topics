@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-08 08:16:27 UTC`
+📆 Last Updated: `2023-02-08 09:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [France](</France>)
 | 3 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
 | 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 6 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 7 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 8 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 9 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 6 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 7 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
+| 8 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 9 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 10 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
 | 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [TotalEnergies](http://twitter.com/search?q=TotalEnergies) | N/A |
-| 13 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 15 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 16 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 17 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 20 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 21 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
+| 12 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 13 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
+| 14 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 15 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 16 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 18 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 19 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
+| 20 | [Kareem Abdul-Jabbar](http://twitter.com/search?q=Kareem+Abdul-Jabbar) | N/A |
+| 21 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
 | 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Jour de Classico](http://twitter.com/search?q=Jour+de+Classico) | N/A |
-| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 25 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 23 | [Lechypre](http://twitter.com/search?q=Lechypre) | N/A |
+| 24 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
+| 25 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 28 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
-| 29 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 30 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 31 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 32 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 33 | [Lechypre](http://twitter.com/search?q=Lechypre) | N/A |
-| 34 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 35 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 36 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
-| 37 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 38 | [IL L'A FAIT](http://twitter.com/search?q=IL+L%27A+FAIT) | N/A |
-| 39 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 28 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 29 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 30 | [JOUR DE CLASSIQUE](http://twitter.com/search?q=JOUR+DE+CLASSIQUE) | N/A |
+| 31 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 32 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 33 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 34 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 35 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 36 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 37 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 38 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
+| 39 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
 | 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 41 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 42 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
-| 43 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 44 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 45 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 46 | [Mc 7](http://twitter.com/search?q=Mc+7) | N/A |
-| 47 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 48 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 49 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 41 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
+| 42 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 43 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
+| 44 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 45 | [Sinécure](http://twitter.com/search?q=Sin%c3%a9cure) | N/A |
+| 46 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 47 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 48 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 49 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
 
 
 

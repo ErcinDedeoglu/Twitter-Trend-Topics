@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-08 08:16:16 UTC`
+📆 Last Updated: `2023-02-08 09:15:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#OpinionBiyinplay](http://twitter.com/search?q=%23OpinionBiyinplay) | N/A |
-| 3 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
-| 4 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 5 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 7 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 10 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 11 | [#KingJames](http://twitter.com/search?q=%23KingJames) | N/A |
-| 12 | [Reik](http://twitter.com/search?q=Reik) | N/A |
-| 13 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 14 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 15 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 16 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 17 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 18 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 19 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 20 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 21 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 22 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 23 | [FeCal](http://twitter.com/search?q=FeCal) | N/A |
-| 24 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
-| 25 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 26 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 27 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 28 | [Sansores](http://twitter.com/search?q=Sansores) | N/A |
-| 29 | [santi cobos](http://twitter.com/search?q=santi+cobos) | N/A |
-| 30 | [Veytia](http://twitter.com/search?q=Veytia) | N/A |
-| 31 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 32 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 33 | [Cinismo](http://twitter.com/search?q=Cinismo) | N/A |
-| 34 | [#GOAT𓃵](http://twitter.com/search?q=%23GOAT%f0%93%83%b5) | N/A |
-| 35 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 36 | [#NBAxESPN](http://twitter.com/search?q=%23NBAxESPN) | N/A |
-| 37 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
-| 38 | [#CalderonSiSabia](http://twitter.com/search?q=%23CalderonSiSabia) | N/A |
-| 39 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 40 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
+| 1 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 4 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 6 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 8 | [#OpinionBiyinplay](http://twitter.com/search?q=%23OpinionBiyinplay) | N/A |
+| 9 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
+| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 11 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 12 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
+| 13 | [El Universal](http://twitter.com/search?q=El+Universal) | N/A |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 16 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 18 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 19 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 20 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 21 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
+| 22 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 24 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 25 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 26 | [santi cobos](http://twitter.com/search?q=santi+cobos) | N/A |
+| 27 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 28 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 29 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 31 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 32 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 33 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 34 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
+| 35 | [Jano](http://twitter.com/search?q=Jano) | N/A |
+| 36 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 37 | [Manelyk](http://twitter.com/search?q=Manelyk) | N/A |
+| 38 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 39 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 40 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 41 | [the return of sniper](http://twitter.com/search?q=the+return+of+sniper) | N/A |
+| 42 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
+| 43 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 44 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 45 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 46 | [terminator is back](http://twitter.com/search?q=terminator+is+back) | N/A |
+| 47 | [Jeongin](http://twitter.com/search?q=Jeongin) | N/A |
+| 48 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 49 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 50 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 
 
 
