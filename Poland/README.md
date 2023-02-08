@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-08 17:16:12 UTC`
+📆 Last Updated: `2023-02-08 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
 | 2 | [Mateusz Murański](http://twitter.com/search?q=Mateusz+Mura%c5%84ski) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 3 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 6 | [Andrzeja Poczobuta](http://twitter.com/search?q=Andrzeja+Poczobuta) | N/A |
-| 7 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 8 | [Messiego](http://twitter.com/search?q=Messiego) | N/A |
-| 9 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 10 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
-| 11 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 12 | [LeBrona](http://twitter.com/search?q=LeBrona) | N/A |
-| 13 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 14 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 15 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 16 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 17 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 18 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 19 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 20 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 21 | [grodnie](http://twitter.com/search?q=grodnie) | N/A |
-| 22 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
-| 23 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 24 | [Pileckiego](http://twitter.com/search?q=Pileckiego) | N/A |
-| 25 | [Koalicja Obywatelska](http://twitter.com/search?q=Koalicja+Obywatelska) | N/A |
-| 26 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 7 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
+| 8 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 9 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 10 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 11 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 12 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 13 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 14 | [LeBrona](http://twitter.com/search?q=LeBrona) | N/A |
+| 15 | [Messiego](http://twitter.com/search?q=Messiego) | N/A |
+| 16 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 17 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 18 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 19 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 20 | [Koalicja Obywatelska](http://twitter.com/search?q=Koalicja+Obywatelska) | N/A |
+| 21 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 22 | [Grodnie](http://twitter.com/search?q=Grodnie) | N/A |
+| 23 | [Turów](http://twitter.com/search?q=Tur%c3%b3w) | N/A |
+| 24 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 25 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
+| 26 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
 | 27 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 28 | [Obalić](http://twitter.com/search?q=Obali%c4%87) | N/A |
-| 29 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 30 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 31 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 32 | [Jaca](http://twitter.com/search?q=Jaca) | N/A |
-| 33 | [Fame MMA](http://twitter.com/search?q=Fame+MMA) | N/A |
-| 34 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
-| 35 | [High League](http://twitter.com/search?q=High+League) | N/A |
-| 36 | [IZERA](http://twitter.com/search?q=IZERA) | N/A |
-| 37 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 38 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
-| 39 | [Przedawkował](http://twitter.com/search?q=Przedawkowa%c5%82) | N/A |
-| 40 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 41 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 42 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
-| 43 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
-| 44 | [Wołodymyr Zełenski](http://twitter.com/search?q=Wo%c5%82odymyr+Ze%c5%82enski) | N/A |
-| 45 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 46 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 47 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 48 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 49 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 50 | [Szymczyk](http://twitter.com/search?q=Szymczyk) | N/A |
+| 28 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 29 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 30 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 31 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 32 | [Obalić](http://twitter.com/search?q=Obali%c4%87) | N/A |
+| 33 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
+| 34 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
+| 35 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 36 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 37 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 38 | [Szymczyk](http://twitter.com/search?q=Szymczyk) | N/A |
+| 39 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 40 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 41 | [Przedawkował](http://twitter.com/search?q=Przedawkowa%c5%82) | N/A |
+| 42 | [Wielka Brytania](http://twitter.com/search?q=Wielka+Brytania) | N/A |
+| 43 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 44 | [Zygmunta Szendzielarza](http://twitter.com/search?q=Zygmunta+Szendzielarza) | N/A |
+| 45 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 46 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
+| 47 | [Jaca](http://twitter.com/search?q=Jaca) | N/A |
+| 48 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
+| 49 | [Kraby](http://twitter.com/search?q=Kraby) | N/A |
+| 50 | [Zalewska](http://twitter.com/search?q=Zalewska) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-08 17:15:19 UTC`
+📆 Last Updated: `2023-02-08 18:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 2 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 3 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 4 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 5 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
-| 6 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
-| 7 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 8 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 9 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
-| 10 | [#FightingASongOrFilm](http://twitter.com/search?q=%23FightingASongOrFilm) | N/A |
-| 11 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 12 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
-| 13 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
-| 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 1 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 2 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 3 | [#apprenticeships](http://twitter.com/search?q=%23apprenticeships) | N/A |
+| 4 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 5 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 6 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 7 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 8 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 9 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 10 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 11 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 12 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 13 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
+| 14 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
 | 15 | [Linfield](http://twitter.com/search?q=Linfield) | N/A |
-| 16 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 17 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 18 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 19 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
-| 20 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
-| 21 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 22 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 23 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 24 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 25 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 26 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [lindsay hoyle](http://twitter.com/search?q=lindsay+hoyle) | N/A |
-| 29 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 30 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 31 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 32 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 34 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 35 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 36 | [Strawberry Place](http://twitter.com/search?q=Strawberry+Place) | N/A |
-| 37 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 16 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
+| 17 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
+| 18 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 19 | [Bromby](http://twitter.com/search?q=Bromby) | N/A |
+| 20 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 21 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 22 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 23 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
+| 24 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 25 | [Typhoons](http://twitter.com/search?q=Typhoons) | N/A |
+| 26 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 27 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 28 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 29 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 30 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 31 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 33 | [Lindsay Hoyle](http://twitter.com/search?q=Lindsay+Hoyle) | N/A |
+| 34 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 35 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 36 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 37 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
 | 38 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 39 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 40 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 41 | [Welby](http://twitter.com/search?q=Welby) | N/A |
-| 42 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 43 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 44 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 45 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 46 | [Stansted](http://twitter.com/search?q=Stansted) | N/A |
-| 47 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 48 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 49 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 39 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 40 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 41 | [Islamist](http://twitter.com/search?q=Islamist) | N/A |
+| 42 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 43 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 44 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 45 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 46 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 47 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 48 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 49 | [Stansted](http://twitter.com/search?q=Stansted) | N/A |
 
 
 

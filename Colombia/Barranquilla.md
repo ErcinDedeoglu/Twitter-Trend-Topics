@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-08 17:15:24 UTC`
+📆 Last Updated: `2023-02-08 18:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 2 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
-| 3 | [#DueleQue](http://twitter.com/search?q=%23DueleQue) | N/A |
+| 2 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 3 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
 | 4 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
-| 8 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 9 | [#inmorales](http://twitter.com/search?q=%23inmorales) | N/A |
-| 10 | [Gestor de Paz](http://twitter.com/search?q=Gestor+de+Paz) | N/A |
-| 11 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 5 | [#DueleQue](http://twitter.com/search?q=%23DueleQue) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 8 | [Baracaldo](http://twitter.com/search?q=Baracaldo) | N/A |
+| 9 | [#InmoralEs](http://twitter.com/search?q=%23InmoralEs) | N/A |
+| 10 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 11 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
 | 12 | [Nogal](http://twitter.com/search?q=Nogal) | N/A |
-| 13 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 14 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 15 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 16 | [#SerieDelCaribexWIN](http://twitter.com/search?q=%23SerieDelCaribexWIN) | N/A |
-| 17 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 18 | [Asoinca](http://twitter.com/search?q=Asoinca) | N/A |
-| 19 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 20 | [Navas Talero](http://twitter.com/search?q=Navas+Talero) | N/A |
-| 21 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Astrid Cáceres](http://twitter.com/search?q=Astrid+C%c3%a1ceres) | N/A |
+| 15 | [Gestor de Paz](http://twitter.com/search?q=Gestor+de+Paz) | N/A |
+| 16 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 17 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
+| 18 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 19 | [Garavito](http://twitter.com/search?q=Garavito) | N/A |
+| 20 | [Asoinca](http://twitter.com/search?q=Asoinca) | N/A |
+| 21 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 22 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 23 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
-| 24 | [Diego Molano](http://twitter.com/search?q=Diego+Molano) | N/A |
-| 25 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 26 | [Indígenas](http://twitter.com/search?q=Ind%c3%adgenas) | N/A |
-| 27 | [Che Guevara](http://twitter.com/search?q=Che+Guevara) | N/A |
-| 28 | [Plan Nacional de Desarrollo](http://twitter.com/search?q=Plan+Nacional+de+Desarrollo) | N/A |
-| 29 | [Cosmitet](http://twitter.com/search?q=Cosmitet) | N/A |
-| 30 | [Partido Conservador](http://twitter.com/search?q=Partido+Conservador) | N/A |
-| 31 | [FOMAG](http://twitter.com/search?q=FOMAG) | N/A |
-| 32 | [El Gatico](http://twitter.com/search?q=El+Gatico) | N/A |
-| 33 | [Garavito](http://twitter.com/search?q=Garavito) | N/A |
-| 34 | [Hicimos](http://twitter.com/search?q=Hicimos) | N/A |
-| 35 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 36 | [La Estrategia del Caracol](http://twitter.com/search?q=La+Estrategia+del+Caracol) | N/A |
-| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 38 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
-| 39 | [vamos vaqueros](http://twitter.com/search?q=vamos+vaqueros) | N/A |
-| 40 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 41 | [Otoniel](http://twitter.com/search?q=Otoniel) | N/A |
-| 42 | [Alto Comisionado](http://twitter.com/search?q=Alto+Comisionado) | N/A |
-| 43 | [Arturo Char](http://twitter.com/search?q=Arturo+Char) | N/A |
-| 44 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
-| 45 | [Univalle](http://twitter.com/search?q=Univalle) | N/A |
-| 46 | [protestan](http://twitter.com/search?q=protestan) | N/A |
-| 47 | [Ramón Díaz](http://twitter.com/search?q=Ram%c3%b3n+D%c3%adaz) | N/A |
+| 23 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 24 | [Navas Talero](http://twitter.com/search?q=Navas+Talero) | N/A |
+| 25 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 26 | [Facilitador](http://twitter.com/search?q=Facilitador) | N/A |
+| 27 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
+| 28 | [Diego Molano](http://twitter.com/search?q=Diego+Molano) | N/A |
+| 29 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 30 | [Che Guevara](http://twitter.com/search?q=Che+Guevara) | N/A |
+| 31 | [Indígenas](http://twitter.com/search?q=Ind%c3%adgenas) | N/A |
+| 32 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 33 | [Danilo Rueda](http://twitter.com/search?q=Danilo+Rueda) | N/A |
+| 34 | [Plan Nacional de Desarrollo](http://twitter.com/search?q=Plan+Nacional+de+Desarrollo) | N/A |
+| 35 | [FOMAG](http://twitter.com/search?q=FOMAG) | N/A |
+| 36 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 37 | [Comisionado de Paz](http://twitter.com/search?q=Comisionado+de+Paz) | N/A |
+| 38 | [Cosmitet](http://twitter.com/search?q=Cosmitet) | N/A |
+| 39 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 40 | [Alto Comisionado](http://twitter.com/search?q=Alto+Comisionado) | N/A |
+| 41 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 42 | [La Estrategia del Caracol](http://twitter.com/search?q=La+Estrategia+del+Caracol) | N/A |
+| 43 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 44 | [Partido Conservador](http://twitter.com/search?q=Partido+Conservador) | N/A |
+| 45 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
+| 46 | [Beto](http://twitter.com/search?q=Beto) | N/A |
 
 
 

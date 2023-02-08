@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-08 17:15:37 UTC`
+📆 Last Updated: `2023-02-08 18:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,32 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 9 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
 | 10 | [Superstar](http://twitter.com/search?q=Superstar) | N/A |
 | 11 | [Roka](http://twitter.com/search?q=Roka) | N/A |
-| 12 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
-| 13 | [SLEMAN SEMBADA](http://twitter.com/search?q=SLEMAN+SEMBADA) | N/A |
-| 14 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 15 | [TIM MALIOBORO](http://twitter.com/search?q=TIM+MALIOBORO) | N/A |
-| 16 | [Ahyeon](http://twitter.com/search?q=Ahyeon) | N/A |
-| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 18 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 19 | [Maluku](http://twitter.com/search?q=Maluku) | Maluku is a province in Indonesia, located in the eastern part of the country. The name Maluku is derived from the Arabic word for "islands". In English, it means "Islands of the East". |
-| 20 | [Rasa Sayange](http://twitter.com/search?q=Rasa+Sayange) | N/A |
-| 21 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 22 | [LASKAR SEMBADA DIGDAYA](http://twitter.com/search?q=LASKAR+SEMBADA+DIGDAYA) | N/A |
-| 23 | [Umroh](http://twitter.com/search?q=Umroh) | N/A |
-| 24 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 25 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
-| 26 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 27 | [Masbro](http://twitter.com/search?q=Masbro) | N/A |
-| 28 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 29 | [Siomay](http://twitter.com/search?q=Siomay) | N/A |
-| 30 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
-| 31 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 32 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
-| 33 | [#BCS12TH](http://twitter.com/search?q=%23BCS12TH) | N/A |
-| 34 | [#초심_그이상의_사랑받는_정원](http://twitter.com/search?q=%23%ec%b4%88%ec%8b%ac_%ea%b7%b8%ec%9d%b4%ec%83%81%ec%9d%98_%ec%82%ac%eb%9e%91%eb%b0%9b%eb%8a%94_%ec%a0%95%ec%9b%90) | N/A |
-| 35 | [#IntroForBabymonsterRuka](http://twitter.com/search?q=%23IntroForBabymonsterRuka) | N/A |
-| 36 | [#V1RTHDAY_with_NAV](http://twitter.com/search?q=%23V1RTHDAY_with_NAV) | N/A |
-| 37 | [#ᄇ1ᄇ1ᄌ1_1주년](http://twitter.com/search?q=%23%e1%84%871%e1%84%871%e1%84%8c1_1%ec%a3%bc%eb%85%84) | N/A |
-| 38 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 39 | [#TheInterestOfLoveEp15](http://twitter.com/search?q=%23TheInterestOfLoveEp15) | N/A |
-| 40 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 41 | [#BigBrotherLEODay](http://twitter.com/search?q=%23BigBrotherLEODay) | N/A |
-| 42 | [#PKBuntukBangsa](http://twitter.com/search?q=%23PKBuntukBangsa) | N/A |
-| 43 | [#สสวกค้าบสุดหล่อ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%aa%e0%b8%a7%e0%b8%81%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%9a%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad) | N/A |
-| 44 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 45 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 46 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 47 | [#StandWithMrBible](http://twitter.com/search?q=%23StandWithMrBible) | N/A |
-| 48 | [#BNI46](http://twitter.com/search?q=%23BNI46) | N/A |
-| 49 | [#ตัวอย่างอย่าเล่นกับอนล](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a5) | N/A |
-| 50 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 12 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 13 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
+| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 15 | [SLEMAN SEMBADA](http://twitter.com/search?q=SLEMAN+SEMBADA) | N/A |
+| 16 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 17 | [maluku](http://twitter.com/search?q=maluku) | N/A |
+| 18 | [Rasa Sayange](http://twitter.com/search?q=Rasa+Sayange) | N/A |
+| 19 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 20 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
+| 21 | [Congratulations NCT 127](http://twitter.com/search?q=Congratulations+NCT+127) | N/A |
+| 22 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 23 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 24 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 25 | [#초심_그이상의_사랑받는_정원](http://twitter.com/search?q=%23%ec%b4%88%ec%8b%ac_%ea%b7%b8%ec%9d%b4%ec%83%81%ec%9d%98_%ec%82%ac%eb%9e%91%eb%b0%9b%eb%8a%94_%ec%a0%95%ec%9b%90) | N/A |
+| 26 | [#IntroForBabymonsterRuka](http://twitter.com/search?q=%23IntroForBabymonsterRuka) | N/A |
+| 27 | [#BCS12TH](http://twitter.com/search?q=%23BCS12TH) | N/A |
+| 28 | [#TheInterestOfLoveEp15](http://twitter.com/search?q=%23TheInterestOfLoveEp15) | N/A |
+| 29 | [#V1RTHDAY_with_NAV](http://twitter.com/search?q=%23V1RTHDAY_with_NAV) | N/A |
+| 30 | [#ᄇ1ᄇ1ᄌ1_1주년](http://twitter.com/search?q=%23%e1%84%871%e1%84%871%e1%84%8c1_1%ec%a3%bc%eb%85%84) | N/A |
+| 31 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 32 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 33 | [#PKBuntukBangsa](http://twitter.com/search?q=%23PKBuntukBangsa) | N/A |
+| 34 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
+| 35 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 36 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 37 | [#BestFriendEver](http://twitter.com/search?q=%23BestFriendEver) | N/A |
 
 
 

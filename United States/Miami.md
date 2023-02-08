@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-02-08 17:16:01 UTC`
+📆 Last Updated: `2023-02-08 18:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#GCSAAConference](http://twitter.com/search?q=%23GCSAAConference) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 3 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 4 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 5 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 6 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 10 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 4 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 5 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
+| 6 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 7 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 9 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 10 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
 | 11 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 12 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 12 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 13 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 14 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 15 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 16 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 17 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 18 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 19 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 20 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 21 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 14 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 15 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 16 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 17 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 18 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 19 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 20 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 21 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
 | 22 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 23 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 24 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 25 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
-| 26 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 27 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 23 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 24 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
+| 25 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 26 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 27 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 28 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 29 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 30 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 31 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
+| 29 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
+| 30 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
+| 31 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
 | 32 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 33 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 34 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
-| 35 | [$GOOGL](http://twitter.com/search?q=%24GOOGL) | N/A |
-| 36 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
-| 37 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
-| 38 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 39 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 40 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
-| 41 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 42 | [Participation](http://twitter.com/search?q=Participation) | N/A |
-| 43 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
-| 44 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 45 | [Ron Johnson](http://twitter.com/search?q=Ron+Johnson) | N/A |
-| 46 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
-| 47 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 48 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 49 | [Duran Duran](http://twitter.com/search?q=Duran+Duran) | N/A |
-| 50 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 33 | [$GOOGL](http://twitter.com/search?q=%24GOOGL) | N/A |
+| 34 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 35 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
+| 36 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
+| 37 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 38 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
+| 39 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 40 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 41 | [Former Twitter](http://twitter.com/search?q=Former+Twitter) | N/A |
+| 42 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 43 | [HAPPY BIRTHDAY JOHNNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+JOHNNY) | N/A |
+| 44 | [Trefoils](http://twitter.com/search?q=Trefoils) | N/A |
+| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 46 | [Vijaya Gadde](http://twitter.com/search?q=Vijaya+Gadde) | N/A |
+| 47 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
+| 48 | [James Baker](http://twitter.com/search?q=James+Baker) | N/A |
+| 49 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 50 | [Partisan](http://twitter.com/search?q=Partisan) | N/A |
 
 
 

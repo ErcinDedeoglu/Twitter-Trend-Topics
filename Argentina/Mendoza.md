@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-08 17:15:23 UTC`
+📆 Last Updated: `2023-02-08 18:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 2 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 3 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 4 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 5 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 6 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
-| 7 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
-| 8 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
-| 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 10 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 11 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 12 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 13 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 16 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 17 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 18 | [Joana](http://twitter.com/search?q=Joana) | N/A |
-| 19 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
-| 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 21 | [Martín Miguel de Güemes](http://twitter.com/search?q=Mart%c3%adn+Miguel+de+G%c3%bcemes) | N/A |
-| 22 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
-| 25 | [Kranevitter](http://twitter.com/search?q=Kranevitter) | Kranevitter is a surname of German origin. It is derived from the German words "Kran" (crane) and "Vitter" (fighter). The name literally translates to "crane fighter" or "one who fights with a crane". |
-| 26 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 27 | [Mauro Szeta](http://twitter.com/search?q=Mauro+Szeta) | N/A |
-| 28 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 29 | [Catamarca](http://twitter.com/search?q=Catamarca) | N/A |
-| 30 | [Manzur](http://twitter.com/search?q=Manzur) | N/A |
-| 31 | [Zuculini](http://twitter.com/search?q=Zuculini) | N/A |
-| 32 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
-| 33 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 34 | [Frente de Todos](http://twitter.com/search?q=Frente+de+Todos) | N/A |
-| 35 | [#ArielEnSuSalsa](http://twitter.com/search?q=%23ArielEnSuSalsa) | N/A |
-| 36 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 37 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
-| 38 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 39 | [#Siria](http://twitter.com/search?q=%23Siria) | N/A |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 6 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 7 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 10 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 11 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 12 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 13 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
+| 14 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 15 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 16 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 17 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 18 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 19 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 20 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 21 | [Zuculini](http://twitter.com/search?q=Zuculini) | N/A |
+| 22 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 23 | [Rivadavia](http://twitter.com/search?q=Rivadavia) | N/A |
+| 24 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 25 | [Thomsen](http://twitter.com/search?q=Thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
+| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 27 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 28 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 29 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 30 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 31 | [Manzur](http://twitter.com/search?q=Manzur) | N/A |
+| 32 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 33 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 34 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 35 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 36 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 37 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 38 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 39 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 40 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 41 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 42 | [Peña Biafore](http://twitter.com/search?q=Pe%c3%b1a+Biafore) | N/A |
+| 43 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
+| 44 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 45 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 46 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 47 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 48 | [Canosa](http://twitter.com/search?q=Canosa) | N/A |
+| 49 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 50 | [Gilmour](http://twitter.com/search?q=Gilmour) | N/A |
 
 
 
