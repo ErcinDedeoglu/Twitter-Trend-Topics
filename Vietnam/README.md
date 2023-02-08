@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-08 05:16:37 UTC`
+📆 Last Updated: `2023-02-08 06:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Vietnam
 | ------- | ------------ | ------------ |
 | 1 | [#อิงล็อตxCEOแป้งวิงค์ไวท์](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95xCEO%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c) | N/A |
 | 2 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 3 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
-| 4 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 6 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 7 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
-| 8 | [#50MTrueLoveByNuNew](http://twitter.com/search?q=%2350MTrueLoveByNuNew) | N/A |
-| 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 10 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
-| 11 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 3 | [#BiuOurBlueValentine](http://twitter.com/search?q=%23BiuOurBlueValentine) | N/A |
+| 4 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
+| 5 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 6 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 7 | [our best leader kim namjoon](http://twitter.com/search?q=our+best+leader+kim+namjoon) | N/A |
+| 8 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
+| 9 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 10 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
+| 11 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 12 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
 | 13 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 14 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 15 | [jisoo at cartier thailand](http://twitter.com/search?q=jisoo+at+cartier+thailand) | N/A |
-| 16 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 17 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
+| 14 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 15 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 17 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
 | 18 | [vnch](http://twitter.com/search?q=vnch) | N/A |
-| 19 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 20 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 21 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 22 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
-| 23 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 24 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
-| 25 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 26 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 27 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [chúa](http://twitter.com/search?q=ch%c3%baa) | N/A |
-| 30 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 31 | [secc](http://twitter.com/search?q=secc) | N/A |
-| 32 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 33 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
-| 34 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
-| 35 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 36 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 37 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
-| 38 | [SHIKIBU](http://twitter.com/search?q=SHIKIBU) | N/A |
-| 39 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 40 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 43 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 44 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 47 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 48 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 49 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 50 | [Mông](http://twitter.com/search?q=M%c3%b4ng) | N/A |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 21 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
+| 22 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 23 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 24 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 25 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 26 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 27 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 28 | [chúa](http://twitter.com/search?q=ch%c3%baa) | N/A |
+| 29 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
+| 32 | [Dapp](http://twitter.com/search?q=Dapp) | N/A |
+| 33 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 34 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 35 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 36 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 37 | [SHIKIBU](http://twitter.com/search?q=SHIKIBU) | N/A |
+| 38 | [Hồ Chí Minh](http://twitter.com/search?q=H%e1%bb%93+Ch%c3%ad+Minh) | N/A |
+| 39 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
+| 40 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 41 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
+| 42 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 43 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 45 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 46 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 47 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 49 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 50 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
 
 
 

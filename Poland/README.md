@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-08 05:16:34 UTC`
+📆 Last Updated: `2023-02-08 06:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 3 | [#NBApl](http://twitter.com/search?q=%23NBApl) | N/A |
+| 2 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
+| 3 | [#nbapl](http://twitter.com/search?q=%23nbapl) | N/A |
 | 4 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 5 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 6 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 7 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 7 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
 | 8 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 9 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 10 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 9 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 10 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
 | 11 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 12 | [tygrysek](http://twitter.com/search?q=tygrysek) | N/A |
+| 12 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
 | 13 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 14 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
-| 15 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 16 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 17 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
-| 20 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 21 | [krajowym zasobie nieruchomości](http://twitter.com/search?q=krajowym+zasobie+nieruchomo%c5%9bci) | N/A |
-| 22 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
-| 23 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 24 | [kukizem](http://twitter.com/search?q=kukizem) | N/A |
-| 25 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
+| 15 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 16 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 17 | [Szymczyk](http://twitter.com/search?q=Szymczyk) | N/A |
+| 18 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
+| 19 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 20 | [krajowym zasobie nieruchomości](http://twitter.com/search?q=krajowym+zasobie+nieruchomo%c5%9bci) | N/A |
+| 21 | [Departament Stanu USA](http://twitter.com/search?q=Departament+Stanu+USA) | N/A |
+| 22 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 23 | [tygryska](http://twitter.com/search?q=tygryska) | N/A |
+| 24 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 25 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
 | 26 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 27 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
-| 28 | [tygryska](http://twitter.com/search?q=tygryska) | N/A |
-| 29 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 30 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 31 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 32 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 33 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 34 | [władek](http://twitter.com/search?q=w%c5%82adek) | N/A |
-| 35 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 37 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 38 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 39 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 40 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
-| 41 | [Łotwie](http://twitter.com/search?q=%c5%81otwie) | N/A |
-| 42 | [Ślązaków](http://twitter.com/search?q=%c5%9al%c4%85zak%c3%b3w) | N/A |
-| 43 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 44 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 45 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 46 | [PKP Intercity](http://twitter.com/search?q=PKP+Intercity) | N/A |
-| 47 | [Śląska](http://twitter.com/search?q=%c5%9al%c4%85ska) | N/A |
-| 48 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 49 | [Dawid Podsiadło](http://twitter.com/search?q=Dawid+Podsiad%c5%82o) | N/A |
-| 50 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 27 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
+| 28 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 29 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
+| 30 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
+| 31 | [łotwie](http://twitter.com/search?q=%c5%82otwie) | N/A |
+| 32 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 33 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 34 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 35 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 36 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 37 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 38 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 39 | [dawid podsiadło](http://twitter.com/search?q=dawid+podsiad%c5%82o) | N/A |
+| 40 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 41 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 42 | [pkp intercity](http://twitter.com/search?q=pkp+intercity) | N/A |
+| 43 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [Ślązaków](http://twitter.com/search?q=%c5%9al%c4%85zak%c3%b3w) | N/A |
+| 46 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 47 | [Ślązacy](http://twitter.com/search?q=%c5%9al%c4%85zacy) | N/A |
+| 48 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 49 | [Polsce 18](http://twitter.com/search?q=Polsce+18) | N/A |
+| 50 | [Photon](http://twitter.com/search?q=Photon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-02-08 05:16:38 UTC`
+📆 Last Updated: `2023-02-08 06:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 2 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
-| 3 | [موسم الرياض](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 4 | [#الهلال_فلامينغو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%84%d8%a7%d9%85%d9%8a%d9%86%d8%ba%d9%88) | N/A |
-| 5 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
-| 6 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 7 | [#زلزال_شرق_المتوسط](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b4%d8%b1%d9%82_%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 1 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 2 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
+| 3 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
+| 4 | [#زلزال_شرق_المتوسط](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b4%d8%b1%d9%82_%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 5 | [موسم الرياض](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 6 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
+| 7 | [#نهايي_كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 8 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
-| 9 | [#نهايي_كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 10 | [كريم عبدالجبار](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ac%d8%a8%d8%a7%d8%b1) | N/A |
-| 11 | [ملك اللعبه](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d9%87) | N/A |
+| 9 | [#الهلال_الي_نهايي_كاس_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%8a_%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 10 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 11 | [كريم عبدالجبار](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ac%d8%a8%d8%a7%d8%b1) | N/A |
 | 12 | [الحمله الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 13 | [العين الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 14 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 15 | [الكره السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 16 | [الرجاء المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 17 | [نادي سعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 18 | [فريق عربي](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 19 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 20 | [الزعيم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 21 | [فريق سعودي](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 22 | [امريكا الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 23 | [مركز الملك](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 24 | [هلال المجد](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%ac%d8%af) | N/A |
-| 25 | [علي النهايي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | N/A |
+| 13 | [كره السله](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%87) | N/A |
+| 14 | [العين الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
+| 15 | [الرجاء المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
+| 16 | [نادي الهلال](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 17 | [علي نعمه الهلال](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 18 | [نادي سعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 19 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 20 | [مركز الملك](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 21 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 22 | [فريق عربي](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 23 | [فريق سعودي](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 24 | [امريكا الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 25 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
 | 26 | [فهد بن نافل](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | N/A |
-| 27 | [نادي عربي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 28 | [الوليد بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 29 | [مشرف الوطن](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 27 | [الوليد بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 28 | [وولي العهد](http://twitter.com/search?q=%d9%88%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 29 | [نادي عربي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 30 | [النهايي العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 31 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 31 | [الانجاز التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d8%a7%d8%b2+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
 | 32 | [النوايا الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 33 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
-| 34 | [نبي الكاس](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d9%83%d8%a7%d8%b3) | N/A |
-| 35 | [العالمي الحقيقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a+%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%8a) | N/A |
-| 36 | [نجم المباراه](http://twitter.com/search?q=%d9%86%d8%ac%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 37 | [ملك التوقعات](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa) | N/A |
-| 38 | [الامه الزرقاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7%d8%a1) | N/A |
-| 39 | [فخر الوطن](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 40 | [يابو بدر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a8%d8%af%d8%b1) | N/A |
-| 41 | [زعيم نصف الارض](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 42 | [فخر اسيا](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 43 | [الكيان العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 44 | [المحافل العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%81%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 45 | [#كاس_انديه_العالم](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%86%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 46 | [#كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 47 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 48 | [#السعوديه_تساند_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%aa%d8%b3%d8%a7%d9%86%d8%af_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 49 | [#البزنس63](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b363) | N/A |
-| 50 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
+| 33 | [فوز الزعيم](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85) | N/A |
+| 34 | [ملك التوقعات](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa) | N/A |
+| 35 | [#كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 36 | [#صباحات_الهلال](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d8%a7%d8%aa_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 37 | [#السعوديه_تساند_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%aa%d8%b3%d8%a7%d9%86%d8%af_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 38 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 39 | [#كاس_انديه_العالم](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%86%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 40 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
+| 41 | [#دخون_الاماراتيه](http://twitter.com/search?q=%23%d8%af%d8%ae%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 42 | [#AlHilal](http://twitter.com/search?q=%23AlHilal) | N/A |
+| 43 | [#GalaxyUnpacked](http://twitter.com/search?q=%23GalaxyUnpacked) | N/A |
+| 44 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 45 | [#سالم_الدوسري](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 46 | [#الهلال_فلامينجو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%84%d8%a7%d9%85%d9%8a%d9%86%d8%ac%d9%88) | N/A |
 
 
 

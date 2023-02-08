@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-08 05:15:52 UTC`
+📆 Last Updated: `2023-02-08 06:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 2 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 3 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 4 | [#PerpaniArsjadRasjid](http://twitter.com/search?q=%23PerpaniArsjadRasjid) | N/A |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 7 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 8 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
-| 9 | [Panahan Indonesia](http://twitter.com/search?q=Panahan+Indonesia) | N/A |
-| 10 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 11 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 12 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 13 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 14 | [Publish](http://twitter.com/search?q=Publish) | N/A |
-| 15 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 16 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
-| 17 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 19 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
-| 20 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
-| 21 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 22 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 23 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 24 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 25 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 26 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 27 | [Pelit](http://twitter.com/search?q=Pelit) | N/A |
-| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 29 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 30 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 31 | [#BestFriendEver](http://twitter.com/search?q=%23BestFriendEver) | N/A |
-| 32 | [#HUENING_BAHIYYIH](http://twitter.com/search?q=%23HUENING_BAHIYYIH) | N/A |
-| 33 | [#FormulaEBuntung](http://twitter.com/search?q=%23FormulaEBuntung) | N/A |
-| 34 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
-| 35 | [#UtangNumpukRezimAmbruk](http://twitter.com/search?q=%23UtangNumpukRezimAmbruk) | N/A |
-| 36 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 37 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 38 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 39 | [#PrayForTurkeyAndSyria](http://twitter.com/search?q=%23PrayForTurkeyAndSyria) | N/A |
-| 40 | [#OPPOReno8TdiBlibli](http://twitter.com/search?q=%23OPPOReno8TdiBlibli) | N/A |
-| 41 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 42 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
-| 43 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 5 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
+| 6 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 8 | [Slamet](http://twitter.com/search?q=Slamet) | N/A |
+| 9 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 10 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 11 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 12 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 13 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 14 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
+| 15 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 16 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 17 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 20 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 21 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 22 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 23 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 24 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 25 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 26 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 27 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 28 | [Himawari](http://twitter.com/search?q=Himawari) | N/A |
+| 29 | [KSPO DOME](http://twitter.com/search?q=KSPO+DOME) | N/A |
+| 30 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 31 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 32 | [Kreativitas](http://twitter.com/search?q=Kreativitas) | N/A |
+| 33 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
+| 34 | [Svts](http://twitter.com/search?q=Svts) | N/A |
+| 35 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 36 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 37 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 38 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 39 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 40 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 41 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 44 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 45 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 46 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 47 | [divergent](http://twitter.com/search?q=divergent) | N/A |
+| 48 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 49 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
 
 
 

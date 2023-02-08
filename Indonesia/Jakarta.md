@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-08 05:15:52 UTC`
+📆 Last Updated: `2023-02-08 06:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FormulaEBuntung](http://twitter.com/search?q=%23FormulaEBuntung) | N/A |
-| 2 | [Prabowo](http://twitter.com/search?q=Prabowo) | N/A |
-| 3 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 4 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 5 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 7 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 8 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
-| 9 | [Panahan Indonesia](http://twitter.com/search?q=Panahan+Indonesia) | N/A |
-| 10 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 11 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 12 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 13 | [Publish](http://twitter.com/search?q=Publish) | N/A |
-| 14 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 15 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
-| 16 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 17 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 18 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
-| 19 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
-| 20 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 21 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 22 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 23 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 24 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 25 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 26 | [Pelit](http://twitter.com/search?q=Pelit) | N/A |
-| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 28 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 29 | [Banser](http://twitter.com/search?q=Banser) | N/A |
-| 30 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 31 | [#PerpaniArsjadRasjid](http://twitter.com/search?q=%23PerpaniArsjadRasjid) | N/A |
-| 32 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 33 | [#BestFriendEver](http://twitter.com/search?q=%23BestFriendEver) | N/A |
-| 34 | [#HUENING_BAHIYYIH](http://twitter.com/search?q=%23HUENING_BAHIYYIH) | N/A |
-| 35 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
-| 36 | [#UtangNumpukRezimAmbruk](http://twitter.com/search?q=%23UtangNumpukRezimAmbruk) | N/A |
-| 37 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 38 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 39 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 40 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 41 | [#PrayForTurkeyAndSyria](http://twitter.com/search?q=%23PrayForTurkeyAndSyria) | N/A |
-| 42 | [#OPPOReno8TdiBlibli](http://twitter.com/search?q=%23OPPOReno8TdiBlibli) | N/A |
-| 43 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 44 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
-| 45 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 1 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 5 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 7 | [Slamet](http://twitter.com/search?q=Slamet) | N/A |
+| 8 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 9 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 10 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 11 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 12 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 13 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
+| 14 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 16 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 18 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 19 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 20 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 21 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 22 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 23 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
+| 24 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 25 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 26 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 27 | [KSPO DOME](http://twitter.com/search?q=KSPO+DOME) | N/A |
+| 28 | [Himawari](http://twitter.com/search?q=Himawari) | N/A |
+| 29 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 30 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 31 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
+| 32 | [Svts](http://twitter.com/search?q=Svts) | N/A |
+| 33 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 34 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 35 | [Kreativitas](http://twitter.com/search?q=Kreativitas) | N/A |
+| 36 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 37 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 38 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 39 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 40 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 42 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 43 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 44 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 45 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 46 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 47 | [divergent](http://twitter.com/search?q=divergent) | N/A |
+| 48 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
 
 
 

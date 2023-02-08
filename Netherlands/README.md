@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-08 05:16:33 UTC`
+📆 Last Updated: `2023-02-08 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
-| 2 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 2 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 3 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 4 | [#nachee](http://twitter.com/search?q=%23nachee) | N/A |
-| 5 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
-| 6 | [#aardbeving](http://twitter.com/search?q=%23aardbeving) | N/A |
-| 7 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 4 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 6 | [#nachee](http://twitter.com/search?q=%23nachee) | N/A |
+| 7 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 8 | [#aardbeving](http://twitter.com/search?q=%23aardbeving) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 12 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 13 | [essent](http://twitter.com/search?q=essent) | N/A |
-| 14 | [vattenfall](http://twitter.com/search?q=vattenfall) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 16 | [gecondoleerd peter](http://twitter.com/search?q=gecondoleerd+peter) | N/A |
-| 17 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 18 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 19 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 14 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 15 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 16 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 17 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 18 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 19 | [Gecondoleerd Peter](http://twitter.com/search?q=Gecondoleerd+Peter) | N/A |
 | 20 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 21 | [Aphex Twin](http://twitter.com/search?q=Aphex+Twin) | N/A |
-| 22 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 23 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 24 | [van aken](http://twitter.com/search?q=van+aken) | N/A |
-| 25 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
-| 26 | [syrische](http://twitter.com/search?q=syrische) | N/A |
-| 27 | [pfas](http://twitter.com/search?q=pfas) | N/A |
-| 28 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 29 | [waakhond acm](http://twitter.com/search?q=waakhond+acm) | N/A |
-| 30 | [dag 7](http://twitter.com/search?q=dag+7) | N/A |
-| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 32 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 33 | [verschrikkelijk](http://twitter.com/search?q=verschrikkelijk) | N/A |
-| 34 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 35 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 36 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 37 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 38 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 39 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 40 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 41 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 42 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 43 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
-| 44 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 45 | [ontdekt](http://twitter.com/search?q=ontdekt) | N/A |
-| 46 | [margo smit](http://twitter.com/search?q=margo+smit) | N/A |
-| 47 | [luisteraar](http://twitter.com/search?q=luisteraar) | N/A |
-| 48 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 49 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 50 | [beterschap adrie](http://twitter.com/search?q=beterschap+adrie) | N/A |
+| 21 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 22 | [Aphex Twin](http://twitter.com/search?q=Aphex+Twin) | N/A |
+| 23 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
+| 24 | [Wilco](http://twitter.com/search?q=Wilco) | N/A |
+| 25 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 26 | [Van Aken](http://twitter.com/search?q=Van+Aken) | N/A |
+| 27 | [syrische](http://twitter.com/search?q=syrische) | N/A |
+| 28 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
+| 29 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 30 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 31 | [dag 7](http://twitter.com/search?q=dag+7) | N/A |
+| 32 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 33 | [waakhond acm](http://twitter.com/search?q=waakhond+acm) | N/A |
+| 34 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 35 | [Pedofilie](http://twitter.com/search?q=Pedofilie) | N/A |
+| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 37 | [Luisteraar](http://twitter.com/search?q=Luisteraar) | N/A |
+| 38 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 39 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 40 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 41 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 42 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 43 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
+| 44 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
+| 45 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 46 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 47 | [Corry](http://twitter.com/search?q=Corry) | N/A |
+| 48 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 49 | [Van Duiven](http://twitter.com/search?q=Van+Duiven) | N/A |
+| 50 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-08 05:15:48 UTC`
+📆 Last Updated: `2023-02-08 06:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 1 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 2 | [#COAC2023C2](http://twitter.com/search?q=%23COAC2023C2) | N/A |
 | 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 5 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 6 | [#dormiresdecobardes](http://twitter.com/search?q=%23dormiresdecobardes) | N/A |
-| 7 | [#TentacionesDBT3](http://twitter.com/search?q=%23TentacionesDBT3) | N/A |
-| 8 | [#LaIslaDeLasTentaciones3](http://twitter.com/search?q=%23LaIslaDeLasTentaciones3) | N/A |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 4 | [#dormiresdecobardes](http://twitter.com/search?q=%23dormiresdecobardes) | N/A |
+| 5 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 6 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 7 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 8 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
+| 9 | [#TentacionesDBT3](http://twitter.com/search?q=%23TentacionesDBT3) | N/A |
 | 10 | [Froilán](http://twitter.com/search?q=Froil%c3%a1n) | Froilán is a Spanish name derived from the Germanic name Fridulph, which means "peaceful wolf". It is also a common given name in Spanish-speaking countries. |
-| 11 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
-| 12 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 13 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 14 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 16 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
-| 17 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 18 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 11 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 14 | [PSOE](http://twitter.com/search?q=PSOE) | N/A |
+| 15 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 16 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 17 | [Pilar Llop](http://twitter.com/search?q=Pilar+Llop) | N/A |
+| 18 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 19 | [Ence](http://twitter.com/search?q=Ence) | N/A |
 | 20 | [Senabre](http://twitter.com/search?q=Senabre) | N/A |
-| 21 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 22 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 25 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 26 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 27 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 28 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 29 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 30 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
-| 31 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
-| 32 | [Sanlúcar](http://twitter.com/search?q=Sanl%c3%bacar) | N/A |
+| 21 | [Siro](http://twitter.com/search?q=Siro) | N/A |
+| 22 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 23 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 24 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 25 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 26 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 27 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 28 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
+| 29 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
+| 30 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 31 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 32 | [Martínez Ares](http://twitter.com/search?q=Mart%c3%adnez+Ares) | N/A |
 | 33 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
 | 34 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 | 35 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 38 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 39 | [Antros](http://twitter.com/search?q=Antros) | N/A |
+| 36 | [Sanlúcar](http://twitter.com/search?q=Sanl%c3%bacar) | N/A |
+| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 38 | [Antros](http://twitter.com/search?q=Antros) | N/A |
+| 39 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
 | 40 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
-| 41 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 42 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 43 | [ministra de justicia](http://twitter.com/search?q=ministra+de+justicia) | N/A |
-| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 45 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 46 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 47 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 48 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 49 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 41 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 42 | [Ministra de Justicia](http://twitter.com/search?q=Ministra+de+Justicia) | N/A |
+| 43 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 44 | [BOLLODRAMA](http://twitter.com/search?q=BOLLODRAMA) | N/A |
+| 45 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 46 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 47 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 48 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 49 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
 
 
 
