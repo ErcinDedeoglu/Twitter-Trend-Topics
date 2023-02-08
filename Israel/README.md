@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-08 00:27:59 UTC`
+📆 Last Updated: `2023-02-08 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,10 +30,10 @@ This is top 50 for Israel
 | 13 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
 | 14 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
 | 15 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
-| 16 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
-| 17 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
-| 18 | [עוד שר](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a9%d7%a8) | N/A |
-| 19 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 16 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 17 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
+| 18 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 19 | [עוד שר](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a9%d7%a8) | N/A |
 | 20 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 21 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
 | 22 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Israel
 | 34 | [כנסת ישראל](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 35 | [אלעד עמדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%93+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
 | 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 37 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 38 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
-| 39 | [של רגב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%92%d7%91) | N/A |
+| 37 | [#TuBishvat](http://twitter.com/search?q=%23TuBishvat) | N/A |
+| 38 | [של רגב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%92%d7%91) | N/A |
+| 39 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
 | 40 | [#ETHTLV](http://twitter.com/search?q=%23ETHTLV) | N/A |
 | 41 | [של אמסלם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
 | 42 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
-| 43 | [של הכנסת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 44 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 45 | [יוסי לנגוצקי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%9c%d7%a0%d7%92%d7%95%d7%a6%d7%a7%d7%99) | N/A |
-| 46 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
-| 47 | [זאב רז](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a8%d7%96) | N/A |
-| 48 | [כ אלמוג כהן](http://twitter.com/search?q=%d7%9b+%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 49 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 50 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
+| 43 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 44 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
+| 45 | [זאב רז](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a8%d7%96) | N/A |
+| 46 | [כ אלמוג כהן](http://twitter.com/search?q=%d7%9b+%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
+| 47 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 48 | [של פיקוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%99%d7%a7%d7%95%d7%93) | N/A |
+| 49 | [של כאן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9b%d7%90%d7%9f) | N/A |
+| 50 | [של ברדוגו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%93%d7%95%d7%92%d7%95) | N/A |
 
 
 

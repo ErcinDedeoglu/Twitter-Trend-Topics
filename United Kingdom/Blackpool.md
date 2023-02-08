@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-08 00:27:04 UTC`
+📆 Last Updated: `2023-02-08 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 3 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 4 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 5 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
-| 6 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 7 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 8 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 9 | [Carlos Corberan](http://twitter.com/search?q=Carlos+Corberan) | N/A |
-| 10 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 12 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 13 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 14 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 15 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 16 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 17 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 18 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 19 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 20 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 21 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 22 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 23 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 24 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
-| 25 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 26 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 28 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 29 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 30 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 31 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 32 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 33 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
-| 34 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 35 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 36 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 37 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
-| 38 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
-| 39 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 40 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 41 | [Rene](http://twitter.com/search?q=Rene) | N/A |
-| 42 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 43 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 44 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
-| 45 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
-| 46 | [Nathan Tella](http://twitter.com/search?q=Nathan+Tella) | N/A |
-| 47 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
-| 48 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
-| 49 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 50 | [Madine](http://twitter.com/search?q=Madine) | N/A |
+| 1 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 2 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 3 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 4 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 6 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 8 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 9 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 10 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 11 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
+| 12 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 14 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 15 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 16 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
+| 17 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 18 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 19 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 21 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 22 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 24 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 25 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 26 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 27 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
+| 28 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 29 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 30 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 31 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
+| 32 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 33 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 34 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
+| 35 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 36 | [Rene](http://twitter.com/search?q=Rene) | N/A |
+| 37 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 38 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 39 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
+| 40 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 41 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 42 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 43 | [Madine](http://twitter.com/search?q=Madine) | N/A |
+| 44 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 45 | [Phil Parkinson](http://twitter.com/search?q=Phil+Parkinson) | N/A |
+| 46 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 47 | [Nah Will](http://twitter.com/search?q=Nah+Will) | N/A |
+| 48 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 49 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 50 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 
 
 

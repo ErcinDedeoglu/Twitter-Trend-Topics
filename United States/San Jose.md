@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-08 00:27:54 UTC`
+📆 Last Updated: `2023-02-08 01:44:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 2 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 3 | [Steve Wilks](http://twitter.com/search?q=Steve+Wilks) | N/A |
-| 4 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 5 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 6 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 9 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 10 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 11 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 12 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 13 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
-| 14 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 16 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 17 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 18 | [#BrighterBoston](http://twitter.com/search?q=%23BrighterBoston) | N/A |
-| 19 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 20 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 21 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 24 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 25 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 26 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
-| 27 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 28 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 29 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
-| 30 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 31 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 32 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 33 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 34 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 35 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 36 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 37 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 38 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
-| 39 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 40 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 41 | [Harlan](http://twitter.com/search?q=Harlan) | N/A |
-| 42 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 43 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 44 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 45 | [Stasis](http://twitter.com/search?q=Stasis) | N/A |
-| 46 | [Good Morning Vietnam](http://twitter.com/search?q=Good+Morning+Vietnam) | N/A |
-| 47 | [Good Will Hunting](http://twitter.com/search?q=Good+Will+Hunting) | N/A |
-| 48 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 49 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 2 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 3 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 4 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 5 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 6 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 7 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 8 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 9 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 10 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 11 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 12 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 13 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 14 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
+| 15 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 16 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 17 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 18 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 19 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 20 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 22 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
+| 23 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 24 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 26 | [#InsteadOfRosesGiveHer](http://twitter.com/search?q=%23InsteadOfRosesGiveHer) | N/A |
+| 27 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 28 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 29 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
+| 30 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 31 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 32 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 33 | [Sol Ruca](http://twitter.com/search?q=Sol+Ruca) | N/A |
+| 34 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 35 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
+| 36 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 37 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 39 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 40 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 41 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 42 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 43 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
+| 44 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
+| 45 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 46 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 47 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 48 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 49 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 
 
 

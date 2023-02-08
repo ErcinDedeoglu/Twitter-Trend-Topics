@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-08 00:27:14 UTC`
+📆 Last Updated: `2023-02-08 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 2 | [Mazembaço](http://twitter.com/search?q=Mazemba%c3%a7o) | N/A |
-| 3 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 4 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 3 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 4 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
+| 5 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 8 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 9 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 10 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 11 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
-| 12 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 13 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 14 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 15 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 16 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 17 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 18 | [LUDMILLA FOI PRESA](http://twitter.com/search?q=LUDMILLA+FOI+PRESA) | N/A |
-| 19 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 20 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 21 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 22 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 23 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
-| 24 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 25 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
-| 26 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 27 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 28 | [ZÉ ENTREGA CUPOM PRO BBB](http://twitter.com/search?q=Z%c3%89+ENTREGA+CUPOM+PRO+BBB) | N/A |
-| 29 | [Mazembe](http://twitter.com/search?q=Mazembe) | N/A |
-| 30 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 31 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 32 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
-| 33 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 34 | [Alison](http://twitter.com/search?q=Alison) | N/A |
-| 35 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 36 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
-| 37 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 38 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 39 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 40 | [Flamenguista](http://twitter.com/search?q=Flamenguista) | N/A |
-| 41 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 42 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 43 | [VAMOS CRUZEIRO](http://twitter.com/search?q=VAMOS+CRUZEIRO) | N/A |
-| 44 | [Varmengo](http://twitter.com/search?q=Varmengo) | N/A |
-| 45 | [Sidoka](http://twitter.com/search?q=Sidoka) | N/A |
-| 46 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 47 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 48 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
-| 49 | [AMANHA TEM NOITADA](http://twitter.com/search?q=AMANHA+TEM+NOITADA) | N/A |
-| 50 | [Diretoria](http://twitter.com/search?q=Diretoria) | N/A |
+| 8 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 9 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 10 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 11 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 12 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
+| 13 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 14 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 15 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 16 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 17 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 18 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
+| 19 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 20 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 21 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 22 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 23 | [Pedro Rocha](http://twitter.com/search?q=Pedro+Rocha) | N/A |
+| 24 | [AMANHA TEM NOITADA](http://twitter.com/search?q=AMANHA+TEM+NOITADA) | N/A |
+| 25 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 26 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 27 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 28 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 29 | [sidoka](http://twitter.com/search?q=sidoka) | N/A |
+| 30 | [ZÉ ENTREGA CUPOM PRO BBB](http://twitter.com/search?q=Z%c3%89+ENTREGA+CUPOM+PRO+BBB) | N/A |
+| 31 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 32 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
+| 33 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
+| 34 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 35 | [Sou Má](http://twitter.com/search?q=Sou+M%c3%a1) | N/A |
+| 36 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 37 | [Mazembe](http://twitter.com/search?q=Mazembe) | N/A |
+| 38 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
+| 39 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 40 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 41 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 42 | [De Lucca](http://twitter.com/search?q=De+Lucca) | N/A |
+| 43 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 44 | [Alison](http://twitter.com/search?q=Alison) | N/A |
+| 45 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 46 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 47 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 48 | [galhardo](http://twitter.com/search?q=galhardo) | N/A |
+| 49 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 50 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-08 00:27:56 UTC`
+📆 Last Updated: `2023-02-08 01:44:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 2 | [Gang](http://twitter.com/search?q=Gang) | N/A |
+| 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
+| 2 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
 | 3 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 5 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 6 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 7 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 11 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 10 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 11 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
 | 12 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
 | 13 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
 | 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Austria
 | 29 | [kundgebung](http://twitter.com/search?q=kundgebung) | N/A |
 | 30 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 31 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
-| 32 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 33 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 34 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 35 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 37 | [Gelände](http://twitter.com/search?q=Gel%c3%a4nde) | N/A |
-| 38 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 39 | [Nudeln](http://twitter.com/search?q=Nudeln) | N/A |
-| 40 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
-| 41 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 42 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 43 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 44 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 45 | [Typen](http://twitter.com/search?q=Typen) | N/A |
-| 46 | [Matura](http://twitter.com/search?q=Matura) | N/A |
-| 47 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 48 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 49 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
-| 50 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 32 | [teilnehmer](http://twitter.com/search?q=teilnehmer) | N/A |
+| 33 | [lehre](http://twitter.com/search?q=lehre) | N/A |
+| 34 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 35 | [gelände](http://twitter.com/search?q=gel%c3%a4nde) | N/A |
+| 36 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
+| 37 | [Nudeln](http://twitter.com/search?q=Nudeln) | N/A |
+| 38 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
+| 39 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 40 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 41 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 42 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
+| 43 | [Adresse](http://twitter.com/search?q=Adresse) | N/A |
+| 44 | [matura](http://twitter.com/search?q=matura) | N/A |
+| 45 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 46 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 47 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 48 | [skifahren](http://twitter.com/search?q=skifahren) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 50 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 
 
 

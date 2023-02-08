@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-08 00:27:49 UTC`
+📆 Last Updated: `2023-02-08 01:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 2 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 3 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 4 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 5 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 6 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
-| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 8 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 9 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 10 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 11 | [#BrighterBoston](http://twitter.com/search?q=%23BrighterBoston) | N/A |
-| 12 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 13 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 14 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 16 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 17 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 18 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 19 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
-| 20 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 21 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 22 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
-| 23 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 24 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 25 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 26 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 27 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 28 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 29 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 30 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
-| 31 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 32 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 33 | [Harlan](http://twitter.com/search?q=Harlan) | N/A |
-| 34 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 35 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 36 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 37 | [Stasis](http://twitter.com/search?q=Stasis) | N/A |
-| 38 | [Good Morning Vietnam](http://twitter.com/search?q=Good+Morning+Vietnam) | N/A |
-| 39 | [Good Will Hunting](http://twitter.com/search?q=Good+Will+Hunting) | N/A |
-| 40 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 41 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 42 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 43 | [Deron](http://twitter.com/search?q=Deron) | N/A |
-| 44 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 45 | [Acid Rap](http://twitter.com/search?q=Acid+Rap) | N/A |
-| 46 | [Dan Marino](http://twitter.com/search?q=Dan+Marino) | N/A |
-| 47 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 48 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 1 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 3 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 4 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 5 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 6 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 7 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 8 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 9 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
+| 10 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 11 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 12 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 13 | [#InsteadOfRosesGiveHer](http://twitter.com/search?q=%23InsteadOfRosesGiveHer) | N/A |
+| 14 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 15 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 16 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 17 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 18 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 19 | [Sol Ruca](http://twitter.com/search?q=Sol+Ruca) | N/A |
+| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 21 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
+| 22 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 23 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 24 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 25 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 26 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 27 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 28 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
+| 29 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 31 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
+| 32 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 33 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 35 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 36 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
+| 37 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
+| 38 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
+| 39 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 40 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 41 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 42 | [Lattimore](http://twitter.com/search?q=Lattimore) | Lattimore is a surname of English origin. It is derived from the Old English words "lætt" meaning "light" and "mōr" meaning "moor". The name is thought to have originally referred to someone who lived on or near a light-colored moor. |
+| 43 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 44 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
+| 45 | [Schifino](http://twitter.com/search?q=Schifino) | N/A |
+| 46 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
+| 47 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 48 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
 
 
 

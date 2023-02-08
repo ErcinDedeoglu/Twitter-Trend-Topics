@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-08 00:27:11 UTC`
+📆 Last Updated: `2023-02-08 01:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 1 | [#cometaverde](http://twitter.com/search?q=%23cometaverde) | N/A |
 | 2 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
-| 3 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 3 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
 | 4 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [#TDS2inCHILE](http://twitter.com/search?q=%23TDS2inCHILE) | N/A |
-| 8 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
-| 9 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 10 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
-| 11 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
-| 12 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
-| 13 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 14 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
+| 5 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 6 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 7 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 8 | [#TDS2inCHILE](http://twitter.com/search?q=%23TDS2inCHILE) | N/A |
+| 9 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
+| 10 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 11 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
+| 12 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 13 | [Nicolás López](http://twitter.com/search?q=Nicol%c3%a1s+L%c3%b3pez) | N/A |
+| 14 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
 | 15 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 16 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 17 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
+| 17 | [Experta](http://twitter.com/search?q=Experta) | N/A |
 | 18 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 19 | [Experta](http://twitter.com/search?q=Experta) | N/A |
+| 19 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
 | 20 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
 | 21 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
 | 22 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 23 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 25 | [Las Maicas](http://twitter.com/search?q=Las+Maicas) | N/A |
-| 26 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 27 | [Ramón Díaz](http://twitter.com/search?q=Ram%c3%b3n+D%c3%adaz) | N/A |
-| 28 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
+| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 24 | [Carmen Frei](http://twitter.com/search?q=Carmen+Frei) | N/A |
+| 25 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
+| 26 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 27 | [ENAP](http://twitter.com/search?q=ENAP) | N/A |
+| 28 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
 | 29 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 30 | [Carmen Frei](http://twitter.com/search?q=Carmen+Frei) | N/A |
-| 31 | [Bienvenido a Chile](http://twitter.com/search?q=Bienvenido+a+Chile) | N/A |
-| 32 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 33 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 34 | [Pololeo](http://twitter.com/search?q=Pololeo) | N/A |
-| 35 | [Pedro Martínez](http://twitter.com/search?q=Pedro+Mart%c3%adnez) | N/A |
-| 36 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 30 | [BWL TO 1B](http://twitter.com/search?q=BWL+TO+1B) | N/A |
+| 31 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 32 | [Pedro Martínez](http://twitter.com/search?q=Pedro+Mart%c3%adnez) | N/A |
+| 33 | [Las Maicas](http://twitter.com/search?q=Las+Maicas) | N/A |
+| 34 | [Bienvenido a Chile](http://twitter.com/search?q=Bienvenido+a+Chile) | N/A |
+| 35 | [Pololeo](http://twitter.com/search?q=Pololeo) | N/A |
+| 36 | [Brigadistas y Brigadistos](http://twitter.com/search?q=Brigadistas+y+Brigadistos) | N/A |
 | 37 | [Futa](http://twitter.com/search?q=Futa) | N/A |
-| 38 | [Brigadistas y Brigadistos](http://twitter.com/search?q=Brigadistas+y+Brigadistos) | N/A |
-| 39 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 40 | [Ruta 5 Sur](http://twitter.com/search?q=Ruta+5+Sur) | N/A |
-| 41 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 42 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 43 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 44 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
-| 45 | [Laura Albornoz](http://twitter.com/search?q=Laura+Albornoz) | N/A |
-| 46 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 47 | [Alex Gárgolas](http://twitter.com/search?q=Alex+G%c3%a1rgolas) | N/A |
-| 48 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 49 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 50 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
+| 38 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 39 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 42 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 43 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 44 | [Laura Albornoz](http://twitter.com/search?q=Laura+Albornoz) | N/A |
+| 45 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 46 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 47 | [Ruta 5 Sur](http://twitter.com/search?q=Ruta+5+Sur) | N/A |
+| 48 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 49 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 50 | [Matías Dituro](http://twitter.com/search?q=Mat%c3%adas+Dituro) | N/A |
 
 
 

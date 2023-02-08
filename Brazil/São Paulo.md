@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-08 00:27:15 UTC`
+📆 Last Updated: `2023-02-08 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 2 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 3 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
-| 4 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 5 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 6 | [Manja](http://twitter.com/search?q=Manja) | N/A |
+| 1 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 2 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 3 | [Manja](http://twitter.com/search?q=Manja) | N/A |
+| 4 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
+| 5 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 6 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
 | 7 | [Sogra](http://twitter.com/search?q=Sogra) | N/A |
-| 8 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 9 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 10 | [EM FEVEREIRO DE 23](http://twitter.com/search?q=EM+FEVEREIRO+DE+23) | N/A |
-| 11 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 12 | [Mauro Cezar](http://twitter.com/search?q=Mauro+Cezar) | N/A |
-| 13 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 14 | [ME FIZERAM UMA PERGUNTA](http://twitter.com/search?q=ME+FIZERAM+UMA+PERGUNTA) | N/A |
-| 15 | [São Paulo Futebol Clube](http://twitter.com/search?q=S%c3%a3o+Paulo+Futebol+Clube) | N/A |
-| 16 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 17 | [Flapress](http://twitter.com/search?q=Flapress) | N/A |
-| 18 | [pardal](http://twitter.com/search?q=pardal) | N/A |
-| 19 | [Mengaum](http://twitter.com/search?q=Mengaum) | N/A |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
-| 22 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
-| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 24 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 25 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 26 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 27 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
-| 28 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 29 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 30 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 31 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 32 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 33 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 34 | [LUDMILLA FOI PRESA](http://twitter.com/search?q=LUDMILLA+FOI+PRESA) | N/A |
-| 35 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 36 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 37 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 38 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 39 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
-| 40 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 41 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
-| 42 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 43 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 44 | [ZÉ ENTREGA CUPOM PRO BBB](http://twitter.com/search?q=Z%c3%89+ENTREGA+CUPOM+PRO+BBB) | N/A |
-| 45 | [Mazembe](http://twitter.com/search?q=Mazembe) | N/A |
-| 46 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 47 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 48 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
-| 49 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 50 | [Alison](http://twitter.com/search?q=Alison) | N/A |
+| 8 | [Praga de Corinthiano](http://twitter.com/search?q=Praga+de+Corinthiano) | N/A |
+| 9 | [Cheirinho](http://twitter.com/search?q=Cheirinho) | N/A |
+| 10 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 11 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
+| 12 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 13 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 14 | [Varmengo](http://twitter.com/search?q=Varmengo) | N/A |
+| 15 | [Flapress](http://twitter.com/search?q=Flapress) | N/A |
+| 16 | [Mauro Cezar](http://twitter.com/search?q=Mauro+Cezar) | N/A |
+| 17 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
+| 18 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 19 | [QUE PERGUNTA](http://twitter.com/search?q=QUE+PERGUNTA) | N/A |
+| 20 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 21 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
+| 22 | [Mengaum](http://twitter.com/search?q=Mengaum) | N/A |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 26 | [NASCI PRA VENCER](http://twitter.com/search?q=NASCI+PRA+VENCER) | N/A |
+| 27 | [#FLAxHIL](http://twitter.com/search?q=%23FLAxHIL) | N/A |
+| 28 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 29 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 30 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 31 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 32 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 33 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
+| 34 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 35 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 36 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 37 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 38 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 39 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 40 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
+| 41 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 42 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 43 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 44 | [Pedro Rocha](http://twitter.com/search?q=Pedro+Rocha) | N/A |
+| 45 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 46 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 47 | [AMANHA TEM NOITADA](http://twitter.com/search?q=AMANHA+TEM+NOITADA) | N/A |
+| 48 | [sidoka](http://twitter.com/search?q=sidoka) | N/A |
+| 49 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 50 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
 
 
 

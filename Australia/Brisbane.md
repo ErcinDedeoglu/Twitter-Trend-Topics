@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-02-08 00:27:26 UTC`
+📆 Last Updated: `2023-02-08 01:44:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 4 | [Nauru](http://twitter.com/search?q=Nauru) | N/A |
 | 5 | [Lidia Thorpe](http://twitter.com/search?q=Lidia+Thorpe) | N/A |
-| 6 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 7 | [Paul Kelly](http://twitter.com/search?q=Paul+Kelly) | N/A |
-| 8 | [ATAGI](http://twitter.com/search?q=ATAGI) | N/A |
-| 9 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 10 | [Julian Burnside](http://twitter.com/search?q=Julian+Burnside) | N/A |
-| 11 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 12 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 15 | [Novavax](http://twitter.com/search?q=Novavax) | N/A |
-| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 17 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 18 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 19 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 6 | [ATAGI](http://twitter.com/search?q=ATAGI) | N/A |
+| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 8 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 9 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 10 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 11 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 12 | [Paul Kelly](http://twitter.com/search?q=Paul+Kelly) | N/A |
+| 13 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 14 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 15 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 16 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 17 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 18 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 19 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 20 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 21 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 22 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 23 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
-| 24 | [#thegazeys](http://twitter.com/search?q=%23thegazeys) | N/A |
-| 25 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
-| 26 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 27 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 29 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 30 | [Extreme](http://twitter.com/search?q=Extreme) | N/A |
+| 21 | [Burnside](http://twitter.com/search?q=Burnside) | N/A |
+| 22 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 23 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 24 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 25 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
+| 26 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 27 | [Novavax](http://twitter.com/search?q=Novavax) | N/A |
+| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 30 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
 | 31 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 32 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 33 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 34 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 35 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 36 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 37 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 38 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 39 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
-| 40 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 41 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 42 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 43 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 45 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 32 | [#LatestHindiSong2023](http://twitter.com/search?q=%23LatestHindiSong2023) | N/A |
+| 33 | [#Wordle599](http://twitter.com/search?q=%23Wordle599) | N/A |
+| 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 35 | [Matthew Guy](http://twitter.com/search?q=Matthew+Guy) | N/A |
+| 36 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 37 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 38 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 39 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 40 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 41 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 42 | [Bonnie Raitt](http://twitter.com/search?q=Bonnie+Raitt) | Bonnie Raitt is an American blues singer-songwriter and musician. She is known for her unique style of slide guitar playing and her soulful voice. Her music has been described as a mix of blues, rock, folk, and country. |
+| 43 | [Saintly](http://twitter.com/search?q=Saintly) | N/A |
+| 44 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 45 | [Satan](http://twitter.com/search?q=Satan) | N/A |
 | 46 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 47 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 48 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 49 | [Nat Fyfe](http://twitter.com/search?q=Nat+Fyfe) | N/A |
-| 50 | [Blak](http://twitter.com/search?q=Blak) | N/A |
+| 47 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 48 | [Toowoomba](http://twitter.com/search?q=Toowoomba) | N/A |
+| 49 | [Tony Cochrane](http://twitter.com/search?q=Tony+Cochrane) | N/A |
+| 50 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 
 
 

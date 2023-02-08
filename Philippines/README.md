@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-08 00:28:02 UTC`
+📆 Last Updated: `2023-02-08 01:45:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Philippines
 | 3 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 5 | [#KarinaDeservesBetter](http://twitter.com/search?q=%23KarinaDeservesBetter) | N/A |
-| 6 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 9 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 10 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
+| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 7 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 8 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
+| 9 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
+| 10 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
 | 11 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 12 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
-| 13 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 12 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 13 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
+| 14 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
 | 15 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 16 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 17 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 18 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 19 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 20 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 22 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 16 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 17 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 18 | [Pnoy](http://twitter.com/search?q=Pnoy) | N/A |
+| 19 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 20 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
+| 21 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 22 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 23 | [morente](http://twitter.com/search?q=morente) | N/A |
 | 24 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
 | 25 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
-| 26 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 27 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 28 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 29 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
-| 30 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
-| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 32 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 33 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 34 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
-| 35 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 36 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 37 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 38 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 39 | [franseth chicomulingpagtatagpo](http://twitter.com/search?q=franseth+chicomulingpagtatagpo) | N/A |
-| 40 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 41 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 42 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 43 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 44 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 45 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 46 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 47 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 48 | [presave dulo now](http://twitter.com/search?q=presave+dulo+now) | N/A |
-| 49 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 50 | [coach reg](http://twitter.com/search?q=coach+reg) | N/A |
+| 26 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 27 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 28 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
+| 29 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 30 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 31 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 32 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
+| 33 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 34 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
+| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 36 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
+| 37 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 38 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
+| 39 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 40 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 41 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 42 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
+| 43 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 44 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 46 | [franseth chicomulingpagtatagpo](http://twitter.com/search?q=franseth+chicomulingpagtatagpo) | N/A |
+| 47 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 48 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 49 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 50 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
 
 
 

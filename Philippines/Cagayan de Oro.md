@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-08 00:27:33 UTC`
+📆 Last Updated: `2023-02-08 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 6 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 7 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 8 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
-| 9 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 7 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
+| 8 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 9 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
 | 10 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
 | 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 12 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 13 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 12 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 13 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
 | 14 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
 | 15 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
 | 16 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 17 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 18 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
-| 19 | [morente](http://twitter.com/search?q=morente) | N/A |
-| 20 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 21 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
-| 22 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 23 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 24 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 17 | [Pnoy](http://twitter.com/search?q=Pnoy) | N/A |
+| 18 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 19 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 20 | [morente](http://twitter.com/search?q=morente) | N/A |
+| 21 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
+| 22 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
+| 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 24 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
 | 25 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 26 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
-| 27 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
-| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 29 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
-| 30 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 32 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
-| 33 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 34 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 35 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 36 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 37 | [franseth chicomulingpagtatagpo](http://twitter.com/search?q=franseth+chicomulingpagtatagpo) | N/A |
-| 38 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 39 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 40 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
-| 41 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
-| 42 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 43 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 44 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 45 | [presave dulo now](http://twitter.com/search?q=presave+dulo+now) | N/A |
-| 46 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 47 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 26 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 27 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 28 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
+| 29 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 30 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
+| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 32 | [ANDREA BRILLIANT InARANETA](http://twitter.com/search?q=ANDREA+BRILLIANT+InARANETA) | N/A |
+| 33 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 34 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
+| 35 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 36 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 37 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
+| 38 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 39 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 41 | [franseth chicomulingpagtatagpo](http://twitter.com/search?q=franseth+chicomulingpagtatagpo) | N/A |
+| 42 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 43 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
+| 44 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 45 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
+| 46 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 47 | [ALDENxTheBrilliant Concert2023](http://twitter.com/search?q=ALDENxTheBrilliant+Concert2023) | N/A |
 
 
 

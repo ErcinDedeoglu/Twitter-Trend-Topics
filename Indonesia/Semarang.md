@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-08 00:27:26 UTC`
+📆 Last Updated: `2023-02-08 01:44:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
-| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 1 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 2 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 3 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
 | 4 | [#PrayForTurkey](http://twitter.com/search?q=%23PrayForTurkey) | N/A |
 | 5 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 6 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 7 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
-| 8 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 9 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 10 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 11 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 12 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 13 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 14 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 15 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 16 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 17 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 18 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 19 | [Oagi](http://twitter.com/search?q=Oagi) | N/A |
-| 20 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 21 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 22 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 23 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 24 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 25 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 6 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 8 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 9 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 10 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 11 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 12 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 13 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 14 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 15 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 16 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 17 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 18 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 19 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 20 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 21 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 22 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 23 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 24 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 25 | [Oagi](http://twitter.com/search?q=Oagi) | N/A |
 | 26 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 27 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 28 | [Pelit](http://twitter.com/search?q=Pelit) | N/A |
-| 29 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 31 | [Lee Min Ho](http://twitter.com/search?q=Lee+Min+Ho) | N/A |
-| 32 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 33 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 34 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 35 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
-| 36 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 37 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 38 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 39 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 40 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 41 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
-| 42 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 27 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 28 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 29 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 30 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 31 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 32 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 33 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 34 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 35 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 36 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
+| 37 | [Dokter Tifa](http://twitter.com/search?q=Dokter+Tifa) | N/A |
+| 38 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 39 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 40 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 41 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 43 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 44 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 44 | [FOCUS ON VICTORY FOR BTS](http://twitter.com/search?q=FOCUS+ON+VICTORY+FOR+BTS) | N/A |
 | 45 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 46 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
-| 47 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
-| 48 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 46 | [WE LOVE YOU TAEKOOK](http://twitter.com/search?q=WE+LOVE+YOU+TAEKOOK) | N/A |
+| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 48 | [Pelit](http://twitter.com/search?q=Pelit) | N/A |
+| 49 | [Homa](http://twitter.com/search?q=Homa) | N/A |
 
 
 
