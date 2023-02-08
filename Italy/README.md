@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-08 09:16:06 UTC`
+📆 Last Updated: `2023-02-08 10:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#Blanco](http://twitter.com/search?q=%23Blanco) | N/A |
+| 2 | [#Sanremo](http://twitter.com/search?q=%23Sanremo) | N/A |
 | 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 4 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
-| 5 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 6 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
+| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 5 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
+| 6 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
 | 7 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 8 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 9 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 10 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 11 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 13 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 8 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 9 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 10 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 11 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 12 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 13 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 14 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 15 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 15 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 16 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 17 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 18 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 19 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 20 | [Grease](http://twitter.com/search?q=Grease) | N/A |
-| 21 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
-| 22 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 23 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 24 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
-| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 26 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 27 | [paolo bitta](http://twitter.com/search?q=paolo+bitta) | N/A |
-| 28 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 29 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 30 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 17 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 18 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 19 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 20 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 21 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
+| 22 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 23 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 24 | [paolo bitta](http://twitter.com/search?q=paolo+bitta) | N/A |
+| 25 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 26 | [SALMO](http://twitter.com/search?q=SALMO) | N/A |
+| 27 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 28 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 29 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 30 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 31 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
 | 32 | [BRIVIDI](http://twitter.com/search?q=BRIVIDI) | N/A |
-| 33 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 34 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
-| 35 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 36 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 37 | [Giuseppe Ungaretti](http://twitter.com/search?q=Giuseppe+Ungaretti) | N/A |
-| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 39 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
-| 40 | [Stockard Channing](http://twitter.com/search?q=Stockard+Channing) | N/A |
-| 41 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 43 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
-| 44 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 45 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 46 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
-| 47 | [Tette](http://twitter.com/search?q=Tette) | N/A |
-| 48 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 33 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 34 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 35 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 36 | [Sergione](http://twitter.com/search?q=Sergione) | N/A |
+| 37 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 38 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
+| 39 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 40 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 41 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 42 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
+| 43 | [Stockard Channing](http://twitter.com/search?q=Stockard+Channing) | N/A |
+| 44 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
+| 45 | [Presidente della Repubblica](http://twitter.com/search?q=Presidente+della+Repubblica) | N/A |
+| 46 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 47 | [Giuseppe Ungaretti](http://twitter.com/search?q=Giuseppe+Ungaretti) | N/A |
+| 48 | [Buongiorno Claudia](http://twitter.com/search?q=Buongiorno+Claudia) | N/A |
 | 49 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
-| 50 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 50 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
 
 
 

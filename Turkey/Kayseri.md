@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-08 09:15:53 UTC`
+📆 Last Updated: `2023-02-08 10:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
 | 2 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
-| 3 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
-| 4 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
-| 5 | [Birlik Zamanı](http://twitter.com/search?q=Birlik+Zaman%c4%b1) | N/A |
-| 6 | [Son 3](http://twitter.com/search?q=Son+3) | N/A |
-| 7 | [Tuğba](http://twitter.com/search?q=Tu%c4%9fba) | N/A |
-| 8 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
-| 9 | [Muğla Valiliği](http://twitter.com/search?q=Mu%c4%9fla+Valili%c4%9fi) | N/A |
-| 10 | [Kapattılar](http://twitter.com/search?q=Kapatt%c4%b1lar) | N/A |
+| 3 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 4 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
+| 5 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 6 | [Birlik Zamanı](http://twitter.com/search?q=Birlik+Zaman%c4%b1) | N/A |
+| 7 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 8 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
+| 9 | [Expo İskenderun](http://twitter.com/search?q=Expo+%c4%b0skenderun) | N/A |
+| 10 | [Son 3](http://twitter.com/search?q=Son+3) | N/A |
 | 11 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
-| 12 | [Milleti](http://twitter.com/search?q=Milleti) | N/A |
-| 13 | [Güney Kıbrıs](http://twitter.com/search?q=G%c3%bcney+K%c4%b1br%c4%b1s) | N/A |
-| 14 | [1 GB](http://twitter.com/search?q=1+GB) | N/A |
-| 15 | [Soydular](http://twitter.com/search?q=Soydular) | N/A |
-| 16 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
-| 17 | [Pazartesiden](http://twitter.com/search?q=Pazartesiden) | N/A |
-| 18 | [Simit](http://twitter.com/search?q=Simit) | N/A |
-| 19 | [Üsküdarı](http://twitter.com/search?q=%c3%9csk%c3%bcdar%c4%b1) | N/A |
-| 20 | [Muhabir](http://twitter.com/search?q=Muhabir) | N/A |
-| 21 | [Dünya Sağlık Örgütü](http://twitter.com/search?q=D%c3%bcnya+Sa%c4%9fl%c4%b1k+%c3%96rg%c3%bct%c3%bc) | N/A |
-| 22 | [Hırsızlar](http://twitter.com/search?q=H%c4%b1rs%c4%b1zlar) | N/A |
-| 23 | [Öncelikli İhtiyaç Listesi](http://twitter.com/search?q=%c3%96ncelikli+%c4%b0htiya%c3%a7+Listesi) | N/A |
-| 24 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 25 | [Bugün 3](http://twitter.com/search?q=Bug%c3%bcn+3) | N/A |
-| 26 | [E YÜKSELDİ](http://twitter.com/search?q=E+Y%c3%9cKSELD%c4%b0) | N/A |
-| 27 | [Zahmet](http://twitter.com/search?q=Zahmet) | N/A |
-| 28 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 29 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
-| 30 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
-| 31 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 32 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 33 | [Gerçekleri](http://twitter.com/search?q=Ger%c3%a7ekleri) | N/A |
-| 34 | [Acele](http://twitter.com/search?q=Acele) | N/A |
-| 35 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 36 | [Doğruları](http://twitter.com/search?q=Do%c4%9frular%c4%b1) | N/A |
-| 37 | [Senin Allah](http://twitter.com/search?q=Senin+Allah) | N/A |
-| 38 | [Rezilsin](http://twitter.com/search?q=Rezilsin) | N/A |
-| 39 | [İnsanlık](http://twitter.com/search?q=%c4%b0nsanl%c4%b1k) | N/A |
-| 40 | [Lanet](http://twitter.com/search?q=Lanet) | N/A |
-| 41 | [İnsanları](http://twitter.com/search?q=%c4%b0nsanlar%c4%b1) | N/A |
-| 42 | [STK'lar](http://twitter.com/search?q=STK%27lar) | N/A |
-| 43 | [Battaniye](http://twitter.com/search?q=Battaniye) | N/A |
-| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 45 | [yandaş](http://twitter.com/search?q=yanda%c5%9f) | N/A |
-| 46 | [Haluk](http://twitter.com/search?q=Haluk) | N/A |
-| 47 | [Mobil](http://twitter.com/search?q=Mobil) | N/A |
-| 48 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 49 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 12 | [Tuğba](http://twitter.com/search?q=Tu%c4%9fba) | N/A |
+| 13 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 14 | [Seviye Acil Durum](http://twitter.com/search?q=Seviye+Acil+Durum) | N/A |
+| 15 | [Masal](http://twitter.com/search?q=Masal) | N/A |
+| 16 | [Dünya Sağlık Örgütü](http://twitter.com/search?q=D%c3%bcnya+Sa%c4%9fl%c4%b1k+%c3%96rg%c3%bct%c3%bc) | N/A |
+| 17 | [Halil Ölmez](http://twitter.com/search?q=Halil+%c3%96lmez) | N/A |
+| 18 | [Hepimiz Türküz](http://twitter.com/search?q=Hepimiz+T%c3%bcrk%c3%bcz) | N/A |
+| 19 | [Muğla Valiliği](http://twitter.com/search?q=Mu%c4%9fla+Valili%c4%9fi) | N/A |
+| 20 | [Güney Kıbrıs](http://twitter.com/search?q=G%c3%bcney+K%c4%b1br%c4%b1s) | N/A |
+| 21 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 22 | [Kapattılar](http://twitter.com/search?q=Kapatt%c4%b1lar) | N/A |
+| 23 | [YAZIKLAR OLSUN SANA](http://twitter.com/search?q=YAZIKLAR+OLSUN+SANA) | N/A |
+| 24 | [Milleti](http://twitter.com/search?q=Milleti) | N/A |
+| 25 | [1 GB](http://twitter.com/search?q=1+GB) | N/A |
+| 26 | [Soydular](http://twitter.com/search?q=Soydular) | N/A |
+| 27 | [Aracı](http://twitter.com/search?q=Arac%c4%b1) | N/A |
+| 28 | [Bugün 3](http://twitter.com/search?q=Bug%c3%bcn+3) | N/A |
+| 29 | [E YÜKSELDİ](http://twitter.com/search?q=E+Y%c3%9cKSELD%c4%b0) | N/A |
+| 30 | [Üsküdarı](http://twitter.com/search?q=%c3%9csk%c3%bcdar%c4%b1) | N/A |
+| 31 | [Öncelikli İhtiyaç Listesi](http://twitter.com/search?q=%c3%96ncelikli+%c4%b0htiya%c3%a7+Listesi) | N/A |
+| 32 | [Simit](http://twitter.com/search?q=Simit) | N/A |
+| 33 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
+| 34 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
+| 35 | [Gaffar](http://twitter.com/search?q=Gaffar) | N/A |
+| 36 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 37 | [Askere](http://twitter.com/search?q=Askere) | N/A |
+| 38 | [İskenderun Limanı'ndaki](http://twitter.com/search?q=%c4%b0skenderun+Liman%c4%b1%27ndaki) | N/A |
+| 39 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
+| 40 | [Vatandaş](http://twitter.com/search?q=Vatanda%c5%9f) | N/A |
+| 41 | [Muhabir](http://twitter.com/search?q=Muhabir) | N/A |
+| 42 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 43 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
+| 44 | [Gerçekleri](http://twitter.com/search?q=Ger%c3%a7ekleri) | N/A |
+| 45 | [Liyakat](http://twitter.com/search?q=Liyakat) | N/A |
+| 46 | [Dronecell](http://twitter.com/search?q=Dronecell) | N/A |
+| 47 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
+| 48 | [Zahmet](http://twitter.com/search?q=Zahmet) | N/A |
+| 49 | [İşleri](http://twitter.com/search?q=%c4%b0%c5%9fleri) | N/A |
 
 
 

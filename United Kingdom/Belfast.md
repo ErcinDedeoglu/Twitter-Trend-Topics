@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-08 09:15:16 UTC`
+📆 Last Updated: `2023-02-08 10:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 3 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
 | 4 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 5 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 6 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 7 | [#ReadForEmpathy](http://twitter.com/search?q=%23ReadForEmpathy) | N/A |
+| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 6 | [#ReadForEmpathy](http://twitter.com/search?q=%23ReadForEmpathy) | N/A |
+| 7 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
 | 8 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 9 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 10 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 11 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 12 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 16 | [Welby](http://twitter.com/search?q=Welby) | N/A |
-| 17 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 18 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 19 | [colby](http://twitter.com/search?q=colby) | N/A |
-| 20 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 21 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 22 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
-| 23 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 24 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 25 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 26 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 28 | [#DELT](http://twitter.com/search?q=%23DELT) | N/A |
-| 29 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 30 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 31 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 32 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 33 | [#ToriesOut216](http://twitter.com/search?q=%23ToriesOut216) | N/A |
-| 34 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 35 | [#amarok](http://twitter.com/search?q=%23amarok) | N/A |
-| 36 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 37 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 38 | [#synod](http://twitter.com/search?q=%23synod) | N/A |
-| 39 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 40 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 41 | [#GBNews](http://twitter.com/search?q=%23GBNews) | N/A |
+| 9 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
+| 10 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 11 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 12 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 13 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 14 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
+| 15 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 16 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 17 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 18 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
+| 19 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 20 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 21 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 22 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 23 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 24 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 27 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 28 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 29 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 30 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 31 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 32 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 33 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 34 | [The Bible](http://twitter.com/search?q=The+Bible) | N/A |
+| 35 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 36 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 37 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 38 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 39 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 41 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 42 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 43 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 44 | [#ASongOrMovieForAnythingLoud](http://twitter.com/search?q=%23ASongOrMovieForAnythingLoud) | N/A |
+| 45 | [#DELT](http://twitter.com/search?q=%23DELT) | N/A |
+| 46 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 47 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 48 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 49 | [#ToriesOut216](http://twitter.com/search?q=%23ToriesOut216) | N/A |
 
 
 

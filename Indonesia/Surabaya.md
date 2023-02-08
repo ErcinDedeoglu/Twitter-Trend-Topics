@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-08 09:15:33 UTC`
+📆 Last Updated: `2023-02-08 10:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
-| 2 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 3 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 4 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 5 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 6 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 7 | [Bripda HS](http://twitter.com/search?q=Bripda+HS) | N/A |
-| 8 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 10 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
-| 11 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 12 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
-| 13 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 14 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 15 | [Digital Code](http://twitter.com/search?q=Digital+Code) | N/A |
-| 16 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
-| 17 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
-| 18 | [Slamet](http://twitter.com/search?q=Slamet) | N/A |
-| 19 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 1 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 4 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 5 | [#1AbadNU](http://twitter.com/search?q=%231AbadNU) | N/A |
+| 6 | [#BestFriendEver](http://twitter.com/search?q=%23BestFriendEver) | N/A |
+| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 8 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 9 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 11 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 12 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 13 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 14 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 15 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 16 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 17 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 18 | [Bripda HS](http://twitter.com/search?q=Bripda+HS) | N/A |
+| 19 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
 | 20 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 22 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 23 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 24 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
-| 25 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 26 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 27 | [Khilafah](http://twitter.com/search?q=Khilafah) | N/A |
-| 28 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 29 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 30 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 31 | [#ParkMinYoung](http://twitter.com/search?q=%23ParkMinYoung) | N/A |
-| 32 | [#Titanic](http://twitter.com/search?q=%23Titanic) | N/A |
-| 33 | [#BestFriendEver](http://twitter.com/search?q=%23BestFriendEver) | N/A |
-| 34 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
-| 35 | [#HUENING_BAHIYYIH](http://twitter.com/search?q=%23HUENING_BAHIYYIH) | N/A |
-| 36 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
-| 37 | [#PerpaniArsjadRasjid](http://twitter.com/search?q=%23PerpaniArsjadRasjid) | N/A |
-| 38 | [#NANON_UNIDWD](http://twitter.com/search?q=%23NANON_UNIDWD) | N/A |
-| 39 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
-| 40 | [#PuntenSha](http://twitter.com/search?q=%23PuntenSha) | N/A |
-| 41 | [#ToppedUp](http://twitter.com/search?q=%23ToppedUp) | N/A |
-| 42 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
-| 43 | [#HUENINGKAI](http://twitter.com/search?q=%23HUENINGKAI) | N/A |
-| 44 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 45 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
-| 46 | [#CoreDAO](http://twitter.com/search?q=%23CoreDAO) | N/A |
+| 21 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 22 | [the kite runner](http://twitter.com/search?q=the+kite+runner) | N/A |
+| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 24 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
+| 25 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 26 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 27 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 28 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 29 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
+| 30 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
+| 31 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 32 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 33 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 34 | [KAZUHA IN FEARLESS KKURA](http://twitter.com/search?q=KAZUHA+IN+FEARLESS+KKURA) | N/A |
+| 35 | [Kesetaraan](http://twitter.com/search?q=Kesetaraan) | N/A |
+| 36 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 37 | [Haji Murad](http://twitter.com/search?q=Haji+Murad) | N/A |
+| 38 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 39 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 40 | [Kreativitas](http://twitter.com/search?q=Kreativitas) | N/A |
+| 41 | [panahan indonesia](http://twitter.com/search?q=panahan+indonesia) | N/A |
+| 42 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 43 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 44 | [Khilafah Tuntunan Rasul](http://twitter.com/search?q=Khilafah+Tuntunan+Rasul) | N/A |
+| 45 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 46 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
+| 47 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 48 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 49 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 50 | [Asprov](http://twitter.com/search?q=Asprov) | N/A |
 
 
 

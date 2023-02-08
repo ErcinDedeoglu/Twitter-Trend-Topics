@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-08 09:15:13 UTC`
+📆 Last Updated: `2023-02-08 10:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 2 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 3 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 6 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 7 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 8 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
-| 11 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 12 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 13 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 14 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 15 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 17 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 18 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 19 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 20 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
-| 21 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 22 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 23 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 24 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 25 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
-| 26 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 27 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 32 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 36 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 37 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 38 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 39 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 40 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 41 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
-| 42 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 43 | [Justin Welby](http://twitter.com/search?q=Justin+Welby) | N/A |
-| 44 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 46 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 47 | [Wildlife Trusts](http://twitter.com/search?q=Wildlife+Trusts) | N/A |
-| 48 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 49 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 50 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 6 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 7 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 9 | [#ReadForEmpathy](http://twitter.com/search?q=%23ReadForEmpathy) | N/A |
+| 10 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 11 | [#ASongOrMovieForAnythingLoud](http://twitter.com/search?q=%23ASongOrMovieForAnythingLoud) | N/A |
+| 12 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 13 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
+| 14 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 15 | [#DELT](http://twitter.com/search?q=%23DELT) | N/A |
+| 16 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 17 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 18 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 19 | [HS2 Ltd](http://twitter.com/search?q=HS2+Ltd) | N/A |
+| 20 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 21 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 22 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 23 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
+| 24 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 25 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 26 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 27 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 28 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 29 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 32 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 33 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 34 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 35 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 36 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 37 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 38 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 39 | [The Bible](http://twitter.com/search?q=The+Bible) | N/A |
+| 40 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 41 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 42 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 43 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 44 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 45 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 46 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 47 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
+| 48 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 49 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 
 
 

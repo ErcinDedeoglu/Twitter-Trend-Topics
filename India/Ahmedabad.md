@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-02-08 09:15:50 UTC`
+📆 Last Updated: `2023-02-08 10:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#14YearsOnTheTop](http://twitter.com/search?q=%2314YearsOnTheTop) | N/A |
-| 2 | [#शिवराज_में_रविदास_महाकुंभ](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad) | N/A |
-| 3 | [Dangal](http://twitter.com/search?q=Dangal) | N/A |
-| 4 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
+| 1 | [Three Tier System](http://twitter.com/search?q=Three+Tier+System) | N/A |
+| 2 | [#14YearsOnTheTop](http://twitter.com/search?q=%2314YearsOnTheTop) | N/A |
+| 3 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
+| 4 | [Dangal](http://twitter.com/search?q=Dangal) | N/A |
 | 5 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 6 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 7 | [KWAN ReEntry Dubious INSSRcs](http://twitter.com/search?q=KWAN+ReEntry+Dubious+INSSRcs) | N/A |
-| 8 | [Aamir Khan](http://twitter.com/search?q=Aamir+Khan) | N/A |
-| 9 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 10 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 11 | [होम लोन](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%ae+%e0%a4%b2%e0%a5%8b%e0%a4%a8) | N/A |
-| 12 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 6 | [KWAN ReEntry Dubious INSSRcs](http://twitter.com/search?q=KWAN+ReEntry+Dubious+INSSRcs) | N/A |
+| 7 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
+| 8 | [Rajya Sabha](http://twitter.com/search?q=Rajya+Sabha) | N/A |
+| 9 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 10 | [Aamir Khan](http://twitter.com/search?q=Aamir+Khan) | N/A |
+| 11 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 12 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
 | 13 | [ज़ाकिर हुसैन](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%95%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
 | 14 | [जगजीत सिंह](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 15 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 16 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
-| 17 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 18 | [Rajya Sabha](http://twitter.com/search?q=Rajya+Sabha) | N/A |
-| 19 | [Three Tier System](http://twitter.com/search?q=Three+Tier+System) | N/A |
-| 20 | [Law Experts Say](http://twitter.com/search?q=Law+Experts+Say) | N/A |
-| 21 | [EMIs](http://twitter.com/search?q=EMIs) | N/A |
-| 22 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 23 | [Nyay Ki Garima](http://twitter.com/search?q=Nyay+Ki+Garima) | N/A |
-| 24 | [कन्हैयालाल माणिकलाल मुंशी](http://twitter.com/search?q=%e0%a4%95%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a5%88%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%b6%e0%a5%80) | N/A |
-| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 26 | [महुआ मोइत्रा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%81%e0%a4%86+%e0%a4%ae%e0%a5%8b%e0%a4%87%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 27 | [Surya](http://twitter.com/search?q=Surya) | N/A |
+| 15 | [होम लोन](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%ae+%e0%a4%b2%e0%a5%8b%e0%a4%a8) | N/A |
+| 16 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 17 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 19 | [महुआ मोइत्रा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%81%e0%a4%86+%e0%a4%ae%e0%a5%8b%e0%a4%87%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 20 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 21 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 22 | [Nyay Ki Garima](http://twitter.com/search?q=Nyay+Ki+Garima) | N/A |
+| 23 | [कन्हैयालाल माणिकलाल मुंशी](http://twitter.com/search?q=%e0%a4%95%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a5%88%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%b6%e0%a5%80) | N/A |
+| 24 | [Surya](http://twitter.com/search?q=Surya) | N/A |
+| 25 | [Law Experts Say](http://twitter.com/search?q=Law+Experts+Say) | N/A |
+| 26 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 27 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
 | 28 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 29 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 30 | [राहुल गाँधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%81%e0%a4%a7%e0%a5%80) | N/A |
-| 31 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 32 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 35 | [#MotoE13](http://twitter.com/search?q=%23MotoE13) | N/A |
-| 36 | [#DroneDestination](http://twitter.com/search?q=%23DroneDestination) | N/A |
-| 37 | [#proposeday](http://twitter.com/search?q=%23proposeday) | N/A |
-| 38 | [#RepoRate](http://twitter.com/search?q=%23RepoRate) | N/A |
-| 39 | [#MSCS_SEEDSOCIETY](http://twitter.com/search?q=%23MSCS_SEEDSOCIETY) | N/A |
-| 40 | [#Harami](http://twitter.com/search?q=%23Harami) | N/A |
-| 41 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 42 | [#rbipolicy](http://twitter.com/search?q=%23rbipolicy) | N/A |
-| 43 | [#MahuaMoitra](http://twitter.com/search?q=%23MahuaMoitra) | N/A |
-| 44 | [#VibrantHaryana](http://twitter.com/search?q=%23VibrantHaryana) | N/A |
-| 45 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 46 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 47 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 29 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 30 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 31 | [राहुल गाँधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%81%e0%a4%a7%e0%a5%80) | N/A |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [#MotoE13](http://twitter.com/search?q=%23MotoE13) | N/A |
+| 34 | [#proposeday](http://twitter.com/search?q=%23proposeday) | N/A |
+| 35 | [#DroneDestination](http://twitter.com/search?q=%23DroneDestination) | N/A |
+| 36 | [#शिवराज_में_रविदास_महाकुंभ](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad) | N/A |
+| 37 | [#RepoRate](http://twitter.com/search?q=%23RepoRate) | N/A |
+| 38 | [#MSCS_SEEDSOCIETY](http://twitter.com/search?q=%23MSCS_SEEDSOCIETY) | N/A |
+| 39 | [#Harami](http://twitter.com/search?q=%23Harami) | N/A |
+| 40 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 41 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
+| 42 | [#MahuaMoitra](http://twitter.com/search?q=%23MahuaMoitra) | N/A |
+| 43 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 44 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 45 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 46 | [#rbipolicy](http://twitter.com/search?q=%23rbipolicy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-08 09:15:41 UTC`
+📆 Last Updated: `2023-02-08 10:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [#beoncloudapologizetovnfans](http://twitter.com/search?q=%23beoncloudapologizetovnfans) | N/A |
 | 4 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
 | 5 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 6 | [#NANON_UNIDWD](http://twitter.com/search?q=%23NANON_UNIDWD) | N/A |
-| 7 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 8 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 6 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 7 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 8 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
 | 9 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
 | 10 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 11 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 13 | [JISOO AT CARTIER THAILAND](http://twitter.com/search?q=JISOO+AT+CARTIER+THAILAND) | JISOO AT CARTIER THAILAND is a hashtag used to promote the collaboration between South Korean singer Jisoo and the French luxury jewelry brand Cartier in Thailand. It is used to highlight the partnership between the two brands and to encourage fans of Jisoo to purchase items from Cartier's Thailand store. |
-| 14 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 15 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 16 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
-| 17 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
-| 18 | [OUR BEST LEADER KIM NAMJOON](http://twitter.com/search?q=OUR+BEST+LEADER+KIM+NAMJOON) | N/A |
-| 19 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 20 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 21 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 22 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 23 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 24 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
-| 25 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
-| 26 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
-| 27 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 29 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 30 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 31 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 32 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
-| 33 | [chúa](http://twitter.com/search?q=ch%c3%baa) | N/A |
-| 34 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 35 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 38 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
-| 39 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 40 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
-| 41 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
-| 42 | [Hồ Chí Minh](http://twitter.com/search?q=H%e1%bb%93+Ch%c3%ad+Minh) | N/A |
-| 43 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
-| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 45 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 46 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 48 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 49 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 50 | [Tây Ninh](http://twitter.com/search?q=T%c3%a2y+Ninh) | N/A |
+| 13 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 14 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
+| 15 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
+| 16 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
+| 17 | [our best leader kim namjoon](http://twitter.com/search?q=our+best+leader+kim+namjoon) | N/A |
+| 18 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 19 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 20 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 21 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
+| 22 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 23 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
+| 24 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
+| 25 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 26 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 27 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 28 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 29 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 30 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
+| 31 | [chúa](http://twitter.com/search?q=ch%c3%baa) | N/A |
+| 32 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 33 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
+| 36 | [VNCH](http://twitter.com/search?q=VNCH) | N/A |
+| 37 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 38 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 39 | [hồ chí minh](http://twitter.com/search?q=h%e1%bb%93+ch%c3%ad+minh) | N/A |
+| 40 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
+| 41 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 42 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
+| 43 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 44 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 45 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 46 | [Tây Ninh](http://twitter.com/search?q=T%c3%a2y+Ninh) | N/A |
+| 47 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 49 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 50 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 
 
 
