@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-07 23:16:12 UTC`
+📆 Last Updated: `2023-02-08 00:27:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 2 | [George Floyd](http://twitter.com/search?q=George+Floyd) | George Floyd was an African American man who was killed in Minneapolis, Minnesota, on May 25, 2020, after a police officer knelt on his neck for several minutes. His death sparked nationwide protests against police brutality and racism. The phrase "George Floyd" has come to represent the fight for racial justice and an end to police violence against people of color. |
-| 3 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
-| 4 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 5 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 6 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 7 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 8 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
-| 9 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 12 | [#STPrefunk](http://twitter.com/search?q=%23STPrefunk) | N/A |
-| 13 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
-| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 15 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 16 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 17 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 18 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 19 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
-| 20 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 21 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 22 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 23 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
-| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 25 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
-| 26 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 27 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 28 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
-| 29 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
-| 30 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 31 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 32 | [Deron](http://twitter.com/search?q=Deron) | N/A |
-| 33 | [Stasis](http://twitter.com/search?q=Stasis) | N/A |
-| 34 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 35 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 36 | [Dan Marino](http://twitter.com/search?q=Dan+Marino) | N/A |
-| 37 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
-| 38 | [Joakim](http://twitter.com/search?q=Joakim) | N/A |
-| 39 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 40 | [Patch Adams](http://twitter.com/search?q=Patch+Adams) | N/A |
-| 41 | [Acid Rap](http://twitter.com/search?q=Acid+Rap) | N/A |
-| 42 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 43 | [Born Sinner](http://twitter.com/search?q=Born+Sinner) | N/A |
-| 44 | [Tangle](http://twitter.com/search?q=Tangle) | N/A |
-| 45 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 46 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 47 | [Good Will Hunting](http://twitter.com/search?q=Good+Will+Hunting) | N/A |
-| 48 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 49 | [House Ethics Committee](http://twitter.com/search?q=House+Ethics+Committee) | N/A |
-| 50 | [Good Morning Vietnam](http://twitter.com/search?q=Good+Morning+Vietnam) | N/A |
+| 1 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 2 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 4 | [#ASC2023](http://twitter.com/search?q=%23ASC2023) | N/A |
+| 5 | [George Floyd](http://twitter.com/search?q=George+Floyd) | George Floyd was an African American man who was killed in Minneapolis, Minnesota, on May 25, 2020, after a police officer knelt on his neck for several minutes. His death sparked nationwide protests against police brutality and racism. The phrase "George Floyd" has come to represent the fight for racial justice and an end to police violence against people of color. |
+| 6 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 9 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 10 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 11 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 12 | [#SubclassMoments](http://twitter.com/search?q=%23SubclassMoments) | N/A |
+| 13 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 14 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 15 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 16 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 17 | [#BrighterBoston](http://twitter.com/search?q=%23BrighterBoston) | N/A |
+| 18 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 19 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 20 | [Corn Pop](http://twitter.com/search?q=Corn+Pop) | N/A |
+| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 22 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 23 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 24 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 25 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
+| 26 | [Tim Kelly](http://twitter.com/search?q=Tim+Kelly) | N/A |
+| 27 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 28 | [Biden's IRS](http://twitter.com/search?q=Biden%27s+IRS) | N/A |
+| 29 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 30 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 31 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 32 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 33 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 34 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 35 | [Team Pau](http://twitter.com/search?q=Team+Pau) | N/A |
+| 36 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 37 | [Vrabel](http://twitter.com/search?q=Vrabel) | Vrabel is a Slavic surname derived from the word vrabec, which means "sparrow". It is most commonly found in Slovakia and the Czech Republic. In English, it can be translated to mean "sparrow". |
+| 38 | [Jerry Lawler](http://twitter.com/search?q=Jerry+Lawler) | N/A |
+| 39 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 40 | [Harlan](http://twitter.com/search?q=Harlan) | N/A |
+| 41 | [MS-13](http://twitter.com/search?q=MS-13) | N/A |
+| 42 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 43 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 44 | [Stasis](http://twitter.com/search?q=Stasis) | N/A |
+| 45 | [Good Morning Vietnam](http://twitter.com/search?q=Good+Morning+Vietnam) | N/A |
+| 46 | [Good Will Hunting](http://twitter.com/search?q=Good+Will+Hunting) | N/A |
+| 47 | [Tomodachi Life](http://twitter.com/search?q=Tomodachi+Life) | N/A |
+| 48 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 49 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 50 | [Deron](http://twitter.com/search?q=Deron) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-07 23:15:27 UTC`
+📆 Last Updated: `2023-02-08 00:27:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
-| 3 | [King Carlos](http://twitter.com/search?q=King+Carlos) | N/A |
-| 4 | [#NotAloneTalk](http://twitter.com/search?q=%23NotAloneTalk) | N/A |
-| 5 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 6 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
-| 7 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 4 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 5 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 6 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 7 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
 | 8 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 9 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 10 | [Carlos Corberan](http://twitter.com/search?q=Carlos+Corberan) | N/A |
-| 11 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 12 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 9 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 10 | [Congratulations Lee](http://twitter.com/search?q=Congratulations+Lee) | N/A |
+| 11 | [Carlos Corberan](http://twitter.com/search?q=Carlos+Corberan) | N/A |
+| 12 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 13 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
 | 14 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [#NVIDIAOverwatch2](http://twitter.com/search?q=%23NVIDIAOverwatch2) | N/A |
-| 17 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 18 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 21 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 22 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 23 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 24 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 26 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 27 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 28 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 29 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 30 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 31 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 32 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 33 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 34 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 35 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 36 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 37 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 38 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 39 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
-| 40 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 41 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 42 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
-| 43 | [Rene](http://twitter.com/search?q=Rene) | N/A |
-| 44 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 45 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
-| 46 | [Mellon](http://twitter.com/search?q=Mellon) | N/A |
-| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 15 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 16 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 17 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 18 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 19 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 20 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
+| 21 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 22 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 23 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 24 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 25 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 26 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 28 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 29 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 30 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 31 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 32 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 33 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
+| 34 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 35 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 36 | [Fotheringham](http://twitter.com/search?q=Fotheringham) | N/A |
+| 37 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 38 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 39 | [John Major](http://twitter.com/search?q=John+Major) | N/A |
+| 40 | [Rene](http://twitter.com/search?q=Rene) | N/A |
+| 41 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 42 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 43 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 44 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 45 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
+| 46 | [Nathan Tella](http://twitter.com/search?q=Nathan+Tella) | N/A |
+| 47 | [Rattled](http://twitter.com/search?q=Rattled) | N/A |
 | 48 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
-| 49 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 50 | [Covolan](http://twitter.com/search?q=Covolan) | N/A |
+| 49 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 50 | [Madine](http://twitter.com/search?q=Madine) | N/A |
 
 
 

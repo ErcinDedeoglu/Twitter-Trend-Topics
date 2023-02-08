@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-07 23:15:52 UTC`
+📆 Last Updated: `2023-02-08 00:27:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ククルカン](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ab%e3%82%ab%e3%83%b3) | ククルカン is a Japanese folktale about a rabbit who lives on the moon. The story tells of how the rabbit, named Kukurukan, was sent to the moon by an old man to help him with his work. In English, the story is known as "The Rabbit on the Moon". |
-| 2 | [ホラー映画](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e6%98%a0%e7%94%bb) | N/A |
-| 3 | [#増本綺良](http://twitter.com/search?q=%23%e5%a2%97%e6%9c%ac%e7%b6%ba%e8%89%af) | #増本綺良 is a Japanese phrase that translates to "ever-increasing beauty". It is often used to describe something that is becoming more and more beautiful over time. |
-| 4 | [丈くん27歳](http://twitter.com/search?q=%e4%b8%88%e3%81%8f%e3%82%9327%e6%ad%b3) | N/A |
-| 5 | [#cozy1242](http://twitter.com/search?q=%23cozy1242) | N/A |
-| 6 | [パウエルさん](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e3%81%95%e3%82%93) | N/A |
-| 7 | [ハートゴールド・ソウルシルバー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%88%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%83%bb%e3%82%bd%e3%82%a6%e3%83%ab%e3%82%b7%e3%83%ab%e3%83%90%e3%83%bc) | N/A |
-| 8 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 9 | [ギーグの逆襲](http://twitter.com/search?q=%e3%82%ae%e3%83%bc%e3%82%b0%e3%81%ae%e9%80%86%e8%a5%b2) | N/A |
-| 10 | [無印・アイスボーン](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%b3) | N/A |
-| 11 | [活動14周年](http://twitter.com/search?q=%e6%b4%bb%e5%8b%9514%e5%91%a8%e5%b9%b4) | N/A |
-| 12 | [英雄伝説](http://twitter.com/search?q=%e8%8b%b1%e9%9b%84%e4%bc%9d%e8%aa%ac) | N/A |
-| 13 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 14 | [ハーツII](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84II) | N/A |
-| 15 | [#ohayomorning](http://twitter.com/search?q=%23ohayomorning) | N/A |
-| 16 | [Twitter変](http://twitter.com/search?q=Twitter%e5%a4%89) | Twitter変 is a Japanese term that refers to the phenomenon of people using Twitter to express their opinions and feelings in a more extreme way than they would in real life. It is often used to describe people who post controversial or provocative tweets. In English, it can be translated as "Twitter extremism". |
-| 17 | [ソード・シールド](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%89%e3%83%bb%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 18 | [トモコレ](http://twitter.com/search?q=%e3%83%88%e3%83%a2%e3%82%b3%e3%83%ac) | N/A |
-| 19 | [ブルーバースデー](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc) | ブルーバースデー (Burū Bāsudē) is a Japanese term for a birthday celebration that occurs on the month and day of a person's birth, but not in the year of their birth. It is similar to a "belated birthday" celebration in English. |
-| 20 | [武井さん](http://twitter.com/search?q=%e6%ad%a6%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 21 | [#ワンモ](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%a2) | N/A |
-| 22 | [大乱闘スマッシュブラザーズ](http://twitter.com/search?q=%e5%a4%a7%e4%b9%b1%e9%97%98%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
-| 23 | [無印・FES・ポータブル](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbFES%e3%83%bb%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab) | N/A |
-| 24 | [サモンナイト](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%b3%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 25 | [ペルソナ4](http://twitter.com/search?q=%e3%83%9a%e3%83%ab%e3%82%bd%e3%83%8a4) | N/A |
-| 26 | [ファイアーエムブレム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bc%e3%82%a8%e3%83%a0%e3%83%96%e3%83%ac%e3%83%a0) | ファイアーエムブレム (Fire Emblem) is a series of tactical role-playing video games developed by Intelligent Systems and published by Nintendo. The series is known for its deep and complex story lines, as well as its strategic gameplay. The English translation of the title is "Fire Emblem". |
-| 27 | [スカーレット・バイオレット](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88%e3%83%bb%e3%83%90%e3%82%a4%e3%82%aa%e3%83%ac%e3%83%83%e3%83%88) | スカーレット・バイオレット (Sukāretto Baioretto) is a Japanese manga series written and illustrated by Chiho Saito. It follows the story of a young girl named Scarlet who is sent to a prestigious boarding school in Tokyo. The title of the series is derived from the color of Scarlet's hair, which is a deep red-violet hue. In English, the title translates to "Scarlet Violet". |
-| 28 | [Twitterアプリ](http://twitter.com/search?q=Twitter%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
-| 29 | [うらたさん](http://twitter.com/search?q=%e3%81%86%e3%82%89%e3%81%9f%e3%81%95%e3%82%93) | N/A |
-| 30 | [シンフォニア](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
-| 31 | [リズム天国](http://twitter.com/search?q=%e3%83%aa%e3%82%ba%e3%83%a0%e5%a4%a9%e5%9b%bd) | N/A |
-| 32 | [キングダム](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
-| 33 | [マイナ保険証](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e4%bf%9d%e9%99%ba%e8%a8%bc) | N/A |
-| 34 | [フォロー中](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e4%b8%ad) | N/A |
-| 35 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 36 | [大ちゃん](http://twitter.com/search?q=%e5%a4%a7%e3%81%a1%e3%82%83%e3%82%93) | 大ちゃん is a Japanese term of endearment used to refer to an older woman, usually one's grandmother or aunt. It can be translated to English as "Granny" or "Auntie". |
-| 37 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 38 | [Twitterの仕様](http://twitter.com/search?q=Twitter%e3%81%ae%e4%bb%95%e6%a7%98) | Twitterの仕様 is a Japanese phrase that translates to "Twitter Specifications". It refers to the technical specifications and features of the Twitter platform, such as the maximum length of tweets, the types of media that can be shared, and other related information. |
-| 39 | [Twitter改悪](http://twitter.com/search?q=Twitter%e6%94%b9%e6%82%aa) | N/A |
-| 40 | [週の真ん中](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | 週の真ん中 means "in the middle of the week" in English. It is used to refer to the middle of a week, usually Wednesday or Thursday. |
-| 41 | [モンスターハンターポータブル](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab) | N/A |
-| 42 | [すすめ欄](http://twitter.com/search?q=%e3%81%99%e3%81%99%e3%82%81%e6%ac%84) | N/A |
-| 43 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
-| 44 | [無印・G](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbG) | N/A |
-| 45 | [クロノ・トリガー](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%83%bb%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
-| 46 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 47 | [時系列順](http://twitter.com/search?q=%e6%99%82%e7%b3%bb%e5%88%97%e9%a0%86) | N/A |
-| 48 | [悪友コンビ](http://twitter.com/search?q=%e6%82%aa%e5%8f%8b%e3%82%b3%e3%83%b3%e3%83%93) | N/A |
-| 49 | [TLの表示](http://twitter.com/search?q=TL%e3%81%ae%e8%a1%a8%e7%a4%ba) | N/A |
-| 50 | [無印・リマスター](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 2 | [貴司くん](http://twitter.com/search?q=%e8%b2%b4%e5%8f%b8%e3%81%8f%e3%82%93) | 貴司くん is a Japanese term of endearment used to refer to someone who is respected or admired. It can be translated to English as "dear sir" or "esteemed sir". |
+| 3 | [#松野莉奈](http://twitter.com/search?q=%23%e6%9d%be%e9%87%8e%e8%8e%89%e5%a5%88) | N/A |
+| 4 | [メタルギアソリッド3](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%ae%e3%82%a2%e3%82%bd%e3%83%aa%e3%83%83%e3%83%893) | N/A |
+| 5 | [アルヒラル](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%92%e3%83%a9%e3%83%ab) | N/A |
+| 6 | [スネークイーター](http://twitter.com/search?q=%e3%82%b9%e3%83%8d%e3%83%bc%e3%82%af%e3%82%a4%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 7 | [#TBSスタンバイ](http://twitter.com/search?q=%23TBS%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%90%e3%82%a4) | N/A |
+| 8 | [時のオカリナ](http://twitter.com/search?q=%e6%99%82%e3%81%ae%e3%82%aa%e3%82%ab%e3%83%aa%e3%83%8a) | N/A |
+| 9 | [#ワンモ](http://twitter.com/search?q=%23%e3%83%af%e3%83%b3%e3%83%a2) | N/A |
+| 10 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 11 | [フォロー中](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e4%b8%ad) | N/A |
+| 12 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 13 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 14 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
+| 15 | [大ちゃん](http://twitter.com/search?q=%e5%a4%a7%e3%81%a1%e3%82%83%e3%82%93) | 大ちゃん is a Japanese term of endearment used to refer to an older woman, usually one's grandmother or aunt. It can be translated to English as "Granny" or "Auntie". |
+| 16 | [Twitterの仕様](http://twitter.com/search?q=Twitter%e3%81%ae%e4%bb%95%e6%a7%98) | Twitterの仕様 is a Japanese phrase that translates to "Twitter Specifications". It refers to the technical specifications and features of the Twitter platform, such as the maximum length of tweets, the types of media that can be shared, and other related information. |
+| 17 | [Twitter改悪](http://twitter.com/search?q=Twitter%e6%94%b9%e6%82%aa) | N/A |
+| 18 | [すすめ欄](http://twitter.com/search?q=%e3%81%99%e3%81%99%e3%82%81%e6%ac%84) | N/A |
+| 19 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
+| 20 | [モンスターハンターポータブル](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab) | N/A |
+| 21 | [週の真ん中](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | 週の真ん中 means "in the middle of the week" in English. It is used to refer to the middle of a week, usually Wednesday or Thursday. |
+| 22 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
+| 23 | [時系列順](http://twitter.com/search?q=%e6%99%82%e7%b3%bb%e5%88%97%e9%a0%86) | N/A |
+| 24 | [無印・リマスター](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 25 | [無印・G](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbG) | N/A |
+| 26 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 27 | [西武池袋線](http://twitter.com/search?q=%e8%a5%bf%e6%ad%a6%e6%b1%a0%e8%a2%8b%e7%b7%9a) | N/A |
+| 28 | [クロノ・トリガー](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%83%bb%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
+| 29 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 30 | [うめづのお好み焼き](http://twitter.com/search?q=%e3%81%86%e3%82%81%e3%81%a5%e3%81%ae%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d) | N/A |
+| 31 | [ホラー映画](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e6%98%a0%e7%94%bb) | N/A |
+| 32 | [ホラー苦手](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e8%8b%a6%e6%89%8b) | N/A |
+| 33 | [天空の花嫁](http://twitter.com/search?q=%e5%a4%a9%e7%a9%ba%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 34 | [矢田さん](http://twitter.com/search?q=%e7%9f%a2%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 35 | [どうぶつの森](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e3%81%ae%e6%a3%ae) | N/A |
+| 36 | [悪友コンビ](http://twitter.com/search?q=%e6%82%aa%e5%8f%8b%e3%82%b3%e3%83%b3%e3%83%93) | N/A |
+| 37 | [ファイナルファンタジーXIV](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bcXIV) | N/A |
+| 38 | [金・銀・クリスタル](http://twitter.com/search?q=%e9%87%91%e3%83%bb%e9%8a%80%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf%e3%83%ab) | N/A |
+| 39 | [KZさん](http://twitter.com/search?q=KZ%e3%81%95%e3%82%93) | N/A |
+| 40 | [改悪アプデ](http://twitter.com/search?q=%e6%94%b9%e6%82%aa%e3%82%a2%e3%83%97%e3%83%87) | N/A |
+| 41 | [TLの表示](http://twitter.com/search?q=TL%e3%81%ae%e8%a1%a8%e7%a4%ba) | N/A |
+| 42 | [ダイヤモンド・パール・プラチナ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%83%91%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%97%e3%83%a9%e3%83%81%e3%83%8a) | N/A |
+| 43 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 44 | [ルビー・サファイア・エメラルド](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%83%bc%e3%83%bb%e3%82%b5%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bb%e3%82%a8%e3%83%a1%e3%83%a9%e3%83%ab%e3%83%89) | N/A |
+| 45 | [ホラー無理](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e7%84%a1%e7%90%86) | N/A |
+| 46 | [無印・HD](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbHD) | N/A |
+| 47 | [東京五輪組織委元次長ら4人](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e4%ba%94%e8%bc%aa%e7%b5%84%e7%b9%94%e5%a7%94%e5%85%83%e6%ac%a1%e9%95%b7%e3%82%894%e4%ba%ba) | N/A |
+| 48 | [最新ツイート](http://twitter.com/search?q=%e6%9c%80%e6%96%b0%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 49 | [うどん店の店主80代女性](http://twitter.com/search?q=%e3%81%86%e3%81%a9%e3%82%93%e5%ba%97%e3%81%ae%e5%ba%97%e4%b8%bb80%e4%bb%a3%e5%a5%b3%e6%80%a7) | N/A |
+| 50 | [緑・赤・青・ピカチュウ](http://twitter.com/search?q=%e7%b7%91%e3%83%bb%e8%b5%a4%e3%83%bb%e9%9d%92%e3%83%bb%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
 
 
 

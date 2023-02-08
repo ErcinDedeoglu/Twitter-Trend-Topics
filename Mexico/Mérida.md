@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-02-07 23:15:31 UTC`
+📆 Last Updated: `2023-02-08 00:27:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
-| 4 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
-| 5 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 6 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 7 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
-| 8 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
+| 1 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 2 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
+| 3 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
+| 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 5 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 6 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 7 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 8 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
 | 9 | [#CalderonSiSabia](http://twitter.com/search?q=%23CalderonSiSabia) | N/A |
-| 10 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 11 | [#CoronaCapitalGDL](http://twitter.com/search?q=%23CoronaCapitalGDL) | N/A |
-| 12 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 13 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 14 | [#CalderonaPrision](http://twitter.com/search?q=%23CalderonaPrision) | N/A |
-| 15 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
-| 16 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 17 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 18 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 19 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 20 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 21 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
-| 22 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
-| 23 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 24 | [Calderonicamente](http://twitter.com/search?q=Calderonicamente) | N/A |
-| 25 | [Ricardo Blume](http://twitter.com/search?q=Ricardo+Blume) | N/A |
-| 26 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 27 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
-| 28 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 29 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 30 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
-| 31 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 10 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 11 | [#enhorabuenagdl](http://twitter.com/search?q=%23enhorabuenagdl) | N/A |
+| 12 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
+| 13 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 14 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 15 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 16 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 17 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 18 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
+| 19 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
+| 20 | [Ricardo Blume](http://twitter.com/search?q=Ricardo+Blume) | N/A |
+| 21 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 22 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 23 | [SON PEORES](http://twitter.com/search?q=SON+PEORES) | N/A |
+| 24 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
+| 25 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 26 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 27 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 28 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
+| 29 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 30 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 31 | [Calderonicamente](http://twitter.com/search?q=Calderonicamente) | N/A |
 | 32 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 33 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 34 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 35 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 36 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 37 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 38 | [Memo Ochoa](http://twitter.com/search?q=Memo+Ochoa) | N/A |
-| 39 | [Foals](http://twitter.com/search?q=Foals) | N/A |
-| 40 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 41 | [Charlie Puth](http://twitter.com/search?q=Charlie+Puth) | N/A |
-| 42 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
-| 43 | [CC GDL](http://twitter.com/search?q=CC+GDL) | N/A |
-| 44 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
-| 45 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 46 | [Bloc Party](http://twitter.com/search?q=Bloc+Party) | N/A |
-| 47 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 33 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
+| 34 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 35 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 36 | [Regina Spektor](http://twitter.com/search?q=Regina+Spektor) | N/A |
+| 37 | [Minecraft Extremo](http://twitter.com/search?q=Minecraft+Extremo) | N/A |
+| 38 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 39 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 40 | [santi cobos](http://twitter.com/search?q=santi+cobos) | N/A |
+| 41 | [Memo Ochoa](http://twitter.com/search?q=Memo+Ochoa) | N/A |
+| 42 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 43 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 44 | [Sophie Ellis](http://twitter.com/search?q=Sophie+Ellis) | N/A |
+| 45 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 46 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 47 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
 | 48 | [Pixies](http://twitter.com/search?q=Pixies) | N/A |
 
 

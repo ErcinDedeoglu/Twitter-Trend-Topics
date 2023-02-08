@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-07 23:15:46 UTC`
+📆 Last Updated: `2023-02-08 00:27:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 7 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
 | 8 | [alex frei](http://twitter.com/search?q=alex+frei) | N/A |
-| 9 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 10 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 11 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 9 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 10 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 11 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 | 12 | [Jelmoli](http://twitter.com/search?q=Jelmoli) | N/A |
-| 13 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 15 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 16 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
-| 17 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 18 | [Correct](http://twitter.com/search?q=Correct) | N/A |
-| 19 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 20 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 22 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 13 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 14 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 15 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 17 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 18 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
+| 19 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 20 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 21 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 22 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 23 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 24 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 25 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 26 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 27 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 28 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 29 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 31 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 32 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
-| 33 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 34 | [David](http://twitter.com/search?q=David) | N/A |
-| 35 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 36 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 39 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
-| 40 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 41 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
+| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 28 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
+| 29 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 30 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 33 | [Shop](http://twitter.com/search?q=Shop) | N/A |
+| 34 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 36 | [David](http://twitter.com/search?q=David) | N/A |
+| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 38 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
+| 41 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 42 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
 | 43 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 44 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 45 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 47 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 44 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 45 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 46 | [Anteil](http://twitter.com/search?q=Anteil) | N/A |
+| 47 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
 
 
 

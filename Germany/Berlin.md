@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-07 23:15:41 UTC`
+📆 Last Updated: `2023-02-08 00:27:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
 | 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 3 | [#sged98](http://twitter.com/search?q=%23sged98) | N/A |
-| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
-| 5 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 6 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 7 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 8 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 10 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 11 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 12 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
-| 13 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 14 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 15 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
-| 16 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 17 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 18 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 19 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 20 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 23 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 24 | [Wanne](http://twitter.com/search?q=Wanne) | N/A |
-| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 26 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 27 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 28 | [Koks](http://twitter.com/search?q=Koks) | N/A |
-| 29 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 30 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
-| 31 | [#Aghw23](http://twitter.com/search?q=%23Aghw23) | N/A |
-| 32 | [#HartzUndHerzlich](http://twitter.com/search?q=%23HartzUndHerzlich) | N/A |
-| 33 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
-| 34 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 35 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 36 | [#Pistorius](http://twitter.com/search?q=%23Pistorius) | #Pistorius is a hashtag used to refer to South African athlete Oscar Pistorius, who was convicted of the 2013 murder of his girlfriend Reeva Steenkamp. The hashtag is often used in reference to news stories and updates related to Pistorius' case. |
-| 37 | [#Merkel](http://twitter.com/search?q=%23Merkel) | N/A |
-| 38 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 39 | [#SVSSCF](http://twitter.com/search?q=%23SVSSCF) | N/A |
-| 40 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 41 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
-| 42 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 43 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 44 | [#grunerundjahr](http://twitter.com/search?q=%23grunerundjahr) | N/A |
-| 45 | [#syriaearthquake](http://twitter.com/search?q=%23syriaearthquake) | N/A |
-| 46 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 3 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
+| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 5 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 6 | [#SGED98](http://twitter.com/search?q=%23SGED98) | N/A |
+| 7 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 8 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 9 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 10 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 11 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 12 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 13 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 14 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 15 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 16 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
+| 17 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 18 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 19 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 21 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 22 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 23 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 24 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 25 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 26 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 27 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 28 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
+| 29 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
+| 30 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 31 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 32 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 33 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 34 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 35 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 36 | [Radfahrern](http://twitter.com/search?q=Radfahrern) | N/A |
+| 37 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
+| 38 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 39 | [Franziska Giffey](http://twitter.com/search?q=Franziska+Giffey) | N/A |
+| 40 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 41 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
+| 42 | [Masz](http://twitter.com/search?q=Masz) | N/A |
+| 43 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
+| 44 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
+| 45 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 46 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 47 | [Helge](http://twitter.com/search?q=Helge) | N/A |
+| 48 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
+| 49 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 50 | [Witze](http://twitter.com/search?q=Witze) | N/A |
 
 
 

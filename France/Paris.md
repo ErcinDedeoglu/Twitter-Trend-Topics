@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-07 23:15:41 UTC`
+📆 Last Updated: `2023-02-08 00:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 2 | [#manifestation7fevrier](http://twitter.com/search?q=%23manifestation7fevrier) | N/A |
-| 3 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 4 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
-| 5 | [#quipeutnousbattre](http://twitter.com/search?q=%23quipeutnousbattre) | N/A |
-| 6 | [#ToujoursPlusAvecPoco](http://twitter.com/search?q=%23ToujoursPlusAvecPoco) | N/A |
-| 7 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 8 | [Adrien Quatennens](http://twitter.com/search?q=Adrien+Quatennens) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [#Qdor](http://twitter.com/search?q=%23Qdor) | N/A |
-| 11 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 13 | [Der Zak](http://twitter.com/search?q=Der+Zak) | N/A |
-| 14 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 15 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 16 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 17 | [DiCaprio](http://twitter.com/search?q=DiCaprio) | N/A |
-| 18 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 19 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 20 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 21 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 22 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 23 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 24 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Pécresse](http://twitter.com/search?q=P%c3%a9cresse) | N/A |
-| 27 | [Romain Pitau](http://twitter.com/search?q=Romain+Pitau) | N/A |
-| 28 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 29 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 30 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 32 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 33 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 34 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
-| 35 | [#FreebetUnibetVpronos](http://twitter.com/search?q=%23FreebetUnibetVpronos) | N/A |
-| 36 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 37 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 38 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 39 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 40 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
-| 41 | [#MHSC](http://twitter.com/search?q=%23MHSC) | N/A |
-| 42 | [#VALRevolution](http://twitter.com/search?q=%23VALRevolution) | N/A |
-| 43 | [#Overwatch2](http://twitter.com/search?q=%23Overwatch2) | N/A |
-| 44 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 1 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 2 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 3 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 4 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 5 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 6 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 7 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 8 | [#quipeutnousbattre](http://twitter.com/search?q=%23quipeutnousbattre) | N/A |
+| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 10 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
+| 11 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 12 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 13 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 14 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 15 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 16 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 19 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 20 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 21 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 22 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 23 | [Michel Der Zakarian](http://twitter.com/search?q=Michel+Der+Zakarian) | N/A |
+| 24 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 25 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 26 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 27 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 28 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
+| 29 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
+| 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 32 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 33 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 34 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 36 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
+| 37 | [Artoise](http://twitter.com/search?q=Artoise) | N/A |
+| 38 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
+| 39 | [Konbini](http://twitter.com/search?q=Konbini) | N/A |
+| 40 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 41 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 42 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 43 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
+| 44 | [Aides](http://twitter.com/search?q=Aides) | N/A |
+| 45 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 46 | [Rachel Keke](http://twitter.com/search?q=Rachel+Keke) | N/A |
+| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 48 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 49 | [Grève du 7](http://twitter.com/search?q=Gr%c3%a8ve+du+7) | N/A |
+| 50 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 
 
 
