@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-08 18:16:32 UTC`
+📆 Last Updated: `2023-02-08 19:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 3 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 4 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 5 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 6 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 7 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 8 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
-| 9 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 10 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 11 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 14 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 1 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 5 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 7 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 8 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 9 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 10 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 11 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 12 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 13 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 14 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
 | 15 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 16 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 17 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 16 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 17 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
 | 18 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 19 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
+| 19 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
 | 20 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 21 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 22 | [#MareDiGuai](http://twitter.com/search?q=%23MareDiGuai) | N/A |
-| 23 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 24 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 21 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 22 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 23 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 24 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
 | 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 26 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 26 | [Termini](http://twitter.com/search?q=Termini) | N/A |
 | 27 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 28 | [PIERO PELÙ](http://twitter.com/search?q=PIERO+PEL%c3%99) | N/A |
-| 29 | [Termini](http://twitter.com/search?q=Termini) | N/A |
-| 30 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 31 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 32 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 28 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 29 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 30 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 31 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 32 | [Ronzulli](http://twitter.com/search?q=Ronzulli) | N/A |
 | 33 | [sangiovanni](http://twitter.com/search?q=sangiovanni) | N/A |
-| 34 | [Ronzulli](http://twitter.com/search?q=Ronzulli) | N/A |
-| 35 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 36 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 37 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 38 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
-| 39 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 40 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 41 | [brividi](http://twitter.com/search?q=brividi) | N/A |
-| 42 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 43 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 44 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
-| 45 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 46 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 34 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 35 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 36 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 37 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 38 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 39 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 40 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 41 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 42 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 43 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
+| 44 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 45 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
+| 46 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
 | 47 | [Presidente della Repubblica](http://twitter.com/search?q=Presidente+della+Repubblica) | N/A |
-| 48 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 49 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 48 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
+| 49 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
 | 50 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-08 18:16:56 UTC`
+📆 Last Updated: `2023-02-08 19:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kahramanmaraş](http://twitter.com/search?q=Kahramanmara%c5%9f) | N/A |
-| 2 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
-| 3 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
-| 4 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 1 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
+| 2 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
+| 3 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 4 | [#birebirdayanisma](http://twitter.com/search?q=%23birebirdayanisma) | N/A |
 | 5 | [#internetBlockedinTurkey](http://twitter.com/search?q=%23internetBlockedinTurkey) | N/A |
-| 6 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
-| 7 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 8 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 9 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 10 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 11 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 12 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 13 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 14 | [Erişim](http://twitter.com/search?q=Eri%c5%9fim) | N/A |
+| 6 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 7 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 8 | [Kısıtlama](http://twitter.com/search?q=K%c4%b1s%c4%b1tlama) | N/A |
+| 9 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 10 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 11 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 12 | [Erişim](http://twitter.com/search?q=Eri%c5%9fim) | N/A |
+| 13 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 14 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
 | 15 | [Bant](http://twitter.com/search?q=Bant) | N/A |
-| 16 | [Açıldı](http://twitter.com/search?q=A%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 16 | [Kader](http://twitter.com/search?q=Kader) | N/A |
 | 17 | [Türknet](http://twitter.com/search?q=T%c3%bcrknet) | N/A |
-| 18 | [Nursel Reyhanlıoğlu](http://twitter.com/search?q=Nursel+Reyhanl%c4%b1o%c4%9flu) | N/A |
-| 19 | [Opera](http://twitter.com/search?q=Opera) | N/A |
-| 20 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
-| 21 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
-| 22 | [Vpnsiz](http://twitter.com/search?q=Vpnsiz) | N/A |
-| 23 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
-| 24 | [Türk Telekom](http://twitter.com/search?q=T%c3%bcrk+Telekom) | N/A |
-| 25 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 26 | [Yunan](http://twitter.com/search?q=Yunan) | N/A |
-| 27 | [Mobil](http://twitter.com/search?q=Mobil) | N/A |
-| 28 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 18 | [Açıldı](http://twitter.com/search?q=A%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 19 | [Nursel Reyhanlıoğlu](http://twitter.com/search?q=Nursel+Reyhanl%c4%b1o%c4%9flu) | N/A |
+| 20 | [Opera](http://twitter.com/search?q=Opera) | N/A |
+| 21 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 22 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 23 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
+| 24 | [İnsanlar Twitter](http://twitter.com/search?q=%c4%b0nsanlar+Twitter) | N/A |
+| 25 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
+| 26 | [Vpnsiz](http://twitter.com/search?q=Vpnsiz) | N/A |
+| 27 | [Türk Telekom](http://twitter.com/search?q=T%c3%bcrk+Telekom) | N/A |
+| 28 | [Yunan](http://twitter.com/search?q=Yunan) | N/A |
 | 29 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
 | 30 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
-| 31 | [Adem](http://twitter.com/search?q=Adem) | N/A |
-| 32 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
-| 33 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
-| 34 | [Borsa İstanbul](http://twitter.com/search?q=Borsa+%c4%b0stanbul) | N/A |
-| 35 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
-| 36 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
-| 37 | [Ankara Büyükşehir Belediyesi](http://twitter.com/search?q=Ankara+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
-| 38 | [Birlik](http://twitter.com/search?q=Birlik) | N/A |
-| 39 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
-| 40 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 41 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 42 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 31 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
+| 32 | [Suriye'ye](http://twitter.com/search?q=Suriye%27ye) | N/A |
+| 33 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
+| 34 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 35 | [Mobil](http://twitter.com/search?q=Mobil) | N/A |
+| 36 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 37 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
+| 38 | [Namussuz](http://twitter.com/search?q=Namussuz) | N/A |
+| 39 | [Ataşehir](http://twitter.com/search?q=Ata%c5%9fehir) | N/A |
+| 40 | [Provokasyon](http://twitter.com/search?q=Provokasyon) | N/A |
+| 41 | [Kefen](http://twitter.com/search?q=Kefen) | N/A |
+| 42 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
 | 43 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 44 | [Son 3](http://twitter.com/search?q=Son+3) | N/A |
-| 45 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
-| 46 | [İnsanların](http://twitter.com/search?q=%c4%b0nsanlar%c4%b1n) | N/A |
-| 47 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
-| 48 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
-| 49 | [#Twitterkısıtlama](http://twitter.com/search?q=%23Twitterk%c4%b1s%c4%b1tlama) | N/A |
-| 50 | [#AdiyamanYardimBekliyor](http://twitter.com/search?q=%23AdiyamanYardimBekliyor) | N/A |
+| 44 | [Adem](http://twitter.com/search?q=Adem) | N/A |
+| 45 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
+| 46 | [Ankara Büyükşehir Belediyesi](http://twitter.com/search?q=Ankara+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
+| 47 | [Toki](http://twitter.com/search?q=Toki) | N/A |
+| 48 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
+| 49 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
+| 50 | [#yardımıhızlandır](http://twitter.com/search?q=%23yard%c4%b1m%c4%b1h%c4%b1zland%c4%b1r) | N/A |
 
 
 

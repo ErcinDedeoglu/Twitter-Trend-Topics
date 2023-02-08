@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-02-08 18:16:27 UTC`
+📆 Last Updated: `2023-02-08 19:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8Feb](http://twitter.com/search?q=%238Feb) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#PatriaGrandeEsCaribe](http://twitter.com/search?q=%23PatriaGrandeEsCaribe) | N/A |
+| 2 | [#PatriaGrandeEsCaribe](http://twitter.com/search?q=%23PatriaGrandeEsCaribe) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 5 | [#VenezuelaMonumental](http://twitter.com/search?q=%23VenezuelaMonumental) | N/A |
-| 6 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 6 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
 | 8 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 9 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 10 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 11 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
-| 12 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 13 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 14 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 15 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 10 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 11 | [Polar](http://twitter.com/search?q=Polar) | N/A |
+| 12 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 14 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
+| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 16 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
 | 17 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 18 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 18 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
+| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 20 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
-| 21 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 22 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
-| 23 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
-| 24 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
-| 25 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 29 | [carabobo fc](http://twitter.com/search?q=carabobo+fc) | N/A |
-| 30 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
-| 31 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
-| 32 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 33 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
-| 34 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 35 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 37 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 38 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 39 | [jc ramirez](http://twitter.com/search?q=jc+ramirez) | N/A |
-| 40 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
-| 41 | [Lili Estefan](http://twitter.com/search?q=Lili+Estefan) | N/A |
-| 42 | [Manuel Vadell](http://twitter.com/search?q=Manuel+Vadell) | N/A |
-| 43 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
-| 44 | [GANÓ VENEZUELA](http://twitter.com/search?q=GAN%c3%93+VENEZUELA) | N/A |
-| 45 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 21 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 22 | [#FANBUnidaYVictoriosa](http://twitter.com/search?q=%23FANBUnidaYVictoriosa) | N/A |
+| 23 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
+| 24 | [Misael](http://twitter.com/search?q=Misael) | N/A |
+| 25 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 26 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
+| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
+| 31 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 32 | [Carabobo FC](http://twitter.com/search?q=Carabobo+FC) | N/A |
+| 33 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 35 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 36 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
+| 37 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 38 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
+| 39 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
+| 40 | [Lili Estefan](http://twitter.com/search?q=Lili+Estefan) | N/A |
+| 41 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
+| 42 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 43 | [Manuel Vadell](http://twitter.com/search?q=Manuel+Vadell) | N/A |
+| 44 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 45 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 46 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 47 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 48 | [Estado de la Unión](http://twitter.com/search?q=Estado+de+la+Uni%c3%b3n) | N/A |
-| 49 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 50 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 47 | [Estado de la Unión](http://twitter.com/search?q=Estado+de+la+Uni%c3%b3n) | N/A |
+| 48 | [El Planeta](http://twitter.com/search?q=El+Planeta) | N/A |
+| 49 | [Foro Penal](http://twitter.com/search?q=Foro+Penal) | N/A |
+| 50 | [Mazo](http://twitter.com/search?q=Mazo) | N/A |
 
 
 
