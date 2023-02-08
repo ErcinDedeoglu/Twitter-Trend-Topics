@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-08 21:16:10 UTC`
+📆 Last Updated: `2023-02-08 22:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 2 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
-| 3 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 4 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
-| 7 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 8 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 9 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
-| 10 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 11 | [Acker](http://twitter.com/search?q=Acker) | N/A |
-| 12 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 13 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 15 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
-| 16 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
-| 20 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 21 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 22 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 26 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 27 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 28 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 30 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 31 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 32 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 33 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 34 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 35 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 37 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 38 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 39 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 40 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 41 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 42 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 43 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 44 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
-| 45 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
-| 46 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 47 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 48 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 49 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
-| 50 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 1 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 3 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
+| 4 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 5 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 6 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 7 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 8 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 9 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 10 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
+| 11 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 12 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 13 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 14 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
+| 15 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 16 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 17 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
+| 18 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 19 | [Acker](http://twitter.com/search?q=Acker) | N/A |
+| 20 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 21 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
+| 24 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 25 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 26 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 27 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 28 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
+| 29 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 30 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 31 | [#tvtotal](http://twitter.com/search?q=%23tvtotal) | N/A |
+| 32 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 33 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 34 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 35 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
+| 36 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 37 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 38 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 39 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 40 | [#MH17](http://twitter.com/search?q=%23MH17) | N/A |
+| 41 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 42 | [#ErdbebenInSyrien](http://twitter.com/search?q=%23ErdbebenInSyrien) | N/A |
 
 
 

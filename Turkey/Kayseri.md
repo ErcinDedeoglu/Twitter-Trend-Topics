@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-08 21:16:34 UTC`
+📆 Last Updated: `2023-02-08 22:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kahramanmaraş](http://twitter.com/search?q=Kahramanmara%c5%9f) | N/A |
-| 2 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
-| 3 | [#birebirdayanisma](http://twitter.com/search?q=%23birebirdayanisma) | N/A |
-| 4 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
+| 1 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
+| 2 | [#birebirdayanisma](http://twitter.com/search?q=%23birebirdayanisma) | N/A |
+| 3 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
+| 4 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
 | 5 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
-| 6 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
-| 7 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 8 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
+| 6 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
+| 7 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
+| 8 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
 | 9 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 10 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 11 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 12 | [Elif Melisa](http://twitter.com/search?q=Elif+Melisa) | N/A |
+| 10 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 11 | [Elif Melisa](http://twitter.com/search?q=Elif+Melisa) | N/A |
+| 12 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
 | 13 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 14 | [Suriye'ye](http://twitter.com/search?q=Suriye%27ye) | N/A |
-| 15 | [Türknet](http://twitter.com/search?q=T%c3%bcrknet) | N/A |
-| 16 | [Zübeyde](http://twitter.com/search?q=Z%c3%bcbeyde) | N/A |
-| 17 | [Kısıtlama](http://twitter.com/search?q=K%c4%b1s%c4%b1tlama) | N/A |
-| 18 | [Açıldı](http://twitter.com/search?q=A%c3%a7%c4%b1ld%c4%b1) | N/A |
-| 19 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 20 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
-| 21 | [Erişim](http://twitter.com/search?q=Eri%c5%9fim) | N/A |
-| 22 | [Opera](http://twitter.com/search?q=Opera) | N/A |
-| 23 | [Nursel Reyhanlıoğlu](http://twitter.com/search?q=Nursel+Reyhanl%c4%b1o%c4%9flu) | N/A |
-| 24 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 25 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 14 | [Açıldı](http://twitter.com/search?q=A%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 15 | [Suriye'ye](http://twitter.com/search?q=Suriye%27ye) | N/A |
+| 16 | [Türknet](http://twitter.com/search?q=T%c3%bcrknet) | N/A |
+| 17 | [Zübeyde](http://twitter.com/search?q=Z%c3%bcbeyde) | N/A |
+| 18 | [Kısıtlama](http://twitter.com/search?q=K%c4%b1s%c4%b1tlama) | N/A |
+| 19 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
+| 20 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
+| 21 | [Opera](http://twitter.com/search?q=Opera) | N/A |
+| 22 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 23 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 24 | [Nursel Reyhanlıoğlu](http://twitter.com/search?q=Nursel+Reyhanl%c4%b1o%c4%9flu) | N/A |
+| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 26 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 28 | [Bant](http://twitter.com/search?q=Bant) | N/A |
-| 29 | [Vpnsiz](http://twitter.com/search?q=Vpnsiz) | N/A |
-| 30 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 31 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
-| 32 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
-| 33 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 34 | [No 18](http://twitter.com/search?q=No+18) | N/A |
-| 35 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
-| 36 | [Yalancının](http://twitter.com/search?q=Yalanc%c4%b1n%c4%b1n) | N/A |
-| 37 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 38 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
-| 39 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
-| 40 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 41 | [Türk Telekom](http://twitter.com/search?q=T%c3%bcrk+Telekom) | N/A |
-| 42 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
-| 43 | [Reklam](http://twitter.com/search?q=Reklam) | N/A |
-| 44 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
-| 45 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 46 | [Mobil](http://twitter.com/search?q=Mobil) | N/A |
-| 47 | [Ücretsiz](http://twitter.com/search?q=%c3%9ccretsiz) | N/A |
-| 48 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 49 | [#internetBlockedinTurkey](http://twitter.com/search?q=%23internetBlockedinTurkey) | N/A |
-| 50 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
+| 27 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 28 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
+| 29 | [Bant](http://twitter.com/search?q=Bant) | N/A |
+| 30 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
+| 31 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 32 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
+| 33 | [No 18](http://twitter.com/search?q=No+18) | N/A |
+| 34 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 35 | [Yalancının](http://twitter.com/search?q=Yalanc%c4%b1n%c4%b1n) | N/A |
+| 36 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 37 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 38 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
+| 39 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 40 | [Reklam](http://twitter.com/search?q=Reklam) | N/A |
+| 41 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
+| 42 | [Türk Telekom](http://twitter.com/search?q=T%c3%bcrk+Telekom) | N/A |
+| 43 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 44 | [Mobil](http://twitter.com/search?q=Mobil) | N/A |
+| 45 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
+| 46 | [#internetBlockedinTurkey](http://twitter.com/search?q=%23internetBlockedinTurkey) | N/A |
+| 47 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 48 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 49 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
 
 
 

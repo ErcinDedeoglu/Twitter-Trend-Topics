@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-08 21:16:22 UTC`
+📆 Last Updated: `2023-02-08 22:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 10 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
 | 11 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
 | 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 13 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 13 | [tenjul on magandang buhay](http://twitter.com/search?q=tenjul+on+magandang+buhay) | N/A |
 | 14 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
 | 15 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
 | 16 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
 | 17 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
-| 18 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
-| 19 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 20 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 21 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 22 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 23 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 24 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 26 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
-| 27 | [straydogs mv teaser](http://twitter.com/search?q=straydogs+mv+teaser) | N/A |
-| 28 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
-| 29 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 30 | [birthday na ni](http://twitter.com/search?q=birthday+na+ni) | N/A |
-| 31 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 32 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
-| 33 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
+| 18 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 19 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 20 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 21 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
+| 22 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 23 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 24 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 25 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
+| 26 | [straydogs mv teaser](http://twitter.com/search?q=straydogs+mv+teaser) | N/A |
+| 27 | [kaia na10 ito](http://twitter.com/search?q=kaia+na10+ito) | N/A |
+| 28 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 29 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 30 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 31 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
+| 32 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
+| 33 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
 | 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
+| 35 | [jeremiah gray](http://twitter.com/search?q=jeremiah+gray) | N/A |
 | 36 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 37 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 38 | [WE LOVE YOU AESPA](http://twitter.com/search?q=WE+LOVE+YOU+AESPA) | N/A |
-| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 40 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 41 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
-| 42 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 43 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 44 | [MY JAKEWON](http://twitter.com/search?q=MY+JAKEWON) | N/A |
-| 45 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 46 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
-| 47 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 48 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
-| 49 | [Chungha](http://twitter.com/search?q=Chungha) | N/A |
-| 50 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 37 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 38 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 39 | [leadernim](http://twitter.com/search?q=leadernim) | N/A |
+| 40 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 41 | [MY JAKEWON](http://twitter.com/search?q=MY+JAKEWON) | N/A |
+| 42 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
+| 43 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
+| 44 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 45 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 46 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 47 | [Bilibili Comics](http://twitter.com/search?q=Bilibili+Comics) | N/A |
+| 48 | [Vtuber](http://twitter.com/search?q=Vtuber) | N/A |
+| 49 | [Hikaru](http://twitter.com/search?q=Hikaru) | N/A |
+| 50 | [Legends](http://twitter.com/search?q=Legends) | N/A |
 
 
 

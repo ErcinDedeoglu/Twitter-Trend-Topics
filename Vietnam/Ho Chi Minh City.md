@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-08 21:16:23 UTC`
+📆 Last Updated: `2023-02-08 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 9 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
 | 10 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 11 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 11 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
 | 12 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
 | 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 14 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 22 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
 | 23 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 24 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 24 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
 | 25 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 26 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
 | 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
@@ -46,23 +46,24 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 29 | [West](http://twitter.com/search?q=West) | N/A |
 | 30 | [đáng](http://twitter.com/search?q=%c4%91%c3%a1ng) | N/A |
 | 31 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 32 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
+| 32 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
 | 33 | [nam mô a di đà phật](http://twitter.com/search?q=nam+m%c3%b4+a+di+%c4%91%c3%a0+ph%e1%ba%adt) | N/A |
 | 34 | [hồ chí minh](http://twitter.com/search?q=h%e1%bb%93+ch%c3%ad+minh) | N/A |
-| 35 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 36 | [Babydoge](http://twitter.com/search?q=Babydoge) | N/A |
-| 37 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 38 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 39 | [tây ninh](http://twitter.com/search?q=t%c3%a2y+ninh) | N/A |
-| 40 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 41 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 42 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 43 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 44 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
-| 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 46 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 47 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 48 | [chuyện](http://twitter.com/search?q=chuy%e1%bb%87n) | N/A |
+| 35 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 36 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 37 | [Babydoge](http://twitter.com/search?q=Babydoge) | N/A |
+| 38 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 39 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 40 | [tây ninh](http://twitter.com/search?q=t%c3%a2y+ninh) | N/A |
+| 41 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 42 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 43 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
+| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 45 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 46 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 47 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 48 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
+| 49 | [chuyện](http://twitter.com/search?q=chuy%e1%bb%87n) | N/A |
 
 
 

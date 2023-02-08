@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-08 21:16:13 UTC`
+📆 Last Updated: `2023-02-08 22:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 2 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 6 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 3 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 7 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 10 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 11 | [#TBS23](http://twitter.com/search?q=%23TBS23) | N/A |
-| 12 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 13 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 14 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
-| 15 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 16 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
-| 17 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 18 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
-| 21 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 22 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 23 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 24 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 25 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 26 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 27 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
-| 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 31 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 32 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 33 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 34 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 35 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 36 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 37 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
-| 38 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 40 | [Supprime](http://twitter.com/search?q=Supprime) | N/A |
-| 41 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 42 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
-| 45 | [Griff](http://twitter.com/search?q=Griff) | N/A |
-| 46 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 47 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 48 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 11 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 12 | [#TBS23](http://twitter.com/search?q=%23TBS23) | N/A |
+| 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 14 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 15 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 16 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 17 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
+| 18 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 19 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
+| 20 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 21 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 24 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 25 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 26 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 27 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 28 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 29 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 30 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
+| 31 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 33 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 34 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 35 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 36 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 37 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 39 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 40 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 41 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 42 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 43 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 44 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
+| 45 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
+| 48 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
 
 
 

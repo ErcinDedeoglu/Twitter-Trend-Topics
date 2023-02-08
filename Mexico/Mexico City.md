@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-08 21:15:59 UTC`
+📆 Last Updated: `2023-02-08 22:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
 | 2 | [Quintana Roo](http://twitter.com/search?q=Quintana+Roo) | N/A |
-| 3 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 4 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 5 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 6 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 7 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 8 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
-| 11 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 3 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 4 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 5 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 6 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 7 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 10 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 11 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 12 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 13 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 14 | [#MISAMO](http://twitter.com/search?q=%23MISAMO) | N/A |
-| 15 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
-| 16 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 17 | [#BosqueDeChapultepec](http://twitter.com/search?q=%23BosqueDeChapultepec) | N/A |
+| 13 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 14 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 15 | [#MISAMO](http://twitter.com/search?q=%23MISAMO) | N/A |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 18 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 19 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Laura Flores](http://twitter.com/search?q=Laura+Flores) | N/A |
-| 22 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
-| 23 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 24 | [Orejel](http://twitter.com/search?q=Orejel) | N/A |
-| 25 | [María Montessori](http://twitter.com/search?q=Mar%c3%ada+Montessori) | N/A |
-| 26 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 27 | [Chetumal](http://twitter.com/search?q=Chetumal) | N/A |
-| 28 | [Carmelita](http://twitter.com/search?q=Carmelita) | N/A |
-| 29 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 30 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 31 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 32 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 33 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 19 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 20 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 21 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 22 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 23 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
+| 24 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
+| 25 | [Laura Flores](http://twitter.com/search?q=Laura+Flores) | N/A |
+| 26 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 27 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 28 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 29 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 30 | [Chetumal](http://twitter.com/search?q=Chetumal) | N/A |
+| 31 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 32 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 33 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
 | 34 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 35 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 37 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 38 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 40 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 41 | [Quesillo](http://twitter.com/search?q=Quesillo) | N/A |
-| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 43 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
-| 44 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 46 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 47 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 48 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
-| 49 | [Badiraguato](http://twitter.com/search?q=Badiraguato) | Badiraguato is a municipality in the Mexican state of Sinaloa. It is located in the foothills of the Sierra Madre Occidental mountain range. The name Badiraguato comes from the Nahuatl language and means "place of many caves". |
-| 50 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 35 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 36 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
+| 37 | [Quesillo](http://twitter.com/search?q=Quesillo) | N/A |
+| 38 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
+| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 41 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 42 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 43 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 44 | [#BosqueDeChapultepec](http://twitter.com/search?q=%23BosqueDeChapultepec) | N/A |
+| 45 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 46 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 47 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 48 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
+| 49 | [#VillaVictoria](http://twitter.com/search?q=%23VillaVictoria) | N/A |
+| 50 | [#ClubWC](http://twitter.com/search?q=%23ClubWC) | N/A |
 
 
 
