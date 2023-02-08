@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-08 13:20:13 UTC`
+📆 Last Updated: `2023-02-08 14:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 2 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 3 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 4 | [#GKala995](http://twitter.com/search?q=%23GKala995) | N/A |
-| 5 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
+| 2 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 3 | [#AirtelLoveNotes](http://twitter.com/search?q=%23AirtelLoveNotes) | N/A |
+| 4 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
+| 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 6 | [#GetQuickLoansWithSpecta](http://twitter.com/search?q=%23GetQuickLoansWithSpecta) | N/A |
 | 7 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 8 | [#Iam4Art](http://twitter.com/search?q=%23Iam4Art) | N/A |
-| 9 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 10 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
-| 11 | [Shrine](http://twitter.com/search?q=Shrine) | N/A |
-| 12 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 13 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 14 | [Reckless](http://twitter.com/search?q=Reckless) | N/A |
-| 15 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 16 | [PHYNA X RIXARI VAL SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+VAL+SALES) | N/A |
-| 17 | [Federal Government](http://twitter.com/search?q=Federal+Government) | N/A |
-| 18 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
-| 19 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 20 | [#sotu2023](http://twitter.com/search?q=%23sotu2023) | N/A |
-| 21 | [Adamu Dan Daudu](http://twitter.com/search?q=Adamu+Dan+Daudu) | N/A |
-| 22 | [first phyna enterprise](http://twitter.com/search?q=first+phyna+enterprise) | N/A |
-| 23 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 24 | [Fund](http://twitter.com/search?q=Fund) | N/A |
-| 25 | [Bread](http://twitter.com/search?q=Bread) | N/A |
-| 26 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 27 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 28 | [Leeds United](http://twitter.com/search?q=Leeds+United) | N/A |
-| 29 | [NURTW](http://twitter.com/search?q=NURTW) | N/A |
-| 30 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 31 | [Akure](http://twitter.com/search?q=Akure) | N/A |
-| 32 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 33 | [Yobe](http://twitter.com/search?q=Yobe) | N/A |
-| 34 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 35 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
-| 36 | [#NairaScarcity](http://twitter.com/search?q=%23NairaScarcity) | N/A |
-| 37 | [#CoreDao_Org](http://twitter.com/search?q=%23CoreDao_Org) | N/A |
+| 8 | [#GKala995](http://twitter.com/search?q=%23GKala995) | N/A |
+| 9 | [Ymer](http://twitter.com/search?q=Ymer) | N/A |
+| 10 | [Missionary](http://twitter.com/search?q=Missionary) | N/A |
+| 11 | [#Iam4Art](http://twitter.com/search?q=%23Iam4Art) | N/A |
+| 12 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 13 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
+| 14 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
+| 15 | [THE CBN](http://twitter.com/search?q=THE+CBN) | N/A |
+| 16 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 17 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 18 | [Reckless](http://twitter.com/search?q=Reckless) | N/A |
+| 19 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 20 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 21 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 22 | [Federal Government](http://twitter.com/search?q=Federal+Government) | N/A |
+| 23 | [PHYNA X RIXARI VAL SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+VAL+SALES) | N/A |
+| 24 | [adamu dan daudu](http://twitter.com/search?q=adamu+dan+daudu) | N/A |
+| 25 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 26 | [FIRST PHYNA ENTERPRISE](http://twitter.com/search?q=FIRST+PHYNA+ENTERPRISE) | N/A |
+| 27 | [Fund](http://twitter.com/search?q=Fund) | N/A |
+| 28 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 29 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 30 | [Bread](http://twitter.com/search?q=Bread) | N/A |
+| 31 | [NURTW](http://twitter.com/search?q=NURTW) | N/A |
+| 32 | [International](http://twitter.com/search?q=International) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 35 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
+| 36 | [Akure](http://twitter.com/search?q=Akure) | N/A |
+| 37 | [#ShoppersWarehouse](http://twitter.com/search?q=%23ShoppersWarehouse) | N/A |
+| 38 | [#sotu2023](http://twitter.com/search?q=%23sotu2023) | N/A |
+| 39 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 40 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
+| 41 | [#CoreDao_Org](http://twitter.com/search?q=%23CoreDao_Org) | N/A |
+| 42 | [#NairaScarcity](http://twitter.com/search?q=%23NairaScarcity) | N/A |
 
 
 

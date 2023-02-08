@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-08 13:19:58 UTC`
+📆 Last Updated: `2023-02-08 14:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
 | 2 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 3 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 4 | [#Merz](http://twitter.com/search?q=%23Merz) | N/A |
-| 5 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
-| 6 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 4 | [#merz](http://twitter.com/search?q=%23merz) | N/A |
+| 5 | [#MH17](http://twitter.com/search?q=%23MH17) | N/A |
+| 6 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
 | 7 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
 | 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
 | 9 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
 | 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 12 | [Humor](http://twitter.com/search?q=Humor) | N/A |
 | 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 14 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 15 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 16 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 15 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
+| 16 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
 | 17 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 18 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 19 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 18 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 19 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
 | 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 21 | [Schnuller](http://twitter.com/search?q=Schnuller) | N/A |
-| 22 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 21 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 22 | [Schnuller](http://twitter.com/search?q=Schnuller) | N/A |
 | 23 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
 | 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 25 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 26 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 27 | [Schindlers Liste](http://twitter.com/search?q=Schindlers+Liste) | N/A |
-| 28 | [Tanzi](http://twitter.com/search?q=Tanzi) | N/A |
-| 29 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 30 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 32 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
-| 33 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 34 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 35 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 36 | [zoos](http://twitter.com/search?q=zoos) | N/A |
-| 37 | [Stausee](http://twitter.com/search?q=Stausee) | N/A |
-| 38 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 39 | [After Life](http://twitter.com/search?q=After+Life) | N/A |
-| 40 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 25 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 26 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 27 | [kinderschänder](http://twitter.com/search?q=kindersch%c3%a4nder) | N/A |
+| 28 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 29 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 30 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 31 | [Schindlers Liste](http://twitter.com/search?q=Schindlers+Liste) | N/A |
+| 32 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 33 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 34 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 35 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 36 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 37 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
+| 38 | [Stausee](http://twitter.com/search?q=Stausee) | N/A |
+| 39 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 40 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
 | 41 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
 | 42 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 43 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 45 | [füllkrug](http://twitter.com/search?q=f%c3%bcllkrug) | N/A |
-| 46 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 47 | [Mächtigen](http://twitter.com/search?q=M%c3%a4chtigen) | N/A |
-| 48 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 49 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 43 | [Zebrastreifen](http://twitter.com/search?q=Zebrastreifen) | N/A |
+| 44 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
+| 45 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 46 | [Schächten](http://twitter.com/search?q=Sch%c3%a4chten) | N/A |
+| 47 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 48 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 49 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 
 
 

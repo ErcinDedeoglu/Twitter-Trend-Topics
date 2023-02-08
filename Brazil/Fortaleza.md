@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-08 13:19:54 UTC`
+📆 Last Updated: `2023-02-08 14:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 2 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 4 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 5 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 6 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 10 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 11 | [#f360br](http://twitter.com/search?q=%23f360br) | N/A |
-| 12 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 13 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
-| 14 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
-| 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 16 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
-| 19 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 20 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 21 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
-| 22 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 1 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 2 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 3 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 4 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 5 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 6 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 7 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 8 | [#MaisVocê](http://twitter.com/search?q=%23MaisVoc%c3%aa) | N/A |
+| 9 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
+| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 12 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
+| 13 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 14 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 15 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 16 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 17 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
+| 18 | [#f360br](http://twitter.com/search?q=%23f360br) | N/A |
+| 19 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 20 | [Reinato](http://twitter.com/search?q=Reinato) | N/A |
+| 21 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 23 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 24 | [Eletrobrás](http://twitter.com/search?q=Eletrobr%c3%a1s) | N/A |
-| 25 | [Kareem Abdul-Jabbar](http://twitter.com/search?q=Kareem+Abdul-Jabbar) | N/A |
-| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 27 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 28 | [Pobreza](http://twitter.com/search?q=Pobreza) | N/A |
-| 29 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 30 | [Tiraram a Tina](http://twitter.com/search?q=Tiraram+a+Tina) | N/A |
-| 31 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 32 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
-| 33 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
-| 34 | [#CPIdoDia08](http://twitter.com/search?q=%23CPIdoDia08) | N/A |
-| 35 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 36 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
-| 37 | [Flapress](http://twitter.com/search?q=Flapress) | N/A |
-| 38 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
-| 39 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 40 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
-| 41 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 42 | [Getúlio](http://twitter.com/search?q=Get%c3%balio) | N/A |
-| 43 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 44 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 45 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 46 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
-| 47 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 48 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
-| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 50 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
+| 24 | [Eletrobras](http://twitter.com/search?q=Eletrobras) | N/A |
+| 25 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 26 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 29 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
+| 30 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 31 | [Tiraram a Tina](http://twitter.com/search?q=Tiraram+a+Tina) | N/A |
+| 32 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 33 | [Getúlio](http://twitter.com/search?q=Get%c3%balio) | N/A |
+| 34 | [Pobreza](http://twitter.com/search?q=Pobreza) | N/A |
+| 35 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 36 | [Flapress](http://twitter.com/search?q=Flapress) | N/A |
+| 37 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 38 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 39 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
+| 40 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 41 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
+| 42 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 43 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
+| 44 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 45 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 46 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 47 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 48 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
+| 49 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 50 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
 
 
 

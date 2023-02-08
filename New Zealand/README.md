@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-08 13:20:39 UTC`
+📆 Last Updated: `2023-02-08 14:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for New Zealand
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 3 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 4 | [Law Commission](http://twitter.com/search?q=Law+Commission) | N/A |
+| 4 | [law commission](http://twitter.com/search?q=law+commission) | N/A |
 | 5 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 7 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-08 13:20:39 UTC`
+📆 Last Updated: `2023-02-08 14:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Qatar
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#زلزال_سوريا_تركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 2 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 4 | [محمد بن عبدالله العطيه الجويه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 2 | [#زلزال_سوريا_تركيا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 3 | [محمد بن عبدالله العطيه الجويه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 5 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 6 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 7 | [الدفعه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
-| 8 | [كاس قطر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%82%d8%b7%d8%b1) | N/A |
-| 9 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 8 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 9 | [#كاس_قطر_٢٠٢٣](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d9%82%d8%b7%d8%b1_%d9%a2%d9%a0%d9%a2%d9%a3) | N/A |
 | 10 | [دوري نجوم قطر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d9%86%d8%ac%d9%88%d9%85+%d9%82%d8%b7%d8%b1) | N/A |
-| 11 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
-| 12 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 13 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 11 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 12 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 13 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 14 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 15 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 16 | [#كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 17 | [محمد بن غانم الغانم البحريه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
-| 18 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
-| 19 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
-| 20 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 21 | [الدفعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 22 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
-| 23 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 24 | [اسطنبول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84) | N/A |
-| 25 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 26 | [وزير التعاون التنموي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a) | N/A |
-| 27 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
-| 28 | [الداخل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 29 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 30 | [وزير المواصلات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a7%d8%aa) | N/A |
-| 31 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 32 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
-| 33 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 34 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 35 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
-| 36 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 37 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 38 | [الجهات المعنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 40 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 41 | [وقطر](http://twitter.com/search?q=%d9%88%d9%82%d8%b7%d8%b1) | N/A |
-| 42 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
-| 43 | [مونديال الانديه](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 44 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 45 | [الطواري التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 46 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 47 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 48 | [7 فبراير 2023](http://twitter.com/search?q=7+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 49 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 50 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 15 | [محمد بن غانم الغانم البحريه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
+| 16 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
+| 17 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 18 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 19 | [الدفعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 20 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 21 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 22 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 23 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 24 | [وزير التعاون التنموي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a) | N/A |
+| 25 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 26 | [الداخل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 27 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 28 | [وزير المواصلات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a7%d8%aa) | N/A |
+| 29 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 30 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 31 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
+| 32 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 33 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 34 | [الجهات المعنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a%d9%87) | N/A |
+| 35 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 36 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 37 | [مونديال الانديه](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 38 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 39 | [الطواري التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 40 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 41 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
+| 42 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 43 | [7 فبراير 2023](http://twitter.com/search?q=7+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 44 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
+| 45 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
+| 46 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 47 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 48 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 49 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 50 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-08 13:20:12 UTC`
+📆 Last Updated: `2023-02-08 14:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
-| 2 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
-| 3 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 4 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
-| 5 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
-| 6 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
-| 7 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
-| 8 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
-| 9 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 1 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 2 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 3 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
+| 4 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
+| 5 | [#DLDiversion](http://twitter.com/search?q=%23DLDiversion) | N/A |
+| 6 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
+| 7 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
+| 8 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 9 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
 | 10 | [Love for Humanity](http://twitter.com/search?q=Love+for+Humanity) | N/A |
-| 11 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 12 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 13 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 14 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
-| 15 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 11 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
+| 12 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 13 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 14 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 15 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
 | 16 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
-| 17 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 17 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
 | 18 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 19 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 20 | [Joel Villanueva](http://twitter.com/search?q=Joel+Villanueva) | N/A |
-| 21 | [ROYALTY SEATED](http://twitter.com/search?q=ROYALTY+SEATED) | N/A |
-| 22 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 23 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 19 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
+| 20 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 21 | [Joel Villanueva](http://twitter.com/search?q=Joel+Villanueva) | N/A |
+| 22 | [ROYALTY SEATED](http://twitter.com/search?q=ROYALTY+SEATED) | N/A |
+| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 24 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 25 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 25 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
 | 26 | [Janella](http://twitter.com/search?q=Janella) | N/A |
-| 27 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 28 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
-| 29 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
-| 30 | [#felipontag11ae](http://twitter.com/search?q=%23felipontag11ae) | N/A |
-| 31 | [#DarnaSuperSavior](http://twitter.com/search?q=%23DarnaSuperSavior) | N/A |
-| 32 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
-| 33 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
+| 27 | [#SHEINxBelleMariano](http://twitter.com/search?q=%23SHEINxBelleMariano) | N/A |
+| 28 | [#LuvIsIsawAtBetamax](http://twitter.com/search?q=%23LuvIsIsawAtBetamax) | N/A |
+| 29 | [#DarnaSuperSavior](http://twitter.com/search?q=%23DarnaSuperSavior) | N/A |
+| 30 | [#BelleforSHEIN](http://twitter.com/search?q=%23BelleforSHEIN) | N/A |
+| 31 | [#felipontag11ae](http://twitter.com/search?q=%23felipontag11ae) | N/A |
+| 32 | [#AyYo1stWin](http://twitter.com/search?q=%23AyYo1stWin) | N/A |
+| 33 | [#SOGIEEqualityNow](http://twitter.com/search?q=%23SOGIEEqualityNow) | N/A |
 | 34 | [#SUGAxValentino](http://twitter.com/search?q=%23SUGAxValentino) | #SUGAxValentino is a hashtag used to promote a collaboration between the fashion brand Valentino and the South Korean girl group SUGA. The hashtag is used to promote the collaboration and its associated products. |
-| 35 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 36 | [#OPPOReno8T](http://twitter.com/search?q=%23OPPOReno8T) | N/A |
-| 37 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
+| 35 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 36 | [#DreamMakerPieDateTop28](http://twitter.com/search?q=%23DreamMakerPieDateTop28) | N/A |
+| 37 | [#OPPOGoldenHour](http://twitter.com/search?q=%23OPPOGoldenHour) | N/A |
 | 38 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
-| 39 | [#Fendi](http://twitter.com/search?q=%23Fendi) | N/A |
-| 40 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 41 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
-| 42 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 43 | [#TEUBUSKING](http://twitter.com/search?q=%23TEUBUSKING) | N/A |
-| 44 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 45 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
-| 46 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 47 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
-| 48 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 49 | [#TwentyFiveWonDONNYfulYears](http://twitter.com/search?q=%23TwentyFiveWonDONNYfulYears) | N/A |
-| 50 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 39 | [#OPPOReno8T](http://twitter.com/search?q=%23OPPOReno8T) | N/A |
+| 40 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 41 | [#에이요_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 42 | [#Fendi](http://twitter.com/search?q=%23Fendi) | N/A |
+| 43 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
+| 44 | [#ThePortraitExpert](http://twitter.com/search?q=%23ThePortraitExpert) | N/A |
+| 45 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 46 | [#SBTCBoys](http://twitter.com/search?q=%23SBTCBoys) | N/A |
+| 47 | [#10thKAIAxZAIADay](http://twitter.com/search?q=%2310thKAIAxZAIADay) | N/A |
+| 48 | [#globalprayerforhumanity](http://twitter.com/search?q=%23globalprayerforhumanity) | N/A |
+| 49 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 50 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
 
 
 
