@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-08 06:15:55 UTC`
+📆 Last Updated: `2023-02-08 07:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 2 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 8 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 10 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 11 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 12 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 13 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 14 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 15 | [#ChildrensMentalHealthWeek](http://twitter.com/search?q=%23ChildrensMentalHealthWeek) | #ChildrensMentalHealthWeek is an annual awareness week that takes place in the UK during the first full week of February. It is a time to raise awareness of the importance of children's mental health and wellbeing, and to promote positive mental health for all children and young people. |
-| 16 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 17 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 18 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 19 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 20 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 9 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 10 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 11 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 12 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 13 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 14 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 15 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 16 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 17 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 18 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
+| 19 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 20 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
 | 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 22 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 23 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 24 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 27 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 28 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 29 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 22 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 26 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 27 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 28 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 29 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
 | 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 31 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 32 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 33 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 32 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 33 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 34 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 35 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
 | 36 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 37 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 38 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 39 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 40 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 41 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 42 | [joe allen](http://twitter.com/search?q=joe+allen) | N/A |
-| 43 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 44 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 45 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 46 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 47 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 48 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 41 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 42 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 45 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 47 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 48 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 49 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 50 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
 
 

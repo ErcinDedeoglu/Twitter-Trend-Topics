@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-08 06:16:10 UTC`
+📆 Last Updated: `2023-02-08 07:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 4 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 5 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
-| 6 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 2 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 3 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 5 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 6 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
 | 7 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 8 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 8 | [#costringono](http://twitter.com/search?q=%23costringono) | N/A |
 | 9 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 10 | [#costringono](http://twitter.com/search?q=%23costringono) | N/A |
-| 11 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 10 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 11 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
 | 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 13 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 14 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 14 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
 | 15 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
 | 16 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 17 | [PIERO PELÙ](http://twitter.com/search?q=PIERO+PEL%c3%99) | N/A |
-| 18 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 19 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 20 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 21 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 22 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 23 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 24 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 25 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 26 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
+| 17 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 18 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 19 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 20 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 21 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 22 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 23 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 24 | [riccardo fogli](http://twitter.com/search?q=riccardo+fogli) | N/A |
+| 25 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 26 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
 | 27 | [paolo bitta](http://twitter.com/search?q=paolo+bitta) | N/A |
 | 28 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 29 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 29 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
 | 30 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 31 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
 | 32 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
-| 33 | [PENSATI LIBERA](http://twitter.com/search?q=PENSATI+LIBERA) | N/A |
-| 34 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 35 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 36 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
-| 37 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 38 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 39 | [Buongiorno Gerry](http://twitter.com/search?q=Buongiorno+Gerry) | N/A |
-| 40 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 33 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 34 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 35 | [Giuseppe Ungaretti](http://twitter.com/search?q=Giuseppe+Ungaretti) | N/A |
+| 36 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 37 | [PENSATI LIBERA](http://twitter.com/search?q=PENSATI+LIBERA) | N/A |
+| 38 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 39 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 40 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 41 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 42 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 43 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 44 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 45 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 46 | [Sereno](http://twitter.com/search?q=Sereno) | N/A |
-| 47 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 48 | [Buongiorno Regina](http://twitter.com/search?q=Buongiorno+Regina) | N/A |
-| 49 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 50 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 42 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 43 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
+| 44 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
+| 45 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 46 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 47 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 48 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 49 | [Felice](http://twitter.com/search?q=Felice) | N/A |
+| 50 | [Buongiorno Gaetano](http://twitter.com/search?q=Buongiorno+Gaetano) | N/A |
 
 
 

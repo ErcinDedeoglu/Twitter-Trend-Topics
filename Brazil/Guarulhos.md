@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-08 06:16:04 UTC`
+📆 Last Updated: `2023-02-08 07:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 2 | [sidoka](http://twitter.com/search?q=sidoka) | N/A |
-| 3 | [Sou Má](http://twitter.com/search?q=Sou+M%c3%a1) | N/A |
-| 4 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 5 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 6 | [Alison](http://twitter.com/search?q=Alison) | N/A |
-| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 8 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 12 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 14 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 16 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 17 | [Faltam 2](http://twitter.com/search?q=Faltam+2) | N/A |
-| 18 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 19 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 20 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 21 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
-| 22 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 23 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 24 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 25 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 26 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
-| 27 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
-| 28 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 29 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 30 | [ROUBOU MEU CORAÇÃO](http://twitter.com/search?q=ROUBOU+MEU+CORA%c3%87%c3%83O) | N/A |
-| 31 | [O MAIOR DA HISTÓRIA](http://twitter.com/search?q=O+MAIOR+DA+HIST%c3%93RIA) | N/A |
-| 32 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 33 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 34 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
-| 35 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 36 | [Lionel pec](http://twitter.com/search?q=Lionel+pec) | N/A |
-| 37 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 38 | [O MAIOR DE TODOS](http://twitter.com/search?q=O+MAIOR+DE+TODOS) | N/A |
-| 39 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 40 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
-| 41 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 42 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 43 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 44 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 45 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 46 | [erick marcus](http://twitter.com/search?q=erick+marcus) | N/A |
-| 47 | [O Rei](http://twitter.com/search?q=O+Rei) | N/A |
-| 48 | [O GOAT](http://twitter.com/search?q=O+GOAT) | N/A |
-| 49 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 50 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 5 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 6 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 7 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 8 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 9 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 10 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 11 | [cezar](http://twitter.com/search?q=cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 12 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 13 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 14 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 15 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
+| 16 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 17 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 18 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 19 | [Rômulo Mendonça](http://twitter.com/search?q=R%c3%b4mulo+Mendon%c3%a7a) | Rômulo Mendonça is a Brazilian surname. It is derived from the Latin name Romulus, which means "strong" or "courageous". In English, the name could be translated as "strong and brave Mendonça". |
+| 20 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 21 | [O MAIOR DA HISTÓRIA](http://twitter.com/search?q=O+MAIOR+DA+HIST%c3%93RIA) | N/A |
+| 22 | [Pouso Alegre](http://twitter.com/search?q=Pouso+Alegre) | N/A |
+| 23 | [ROUBOU MEU CORAÇÃO](http://twitter.com/search?q=ROUBOU+MEU+CORA%c3%87%c3%83O) | N/A |
+| 24 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 25 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 26 | [O MAIOR DE TODOS](http://twitter.com/search?q=O+MAIOR+DE+TODOS) | N/A |
+| 27 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 28 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 29 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 30 | [gabriel pec](http://twitter.com/search?q=gabriel+pec) | N/A |
+| 31 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 32 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
+| 33 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 34 | [O Rei](http://twitter.com/search?q=O+Rei) | N/A |
+| 35 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
+| 36 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 37 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 38 | [LIONEL PEC](http://twitter.com/search?q=LIONEL+PEC) | N/A |
+| 39 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 40 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 41 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
+| 42 | [HISTÓRIA DA NBA](http://twitter.com/search?q=HIST%c3%93RIA+DA+NBA) | N/A |
+| 43 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 44 | [QUE MOMENTO](http://twitter.com/search?q=QUE+MOMENTO) | QUE MOMENTO is a Spanish phrase that translates to "What a moment!" or "What a time!" It is used to express surprise, excitement, or admiration. |
+| 45 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 46 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 47 | [Cowboy e Key](http://twitter.com/search?q=Cowboy+e+Key) | N/A |
+| 48 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 49 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 50 | [Guimê e Fred](http://twitter.com/search?q=Guim%c3%aa+e+Fred) | N/A |
 
 
 

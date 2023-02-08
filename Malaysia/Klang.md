@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-02-08 06:16:21 UTC`
+📆 Last Updated: `2023-02-08 07:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 3 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
-| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 6 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 4 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 5 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 6 | [#BFE_NCTDREAM](http://twitter.com/search?q=%23BFE_NCTDREAM) | N/A |
+| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 8 | [#NeverLetMeGoSeriesEP9](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP9) | N/A |
-| 9 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 10 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 11 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 12 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
-| 13 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 14 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 10 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 13 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 14 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
 | 15 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 16 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 17 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 18 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 19 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 20 | [Kamn Ismail](http://twitter.com/search?q=Kamn+Ismail) | N/A |
-| 21 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 22 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 23 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 24 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 26 | [Yang Jeongin](http://twitter.com/search?q=Yang+Jeongin) | N/A |
-| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 29 | [SO BAD](http://twitter.com/search?q=SO+BAD) | N/A |
-| 30 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 31 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 32 | [Paul kim](http://twitter.com/search?q=Paul+kim) | N/A |
-| 33 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 34 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 35 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 36 | [Happy Birthday I.N](http://twitter.com/search?q=Happy+Birthday+I.N) | N/A |
-| 37 | [Taecyeon](http://twitter.com/search?q=Taecyeon) | N/A |
-| 38 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 39 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 41 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 43 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 16 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 17 | [Kamn Ismail](http://twitter.com/search?q=Kamn+Ismail) | N/A |
+| 18 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 19 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 20 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 21 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 22 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 23 | [dolla comeback concept teaser](http://twitter.com/search?q=dolla+comeback+concept+teaser) | N/A |
+| 24 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 25 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 26 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 27 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 28 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 29 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 30 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 33 | [Happy Birthday I.N](http://twitter.com/search?q=Happy+Birthday+I.N) | N/A |
+| 34 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 35 | [Yang Jeongin](http://twitter.com/search?q=Yang+Jeongin) | N/A |
+| 36 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 37 | [Paul kim](http://twitter.com/search?q=Paul+kim) | N/A |
+| 38 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 39 | [Taecyeon](http://twitter.com/search?q=Taecyeon) | N/A |
+| 40 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 41 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 42 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 43 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
 | 44 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
-| 45 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
-| 46 | [KUCHING](http://twitter.com/search?q=KUCHING) | N/A |
-| 47 | [Van Gogh](http://twitter.com/search?q=Van+Gogh) | N/A |
-| 48 | [umno hq](http://twitter.com/search?q=umno+hq) | N/A |
-| 49 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 45 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 47 | [umno hq](http://twitter.com/search?q=umno+hq) | N/A |
+| 48 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 49 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
 
 
 

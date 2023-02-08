@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-08 06:16:07 UTC`
+📆 Last Updated: `2023-02-08 07:15:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [#NBAextra](http://twitter.com/search?q=%23NBAextra) | N/A |
-| 4 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 5 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
-| 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 1 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 3 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
+| 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
 | 7 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 8 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 9 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 10 | [LeGoat James](http://twitter.com/search?q=LeGoat+James) | N/A |
-| 11 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 12 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 13 | [IL L'A FAIT](http://twitter.com/search?q=IL+L%27A+FAIT) | N/A |
-| 14 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 15 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 17 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 18 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 19 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 20 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 23 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 8 | [#NBAextra](http://twitter.com/search?q=%23NBAextra) | N/A |
+| 9 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 10 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 11 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 12 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 13 | [LeGoat James](http://twitter.com/search?q=LeGoat+James) | N/A |
+| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 15 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 16 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 17 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 19 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 20 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 21 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 22 | [IL L'A FAIT](http://twitter.com/search?q=IL+L%27A+FAIT) | N/A |
+| 23 | [JOUR DE CLASSIQUE](http://twitter.com/search?q=JOUR+DE+CLASSIQUE) | N/A |
 | 24 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
-| 25 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 26 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Steam](http://twitter.com/search?q=Steam) | N/A |
 | 27 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 28 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 29 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 32 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 33 | [ALEXIS PINTURAULT](http://twitter.com/search?q=ALEXIS+PINTURAULT) | N/A |
-| 34 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 35 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 36 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 37 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
-| 38 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 39 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
-| 40 | [Metroid Prime 4](http://twitter.com/search?q=Metroid+Prime+4) | N/A |
-| 41 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 42 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 43 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 44 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 45 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 46 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 47 | ["Artoise"](http://twitter.com/search?q=%22Artoise%22) | N/A |
-| 48 | [grève du 7](http://twitter.com/search?q=gr%c3%a8ve+du+7) | N/A |
+| 28 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 29 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 31 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 32 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 33 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 34 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 35 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
+| 36 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
+| 37 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 38 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 39 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 40 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 41 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 42 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 43 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
+| 44 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
+| 45 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 46 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 47 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 48 | [Bonjour Sandrine](http://twitter.com/search?q=Bonjour+Sandrine) | N/A |
 
 
 
