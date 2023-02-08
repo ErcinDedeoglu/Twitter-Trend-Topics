@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-08 07:16:05 UTC`
+📆 Last Updated: `2023-02-08 08:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
 | 2 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
-| 3 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 5 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
-| 6 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 7 | [מתן כהנא](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%9b%d7%94%d7%a0%d7%90) | N/A |
-| 8 | [קי לוי](http://twitter.com/search?q=%d7%a7%d7%99+%d7%9c%d7%95%d7%99) | N/A |
-| 9 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 10 | [שי גולדן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%92%d7%95%d7%9c%d7%93%d7%9f) | N/A |
-| 11 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
-| 12 | [המקשר בין הממשלה](http://twitter.com/search?q=%d7%94%d7%9e%d7%a7%d7%a9%d7%a8+%d7%91%d7%99%d7%9f+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 13 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 14 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 15 | [חוק יסוד](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%99%d7%a1%d7%95%d7%93) | N/A |
-| 16 | [חברות הייטק](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%94%d7%99%d7%99%d7%98%d7%a7) | N/A |
-| 17 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
-| 18 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 19 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 20 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
-| 21 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
-| 22 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 24 | [ראש ה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94) | N/A |
-| 25 | [עוד שר](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a9%d7%a8) | N/A |
-| 26 | [שיתוף פעולה](http://twitter.com/search?q=%d7%a9%d7%99%d7%aa%d7%95%d7%a3+%d7%a4%d7%a2%d7%95%d7%9c%d7%94) | N/A |
-| 27 | [בוגי יעלון](http://twitter.com/search?q=%d7%91%d7%95%d7%92%d7%99+%d7%99%d7%a2%d7%9c%d7%95%d7%9f) | N/A |
-| 28 | [המחאה נגד](http://twitter.com/search?q=%d7%94%d7%9e%d7%97%d7%90%d7%94+%d7%a0%d7%92%d7%93) | N/A |
-| 29 | [שר בריאות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
-| 30 | [משה מירון](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%9e%d7%99%d7%a8%d7%95%d7%9f) | N/A |
-| 31 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
-| 32 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
-| 33 | [שרון גל](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%9f+%d7%92%d7%9c) | N/A |
-| 34 | [השם שלו](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%a9%d7%9c%d7%95) | N/A |
-| 35 | [אלעד עמדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%93+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
-| 36 | [אבא שלו](http://twitter.com/search?q=%d7%90%d7%91%d7%90+%d7%a9%d7%9c%d7%95) | N/A |
-| 37 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
-| 38 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 39 | [של אולמרט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98) | N/A |
-| 40 | [של אמסלם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
-| 41 | [שרי משפטים](http://twitter.com/search?q=%d7%a9%d7%a8%d7%99+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
-| 42 | [#ETHTLV](http://twitter.com/search?q=%23ETHTLV) | N/A |
-| 43 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 44 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
-| 45 | [שר פנים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%a4%d7%a0%d7%99%d7%9d) | N/A |
-| 46 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
-| 47 | [זאב רז](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a8%d7%96) | N/A |
-| 48 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 49 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
-| 50 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 4 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 5 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 6 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
+| 7 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
+| 8 | [בית המשפט](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
+| 9 | [קי לוי](http://twitter.com/search?q=%d7%a7%d7%99+%d7%9c%d7%95%d7%99) | N/A |
+| 10 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 11 | [שי גולדן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%92%d7%95%d7%9c%d7%93%d7%9f) | N/A |
+| 12 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
+| 13 | [המקשר בין הממשלה](http://twitter.com/search?q=%d7%94%d7%9e%d7%a7%d7%a9%d7%a8+%d7%91%d7%99%d7%9f+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 14 | [מי בא](http://twitter.com/search?q=%d7%9e%d7%99+%d7%91%d7%90) | N/A |
+| 15 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 16 | [שר בריאות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
+| 17 | [חברות הייטק](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%94%d7%99%d7%99%d7%98%d7%a7) | N/A |
+| 18 | [עוד שר](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a9%d7%a8) | N/A |
+| 19 | [חוק יסוד](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%99%d7%a1%d7%95%d7%93) | N/A |
+| 20 | [פרס נובל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%a0%d7%95%d7%91%d7%9c) | N/A |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 22 | [בית שאן](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%90%d7%9f) | N/A |
+| 23 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 24 | [מתן כהנא](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%9b%d7%94%d7%a0%d7%90) | N/A |
+| 25 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 26 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
+| 27 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 28 | [ראש ה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94) | N/A |
+| 29 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 30 | [השם שלו](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%a9%d7%9c%d7%95) | N/A |
+| 31 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 32 | [המחאה נגד](http://twitter.com/search?q=%d7%94%d7%9e%d7%97%d7%90%d7%94+%d7%a0%d7%92%d7%93) | N/A |
+| 33 | [של ביונסה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%95%d7%a0%d7%a1%d7%94) | N/A |
+| 34 | [אלעד עמדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%93+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
+| 35 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
+| 36 | [שר משפטים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
+| 37 | [של אמסלם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
+| 38 | [שר פנים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%a4%d7%a0%d7%99%d7%9d) | N/A |
+| 39 | [משה סעדה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a1%d7%a2%d7%93%d7%94) | N/A |
+| 40 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
+| 41 | [יו״ר](http://twitter.com/search?q=%d7%99%d7%95%d7%b4%d7%a8) | N/A |
+| 42 | [דרך חזרה](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%97%d7%96%d7%a8%d7%94) | N/A |
+| 43 | [של ברדוגו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%93%d7%95%d7%92%d7%95) | N/A |
+| 44 | [שמחה רוטמן](http://twitter.com/search?q=%d7%a9%d7%9e%d7%97%d7%94+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 45 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 46 | [#ETHTLV](http://twitter.com/search?q=%23ETHTLV) | N/A |
+| 47 | [או אחר](http://twitter.com/search?q=%d7%90%d7%95+%d7%90%d7%97%d7%a8) | N/A |
+| 48 | [יואב תלם](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%aa%d7%9c%d7%9d) | N/A |
+| 49 | [יום חופש](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
+| 50 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 
 
 

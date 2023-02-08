@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-08 07:15:28 UTC`
+📆 Last Updated: `2023-02-08 08:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BestselleryEmpiku](http://twitter.com/search?q=%23BestselleryEmpiku) | N/A |
-| 2 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 4 | [#NBApl](http://twitter.com/search?q=%23NBApl) | N/A |
-| 5 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 6 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 3 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 4 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 5 | [#nbapl](http://twitter.com/search?q=%23nbapl) | N/A |
+| 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 7 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
 | 8 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 9 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 10 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 9 | [Cortland](http://twitter.com/search?q=Cortland) | N/A |
+| 10 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
 | 11 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 12 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 13 | [Szymczyk](http://twitter.com/search?q=Szymczyk) | N/A |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 12 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 13 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 14 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 15 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
 | 16 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 17 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 18 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 19 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 20 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 21 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 22 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 23 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
-| 24 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 25 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 26 | [krajowym zasobie nieruchomości](http://twitter.com/search?q=krajowym+zasobie+nieruchomo%c5%9bci) | N/A |
-| 27 | [jelczach](http://twitter.com/search?q=jelczach) | N/A |
-| 28 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 29 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 30 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
-| 31 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
-| 32 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
-| 33 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 34 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 35 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
-| 36 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 37 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 38 | [władek](http://twitter.com/search?q=w%c5%82adek) | N/A |
-| 39 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 41 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 42 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 43 | [Łotwie](http://twitter.com/search?q=%c5%81otwie) | N/A |
-| 44 | [ślązaków](http://twitter.com/search?q=%c5%9bl%c4%85zak%c3%b3w) | N/A |
-| 45 | [Łżesz](http://twitter.com/search?q=%c5%81%c5%bcesz) | N/A |
-| 46 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 47 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
-| 48 | [pkp intercity](http://twitter.com/search?q=pkp+intercity) | N/A |
-| 49 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 50 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 19 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
+| 20 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 21 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 22 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 23 | [Izerskich](http://twitter.com/search?q=Izerskich) | N/A |
+| 24 | [dobrego](http://twitter.com/search?q=dobrego) | N/A |
+| 25 | [iSpot](http://twitter.com/search?q=iSpot) | N/A |
+| 26 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 27 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
+| 28 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 29 | [Dzien](http://twitter.com/search?q=Dzien) | N/A |
+| 30 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 31 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 32 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 33 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
+| 34 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 35 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
+| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 37 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
+| 38 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 39 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 40 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 41 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 42 | [Spokojnego](http://twitter.com/search?q=Spokojnego) | N/A |
+| 43 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 44 | [Krajowym Zasobie Nieruchomości](http://twitter.com/search?q=Krajowym+Zasobie+Nieruchomo%c5%9bci) | N/A |
+| 45 | [Tygryska](http://twitter.com/search?q=Tygryska) | N/A |
+| 46 | [dawid podsiadło](http://twitter.com/search?q=dawid+podsiad%c5%82o) | N/A |
+| 47 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 48 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 49 | [pkp intercity](http://twitter.com/search?q=pkp+intercity) | N/A |
+| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 
 
 

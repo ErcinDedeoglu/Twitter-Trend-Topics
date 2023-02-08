@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-08 07:15:17 UTC`
+📆 Last Updated: `2023-02-08 08:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 2 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 6 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 9 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 7 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 8 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 9 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
 | 10 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 12 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 13 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
-| 14 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 15 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 16 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
-| 17 | [#SHUWRE](http://twitter.com/search?q=%23SHUWRE) | N/A |
-| 18 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 11 | [Billy Sharp](http://twitter.com/search?q=Billy+Sharp) | N/A |
+| 12 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 13 | [#DELT](http://twitter.com/search?q=%23DELT) | N/A |
+| 14 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 15 | [Daily Quordle 380](http://twitter.com/search?q=Daily+Quordle+380) | N/A |
+| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 17 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 19 | [King James](http://twitter.com/search?q=King+James) | N/A |
 | 20 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 22 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 25 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 26 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 27 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 28 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
-| 29 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 21 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 23 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 24 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
+| 25 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 26 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 29 | [David Carrick](http://twitter.com/search?q=David+Carrick) | David Carrick is a Scottish surname. It is derived from the Gaelic Mac Tharraigh, meaning "son of Thor". The name is most commonly associated with the Clan Carrick, a Scottish clan from Ayrshire. |
+| 30 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
 | 31 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
 | 32 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 33 | [Greg Hands](http://twitter.com/search?q=Greg+Hands) | N/A |
-| 34 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 35 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 36 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 41 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 42 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 44 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
-| 45 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 47 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 48 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 49 | [Deputy Chairman](http://twitter.com/search?q=Deputy+Chairman) | N/A |
-| 50 | [Joe Allen](http://twitter.com/search?q=Joe+Allen) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [Queen of Scots](http://twitter.com/search?q=Queen+of+Scots) | N/A |
+| 35 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 36 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 37 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
+| 38 | [Wordle 599 X](http://twitter.com/search?q=Wordle+599+X) | N/A |
+| 39 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 40 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 41 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 42 | [Roy Walker](http://twitter.com/search?q=Roy+Walker) | N/A |
+| 43 | [Lord's Prayer](http://twitter.com/search?q=Lord%27s+Prayer) | N/A |
+| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 45 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [colby](http://twitter.com/search?q=colby) | N/A |
+| 48 | [Coulibaly](http://twitter.com/search?q=Coulibaly) | N/A |
+| 49 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 50 | [Lettie](http://twitter.com/search?q=Lettie) | N/A |
 
 
 

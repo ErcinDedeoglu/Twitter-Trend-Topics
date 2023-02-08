@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-08 07:15:29 UTC`
+📆 Last Updated: `2023-02-08 08:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [France](</France>)
 | 2 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 3 | [#manif7fevrier](http://twitter.com/search?q=%23manif7fevrier) | N/A |
 | 4 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 7 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 8 | [#NBAextra](http://twitter.com/search?q=%23NBAextra) | N/A |
-| 9 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 10 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 11 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 12 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 6 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 7 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 8 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 9 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 10 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [TotalEnergies](http://twitter.com/search?q=TotalEnergies) | N/A |
 | 13 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 14 | [LeGoat James](http://twitter.com/search?q=LeGoat+James) | N/A |
-| 15 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 16 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 17 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 18 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 19 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 20 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 21 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 22 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 23 | [IL L'A FAIT](http://twitter.com/search?q=IL+L%27A+FAIT) | N/A |
-| 24 | [JOUR DE CLASSIQUE](http://twitter.com/search?q=JOUR+DE+CLASSIQUE) | N/A |
-| 25 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 28 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 29 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 30 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 31 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 32 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 33 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 34 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 35 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 36 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
-| 37 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
-| 38 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 39 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 40 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 41 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 42 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 44 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
+| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 15 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 16 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 17 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 19 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 20 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 21 | [Condamné 11](http://twitter.com/search?q=Condamn%c3%a9+11) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [Jour de Classico](http://twitter.com/search?q=Jour+de+Classico) | N/A |
+| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 25 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 28 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
+| 29 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 30 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 31 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 32 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 33 | [Lechypre](http://twitter.com/search?q=Lechypre) | N/A |
+| 34 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 35 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
+| 36 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
+| 37 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
+| 38 | [IL L'A FAIT](http://twitter.com/search?q=IL+L%27A+FAIT) | N/A |
+| 39 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 41 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 42 | [steve lomas](http://twitter.com/search?q=steve+lomas) | N/A |
+| 43 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
+| 44 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
 | 45 | [Alexis Pinturault](http://twitter.com/search?q=Alexis+Pinturault) | N/A |
-| 46 | [Daniel Defert](http://twitter.com/search?q=Daniel+Defert) | N/A |
-| 47 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 48 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 49 | [Bonjour Sandrine](http://twitter.com/search?q=Bonjour+Sandrine) | N/A |
+| 46 | [Mc 7](http://twitter.com/search?q=Mc+7) | N/A |
+| 47 | [Aziliz](http://twitter.com/search?q=Aziliz) | N/A |
+| 48 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 49 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
 
 
 
