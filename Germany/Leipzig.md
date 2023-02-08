@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-08 20:15:53 UTC`
+📆 Last Updated: `2023-02-08 21:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 2 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
 | 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 4 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
-| 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 7 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 8 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
-| 9 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 10 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 12 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 13 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 14 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 15 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 16 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 17 | [Secure VPN](http://twitter.com/search?q=Secure+VPN) | N/A |
-| 18 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 19 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 20 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 21 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 22 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 23 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 25 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 26 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 27 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
-| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 29 | [Pipelines](http://twitter.com/search?q=Pipelines) | N/A |
-| 30 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 31 | [Oberhausen](http://twitter.com/search?q=Oberhausen) | N/A |
-| 32 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 33 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 34 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 35 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 36 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 37 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 38 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
-| 39 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 40 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 41 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 42 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 43 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 44 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 45 | [umgangs](http://twitter.com/search?q=umgangs) | N/A |
-| 46 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
+| 4 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 5 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 6 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 7 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 8 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 9 | [Acker](http://twitter.com/search?q=Acker) | N/A |
+| 10 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 11 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 12 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 13 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 14 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 15 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
+| 16 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 18 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 19 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
+| 20 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 23 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 25 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 27 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 28 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 30 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 31 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 32 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 34 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 35 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 37 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 38 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 39 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 40 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
+| 41 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 42 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
+| 43 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 44 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 45 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
+| 46 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
+| 47 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 48 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
 
 
 

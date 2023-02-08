@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-08 20:15:56 UTC`
+📆 Last Updated: `2023-02-08 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [#HalaMadridYNadaMas](http://twitter.com/search?q=%23HalaMadridYNadaMas) | N/A |
-| 3 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 6 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 7 | [#COAC2023C3](http://twitter.com/search?q=%23COAC2023C3) | N/A |
-| 8 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 9 | [#Pasapalabra700](http://twitter.com/search?q=%23Pasapalabra700) | N/A |
-| 10 | [Operación Camarón](http://twitter.com/search?q=Operaci%c3%b3n+Camar%c3%b3n) | N/A |
-| 11 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 12 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 13 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 14 | [#EcharALaMonarquía](http://twitter.com/search?q=%23EcharALaMonarqu%c3%ada) | N/A |
-| 15 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 16 | [Salce Elvira](http://twitter.com/search?q=Salce+Elvira) | N/A |
-| 17 | [Telecinco](http://twitter.com/search?q=Telecinco) | N/A |
-| 18 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 19 | [Enrique López](http://twitter.com/search?q=Enrique+L%c3%b3pez) | N/A |
-| 20 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 21 | [Manu Carreño](http://twitter.com/search?q=Manu+Carre%c3%b1o) | N/A |
-| 22 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 23 | [Rodry](http://twitter.com/search?q=Rodry) | N/A |
-| 24 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 25 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 26 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 27 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 28 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 29 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
-| 30 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
-| 31 | [Evole](http://twitter.com/search?q=Evole) | N/A |
-| 32 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 33 | [Demoledor](http://twitter.com/search?q=Demoledor) | N/A |
-| 34 | [Cristina Fallarás](http://twitter.com/search?q=Cristina+Fallar%c3%a1s) | N/A |
-| 35 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 36 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 37 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
-| 38 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
-| 39 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 40 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 41 | [Ada Colau](http://twitter.com/search?q=Ada+Colau) | N/A |
-| 42 | [Llop](http://twitter.com/search?q=Llop) | N/A |
-| 43 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
-| 44 | [Tente](http://twitter.com/search?q=Tente) | N/A |
-| 45 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
-| 46 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 47 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 48 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
-| 49 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 50 | [Almudena](http://twitter.com/search?q=Almudena) | N/A |
+| 1 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 2 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 4 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 5 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 6 | [#COAC2023C3](http://twitter.com/search?q=%23COAC2023C3) | N/A |
+| 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 8 | [Operación Camarón](http://twitter.com/search?q=Operaci%c3%b3n+Camar%c3%b3n) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
+| 11 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 13 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 14 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 15 | [#firstdates8f](http://twitter.com/search?q=%23firstdates8f) | N/A |
+| 16 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 17 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 18 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 19 | [#Solos8F](http://twitter.com/search?q=%23Solos8F) | N/A |
+| 20 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 21 | [Telecinco](http://twitter.com/search?q=Telecinco) | N/A |
+| 22 | [Carreño](http://twitter.com/search?q=Carre%c3%b1o) | N/A |
+| 23 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 25 | [Salce Elvira](http://twitter.com/search?q=Salce+Elvira) | N/A |
+| 26 | [Alioli](http://twitter.com/search?q=Alioli) | N/A |
+| 27 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
+| 28 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 29 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 30 | [Enrique López](http://twitter.com/search?q=Enrique+L%c3%b3pez) | N/A |
+| 31 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 32 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 33 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 34 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 35 | [Granadilla](http://twitter.com/search?q=Granadilla) | N/A |
+| 36 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 37 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 39 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 40 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 41 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
+| 42 | [Evole](http://twitter.com/search?q=Evole) | N/A |
+| 43 | [Colau](http://twitter.com/search?q=Colau) | N/A |
+| 44 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
+| 45 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
+| 46 | [Demoledor](http://twitter.com/search?q=Demoledor) | N/A |
+| 47 | [Lydia Lozano](http://twitter.com/search?q=Lydia+Lozano) | N/A |
+| 48 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 49 | [Silksong](http://twitter.com/search?q=Silksong) | N/A |
+| 50 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
 
 
 

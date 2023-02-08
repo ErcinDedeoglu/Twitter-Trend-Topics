@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-08 20:15:57 UTC`
+📆 Last Updated: `2023-02-08 21:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 3 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 4 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 5 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
 | 6 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 7 | [#TBS23](http://twitter.com/search?q=%23TBS23) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 10 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 11 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 12 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
-| 13 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 14 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 15 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
-| 16 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 17 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 18 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 21 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 22 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 23 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 25 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 9 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 10 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 11 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 12 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 13 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 14 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 15 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 16 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
+| 17 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 18 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 20 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
+| 21 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 22 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 23 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 24 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 25 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
 | 26 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 27 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 28 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 29 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 30 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 31 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 32 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 33 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
-| 34 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 35 | [Pardon](http://twitter.com/search?q=Pardon) | N/A |
-| 36 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 38 | [Supprime](http://twitter.com/search?q=Supprime) | N/A |
-| 39 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 40 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
-| 43 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 44 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 45 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 46 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 47 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 48 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 27 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
+| 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 30 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 31 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 32 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 33 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 34 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 35 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 36 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 37 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 38 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 40 | [Supprime](http://twitter.com/search?q=Supprime) | N/A |
+| 41 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
+| 42 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
+| 45 | [Griff](http://twitter.com/search?q=Griff) | N/A |
+| 46 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 47 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
+| 48 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
 
 
 

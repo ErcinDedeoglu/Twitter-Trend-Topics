@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-08 20:16:35 UTC`
+📆 Last Updated: `2023-02-08 21:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 3 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
-| 4 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
-| 7 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 10 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
-| 11 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 12 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 13 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 14 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 15 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 16 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 17 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 18 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 19 | [Secure VPN](http://twitter.com/search?q=Secure+VPN) | N/A |
-| 20 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 2 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
+| 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 4 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
+| 5 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 6 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 7 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 8 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 9 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 10 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 11 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 12 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 13 | [Acker](http://twitter.com/search?q=Acker) | N/A |
+| 14 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 15 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 16 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
+| 17 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 20 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
 | 21 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 22 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 23 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 25 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 26 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 27 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 28 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 30 | [Pipelines](http://twitter.com/search?q=Pipelines) | N/A |
-| 31 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 32 | [Oberhausen](http://twitter.com/search?q=Oberhausen) | N/A |
-| 33 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 34 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 35 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 36 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 37 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 38 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 39 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
-| 40 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 41 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
-| 42 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 43 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 44 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
-| 45 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 46 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [umgangs](http://twitter.com/search?q=umgangs) | N/A |
-| 49 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 50 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 22 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
+| 23 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 24 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 25 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 26 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 27 | [#tvtotal](http://twitter.com/search?q=%23tvtotal) | N/A |
+| 28 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 29 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 30 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 31 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
+| 32 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 33 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 34 | [#MH17](http://twitter.com/search?q=%23MH17) | N/A |
+| 35 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 36 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 37 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 38 | [#Erdogan](http://twitter.com/search?q=%23Erdogan) | N/A |
+| 39 | [#ErdbebenInSyrien](http://twitter.com/search?q=%23ErdbebenInSyrien) | N/A |
 
 
 

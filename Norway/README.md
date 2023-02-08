@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-08 20:16:38 UTC`
+📆 Last Updated: `2023-02-08 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
-| 2 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 3 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 4 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 7 | [Sian](http://twitter.com/search?q=Sian) | N/A |
-| 8 | [#SDGbergen23](http://twitter.com/search?q=%23SDGbergen23) | N/A |
-| 9 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [Noreg](http://twitter.com/search?q=Noreg) | N/A |
-| 13 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
-| 14 | [#FraRiksen](http://twitter.com/search?q=%23FraRiksen) | N/A |
-| 15 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 16 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
-| 17 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 18 | [Harstad](http://twitter.com/search?q=Harstad) | N/A |
-| 19 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 20 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 21 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 24 | [$SHINU](http://twitter.com/search?q=%24SHINU) | N/A |
-| 25 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 26 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 27 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 28 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 29 | [Jayden Nelson](http://twitter.com/search?q=Jayden+Nelson) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
-| 32 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 33 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 36 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 37 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 38 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 39 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
-| 40 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 41 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 42 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 43 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
-| 44 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 1 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 3 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 4 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 5 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 6 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 7 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 9 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 11 | [Bjerke](http://twitter.com/search?q=Bjerke) | N/A |
+| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 13 | [Sian](http://twitter.com/search?q=Sian) | N/A |
+| 14 | [#SDGbergen23](http://twitter.com/search?q=%23SDGbergen23) | N/A |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 17 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 20 | [Noreg](http://twitter.com/search?q=Noreg) | N/A |
+| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 22 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
+| 23 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 24 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
+| 25 | [Harstad](http://twitter.com/search?q=Harstad) | N/A |
+| 26 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
+| 27 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 29 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 30 | [$SHINU](http://twitter.com/search?q=%24SHINU) | N/A |
+| 31 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 35 | [Jayden Nelson](http://twitter.com/search?q=Jayden+Nelson) | N/A |
+| 36 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 37 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
+| 38 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 39 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 42 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 43 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 44 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 45 | [Dersom](http://twitter.com/search?q=Dersom) | N/A |
-| 46 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 47 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 48 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
-| 49 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 50 | [Regner](http://twitter.com/search?q=Regner) | N/A |
+| 46 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
+| 47 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 48 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 49 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 50 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-08 20:16:29 UTC`
+📆 Last Updated: `2023-02-08 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 3 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
-| 4 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 5 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 6 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
-| 7 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 8 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
-| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 10 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 11 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
-| 12 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 13 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 14 | [#VastGGHogwartsLegacy](http://twitter.com/search?q=%23VastGGHogwartsLegacy) | N/A |
-| 15 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 16 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 17 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 18 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
-| 19 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 22 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 23 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 24 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 25 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 26 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 28 | [Dome](http://twitter.com/search?q=Dome) | N/A |
-| 29 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 30 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 31 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
-| 32 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
-| 33 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 34 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
-| 35 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 36 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 37 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 38 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 39 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
-| 40 | [Chrissy Teigen](http://twitter.com/search?q=Chrissy+Teigen) | N/A |
-| 41 | [Team B](http://twitter.com/search?q=Team+B) | N/A |
-| 42 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 43 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
-| 44 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
-| 45 | [Billiam](http://twitter.com/search?q=Billiam) | N/A |
-| 46 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
-| 47 | [Trefoils](http://twitter.com/search?q=Trefoils) | N/A |
-| 48 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 49 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 50 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 3 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 4 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 5 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 6 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 7 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
+| 8 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 9 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 10 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 11 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 12 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 13 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 15 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 16 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 17 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 20 | [#VastGGHogwartsLegacy](http://twitter.com/search?q=%23VastGGHogwartsLegacy) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 25 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 26 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 27 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 28 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 29 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 30 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 31 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 32 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
+| 33 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
+| 34 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 35 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 36 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 37 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 38 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
+| 41 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 43 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 44 | [Clay Higgins](http://twitter.com/search?q=Clay+Higgins) | N/A |
+| 45 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
+| 46 | [IM SEEING TXT](http://twitter.com/search?q=IM+SEEING+TXT) | N/A |
+| 47 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 48 | [Elliot Gindi](http://twitter.com/search?q=Elliot+Gindi) | N/A |
+| 49 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 50 | [Dome](http://twitter.com/search?q=Dome) | N/A |
 
 
 

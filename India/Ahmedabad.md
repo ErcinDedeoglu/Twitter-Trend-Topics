@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-02-08 20:16:18 UTC`
+📆 Last Updated: `2023-02-08 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PIYA RE AUDIO OUT NOW](http://twitter.com/search?q=PIYA+RE+AUDIO+OUT+NOW) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 4 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 5 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 6 | [Sushant An Enigma](http://twitter.com/search?q=Sushant+An+Enigma) | N/A |
-| 7 | [BHOLAA HAVOC IN 50DAYS](http://twitter.com/search?q=BHOLAA+HAVOC+IN+50DAYS) | N/A |
-| 8 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 9 | [POCSO Act](http://twitter.com/search?q=POCSO+Act) | N/A |
-| 10 | [Non Bailable Warrant](http://twitter.com/search?q=Non+Bailable+Warrant) | N/A |
-| 11 | [Our Journalists](http://twitter.com/search?q=Our+Journalists) | N/A |
-| 12 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
-| 13 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 14 | [दुष्यंत कुमार](http://twitter.com/search?q=%e0%a4%a6%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%af%e0%a4%82%e0%a4%a4+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 15 | [Raval](http://twitter.com/search?q=Raval) | N/A |
+| 1 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 2 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 4 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 5 | [PIYA RE AUDIO OUT NOW](http://twitter.com/search?q=PIYA+RE+AUDIO+OUT+NOW) | N/A |
+| 6 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 7 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 8 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 11 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 12 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 14 | [Sushant An Enigma](http://twitter.com/search?q=Sushant+An+Enigma) | N/A |
+| 15 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 16 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 17 | [Modiji](http://twitter.com/search?q=Modiji) | N/A |
+| 17 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 18 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
-| 19 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 20 | [Pant](http://twitter.com/search?q=Pant) | Pant is a verb meaning to breathe heavily and quickly, usually due to exertion or excitement. It is often used in the phrase "panting for breath". |
-| 21 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 24 | [Border Gavaskar Trophy](http://twitter.com/search?q=Border+Gavaskar+Trophy) | N/A |
-| 25 | [#NarendraModiSpeech](http://twitter.com/search?q=%23NarendraModiSpeech) | N/A |
-| 26 | [#ModiInParliament](http://twitter.com/search?q=%23ModiInParliament) | N/A |
-| 27 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
-| 28 | [#TwitterBlue](http://twitter.com/search?q=%23TwitterBlue) | N/A |
-| 29 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 30 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 31 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 32 | [#ASKGASH](http://twitter.com/search?q=%23ASKGASH) | N/A |
-| 33 | [#PriyankaChaharChoudhary](http://twitter.com/search?q=%23PriyankaChaharChoudhary) | N/A |
-| 34 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 35 | [#भागता_चोर_रसिया](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%a4%e0%a4%be_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 36 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 37 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
-| 38 | [#ChocolateDay](http://twitter.com/search?q=%23ChocolateDay) | N/A |
-| 39 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
-| 40 | [#Dada](http://twitter.com/search?q=%23Dada) | N/A |
-| 41 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
-| 42 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
-| 43 | [#Spadikam](http://twitter.com/search?q=%23Spadikam) | N/A |
-| 44 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 45 | [#Kavin](http://twitter.com/search?q=%23Kavin) | N/A |
-| 46 | [#PMModiInLoksabha](http://twitter.com/search?q=%23PMModiInLoksabha) | N/A |
+| 19 | [Pant](http://twitter.com/search?q=Pant) | Pant is a verb meaning to breathe heavily and quickly, usually due to exertion or excitement. It is often used in the phrase "panting for breath". |
+| 20 | [#TwitterBlue](http://twitter.com/search?q=%23TwitterBlue) | N/A |
+| 21 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
+| 22 | [#NarendraModiSpeech](http://twitter.com/search?q=%23NarendraModiSpeech) | N/A |
+| 23 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 24 | [#ModiInParliament](http://twitter.com/search?q=%23ModiInParliament) | N/A |
+| 25 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 26 | [#ASKGASH](http://twitter.com/search?q=%23ASKGASH) | N/A |
+| 27 | [#PriyankaChaharChoudhary](http://twitter.com/search?q=%23PriyankaChaharChoudhary) | N/A |
+| 28 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 29 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 30 | [#भागता_चोर_रसिया](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%a4%e0%a4%be_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 31 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 32 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
+| 33 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
+| 34 | [#ChocolateDay](http://twitter.com/search?q=%23ChocolateDay) | N/A |
+| 35 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
+| 36 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
+| 37 | [#Dada](http://twitter.com/search?q=%23Dada) | N/A |
+| 38 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
+| 39 | [#Spadikam](http://twitter.com/search?q=%23Spadikam) | N/A |
+| 40 | [#Kavin](http://twitter.com/search?q=%23Kavin) | N/A |
+| 41 | [#ParliamentSession](http://twitter.com/search?q=%23ParliamentSession) | N/A |
+| 42 | [#WriteAPageADay](http://twitter.com/search?q=%23WriteAPageADay) | N/A |
+| 43 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
+| 44 | [#ModiAgainin2024](http://twitter.com/search?q=%23ModiAgainin2024) | N/A |
+| 45 | [#Modiji](http://twitter.com/search?q=%23Modiji) | N/A |
 
 
 

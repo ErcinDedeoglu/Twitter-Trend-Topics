@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-08 20:16:30 UTC`
+📆 Last Updated: `2023-02-08 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
-| 3 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 4 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 1 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 2 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 3 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
+| 4 | [Conley](http://twitter.com/search?q=Conley) | N/A |
 | 5 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 6 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 7 | [#VastGGHogwartsLegacy](http://twitter.com/search?q=%23VastGGHogwartsLegacy) | N/A |
-| 8 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 9 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
-| 10 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 12 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 13 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 14 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 15 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 18 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 19 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 22 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 23 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 24 | [Dome](http://twitter.com/search?q=Dome) | N/A |
-| 25 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 26 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 27 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
-| 28 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
-| 29 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 30 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
-| 31 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 32 | [Chrissy Teigen](http://twitter.com/search?q=Chrissy+Teigen) | N/A |
-| 33 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 34 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 35 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 36 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
-| 37 | [Team B](http://twitter.com/search?q=Team+B) | N/A |
-| 38 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 39 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
-| 40 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
-| 41 | [Billiam](http://twitter.com/search?q=Billiam) | N/A |
-| 42 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
-| 43 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 44 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 45 | [Trefoils](http://twitter.com/search?q=Trefoils) | N/A |
-| 46 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 47 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 49 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
-| 50 | [AD for KD](http://twitter.com/search?q=AD+for+KD) | N/A |
+| 6 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 7 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 8 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 9 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 10 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 11 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 12 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 13 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 14 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 15 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 16 | [#VastGGHogwartsLegacy](http://twitter.com/search?q=%23VastGGHogwartsLegacy) | N/A |
+| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 18 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 21 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 22 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 23 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 24 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 26 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
+| 27 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 28 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 29 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
+| 30 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 31 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 32 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 33 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 34 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
+| 37 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 38 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 39 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 40 | [IM SEEING TXT](http://twitter.com/search?q=IM+SEEING+TXT) | N/A |
+| 41 | [Clay Higgins](http://twitter.com/search?q=Clay+Higgins) | N/A |
+| 42 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 43 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
+| 44 | [Elliot Gindi](http://twitter.com/search?q=Elliot+Gindi) | N/A |
+| 45 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 46 | [Dome](http://twitter.com/search?q=Dome) | N/A |
+| 47 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 48 | [Team B](http://twitter.com/search?q=Team+B) | N/A |
+| 49 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
 
 
 

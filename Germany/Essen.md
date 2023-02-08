@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-08 20:15:52 UTC`
+📆 Last Updated: `2023-02-08 21:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 4 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
+| 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 2 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
+| 3 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
+| 4 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
-| 7 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 10 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
-| 11 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 12 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 13 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 14 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 6 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 7 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 8 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 9 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 10 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 11 | [Acker](http://twitter.com/search?q=Acker) | N/A |
+| 12 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 13 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 15 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 16 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 17 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 18 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 19 | [Secure VPN](http://twitter.com/search?q=Secure+VPN) | N/A |
-| 20 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 21 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 22 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 23 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 25 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 26 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 27 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 28 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 29 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
-| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 31 | [Pipelines](http://twitter.com/search?q=Pipelines) | N/A |
-| 32 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 33 | [Oberhausen](http://twitter.com/search?q=Oberhausen) | N/A |
-| 34 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 35 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 36 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 37 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 38 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 39 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 40 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
-| 41 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 42 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 43 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
-| 46 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 47 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 48 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 16 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
+| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 19 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
+| 20 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 21 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 22 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 27 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 28 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 29 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 30 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 31 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 32 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 33 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 34 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 36 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 37 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 38 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 40 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
+| 41 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 42 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 43 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
+| 44 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
+| 45 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 46 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 47 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 48 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
+| 49 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 50 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 
 
 

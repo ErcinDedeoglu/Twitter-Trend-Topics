@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-08 20:16:07 UTC`
+📆 Last Updated: `2023-02-08 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
 | 10 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
 | 11 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
-| 12 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 13 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 14 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
-| 15 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
-| 16 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 17 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 18 | [JANENELLA AngTunayNaBIDA](http://twitter.com/search?q=JANENELLA+AngTunayNaBIDA) | N/A |
-| 19 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 20 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
-| 21 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 22 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 23 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 24 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 25 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 27 | [WE LOVE YOU AESPA](http://twitter.com/search?q=WE+LOVE+YOU+AESPA) | N/A |
-| 28 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
+| 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 13 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 14 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 15 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 16 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
+| 17 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
+| 18 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
+| 19 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 20 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 21 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 22 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
+| 23 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 24 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 26 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
+| 27 | [straydogs mv teaser](http://twitter.com/search?q=straydogs+mv+teaser) | N/A |
+| 28 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
 | 29 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 30 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
-| 31 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
-| 32 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 33 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 34 | [ria is coming](http://twitter.com/search?q=ria+is+coming) | N/A |
-| 35 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
-| 36 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
-| 37 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 38 | [MY JAKEWON](http://twitter.com/search?q=MY+JAKEWON) | N/A |
-| 39 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 40 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
-| 41 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 42 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 43 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
-| 44 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 45 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
-| 46 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 47 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 48 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 49 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 50 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
+| 30 | [birthday na ni](http://twitter.com/search?q=birthday+na+ni) | N/A |
+| 31 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 32 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
+| 33 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
+| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 35 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
+| 36 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 37 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 38 | [WE LOVE YOU AESPA](http://twitter.com/search?q=WE+LOVE+YOU+AESPA) | N/A |
+| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 40 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 41 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
+| 42 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 43 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 44 | [MY JAKEWON](http://twitter.com/search?q=MY+JAKEWON) | N/A |
+| 45 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 46 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
+| 47 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 48 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
+| 49 | [Chungha](http://twitter.com/search?q=Chungha) | N/A |
+| 50 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
 
 
 

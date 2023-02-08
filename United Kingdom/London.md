@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-08 20:15:39 UTC`
+📆 Last Updated: `2023-02-08 21:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 2 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 3 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 4 | [Size](http://twitter.com/search?q=Size) | N/A |
-| 5 | [Bromby](http://twitter.com/search?q=Bromby) | N/A |
-| 6 | [#FightingASongOrFilm](http://twitter.com/search?q=%23FightingASongOrFilm) | N/A |
-| 7 | [#ToriesOut216](http://twitter.com/search?q=%23ToriesOut216) | N/A |
-| 8 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 9 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 10 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 11 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 13 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 14 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 15 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 16 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 17 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 18 | [Medium](http://twitter.com/search?q=Medium) | N/A |
-| 19 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 21 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
-| 22 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 23 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 24 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 25 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 26 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 27 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
-| 28 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 29 | [Linfield](http://twitter.com/search?q=Linfield) | N/A |
-| 30 | [Sunderland v Fulham](http://twitter.com/search?q=Sunderland+v+Fulham) | N/A |
-| 31 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 32 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 33 | [Typhoon](http://twitter.com/search?q=Typhoon) | N/A |
-| 34 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
-| 35 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 36 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 37 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 38 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
-| 39 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 40 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 41 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
-| 42 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 43 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 44 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 45 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
-| 46 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 47 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 48 | [Askey](http://twitter.com/search?q=Askey) | N/A |
-| 49 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 1 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 2 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 3 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 4 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 5 | [Typhoon](http://twitter.com/search?q=Typhoon) | N/A |
+| 6 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [#ToriesOut216](http://twitter.com/search?q=%23ToriesOut216) | N/A |
+| 9 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 10 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 11 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 12 | [Radz](http://twitter.com/search?q=Radz) | N/A |
+| 13 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 14 | [CofE](http://twitter.com/search?q=CofE) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 16 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 17 | [Welby](http://twitter.com/search?q=Welby) | N/A |
+| 18 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 25 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 26 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 27 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 28 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 29 | [Wober](http://twitter.com/search?q=Wober) | Wober is a slang term used to describe someone who is acting in a foolish or silly manner. It is derived from the phrase "wobbling around," which implies that the person is behaving erratically or clumsily. |
+| 30 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 31 | [Medium](http://twitter.com/search?q=Medium) | N/A |
+| 32 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 33 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
+| 34 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 35 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 36 | [Struijk](http://twitter.com/search?q=Struijk) | Struijk is a Dutch surname. It is derived from the Dutch word "struik," which means "bush" or "shrub." The name likely originated as a nickname for someone who lived near a bush or shrub. In English, the name would be translated as "Bush." |
+| 37 | [Duffy](http://twitter.com/search?q=Duffy) | N/A |
+| 38 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 41 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 42 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 43 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 44 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 45 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 46 | [Bein](http://twitter.com/search?q=Bein) | N/A |
+| 47 | [Sunderland v Fulham](http://twitter.com/search?q=Sunderland+v+Fulham) | N/A |
+| 48 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 49 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
 
 
 
