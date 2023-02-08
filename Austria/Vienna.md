@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-08 03:17:49 UTC`
+📆 Last Updated: `2023-02-08 04:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gang](http://twitter.com/search?q=Gang) | N/A |
-| 2 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 3 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 2 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 3 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
 | 4 | [#ORFreport](http://twitter.com/search?q=%23ORFreport) | N/A |
 | 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 6 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
 | 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 19 | [Helfer](http://twitter.com/search?q=Helfer) | N/A |
-| 20 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
+| 20 | [köpfe](http://twitter.com/search?q=k%c3%b6pfe) | N/A |
 | 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 22 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
 | 23 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
@@ -44,9 +44,9 @@ This is top 50 for [Austria](</Austria>)
 | 27 | [insta](http://twitter.com/search?q=insta) | N/A |
 | 28 | [kundgebung](http://twitter.com/search?q=kundgebung) | N/A |
 | 29 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 30 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
+| 30 | [kolleg](http://twitter.com/search?q=kolleg) | N/A |
 | 31 | [teilnehmer](http://twitter.com/search?q=teilnehmer) | N/A |
-| 32 | [lehre](http://twitter.com/search?q=lehre) | N/A |
+| 32 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
 | 33 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 34 | [gelände](http://twitter.com/search?q=gel%c3%a4nde) | N/A |
 | 35 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
@@ -63,7 +63,7 @@ This is top 50 for [Austria](</Austria>)
 | 46 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
 | 47 | [skifahren](http://twitter.com/search?q=skifahren) | N/A |
 | 48 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 49 | [Einnahmen](http://twitter.com/search?q=Einnahmen) | N/A |
+| 49 | [einnahmen](http://twitter.com/search?q=einnahmen) | N/A |
 | 50 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
 
 

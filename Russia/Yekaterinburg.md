@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yekaterinburg
 
-📆 Last Updated: `2023-02-08 03:18:10 UTC`
+📆 Last Updated: `2023-02-08 04:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,15 +25,15 @@ This is top 50 for [Russia](</Russia>)
 | 8 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
 | 9 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [Мария](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%8f) | N/A |
+| 11 | [мария](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%8f) | N/A |
 | 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 13 | [дудь](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8c) | N/A |
 | 14 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 15 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 16 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 16 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 | 17 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
 | 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Ху Тао](http://twitter.com/search?q=%d0%a5%d1%83+%d0%a2%d0%b0%d0%be) | N/A |
+| 19 | [ху тао](http://twitter.com/search?q=%d1%85%d1%83+%d1%82%d0%b0%d0%be) | N/A |
 | 20 | [Хогвартс](http://twitter.com/search?q=%d0%a5%d0%be%d0%b3%d0%b2%d0%b0%d1%80%d1%82%d1%81) | N/A |
 | 21 | [окей](http://twitter.com/search?q=%d0%be%d0%ba%d0%b5%d0%b9) | N/A |
 | 22 | [донбасса](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Russia](</Russia>)
 | 27 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
 | 28 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 29 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
-| 30 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 30 | [отличный](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
 | 31 | [кинопоиске](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
 | 32 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 33 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Russia](</Russia>)
 | 35 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
 | 36 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 | 37 | [стамбуле](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bc%d0%b1%d1%83%d0%bb%d0%b5) | N/A |
-| 38 | [божечки](http://twitter.com/search?q=%d0%b1%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
-| 39 | [путиным](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
-| 40 | [кайф](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b9%d1%84) | N/A |
-| 41 | [Ахуеть](http://twitter.com/search?q=%d0%90%d1%85%d1%83%d0%b5%d1%82%d1%8c) | N/A |
-| 42 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 43 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 44 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 45 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 46 | [Здравствуйте](http://twitter.com/search?q=%d0%97%d0%b4%d1%80%d0%b0%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b9%d1%82%d0%b5) | N/A |
-| 47 | [неплохо](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d0%bb%d0%be%d1%85%d0%be) | N/A |
-| 48 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 49 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
-| 50 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 38 | [Божечки](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
+| 39 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 40 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 41 | [кайф](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b9%d1%84) | N/A |
+| 42 | [Ахуеть](http://twitter.com/search?q=%d0%90%d1%85%d1%83%d0%b5%d1%82%d1%8c) | N/A |
+| 43 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 44 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 45 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 46 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 47 | [Здравствуйте](http://twitter.com/search?q=%d0%97%d0%b4%d1%80%d0%b0%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b9%d1%82%d0%b5) | N/A |
+| 48 | [неплохо](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d0%bb%d0%be%d1%85%d0%be) | N/A |
+| 49 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 50 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
 
 
 

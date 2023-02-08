@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-08 03:17:51 UTC`
+📆 Last Updated: `2023-02-08 04:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,39 +29,39 @@ This is top 50 for [Germany](</Germany>)
 | 12 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 13 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 | 14 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 15 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 16 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 18 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 19 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 17 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 19 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
 | 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 21 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 22 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 23 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 24 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 21 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 22 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 23 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
+| 24 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 25 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
 | 26 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
 | 27 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 28 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 29 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 28 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 29 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 | 30 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 31 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 32 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 33 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
-| 34 | [Masz](http://twitter.com/search?q=Masz) | N/A |
-| 35 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
-| 36 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 37 | [Helge](http://twitter.com/search?q=Helge) | N/A |
-| 38 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 39 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 40 | [lilien](http://twitter.com/search?q=lilien) | N/A |
-| 41 | [marzipan](http://twitter.com/search?q=marzipan) | N/A |
-| 42 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 43 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 44 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 45 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 46 | [menschen mit uterus](http://twitter.com/search?q=menschen+mit+uterus) | N/A |
-| 47 | [Witze](http://twitter.com/search?q=Witze) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 33 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 34 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 35 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
+| 36 | [Masz](http://twitter.com/search?q=Masz) | N/A |
+| 37 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
+| 38 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 39 | [helge](http://twitter.com/search?q=helge) | N/A |
+| 40 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 41 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 42 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
+| 43 | [marzipan](http://twitter.com/search?q=marzipan) | N/A |
+| 44 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 45 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 46 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
+| 47 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 
 
 

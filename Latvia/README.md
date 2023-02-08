@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-08 03:18:30 UTC`
+📆 Last Updated: `2023-02-08 04:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#1pret1](http://twitter.com/search?q=%231pret1) | N/A |
-| 2 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
+| 2 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 3 | [turcijā](http://twitter.com/search?q=turcij%c4%81) | N/A |
 | 4 | [vāgnera](http://twitter.com/search?q=v%c4%81gnera) | N/A |
 | 5 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Latvia
 | 17 | [#betting](http://twitter.com/search?q=%23betting) | N/A |
 | 18 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 19 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 20 | [leta](http://twitter.com/search?q=leta) | N/A |
+| 20 | [Leta](http://twitter.com/search?q=Leta) | N/A |
 | 21 | [levita](http://twitter.com/search?q=levita) | N/A |
 | 22 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 23 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Latvia
 | 32 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 33 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
 | 34 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 35 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 36 | [Visi](http://twitter.com/search?q=Visi) | N/A |
-| 37 | [neviens](http://twitter.com/search?q=neviens) | N/A |
-| 38 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 39 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 40 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
-| 41 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 42 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
-| 43 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
-| 44 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 45 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
-| 46 | [tūlīt](http://twitter.com/search?q=t%c5%abl%c4%abt) | N/A |
-| 47 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 48 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 49 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
-| 50 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 35 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 36 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 37 | [Visi](http://twitter.com/search?q=Visi) | N/A |
+| 38 | [neviens](http://twitter.com/search?q=neviens) | N/A |
+| 39 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 40 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 41 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 42 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 43 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
+| 44 | [manuprāt](http://twitter.com/search?q=manupr%c4%81t) | N/A |
+| 45 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 46 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
+| 47 | [tūlīt](http://twitter.com/search?q=t%c5%abl%c4%abt) | N/A |
+| 48 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 49 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 50 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-08 03:18:34 UTC`
+📆 Last Updated: `2023-02-08 04:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 2 | [#acilvinc](http://twitter.com/search?q=%23acilvinc) | N/A |
-| 3 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
-| 4 | [#sondakikadeprem](http://twitter.com/search?q=%23sondakikadeprem) | N/A |
-| 5 | [Tuğba Södekoğlu](http://twitter.com/search?q=Tu%c4%9fba+S%c3%b6deko%c4%9flu) | N/A |
-| 6 | [#TürkiyeTekYürek](http://twitter.com/search?q=%23T%c3%bcrkiyeTekY%c3%bcrek) | N/A |
-| 7 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 8 | [TahaDuymaza AcilYardım](http://twitter.com/search?q=TahaDuymaza+AcilYard%c4%b1m) | N/A |
-| 9 | [DepremBölgelerine IşıkKaynağı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+I%c5%9f%c4%b1kKayna%c4%9f%c4%b1) | N/A |
-| 10 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 11 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 12 | [Çay Mahallesi 112](http://twitter.com/search?q=%c3%87ay+Mahallesi+112) | N/A |
-| 13 | [NEREDE BU DEVLET](http://twitter.com/search?q=NEREDE+BU+DEVLET) | N/A |
-| 14 | [vicdan](http://twitter.com/search?q=vicdan) | N/A |
-| 15 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 16 | [BEYZA SİTESİ NO](http://twitter.com/search?q=BEYZA+S%c4%b0TES%c4%b0+NO) | N/A |
-| 17 | [Teşekkürler Yunanistan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Yunanistan) | N/A |
-| 18 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 19 | [HATAY ANTAKYA ODABAŞI MAH](http://twitter.com/search?q=HATAY+ANTAKYA+ODABA%c5%9eI+MAH) | N/A |
-| 20 | [İpek Düğün Salonu](http://twitter.com/search?q=%c4%b0pek+D%c3%bc%c4%9f%c3%bcn+Salonu) | N/A |
-| 21 | [Can Azerbaycan](http://twitter.com/search?q=Can+Azerbaycan) | N/A |
-| 22 | [Hemen Çaprazındaki Apartman](http://twitter.com/search?q=Hemen+%c3%87apraz%c4%b1ndaki+Apartman) | N/A |
-| 23 | [Alo 183](http://twitter.com/search?q=Alo+183) | N/A |
-| 24 | [Sarı Bina](http://twitter.com/search?q=Sar%c4%b1+Bina) | N/A |
-| 25 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 26 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 27 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
-| 28 | [TÜSİAD](http://twitter.com/search?q=T%c3%9cS%c4%b0AD) | N/A |
-| 29 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
-| 30 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
-| 31 | [Çağrı](http://twitter.com/search?q=%c3%87a%c4%9fr%c4%b1) | N/A |
-| 32 | [Merih](http://twitter.com/search?q=Merih) | N/A |
-| 33 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 34 | [Rezilsiniz](http://twitter.com/search?q=Rezilsiniz) | N/A |
-| 35 | [#AdıyamanYardımBekliyor](http://twitter.com/search?q=%23Ad%c4%b1yamanYard%c4%b1mBekliyor) | N/A |
-| 36 | [#Turquia](http://twitter.com/search?q=%23Turquia) | N/A |
-| 37 | [#AHBAP](http://twitter.com/search?q=%23AHBAP) | N/A |
-| 38 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 39 | [#kahramanmas](http://twitter.com/search?q=%23kahramanmas) | N/A |
-| 40 | [#HalukLevent](http://twitter.com/search?q=%23HalukLevent) | N/A |
-| 41 | [#TurkeyEarthquake](http://twitter.com/search?q=%23TurkeyEarthquake) | N/A |
-| 42 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
-| 43 | [#ADIYAMANAFAD](http://twitter.com/search?q=%23ADIYAMANAFAD) | N/A |
-| 44 | [#özgürdemirtaş](http://twitter.com/search?q=%23%c3%b6zg%c3%bcrdemirta%c5%9f) | N/A |
-| 45 | [#Marasayetisemiyoruz](http://twitter.com/search?q=%23Marasayetisemiyoruz) | N/A |
-| 46 | [#Bistson2güniptaledilsin](http://twitter.com/search?q=%23Bistson2g%c3%bcniptaledilsin) | N/A |
-| 47 | [#HatayıKaderineTerkEtme](http://twitter.com/search?q=%23Hatay%c4%b1KaderineTerkEtme) | N/A |
-| 48 | [#ACILYARDIM](http://twitter.com/search?q=%23ACILYARDIM) | N/A |
-| 49 | [#TurkeyQuake](http://twitter.com/search?q=%23TurkeyQuake) | N/A |
-| 50 | [#depremden](http://twitter.com/search?q=%23depremden) | N/A |
+| 1 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 2 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
+| 3 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 4 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
+| 5 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
+| 6 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
+| 7 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 8 | [#özgürdemirtaş](http://twitter.com/search?q=%23%c3%b6zg%c3%bcrdemirta%c5%9f) | N/A |
+| 9 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 10 | [Enkaz](http://twitter.com/search?q=Enkaz) | N/A |
+| 11 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 12 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 13 | [Tuğba Södekoğlu](http://twitter.com/search?q=Tu%c4%9fba+S%c3%b6deko%c4%9flu) | N/A |
+| 14 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 15 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 16 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 17 | [Arkadaşımın](http://twitter.com/search?q=Arkada%c5%9f%c4%b1m%c4%b1n) | N/A |
+| 18 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
+| 19 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 20 | [Hala](http://twitter.com/search?q=Hala) | N/A |
+| 21 | [Afet](http://twitter.com/search?q=Afet) | N/A |
+| 22 | [LÜTFEN YAYALIM](http://twitter.com/search?q=L%c3%9cTFEN+YAYALIM) | N/A |
+| 23 | [Arkadaşlar](http://twitter.com/search?q=Arkada%c5%9flar) | N/A |
+| 24 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 25 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
+| 26 | [Çay Mahallesi 112](http://twitter.com/search?q=%c3%87ay+Mahallesi+112) | N/A |
+| 27 | [ESENLİK MAHALLESİ 11](http://twitter.com/search?q=ESENL%c4%b0K+MAHALLES%c4%b0+11) | N/A |
+| 28 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 29 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 30 | [Vicdan](http://twitter.com/search?q=Vicdan) | N/A |
+| 31 | [Erdoğan'dır](http://twitter.com/search?q=Erdo%c4%9fan%27d%c4%b1r) | N/A |
+| 32 | [List Price](http://twitter.com/search?q=List+Price) | N/A |
+| 33 | [Hakimbey Apt](http://twitter.com/search?q=Hakimbey+Apt) | N/A |
+| 34 | [Sait](http://twitter.com/search?q=Sait) | N/A |
+| 35 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 36 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 37 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 38 | [İpek Düğün Salonu](http://twitter.com/search?q=%c4%b0pek+D%c3%bc%c4%9f%c3%bcn+Salonu) | N/A |
+| 39 | [BEYZA SİTESİ NO](http://twitter.com/search?q=BEYZA+S%c4%b0TES%c4%b0+NO) | N/A |
+| 40 | [Teşekkürler Yunanistan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Yunanistan) | N/A |
+| 41 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
+| 42 | [Salih Gün](http://twitter.com/search?q=Salih+G%c3%bcn) | N/A |
+| 43 | [Can Azerbaycan](http://twitter.com/search?q=Can+Azerbaycan) | N/A |
+| 44 | [Hemen Çaprazındaki Apartman](http://twitter.com/search?q=Hemen+%c3%87apraz%c4%b1ndaki+Apartman) | N/A |
+| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 46 | [ALO 183](http://twitter.com/search?q=ALO+183) | N/A |
+| 47 | [Sarı Bina](http://twitter.com/search?q=Sar%c4%b1+Bina) | N/A |
+| 48 | [Kızın](http://twitter.com/search?q=K%c4%b1z%c4%b1n) | N/A |
+| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 50 | [Operatör](http://twitter.com/search?q=Operat%c3%b6r) | N/A |
 
 
 

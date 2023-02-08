@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-08 03:18:25 UTC`
+📆 Last Updated: `2023-02-08 04:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 2 | [#SJSvsTBL](http://twitter.com/search?q=%23SJSvsTBL) | N/A |
-| 3 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 4 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 5 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 6 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 7 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 8 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 9 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 10 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 11 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 12 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 14 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 16 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 17 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 18 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 20 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 21 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 22 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
-| 23 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 24 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 25 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 26 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 27 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 28 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 29 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 30 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
-| 31 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 32 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 33 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
-| 34 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 35 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
-| 36 | [Brandon Tsay](http://twitter.com/search?q=Brandon+Tsay) | N/A |
-| 37 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
-| 38 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 39 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
-| 40 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 41 | [The Talk](http://twitter.com/search?q=The+Talk) | N/A |
-| 42 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
-| 43 | [Let's Finish the Job](http://twitter.com/search?q=Let%27s+Finish+the+Job) | N/A |
-| 44 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 45 | [Junk Fee Prevention Act](http://twitter.com/search?q=Junk+Fee+Prevention+Act) | N/A |
-| 46 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 47 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 48 | [The President](http://twitter.com/search?q=The+President) | N/A |
-| 49 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 1 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 2 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 3 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 4 | [#SJSvsTBL](http://twitter.com/search?q=%23SJSvsTBL) | N/A |
+| 5 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 6 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 7 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 8 | [#GOPLiesAboutEverything](http://twitter.com/search?q=%23GOPLiesAboutEverything) | N/A |
+| 9 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 10 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 11 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
+| 12 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 13 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 14 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 15 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 17 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 18 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 19 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 21 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 22 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 24 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 25 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 26 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 27 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 28 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 29 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 30 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 32 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 33 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 34 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
+| 35 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 36 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 37 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 38 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 39 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 40 | [Jeanie Buss](http://twitter.com/search?q=Jeanie+Buss) | N/A |
+| 41 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 42 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 43 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 44 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 45 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 46 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 47 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 48 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 49 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-08 03:17:36 UTC`
+📆 Last Updated: `2023-02-08 04:15:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,53 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 2 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
 | 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 4 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 7 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 8 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 10 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 11 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 13 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 14 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
-| 15 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 16 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 17 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
-| 18 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 20 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 22 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 23 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 24 | [Premier Smith](http://twitter.com/search?q=Premier+Smith) | N/A |
-| 25 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 26 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 27 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 28 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 29 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 31 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 32 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 33 | [Provinces](http://twitter.com/search?q=Provinces) | N/A |
-| 34 | [Health Care](http://twitter.com/search?q=Health+Care) | N/A |
-| 35 | [#VersaceDylanPurple](http://twitter.com/search?q=%23VersaceDylanPurple) | N/A |
-| 36 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 37 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 38 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 39 | [#DefundCBC](http://twitter.com/search?q=%23DefundCBC) | N/A |
+| 4 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 5 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 6 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 7 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 8 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 9 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 13 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 14 | [Jack Campbell](http://twitter.com/search?q=Jack+Campbell) | N/A |
+| 15 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 16 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 17 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 18 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 19 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 20 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 21 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 22 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 23 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 24 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
+| 25 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 26 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 27 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 28 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 29 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Premier Smith](http://twitter.com/search?q=Premier+Smith) | N/A |
+| 32 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 33 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 34 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 36 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 37 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 38 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 41 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 42 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 43 | [#VersaceDylanPurple](http://twitter.com/search?q=%23VersaceDylanPurple) | N/A |
+| 44 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 45 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 46 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 47 | [#DefundCBC](http://twitter.com/search?q=%23DefundCBC) | N/A |
 
 
 

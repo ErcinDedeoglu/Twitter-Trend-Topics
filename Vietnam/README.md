@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-08 03:18:34 UTC`
+📆 Last Updated: `2023-02-08 04:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for Vietnam
 | 3 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 4 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
 | 5 | [#BeOnCloudApologizetoVNfans](http://twitter.com/search?q=%23BeOnCloudApologizetoVNfans) | N/A |
-| 6 | [#POPXChain](http://twitter.com/search?q=%23POPXChain) | N/A |
-| 7 | [#PopularEx](http://twitter.com/search?q=%23PopularEx) | N/A |
-| 8 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 9 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 6 | [#ไม่คิดถึงหนูหยอ](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%ab%e0%b8%a2%e0%b8%ad) | N/A |
+| 7 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 8 | [#50MTrueLoveByNuNew](http://twitter.com/search?q=%2350MTrueLoveByNuNew) | N/A |
+| 9 | [our best leader kim namjoon](http://twitter.com/search?q=our+best+leader+kim+namjoon) | N/A |
 | 10 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 11 | [our best leader kim namjoon](http://twitter.com/search?q=our+best+leader+kim+namjoon) | N/A |
-| 12 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
+| 11 | [they can't beet us](http://twitter.com/search?q=they+can%27t+beet+us) | N/A |
+| 12 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
 | 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 14 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 15 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 14 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 15 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
 | 16 | [jisoo at cartier thailand](http://twitter.com/search?q=jisoo+at+cartier+thailand) | N/A |
 | 17 | [SO PROUD OF YOU TAEHYUNG](http://twitter.com/search?q=SO+PROUD+OF+YOU+TAEHYUNG) | N/A |
 | 18 | [vnch](http://twitter.com/search?q=vnch) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Vietnam
 | 20 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 21 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 22 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 23 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
-| 24 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
-| 25 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 26 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 23 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 24 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
+| 25 | [AGIX](http://twitter.com/search?q=AGIX) | N/A |
+| 26 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
 | 27 | [chúa](http://twitter.com/search?q=ch%c3%baa) | N/A |
 | 28 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 29 | [Secc](http://twitter.com/search?q=Secc) | N/A |
-| 30 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 31 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 32 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
-| 33 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 34 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
+| 29 | [secc](http://twitter.com/search?q=secc) | N/A |
+| 30 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [cho-gen](http://twitter.com/search?q=cho-gen) | N/A |
+| 34 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
 | 35 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 36 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
-| 37 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 36 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
+| 37 | [shikibu](http://twitter.com/search?q=shikibu) | N/A |
+| 38 | [Idol](http://twitter.com/search?q=Idol) | N/A |
 | 39 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 40 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
 | 41 | [quốc](http://twitter.com/search?q=qu%e1%bb%91c) | N/A |
-| 42 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 43 | [source link](http://twitter.com/search?q=source+link) | N/A |
-| 44 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 45 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
-| 46 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 47 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 42 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 43 | [Mông](http://twitter.com/search?q=M%c3%b4ng) | N/A |
+| 44 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
+| 45 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 46 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
+| 47 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 48 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
 | 49 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 50 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
+| 50 | [thương](http://twitter.com/search?q=th%c6%b0%c6%a1ng) | N/A |
 
 
 

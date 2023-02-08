@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-08 03:18:12 UTC`
+📆 Last Updated: `2023-02-08 04:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [#جیل_بھرو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88) | N/A |
 | 7 | [another 7.5](http://twitter.com/search?q=another+7.5) | N/A |
 | 8 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 9 | [Shae Gill](http://twitter.com/search?q=Shae+Gill) | N/A |
-| 10 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 11 | [islamabad united](http://twitter.com/search?q=islamabad+united) | N/A |
-| 12 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 13 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
-| 14 | [asif afridi](http://twitter.com/search?q=asif+afridi) | N/A |
-| 15 | [C-130](http://twitter.com/search?q=C-130) | N/A |
-| 16 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
-| 17 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 18 | [powerful 7.8](http://twitter.com/search?q=powerful+7.8) | N/A |
-| 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 20 | [Faris shafi](http://twitter.com/search?q=Faris+shafi) | N/A |
-| 21 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 22 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 23 | [lady zainab](http://twitter.com/search?q=lady+zainab) | N/A |
-| 24 | [peter hatzoglou](http://twitter.com/search?q=peter+hatzoglou) | N/A |
-| 25 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 26 | [adam rossington](http://twitter.com/search?q=adam+rossington) | N/A |
-| 27 | [Mrs Malhotra](http://twitter.com/search?q=Mrs+Malhotra) | N/A |
-| 28 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 29 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 30 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
-| 31 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 32 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 33 | [Shahbaz Sharif](http://twitter.com/search?q=Shahbaz+Sharif) | N/A |
-| 34 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 36 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 37 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 38 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 9 | [shae gill](http://twitter.com/search?q=shae+gill) | N/A |
+| 10 | [islamabad united](http://twitter.com/search?q=islamabad+united) | N/A |
+| 11 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 12 | [Asim Azhar](http://twitter.com/search?q=Asim+Azhar) | N/A |
+| 13 | [asif afridi](http://twitter.com/search?q=asif+afridi) | N/A |
+| 14 | [c-130](http://twitter.com/search?q=c-130) | N/A |
+| 15 | [Aaron Finch](http://twitter.com/search?q=Aaron+Finch) | N/A |
+| 16 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 17 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 18 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 19 | [powerful 7.8](http://twitter.com/search?q=powerful+7.8) | N/A |
+| 20 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 21 | [Faris shafi](http://twitter.com/search?q=Faris+shafi) | N/A |
+| 22 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 23 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 24 | [lady zainab](http://twitter.com/search?q=lady+zainab) | N/A |
+| 25 | [peter hatzoglou](http://twitter.com/search?q=peter+hatzoglou) | N/A |
+| 26 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 27 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 28 | [adam rossington](http://twitter.com/search?q=adam+rossington) | N/A |
+| 29 | [mrs malhotra](http://twitter.com/search?q=mrs+malhotra) | N/A |
+| 30 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 31 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 32 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
+| 33 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 34 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 35 | [Get In Touch](http://twitter.com/search?q=Get+In+Touch) | N/A |
+| 36 | [Shahbaz Sharif](http://twitter.com/search?q=Shahbaz+Sharif) | N/A |
+| 37 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 38 | [Salman](http://twitter.com/search?q=Salman) | N/A |
 | 39 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 40 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 41 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
-| 44 | [Superb](http://twitter.com/search?q=Superb) | N/A |
-| 45 | [Army Chief](http://twitter.com/search?q=Army+Chief) | N/A |
-| 46 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 47 | [Khair](http://twitter.com/search?q=Khair) | N/A |
-| 48 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 49 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 50 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 40 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 41 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 42 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 43 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 44 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 45 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 46 | [Turks](http://twitter.com/search?q=Turks) | N/A |
+| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 49 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 50 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
 
 
 

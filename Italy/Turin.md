@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-08 03:17:53 UTC`
+📆 Last Updated: `2023-02-08 04:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 4 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
-| 5 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 6 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 7 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 8 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 9 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 10 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 11 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 13 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 14 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 15 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 16 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 17 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 18 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 19 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 20 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 21 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 22 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 23 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
-| 24 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 25 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 26 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 27 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 28 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 29 | [#blanchito](http://twitter.com/search?q=%23blanchito) | N/A |
-| 30 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
-| 31 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 32 | [Piero](http://twitter.com/search?q=Piero) | N/A |
-| 33 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 34 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
-| 35 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 4 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 5 | [#ChiaraFerragni](http://twitter.com/search?q=%23ChiaraFerragni) | N/A |
+| 6 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 7 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 8 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 9 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
+| 10 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 11 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 12 | [gianmaria](http://twitter.com/search?q=gianmaria) | N/A |
+| 13 | [#SalernitanaJuve](http://twitter.com/search?q=%23SalernitanaJuve) | N/A |
+| 14 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 15 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 16 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 17 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
+| 18 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 19 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 20 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 21 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 22 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 23 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 24 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 25 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 26 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
+| 27 | [sangiovanni](http://twitter.com/search?q=sangiovanni) | N/A |
+| 28 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 29 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
+| 30 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
+| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 32 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 33 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 34 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
+| 35 | [pensati libera](http://twitter.com/search?q=pensati+libera) | N/A |
+| 36 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 37 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 38 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 39 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
+| 40 | [paky](http://twitter.com/search?q=paky) | N/A |
+| 41 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 42 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 43 | [Califano](http://twitter.com/search?q=Califano) | N/A |
+| 44 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 45 | [Sala Stampa](http://twitter.com/search?q=Sala+Stampa) | N/A |
+| 46 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
+| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 48 | [Selvaggia Lucarelli](http://twitter.com/search?q=Selvaggia+Lucarelli) | N/A |
+| 49 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 50 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
 
 
 

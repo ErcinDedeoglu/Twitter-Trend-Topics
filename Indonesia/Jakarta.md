@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-08 03:17:57 UTC`
+📆 Last Updated: `2023-02-08 04:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PerpaniArsjadRasjid](http://twitter.com/search?q=%23PerpaniArsjadRasjid) | N/A |
-| 2 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 4 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 5 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 6 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 1 | [#FormulaEBuntung](http://twitter.com/search?q=%23FormulaEBuntung) | N/A |
+| 2 | [#PerpaniArsjadRasjid](http://twitter.com/search?q=%23PerpaniArsjadRasjid) | N/A |
+| 3 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
+| 5 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 6 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
 | 7 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 8 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 9 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 10 | [Panahan Indonesia](http://twitter.com/search?q=Panahan+Indonesia) | N/A |
-| 11 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 12 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 13 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 14 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 15 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 16 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 18 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 19 | [Publish](http://twitter.com/search?q=Publish) | N/A |
-| 20 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 21 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 22 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
-| 23 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 24 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 25 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
-| 26 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
-| 27 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
-| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 29 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 30 | [Kebalik](http://twitter.com/search?q=Kebalik) | N/A |
-| 31 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 8 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
+| 9 | [Panahan Indonesia](http://twitter.com/search?q=Panahan+Indonesia) | N/A |
+| 10 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 11 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 12 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 13 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 14 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 15 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 16 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 17 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 18 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 19 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 20 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 21 | [Susi Air](http://twitter.com/search?q=Susi+Air) | N/A |
+| 22 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 23 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 24 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
+| 25 | [Publish](http://twitter.com/search?q=Publish) | N/A |
+| 26 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 29 | [Captain Korea Jin](http://twitter.com/search?q=Captain+Korea+Jin) | N/A |
+| 30 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 31 | [Topped Up OPPO Reno8 T](http://twitter.com/search?q=Topped+Up+OPPO+Reno8+T) | Topped Up OPPO Reno8 T is a promotional offer from the Chinese electronics company OPPO. It offers customers a free upgrade to the latest version of their Reno8 T smartphone when they purchase the device. The phrase "topped up" means to add something extra or to increase the value of something. |
 | 32 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 33 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
-| 34 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 35 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
-| 36 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 37 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 38 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
-| 39 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 40 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
-| 41 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
-| 42 | [Iriana](http://twitter.com/search?q=Iriana) | N/A |
-| 43 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
-| 44 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 45 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 46 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 47 | [Divergent](http://twitter.com/search?q=Divergent) | N/A |
-| 48 | [Cotton](http://twitter.com/search?q=Cotton) | N/A |
+| 33 | [KSPO DOME](http://twitter.com/search?q=KSPO+DOME) | N/A |
+| 34 | [Densus 88](http://twitter.com/search?q=Densus+88) | N/A |
+| 35 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 36 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 37 | [Jipang](http://twitter.com/search?q=Jipang) | N/A |
+| 38 | [Kebalik](http://twitter.com/search?q=Kebalik) | N/A |
+| 39 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 40 | [Iriana](http://twitter.com/search?q=Iriana) | N/A |
+| 41 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
+| 42 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 43 | [Kreativitas](http://twitter.com/search?q=Kreativitas) | N/A |
+| 44 | [Wulan Guritno](http://twitter.com/search?q=Wulan+Guritno) | N/A |
+| 45 | [Kecap](http://twitter.com/search?q=Kecap) | N/A |
+| 46 | [Sidoarjo](http://twitter.com/search?q=Sidoarjo) | N/A |
+| 47 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 48 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
 
 
 

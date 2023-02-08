@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-08 03:18:24 UTC`
+📆 Last Updated: `2023-02-08 04:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 2 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 3 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 4 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 5 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
-| 6 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 7 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
-| 8 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
-| 9 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 10 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
-| 11 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 12 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 16 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 17 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 18 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 21 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 22 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 24 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 25 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 26 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 27 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 29 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 30 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 31 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 32 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 33 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
-| 34 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 35 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 36 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 37 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
-| 38 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 39 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 40 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 41 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 42 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 43 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 44 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 45 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
-| 46 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 47 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 48 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
-| 49 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 50 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 2 | [Liar](http://twitter.com/search?q=Liar) | N/A |
+| 3 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 4 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 5 | [Staples](http://twitter.com/search?q=Staples) | N/A |
+| 6 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 7 | [Manchin](http://twitter.com/search?q=Manchin) | N/A |
+| 8 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 9 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 10 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 11 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 12 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 13 | [#GOPLiesAboutEverything](http://twitter.com/search?q=%23GOPLiesAboutEverything) | N/A |
+| 14 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 15 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 16 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
+| 17 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
+| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 19 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 20 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 22 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 23 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 24 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 25 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 26 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 27 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 28 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 29 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 30 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 31 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 32 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 33 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 34 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 35 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
+| 36 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 37 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 38 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 39 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 40 | [Jeanie Buss](http://twitter.com/search?q=Jeanie+Buss) | N/A |
+| 41 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 42 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 43 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 44 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 45 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 46 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 47 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 48 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 49 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 50 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
 
 
 
