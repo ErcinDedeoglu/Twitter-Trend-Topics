@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-08 22:15:51 UTC`
+📆 Last Updated: `2023-02-08 23:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 4 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 5 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 6 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 7 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 8 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 9 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 10 | [#الاهلي_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 11 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 12 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 16 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 17 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 20 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [متولي](http://twitter.com/search?q=%d9%85%d8%aa%d9%88%d9%84%d9%8a) | N/A |
-| 24 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 26 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 27 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 28 | [France 3](http://twitter.com/search?q=France+3) | France 3 is a French public television channel and part of the France Télévisions group, which also includes France 2, France 4, and France 5. The channel's mission is to provide a national public service of information, culture, and entertainment. In English, it can be translated as "France Three". |
-| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 30 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 31 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 32 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 33 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 34 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 35 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 36 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 37 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 38 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 39 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
-| 40 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 41 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 42 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 43 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 45 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 46 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
-| 47 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 48 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 49 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 50 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 1 | [予約ツイート](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 2 | [予約投稿](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e6%8a%95%e7%a8%bf) | N/A |
+| 3 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
+| 4 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 5 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 6 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 7 | [ツイート制限](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e5%88%b6%e9%99%90) | N/A |
+| 8 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 10 | [ゴーストトリック](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 11 | [Twitter不具合](http://twitter.com/search?q=Twitter%e4%b8%8d%e5%85%b7%e5%90%88) | Twitter不具合 is a Japanese phrase that translates to "Twitter malfunction" in English. It is used to describe when Twitter is not working properly or experiencing technical difficulties. |
+| 12 | [レイトン](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
+| 13 | [バテンカイトス](http://twitter.com/search?q=%e3%83%90%e3%83%86%e3%83%b3%e3%82%ab%e3%82%a4%e3%83%88%e3%82%b9) | N/A |
+| 14 | [ブラウザ](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6) | N/A |
+| 15 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [ゲームボーイ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 18 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 21 | [ファンタジーライフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 25 | [#الاهلي_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 26 | [ピクミン4](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%83%9f%e3%83%b34) | N/A |
+| 27 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 28 | [マホロア](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%83%ad%e3%82%a2) | マホロア is a Japanese word that means "magical aura". It is often used to describe the feeling of being surrounded by a mysterious and magical atmosphere. |
+| 29 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 30 | [レベルファイブ](http://twitter.com/search?q=%e3%83%ac%e3%83%99%e3%83%ab%e3%83%95%e3%82%a1%e3%82%a4%e3%83%96) | N/A |
+| 31 | [世界樹リマスター](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e6%a8%b9%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 32 | [サイドオーダー](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%89%e3%82%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 33 | [ポケモンカードGB](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89GB) | N/A |
+| 34 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 35 | [世界樹の迷宮](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e6%a8%b9%e3%81%ae%e8%bf%b7%e5%ae%ae) | N/A |
+| 36 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 38 | [マリーのアトリエ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%ae%e3%82%a2%e3%83%88%e3%83%aa%e3%82%a8) | N/A |
+| 39 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 40 | [追加パック](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%83%91%e3%83%83%e3%82%af) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 45 | [スプラDLC](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9DLC) | N/A |
+| 46 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 47 | [ハイカラスクエア](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a8%e3%82%a2) | N/A |
+| 48 | [Twitterくん](http://twitter.com/search?q=Twitter%e3%81%8f%e3%82%93) | Twitterくん is a Japanese mascot character created by Twitter Japan. The character is a blue bird with a yellow beak and feet, wearing a red hoodie with the Twitter logo on it. The character's name translates to "Twitter Boy" in English, and its purpose is to promote the use of Twitter in Japan. |
+| 49 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
+| 50 | [予約設定](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e8%a8%ad%e5%ae%9a) | N/A |
 
 
 

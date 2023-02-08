@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-08 22:17:03 UTC`
+📆 Last Updated: `2023-02-08 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 2 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 2 | [crimea is ukraine](http://twitter.com/search?q=crimea+is+ukraine) | N/A |
 | 3 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
 | 4 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
-| 5 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 6 | [Великобритании](http://twitter.com/search?q=%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 7 | [London](http://twitter.com/search?q=London) | N/A |
+| 5 | [Великобритании](http://twitter.com/search?q=%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 6 | [London](http://twitter.com/search?q=London) | N/A |
+| 7 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 8 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
 | 9 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 10 | [President](http://twitter.com/search?q=President) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for Ukraine
 | 19 | [ИПСО](http://twitter.com/search?q=%d0%98%d0%9f%d0%a1%d0%9e) | N/A |
 | 20 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
 | 21 | [Африке](http://twitter.com/search?q=%d0%90%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
-| 22 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
-| 23 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 24 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
-| 25 | [Арестовича](http://twitter.com/search?q=%d0%90%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
-| 26 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 27 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 28 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 29 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 30 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 31 | [Бережи](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
-| 32 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 33 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 34 | [ТААААК](http://twitter.com/search?q=%d0%a2%d0%90%d0%90%d0%90%d0%90%d0%9a) | N/A |
-| 35 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 36 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 37 | [Смешно](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%88%d0%bd%d0%be) | N/A |
-| 38 | [Daily Reward](http://twitter.com/search?q=Daily+Reward) | N/A |
-| 39 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 40 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 42 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 43 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 44 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
-| 45 | [азов](http://twitter.com/search?q=%d0%b0%d0%b7%d0%be%d0%b2) | N/A |
-| 46 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
-| 47 | [Казахстане](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd%d0%b5) | N/A |
-| 48 | [Ленина](http://twitter.com/search?q=%d0%9b%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
-| 49 | [Пффф](http://twitter.com/search?q=%d0%9f%d1%84%d1%84%d1%84) | N/A |
-| 50 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 22 | [Casino](http://twitter.com/search?q=Casino) | N/A |
+| 23 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
+| 24 | [Арестовича](http://twitter.com/search?q=%d0%90%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
+| 25 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 26 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 27 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 29 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
+| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 31 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 32 | [тааааак](http://twitter.com/search?q=%d1%82%d0%b0%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
+| 33 | [Смешно](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%88%d0%bd%d0%be) | N/A |
+| 34 | [Daily Reward](http://twitter.com/search?q=Daily+Reward) | N/A |
+| 35 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 37 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 38 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 39 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 40 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
+| 41 | [азов](http://twitter.com/search?q=%d0%b0%d0%b7%d0%be%d0%b2) | N/A |
+| 42 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
+| 43 | [Казахстане](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd%d0%b5) | N/A |
+| 44 | [Ленина](http://twitter.com/search?q=%d0%9b%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
+| 45 | [Пффф](http://twitter.com/search?q=%d0%9f%d1%84%d1%84%d1%84) | N/A |
+| 46 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 47 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 48 | [The Ukrainian](http://twitter.com/search?q=The+Ukrainian) | N/A |
+| 49 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
+| 50 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
 
 
 

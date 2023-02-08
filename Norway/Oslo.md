@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-08 22:16:16 UTC`
+📆 Last Updated: `2023-02-08 23:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 3 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 5 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 6 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 7 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 1 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 2 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 3 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 5 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 6 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 7 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 8 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
 | 9 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
@@ -35,27 +35,27 @@ This is top 50 for [Norway](</Norway>)
 | 18 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
 | 19 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 20 | [#SDGbergen23](http://twitter.com/search?q=%23SDGbergen23) | N/A |
-| 21 | [Noreg](http://twitter.com/search?q=Noreg) | N/A |
+| 21 | [noreg](http://twitter.com/search?q=noreg) | N/A |
 | 22 | [#FraRiksen](http://twitter.com/search?q=%23FraRiksen) | N/A |
 | 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 24 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
 | 25 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 26 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
 | 27 | [Harstad](http://twitter.com/search?q=Harstad) | N/A |
-| 28 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 29 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 32 | [$SHINU](http://twitter.com/search?q=%24SHINU) | N/A |
+| 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 29 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 30 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 32 | [$shinu](http://twitter.com/search?q=%24shinu) | N/A |
 | 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 35 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 36 | [Jayden Nelson](http://twitter.com/search?q=Jayden+Nelson) | N/A |
 | 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 38 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
-| 39 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 39 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
+| 40 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 41 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 42 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 44 | [Dersom](http://twitter.com/search?q=Dersom) | N/A |

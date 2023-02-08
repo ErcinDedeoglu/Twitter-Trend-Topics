@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-08 22:16:47 UTC`
+📆 Last Updated: `2023-02-08 23:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 2 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 3 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 6 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 7 | [#MarjorieTraitorGreene](http://twitter.com/search?q=%23MarjorieTraitorGreene) | N/A |
-| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 9 | [#GOPClownShowContinues](http://twitter.com/search?q=%23GOPClownShowContinues) | N/A |
-| 10 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 11 | [SS and Medicare](http://twitter.com/search?q=SS+and+Medicare) | N/A |
-| 12 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 13 | [Medicare and Social Security](http://twitter.com/search?q=Medicare+and+Social+Security) | N/A |
-| 14 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 15 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 18 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 19 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 22 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 23 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 24 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 25 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 26 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 27 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 28 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 29 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 32 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 33 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 34 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 36 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 37 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 39 | [Clay Higgins](http://twitter.com/search?q=Clay+Higgins) | N/A |
-| 40 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 41 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 42 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 43 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 44 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 45 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 46 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 47 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 48 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 49 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 50 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 1 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 2 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 3 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 6 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 7 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 8 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 9 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 10 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 11 | [#MarjorieTraitorGreene](http://twitter.com/search?q=%23MarjorieTraitorGreene) | N/A |
+| 12 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 13 | [SS and Medicare](http://twitter.com/search?q=SS+and+Medicare) | N/A |
+| 14 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 15 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 16 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 17 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 19 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 21 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 22 | [SPLATOON DLC](http://twitter.com/search?q=SPLATOON+DLC) | N/A |
+| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 26 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 27 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 29 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 31 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 32 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 33 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 34 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 35 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
+| 36 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 37 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 38 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 39 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 40 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 41 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 42 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 43 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
+| 44 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
+| 45 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
+| 46 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
+| 47 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 48 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 49 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 50 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
 
 
 

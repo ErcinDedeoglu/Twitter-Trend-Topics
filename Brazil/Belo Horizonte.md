@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-08 22:16:04 UTC`
+📆 Last Updated: `2023-02-08 23:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 3 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 4 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 5 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 6 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 7 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
-| 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 2 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 3 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 4 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 5 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 6 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 7 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 8 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
 | 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 10 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 10 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 11 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 12 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
-| 13 | [Contra o Brasil](http://twitter.com/search?q=Contra+o+Brasil) | N/A |
-| 14 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 13 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 16 | [Meu Instagram](http://twitter.com/search?q=Meu+Instagram) | N/A |
-| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 19 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 22 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 23 | [#TresVezesAna008](http://twitter.com/search?q=%23TresVezesAna008) | N/A |
-| 24 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
-| 25 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 26 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 27 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 28 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 29 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
-| 30 | [Enem 2022](http://twitter.com/search?q=Enem+2022) | N/A |
-| 31 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 32 | [#ADona046](http://twitter.com/search?q=%23ADona046) | N/A |
-| 33 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 34 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 35 | [#ChallengersBR](http://twitter.com/search?q=%23ChallengersBR) | N/A |
-| 36 | [Ibama](http://twitter.com/search?q=Ibama) | N/A |
-| 37 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 39 | [#MISAMO](http://twitter.com/search?q=%23MISAMO) | N/A |
-| 40 | [Socialismo Científico](http://twitter.com/search?q=Socialismo+Cient%c3%adfico) | N/A |
-| 41 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 42 | [joao vitor](http://twitter.com/search?q=joao+vitor) | N/A |
-| 43 | [matos](http://twitter.com/search?q=matos) | N/A |
-| 44 | [Vini Malvadeza](http://twitter.com/search?q=Vini+Malvadeza) | N/A |
-| 45 | [60 REAIS](http://twitter.com/search?q=60+REAIS) | N/A |
-| 46 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 47 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 48 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 49 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 50 | [R$60,00](http://twitter.com/search?q=R%2460%2c00) | N/A |
+| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 21 | [#TresVezesAna008](http://twitter.com/search?q=%23TresVezesAna008) | N/A |
+| 22 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 24 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 25 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 27 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
+| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 29 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 31 | [R$60,00](http://twitter.com/search?q=R%2460%2c00) | N/A |
+| 32 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 33 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 34 | [Enem 2022](http://twitter.com/search?q=Enem+2022) | N/A |
+| 35 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 36 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
+| 37 | [#ADona046](http://twitter.com/search?q=%23ADona046) | N/A |
+| 38 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 39 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 40 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 42 | [Socialismo Científico](http://twitter.com/search?q=Socialismo+Cient%c3%adfico) | N/A |
+| 43 | [joao vitor](http://twitter.com/search?q=joao+vitor) | N/A |
+| 44 | [Ibama](http://twitter.com/search?q=Ibama) | N/A |
+| 45 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 46 | [Meu Twitter](http://twitter.com/search?q=Meu+Twitter) | N/A |
+| 47 | [matos](http://twitter.com/search?q=matos) | N/A |
+| 48 | [Vini Malvadeza](http://twitter.com/search?q=Vini+Malvadeza) | N/A |
+| 49 | [60 REAIS](http://twitter.com/search?q=60+REAIS) | N/A |
+| 50 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 
 
 

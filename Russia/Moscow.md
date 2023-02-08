@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-02-08 22:16:34 UTC`
+📆 Last Updated: `2023-02-08 23:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Russia](</Russia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 2 | [Мария](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%8f) | N/A |
+| 2 | [мария](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%8f) | N/A |
 | 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 4 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
 | 5 | [роулинг](http://twitter.com/search?q=%d1%80%d0%be%d1%83%d0%bb%d0%b8%d0%bd%d0%b3) | N/A |
@@ -35,32 +35,32 @@ This is top 50 for [Russia](</Russia>)
 | 18 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 19 | [казани](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d0%bd%d0%b8) | N/A |
 | 20 | [#клуَбромантиٍки](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d9%8e%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d9%8d%d0%ba%d0%b8) | N/A |
-| 21 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
-| 22 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 23 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 24 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 25 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 26 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 27 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 21 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 22 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
+| 23 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 24 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 25 | [Кинопоиске](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
+| 26 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 27 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 28 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 29 | [Кинопоиске](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
-| 30 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 31 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 32 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 33 | [Дудь](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8c) | N/A |
-| 34 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
-| 35 | [Ленина](http://twitter.com/search?q=%d0%9b%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
-| 36 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 37 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 38 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 39 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 29 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
+| 30 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 31 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 32 | [дудь](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8c) | N/A |
+| 33 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 34 | [Ленина](http://twitter.com/search?q=%d0%9b%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
+| 35 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 36 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 37 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 38 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 39 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
 | 40 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
 | 41 | [Ху Тао](http://twitter.com/search?q=%d0%a5%d1%83+%d0%a2%d0%b0%d0%be) | N/A |
 | 42 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
 | 43 | [Земли](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b8) | N/A |
-| 44 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 45 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 44 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 45 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 46 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
 
 
 

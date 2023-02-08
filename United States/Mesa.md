@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-02-08 22:16:48 UTC`
+📆 Last Updated: `2023-02-08 23:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Mat Ishbia](http://twitter.com/search?q=Mat+Ishbia) | N/A |
 | 2 | [#WLPC](http://twitter.com/search?q=%23WLPC) | N/A |
-| 3 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 4 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 5 | [Radio Row](http://twitter.com/search?q=Radio+Row) | N/A |
-| 6 | [Liar](http://twitter.com/search?q=Liar) | N/A |
-| 7 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 9 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 11 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 12 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 14 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 15 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 16 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 17 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 18 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
-| 19 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 20 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 21 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 22 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 23 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 24 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 26 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 27 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 28 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 29 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 30 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 33 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [Clay Higgins](http://twitter.com/search?q=Clay+Higgins) | N/A |
-| 36 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 37 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 39 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 40 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 41 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 42 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 43 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 44 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 45 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 46 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 47 | [IM SEEING TXT](http://twitter.com/search?q=IM+SEEING+TXT) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 4 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 5 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 6 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 7 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 8 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 9 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 10 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 11 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 13 | [SPLATOON DLC](http://twitter.com/search?q=SPLATOON+DLC) | N/A |
+| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 18 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 20 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 21 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 24 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 25 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 26 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 27 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 28 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
+| 29 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 30 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 31 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 32 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 33 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 34 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 35 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
+| 36 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
+| 37 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
+| 38 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
+| 39 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
+| 40 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 41 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 42 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 43 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 44 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 45 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 46 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 47 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 48 | [Deca Police](http://twitter.com/search?q=Deca+Police) | N/A |
+| 49 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 
 
 
