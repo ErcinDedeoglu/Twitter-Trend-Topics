@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-08 04:15:38 UTC`
+📆 Last Updated: `2023-02-08 05:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SGESVD](http://twitter.com/search?q=%23SGESVD) | N/A |
-| 2 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
-| 3 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
-| 5 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 6 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 7 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 9 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 10 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 11 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 12 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 14 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 18 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 20 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 21 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 22 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 23 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 24 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
-| 25 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 26 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 29 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 30 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 31 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 32 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
-| 33 | [Lade](http://twitter.com/search?q=Lade) | N/A |
-| 34 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
-| 35 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 36 | [I LOVE CREEPTURES](http://twitter.com/search?q=I+LOVE+CREEPTURES) | N/A |
-| 37 | [Masz](http://twitter.com/search?q=Masz) | N/A |
-| 38 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
-| 39 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 40 | [helge](http://twitter.com/search?q=helge) | N/A |
-| 41 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 42 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 43 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
-| 44 | [marzipan](http://twitter.com/search?q=marzipan) | N/A |
-| 45 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 46 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 47 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 48 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 49 | [menschen mit uterus](http://twitter.com/search?q=menschen+mit+uterus) | N/A |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [#StrackZimmermann](http://twitter.com/search?q=%23StrackZimmermann) | N/A |
+| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 5 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 6 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 7 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 8 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 9 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 10 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 13 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 14 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 15 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 16 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 17 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 18 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 19 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 21 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 22 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 23 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
+| 24 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 25 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 26 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
+| 27 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 28 | [trümmern](http://twitter.com/search?q=tr%c3%bcmmern) | N/A |
+| 29 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 30 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 31 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 32 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 33 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 34 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
+| 35 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 36 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 37 | [Lade](http://twitter.com/search?q=Lade) | N/A |
+| 38 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 39 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 40 | [i love creeptures](http://twitter.com/search?q=i+love+creeptures) | N/A |
+| 41 | [Masz](http://twitter.com/search?q=Masz) | N/A |
+| 42 | [Wüst](http://twitter.com/search?q=W%c3%bcst) | N/A |
+| 43 | [helge](http://twitter.com/search?q=helge) | N/A |
+| 44 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 45 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 46 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 47 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
+| 48 | [marzipan](http://twitter.com/search?q=marzipan) | N/A |
+| 49 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
 
 
 

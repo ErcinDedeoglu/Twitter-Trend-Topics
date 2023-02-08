@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-08 04:16:17 UTC`
+📆 Last Updated: `2023-02-08 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,44 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
-| 3 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 4 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
-| 5 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 6 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 7 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
-| 8 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
-| 9 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 10 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 11 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
-| 12 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
-| 13 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 14 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 15 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 18 | [KENZIE](http://twitter.com/search?q=KENZIE) | N/A |
-| 19 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 20 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
-| 21 | [RIA IS COMING](http://twitter.com/search?q=RIA+IS+COMING) | N/A |
-| 22 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 23 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 25 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
-| 26 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 27 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 28 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 29 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
-| 30 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 31 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 32 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 33 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 34 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
-| 35 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 36 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
-| 37 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 38 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
-| 39 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 40 | [Beyond Live](http://twitter.com/search?q=Beyond+Live) | N/A |
-| 41 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
-| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 43 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 44 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
-| 45 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 46 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 47 | [KSPO DOME](http://twitter.com/search?q=KSPO+DOME) | N/A |
-| 48 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 49 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 50 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 2 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 3 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
+| 4 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [JANENELLA AngTunayNaBIDA](http://twitter.com/search?q=JANENELLA+AngTunayNaBIDA) | N/A |
+| 7 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
+| 8 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
+| 9 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 10 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 11 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
+| 12 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 13 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 14 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 15 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 16 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 17 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 18 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 19 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
+| 20 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 21 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
+| 22 | [ALAMATPasulong VocalPerf](http://twitter.com/search?q=ALAMATPasulong+VocalPerf) | N/A |
+| 23 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 24 | [WYAT](http://twitter.com/search?q=WYAT) | N/A |
+| 25 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 26 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 27 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 28 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 29 | [#WithoutYouPresscon](http://twitter.com/search?q=%23WithoutYouPresscon) | N/A |
+| 30 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
+| 31 | [#SB19_PABLO](http://twitter.com/search?q=%23SB19_PABLO) | N/A |
+| 32 | [#aespaDeservesBetter](http://twitter.com/search?q=%23aespaDeservesBetter) | N/A |
+| 33 | [#OnlyREYSTERday](http://twitter.com/search?q=%23OnlyREYSTERday) | N/A |
+| 34 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 35 | [#빛나는별_레이스터가_생일을축하해](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%a0%88%ec%9d%b4%ec%8a%a4%ed%84%b0%ea%b0%80_%ec%83%9d%ec%9d%bc%ec%9d%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 36 | [#선물처럼_다가온_윤형데이](http://twitter.com/search?q=%23%ec%84%a0%eb%ac%bc%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%9c%a4%ed%98%95%eb%8d%b0%ec%9d%b4) | N/A |
+| 37 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
+| 38 | [#JonaxxACTYAKab44](http://twitter.com/search?q=%23JonaxxACTYAKab44) | N/A |
+| 39 | [#DreamMaker_REYSTER](http://twitter.com/search?q=%23DreamMaker_REYSTER) | N/A |
 
 
 

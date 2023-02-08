@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-02-08 04:15:45 UTC`
+📆 Last Updated: `2023-02-08 05:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
 | 2 | [#ワイのLOVEゲーム](http://twitter.com/search?q=%23%e3%83%af%e3%82%a4%e3%81%aeLOVE%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
 | 3 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 4 | [フォロー中](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e4%b8%ad) | N/A |
-| 5 | [義理チョコ](http://twitter.com/search?q=%e7%be%a9%e7%90%86%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
-| 6 | [#毎日更新チャレンジ](http://twitter.com/search?q=%23%e6%af%8e%e6%97%a5%e6%9b%b4%e6%96%b0%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
-| 7 | [ギルデッドミラー](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%83%87%e3%83%83%e3%83%89%e3%83%9f%e3%83%a9%e3%83%bc) | ギルデッドミラー (Gilded Mirror) is a Japanese term used to describe a person who is outwardly attractive but inwardly shallow and superficial. It is often used to describe people who are obsessed with their own appearance and popularity. In English, it can be translated as "shallow beauty". |
+| 4 | [レブロン](http://twitter.com/search?q=%e3%83%ac%e3%83%96%e3%83%ad%e3%83%b3) | レブロン (Lebron) is the name of a professional basketball player, LeBron James. He is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). |
+| 5 | [フォロー中](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e4%b8%ad) | N/A |
+| 6 | [義理チョコ](http://twitter.com/search?q=%e7%be%a9%e7%90%86%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
+| 7 | [#毎日更新チャレンジ](http://twitter.com/search?q=%23%e6%af%8e%e6%97%a5%e6%9b%b4%e6%96%b0%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
 | 8 | [モンスターハンターポータブル](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab) | N/A |
-| 9 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 10 | [無印・G](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbG) | N/A |
-| 11 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
-| 12 | [#俺のリリックノート](http://twitter.com/search?q=%23%e4%bf%ba%e3%81%ae%e3%83%aa%e3%83%aa%e3%83%83%e3%82%af%e3%83%8e%e3%83%bc%e3%83%88) | N/A |
-| 13 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 14 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 9 | [無印・G](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbG) | N/A |
+| 10 | [テイルズ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba) | N/A |
+| 11 | [#俺のリリックノート](http://twitter.com/search?q=%23%e4%bf%ba%e3%81%ae%e3%83%aa%e3%83%aa%e3%83%83%e3%82%af%e3%83%8e%e3%83%bc%e3%83%88) | N/A |
+| 12 | [ギルデッドミラー](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%83%87%e3%83%83%e3%83%89%e3%83%9f%e3%83%a9%e3%83%bc) | ギルデッドミラー (Gilded Mirror) is a Japanese term used to describe a person who is outwardly attractive but inwardly shallow and superficial. It is often used to describe people who are obsessed with their own appearance and popularity. In English, it can be translated as "shallow beauty". |
+| 13 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 14 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
 | 15 | [無印・リマスター](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 16 | [ファイナルファンタジーXIV](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bcXIV) | N/A |
-| 17 | [キム西金髪](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e8%a5%bf%e9%87%91%e9%ab%aa) | N/A |
-| 18 | [アマテラス](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9) | N/A |
+| 16 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 17 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
+| 18 | [スプラトゥーン](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88%e3%82%a5%e3%83%bc%e3%83%b3) | N/A |
 | 19 | [どうぶつの森](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e3%81%ae%e6%a3%ae) | N/A |
-| 20 | [星のカービィ](http://twitter.com/search?q=%e6%98%9f%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
-| 21 | [金・銀・クリスタル](http://twitter.com/search?q=%e9%87%91%e3%83%bb%e9%8a%80%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf%e3%83%ab) | N/A |
-| 22 | [三浦皇成](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e7%9a%87%e6%88%90) | 三浦皇成 (Miura Kōsei) is the name of a Japanese samurai who lived during the Edo period. He was a retainer of the Mōri clan and was known for his bravery and loyalty. The name can be translated to mean "Miura, the Imperial Successor". |
+| 20 | [ファイナルファンタジーXIV](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bcXIV) | N/A |
+| 21 | [星のカービィ](http://twitter.com/search?q=%e6%98%9f%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
+| 22 | [大乱闘スマッシュブラザーズ](http://twitter.com/search?q=%e5%a4%a7%e4%b9%b1%e9%97%98%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
 | 23 | [ルビー・サファイア・エメラルド](http://twitter.com/search?q=%e3%83%ab%e3%83%93%e3%83%bc%e3%83%bb%e3%82%b5%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bb%e3%82%a8%e3%83%a1%e3%83%a9%e3%83%ab%e3%83%89) | N/A |
-| 24 | [ファイアーエムブレム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bc%e3%82%a8%e3%83%a0%e3%83%96%e3%83%ac%e3%83%a0) | ファイアーエムブレム (Fire Emblem) is a series of tactical role-playing video games developed by Intelligent Systems and published by Nintendo. The series is known for its deep and complex story lines, as well as its strategic gameplay. The English translation of the title is "Fire Emblem". |
-| 25 | [スプラトゥーン](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88%e3%82%a5%e3%83%bc%e3%83%b3) | N/A |
-| 26 | [ダイヤモンド・パール・プラチナ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%83%91%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%97%e3%83%a9%e3%83%81%e3%83%8a) | N/A |
-| 27 | [ブラック・ホワイト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%bb%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88) | N/A |
-| 28 | [さんが愛](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%8c%e6%84%9b) | N/A |
-| 29 | [無印・HD](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbHD) | N/A |
-| 30 | [大乱闘スマッシュブラザーズ](http://twitter.com/search?q=%e5%a4%a7%e4%b9%b1%e9%97%98%e3%82%b9%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
-| 31 | [レブロン](http://twitter.com/search?q=%e3%83%ac%e3%83%96%e3%83%ad%e3%83%b3) | レブロン (Lebron) is the name of a professional basketball player, LeBron James. He is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). |
-| 32 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
-| 33 | [クロノ・トリガー](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%83%bb%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
-| 34 | [木村柾哉](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e6%9f%be%e5%93%89) | N/A |
-| 35 | [カービィのエアライド](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3%e3%81%ae%e3%82%a8%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%89) | カービィのエアライド is a type of mini-game featured in the Kirby video game series. It is a type of side-scrolling platformer where the player controls Kirby as he rides on a hovercraft, avoiding obstacles and collecting items. The goal is to reach the end of the course as quickly as possible. In English, it translates to "Kirby's Air Ride". |
-| 36 | [無印・アイスボーン](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%b3) | N/A |
-| 37 | [箸の持ち方](http://twitter.com/search?q=%e7%ae%b8%e3%81%ae%e6%8c%81%e3%81%a1%e6%96%b9) | 箸の持ち方 (hashi no mochikata) is a phrase that literally translates to "the way of holding chopsticks". It is a phrase used to refer to the proper etiquette for using chopsticks, such as not pointing them at someone or sticking them upright in food. |
-| 38 | [エクレシア](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%83%ac%e3%82%b7%e3%82%a2) | N/A |
-| 39 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 40 | [緑・赤・青・ピカチュウ](http://twitter.com/search?q=%e7%b7%91%e3%83%bb%e8%b5%a4%e3%83%bb%e9%9d%92%e3%83%bb%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 41 | [女性の8割](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae8%e5%89%b2) | N/A |
-| 42 | [聖剣伝説](http://twitter.com/search?q=%e8%81%96%e5%89%a3%e4%bc%9d%e8%aa%ac) | N/A |
-| 43 | [繁殖入り](http://twitter.com/search?q=%e7%b9%81%e6%ae%96%e5%85%a5%e3%82%8a) | N/A |
-| 44 | [ドラゴン](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3) | N/A |
-| 45 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 46 | [天空の花嫁](http://twitter.com/search?q=%e5%a4%a9%e7%a9%ba%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
-| 47 | [無印・アドバンス](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%a2%e3%83%89%e3%83%90%e3%83%b3%e3%82%b9) | N/A |
-| 48 | [バイオハザード](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89) | N/A |
-| 49 | [西くん金髪](http://twitter.com/search?q=%e8%a5%bf%e3%81%8f%e3%82%93%e9%87%91%e9%ab%aa) | N/A |
-| 50 | [エスプリーク](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%97%e3%83%aa%e3%83%bc%e3%82%af) | N/A |
+| 24 | [ダイヤモンド・パール・プラチナ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89%e3%83%bb%e3%83%91%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%97%e3%83%a9%e3%83%81%e3%83%8a) | N/A |
+| 25 | [さんが愛](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%8c%e6%84%9b) | N/A |
+| 26 | [ファイアーエムブレム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%a2%e3%83%bc%e3%82%a8%e3%83%a0%e3%83%96%e3%83%ac%e3%83%a0) | ファイアーエムブレム (Fire Emblem) is a series of tactical role-playing video games developed by Intelligent Systems and published by Nintendo. The series is known for its deep and complex story lines, as well as its strategic gameplay. The English translation of the title is "Fire Emblem". |
+| 27 | [箸の持ち方](http://twitter.com/search?q=%e7%ae%b8%e3%81%ae%e6%8c%81%e3%81%a1%e6%96%b9) | 箸の持ち方 (hashi no mochikata) is a phrase that literally translates to "the way of holding chopsticks". It is a phrase used to refer to the proper etiquette for using chopsticks, such as not pointing them at someone or sticking them upright in food. |
+| 28 | [金・銀・クリスタル](http://twitter.com/search?q=%e9%87%91%e3%83%bb%e9%8a%80%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf%e3%83%ab) | N/A |
+| 29 | [キム西金髪](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e8%a5%bf%e9%87%91%e9%ab%aa) | N/A |
+| 30 | [デートナイト](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 31 | [無印・HD](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bbHD) | N/A |
+| 32 | [三浦皇成](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e7%9a%87%e6%88%90) | 三浦皇成 (Miura Kōsei) is the name of a Japanese samurai who lived during the Edo period. He was a retainer of the Mōri clan and was known for his bravery and loyalty. The name can be translated to mean "Miura, the Imperial Successor". |
+| 33 | [ブラック・ホワイト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%bb%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88) | N/A |
+| 34 | [クロノ・トリガー](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%83%bb%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
+| 35 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
+| 36 | [カービィのエアライド](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3%e3%81%ae%e3%82%a8%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%89) | カービィのエアライド is a type of mini-game featured in the Kirby video game series. It is a type of side-scrolling platformer where the player controls Kirby as he rides on a hovercraft, avoiding obstacles and collecting items. The goal is to reach the end of the course as quickly as possible. In English, it translates to "Kirby's Air Ride". |
+| 37 | [アマテラス](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%86%e3%83%a9%e3%82%b9) | N/A |
+| 38 | [天空の花嫁](http://twitter.com/search?q=%e5%a4%a9%e7%a9%ba%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 39 | [ドラゴン](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3) | N/A |
+| 40 | [木村柾哉](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e6%9f%be%e5%93%89) | N/A |
+| 41 | [無印・アイスボーン](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%b3) | N/A |
+| 42 | [バイオハザード](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89) | N/A |
+| 43 | [無印・アドバンス](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%a2%e3%83%89%e3%83%90%e3%83%b3%e3%82%b9) | N/A |
+| 44 | [緑・赤・青・ピカチュウ](http://twitter.com/search?q=%e7%b7%91%e3%83%bb%e8%b5%a4%e3%83%bb%e9%9d%92%e3%83%bb%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
+| 45 | [女性の8割](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae8%e5%89%b2) | N/A |
+| 46 | [サモンナイト](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%b3%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 47 | [聖剣伝説](http://twitter.com/search?q=%e8%81%96%e5%89%a3%e4%bc%9d%e8%aa%ac) | N/A |
+| 48 | [牧場物語](http://twitter.com/search?q=%e7%89%a7%e5%a0%b4%e7%89%a9%e8%aa%9e) | N/A |
+| 49 | [繁殖入り](http://twitter.com/search?q=%e7%b9%81%e6%ae%96%e5%85%a5%e3%82%8a) | N/A |
+| 50 | [無印・ザ・ロイヤル](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%83%bb%e3%82%b6%e3%83%bb%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-08 04:15:27 UTC`
+📆 Last Updated: `2023-02-08 05:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EnigmasAllStar](http://twitter.com/search?q=%23EnigmasAllStar) | N/A |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 3 | [#OpinionBiyinplay](http://twitter.com/search?q=%23OpinionBiyinplay) | N/A |
-| 4 | [#CrossroadsEnConvoy](http://twitter.com/search?q=%23CrossroadsEnConvoy) | N/A |
-| 5 | [#FactorShelby](http://twitter.com/search?q=%23FactorShelby) | N/A |
-| 6 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 7 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 8 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 9 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
-| 10 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 11 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 12 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
-| 13 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 14 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
-| 15 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
-| 16 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 17 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 18 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 19 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
-| 20 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 21 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 22 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 23 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 24 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
-| 25 | [santi cobos](http://twitter.com/search?q=santi+cobos) | N/A |
-| 26 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 27 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 28 | [Veytia](http://twitter.com/search?q=Veytia) | N/A |
-| 29 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 30 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 31 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
-| 32 | [Nayarit](http://twitter.com/search?q=Nayarit) | N/A |
-| 33 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 34 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
-| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 36 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 37 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
-| 38 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 39 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
-| 40 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
-| 41 | [Son PEORES](http://twitter.com/search?q=Son+PEORES) | N/A |
-| 42 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 43 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 44 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 45 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
-| 46 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [#OpinionBiyinplay](http://twitter.com/search?q=%23OpinionBiyinplay) | N/A |
+| 3 | [#EnigmasAllStar](http://twitter.com/search?q=%23EnigmasAllStar) | N/A |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 5 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 7 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 8 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 9 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 10 | [#NCTDREAM日本デビューおめでとう](http://twitter.com/search?q=%23NCTDREAM%e6%97%a5%e6%9c%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 11 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 12 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 13 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 14 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 15 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 16 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 17 | [Felipe Calderón](http://twitter.com/search?q=Felipe+Calder%c3%b3n) | N/A |
+| 18 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 19 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 21 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 22 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 23 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 24 | [FeCal](http://twitter.com/search?q=FeCal) | N/A |
+| 25 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 26 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 27 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
+| 28 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 29 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 30 | [Martes del Jaguar](http://twitter.com/search?q=Martes+del+Jaguar) | N/A |
+| 31 | [Wings](http://twitter.com/search?q=Wings) | N/A |
+| 32 | [santi cobos](http://twitter.com/search?q=santi+cobos) | N/A |
+| 33 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 34 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
+| 35 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 36 | [Hu Tao](http://twitter.com/search?q=Hu+Tao) | Hu Tao is a character from the popular video game Genshin Impact. Her name is derived from the Chinese word "hu tao", which means "tiger peach". In the game, Hu Tao is a pyro user who specializes in using fire-based attacks and is known for her fiery personality. In English, her name can be translated to mean "Tiger Peach". |
+| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 38 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 39 | [Fernando Becerril](http://twitter.com/search?q=Fernando+Becerril) | N/A |
+| 40 | [Álvaro Obregón](http://twitter.com/search?q=%c3%81lvaro+Obreg%c3%b3n) | N/A |
+| 41 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
+| 42 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
+| 43 | [Édgar Veytia](http://twitter.com/search?q=%c3%89dgar+Veytia) | N/A |
+| 44 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 45 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 46 | [Todo México](http://twitter.com/search?q=Todo+M%c3%a9xico) | N/A |
+| 47 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 48 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 49 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 50 | [Jano](http://twitter.com/search?q=Jano) | N/A |
 
 
 

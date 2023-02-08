@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-08 04:16:12 UTC`
+📆 Last Updated: `2023-02-08 05:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 4 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 5 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 6 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 7 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 8 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 9 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 13 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 14 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 15 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 16 | [Jack Campbell](http://twitter.com/search?q=Jack+Campbell) | N/A |
-| 17 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 18 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 19 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 20 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 21 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 22 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 23 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
-| 24 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 25 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 26 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 27 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
-| 28 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 29 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 30 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 31 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 34 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 35 | [Premier Smith](http://twitter.com/search?q=Premier+Smith) | N/A |
-| 36 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 37 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 38 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 39 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Direct](http://twitter.com/search?q=Direct) | N/A |
-| 42 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 43 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 44 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 45 | [#VersaceDylanPurple](http://twitter.com/search?q=%23VersaceDylanPurple) | N/A |
-| 46 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 47 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 48 | [#DefundCBC](http://twitter.com/search?q=%23DefundCBC) | N/A |
+| 2 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 5 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 6 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 7 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 8 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 11 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 12 | [#letsgooilers](http://twitter.com/search?q=%23letsgooilers) | N/A |
+| 13 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
+| 14 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 15 | [#GOAT](http://twitter.com/search?q=%23GOAT) | #GOAT stands for "Greatest Of All Time" and is used to refer to someone or something that is the best in its field. |
+| 16 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 17 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 19 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 20 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 21 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 22 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 23 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 24 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 25 | [Mitt Romney](http://twitter.com/search?q=Mitt+Romney) | N/A |
+| 26 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 27 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 28 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 30 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 31 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 32 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 33 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 34 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 35 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 36 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 37 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 38 | [Broberg](http://twitter.com/search?q=Broberg) | N/A |
+| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 41 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 42 | [Premier Smith](http://twitter.com/search?q=Premier+Smith) | N/A |
+| 43 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 44 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 45 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 46 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 49 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 50 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
 
 
 

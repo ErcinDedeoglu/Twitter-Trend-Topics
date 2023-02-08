@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-08 04:16:05 UTC`
+📆 Last Updated: `2023-02-08 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 2 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 4 | [Miller Kopp](http://twitter.com/search?q=Miller+Kopp) | N/A |
-| 5 | [Trayce Jackson-Davis](http://twitter.com/search?q=Trayce+Jackson-Davis) | N/A |
-| 6 | [Race](http://twitter.com/search?q=Race) | N/A |
-| 7 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 12 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 1 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 4 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 6 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 8 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 9 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 10 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 14 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 15 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 16 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 17 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 18 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 19 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
-| 20 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 21 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 14 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 15 | [#KingJames](http://twitter.com/search?q=%23KingJames) | N/A |
+| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 17 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 18 | [Savannah](http://twitter.com/search?q=Savannah) | N/A |
+| 19 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 20 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 21 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 22 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 23 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 24 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 25 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 26 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 27 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 28 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 29 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 30 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 31 | [Jeanie Buss](http://twitter.com/search?q=Jeanie+Buss) | N/A |
-| 32 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
-| 33 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 34 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 35 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 36 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 37 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 38 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 39 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 40 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 41 | [Rupp](http://twitter.com/search?q=Rupp) | Rupp is an acronym for the phrase "Recognize, Understand, Prepare, and Perform". It is a strategy used to help people achieve their goals by breaking them down into smaller steps. The idea is to recognize the goal, understand what it will take to reach it, prepare for the journey ahead, and then perform the necessary actions to make it happen. |
-| 42 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 43 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
-| 44 | [Little Rock Nine](http://twitter.com/search?q=Little+Rock+Nine) | N/A |
-| 45 | [Classless](http://twitter.com/search?q=Classless) | N/A |
-| 46 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
-| 47 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
-| 48 | [Anthony Black](http://twitter.com/search?q=Anthony+Black) | N/A |
-| 49 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 50 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 23 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 24 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 25 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 26 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 27 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 28 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 29 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 31 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 32 | [F-bomb](http://twitter.com/search?q=F-bomb) | N/A |
+| 33 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 34 | [Kenrich Williams](http://twitter.com/search?q=Kenrich+Williams) | N/A |
+| 35 | [THE GREATEST OF ALL TIME](http://twitter.com/search?q=THE+GREATEST+OF+ALL+TIME) | N/A |
+| 36 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 37 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 38 | [HE DID IT](http://twitter.com/search?q=HE+DID+IT) | N/A |
+| 39 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 40 | [Congrats King](http://twitter.com/search?q=Congrats+King) | N/A |
+| 41 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
+| 42 | [The Chosen One](http://twitter.com/search?q=The+Chosen+One) | N/A |
+| 43 | [Skip](http://twitter.com/search?q=Skip) | Skip is an informal verb meaning to move quickly, usually by jumping or hopping. It can also mean to avoid or ignore something, or to pass over something without doing it. |
+| 44 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 45 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 46 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 47 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
+| 48 | [Jeanie Buss](http://twitter.com/search?q=Jeanie+Buss) | N/A |
+| 49 | [Fadeaway](http://twitter.com/search?q=Fadeaway) | N/A |
+| 50 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
 
 
 

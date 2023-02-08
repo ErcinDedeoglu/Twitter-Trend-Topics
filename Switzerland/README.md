@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-08 04:16:18 UTC`
+📆 Last Updated: `2023-02-08 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,19 +22,19 @@ This is top 50 for Switzerland
 | 5 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 6 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
 | 7 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 8 | [Alex Frei](http://twitter.com/search?q=Alex+Frei) | N/A |
+| 8 | [alex frei](http://twitter.com/search?q=alex+frei) | N/A |
 | 9 | [#Blanco](http://twitter.com/search?q=%23Blanco) | N/A |
-| 10 | [kapitalismus](http://twitter.com/search?q=kapitalismus) | N/A |
+| 10 | [KaPItaLIsmUs](http://twitter.com/search?q=KaPItaLIsmUs) | N/A |
 | 11 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
 | 12 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 | 13 | [jelmoli](http://twitter.com/search?q=jelmoli) | N/A |
 | 14 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 15 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 16 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 18 | [Correct](http://twitter.com/search?q=Correct) | N/A |
-| 19 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
-| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 15 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 16 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 17 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 21 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 22 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 23 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
@@ -43,20 +43,20 @@ This is top 50 for Switzerland
 | 26 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 27 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
 | 28 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 29 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 29 | [parkplätze](http://twitter.com/search?q=parkpl%c3%a4tze) | N/A |
 | 30 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Shop](http://twitter.com/search?q=Shop) | N/A |
-| 35 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 36 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 31 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
+| 32 | [Shop](http://twitter.com/search?q=Shop) | N/A |
+| 33 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 34 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 37 | [David](http://twitter.com/search?q=David) | N/A |
 | 38 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 39 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
+| 39 | [homöopathie](http://twitter.com/search?q=hom%c3%b6opathie) | N/A |
 | 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 41 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 42 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 42 | [messer](http://twitter.com/search?q=messer) | N/A |
 | 43 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 | 44 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
 | 45 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
