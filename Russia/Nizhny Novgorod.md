@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-02-08 02:40:09 UTC`
+📆 Last Updated: `2023-02-08 03:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
 | 2 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
 | 3 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 4 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
+| 4 | [дудя](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8f) | N/A |
 | 5 | [Певчих](http://twitter.com/search?q=%d0%9f%d0%b5%d0%b2%d1%87%d0%b8%d1%85) | N/A |
 | 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 7 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
@@ -43,15 +43,15 @@ This is top 50 for [Russia](</Russia>)
 | 26 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 27 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
 | 28 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 29 | [выздоравливай](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 29 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
 | 30 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
 | 31 | [кинопоиске](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
 | 32 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 33 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 34 | [Серьезно](http://twitter.com/search?q=%d0%a1%d0%b5%d1%80%d1%8c%d0%b5%d0%b7%d0%bd%d0%be) | N/A |
-| 35 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 36 | [стамбуле](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bc%d0%b1%d1%83%d0%bb%d0%b5) | N/A |
-| 37 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 35 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 36 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 37 | [стамбуле](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bc%d0%b1%d1%83%d0%bb%d0%b5) | N/A |
 | 38 | [божечки](http://twitter.com/search?q=%d0%b1%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
 | 39 | [путиным](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
 | 40 | [кайф](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b9%d1%84) | N/A |

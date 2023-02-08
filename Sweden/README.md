@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-08 02:40:32 UTC`
+📆 Last Updated: `2023-02-08 03:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Sweden
 | 1 | [Zara Larsson](http://twitter.com/search?q=Zara+Larsson) | N/A |
 | 2 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 3 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 4 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 4 | [kempe](http://twitter.com/search?q=kempe) | N/A |
 | 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 7 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Sweden
 | 29 | [Expressens](http://twitter.com/search?q=Expressens) | N/A |
 | 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 31 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 32 | [Somaliland](http://twitter.com/search?q=Somaliland) | N/A |
-| 33 | [carl bildt](http://twitter.com/search?q=carl+bildt) | N/A |
-| 34 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 35 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Somaliland](http://twitter.com/search?q=Somaliland) | N/A |
+| 34 | [carl bildt](http://twitter.com/search?q=carl+bildt) | N/A |
+| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 36 | [Busch](http://twitter.com/search?q=Busch) | N/A |
 | 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 38 | [Anne](http://twitter.com/search?q=Anne) | N/A |
 | 39 | [Victor Malm](http://twitter.com/search?q=Victor+Malm) | N/A |
 | 40 | [neobo](http://twitter.com/search?q=neobo) | N/A |
 | 41 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 42 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 43 | [filmstaden](http://twitter.com/search?q=filmstaden) | N/A |
-| 44 | [lkab](http://twitter.com/search?q=lkab) | N/A |
-| 45 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 46 | [Church](http://twitter.com/search?q=Church) | N/A |
-| 47 | [vågar](http://twitter.com/search?q=v%c3%a5gar) | N/A |
-| 48 | [cehlarik](http://twitter.com/search?q=cehlarik) | N/A |
-| 49 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 43 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 44 | [filmstaden](http://twitter.com/search?q=filmstaden) | N/A |
+| 45 | [lkab](http://twitter.com/search?q=lkab) | N/A |
+| 46 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 47 | [Church](http://twitter.com/search?q=Church) | N/A |
+| 48 | [vågar](http://twitter.com/search?q=v%c3%a5gar) | N/A |
+| 49 | [cehlarik](http://twitter.com/search?q=cehlarik) | N/A |
+| 50 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 
 
 

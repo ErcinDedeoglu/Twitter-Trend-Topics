@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-08 02:40:26 UTC`
+📆 Last Updated: `2023-02-08 03:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,12 +57,12 @@ This is top 50 for Denmark
 | 40 | [#dkforsk](http://twitter.com/search?q=%23dkforsk) | N/A |
 | 41 | [jylland](http://twitter.com/search?q=jylland) | N/A |
 | 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 43 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 44 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 45 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 46 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
-| 47 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 48 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 43 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 44 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 45 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
+| 46 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 48 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 49 | [Håber](http://twitter.com/search?q=H%c3%a5ber) | N/A |
 | 50 | [GG WP](http://twitter.com/search?q=GG+WP) | N/A |
 

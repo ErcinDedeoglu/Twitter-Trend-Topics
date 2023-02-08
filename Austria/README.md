@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-08 02:40:25 UTC`
+📆 Last Updated: `2023-02-08 03:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Austria
 | 9 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
 | 10 | [#GeoEpocheMussBleiben](http://twitter.com/search?q=%23GeoEpocheMussBleiben) | N/A |
 | 11 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 12 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 12 | [klagen](http://twitter.com/search?q=klagen) | N/A |
 | 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
 | 14 | [frauenpolitik](http://twitter.com/search?q=frauenpolitik) | N/A |
 | 15 | [Vereinigung](http://twitter.com/search?q=Vereinigung) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Austria
 | 17 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
 | 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 19 | [Helfer](http://twitter.com/search?q=Helfer) | N/A |
-| 20 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
+| 20 | [köpfe](http://twitter.com/search?q=k%c3%b6pfe) | N/A |
 | 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 22 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
 | 23 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Austria
 | 35 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
 | 36 | [Nudeln](http://twitter.com/search?q=Nudeln) | N/A |
 | 37 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
-| 38 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 38 | [kälte](http://twitter.com/search?q=k%c3%a4lte) | N/A |
 | 39 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 40 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 41 | [zwangsgebühren](http://twitter.com/search?q=zwangsgeb%c3%bchren) | N/A |

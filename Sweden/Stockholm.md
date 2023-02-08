@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-08 02:39:55 UTC`
+📆 Last Updated: `2023-02-08 03:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Zara Larsson](http://twitter.com/search?q=Zara+Larsson) | N/A |
 | 2 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 3 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 4 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 4 | [kempe](http://twitter.com/search?q=kempe) | N/A |
 | 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 7 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
@@ -36,27 +36,27 @@ This is top 50 for [Sweden](</Sweden>)
 | 19 | [nils vikmång](http://twitter.com/search?q=nils+vikm%c3%a5ng) | N/A |
 | 20 | [Bris](http://twitter.com/search?q=Bris) | N/A |
 | 21 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 22 | [owe nilsson](http://twitter.com/search?q=owe+nilsson) | N/A |
-| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 24 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 25 | [Young Boys](http://twitter.com/search?q=Young+Boys) | N/A |
-| 26 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
-| 27 | [wtf det är redan februari](http://twitter.com/search?q=wtf+det+%c3%a4r+redan+februari) | N/A |
-| 28 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 29 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 30 | [Expressens](http://twitter.com/search?q=Expressens) | N/A |
-| 31 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 32 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 23 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 24 | [Young Boys](http://twitter.com/search?q=Young+Boys) | N/A |
+| 25 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
+| 26 | [wtf det är redan februari](http://twitter.com/search?q=wtf+det+%c3%a4r+redan+februari) | N/A |
+| 27 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 28 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 29 | [Expressens](http://twitter.com/search?q=Expressens) | N/A |
+| 30 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 31 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 33 | [Somaliland](http://twitter.com/search?q=Somaliland) | N/A |
 | 34 | [carl bildt](http://twitter.com/search?q=carl+bildt) | N/A |
 | 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 36 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 38 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 39 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 40 | [Victor Malm](http://twitter.com/search?q=Victor+Malm) | N/A |
-| 41 | [neobo](http://twitter.com/search?q=neobo) | N/A |
-| 42 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 38 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 39 | [Victor Malm](http://twitter.com/search?q=Victor+Malm) | N/A |
+| 40 | [neobo](http://twitter.com/search?q=neobo) | N/A |
+| 41 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 43 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 44 | [filmstaden](http://twitter.com/search?q=filmstaden) | N/A |
 | 45 | [lkab](http://twitter.com/search?q=lkab) | N/A |

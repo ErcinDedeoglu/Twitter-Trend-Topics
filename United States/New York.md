@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-08 02:40:21 UTC`
+📆 Last Updated: `2023-02-08 03:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 2 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
-| 3 | [Sims](http://twitter.com/search?q=Sims) | N/A |
-| 4 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 5 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 6 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 7 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 2 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 3 | [Adeed Fayaz](http://twitter.com/search?q=Adeed+Fayaz) | N/A |
+| 4 | [Dru Smith](http://twitter.com/search?q=Dru+Smith) | N/A |
+| 5 | [Sims](http://twitter.com/search?q=Sims) | N/A |
+| 6 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 7 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 8 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 9 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 10 | [#NYPD](http://twitter.com/search?q=%23NYPD) | N/A |
-| 11 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
-| 12 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 13 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 14 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 15 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 16 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 17 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 18 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 19 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 20 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 21 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 22 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 23 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
-| 24 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 27 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 28 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 29 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 30 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 31 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 32 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
-| 33 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 34 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 35 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
-| 36 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 37 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
-| 38 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 39 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 40 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 41 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 42 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 43 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 44 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 45 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 46 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 47 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 48 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
-| 49 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 50 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 10 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 11 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 12 | [#NYPD](http://twitter.com/search?q=%23NYPD) | N/A |
+| 13 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 14 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 17 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 18 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 19 | [Leonardo DiCaprio](http://twitter.com/search?q=Leonardo+DiCaprio) | N/A |
+| 20 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 21 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 22 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 23 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 25 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 26 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 27 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 28 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 29 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 30 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 31 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 32 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 33 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 34 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 35 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 36 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 37 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 38 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 39 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 40 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
+| 41 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 42 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
+| 43 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 44 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 45 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 46 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 47 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
+| 48 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 49 | [The Talk](http://twitter.com/search?q=The+Talk) | N/A |
+| 50 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
 
 
 

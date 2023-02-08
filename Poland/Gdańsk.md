@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-08 02:39:47 UTC`
+📆 Last Updated: `2023-02-08 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
 | 2 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 4 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 5 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 6 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 7 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 3 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 4 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 5 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 6 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 7 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
 | 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 9 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 10 | [Kadyrow](http://twitter.com/search?q=Kadyrow) | N/A |
@@ -30,16 +30,16 @@ This is top 50 for [Poland](</Poland>)
 | 13 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
 | 14 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
 | 15 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 16 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
-| 17 | [durszlak](http://twitter.com/search?q=durszlak) | N/A |
-| 18 | [Jan Olszewski](http://twitter.com/search?q=Jan+Olszewski) | N/A |
-| 19 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 20 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 21 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 22 | [Krajowym Zasobie Nieruchomości](http://twitter.com/search?q=Krajowym+Zasobie+Nieruchomo%c5%9bci) | N/A |
-| 23 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 24 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
-| 25 | [Jana Olszewskiego](http://twitter.com/search?q=Jana+Olszewskiego) | N/A |
+| 16 | [jan olszewski](http://twitter.com/search?q=jan+olszewski) | N/A |
+| 17 | [Izera](http://twitter.com/search?q=Izera) | N/A |
+| 18 | [Jelczach](http://twitter.com/search?q=Jelczach) | N/A |
+| 19 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 20 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
+| 21 | [krajowym zasobie nieruchomości](http://twitter.com/search?q=krajowym+zasobie+nieruchomo%c5%9bci) | N/A |
+| 22 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 23 | [Kukizem](http://twitter.com/search?q=Kukizem) | N/A |
+| 24 | [Durszlak](http://twitter.com/search?q=Durszlak) | N/A |
+| 25 | [jana olszewskiego](http://twitter.com/search?q=jana+olszewskiego) | N/A |
 | 26 | [Górach Izerskich](http://twitter.com/search?q=G%c3%b3rach+Izerskich) | N/A |
 | 27 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
 | 28 | [tygryska](http://twitter.com/search?q=tygryska) | N/A |
@@ -48,13 +48,13 @@ This is top 50 for [Poland](</Poland>)
 | 31 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 32 | [mama ginekolog](http://twitter.com/search?q=mama+ginekolog) | N/A |
 | 33 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 34 | [Łotwie](http://twitter.com/search?q=%c5%81otwie) | N/A |
-| 35 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 36 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 38 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 39 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 40 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
+| 34 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 36 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 37 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 38 | [Krabów](http://twitter.com/search?q=Krab%c3%b3w) | N/A |
+| 39 | [Łotwie](http://twitter.com/search?q=%c5%81otwie) | N/A |
+| 40 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 41 | [Ślązaków](http://twitter.com/search?q=%c5%9al%c4%85zak%c3%b3w) | N/A |
 | 42 | [Waters](http://twitter.com/search?q=Waters) | N/A |
 | 43 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |

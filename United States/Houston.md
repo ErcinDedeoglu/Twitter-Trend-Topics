@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-08 02:40:19 UTC`
+📆 Last Updated: `2023-02-08 03:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 2 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 6 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 7 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 9 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 10 | [George Floyd](http://twitter.com/search?q=George+Floyd) | George Floyd was an African American man who was killed in Minneapolis, Minnesota, on May 25, 2020, after a police officer knelt on his neck for several minutes. His death sparked nationwide protests against police brutality and racism. The phrase "George Floyd" has come to represent the fight for racial justice and an end to police violence against people of color. |
-| 11 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 12 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 13 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 15 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 3 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 4 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 5 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 6 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 7 | [Reed](http://twitter.com/search?q=Reed) | N/A |
+| 8 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 9 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 10 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 11 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 12 | [George Floyd](http://twitter.com/search?q=George+Floyd) | George Floyd was an African American man who was killed in Minneapolis, Minnesota, on May 25, 2020, after a police officer knelt on his neck for several minutes. His death sparked nationwide protests against police brutality and racism. The phrase "George Floyd" has come to represent the fight for racial justice and an end to police violence against people of color. |
+| 13 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 14 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 15 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
 | 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 18 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 19 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 20 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 17 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 18 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 19 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 20 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
 | 21 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 22 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
-| 23 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 24 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 25 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 26 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 27 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 28 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 29 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 30 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 32 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
-| 33 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 34 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
-| 35 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 36 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 37 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 38 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 39 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
-| 40 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
-| 41 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 42 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 43 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 44 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 45 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 46 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 47 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 48 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 49 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 50 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
+| 22 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 23 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 24 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 25 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 26 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 27 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 28 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 29 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 30 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 31 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 32 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 33 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 34 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
+| 35 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 36 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 37 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
+| 38 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 39 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 40 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 41 | [Brandon Tsay](http://twitter.com/search?q=Brandon+Tsay) | N/A |
+| 42 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 43 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
+| 44 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 45 | [The Talk](http://twitter.com/search?q=The+Talk) | N/A |
+| 46 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
+| 47 | [Let's Finish the Job](http://twitter.com/search?q=Let%27s+Finish+the+Job) | N/A |
+| 48 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 49 | [Junk Fee Prevention Act](http://twitter.com/search?q=Junk+Fee+Prevention+Act) | N/A |
+| 50 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
 
 
 

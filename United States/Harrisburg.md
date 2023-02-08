@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-08 02:40:19 UTC`
+📆 Last Updated: `2023-02-08 03:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 2 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 3 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 4 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 5 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 6 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 7 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 8 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 10 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 13 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 14 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 15 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 16 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 17 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
-| 18 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 19 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 20 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 22 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 23 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 24 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 25 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 26 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
-| 27 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 28 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 29 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 30 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 31 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
-| 32 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 33 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 34 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
-| 35 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
-| 36 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 37 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 38 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 39 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 40 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 41 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 42 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 43 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 44 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 45 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
-| 46 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 47 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 48 | [Did Biden](http://twitter.com/search?q=Did+Biden) | N/A |
-| 49 | [Bipartisan Infrastructure Law](http://twitter.com/search?q=Bipartisan+Infrastructure+Law) | N/A |
-| 50 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 1 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 2 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 3 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 4 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 5 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 7 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 8 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 9 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 10 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 11 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 12 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 16 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 18 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 19 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 20 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 21 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 22 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 23 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 24 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 25 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 26 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 27 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 28 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 29 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 30 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 31 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 32 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
+| 33 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 34 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 35 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
+| 36 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 37 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 38 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 39 | [Brandon Tsay](http://twitter.com/search?q=Brandon+Tsay) | N/A |
+| 40 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 41 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
+| 42 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 43 | [The Talk](http://twitter.com/search?q=The+Talk) | N/A |
+| 44 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
+| 45 | [Let's Finish the Job](http://twitter.com/search?q=Let%27s+Finish+the+Job) | N/A |
+| 46 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 47 | [Junk Fee Prevention Act](http://twitter.com/search?q=Junk+Fee+Prevention+Act) | N/A |
+| 48 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
+| 49 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 50 | [The President](http://twitter.com/search?q=The+President) | N/A |
 
 
 

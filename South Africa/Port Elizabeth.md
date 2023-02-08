@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-08 02:40:06 UTC`
+📆 Last Updated: `2023-02-08 03:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 3 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 4 | [#nedbankcup2023](http://twitter.com/search?q=%23nedbankcup2023) | N/A |
-| 5 | [onyango](http://twitter.com/search?q=onyango) | N/A |
-| 6 | [#wooliesvalentines](http://twitter.com/search?q=%23wooliesvalentines) | N/A |
-| 7 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
+| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 4 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 5 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 6 | [onyango](http://twitter.com/search?q=onyango) | N/A |
+| 7 | [#wooliesvalentines](http://twitter.com/search?q=%23wooliesvalentines) | N/A |
 | 8 | [Olivia and Thabang](http://twitter.com/search?q=Olivia+and+Thabang) | N/A |
 | 9 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
 | 10 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
@@ -31,40 +31,40 @@ This is top 50 for [South Africa](</South Africa>)
 | 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 15 | [Jenni O](http://twitter.com/search?q=Jenni+O) | N/A |
 | 16 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 17 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 18 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
-| 19 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 20 | [Richards Bay](http://twitter.com/search?q=Richards+Bay) | N/A |
+| 17 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
+| 18 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 19 | [richards bay](http://twitter.com/search?q=richards+bay) | N/A |
+| 20 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 21 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 22 | [Sipho Mbule](http://twitter.com/search?q=Sipho+Mbule) | N/A |
+| 22 | [sipho mbule](http://twitter.com/search?q=sipho+mbule) | N/A |
 | 23 | [Madea](http://twitter.com/search?q=Madea) | N/A |
-| 24 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 25 | [Ntukza](http://twitter.com/search?q=Ntukza) | N/A |
-| 26 | [Mahambehlala](http://twitter.com/search?q=Mahambehlala) | N/A |
-| 27 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 28 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
-| 29 | [Ngobeni](http://twitter.com/search?q=Ngobeni) | N/A |
-| 30 | [zakes](http://twitter.com/search?q=zakes) | N/A |
-| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 32 | [shalulile](http://twitter.com/search?q=shalulile) | N/A |
-| 33 | [gift of the givers](http://twitter.com/search?q=gift+of+the+givers) | N/A |
-| 34 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 36 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
-| 37 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 38 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 39 | [le franschhoek hotel & spa](http://twitter.com/search?q=le+franschhoek+hotel+%26+spa) | N/A |
-| 40 | [Marshall Dlamini](http://twitter.com/search?q=Marshall+Dlamini) | N/A |
+| 24 | [Mahambehlala](http://twitter.com/search?q=Mahambehlala) | N/A |
+| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 26 | [Ngobeni](http://twitter.com/search?q=Ngobeni) | N/A |
+| 27 | [zakes](http://twitter.com/search?q=zakes) | N/A |
+| 28 | [zungu](http://twitter.com/search?q=zungu) | N/A |
+| 29 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 30 | [shalulile](http://twitter.com/search?q=shalulile) | N/A |
+| 31 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 32 | [gift of the givers](http://twitter.com/search?q=gift+of+the+givers) | N/A |
+| 33 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 34 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 35 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
+| 36 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
+| 37 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 38 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 39 | [Ntukza](http://twitter.com/search?q=Ntukza) | N/A |
+| 40 | [le franschhoek hotel & spa](http://twitter.com/search?q=le+franschhoek+hotel+%26+spa) | N/A |
 | 41 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | Robert Glasper is an American jazz pianist and record producer. He is known for his innovative fusion of jazz, hip-hop, R&B, and rock music. He has won three Grammy Awards for his work, including Best R&B Album for Black Radio (2012) and Best Traditional R&B Performance for "Jesus Children" (2013). |
 | 42 | [lehasa](http://twitter.com/search?q=lehasa) | N/A |
 | 43 | [Cape Town CBD](http://twitter.com/search?q=Cape+Town+CBD) | N/A |
 | 44 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
-| 45 | [paul mashatile](http://twitter.com/search?q=paul+mashatile) | N/A |
-| 46 | [mabutho](http://twitter.com/search?q=mabutho) | N/A |
-| 47 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 48 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
-| 49 | [Khwezi](http://twitter.com/search?q=Khwezi) | N/A |
-| 50 | [anathi](http://twitter.com/search?q=anathi) | N/A |
+| 45 | [Marshall Dlamini](http://twitter.com/search?q=Marshall+Dlamini) | N/A |
+| 46 | [paul mashatile](http://twitter.com/search?q=paul+mashatile) | N/A |
+| 47 | [mabutho](http://twitter.com/search?q=mabutho) | N/A |
+| 48 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 49 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
+| 50 | [khwezi](http://twitter.com/search?q=khwezi) | N/A |
 
 
 

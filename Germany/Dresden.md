@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-08 02:39:50 UTC`
+📆 Last Updated: `2023-02-08 03:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,21 +29,21 @@ This is top 50 for [Germany](</Germany>)
 | 12 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 13 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 | 14 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 15 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 16 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 17 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 18 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 15 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 16 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 18 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
 | 19 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 20 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 21 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 21 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
 | 22 | [Atomschlag](http://twitter.com/search?q=Atomschlag) | N/A |
 | 23 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 24 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 | 25 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 26 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 27 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 28 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 29 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 26 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 27 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 28 | [Gürtellinie](http://twitter.com/search?q=G%c3%bcrtellinie) | N/A |
+| 29 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
 | 30 | [Umgangs](http://twitter.com/search?q=Umgangs) | N/A |
 | 31 | [Lade](http://twitter.com/search?q=Lade) | N/A |
 | 32 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
@@ -53,15 +53,15 @@ This is top 50 for [Germany](</Germany>)
 | 36 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
 | 37 | [Helge](http://twitter.com/search?q=Helge) | N/A |
 | 38 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 39 | [Lilien](http://twitter.com/search?q=Lilien) | N/A |
-| 40 | [Marzipan](http://twitter.com/search?q=Marzipan) | N/A |
-| 41 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 42 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 43 | [Radfahrern](http://twitter.com/search?q=Radfahrern) | N/A |
+| 39 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 40 | [lilien](http://twitter.com/search?q=lilien) | N/A |
+| 41 | [marzipan](http://twitter.com/search?q=marzipan) | N/A |
+| 42 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 43 | [Steam](http://twitter.com/search?q=Steam) | N/A |
 | 44 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 | 45 | [Eingriff in den Straßenverkehr](http://twitter.com/search?q=Eingriff+in+den+Stra%c3%9fenverkehr) | N/A |
-| 46 | [Witze](http://twitter.com/search?q=Witze) | N/A |
-| 47 | [Menschen mit Uterus](http://twitter.com/search?q=Menschen+mit+Uterus) | N/A |
+| 46 | [menschen mit uterus](http://twitter.com/search?q=menschen+mit+uterus) | N/A |
+| 47 | [Witze](http://twitter.com/search?q=Witze) | N/A |
 
 
 

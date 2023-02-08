@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-08 02:40:20 UTC`
+📆 Last Updated: `2023-02-08 03:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 2 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 1 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 2 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
 | 3 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 6 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 8 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 9 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 10 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 13 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 16 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 4 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 5 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 6 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 7 | [#RokuXDashPass](http://twitter.com/search?q=%23RokuXDashPass) | N/A |
+| 8 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 9 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
+| 10 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 11 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 12 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
+| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 14 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 15 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 16 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 17 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 18 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 19 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 20 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 21 | [DREAM JOB](http://twitter.com/search?q=DREAM+JOB) | N/A |
-| 22 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 23 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 24 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 25 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 26 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 20 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 21 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 23 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 24 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 25 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 26 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
 | 27 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 28 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 29 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 30 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 28 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 29 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 30 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
 | 31 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 32 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 33 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 34 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 35 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 36 | [Isiah Thomas](http://twitter.com/search?q=Isiah+Thomas) | N/A |
-| 37 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 38 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 39 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 40 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 41 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 42 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 43 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
-| 44 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 45 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 46 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 47 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
-| 48 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 32 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 33 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 34 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 35 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 36 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 37 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 38 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 39 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 40 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 41 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 42 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 43 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 44 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 45 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
+| 46 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
+| 47 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 48 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 49 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 50 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-08 02:40:26 UTC`
+📆 Last Updated: `2023-02-08 03:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,14 +20,14 @@ This is top 50 for Belarus
 | 3 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
 | 4 | [#HappyINDay](http://twitter.com/search?q=%23HappyINDay) | N/A |
 | 5 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 6 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
-| 7 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 6 | [дудя](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8f) | N/A |
+| 7 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 8 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
 | 9 | [#кубокразвития](http://twitter.com/search?q=%23%d0%ba%d1%83%d0%b1%d0%be%d0%ba%d1%80%d0%b0%d0%b7%d0%b2%d0%b8%d1%82%d0%b8%d1%8f) | N/A |
 | 10 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
 | 11 | [аааа](http://twitter.com/search?q=%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
 | 12 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 13 | [согласен](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 13 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 | 14 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
 | 15 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
 | 16 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |

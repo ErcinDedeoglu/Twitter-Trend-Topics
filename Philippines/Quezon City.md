@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-08 02:40:03 UTC`
+📆 Last Updated: `2023-02-08 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
-| 2 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
-| 3 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 4 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 5 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 1 | [#ทฤษฎีสีชมพูxCH3](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xCH3) | N/A |
+| 2 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 3 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 4 | [#MCIReunited](http://twitter.com/search?q=%23MCIReunited) | N/A |
+| 5 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
 | 6 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 7 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 8 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 9 | [#OurStarYunhyeongDay](http://twitter.com/search?q=%23OurStarYunhyeongDay) | N/A |
+| 7 | [#SB19onWishBusUSA](http://twitter.com/search?q=%23SB19onWishBusUSA) | N/A |
+| 8 | [vocal king i.n day](http://twitter.com/search?q=vocal+king+i.n+day) | N/A |
+| 9 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 10 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
-| 11 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
-| 12 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 13 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
-| 14 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
-| 15 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 16 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 18 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
-| 19 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
-| 20 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
-| 21 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 22 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
-| 23 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 24 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 25 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
-| 26 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
-| 27 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
-| 28 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
-| 29 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 30 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
-| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 32 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 33 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 34 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 35 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
-| 36 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
-| 37 | [MISAMO](http://twitter.com/search?q=MISAMO) | N/A |
-| 38 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
-| 39 | [MAINE MENDOZA Incredible](http://twitter.com/search?q=MAINE+MENDOZA+Incredible) | N/A |
-| 40 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
-| 41 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
-| 42 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
-| 43 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
-| 44 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 45 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 46 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 47 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 48 | [vernon sunbaenim](http://twitter.com/search?q=vernon+sunbaenim) | N/A |
-| 49 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 50 | [we love you taekook](http://twitter.com/search?q=we+love+you+taekook) | N/A |
+| 11 | [EXO FANMEETING](http://twitter.com/search?q=EXO+FANMEETING) | N/A |
+| 12 | [versatile donny pangilinan](http://twitter.com/search?q=versatile+donny+pangilinan) | N/A |
+| 13 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 14 | [PANGAKO YAN WISHCLUSIVE](http://twitter.com/search?q=PANGAKO+YAN+WISHCLUSIVE) | N/A |
+| 15 | [ANGGE G DAY](http://twitter.com/search?q=ANGGE+G+DAY) | N/A |
+| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 17 | [KENZIE](http://twitter.com/search?q=KENZIE) | N/A |
+| 18 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 19 | [PNoy](http://twitter.com/search?q=PNoy) | N/A |
+| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 21 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 22 | [ShairaDiaz As Ria](http://twitter.com/search?q=ShairaDiaz+As+Ria) | N/A |
+| 23 | [RIA IS COMING](http://twitter.com/search?q=RIA+IS+COMING) | N/A |
+| 24 | [Cha Cruz](http://twitter.com/search?q=Cha+Cruz) | N/A |
+| 25 | [valentina venomous queen](http://twitter.com/search?q=valentina+venomous+queen) | N/A |
+| 26 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 27 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
+| 28 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 29 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 30 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 31 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 32 | [Sparks FILAY](http://twitter.com/search?q=Sparks+FILAY) | N/A |
+| 33 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
+| 34 | [six unbellelievableyears](http://twitter.com/search?q=six+unbellelievableyears) | N/A |
+| 35 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 36 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
+| 37 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 38 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 39 | [BOOSEOKSOON COMEBACK TIME](http://twitter.com/search?q=BOOSEOKSOON+COMEBACK+TIME) | "BOOSEOKSOON COMEBACK TIME" is a phrase used by fans of the South Korean boy band BTS to express their excitement for the group's upcoming comeback. It is a play on words, combining the group's name (BTS) with the phrase "soon come back time". In English, it means that BTS will soon be making a return and that fans should get ready for it. |
+| 40 | [MiSaMo](http://twitter.com/search?q=MiSaMo) | N/A |
+| 41 | [Yelan](http://twitter.com/search?q=Yelan) | Yelan is a Chinese name that means "elegant or graceful". It is often used as a given name for girls. |
+| 42 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
+| 43 | [Happy 800](http://twitter.com/search?q=Happy+800) | N/A |
+| 44 | [FRANSETH ChiCo REUNITED](http://twitter.com/search?q=FRANSETH+ChiCo+REUNITED) | N/A |
+| 45 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 46 | [THE AUDACITY](http://twitter.com/search?q=THE+AUDACITY) | N/A |
+| 47 | [MAINE MENDOZA Incredible](http://twitter.com/search?q=MAINE+MENDOZA+Incredible) | N/A |
+| 48 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 49 | [Lo Siento](http://twitter.com/search?q=Lo+Siento) | N/A |
+| 50 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
 
 
 

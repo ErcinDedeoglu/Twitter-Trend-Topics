@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-08 02:40:22 UTC`
+📆 Last Updated: `2023-02-08 03:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 2 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
-| 3 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
-| 4 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
-| 5 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 7 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
-| 10 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 11 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 12 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 13 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 14 | [#StateOfConfusion](http://twitter.com/search?q=%23StateOfConfusion) | N/A |
-| 15 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 16 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 17 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
-| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 20 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 21 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 22 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 23 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
-| 24 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 25 | [CHIPS and Science Act](http://twitter.com/search?q=CHIPS+and+Science+Act) | N/A |
-| 26 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 27 | [Nancy Pelosi](http://twitter.com/search?q=Nancy+Pelosi) | N/A |
-| 28 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
-| 29 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 30 | [Designated Survivor](http://twitter.com/search?q=Designated+Survivor) | N/A |
-| 31 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 32 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
-| 33 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 34 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 35 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 36 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 37 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 38 | [Pennywise](http://twitter.com/search?q=Pennywise) | N/A |
-| 39 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 40 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 41 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
-| 42 | [Julius Marble](http://twitter.com/search?q=Julius+Marble) | N/A |
-| 43 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 45 | [Did Biden](http://twitter.com/search?q=Did+Biden) | N/A |
-| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 47 | [Bipartisan Infrastructure Law](http://twitter.com/search?q=Bipartisan+Infrastructure+Law) | N/A |
-| 48 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 49 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
-| 50 | [Joe Manchin](http://twitter.com/search?q=Joe+Manchin) | N/A |
+| 1 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 2 | [Sarver](http://twitter.com/search?q=Sarver) | N/A |
+| 3 | [Ishbia](http://twitter.com/search?q=Ishbia) | N/A |
+| 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 5 | [#WeAreTheValley](http://twitter.com/search?q=%23WeAreTheValley) | N/A |
+| 6 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 8 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 9 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
+| 10 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 13 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 14 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 16 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 17 | [Social Security and Medicare](http://twitter.com/search?q=Social+Security+and+Medicare) | Social Security and Medicare are two government-run programs in the United States that provide financial assistance to individuals and families. Social Security provides retirement benefits, disability benefits, and survivor benefits to eligible individuals. Medicare is a health insurance program that helps cover medical costs for people over the age of 65 or those with certain disabilities. |
+| 18 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 19 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 20 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 21 | [BAN ASSAULT WEAPONS NOW](http://twitter.com/search?q=BAN+ASSAULT+WEAPONS+NOW) | N/A |
+| 22 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 23 | [Made in America](http://twitter.com/search?q=Made+in+America) | N/A |
+| 24 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 25 | [Big Bird](http://twitter.com/search?q=Big+Bird) | N/A |
+| 26 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 27 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 28 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 29 | [Buy American](http://twitter.com/search?q=Buy+American) | N/A |
+| 30 | [NAME ME ONE](http://twitter.com/search?q=NAME+ME+ONE) | N/A |
+| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 32 | [PASS THE PRO ACT](http://twitter.com/search?q=PASS+THE+PRO+ACT) | N/A |
+| 33 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 34 | [Cruella DeVille](http://twitter.com/search?q=Cruella+DeVille) | N/A |
+| 35 | [Inflation Reduction Act](http://twitter.com/search?q=Inflation+Reduction+Act) | N/A |
+| 36 | [Brandon Tsay](http://twitter.com/search?q=Brandon+Tsay) | N/A |
+| 37 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 38 | [Go Joe](http://twitter.com/search?q=Go+Joe) | N/A |
+| 39 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 40 | [The Talk](http://twitter.com/search?q=The+Talk) | N/A |
+| 41 | [Uncle Joe](http://twitter.com/search?q=Uncle+Joe) | N/A |
+| 42 | [Let's Finish the Job](http://twitter.com/search?q=Let%27s+Finish+the+Job) | N/A |
+| 43 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 44 | [Junk Fee Prevention Act](http://twitter.com/search?q=Junk+Fee+Prevention+Act) | N/A |
+| 45 | [Linsanity](http://twitter.com/search?q=Linsanity) | N/A |
+| 46 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
+| 47 | [The President](http://twitter.com/search?q=The+President) | N/A |
+| 48 | [Joe Manchin](http://twitter.com/search?q=Joe+Manchin) | N/A |
+| 49 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 50 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-08 02:40:28 UTC`
+📆 Last Updated: `2023-02-08 03:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,35 +24,30 @@ This is top 50 for Italy
 | 7 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
 | 8 | [Olly](http://twitter.com/search?q=Olly) | N/A |
 | 9 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 10 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 11 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 12 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 13 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 14 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 15 | [#cuginidicampagna](http://twitter.com/search?q=%23cuginidicampagna) | N/A |
-| 16 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 17 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 18 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 19 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 20 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 10 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 11 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 13 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 14 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 15 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 16 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 17 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 18 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 19 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 20 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
 | 21 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 22 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 23 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
-| 24 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
-| 25 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 26 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 27 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 28 | [#SalernitanaJuventus](http://twitter.com/search?q=%23SalernitanaJuventus) | N/A |
-| 29 | [Blanchito](http://twitter.com/search?q=Blanchito) | N/A |
-| 30 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 31 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
-| 32 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
-| 33 | [Battisti](http://twitter.com/search?q=Battisti) | N/A |
-| 34 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
-| 35 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 36 | [canzone](http://twitter.com/search?q=canzone) | N/A |
-| 37 | [#Vlahovic](http://twitter.com/search?q=%23Vlahovic) | N/A |
-| 38 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
+| 22 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
+| 23 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 24 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 25 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 26 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
+| 27 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
+| 28 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
+| 29 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 30 | [Piero](http://twitter.com/search?q=Piero) | N/A |
+| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 32 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
+| 33 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
 
 
 

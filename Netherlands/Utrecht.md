@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-08 02:39:52 UTC`
+📆 Last Updated: `2023-02-08 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,14 +20,14 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [#nachee](http://twitter.com/search?q=%23nachee) | N/A |
 | 4 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
 | 5 | [#aardbeving](http://twitter.com/search?q=%23aardbeving) | N/A |
-| 6 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
+| 6 | [#SOTU](http://twitter.com/search?q=%23SOTU) | N/A |
 | 7 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 8 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
 | 9 | [Essent](http://twitter.com/search?q=Essent) | N/A |
 | 10 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
 | 11 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
 | 12 | [Gecondoleerd Peter](http://twitter.com/search?q=Gecondoleerd+Peter) | N/A |
-| 13 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 13 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
 | 14 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
 | 15 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
 | 16 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
@@ -41,14 +41,14 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 24 | [Syrische](http://twitter.com/search?q=Syrische) | N/A |
 | 25 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
 | 26 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 28 | [waakhond acm](http://twitter.com/search?q=waakhond+acm) | N/A |
 | 29 | [dag 7](http://twitter.com/search?q=dag+7) | N/A |
-| 30 | [Hooijdonk](http://twitter.com/search?q=Hooijdonk) | N/A |
-| 31 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
-| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 33 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 34 | [Janneke](http://twitter.com/search?q=Janneke) | N/A |
+| 30 | [hooijdonk](http://twitter.com/search?q=hooijdonk) | N/A |
+| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 32 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 34 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 35 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
 | 36 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 39 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
 | 40 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
 | 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
-| 43 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 44 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 45 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 42 | [Janneke](http://twitter.com/search?q=Janneke) | N/A |
+| 43 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
+| 44 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 45 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 46 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
 | 47 | [ontdekt](http://twitter.com/search?q=ontdekt) | N/A |
 | 48 | [margo smit](http://twitter.com/search?q=margo+smit) | N/A |
-| 49 | [Luisteraar](http://twitter.com/search?q=Luisteraar) | N/A |
+| 49 | [luisteraar](http://twitter.com/search?q=luisteraar) | N/A |
 | 50 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 
 

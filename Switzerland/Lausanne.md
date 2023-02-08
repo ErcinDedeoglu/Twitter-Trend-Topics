@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-08 02:39:54 UTC`
+📆 Last Updated: `2023-02-08 03:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,20 +31,20 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
 | 15 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 | 16 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 17 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Correct](http://twitter.com/search?q=Correct) | N/A |
-| 20 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
-| 21 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 22 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 23 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 29 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 30 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 19 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
+| 20 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 21 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 22 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 25 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 26 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 27 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
+| 28 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 29 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 30 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
 | 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 32 | [Mütter](http://twitter.com/search?q=M%c3%bctter) | N/A |
 | 33 | [Shop](http://twitter.com/search?q=Shop) | N/A |
@@ -55,13 +55,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 38 | [Homöopathie](http://twitter.com/search?q=Hom%c3%b6opathie) | N/A |
 | 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 40 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
-| 41 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 42 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 43 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 44 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 45 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 46 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 42 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 43 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 45 | [Faudrait](http://twitter.com/search?q=Faudrait) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
 
 
 

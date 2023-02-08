@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-08 02:40:25 UTC`
+📆 Last Updated: `2023-02-08 03:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,11 +31,11 @@ This is top 50 for Algeria
 | 14 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 15 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 16 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 17 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 18 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
-| 19 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
-| 20 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
-| 21 | [#اوكرانيا](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 17 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
+| 18 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
+| 19 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
+| 20 | [#اوكرانيا](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 21 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 22 | [المساعدات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 23 | [الفريق الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 24 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
@@ -54,12 +54,12 @@ This is top 50 for Algeria
 | 37 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 38 | [الحظر الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b8%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
 | 39 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 40 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 41 | [الاماكن الحضريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a%d9%87) | N/A |
-| 42 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
-| 43 | [الجنسيه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
-| 44 | [الطايرات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 45 | [رييس الجمهوريه السيد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 40 | [الاماكن الحضريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a%d9%87) | N/A |
+| 41 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
+| 42 | [الجنسيه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 43 | [الطايرات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 44 | [رييس الجمهوريه السيد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 45 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
 | 46 | [air algérie](http://twitter.com/search?q=air+alg%c3%a9rie) | N/A |
 | 47 | [الرقابه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 48 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
