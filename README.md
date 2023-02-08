@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-08 19:15:25 UTC`
+📆 Last Updated: `2023-02-08 20:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
-| 2 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
-| 3 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
-| 4 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 5 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
-| 6 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
-| 7 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 8 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 9 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 11 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 12 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 13 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 14 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 15 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 16 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 17 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 18 | [Matías Messi](http://twitter.com/search?q=Mat%c3%adas+Messi) | N/A |
-| 19 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 20 | [PIYA RE AUDIO OUT NOW](http://twitter.com/search?q=PIYA+RE+AUDIO+OUT+NOW) | N/A |
-| 21 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 22 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 23 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 24 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 25 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 26 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 27 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 28 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 29 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 30 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 31 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 32 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
-| 33 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 34 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 35 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 36 | [ワートリ10周年](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%88%e3%83%aa10%e5%91%a8%e5%b9%b4) | N/A |
-| 37 | [Leo Messi](http://twitter.com/search?q=Leo+Messi) | N/A |
-| 38 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 39 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 40 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 41 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 42 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 44 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
-| 45 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 46 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 47 | [スカーミッシャー](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a3%e3%83%bc) | N/A |
-| 48 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 49 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 50 | [ミラージュ強化](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%83%bc%e3%82%b8%e3%83%a5%e5%bc%b7%e5%8c%96) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [متولي](http://twitter.com/search?q=%d9%85%d8%aa%d9%88%d9%84%d9%8a) | N/A |
+| 3 | [#الاهلي_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 4 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 5 | [#حول_علي_Beem](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%84_%d8%b9%d9%84%d9%8a_Beem) | N/A |
+| 6 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 7 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
+| 8 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 9 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
+| 10 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 11 | [#OLLOSC](http://twitter.com/search?q=%23OLLOSC) | N/A |
+| 12 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 13 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 14 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 15 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 16 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 17 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 20 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 21 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 22 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 23 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 24 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 25 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 26 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 27 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 28 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 29 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 30 | [Fred Matiang](http://twitter.com/search?q=Fred+Matiang) | N/A |
+| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 32 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 33 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 34 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
+| 35 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 36 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
+| 37 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 38 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 39 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 41 | [PIYA RE AUDIO OUT NOW](http://twitter.com/search?q=PIYA+RE+AUDIO+OUT+NOW) | N/A |
+| 42 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 43 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 44 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 45 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 46 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 47 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
+| 48 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 49 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 50 | [Lalanne](http://twitter.com/search?q=Lalanne) | N/A |
 
 
 

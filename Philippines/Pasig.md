@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-08 19:15:58 UTC`
+📆 Last Updated: `2023-02-08 20:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,26 +21,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 5 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
 | 6 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 7 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
-| 8 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 9 | [HAPPY BIRTHDAY WONIE](http://twitter.com/search?q=HAPPY+BIRTHDAY+WONIE) | N/A |
-| 10 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
-| 11 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 12 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
-| 13 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 14 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
-| 15 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
-| 16 | [#초심_그이상의_사랑받는_정원](http://twitter.com/search?q=%23%ec%b4%88%ec%8b%ac_%ea%b7%b8%ec%9d%b4%ec%83%81%ec%9d%98_%ec%82%ac%eb%9e%91%eb%b0%9b%eb%8a%94_%ec%a0%95%ec%9b%90) | N/A |
-| 17 | [#MOMO](http://twitter.com/search?q=%23MOMO) | N/A |
-| 18 | [#엔하이픈_정](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88_%ec%a0%95) | N/A |
-| 19 | [#MCISaveMariaClara](http://twitter.com/search?q=%23MCISaveMariaClara) | N/A |
-| 20 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 21 | [#DarnaSpace](http://twitter.com/search?q=%23DarnaSpace) | N/A |
-| 22 | [#DLDiversion](http://twitter.com/search?q=%23DLDiversion) | N/A |
-| 23 | [#FELIP_STRAYDOGS](http://twitter.com/search?q=%23FELIP_STRAYDOGS) | N/A |
-| 24 | [#KulayRosasAngBukas](http://twitter.com/search?q=%23KulayRosasAngBukas) | N/A |
-| 25 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
-| 26 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 8 | [BELLEscapesSummer WithSHEIN](http://twitter.com/search?q=BELLEscapesSummer+WithSHEIN) | N/A |
+| 9 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
+| 10 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
+| 11 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 13 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 14 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
+| 15 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 16 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 17 | [JANENELLA AngTunayNaBIDA](http://twitter.com/search?q=JANENELLA+AngTunayNaBIDA) | N/A |
+| 18 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 19 | [andrea brilliant inaraneta](http://twitter.com/search?q=andrea+brilliant+inaraneta) | N/A |
+| 20 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 21 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 22 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
+| 23 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 24 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 25 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 26 | [WE LOVE YOU AESPA](http://twitter.com/search?q=WE+LOVE+YOU+AESPA) | N/A |
+| 27 | [FRANSETH ChiCoCloseness](http://twitter.com/search?q=FRANSETH+ChiCoCloseness) | N/A |
+| 28 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 29 | [STRAYDOGS MV TEASER](http://twitter.com/search?q=STRAYDOGS+MV+TEASER) | N/A |
+| 30 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
+| 31 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 32 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
+| 33 | [ria is coming](http://twitter.com/search?q=ria+is+coming) | N/A |
+| 34 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
+| 35 | [NADINE FOR RENO8T](http://twitter.com/search?q=NADINE+FOR+RENO8T) | N/A |
+| 36 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 37 | [MY JAKEWON](http://twitter.com/search?q=MY+JAKEWON) | N/A |
+| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 39 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
+| 40 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 41 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 42 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
+| 43 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 44 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
+| 45 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 46 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 47 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 48 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 49 | [HAPPY V1RTHDAY VIVIZ](http://twitter.com/search?q=HAPPY+V1RTHDAY+VIVIZ) | N/A |
 
 
 

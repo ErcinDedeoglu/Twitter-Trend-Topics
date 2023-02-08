@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-08 19:15:39 UTC`
+📆 Last Updated: `2023-02-08 20:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 2 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
-| 3 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 4 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 5 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
-| 6 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 7 | [Brasil 2023](http://twitter.com/search?q=Brasil+2023) | N/A |
-| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 9 | [Enem 2022](http://twitter.com/search?q=Enem+2022) | N/A |
-| 10 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 11 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
-| 12 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
-| 13 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 14 | [sisu](http://twitter.com/search?q=sisu) | N/A |
-| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 16 | [Trem](http://twitter.com/search?q=Trem) | N/A |
-| 17 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 18 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 19 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
-| 20 | [CAMPOS NETO DEMITIDO](http://twitter.com/search?q=CAMPOS+NETO+DEMITIDO) | N/A |
-| 21 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 22 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
-| 23 | [Ceilândia](http://twitter.com/search?q=Ceil%c3%a2ndia) | N/A |
-| 24 | [Ivern](http://twitter.com/search?q=Ivern) | N/A |
-| 25 | [Branco](http://twitter.com/search?q=Branco) | N/A |
-| 26 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
-| 27 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 28 | [Lilás](http://twitter.com/search?q=Lil%c3%a1s) | N/A |
-| 29 | [Keyt](http://twitter.com/search?q=Keyt) | N/A |
-| 30 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 31 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 33 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 34 | [Bala Desejo](http://twitter.com/search?q=Bala+Desejo) | N/A |
-| 35 | [PROUD OF LOUIS](http://twitter.com/search?q=PROUD+OF+LOUIS) | N/A |
-| 36 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 37 | [Preto](http://twitter.com/search?q=Preto) | N/A |
-| 38 | [O WhatsApp](http://twitter.com/search?q=O+WhatsApp) | N/A |
-| 39 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 40 | [Campina Grande](http://twitter.com/search?q=Campina+Grande) | N/A |
-| 41 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 42 | [Quatro](http://twitter.com/search?q=Quatro) | N/A |
-| 43 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 44 | [Camilo Santana](http://twitter.com/search?q=Camilo+Santana) | N/A |
-| 45 | [Amarelo](http://twitter.com/search?q=Amarelo) | N/A |
-| 46 | [Gato](http://twitter.com/search?q=Gato) | N/A |
-| 47 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 48 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 49 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 50 | [Angola](http://twitter.com/search?q=Angola) | N/A |
+| 1 | [GUSKEY ESTAMOS COM VOCES](http://twitter.com/search?q=GUSKEY+ESTAMOS+COM+VOCES) | N/A |
+| 2 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 5 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 6 | [Marcos Mion](http://twitter.com/search?q=Marcos+Mion) | N/A |
+| 7 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 8 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 10 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 12 | [Vini Malvadeza](http://twitter.com/search?q=Vini+Malvadeza) | N/A |
+| 13 | [Brasil 2023](http://twitter.com/search?q=Brasil+2023) | N/A |
+| 14 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 15 | [Enem 2022](http://twitter.com/search?q=Enem+2022) | N/A |
+| 16 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 17 | [joao vitor](http://twitter.com/search?q=joao+vitor) | N/A |
+| 18 | [Amapá](http://twitter.com/search?q=Amap%c3%a1) | N/A |
+| 19 | [Vinte](http://twitter.com/search?q=Vinte) | N/A |
+| 20 | [#MISAMO](http://twitter.com/search?q=%23MISAMO) | N/A |
+| 21 | [sisu](http://twitter.com/search?q=sisu) | N/A |
+| 22 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
+| 23 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 24 | [Campinense](http://twitter.com/search?q=Campinense) | N/A |
+| 25 | [Vinicius Jr](http://twitter.com/search?q=Vinicius+Jr) | N/A |
+| 26 | [Trem](http://twitter.com/search?q=Trem) | N/A |
+| 27 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 28 | [CAMPOS NETO DEMITIDO](http://twitter.com/search?q=CAMPOS+NETO+DEMITIDO) | N/A |
+| 29 | [Vinicius Junior](http://twitter.com/search?q=Vinicius+Junior) | N/A |
+| 30 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
+| 31 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 32 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 33 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 35 | [Quarenta](http://twitter.com/search?q=Quarenta) | N/A |
+| 36 | [Branco](http://twitter.com/search?q=Branco) | N/A |
+| 37 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 38 | [Ceilândia](http://twitter.com/search?q=Ceil%c3%a2ndia) | N/A |
+| 39 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 40 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
+| 41 | [Tijolo](http://twitter.com/search?q=Tijolo) | N/A |
+| 42 | [Ivern](http://twitter.com/search?q=Ivern) | N/A |
+| 43 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 44 | [Treze](http://twitter.com/search?q=Treze) | N/A |
+| 45 | [Bala Desejo](http://twitter.com/search?q=Bala+Desejo) | N/A |
+| 46 | [Quatro](http://twitter.com/search?q=Quatro) | N/A |
+| 47 | [Lilás](http://twitter.com/search?q=Lil%c3%a1s) | N/A |
+| 48 | [Amarelo](http://twitter.com/search?q=Amarelo) | N/A |
+| 49 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 
 
 

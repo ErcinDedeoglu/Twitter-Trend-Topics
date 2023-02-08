@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-02-08 19:15:37 UTC`
+📆 Last Updated: `2023-02-08 20:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 10 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 11 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 12 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 11 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 12 | [Polar](http://twitter.com/search?q=Polar) | N/A |
+| 13 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 14 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
 | 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 16 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 17 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 18 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
-| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 20 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
-| 21 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 22 | [#FANBUnidaYVictoriosa](http://twitter.com/search?q=%23FANBUnidaYVictoriosa) | N/A |
-| 23 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
-| 24 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 25 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 26 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
-| 27 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
-| 30 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 31 | [Carabobo FC](http://twitter.com/search?q=Carabobo+FC) | N/A |
-| 32 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 33 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 35 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 36 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
-| 37 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 38 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
-| 39 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
-| 40 | [Lili Estefan](http://twitter.com/search?q=Lili+Estefan) | N/A |
-| 41 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
-| 42 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 43 | [Manuel Vadell](http://twitter.com/search?q=Manuel+Vadell) | N/A |
-| 44 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 45 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 46 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 47 | [Estado de la Unión](http://twitter.com/search?q=Estado+de+la+Uni%c3%b3n) | N/A |
-| 48 | [El Planeta](http://twitter.com/search?q=El+Planeta) | N/A |
-| 49 | [Foro Penal](http://twitter.com/search?q=Foro+Penal) | N/A |
-| 50 | [Mazo](http://twitter.com/search?q=Mazo) | N/A |
+| 18 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 21 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
+| 22 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 23 | [Misael](http://twitter.com/search?q=Misael) | N/A |
+| 24 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
+| 25 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 26 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 27 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 28 | [Carabobo FC](http://twitter.com/search?q=Carabobo+FC) | N/A |
+| 29 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 30 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
+| 31 | [Mimi Lazo](http://twitter.com/search?q=Mimi+Lazo) | N/A |
+| 32 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
+| 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 34 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
+| 35 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
+| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 37 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
+| 38 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 39 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 40 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 41 | [Lili Estefan](http://twitter.com/search?q=Lili+Estefan) | N/A |
+| 42 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 43 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 44 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
+| 45 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 46 | [Estado de la Unión](http://twitter.com/search?q=Estado+de+la+Uni%c3%b3n) | N/A |
+| 47 | [Manuel Vadell](http://twitter.com/search?q=Manuel+Vadell) | N/A |
+| 48 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 49 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
+| 50 | [GANÓ VENEZUELA](http://twitter.com/search?q=GAN%c3%93+VENEZUELA) | N/A |
 
 
 

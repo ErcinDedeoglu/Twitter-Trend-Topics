@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-08 19:15:42 UTC`
+📆 Last Updated: `2023-02-08 20:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OLLOSC](http://twitter.com/search?q=%23OLLOSC) | N/A |
-| 2 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 3 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 4 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 4 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 5 | [#SCOFCN](http://twitter.com/search?q=%23SCOFCN) | N/A |
-| 6 | [#TFCSDR](http://twitter.com/search?q=%23TFCSDR) | N/A |
-| 7 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 8 | [Yoro](http://twitter.com/search?q=Yoro) | N/A |
+| 6 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 7 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
+| 8 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
 | 9 | [Lalanne](http://twitter.com/search?q=Lalanne) | N/A |
-| 10 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
-| 11 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
-| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 13 | [Gerland](http://twitter.com/search?q=Gerland) | N/A |
-| 14 | [Patrice Ferri](http://twitter.com/search?q=Patrice+Ferri) | N/A |
-| 15 | [Millot](http://twitter.com/search?q=Millot) | N/A |
-| 16 | [Dieudonné](http://twitter.com/search?q=Dieudonn%c3%a9) | N/A |
-| 17 | [Bublik](http://twitter.com/search?q=Bublik) | N/A |
-| 18 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
-| 19 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 20 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 21 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 22 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
-| 23 | [Matias Messi](http://twitter.com/search?q=Matias+Messi) | N/A |
-| 24 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
-| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 26 | [Bounou](http://twitter.com/search?q=Bounou) | N/A |
-| 27 | [Bein](http://twitter.com/search?q=Bein) | N/A |
-| 28 | [Michel Drucker](http://twitter.com/search?q=Michel+Drucker) | N/A |
-| 29 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 30 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
-| 31 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 32 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 33 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
-| 34 | [Valérie](http://twitter.com/search?q=Val%c3%a9rie) | N/A |
-| 35 | [Meilleur Arc DB](http://twitter.com/search?q=Meilleur+Arc+DB) | N/A |
-| 36 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 37 | [Paris FC](http://twitter.com/search?q=Paris+FC) | N/A |
-| 38 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
-| 39 | [Pétain](http://twitter.com/search?q=P%c3%a9tain) | N/A |
-| 40 | [Caraïbes](http://twitter.com/search?q=Cara%c3%afbes) | N/A |
-| 41 | [Vierzon](http://twitter.com/search?q=Vierzon) | N/A |
-| 42 | [Classico](http://twitter.com/search?q=Classico) | N/A |
-| 43 | [Larcher](http://twitter.com/search?q=Larcher) | N/A |
-| 44 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 45 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 46 | [France 3](http://twitter.com/search?q=France+3) | France 3 is a French public television channel and part of the France Télévisions group, which also includes France 2, France 4, and France 5. The channel's mission is to provide a national public service of information, culture, and entertainment. In English, it can be translated as "France Three". |
-| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 11 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 12 | [ALLEZ PARIS](http://twitter.com/search?q=ALLEZ+PARIS) | N/A |
+| 13 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 14 | [Dieudonné](http://twitter.com/search?q=Dieudonn%c3%a9) | N/A |
+| 15 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 16 | [France 3](http://twitter.com/search?q=France+3) | France 3 is a French public television channel and part of the France Télévisions group, which also includes France 2, France 4, and France 5. The channel's mission is to provide a national public service of information, culture, and entertainment. In English, it can be translated as "France Three". |
+| 17 | [Yoro](http://twitter.com/search?q=Yoro) | N/A |
+| 18 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
+| 19 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 20 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 21 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 22 | [PPDA](http://twitter.com/search?q=PPDA) | N/A |
+| 23 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 24 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 25 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 26 | [Taille L](http://twitter.com/search?q=Taille+L) | N/A |
+| 27 | [Millot](http://twitter.com/search?q=Millot) | N/A |
+| 28 | [Pas de VAR](http://twitter.com/search?q=Pas+de+VAR) | N/A |
+| 29 | [Bublik](http://twitter.com/search?q=Bublik) | N/A |
+| 30 | [Antho](http://twitter.com/search?q=Antho) | N/A |
+| 31 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
+| 32 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 33 | [Bein](http://twitter.com/search?q=Bein) | N/A |
+| 34 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 35 | [Gerland](http://twitter.com/search?q=Gerland) | N/A |
+| 36 | [Paris FC](http://twitter.com/search?q=Paris+FC) | N/A |
+| 37 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 38 | [Patrice Ferri](http://twitter.com/search?q=Patrice+Ferri) | N/A |
+| 39 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 40 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 41 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 42 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 43 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 44 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 45 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 46 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 47 | [Bounou](http://twitter.com/search?q=Bounou) | N/A |
+| 48 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
 
 
 

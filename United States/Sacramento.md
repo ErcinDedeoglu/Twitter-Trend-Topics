@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-08 19:16:22 UTC`
+📆 Last Updated: `2023-02-08 20:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 2 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
-| 5 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 6 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
-| 7 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 8 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 9 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 5 | [Republican Party](http://twitter.com/search?q=Republican+Party) | The Republican Party is a political party in the United States that is associated with conservative and libertarian economic policies, social conservatism, and a strong national defense. It is one of the two major contemporary political parties in the United States, along with its main rival, the Democratic Party. |
+| 6 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 7 | [#GOPClownShowContinues](http://twitter.com/search?q=%23GOPClownShowContinues) | N/A |
+| 8 | [#BoycottIRIDay](http://twitter.com/search?q=%23BoycottIRIDay) | N/A |
+| 9 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 10 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 11 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 12 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 13 | [#GOPLiesAboutEverything](http://twitter.com/search?q=%23GOPLiesAboutEverything) | N/A |
-| 14 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 15 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
-| 16 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 17 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 18 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
+| 11 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 12 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 13 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
+| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 15 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 16 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 17 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 18 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
 | 19 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 21 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 21 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
 | 22 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
 | 23 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 24 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 27 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 28 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 29 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 30 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 31 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 32 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
-| 33 | [Dome](http://twitter.com/search?q=Dome) | N/A |
-| 34 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
-| 35 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 36 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 37 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 38 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 39 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 40 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
-| 41 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 42 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
-| 43 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
-| 44 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 45 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
-| 46 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 47 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 48 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
-| 49 | [Butch Barry](http://twitter.com/search?q=Butch+Barry) | N/A |
-| 50 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 26 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 27 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 28 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 29 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
+| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 31 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 32 | [Dome](http://twitter.com/search?q=Dome) | N/A |
+| 33 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 34 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 35 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 36 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
+| 37 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 38 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
+| 39 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 40 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 41 | [Chrissy Teigen](http://twitter.com/search?q=Chrissy+Teigen) | N/A |
+| 42 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 43 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 44 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
+| 45 | [Team B](http://twitter.com/search?q=Team+B) | N/A |
+| 46 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 47 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
+| 48 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
+| 49 | [Billiam](http://twitter.com/search?q=Billiam) | N/A |
 
 
 

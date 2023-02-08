@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-08 19:15:31 UTC`
+📆 Last Updated: `2023-02-08 20:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 3 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 4 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 6 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 7 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 8 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 9 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 10 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 11 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
-| 12 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 13 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
-| 14 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
-| 15 | [Bromby](http://twitter.com/search?q=Bromby) | N/A |
-| 16 | [Linfield](http://twitter.com/search?q=Linfield) | N/A |
-| 17 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
-| 18 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
-| 19 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 20 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 21 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 22 | [Typhoon](http://twitter.com/search?q=Typhoon) | N/A |
-| 23 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 24 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 25 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 26 | [Askey](http://twitter.com/search?q=Askey) | N/A |
-| 27 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
-| 28 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 29 | [Flour](http://twitter.com/search?q=Flour) | N/A |
-| 30 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 31 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 33 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 34 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 35 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
-| 36 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 37 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 38 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 39 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 40 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
-| 41 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 42 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 43 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 44 | [Huddersfield Town](http://twitter.com/search?q=Huddersfield+Town) | N/A |
-| 45 | [CofE](http://twitter.com/search?q=CofE) | N/A |
-| 46 | [Welby](http://twitter.com/search?q=Welby) | N/A |
-| 47 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 48 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 49 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 1 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 2 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 3 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 4 | [#SUNFUL](http://twitter.com/search?q=%23SUNFUL) | N/A |
+| 5 | [Medium](http://twitter.com/search?q=Medium) | N/A |
+| 6 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 9 | [Harry Wilson](http://twitter.com/search?q=Harry+Wilson) | N/A |
+| 10 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 12 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 13 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 15 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 16 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 17 | [Prevent](http://twitter.com/search?q=Prevent) | N/A |
+| 18 | [Sunderland v Fulham](http://twitter.com/search?q=Sunderland+v+Fulham) | N/A |
+| 19 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 21 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 22 | [Linfield](http://twitter.com/search?q=Linfield) | N/A |
+| 23 | [Typhoon](http://twitter.com/search?q=Typhoon) | N/A |
+| 24 | [Kyle Lafferty](http://twitter.com/search?q=Kyle+Lafferty) | N/A |
+| 25 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 26 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 27 | [Man Utd vs Leeds](http://twitter.com/search?q=Man+Utd+vs+Leeds) | N/A |
+| 28 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 29 | [Westminster Hall](http://twitter.com/search?q=Westminster+Hall) | N/A |
+| 30 | [United v Leeds](http://twitter.com/search?q=United+v+Leeds) | N/A |
+| 31 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 32 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 33 | [PVRIS](http://twitter.com/search?q=PVRIS) | N/A |
+| 34 | [Neil Oliver](http://twitter.com/search?q=Neil+Oliver) | N/A |
+| 35 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 36 | [Mark Fotheringham](http://twitter.com/search?q=Mark+Fotheringham) | N/A |
+| 37 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 38 | [Bromby](http://twitter.com/search?q=Bromby) | N/A |
+| 39 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 40 | [Askey](http://twitter.com/search?q=Askey) | N/A |
+| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 42 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 43 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 44 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 45 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 46 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 47 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 48 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 49 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
 
 
 

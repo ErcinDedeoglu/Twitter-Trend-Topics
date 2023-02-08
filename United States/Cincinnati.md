@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-02-08 19:16:16 UTC`
+📆 Last Updated: `2023-02-08 20:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 3 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 4 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
-| 5 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 6 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 7 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
-| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 3 | [#3WordSuperBowl](http://twitter.com/search?q=%233WordSuperBowl) | N/A |
+| 4 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 5 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 6 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 7 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 8 | [#wipfeast](http://twitter.com/search?q=%23wipfeast) | N/A |
 | 9 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 12 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 13 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 14 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
-| 15 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 18 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 19 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
-| 20 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 21 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 22 | [Roth](http://twitter.com/search?q=Roth) | N/A |
-| 23 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 24 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 10 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 12 | [#VastGGHogwartsLegacy](http://twitter.com/search?q=%23VastGGHogwartsLegacy) | N/A |
+| 13 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 14 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
+| 15 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
+| 16 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 20 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 21 | [Zombie Island](http://twitter.com/search?q=Zombie+Island) | N/A |
+| 22 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 23 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 25 | [Dome](http://twitter.com/search?q=Dome) | N/A |
-| 26 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
-| 27 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 28 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
-| 29 | [Mormon-ish](http://twitter.com/search?q=Mormon-ish) | N/A |
-| 30 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 31 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
-| 32 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
-| 33 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 34 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
-| 35 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
-| 36 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 37 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
-| 38 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
-| 39 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
-| 40 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
-| 41 | [Butch Barry](http://twitter.com/search?q=Butch+Barry) | N/A |
-| 42 | [Alien Invaders](http://twitter.com/search?q=Alien+Invaders) | N/A |
-| 43 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 44 | [German Christmas](http://twitter.com/search?q=German+Christmas) | N/A |
+| 26 | [Roth](http://twitter.com/search?q=Roth) | N/A |
+| 27 | [Witch's Ghost](http://twitter.com/search?q=Witch%27s+Ghost) | N/A |
+| 28 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 29 | [Tagalongs](http://twitter.com/search?q=Tagalongs) | N/A |
+| 30 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 31 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
+| 32 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 33 | [Cocaine Shark](http://twitter.com/search?q=Cocaine+Shark) | N/A |
+| 34 | [NFL Combine](http://twitter.com/search?q=NFL+Combine) | N/A |
+| 35 | [Social Security](http://twitter.com/search?q=Social+Security) | N/A |
+| 36 | [Bo Jackson](http://twitter.com/search?q=Bo+Jackson) | N/A |
+| 37 | [Chrissy Teigen](http://twitter.com/search?q=Chrissy+Teigen) | N/A |
+| 38 | [Team B](http://twitter.com/search?q=Team+B) | N/A |
+| 39 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
+| 40 | [Boston Children's Hospital](http://twitter.com/search?q=Boston+Children%27s+Hospital) | N/A |
+| 41 | [Billiam](http://twitter.com/search?q=Billiam) | N/A |
+| 42 | [Jimmy Hart](http://twitter.com/search?q=Jimmy+Hart) | Jimmy Hart is a professional wrestling manager, executive, composer, and musician. He is best known for his appearances with the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is also known for his signature phrase "Oh, yeah!" and his trademark megaphone. |
+| 43 | [Ghoul School](http://twitter.com/search?q=Ghoul+School) | N/A |
+| 44 | [Phil Knight](http://twitter.com/search?q=Phil+Knight) | Phil Knight is the founder and former CEO of Nike, Inc., the world's largest supplier of athletic shoes and apparel. He is also the co-founder of the shoe company Blue Ribbon Sports, which later became Nike. The name "Phil Knight" is synonymous with success in business and entrepreneurship. |
 | 45 | [Trefoils](http://twitter.com/search?q=Trefoils) | N/A |
-| 46 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
-| 47 | [Lemonades](http://twitter.com/search?q=Lemonades) | N/A |
-| 48 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 46 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 47 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 48 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
 | 49 | [AD for KD](http://twitter.com/search?q=AD+for+KD) | N/A |
-| 50 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 50 | [Cyber Chase](http://twitter.com/search?q=Cyber+Chase) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Grodno
 
-📆 Last Updated: `2023-02-08 19:15:50 UTC`
+📆 Last Updated: `2023-02-08 20:15:57 UTC`
 
 🔧 Updated every 1 hour!
 

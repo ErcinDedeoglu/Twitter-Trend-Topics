@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-08 19:15:46 UTC`
+📆 Last Updated: `2023-02-08 20:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 4 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 5 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 6 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 7 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 8 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 9 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
-| 10 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 11 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 13 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 14 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 15 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 16 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 17 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
-| 18 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 19 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 20 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 21 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 22 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 23 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 24 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 26 | [Termini](http://twitter.com/search?q=Termini) | N/A |
-| 27 | [Elena Sofia Ricci](http://twitter.com/search?q=Elena+Sofia+Ricci) | N/A |
-| 28 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 29 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 30 | [Piero Pelù](http://twitter.com/search?q=Piero+Pel%c3%b9) | N/A |
-| 31 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 32 | [Ronzulli](http://twitter.com/search?q=Ronzulli) | N/A |
-| 33 | [sangiovanni](http://twitter.com/search?q=sangiovanni) | N/A |
-| 34 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 35 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 36 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
-| 37 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 38 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 39 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 40 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 41 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 42 | [Grease](http://twitter.com/search?q=Grease) | N/A |
-| 43 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
-| 44 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
-| 45 | [Brividi](http://twitter.com/search?q=Brividi) | N/A |
-| 46 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 47 | [Presidente della Repubblica](http://twitter.com/search?q=Presidente+della+Repubblica) | N/A |
-| 48 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
-| 49 | [Lombardia](http://twitter.com/search?q=Lombardia) | N/A |
-| 50 | [Pensati Libera](http://twitter.com/search?q=Pensati+Libera) | N/A |
+| 3 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 4 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 5 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 6 | [GIANNI CON](http://twitter.com/search?q=GIANNI+CON) | N/A |
+| 7 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 8 | [#gfvipradio](http://twitter.com/search?q=%23gfvipradio) | N/A |
+| 9 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 10 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 11 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 12 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
+| 13 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 14 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 15 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 16 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 17 | [#Pinto](http://twitter.com/search?q=%23Pinto) | N/A |
+| 18 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 19 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 20 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 21 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 22 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 23 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 24 | [Checco](http://twitter.com/search?q=Checco) | N/A |
+| 25 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 26 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 27 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 28 | [Termini](http://twitter.com/search?q=Termini) | N/A |
+| 29 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 30 | [PIERO PELÙ](http://twitter.com/search?q=PIERO+PEL%c3%99) | N/A |
+| 31 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 32 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 33 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 34 | [Facchinetti](http://twitter.com/search?q=Facchinetti) | N/A |
+| 35 | [Ronzulli](http://twitter.com/search?q=Ronzulli) | N/A |
+| 36 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 37 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 38 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 41 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 42 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 43 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 44 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 45 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 46 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 47 | [Riccardo Fogli](http://twitter.com/search?q=Riccardo+Fogli) | N/A |
+| 48 | [Colla Zio](http://twitter.com/search?q=Colla+Zio) | N/A |
+| 49 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 50 | [Paolo Bitta](http://twitter.com/search?q=Paolo+Bitta) | N/A |
 
 
 

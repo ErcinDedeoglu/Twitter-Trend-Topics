@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-08 19:15:44 UTC`
+📆 Last Updated: `2023-02-08 20:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
-| 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 4 | [#vflbvb](http://twitter.com/search?q=%23vflbvb) | N/A |
+| 5 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 6 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 7 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 8 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 8 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 9 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
 | 10 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 11 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 | 12 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 13 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 14 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 15 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 16 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 17 | [Secure VPN](http://twitter.com/search?q=Secure+VPN) | N/A |
-| 18 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 19 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 20 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 21 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 22 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 23 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
-| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 25 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 26 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 27 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 28 | [Pipelines](http://twitter.com/search?q=Pipelines) | N/A |
-| 29 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 30 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 33 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 34 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 35 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 36 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 37 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 38 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 40 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 41 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 42 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 43 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 44 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 45 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
-| 46 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 47 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 48 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 49 | [Bleiberecht](http://twitter.com/search?q=Bleiberecht) | N/A |
+| 13 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 14 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 15 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 16 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 17 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 18 | [Secure VPN](http://twitter.com/search?q=Secure+VPN) | N/A |
+| 19 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 20 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 21 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 22 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 23 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 24 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
+| 25 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 26 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 27 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 28 | [Ermittler](http://twitter.com/search?q=Ermittler) | N/A |
+| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 30 | [Pipelines](http://twitter.com/search?q=Pipelines) | N/A |
+| 31 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 32 | [Oberhausen](http://twitter.com/search?q=Oberhausen) | N/A |
+| 33 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 34 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 35 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 36 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 37 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
+| 38 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 39 | [TTIP](http://twitter.com/search?q=TTIP) | N/A |
+| 40 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 41 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 42 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 45 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 46 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 47 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 48 | [umgangs](http://twitter.com/search?q=umgangs) | N/A |
+| 49 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
 
 
 

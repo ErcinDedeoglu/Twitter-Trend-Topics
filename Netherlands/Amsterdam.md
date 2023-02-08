@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-08 19:15:47 UTC`
+📆 Last Updated: `2023-02-08 20:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#psvemm](http://twitter.com/search?q=%23psvemm) | N/A |
-| 2 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 2 | [#FEYnec](http://twitter.com/search?q=%23FEYnec) | N/A |
 | 3 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 4 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
 | 5 | [#spakat](http://twitter.com/search?q=%23spakat) | N/A |
-| 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 7 | [Diemers](http://twitter.com/search?q=Diemers) | N/A |
+| 6 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
+| 7 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
 | 8 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
-| 9 | [Stel](http://twitter.com/search?q=Stel) | N/A |
+| 9 | [Diemers](http://twitter.com/search?q=Diemers) | N/A |
 | 10 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 11 | [Jeff Buckley](http://twitter.com/search?q=Jeff+Buckley) | N/A |
-| 12 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
-| 13 | [Branthwaite](http://twitter.com/search?q=Branthwaite) | N/A |
-| 14 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
-| 15 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 16 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
-| 17 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 18 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 19 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 11 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 12 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
+| 13 | [Stél](http://twitter.com/search?q=St%c3%a9l) | N/A |
+| 14 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 15 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
+| 16 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 17 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 18 | [Jeff Buckley](http://twitter.com/search?q=Jeff+Buckley) | N/A |
+| 19 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
 | 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 21 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
-| 22 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 23 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
-| 24 | [Buk-raket](http://twitter.com/search?q=Buk-raket) | N/A |
-| 25 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 26 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
-| 27 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 28 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 29 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
-| 30 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 31 | [NPO Ombudsman](http://twitter.com/search?q=NPO+Ombudsman) | N/A |
-| 32 | [ABN AMRO](http://twitter.com/search?q=ABN+AMRO) | N/A |
-| 33 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 21 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 22 | [Oever](http://twitter.com/search?q=Oever) | N/A |
+| 23 | [John Cleese](http://twitter.com/search?q=John+Cleese) | N/A |
+| 24 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
+| 25 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 26 | [Branthwaite](http://twitter.com/search?q=Branthwaite) | N/A |
+| 27 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 28 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 29 | [Buk-raket](http://twitter.com/search?q=Buk-raket) | N/A |
+| 30 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
+| 31 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 32 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 33 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
 | 34 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 36 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 37 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 39 | [Woods](http://twitter.com/search?q=Woods) | N/A |
-| 40 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 41 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 42 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 43 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 44 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 45 | [Margo](http://twitter.com/search?q=Margo) | N/A |
-| 46 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 47 | [Essent](http://twitter.com/search?q=Essent) | N/A |
-| 48 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 49 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 50 | [Republikeinen](http://twitter.com/search?q=Republikeinen) | N/A |
+| 35 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 36 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 37 | [Claudia de Breij](http://twitter.com/search?q=Claudia+de+Breij) | N/A |
+| 38 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 39 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
+| 40 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 41 | [ABN AMRO](http://twitter.com/search?q=ABN+AMRO) | N/A |
+| 42 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 43 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 44 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 45 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 46 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 47 | [Woods](http://twitter.com/search?q=Woods) | N/A |
+| 48 | [NPO Ombudsman](http://twitter.com/search?q=NPO+Ombudsman) | N/A |
+| 49 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 50 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
 
 
 
