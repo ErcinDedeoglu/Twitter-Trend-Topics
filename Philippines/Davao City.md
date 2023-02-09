@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-09 18:15:51 UTC`
+📆 Last Updated: `2023-02-09 19:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,40 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
 | 2 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
 | 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 4 | [#AtinAngMundoVer4](http://twitter.com/search?q=%23AtinAngMundoVer4) | N/A |
-| 5 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
+| 4 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
+| 5 | [#AtinAngMundoVer4](http://twitter.com/search?q=%23AtinAngMundoVer4) | N/A |
 | 6 | [#JonaxxACTYAKab45](http://twitter.com/search?q=%23JonaxxACTYAKab45) | N/A |
 | 7 | [Suga](http://twitter.com/search?q=Suga) | N/A |
 | 8 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
-| 9 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 10 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 11 | [Happy Birthday Sooyoung](http://twitter.com/search?q=Happy+Birthday+Sooyoung) | N/A |
-| 12 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 13 | [JAYWON](http://twitter.com/search?q=JAYWON) | N/A |
-| 14 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 15 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 16 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
-| 17 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
-| 18 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 19 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 21 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 22 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 23 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 24 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
-| 25 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 26 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
-| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 28 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 29 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 30 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
-| 31 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
-| 32 | [#DLFallguy](http://twitter.com/search?q=%23DLFallguy) | N/A |
-| 33 | [#JustBecauseMrld](http://twitter.com/search?q=%23JustBecauseMrld) | N/A |
-| 34 | [#HairFlipQueenSooDay](http://twitter.com/search?q=%23HairFlipQueenSooDay) | N/A |
-| 35 | [#0210_HBD_KimLip](http://twitter.com/search?q=%230210_HBD_KimLip) | N/A |
-| 36 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
-| 37 | [#ทฤษฎีสีชมพูxWINKWHITE](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xWINKWHITE) | N/A |
-| 38 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 39 | [#FELIPforPARCINQ](http://twitter.com/search?q=%23FELIPforPARCINQ) | N/A |
-| 40 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
-| 41 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
-| 42 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
-| 43 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
-| 44 | [#DarnaSuperEndGame](http://twitter.com/search?q=%23DarnaSuperEndGame) | N/A |
-| 45 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 46 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
-| 47 | [#ENGLOTxRapidLife](http://twitter.com/search?q=%23ENGLOTxRapidLife) | N/A |
+| 9 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 10 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 11 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 12 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 13 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 14 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 15 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
+| 16 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 18 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 20 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 21 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 22 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 23 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
+| 24 | [#DLFallguy](http://twitter.com/search?q=%23DLFallguy) | N/A |
+| 25 | [#JustBecauseMrld](http://twitter.com/search?q=%23JustBecauseMrld) | N/A |
+| 26 | [#HairFlipQueenSooDay](http://twitter.com/search?q=%23HairFlipQueenSooDay) | N/A |
+| 27 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
+| 28 | [#ทฤษฎีสีชมพูxWINKWHITE](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xWINKWHITE) | N/A |
+| 29 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 30 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 31 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
+| 32 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
+| 33 | [#FELIPforPARCINQ](http://twitter.com/search?q=%23FELIPforPARCINQ) | N/A |
+| 34 | [#DarnaSuperEndGame](http://twitter.com/search?q=%23DarnaSuperEndGame) | N/A |
+| 35 | [#TheInterestOfLove](http://twitter.com/search?q=%23TheInterestOfLove) | N/A |
+| 36 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
+| 37 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 
 
 

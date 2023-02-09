@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-09 18:15:29 UTC`
+📆 Last Updated: `2023-02-09 19:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 2 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
 | 3 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 4 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
+| 4 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
 | 5 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 6 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 8 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
-| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
-| 11 | [Luis Cárdenas Palomino](http://twitter.com/search?q=Luis+C%c3%a1rdenas+Palomino) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 11 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 12 | [José Guadalupe Tapia Quintero](http://twitter.com/search?q=Jos%c3%a9+Guadalupe+Tapia+Quintero) | N/A |
-| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 14 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
-| 15 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 13 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
+| 14 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 15 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 16 | [Tacuichamona](http://twitter.com/search?q=Tacuichamona) | N/A |
-| 17 | [Néstor Ojeda](http://twitter.com/search?q=N%c3%a9stor+Ojeda) | N/A |
+| 17 | [Madero](http://twitter.com/search?q=Madero) | N/A |
 | 18 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 19 | [Decena Trágica](http://twitter.com/search?q=Decena+Tr%c3%a1gica) | N/A |
-| 20 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 21 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 22 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 23 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 24 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 25 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
-| 26 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
-| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 28 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 29 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 30 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 31 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 32 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 33 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 34 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 35 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 36 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 37 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 38 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
-| 39 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 40 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 41 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 42 | [#PoderosoCha](http://twitter.com/search?q=%23PoderosoCha) | N/A |
-| 43 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 44 | [#DíaDelOdontólogo](http://twitter.com/search?q=%23D%c3%adaDelOdont%c3%b3logo) | N/A |
-| 45 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 46 | [#GhostsAgain](http://twitter.com/search?q=%23GhostsAgain) | N/A |
+| 19 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
+| 20 | [Decena Trágica](http://twitter.com/search?q=Decena+Tr%c3%a1gica) | N/A |
+| 21 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 22 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 23 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 24 | [Néstor Ojeda](http://twitter.com/search?q=N%c3%a9stor+Ojeda) | N/A |
+| 25 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 27 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 28 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 29 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
+| 30 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 31 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
+| 32 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 33 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 34 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
+| 35 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 36 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 37 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 38 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 39 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 40 | [#PoderosoCha](http://twitter.com/search?q=%23PoderosoCha) | N/A |
+| 41 | [#DíaDelOdontólogo](http://twitter.com/search?q=%23D%c3%adaDelOdont%c3%b3logo) | N/A |
+| 42 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 43 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 44 | [#GhostsAgain](http://twitter.com/search?q=%23GhostsAgain) | N/A |
+| 45 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 46 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 47 | [#DíaPorLaIntegridad](http://twitter.com/search?q=%23D%c3%adaPorLaIntegridad) | N/A |
 
 

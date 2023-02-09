@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-02-09 18:16:00 UTC`
+📆 Last Updated: `2023-02-09 19:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 2 | [#PowerOfCelibacy](http://twitter.com/search?q=%23PowerOfCelibacy) | N/A |
-| 3 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
+| 1 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
+| 2 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
+| 3 | [#HBD_Kaviraj](http://twitter.com/search?q=%23HBD_Kaviraj) | N/A |
 | 4 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
-| 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 5 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
 | 6 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 7 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
-| 8 | [#UnstoppableWithNBKS2](http://twitter.com/search?q=%23UnstoppableWithNBKS2) | N/A |
+| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 8 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 9 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
-| 10 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
-| 11 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 10 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 11 | [Ankit](http://twitter.com/search?q=Ankit) | N/A |
 | 12 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 13 | [Journey](http://twitter.com/search?q=Journey) | N/A |
-| 14 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
-| 15 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 16 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
-| 17 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
-| 18 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
-| 19 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
-| 20 | [Feroze Gandhi](http://twitter.com/search?q=Feroze+Gandhi) | N/A |
-| 21 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
-| 22 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
-| 23 | [Harami](http://twitter.com/search?q=Harami) | N/A |
-| 24 | [Indira](http://twitter.com/search?q=Indira) | N/A |
-| 25 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 26 | [शिबू सोरेन](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%ac%e0%a5%82+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 27 | [धामी सरकार](http://twitter.com/search?q=%e0%a4%a7%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 28 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 29 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 30 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 31 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 32 | [WE LOVE YOU SHALIN BHANOT](http://twitter.com/search?q=WE+LOVE+YOU+SHALIN+BHANOT) | N/A |
-| 33 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 34 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 35 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 36 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 37 | [Ganga](http://twitter.com/search?q=Ganga) | N/A |
-| 38 | [#PriyankaChaharChoudharyᅠ](http://twitter.com/search?q=%23PriyankaChaharChoudhary%e1%85%a0) | N/A |
-| 39 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
-| 40 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
+| 13 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
+| 14 | [Journey](http://twitter.com/search?q=Journey) | N/A |
+| 15 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
+| 16 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 17 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 18 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
+| 19 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
+| 20 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 21 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
+| 22 | [Feroze Gandhi](http://twitter.com/search?q=Feroze+Gandhi) | N/A |
+| 23 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
+| 24 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
+| 25 | [Indira](http://twitter.com/search?q=Indira) | N/A |
+| 26 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [शिबू सोरेन](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%ac%e0%a5%82+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 28 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 29 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 30 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 31 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 32 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 33 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 34 | [Ganga](http://twitter.com/search?q=Ganga) | N/A |
+| 35 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 36 | [#UnstoppableWithNBKS2](http://twitter.com/search?q=%23UnstoppableWithNBKS2) | N/A |
+| 37 | [#AlNassr](http://twitter.com/search?q=%23AlNassr) | #AlNassr is the name of a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. |
+| 38 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
+| 39 | [#PriyankaChaharChoudharyᅠ](http://twitter.com/search?q=%23PriyankaChaharChoudhary%e1%85%a0) | N/A |
+| 40 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
 | 41 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 42 | [#ModiInRajyaSabha](http://twitter.com/search?q=%23ModiInRajyaSabha) | N/A |
-| 43 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
-| 44 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
-| 45 | [#PMModiInParliament](http://twitter.com/search?q=%23PMModiInParliament) | N/A |
-| 46 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 47 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
-| 48 | [#UttarakhandPaperLeak](http://twitter.com/search?q=%23UttarakhandPaperLeak) | N/A |
-| 49 | [#Uttrakhand](http://twitter.com/search?q=%23Uttrakhand) | N/A |
-| 50 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
+| 42 | [#ShalinBhanot](http://twitter.com/search?q=%23ShalinBhanot) | N/A |
+| 43 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
+| 44 | [#UnionsDestroyEconomies](http://twitter.com/search?q=%23UnionsDestroyEconomies) | N/A |
+| 45 | [#SayNotoTruckUnions](http://twitter.com/search?q=%23SayNotoTruckUnions) | N/A |
+| 46 | [#SupportIndustriesinHimachal](http://twitter.com/search?q=%23SupportIndustriesinHimachal) | N/A |
+| 47 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
+| 48 | [#ModiInRajyaSabha](http://twitter.com/search?q=%23ModiInRajyaSabha) | N/A |
 
 
 

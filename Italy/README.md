@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-09 18:16:16 UTC`
+📆 Last Updated: `2023-02-09 19:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 2 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
-| 3 | [#BurtBacharach](http://twitter.com/search?q=%23BurtBacharach) | N/A |
-| 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 5 | [#iostocontavassi](http://twitter.com/search?q=%23iostocontavassi) | N/A |
-| 6 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
-| 7 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
-| 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 10 | [Enogu](http://twitter.com/search?q=Enogu) | N/A |
-| 11 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 12 | [Corte Costituzionale](http://twitter.com/search?q=Corte+Costituzionale) | N/A |
-| 13 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
-| 14 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
-| 15 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
-| 16 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 17 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 20 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 21 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
-| 22 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 23 | [Unione Europea](http://twitter.com/search?q=Unione+Europea) | N/A |
-| 24 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 25 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 26 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 27 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 28 | [#SuperLega](http://twitter.com/search?q=%23SuperLega) | N/A |
-| 29 | [#jessyselassie](http://twitter.com/search?q=%23jessyselassie) | N/A |
-| 30 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
-| 31 | [#razzismo](http://twitter.com/search?q=%23razzismo) | N/A |
-| 32 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 33 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 34 | [#foibe](http://twitter.com/search?q=%23foibe) | N/A |
-| 35 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
-| 36 | [#FUORITAVASSI](http://twitter.com/search?q=%23FUORITAVASSI) | N/A |
-| 37 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 38 | [#LaGioiaDiScrivere](http://twitter.com/search?q=%23LaGioiaDiScrivere) | N/A |
-| 39 | [#ColapesceDimartino](http://twitter.com/search?q=%23ColapesceDimartino) | N/A |
-| 40 | [#iostoconantonella](http://twitter.com/search?q=%23iostoconantonella) | N/A |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 3 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 4 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 5 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 6 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 7 | [#BurtBacharach](http://twitter.com/search?q=%23BurtBacharach) | N/A |
+| 8 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 9 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 12 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 13 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 14 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 15 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 16 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 17 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 18 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 19 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 20 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
+| 21 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 22 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 23 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 24 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 25 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 28 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 29 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 30 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 31 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 32 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 33 | [Corte Costituzionale](http://twitter.com/search?q=Corte+Costituzionale) | N/A |
+| 34 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 35 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 36 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 37 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
+| 38 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
+| 39 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 40 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 41 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
+| 42 | [Filini](http://twitter.com/search?q=Filini) | N/A |
+| 43 | [Furore](http://twitter.com/search?q=Furore) | N/A |
+| 44 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 45 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 46 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 47 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 48 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 49 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 50 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
 
 
 

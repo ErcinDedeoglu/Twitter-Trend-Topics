@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-09 18:15:41 UTC`
+📆 Last Updated: `2023-02-09 19:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 3 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
 | 4 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
 | 5 | [#TierraAmarga9Feb](http://twitter.com/search?q=%23TierraAmarga9Feb) | N/A |
-| 6 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 7 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 8 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 6 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
 | 9 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 10 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
-| 11 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 12 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
-| 13 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
-| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 15 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 16 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 18 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 19 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 20 | [Elda](http://twitter.com/search?q=Elda) | N/A |
-| 21 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
-| 22 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 23 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 24 | [#APOYOROCIO9F](http://twitter.com/search?q=%23APOYOROCIO9F) | N/A |
-| 25 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 26 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 27 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
-| 28 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 29 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 31 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 32 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 33 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 34 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 35 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 38 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
-| 39 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 40 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 41 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 42 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 43 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
-| 44 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 45 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 46 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 47 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 49 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 10 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 11 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 12 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
+| 13 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 14 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 15 | [Elda](http://twitter.com/search?q=Elda) | N/A |
+| 16 | [#COAC2023C4](http://twitter.com/search?q=%23COAC2023C4) | N/A |
+| 17 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 18 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
+| 19 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 20 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 21 | [Más de 500](http://twitter.com/search?q=M%c3%a1s+de+500) | N/A |
+| 22 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
+| 23 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 24 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 25 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 26 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
+| 27 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 28 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 29 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 30 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
+| 31 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
+| 32 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 33 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 34 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 35 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 36 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 37 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 38 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
+| 39 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 40 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 41 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 42 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 44 | [Emule](http://twitter.com/search?q=Emule) | N/A |
+| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 46 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 47 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 48 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 49 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
 
 
 

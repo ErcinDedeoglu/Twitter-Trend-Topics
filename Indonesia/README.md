@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-09 18:16:16 UTC`
+📆 Last Updated: `2023-02-09 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
-| 2 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 3 | [#TheInterestOfLoveEp16](http://twitter.com/search?q=%23TheInterestOfLoveEp16) | N/A |
-| 4 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 5 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
-| 6 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 7 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 8 | [#KissanAirdrop](http://twitter.com/search?q=%23KissanAirdrop) | N/A |
-| 9 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 10 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
-| 11 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 12 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
-| 13 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 14 | [RCTI](http://twitter.com/search?q=RCTI) | N/A |
-| 15 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 16 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [Candy](http://twitter.com/search?q=Candy) | N/A |
+| 1 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
+| 2 | [#DikenalHandal](http://twitter.com/search?q=%23DikenalHandal) | N/A |
+| 3 | [#BRIUntungDanSlamet](http://twitter.com/search?q=%23BRIUntungDanSlamet) | N/A |
+| 4 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
+| 5 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 6 | [Mas Bupati](http://twitter.com/search?q=Mas+Bupati) | N/A |
+| 7 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
+| 8 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
+| 9 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
+| 10 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 12 | [special mc huening kai](http://twitter.com/search?q=special+mc+huening+kai) | N/A |
+| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 14 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 15 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 16 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 17 | [mas gibran](http://twitter.com/search?q=mas+gibran) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
 | 20 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 22 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
-| 23 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 26 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 27 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 28 | [#AirdropKingNews](http://twitter.com/search?q=%23AirdropKingNews) | N/A |
-| 29 | [#KSNToTheMoon](http://twitter.com/search?q=%23KSNToTheMoon) | N/A |
-| 30 | [#AntManAndTheWaspQuantumania](http://twitter.com/search?q=%23AntManAndTheWaspQuantumania) | #AntManAndTheWaspQuantumania is the title of the upcoming third installment in the Ant-Man and The Wasp franchise. The word "Quantumania" refers to a quantum realm, which is a subatomic world that exists beyond the boundaries of normal space and time. It is believed to be the source of great power and knowledge, and is a key element in the Ant-Man and The Wasp films. |
-| 31 | [#LyodraEgo](http://twitter.com/search?q=%23LyodraEgo) | N/A |
-| 32 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
-| 33 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
-| 34 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
-| 35 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 36 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 37 | [#도블도블](http://twitter.com/search?q=%23%eb%8f%84%eb%b8%94%eb%8f%84%eb%b8%94) | N/A |
-| 38 | [#KeepKalem](http://twitter.com/search?q=%23KeepKalem) | N/A |
-| 39 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
-| 40 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
-| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 42 | [#GiffarineChinaxMileApo](http://twitter.com/search?q=%23GiffarineChinaxMileApo) | N/A |
-| 43 | [#UGDforPSS](http://twitter.com/search?q=%23UGDforPSS) | N/A |
-| 44 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
-| 45 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 46 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
+| 21 | [Laba BRI 51](http://twitter.com/search?q=Laba+BRI+51) | N/A |
+| 22 | [Beng](http://twitter.com/search?q=Beng) | N/A |
+| 23 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
+| 24 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
+| 25 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
+| 26 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 27 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 28 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 29 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 30 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 31 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 32 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
+| 33 | [NMIXX FIRST MINI ALBUM](http://twitter.com/search?q=NMIXX+FIRST+MINI+ALBUM) | N/A |
+| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 35 | [Airi](http://twitter.com/search?q=Airi) | N/A |
+| 36 | [btn mobile](http://twitter.com/search?q=btn+mobile) | N/A |
+| 37 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 38 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
+| 39 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 40 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 41 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 42 | [Dilla](http://twitter.com/search?q=Dilla) | N/A |
+| 43 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 44 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 45 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 46 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 47 | [Sangobion](http://twitter.com/search?q=Sangobion) | N/A |
+| 48 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
+| 49 | [Arah Coffee](http://twitter.com/search?q=Arah+Coffee) | N/A |
+| 50 | [Eneng](http://twitter.com/search?q=Eneng) | N/A |
 
 
 

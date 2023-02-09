@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-09 18:16:03 UTC`
+📆 Last Updated: `2023-02-09 19:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
-| 2 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 1 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 2 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
 | 3 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
-| 4 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
-| 5 | [Elveda Netflix](http://twitter.com/search?q=Elveda+Netflix) | N/A |
-| 6 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
-| 7 | [#HepimizEnkazdayız](http://twitter.com/search?q=%23HepimizEnkazday%c4%b1z) | N/A |
-| 8 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
-| 9 | [Helal](http://twitter.com/search?q=Helal) | N/A |
-| 10 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 11 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
-| 12 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 13 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 14 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 15 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 16 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
-| 17 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
-| 18 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
-| 19 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
-| 20 | [Tepki](http://twitter.com/search?q=Tepki) | N/A |
-| 21 | [Akit](http://twitter.com/search?q=Akit) | N/A |
+| 4 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 5 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
+| 6 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 7 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 8 | [Birol](http://twitter.com/search?q=Birol) | N/A |
+| 9 | [#HepimizEnkazdayız](http://twitter.com/search?q=%23HepimizEnkazday%c4%b1z) | N/A |
+| 10 | [Elveda Netflix](http://twitter.com/search?q=Elveda+Netflix) | N/A |
+| 11 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 12 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
+| 13 | [Gülsüm](http://twitter.com/search?q=G%c3%bcls%c3%bcm) | N/A |
+| 14 | [TahaDuymaza AfadEkibi](http://twitter.com/search?q=TahaDuymaza+AfadEkibi) | N/A |
+| 15 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 16 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 17 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
+| 18 | [Fetih](http://twitter.com/search?q=Fetih) | N/A |
+| 19 | [MONT BATTANİYE YARDIMI](http://twitter.com/search?q=MONT+BATTAN%c4%b0YE+YARDIMI) | N/A |
+| 20 | [Yiğit Akar](http://twitter.com/search?q=Yi%c4%9fit+Akar) | N/A |
+| 21 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
 | 22 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 23 | [Samimiyetsizsiniz](http://twitter.com/search?q=Samimiyetsizsiniz) | N/A |
-| 24 | [Ertelemek](http://twitter.com/search?q=Ertelemek) | N/A |
-| 25 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
-| 26 | [Kulüpler](http://twitter.com/search?q=Kul%c3%bcpler) | N/A |
-| 27 | [DepremBölgesine Maskeİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesine+Maske%c4%b0htiyac%c4%b1) | N/A |
-| 28 | [Ettirildi](http://twitter.com/search?q=Ettirildi) | N/A |
-| 29 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
-| 30 | [Zoraki](http://twitter.com/search?q=Zoraki) | N/A |
-| 31 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
-| 32 | [Doğruları](http://twitter.com/search?q=Do%c4%9frular%c4%b1) | N/A |
-| 33 | [Ayşegül](http://twitter.com/search?q=Ay%c5%9feg%c3%bcl) | N/A |
-| 34 | [Fetih](http://twitter.com/search?q=Fetih) | N/A |
-| 35 | [Gaziantep FK](http://twitter.com/search?q=Gaziantep+FK) | N/A |
-| 36 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 37 | [Duruşunuz](http://twitter.com/search?q=Duru%c5%9funuz) | N/A |
-| 38 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 39 | [HİJYEN ÜRÜNLERİ](http://twitter.com/search?q=H%c4%b0JYEN+%c3%9cR%c3%9cNLER%c4%b0) | N/A |
-| 40 | [Mesai](http://twitter.com/search?q=Mesai) | N/A |
-| 41 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 42 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 44 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 45 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
-| 46 | [Omurgalı](http://twitter.com/search?q=Omurgal%c4%b1) | N/A |
-| 47 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
-| 48 | [Ciner](http://twitter.com/search?q=Ciner) | N/A |
-| 49 | [Ülkeden](http://twitter.com/search?q=%c3%9clkeden) | N/A |
-| 50 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 23 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
+| 24 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 25 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 26 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 27 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 28 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 29 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 30 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 31 | [Akit](http://twitter.com/search?q=Akit) | N/A |
+| 32 | [DepremBölgesine Maskeİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesine+Maske%c4%b0htiyac%c4%b1) | N/A |
+| 33 | [Ettirildi](http://twitter.com/search?q=Ettirildi) | N/A |
+| 34 | [Samimiyetsizsiniz](http://twitter.com/search?q=Samimiyetsizsiniz) | N/A |
+| 35 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
+| 36 | [Tepki](http://twitter.com/search?q=Tepki) | N/A |
+| 37 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
+| 38 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 39 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
+| 40 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
+| 41 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
+| 42 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 43 | [HİJYEN ÜRÜNLERİ](http://twitter.com/search?q=H%c4%b0JYEN+%c3%9cR%c3%9cNLER%c4%b0) | N/A |
+| 44 | [Zoraki](http://twitter.com/search?q=Zoraki) | N/A |
+| 45 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 46 | [Erteleme](http://twitter.com/search?q=Erteleme) | N/A |
+| 47 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
+| 48 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
+| 49 | [Ayşegül](http://twitter.com/search?q=Ay%c5%9feg%c3%bcl) | N/A |
+| 50 | [Mesai](http://twitter.com/search?q=Mesai) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-09 18:15:55 UTC`
+📆 Last Updated: `2023-02-09 19:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,45 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PhalaPhalaFarmGate](http://twitter.com/search?q=%23PhalaPhalaFarmGate) | N/A |
+| 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 2 | [#FindJoy](http://twitter.com/search?q=%23FindJoy) | N/A |
 | 3 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
-| 4 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 5 | [President](http://twitter.com/search?q=President) | N/A |
-| 6 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
-| 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 9 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 10 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 11 | [#LionessSA](http://twitter.com/search?q=%23LionessSA) | N/A |
-| 12 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 13 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
-| 14 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 15 | [State of the Nation Address](http://twitter.com/search?q=State+of+the+Nation+Address) | N/A |
-| 16 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 17 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 18 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 19 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 20 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 23 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 24 | [#Loadshedding](http://twitter.com/search?q=%23Loadshedding) | N/A |
-| 25 | [#LitenUp](http://twitter.com/search?q=%23LitenUp) | N/A |
-| 26 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
-| 27 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 28 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 29 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 30 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
-| 31 | [#mcdmealmatch](http://twitter.com/search?q=%23mcdmealmatch) | N/A |
-| 32 | [#TheLifeArtois](http://twitter.com/search?q=%23TheLifeArtois) | N/A |
-| 33 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 34 | [#podcastandchillwithmacg](http://twitter.com/search?q=%23podcastandchillwithmacg) | N/A |
-| 35 | [#LeaveNoOneBehind](http://twitter.com/search?q=%23LeaveNoOneBehind) | N/A |
+| 4 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
+| 5 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 6 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 7 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
+| 8 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 9 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 10 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 11 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
+| 12 | [#LitenUp](http://twitter.com/search?q=%23LitenUp) | N/A |
+| 13 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 14 | [#Loadshedding](http://twitter.com/search?q=%23Loadshedding) | N/A |
+| 15 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 16 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 17 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 18 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 19 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 20 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 21 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 22 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 23 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 24 | [Circus](http://twitter.com/search?q=Circus) | N/A |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
+| 27 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 28 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 29 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 30 | [#LionessSA](http://twitter.com/search?q=%23LionessSA) | N/A |
+| 31 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 32 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
+| 33 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 34 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 35 | [#TheLifeArtois](http://twitter.com/search?q=%23TheLifeArtois) | N/A |
+| 36 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 37 | [#PhalaPhalaFarmGate](http://twitter.com/search?q=%23PhalaPhalaFarmGate) | N/A |
+| 38 | [#podcastandchillwithmacg](http://twitter.com/search?q=%23podcastandchillwithmacg) | N/A |
+| 39 | [#LeaveNoOneBehind](http://twitter.com/search?q=%23LeaveNoOneBehind) | N/A |
 
 
 

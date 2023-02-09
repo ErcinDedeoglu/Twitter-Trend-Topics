@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-09 18:15:37 UTC`
+📆 Last Updated: `2023-02-09 19:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 1 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 2 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
 | 3 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 4 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 4 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
 | 5 | [#Hanouna](http://twitter.com/search?q=%23Hanouna) | N/A |
-| 6 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 9 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 12 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 16 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 17 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 18 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [Cissé](http://twitter.com/search?q=Ciss%c3%a9) | N/A |
-| 21 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 22 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 24 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 25 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 26 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
-| 27 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Spider-Man Noir](http://twitter.com/search?q=Spider-Man+Noir) | N/A |
-| 30 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 31 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 32 | [Zootopie 2](http://twitter.com/search?q=Zootopie+2) | N/A |
-| 33 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 34 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 35 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 36 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 37 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 38 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 39 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
-| 40 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 41 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 42 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Coupet](http://twitter.com/search?q=Coupet) | N/A |
-| 45 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 46 | [Cdiscount](http://twitter.com/search?q=Cdiscount) | N/A |
-| 47 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 48 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 49 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 50 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 6 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 7 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 8 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 9 | [#Repas1euro](http://twitter.com/search?q=%23Repas1euro) | N/A |
+| 10 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 11 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 12 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
+| 13 | [#arcom](http://twitter.com/search?q=%23arcom) | N/A |
+| 14 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 15 | [Cdiscount](http://twitter.com/search?q=Cdiscount) | N/A |
+| 16 | [Prisca](http://twitter.com/search?q=Prisca) | N/A |
+| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 18 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 19 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 20 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 21 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 23 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 24 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 26 | [LA HONTE](http://twitter.com/search?q=LA+HONTE) | N/A |
+| 27 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 28 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 29 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 30 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 31 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 32 | [Zelinsky](http://twitter.com/search?q=Zelinsky) | N/A |
+| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 34 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 35 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 36 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 37 | [#etudiants](http://twitter.com/search?q=%23etudiants) | N/A |
+| 38 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 39 | [#Facealinfo](http://twitter.com/search?q=%23Facealinfo) | N/A |
+| 40 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 41 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 42 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 43 | [#ZelenskyWarCriminal](http://twitter.com/search?q=%23ZelenskyWarCriminal) | N/A |
+| 44 | [#FCLRCL](http://twitter.com/search?q=%23FCLRCL) | N/A |
+| 45 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
+| 46 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 47 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 48 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 49 | [#Zemmour](http://twitter.com/search?q=%23Zemmour) | N/A |
+| 50 | [#ONEPIECE1074](http://twitter.com/search?q=%23ONEPIECE1074) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-09 18:16:12 UTC`
+📆 Last Updated: `2023-02-09 19:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 2 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
-| 3 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 4 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 5 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 6 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 7 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 8 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 9 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 10 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 11 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 12 | [#Disney](http://twitter.com/search?q=%23Disney) | N/A |
-| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 15 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 16 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 17 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 18 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
-| 19 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 20 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
-| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 22 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 23 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 26 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 27 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 28 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 30 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
-| 31 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
-| 32 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 33 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 34 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 35 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
-| 36 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 37 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
-| 38 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 39 | [Goga](http://twitter.com/search?q=Goga) | N/A |
-| 40 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 41 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 42 | [Saddiq](http://twitter.com/search?q=Saddiq) | N/A |
-| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 44 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 45 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 46 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 1 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 2 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 3 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
+| 4 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 5 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 6 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 7 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 8 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 9 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 10 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
+| 11 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 12 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 13 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 14 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 15 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 16 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 17 | [Moody](http://twitter.com/search?q=Moody) | N/A |
+| 18 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 19 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 20 | [Dray](http://twitter.com/search?q=Dray) | N/A |
+| 21 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 22 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 23 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 24 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
+| 25 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 26 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 28 | [#Disney](http://twitter.com/search?q=%23Disney) | N/A |
+| 29 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 30 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 31 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 32 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 33 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 34 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 35 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 37 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 38 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 40 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
+| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 42 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
+| 43 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 44 | [Blais](http://twitter.com/search?q=Blais) | N/A |
+| 45 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 46 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
 
 
 
