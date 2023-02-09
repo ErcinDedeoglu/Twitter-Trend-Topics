@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-02-09 21:15:37 UTC`
+📆 Last Updated: `2023-02-09 22:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#instamart](http://twitter.com/search?q=%23instamart) | N/A |
-| 2 | [#RajyaSabha](http://twitter.com/search?q=%23RajyaSabha) | N/A |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 5 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
-| 6 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
-| 7 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 9 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
-| 10 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
-| 11 | [Ankit](http://twitter.com/search?q=Ankit) | N/A |
-| 12 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 13 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 14 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 15 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
-| 16 | [Harami](http://twitter.com/search?q=Harami) | N/A |
-| 17 | [Journey](http://twitter.com/search?q=Journey) | N/A |
-| 18 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
-| 19 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
-| 20 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
-| 21 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
-| 22 | [Indira](http://twitter.com/search?q=Indira) | N/A |
-| 23 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 24 | [#HBD_Kaviraj](http://twitter.com/search?q=%23HBD_Kaviraj) | N/A |
-| 25 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 26 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
-| 27 | [#AlNassr](http://twitter.com/search?q=%23AlNassr) | #AlNassr is the name of a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. |
-| 28 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
-| 29 | [#UnstoppableWithNBKS2](http://twitter.com/search?q=%23UnstoppableWithNBKS2) | N/A |
-| 30 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
-| 31 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
-| 32 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 33 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
-| 34 | [#ShalinBhanot](http://twitter.com/search?q=%23ShalinBhanot) | N/A |
-| 35 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
-| 36 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
-| 37 | [#PMModiInParliament](http://twitter.com/search?q=%23PMModiInParliament) | N/A |
-| 38 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
-| 39 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 40 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
-| 41 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 42 | [#UttarakhandPaperLeak](http://twitter.com/search?q=%23UttarakhandPaperLeak) | N/A |
-| 43 | [#Zomato](http://twitter.com/search?q=%23Zomato) | N/A |
-| 44 | [#Modiji](http://twitter.com/search?q=%23Modiji) | N/A |
-| 45 | [#ukpsc](http://twitter.com/search?q=%23ukpsc) | N/A |
-| 46 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
+| 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 2 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 3 | [#ModiInParliament](http://twitter.com/search?q=%23ModiInParliament) | N/A |
+| 4 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 5 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 7 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 8 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
+| 9 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
+| 10 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 11 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 12 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 13 | [happy birthday rita maa](http://twitter.com/search?q=happy+birthday+rita+maa) | N/A |
+| 14 | [Onus On CBI 4SSRJustice](http://twitter.com/search?q=Onus+On+CBI+4SSRJustice) | N/A |
+| 15 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 16 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 17 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
+| 18 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 19 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
+| 20 | [mata pita ka ho satkar](http://twitter.com/search?q=mata+pita+ka+ho+satkar) | N/A |
+| 21 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 22 | [sunhare bhavishya ki aur](http://twitter.com/search?q=sunhare+bhavishya+ki+aur) | N/A |
+| 23 | [piya re out now](http://twitter.com/search?q=piya+re+out+now) | N/A |
+| 24 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 25 | [WE LOVE YOU SHALIN BHANOT](http://twitter.com/search?q=WE+LOVE+YOU+SHALIN+BHANOT) | N/A |
+| 26 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 27 | [Happy Chocolate](http://twitter.com/search?q=Happy+Chocolate) | N/A |
+| 28 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
+| 29 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
+| 30 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 31 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 32 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 33 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
+| 34 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 35 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
+| 36 | [Ankit](http://twitter.com/search?q=Ankit) | N/A |
+| 37 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
+| 38 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 39 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 40 | [Camel](http://twitter.com/search?q=Camel) | N/A |
+| 41 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 42 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
+| 43 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 44 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 45 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 46 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 47 | [Zack Snyder](http://twitter.com/search?q=Zack+Snyder) | N/A |
+| 48 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
 
 
 

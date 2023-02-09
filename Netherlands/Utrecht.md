@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-09 21:15:17 UTC`
+📆 Last Updated: `2023-02-09 22:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#tweAJA](http://twitter.com/search?q=%23tweAJA) | N/A |
-| 2 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
-| 3 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 4 | [#adogae](http://twitter.com/search?q=%23adogae) | N/A |
+| 2 | [#adogae](http://twitter.com/search?q=%23adogae) | N/A |
+| 3 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
+| 4 | [#ikvertrek](http://twitter.com/search?q=%23ikvertrek) | N/A |
 | 5 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 6 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 7 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 6 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 8 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 9 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 13 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 14 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 15 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 16 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 17 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 18 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 19 | [Budel](http://twitter.com/search?q=Budel) | N/A |
-| 20 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
-| 21 | [Cerny](http://twitter.com/search?q=Cerny) | N/A |
-| 22 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
-| 23 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 24 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 26 | [Ron Jans](http://twitter.com/search?q=Ron+Jans) | N/A |
-| 27 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 28 | [Jolanda](http://twitter.com/search?q=Jolanda) | N/A |
-| 29 | [Van Wolfswinkel](http://twitter.com/search?q=Van+Wolfswinkel) | N/A |
+| 9 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 10 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 11 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 12 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 13 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 14 | [Budel](http://twitter.com/search?q=Budel) | N/A |
+| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 16 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
+| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 18 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 19 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 20 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 21 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 22 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 23 | [Ron Jans](http://twitter.com/search?q=Ron+Jans) | N/A |
+| 24 | [Cerny](http://twitter.com/search?q=Cerny) | N/A |
+| 25 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
+| 26 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 27 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 28 | [Van Wolfswinkel](http://twitter.com/search?q=Van+Wolfswinkel) | N/A |
+| 29 | [Jolanda](http://twitter.com/search?q=Jolanda) | N/A |
 | 30 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 31 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 32 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 33 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 35 | [Statenleden van Forum](http://twitter.com/search?q=Statenleden+van+Forum) | N/A |
-| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 37 | [Michiel](http://twitter.com/search?q=Michiel) | N/A |
-| 38 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 31 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 32 | [Graaf](http://twitter.com/search?q=Graaf) | N/A |
+| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 34 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 35 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 36 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 37 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
+| 38 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
 | 39 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 40 | [Enschede](http://twitter.com/search?q=Enschede) | N/A |
-| 41 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 40 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 41 | [Statenleden van Forum](http://twitter.com/search?q=Statenleden+van+Forum) | N/A |
 | 42 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
-| 43 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 44 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 45 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 46 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 47 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 48 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
-| 49 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 43 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 44 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 45 | [Salah-Eddine](http://twitter.com/search?q=Salah-Eddine) | N/A |
+| 46 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 47 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 48 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 49 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 
 
 

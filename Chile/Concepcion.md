@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-09 21:15:06 UTC`
+📆 Last Updated: `2023-02-09 22:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Chile](</Chile>)
 | 4 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 5 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
 | 6 | [#ToqueDeQueda](http://twitter.com/search?q=%23ToqueDeQueda) | N/A |
-| 7 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
-| 8 | [#PlanDeRecuperación](http://twitter.com/search?q=%23PlanDeRecuperaci%c3%b3n) | N/A |
-| 9 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 10 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 11 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 12 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 13 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 7 | [#PlanDeRecuperación](http://twitter.com/search?q=%23PlanDeRecuperaci%c3%b3n) | N/A |
+| 8 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 9 | [#IncendiosForestaleschile](http://twitter.com/search?q=%23IncendiosForestaleschile) | N/A |
+| 10 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 11 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 12 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 13 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 14 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 16 | [Gracias Presidente](http://twitter.com/search?q=Gracias+Presidente) | N/A |
 | 17 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 18 | [Joao Sousa](http://twitter.com/search?q=Joao+Sousa) | N/A |
-| 19 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 20 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 18 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 19 | [iPhone 13](http://twitter.com/search?q=iPhone+13) | N/A |
+| 20 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
 | 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 22 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
-| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 24 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 25 | [Ayudas Tempranas](http://twitter.com/search?q=Ayudas+Tempranas) | N/A |
-| 26 | [Lucía Hiriart](http://twitter.com/search?q=Luc%c3%ada+Hiriart) | N/A |
-| 27 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
-| 28 | [iPhone 13](http://twitter.com/search?q=iPhone+13) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 31 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
+| 22 | [Ayudas Tempranas](http://twitter.com/search?q=Ayudas+Tempranas) | N/A |
+| 23 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
+| 24 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 26 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 27 | [Lucía Hiriart](http://twitter.com/search?q=Luc%c3%ada+Hiriart) | N/A |
+| 28 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Experiencia](http://twitter.com/search?q=Experiencia) | N/A |
 | 32 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 33 | [Tous](http://twitter.com/search?q=Tous) | N/A |
-| 34 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 34 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
 | 35 | [Cansu Dere](http://twitter.com/search?q=Cansu+Dere) | N/A |
-| 36 | [Experiencia](http://twitter.com/search?q=Experiencia) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [Cristian Valenzuela](http://twitter.com/search?q=Cristian+Valenzuela) | N/A |
-| 39 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 40 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 41 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 42 | [Paty Maldonado](http://twitter.com/search?q=Paty+Maldonado) | N/A |
-| 43 | [Daniel Valdés](http://twitter.com/search?q=Daniel+Vald%c3%a9s) | N/A |
-| 44 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
-| 45 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 46 | [RREE](http://twitter.com/search?q=RREE) | N/A |
-| 47 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 48 | [Estado de Sitio](http://twitter.com/search?q=Estado+de+Sitio) | N/A |
-| 49 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 50 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 37 | [cristian valenzuela](http://twitter.com/search?q=cristian+valenzuela) | N/A |
+| 38 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
+| 39 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
+| 40 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 41 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 42 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
+| 43 | [Joao Sousa](http://twitter.com/search?q=Joao+Sousa) | N/A |
+| 44 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 45 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 46 | [Daniel Valdés](http://twitter.com/search?q=Daniel+Vald%c3%a9s) | N/A |
+| 47 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 48 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 49 | [Peruana](http://twitter.com/search?q=Peruana) | N/A |
+| 50 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 
 
 

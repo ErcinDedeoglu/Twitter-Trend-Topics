@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-09 21:15:55 UTC`
+📆 Last Updated: `2023-02-09 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,38 +17,33 @@ This is top 50 for South Africa
 | ------- | ------------ | ------------ |
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 3 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 3 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
 | 4 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 5 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
+| 5 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
 | 6 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 7 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
-| 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 8 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
 | 9 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
-| 10 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 10 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 11 | [#LitenUp](http://twitter.com/search?q=%23LitenUp) | N/A |
-| 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 12 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
 | 13 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
 | 14 | [#Loadshedding](http://twitter.com/search?q=%23Loadshedding) | N/A |
 | 15 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 16 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 16 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
 | 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 18 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 19 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 18 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 19 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 20 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 21 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 22 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
-| 23 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 24 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 25 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
-| 26 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 28 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 29 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
-| 30 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 31 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 32 | [#PhalaPhalaFarmGate](http://twitter.com/search?q=%23PhalaPhalaFarmGate) | N/A |
-| 33 | [#LeaveNoOneBehind](http://twitter.com/search?q=%23LeaveNoOneBehind) | N/A |
-| 34 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 21 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
+| 22 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 23 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 25 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 26 | [#StateOfTheUnionAddress](http://twitter.com/search?q=%23StateOfTheUnionAddress) | N/A |
+| 27 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 28 | [#PhalaPhalaFarmGate](http://twitter.com/search?q=%23PhalaPhalaFarmGate) | N/A |
+| 29 | [#LeaveNoOneBehind](http://twitter.com/search?q=%23LeaveNoOneBehind) | N/A |
 
 
 

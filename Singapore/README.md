@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-09 21:15:56 UTC`
+📆 Last Updated: `2023-02-09 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for Singapore
 | 1 | [#MYCONinSG](http://twitter.com/search?q=%23MYCONinSG) | N/A |
 | 2 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
 | 3 | [#MAMAMOOinSG](http://twitter.com/search?q=%23MAMAMOOinSG) | N/A |
-| 4 | [#女同系列](http://twitter.com/search?q=%23%e5%a5%b3%e5%90%8c%e7%b3%bb%e5%88%97) | N/A |
-| 5 | [#91视频](http://twitter.com/search?q=%2391%e8%a7%86%e9%a2%91) | N/A |
+| 4 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
+| 5 | [#黄瓜视频](http://twitter.com/search?q=%23%e9%bb%84%e7%93%9c%e8%a7%86%e9%a2%91) | N/A |
 | 6 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
 | 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 8 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
 | 9 | [KDLEX ITS SHOWTIME](http://twitter.com/search?q=KDLEX+ITS+SHOWTIME) | N/A |
-| 10 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 11 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 10 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 11 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
 | 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 14 | [MCountdown](http://twitter.com/search?q=MCountdown) | N/A |
@@ -57,13 +57,13 @@ This is top 50 for Singapore
 | 40 | [jinki](http://twitter.com/search?q=jinki) | N/A |
 | 41 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 42 | [Star Vista](http://twitter.com/search?q=Star+Vista) | N/A |
-| 43 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 44 | [s'pore](http://twitter.com/search?q=s%27pore) | N/A |
-| 45 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 46 | [Character Name](http://twitter.com/search?q=Character+Name) | N/A |
-| 47 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 48 | [Yena](http://twitter.com/search?q=Yena) | N/A |
-| 49 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 43 | [s'pore](http://twitter.com/search?q=s%27pore) | N/A |
+| 44 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 45 | [Character Name](http://twitter.com/search?q=Character+Name) | N/A |
+| 46 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 47 | [Yena](http://twitter.com/search?q=Yena) | N/A |
+| 48 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 49 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 50 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 
 

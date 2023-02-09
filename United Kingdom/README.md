@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-09 21:15:56 UTC`
+📆 Last Updated: `2023-02-09 22:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 2 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 4 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 5 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 6 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 7 | [#thedoghouse](http://twitter.com/search?q=%23thedoghouse) | N/A |
-| 8 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
-| 9 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 10 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 11 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 12 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 13 | [Shaq and Olivia](http://twitter.com/search?q=Shaq+and+Olivia) | N/A |
-| 14 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 15 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
-| 16 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
-| 17 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 18 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 19 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 20 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 21 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 23 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 24 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 25 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 26 | [Duchess](http://twitter.com/search?q=Duchess) | N/A |
-| 27 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 28 | [The Look of Love](http://twitter.com/search?q=The+Look+of+Love) | N/A |
-| 29 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 30 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 31 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 32 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 33 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
-| 34 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 35 | [I Say A Little Prayer](http://twitter.com/search?q=I+Say+A+Little+Prayer) | N/A |
-| 36 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 37 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 38 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 39 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 40 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 41 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 42 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 43 | [Close To You](http://twitter.com/search?q=Close+To+You) | N/A |
-| 44 | [Bissouma](http://twitter.com/search?q=Bissouma) | Bissouma is a name of African origin, derived from the Mandinka language. It means “one who is blessed” or “one who is favored by God”. |
-| 45 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 46 | [Never Fall In Love Again](http://twitter.com/search?q=Never+Fall+In+Love+Again) | N/A |
-| 47 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
-| 48 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
-| 49 | [Mack](http://twitter.com/search?q=Mack) | N/A |
-| 50 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 1 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 2 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 3 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 4 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 5 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 6 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 7 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 8 | [#GraysonPerry](http://twitter.com/search?q=%23GraysonPerry) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 11 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 12 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 13 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 14 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 15 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 16 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 17 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
+| 18 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 19 | [Ron and Kai](http://twitter.com/search?q=Ron+and+Kai) | N/A |
+| 20 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 21 | [Aspinall](http://twitter.com/search?q=Aspinall) | N/A |
+| 22 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
+| 23 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
+| 24 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 25 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 26 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 27 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 28 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 29 | [Duchess](http://twitter.com/search?q=Duchess) | N/A |
+| 30 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 31 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
+| 32 | [Dozy](http://twitter.com/search?q=Dozy) | N/A |
+| 33 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 34 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 35 | [Northern Soul](http://twitter.com/search?q=Northern+Soul) | N/A |
+| 36 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 37 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 38 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 39 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
+| 40 | [The Look of Love](http://twitter.com/search?q=The+Look+of+Love) | N/A |
+| 41 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 42 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 43 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 44 | [Dani](http://twitter.com/search?q=Dani) | N/A |
+| 45 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 47 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 48 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 49 | [The Stranglers](http://twitter.com/search?q=The+Stranglers) | N/A |
+| 50 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 
 
 

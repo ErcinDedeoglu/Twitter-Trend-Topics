@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-09 21:15:28 UTC`
+📆 Last Updated: `2023-02-09 22:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,11 +50,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 33 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
 | 34 | [Coin](http://twitter.com/search?q=Coin) | N/A |
 | 35 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 36 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 37 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 38 | [tiếp](http://twitter.com/search?q=ti%e1%ba%bfp) | N/A |
-| 39 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 40 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 36 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 37 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 38 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 39 | [tiếp](http://twitter.com/search?q=ti%e1%ba%bfp) | N/A |
+| 40 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
 | 41 | [chuẩn](http://twitter.com/search?q=chu%e1%ba%a9n) | N/A |
 | 42 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
 | 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
@@ -63,8 +63,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 47 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
 | 48 | [vũ khánh linh](http://twitter.com/search?q=v%c5%a9+kh%c3%a1nh+linh) | N/A |
-| 49 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 50 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 49 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 50 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 
 
 

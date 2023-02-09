@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-09 21:15:54 UTC`
+📆 Last Updated: `2023-02-09 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 2 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 1 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 2 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
 | 3 | [Judy](http://twitter.com/search?q=Judy) | N/A |
-| 4 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 4 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
 | 5 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
-| 6 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 7 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
-| 8 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 9 | [Ricardo Mendoza](http://twitter.com/search?q=Ricardo+Mendoza) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 12 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 13 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
-| 14 | [Paro Nacional](http://twitter.com/search?q=Paro+Nacional) | N/A |
-| 15 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 16 | [Juliaca](http://twitter.com/search?q=Juliaca) | Juliaca is a city in Peru located in the Puno Region. It is the capital of San Roman Province and the region's largest city. The name Juliaca comes from the Aymara language and means "the place of rest". |
-| 17 | [CGTP](http://twitter.com/search?q=CGTP) | N/A |
-| 18 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 19 | [BWL FIRST KOREAN SONG](http://twitter.com/search?q=BWL+FIRST+KOREAN+SONG) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 22 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 24 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 6 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 7 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
+| 8 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
+| 9 | [Juliaca](http://twitter.com/search?q=Juliaca) | Juliaca is a city in Peru located in the Puno Region. It is the capital of San Roman Province and the region's largest city. The name Juliaca comes from the Aymara language and means "the place of rest". |
+| 10 | [Ricardo Mendoza](http://twitter.com/search?q=Ricardo+Mendoza) | N/A |
+| 11 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
+| 12 | [Paro Nacional](http://twitter.com/search?q=Paro+Nacional) | N/A |
+| 13 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 16 | [CGTP](http://twitter.com/search?q=CGTP) | N/A |
+| 17 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 18 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 19 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 20 | [BWL FIRST KOREAN SONG](http://twitter.com/search?q=BWL+FIRST+KOREAN+SONG) | N/A |
+| 21 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 22 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 25 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 26 | [Ernesto Tapia](http://twitter.com/search?q=Ernesto+Tapia) | N/A |
-| 27 | [#pdtxnativa](http://twitter.com/search?q=%23pdtxnativa) | N/A |
-| 28 | [Llevamos](http://twitter.com/search?q=Llevamos) | N/A |
+| 26 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 27 | [Llevamos](http://twitter.com/search?q=Llevamos) | N/A |
+| 28 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
 | 29 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 30 | [Bloque Magisterial](http://twitter.com/search?q=Bloque+Magisterial) | N/A |
+| 30 | [Renato Cisneros](http://twitter.com/search?q=Renato+Cisneros) | N/A |
 | 31 | [GRACIAS DHARMA](http://twitter.com/search?q=GRACIAS+DHARMA) | N/A |
-| 32 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 33 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 34 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
-| 35 | [Renato Cisneros](http://twitter.com/search?q=Renato+Cisneros) | N/A |
-| 36 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
-| 37 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 39 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 40 | [Masacre](http://twitter.com/search?q=Masacre) | N/A |
-| 41 | [Domingo Pérez](http://twitter.com/search?q=Domingo+P%c3%a9rez) | N/A |
-| 42 | [Copa Davis](http://twitter.com/search?q=Copa+Davis) | N/A |
-| 43 | [Adriana Lucar](http://twitter.com/search?q=Adriana+Lucar) | N/A |
-| 44 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 45 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 46 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 47 | [Vladimir Cerrón](http://twitter.com/search?q=Vladimir+Cerr%c3%b3n) | N/A |
-| 48 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 49 | [Somos Perú](http://twitter.com/search?q=Somos+Per%c3%ba) | N/A |
-| 50 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 32 | [Ernesto Tapia](http://twitter.com/search?q=Ernesto+Tapia) | N/A |
+| 33 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 34 | [Chabelita](http://twitter.com/search?q=Chabelita) | N/A |
+| 35 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
+| 36 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 37 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 38 | [Masacre](http://twitter.com/search?q=Masacre) | N/A |
+| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 40 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 41 | [Copa Davis](http://twitter.com/search?q=Copa+Davis) | N/A |
+| 42 | [Adriana Lucar](http://twitter.com/search?q=Adriana+Lucar) | N/A |
+| 43 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 44 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
+| 45 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 46 | [Isabel Cortez](http://twitter.com/search?q=Isabel+Cortez) | N/A |
+| 47 | [Somos Perú](http://twitter.com/search?q=Somos+Per%c3%ba) | N/A |
+| 48 | [mayer candelo](http://twitter.com/search?q=mayer+candelo) | N/A |
+| 49 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 50 | [Bloque Magisterial](http://twitter.com/search?q=Bloque+Magisterial) | N/A |
 
 
 

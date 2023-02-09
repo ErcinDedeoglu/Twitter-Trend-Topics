@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-09 21:15:35 UTC`
+📆 Last Updated: `2023-02-09 22:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 | 4 | [#ہزارہ_کی_آواز_مریم_نواز](http://twitter.com/search?q=%23%db%81%d8%b2%d8%a7%d8%b1%db%81_%da%a9%db%8c_%d8%a2%d9%88%d8%a7%d8%b2_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
 | 5 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 6 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 8 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
-| 9 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
-| 10 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 9 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 10 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
 | 11 | [Sanam Saeed](http://twitter.com/search?q=Sanam+Saeed) | N/A |
 | 12 | [Reported](http://twitter.com/search?q=Reported) | N/A |
 | 13 | [Imad](http://twitter.com/search?q=Imad) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 15 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
 | 16 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
 | 17 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 19 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
-| 20 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 18 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 20 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
 | 21 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 22 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 24 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 22 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 23 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 24 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
 | 25 | [Shalimar Gardens](http://twitter.com/search?q=Shalimar+Gardens) | N/A |
-| 26 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
-| 27 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
-| 28 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 29 | [Finance Minister Ishaq Dar](http://twitter.com/search?q=Finance+Minister+Ishaq+Dar) | N/A |
-| 30 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
-| 31 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 26 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
+| 27 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 28 | [Finance Minister Ishaq Dar](http://twitter.com/search?q=Finance+Minister+Ishaq+Dar) | N/A |
+| 29 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 30 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
+| 31 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
 | 32 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 33 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 34 | [Mjhy](http://twitter.com/search?q=Mjhy) | N/A |
-| 35 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 36 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
-| 37 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 38 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Crush](http://twitter.com/search?q=Crush) | N/A |
-| 41 | [Yessir](http://twitter.com/search?q=Yessir) | N/A |
-| 42 | [Khair](http://twitter.com/search?q=Khair) | N/A |
-| 43 | [Comms](http://twitter.com/search?q=Comms) | N/A |
-| 44 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 45 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 46 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
-| 47 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 48 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 49 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 33 | [Mjhy](http://twitter.com/search?q=Mjhy) | N/A |
+| 34 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 35 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 36 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Crush](http://twitter.com/search?q=Crush) | N/A |
+| 39 | [Yessir](http://twitter.com/search?q=Yessir) | N/A |
+| 40 | [Success](http://twitter.com/search?q=Success) | N/A |
+| 41 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
+| 42 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 43 | [Wese](http://twitter.com/search?q=Wese) | N/A |
+| 44 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 45 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 46 | [Arey](http://twitter.com/search?q=Arey) | N/A |
+| 47 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 48 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 
 
 

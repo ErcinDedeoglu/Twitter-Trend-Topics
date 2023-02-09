@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-02-09 21:15:23 UTC`
+📆 Last Updated: `2023-02-09 22:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#身長から150cm引いた数だけ喋れる](http://twitter.com/search?q=%23%e8%ba%ab%e9%95%b7%e3%81%8b%e3%82%89150cm%e5%bc%95%e3%81%84%e3%81%9f%e6%95%b0%e3%81%a0%e3%81%91%e5%96%8b%e3%82%8c%e3%82%8b) | N/A |
-| 2 | [長尾くん大河](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93%e5%a4%a7%e6%b2%b3) | N/A |
+| 1 | [長尾くん大河](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93%e5%a4%a7%e6%b2%b3) | N/A |
+| 2 | [百音ちゃん](http://twitter.com/search?q=%e7%99%be%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 百音ちゃん is a character created by the Japanese company Sanrio. She is a cute and cheerful girl who loves to sing and dance. Her name literally translates to "Hundred Sounds Girl" in English. |
 | 3 | [#おは戦50210fk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650210fk) | N/A |
-| 4 | [#めざましじゃんけん](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%81%98%e3%82%83%e3%82%93%e3%81%91%e3%82%93) | N/A |
-| 5 | [#本名にかすってもないのについたあだ名](http://twitter.com/search?q=%23%e6%9c%ac%e5%90%8d%e3%81%ab%e3%81%8b%e3%81%99%e3%81%a3%e3%81%a6%e3%82%82%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%9f%e3%81%82%e3%81%a0%e5%90%8d) | N/A |
-| 6 | [#松浦果南生誕祭2023](http://twitter.com/search?q=%23%e6%9d%be%e6%b5%a6%e6%9e%9c%e5%8d%97%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
-| 7 | [ワイズマン](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%82%ba%e3%83%9e%e3%83%b3) | N/A |
-| 8 | [トマブラ](http://twitter.com/search?q=%e3%83%88%e3%83%9e%e3%83%96%e3%83%a9) | N/A |
-| 9 | [ウォール](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%83%ab) | N/A |
-| 10 | [第385回](http://twitter.com/search?q=%e7%ac%ac385%e5%9b%9e) | N/A |
-| 11 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 12 | [果南ちゃん](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 13 | [プラムリー](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
-| 14 | [サイブル](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%96%e3%83%ab) | N/A |
-| 15 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 16 | [ニートの日](http://twitter.com/search?q=%e3%83%8b%e3%83%bc%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 17 | [値引きシール](http://twitter.com/search?q=%e5%80%a4%e5%bc%95%e3%81%8d%e3%82%b7%e3%83%bc%e3%83%ab) | N/A |
-| 18 | [バイアウト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
-| 19 | [ミツクリ](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%82%af%e3%83%aa) | N/A |
-| 20 | [ポップス作曲家](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%97%e3%82%b9%e4%bd%9c%e6%9b%b2%e5%ae%b6) | N/A |
-| 21 | [全員リーダー](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
-| 22 | [ロナウド](http://twitter.com/search?q=%e3%83%ad%e3%83%8a%e3%82%a6%e3%83%89) | N/A |
-| 23 | [ケナード](http://twitter.com/search?q=%e3%82%b1%e3%83%8a%e3%83%bc%e3%83%89) | N/A |
-| 24 | [クリッパーズ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%83%e3%83%91%e3%83%bc%e3%82%ba) | N/A |
-| 25 | [尾身会長](http://twitter.com/search?q=%e5%b0%be%e8%ba%ab%e4%bc%9a%e9%95%b7) | N/A |
-| 26 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 27 | [Close To You](http://twitter.com/search?q=Close+To+You) | N/A |
-| 28 | [ウォリアーズ](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%aa%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
-| 29 | [エリゴー](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%b4%e3%83%bc) | N/A |
-| 30 | [ヘブバン1周年](http://twitter.com/search?q=%e3%83%98%e3%83%96%e3%83%90%e3%83%b31%e5%91%a8%e5%b9%b4) | N/A |
-| 31 | [奏ちゃん](http://twitter.com/search?q=%e5%a5%8f%e3%81%a1%e3%82%83%e3%82%93) | "奏ちゃん" is a nickname for the Japanese singer and songwriter Kanon Wakeshima. It is derived from her given name, Kanon, and the Japanese honorific suffix "-chan". In English, it can be translated to mean "Kanon-chan". |
-| 32 | [パドレス](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%ac%e3%82%b9) | N/A |
-| 33 | [ロケッツ](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%84) | N/A |
-| 34 | [チャンネル削除](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab%e5%89%8a%e9%99%a4) | N/A |
-| 35 | [全員接種](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e6%8e%a5%e7%a8%ae) | N/A |
-| 36 | [ベバリー](http://twitter.com/search?q=%e3%83%99%e3%83%90%e3%83%aa%e3%83%bc) | N/A |
-| 37 | [ゆるふわ樹海ガール](http://twitter.com/search?q=%e3%82%86%e3%82%8b%e3%81%b5%e3%82%8f%e6%a8%b9%e6%b5%b7%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
-| 38 | [謙杜くん](http://twitter.com/search?q=%e8%ac%99%e6%9d%9c%e3%81%8f%e3%82%93) | N/A |
-| 39 | [ノックス](http://twitter.com/search?q=%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 40 | [アヌノビー](http://twitter.com/search?q=%e3%82%a2%e3%83%8c%e3%83%8e%e3%83%93%e3%83%bc) | N/A |
-| 41 | [Wordle 601](http://twitter.com/search?q=Wordle+601) | N/A |
-| 42 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 43 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 44 | [ジョンコリ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b3%e3%83%aa) | N/A |
-| 45 | [ピストンズ](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%83%88%e3%83%b3%e3%82%ba) | N/A |
-| 46 | [流星隊P](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8aP) | 流星隊P is a Japanese music production team. The name translates to "Meteor Team P" in English. The team is composed of two members, U-ya Asaoka and Shunsuke Tsuri, who specialize in producing music for anime and video games. |
-| 47 | [奏誕生日](http://twitter.com/search?q=%e5%a5%8f%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 48 | [ブレイザーズ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%82%a4%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
-| 49 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 4 | [#身長から150cm引いた数だけ喋れる](http://twitter.com/search?q=%23%e8%ba%ab%e9%95%b7%e3%81%8b%e3%82%89150cm%e5%bc%95%e3%81%84%e3%81%9f%e6%95%b0%e3%81%a0%e3%81%91%e5%96%8b%e3%82%8c%e3%82%8b) | N/A |
+| 5 | [いれぶんさん](http://twitter.com/search?q=%e3%81%84%e3%82%8c%e3%81%b6%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 6 | [#長尾謙杜](http://twitter.com/search?q=%23%e9%95%b7%e5%b0%be%e8%ac%99%e6%9d%9c) | N/A |
+| 7 | [#松浦果南生誕祭2023](http://twitter.com/search?q=%23%e6%9d%be%e6%b5%a6%e6%9e%9c%e5%8d%97%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
+| 8 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 9 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 10 | [値引きシール](http://twitter.com/search?q=%e5%80%a4%e5%bc%95%e3%81%8d%e3%82%b7%e3%83%bc%e3%83%ab) | N/A |
+| 11 | [大雪警報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e8%ad%a6%e5%a0%b1) | 大雪警報 (Daiyukkei Kōhō) is a Japanese term for a heavy snow warning. It is issued when the amount of snowfall is expected to exceed 10 cm in 24 hours or 20 cm in 48 hours. In English, it translates to "Heavy Snow Warning". |
+| 12 | [布団の日](http://twitter.com/search?q=%e5%b8%83%e5%9b%a3%e3%81%ae%e6%97%a5) | N/A |
+| 13 | [テネルさん](http://twitter.com/search?q=%e3%83%86%e3%83%8d%e3%83%ab%e3%81%95%e3%82%93) | N/A |
+| 14 | [ニットの日](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 15 | [ふとんの日](http://twitter.com/search?q=%e3%81%b5%e3%81%a8%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [大河出演](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%87%ba%e6%bc%94) | N/A |
+| 17 | [謙杜くん大河](http://twitter.com/search?q=%e8%ac%99%e6%9d%9c%e3%81%8f%e3%82%93%e5%a4%a7%e6%b2%b3) | N/A |
+| 18 | [トマブラ](http://twitter.com/search?q=%e3%83%88%e3%83%9e%e3%83%96%e3%83%a9) | N/A |
+| 19 | [果南ちゃん](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [ワイズマン](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%82%ba%e3%83%9e%e3%83%b3) | N/A |
+| 21 | [第385回](http://twitter.com/search?q=%e7%ac%ac385%e5%9b%9e) | N/A |
+| 22 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 23 | [ポップス作曲家](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%97%e3%82%b9%e4%bd%9c%e6%9b%b2%e5%ae%b6) | N/A |
+| 24 | [ウォール](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%83%ab) | N/A |
+| 25 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
+| 26 | [天気予報](http://twitter.com/search?q=%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1) | 天気予報 (Tenkiyohou) is a Japanese term meaning "weather forecast". It is used to refer to the prediction of weather conditions for a certain area or region. |
+| 27 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
+| 28 | [長尾ちゃん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [先発転向](http://twitter.com/search?q=%e5%85%88%e7%99%ba%e8%bb%a2%e5%90%91) | N/A |
+| 30 | [Close to You](http://twitter.com/search?q=Close+to+You) | N/A |
+| 31 | [降り始め](http://twitter.com/search?q=%e9%99%8d%e3%82%8a%e5%a7%8b%e3%82%81) | N/A |
+| 32 | [バイアウト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
+| 33 | [私立入試](http://twitter.com/search?q=%e7%a7%81%e7%ab%8b%e5%85%a5%e8%a9%a6) | N/A |
+| 34 | [陽菜ちゃん](http://twitter.com/search?q=%e9%99%bd%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [契約延長](http://twitter.com/search?q=%e5%a5%91%e7%b4%84%e5%bb%b6%e9%95%b7) | N/A |
+| 36 | [パドレス](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%ac%e3%82%b9) | N/A |
+| 37 | [帰宅難民](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e9%9b%a3%e6%b0%91) | 帰宅難民 (kitakunanmin) is a Japanese term that refers to people who have been forced to return home due to the economic downturn caused by the COVID-19 pandemic. It literally translates to "returning home refugees". |
+| 38 | [プラムリー](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
+| 39 | [サイブル](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%96%e3%83%ab) | N/A |
+| 40 | [値引き品](http://twitter.com/search?q=%e5%80%a4%e5%bc%95%e3%81%8d%e5%93%81) | N/A |
+| 41 | [長尾大河](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e5%a4%a7%e6%b2%b3) | N/A |
+| 42 | [ミツクリ](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%82%af%e3%83%aa) | N/A |
+| 43 | [警報級の大雪](http://twitter.com/search?q=%e8%ad%a6%e5%a0%b1%e7%b4%9a%e3%81%ae%e5%a4%a7%e9%9b%aa) | N/A |
+| 44 | [ケナード](http://twitter.com/search?q=%e3%82%b1%e3%83%8a%e3%83%bc%e3%83%89) | N/A |
+| 45 | [Wordle 601](http://twitter.com/search?q=Wordle+601) | N/A |
+| 46 | [奏ちゃん](http://twitter.com/search?q=%e5%a5%8f%e3%81%a1%e3%82%83%e3%82%93) | "奏ちゃん" is a nickname for the Japanese singer and songwriter Kanon Wakeshima. It is derived from her given name, Kanon, and the Japanese honorific suffix "-chan". In English, it can be translated to mean "Kanon-chan". |
+| 47 | [Rolling Stone Japan](http://twitter.com/search?q=Rolling+Stone+Japan) | N/A |
+| 48 | [雪大丈夫](http://twitter.com/search?q=%e9%9b%aa%e5%a4%a7%e4%b8%88%e5%a4%ab) | 雪大丈夫 is a Japanese proverb that literally translates to "Snow is a brave man". It is used to express admiration for someone who can remain calm and composed in the face of adversity. In other words, it is a way of saying that someone has great courage and strength. |
+| 49 | [降り出し](http://twitter.com/search?q=%e9%99%8d%e3%82%8a%e5%87%ba%e3%81%97) | N/A |
 
 
 
