@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-09 01:44:03 UTC`
+📆 Last Updated: `2023-02-09 02:40:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
 | 4 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 5 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 6 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 7 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 8 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 9 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 10 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 11 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 12 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 15 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 16 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
-| 17 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 18 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 19 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 20 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 21 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 22 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 23 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 26 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 27 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 28 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 29 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 31 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 32 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 33 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 34 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 35 | [Mario Kart](http://twitter.com/search?q=Mario+Kart) | N/A |
-| 36 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 37 | [unerwartet](http://twitter.com/search?q=unerwartet) | N/A |
-| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
-| 40 | [Splatoon 3 DLC](http://twitter.com/search?q=Splatoon+3+DLC) | N/A |
-| 41 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 42 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 43 | [Gerhart Baum](http://twitter.com/search?q=Gerhart+Baum) | N/A |
-| 44 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 45 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 46 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 47 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 48 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 6 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 7 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 10 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 11 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 12 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 13 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 14 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 17 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 18 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 19 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 20 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 21 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 22 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 23 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 24 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 25 | [riemann](http://twitter.com/search?q=riemann) | N/A |
+| 26 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [unerwartet](http://twitter.com/search?q=unerwartet) | N/A |
+| 29 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
+| 30 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 31 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 32 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
+| 33 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 34 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 35 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 36 | [Gerhart Baum](http://twitter.com/search?q=Gerhart+Baum) | N/A |
+| 37 | [Mario Kart](http://twitter.com/search?q=Mario+Kart) | N/A |
+| 38 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 39 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 40 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 41 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 44 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 45 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 46 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 47 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 48 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 
 
 

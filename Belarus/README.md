@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-09 01:44:43 UTC`
+📆 Last Updated: `2023-02-09 02:41:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Belarus
 | 8 | [#globalcrisis](http://twitter.com/search?q=%23globalcrisis) | N/A |
 | 9 | [дудя](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8f) | N/A |
 | 10 | [#кубокразвития](http://twitter.com/search?q=%23%d0%ba%d1%83%d0%b1%d0%be%d0%ba%d1%80%d0%b0%d0%b7%d0%b2%d0%b8%d1%82%d0%b8%d1%8f) | N/A |
-| 11 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
+| 11 | [УЖАС](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1) | N/A |
 | 12 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | N/A |
 | 13 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
 | 14 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Belarus
 | 23 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 24 | [#голосвремени](http://twitter.com/search?q=%23%d0%b3%d0%be%d0%bb%d0%be%d1%81%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8) | N/A |
 | 25 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 26 | [#лололошка](http://twitter.com/search?q=%23%d0%bb%d0%be%d0%bb%d0%be%d0%bb%d0%be%d1%88%d0%ba%d0%b0) | N/A |
+| 26 | [#Лололошка](http://twitter.com/search?q=%23%d0%9b%d0%be%d0%bb%d0%be%d0%bb%d0%be%d1%88%d0%ba%d0%b0) | N/A |
 | 27 | [#NFTFam](http://twitter.com/search?q=%23NFTFam) | N/A |
 
 

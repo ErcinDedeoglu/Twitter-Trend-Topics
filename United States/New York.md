@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-09 01:44:38 UTC`
+📆 Last Updated: `2023-02-09 02:41:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 2 | [Filip Chytil](http://twitter.com/search?q=Filip+Chytil) | N/A |
+| 1 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 2 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
 | 3 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 4 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
-| 5 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 6 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 7 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 8 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 4 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 5 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
+| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 7 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 8 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
 | 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 10 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 15 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 16 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 19 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 20 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 22 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 23 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 24 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 25 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 26 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 27 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 28 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 29 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 30 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 31 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 32 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
-| 33 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 34 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 35 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 36 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 37 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 38 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 39 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 40 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 41 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 42 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 43 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 44 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 45 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 46 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
-| 47 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 48 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 49 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 50 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 13 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 14 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 15 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 16 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 17 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 18 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 20 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 22 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 23 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 24 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 25 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 26 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 27 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 28 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 29 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 32 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 33 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 34 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 35 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 36 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 37 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 38 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 39 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 40 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 41 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 42 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 43 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 44 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 45 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 46 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 47 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 48 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 49 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 50 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
 
 
 

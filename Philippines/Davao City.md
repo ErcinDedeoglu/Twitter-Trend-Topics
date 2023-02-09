@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-09 01:44:17 UTC`
+📆 Last Updated: `2023-02-09 02:40:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
 | 4 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 5 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 6 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 7 | [bellescapessummer withshein](http://twitter.com/search?q=bellescapessummer+withshein) | N/A |
+| 6 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 7 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 | 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 9 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
-| 10 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 11 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
-| 12 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 13 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 12 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 13 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
 | 14 | [tenjul on magandang buhay](http://twitter.com/search?q=tenjul+on+magandang+buhay) | N/A |
 | 15 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 16 | [gap final ep presstour](http://twitter.com/search?q=gap+final+ep+presstour) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [our majestic song](http://twitter.com/search?q=our+majestic+song) | N/A |
-| 19 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 20 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
-| 21 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 22 | [Jihan](http://twitter.com/search?q=Jihan) | N/A |
+| 16 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 17 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 18 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 19 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
+| 20 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
+| 21 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 22 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
 | 23 | [Love For Humanity](http://twitter.com/search?q=Love+For+Humanity) | N/A |
-| 24 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 25 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 26 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 27 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 28 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 29 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 24 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 25 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 26 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 28 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 29 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
 | 30 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 31 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 32 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
-| 33 | [HAPPY BIRTHDAY WONIE](http://twitter.com/search?q=HAPPY+BIRTHDAY+WONIE) | N/A |
+| 31 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
+| 32 | [sb19 on wishbus usa](http://twitter.com/search?q=sb19+on+wishbus+usa) | N/A |
+| 33 | [happy birthday wonie](http://twitter.com/search?q=happy+birthday+wonie) | N/A |
 | 34 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 35 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 35 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
 | 36 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 37 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
-| 38 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 39 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
-| 40 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 41 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 44 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 45 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
-| 46 | [WE LOVE YOU AESPA](http://twitter.com/search?q=WE+LOVE+YOU+AESPA) | N/A |
-| 47 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 37 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 38 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 39 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 40 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 41 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 42 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
+| 43 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 46 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 47 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 
 
 

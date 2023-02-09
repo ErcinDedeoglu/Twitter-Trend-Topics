@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-02-09 01:44:32 UTC`
+📆 Last Updated: `2023-02-09 02:41:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 4 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 5 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 6 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 9 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 10 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 11 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 14 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 15 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 16 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 17 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 18 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 19 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 20 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 21 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 22 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 24 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 25 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
-| 26 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 28 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 29 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 30 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 31 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 32 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 33 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 34 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 35 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 36 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 37 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 38 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
-| 39 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 40 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 41 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 42 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 43 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 44 | [The Bunny](http://twitter.com/search?q=The+Bunny) | N/A |
-| 45 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 46 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 47 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 2 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 5 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 6 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 7 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 8 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 9 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 10 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 12 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 13 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 14 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 17 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 18 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 19 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 20 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 21 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 24 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 25 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 26 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 27 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 28 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 29 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 30 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 31 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 32 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 33 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 34 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 35 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 36 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 37 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 38 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 39 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 40 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 41 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 42 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 43 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 44 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 45 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 46 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 47 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
 
 
 

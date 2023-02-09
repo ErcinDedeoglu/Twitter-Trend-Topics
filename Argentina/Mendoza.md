@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-09 01:43:53 UTC`
+📆 Last Updated: `2023-02-09 02:40:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
-| 2 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 3 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 4 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 6 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
-| 7 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 8 | [POLILLA](http://twitter.com/search?q=POLILLA) | N/A |
-| 9 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 10 | [#TerrorismoEconomico](http://twitter.com/search?q=%23TerrorismoEconomico) | N/A |
-| 11 | [#FrodoFlipendo](http://twitter.com/search?q=%23FrodoFlipendo) | N/A |
-| 12 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 13 | [#los8escalonesdelmillón](http://twitter.com/search?q=%23los8escalonesdelmill%c3%b3n) | N/A |
-| 14 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 15 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
-| 16 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
-| 17 | [HASTA LA FINAL CON ROMI](http://twitter.com/search?q=HASTA+LA+FINAL+CON+ROMI) | N/A |
-| 18 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 19 | [Centro Español](http://twitter.com/search?q=Centro+Espa%c3%b1ol) | N/A |
-| 20 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 21 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 22 | [Complot](http://twitter.com/search?q=Complot) | N/A |
-| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 24 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 25 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
-| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 27 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 28 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 31 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 32 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 33 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 34 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 35 | [Alfa y Camila](http://twitter.com/search?q=Alfa+y+Camila) | N/A |
-| 36 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
-| 39 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 40 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 44 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 45 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 46 | [Lisandro Martínez](http://twitter.com/search?q=Lisandro+Mart%c3%adnez) | N/A |
-| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 48 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 49 | [Romina y Daniela](http://twitter.com/search?q=Romina+y+Daniela) | N/A |
+| 1 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 2 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 3 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
+| 4 | [Centro Español](http://twitter.com/search?q=Centro+Espa%c3%b1ol) | N/A |
+| 5 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
+| 6 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 7 | [Copa Argentina](http://twitter.com/search?q=Copa+Argentina) | N/A |
+| 8 | [ALFA AL 9009](http://twitter.com/search?q=ALFA+AL+9009) | N/A |
+| 9 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
+| 10 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
+| 13 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 14 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
+| 15 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
+| 16 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 17 | [#ChauAlfa](http://twitter.com/search?q=%23ChauAlfa) | N/A |
+| 18 | [#TerrorismoEconomico](http://twitter.com/search?q=%23TerrorismoEconomico) | N/A |
+| 19 | [Aaron Molinas](http://twitter.com/search?q=Aaron+Molinas) | N/A |
+| 20 | [Si Alfa](http://twitter.com/search?q=Si+Alfa) | N/A |
+| 21 | [Complot](http://twitter.com/search?q=Complot) | N/A |
+| 22 | [POLILLA](http://twitter.com/search?q=POLILLA) | N/A |
+| 23 | [Si Julieta](http://twitter.com/search?q=Si+Julieta) | N/A |
+| 24 | [#FrodoResponde](http://twitter.com/search?q=%23FrodoResponde) | N/A |
+| 25 | [Colidio](http://twitter.com/search?q=Colidio) | N/A |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 27 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
+| 28 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 29 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 30 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 31 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
+| 32 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 33 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 36 | [Holder](http://twitter.com/search?q=Holder) | N/A |
+| 37 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 38 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 40 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 41 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
+| 42 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 44 | [Voto](http://twitter.com/search?q=Voto) | N/A |
+| 45 | [Soy Messi](http://twitter.com/search?q=Soy+Messi) | N/A |
+| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 47 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
+| 48 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 49 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 50 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
 
 
 

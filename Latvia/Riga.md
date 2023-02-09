@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-09 01:44:07 UTC`
+📆 Last Updated: `2023-02-09 02:40:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,32 +29,32 @@ This is top 50 for [Latvia](</Latvia>)
 | 12 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 13 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 14 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 15 | [telegram](http://twitter.com/search?q=telegram) | N/A |
-| 16 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 17 | [saskaņa](http://twitter.com/search?q=saska%c5%86a) | N/A |
-| 18 | [ogri](http://twitter.com/search?q=ogri) | N/A |
-| 19 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | N/A |
-| 20 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 15 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 16 | [saskaņa](http://twitter.com/search?q=saska%c5%86a) | N/A |
+| 17 | [ogri](http://twitter.com/search?q=ogri) | N/A |
+| 18 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | N/A |
+| 19 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 20 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 21 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 22 | [sīrijā](http://twitter.com/search?q=s%c4%abrij%c4%81) | N/A |
 | 23 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 24 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
 | 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 26 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 27 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 28 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 30 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 31 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 32 | [vāgnera](http://twitter.com/search?q=v%c4%81gnera) | N/A |
-| 33 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 34 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 35 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
-| 36 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
-| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 38 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 39 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 40 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 27 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 28 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 29 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 30 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 31 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 32 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 33 | [vāgnera](http://twitter.com/search?q=v%c4%81gnera) | N/A |
+| 34 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 35 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 36 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
+| 37 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 38 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 39 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 40 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 41 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 42 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
 | 43 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |

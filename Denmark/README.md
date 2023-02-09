@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-09 01:44:44 UTC`
+📆 Last Updated: `2023-02-09 02:41:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,8 +49,8 @@ This is top 50 for Denmark
 | 32 | [Vibeke](http://twitter.com/search?q=Vibeke) | N/A |
 | 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 34 | [lars boje](http://twitter.com/search?q=lars+boje) | N/A |
-| 35 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 36 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 35 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 36 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 38 | [Tyrkiet](http://twitter.com/search?q=Tyrkiet) | N/A |
 | 39 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |

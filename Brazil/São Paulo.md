@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-09 01:43:57 UTC`
+📆 Last Updated: `2023-02-09 02:40:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 2 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 3 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 4 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 5 | [paulina](http://twitter.com/search?q=paulina) | N/A |
-| 6 | [pardal](http://twitter.com/search?q=pardal) | N/A |
-| 7 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 8 | [Lucas Pires](http://twitter.com/search?q=Lucas+Pires) | Lucas Pires is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination". The surname Pires is derived from the Latin word pire, which means "rock". In English, Lucas Pires can be translated to mean "Light of the Rock". |
-| 9 | [Gallopo](http://twitter.com/search?q=Gallopo) | N/A |
-| 10 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 11 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 12 | [Beraldo](http://twitter.com/search?q=Beraldo) | N/A |
-| 13 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 14 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 15 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
-| 16 | [Flesch](http://twitter.com/search?q=Flesch) | N/A |
-| 17 | [elon musk](http://twitter.com/search?q=elon+musk) | N/A |
-| 18 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 19 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 20 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 21 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 22 | [Rogério Ceni](http://twitter.com/search?q=Rog%c3%a9rio+Ceni) | Rogério Ceni is a Brazilian retired professional footballer who played as a goalkeeper. He is widely regarded as one of the greatest goalkeepers of all time and holds the record for most goals scored by a goalkeeper, with 131 goals in his career. In English, Rogério Ceni means Rogerio Ceni. |
-| 23 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 24 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 25 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 26 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 27 | [Penetra](http://twitter.com/search?q=Penetra) | N/A |
-| 28 | [riri](http://twitter.com/search?q=riri) | N/A |
-| 29 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 30 | [BANDIDA NO BBB](http://twitter.com/search?q=BANDIDA+NO+BBB) | N/A |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 33 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 34 | [Derretida](http://twitter.com/search?q=Derretida) | N/A |
-| 35 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 36 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 37 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 38 | [Calma Amiga](http://twitter.com/search?q=Calma+Amiga) | N/A |
-| 39 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 40 | [AMEIANOITE](http://twitter.com/search?q=AMEIANOITE) | N/A |
-| 41 | [Balinha de Coração](http://twitter.com/search?q=Balinha+de+Cora%c3%a7%c3%a3o) | N/A |
-| 42 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
-| 43 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 44 | [O YouTube](http://twitter.com/search?q=O+YouTube) | N/A |
-| 45 | [POR MÊS](http://twitter.com/search?q=POR+M%c3%8aS) | N/A |
-| 46 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 47 | [#AsFive](http://twitter.com/search?q=%23AsFive) | N/A |
-| 48 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
-| 49 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 50 | [Kannalha](http://twitter.com/search?q=Kannalha) | N/A |
+| 2 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 3 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
+| 4 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 5 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 6 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
+| 7 | [Felipe Alves](http://twitter.com/search?q=Felipe+Alves) | N/A |
+| 8 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 9 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
+| 10 | [veigh](http://twitter.com/search?q=veigh) | N/A |
+| 11 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 12 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 13 | [paulina](http://twitter.com/search?q=paulina) | N/A |
+| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 15 | [joão lucas](http://twitter.com/search?q=jo%c3%a3o+lucas) | N/A |
+| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 17 | [Gallopo](http://twitter.com/search?q=Gallopo) | N/A |
+| 18 | [elon musk](http://twitter.com/search?q=elon+musk) | N/A |
+| 19 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 21 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 22 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 23 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 24 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 25 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 26 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 27 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
+| 28 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 29 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
+| 30 | [Penetra](http://twitter.com/search?q=Penetra) | N/A |
+| 31 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
+| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 33 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 34 | [BANDIDA NO BBB](http://twitter.com/search?q=BANDIDA+NO+BBB) | N/A |
+| 35 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 36 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
+| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 38 | [riri](http://twitter.com/search?q=riri) | N/A |
+| 39 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 40 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
+| 41 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 42 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 43 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
+| 44 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 45 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 46 | [Derretida](http://twitter.com/search?q=Derretida) | N/A |
+| 47 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
+| 48 | [#AsFive](http://twitter.com/search?q=%23AsFive) | N/A |
+| 49 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 50 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
 
 
 

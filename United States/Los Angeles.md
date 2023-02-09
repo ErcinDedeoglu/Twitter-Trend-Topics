@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-09 01:44:36 UTC`
+📆 Last Updated: `2023-02-09 02:41:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 4 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
-| 5 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 7 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 8 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 9 | [Bob Iger](http://twitter.com/search?q=Bob+Iger) | N/A |
-| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 11 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 12 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 14 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 15 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 16 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
-| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 19 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 20 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 21 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 22 | [Mormon](http://twitter.com/search?q=Mormon) | N/A |
-| 23 | [Congressional](http://twitter.com/search?q=Congressional) | N/A |
-| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 25 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 28 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 29 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 32 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 33 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 35 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 36 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 37 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 38 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 39 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 40 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 41 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 42 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 3 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 5 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 6 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
+| 7 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 8 | [Splatoon 3 DLC](http://twitter.com/search?q=Splatoon+3+DLC) | N/A |
+| 9 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
+| 10 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
+| 11 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 12 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 13 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 14 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 15 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 16 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 17 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 19 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 24 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 25 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 26 | [Mormon](http://twitter.com/search?q=Mormon) | N/A |
+| 27 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 28 | [Congressional](http://twitter.com/search?q=Congressional) | N/A |
+| 29 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 32 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 33 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 34 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 35 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 36 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 37 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 40 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 41 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 42 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
 | 43 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
-| 44 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 45 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 46 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 47 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 48 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 49 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 50 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 44 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 45 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 46 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 48 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 49 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 50 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
 
 
 

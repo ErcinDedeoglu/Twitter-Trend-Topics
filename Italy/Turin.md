@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-09 01:44:05 UTC`
+📆 Last Updated: `2023-02-09 02:40:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,31 +27,29 @@ This is top 50 for [Italy](</Italy>)
 | 10 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 11 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
 | 12 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 13 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 14 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 15 | [#furore](http://twitter.com/search?q=%23furore) | N/A |
-| 16 | [Luchino](http://twitter.com/search?q=Luchino) | N/A |
-| 17 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 13 | [#furore](http://twitter.com/search?q=%23furore) | N/A |
+| 14 | [Luchino](http://twitter.com/search?q=Luchino) | N/A |
+| 15 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 16 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 17 | [Albano](http://twitter.com/search?q=Albano) | N/A |
 | 18 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
 | 19 | [Shari](http://twitter.com/search?q=Shari) | N/A |
 | 20 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
 | 21 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 22 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 23 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 24 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 25 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 26 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Siena](http://twitter.com/search?q=Siena) | N/A |
-| 29 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 30 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 31 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
-| 32 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 33 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 34 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
-| 35 | [#fantasanremo](http://twitter.com/search?q=%23fantasanremo) | N/A |
-| 36 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 37 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
+| 22 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 23 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 24 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Siena](http://twitter.com/search?q=Siena) | N/A |
+| 27 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 28 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 29 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 30 | [#ilunaticiasanremo](http://twitter.com/search?q=%23ilunaticiasanremo) | N/A |
+| 31 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 32 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
+| 33 | [#fantasanremo](http://twitter.com/search?q=%23fantasanremo) | N/A |
+| 34 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 35 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-09 01:44:47 UTC`
+📆 Last Updated: `2023-02-09 02:41:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 1 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
 | 2 | [Almada](http://twitter.com/search?q=Almada) | N/A |
 | 3 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 4 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 5 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 6 | [#YouTubeDOWN](http://twitter.com/search?q=%23YouTubeDOWN) | N/A |
-| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 8 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [CONFIAR DENNIS ARANA](http://twitter.com/search?q=CONFIAR+DENNIS+ARANA) | N/A |
-| 12 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 13 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 14 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 15 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
-| 16 | [#EnHoraBuenaCinco](http://twitter.com/search?q=%23EnHoraBuenaCinco) | N/A |
-| 17 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 18 | [INFIELES IS COMING](http://twitter.com/search?q=INFIELES+IS+COMING) | N/A |
-| 19 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 7 | [#YouTubeDOWN](http://twitter.com/search?q=%23YouTubeDOWN) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 11 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 13 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 16 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 17 | [CONFIAR DENNIS ARANA](http://twitter.com/search?q=CONFIAR+DENNIS+ARANA) | N/A |
+| 18 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 20 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 21 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
-| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 23 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 24 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 21 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 22 | [INFIELES IS COMING](http://twitter.com/search?q=INFIELES+IS+COMING) | N/A |
+| 23 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 24 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 25 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 26 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 28 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 29 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
-| 30 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 31 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 32 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 33 | [Game Boy](http://twitter.com/search?q=Game+Boy) | N/A |
-| 34 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 35 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 36 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
-| 37 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
-| 38 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
-| 39 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
-| 40 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 41 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 42 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 43 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
-| 44 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 47 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
-| 48 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 49 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 50 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 26 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 27 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
+| 28 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
+| 29 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 30 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 31 | [Jimmy Lozano](http://twitter.com/search?q=Jimmy+Lozano) | N/A |
+| 32 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 33 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 34 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 35 | [KIM LOAIZA](http://twitter.com/search?q=KIM+LOAIZA) | N/A |
+| 36 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
+| 37 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
+| 38 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 39 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 41 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
+| 42 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 43 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 44 | [Game Boy](http://twitter.com/search?q=Game+Boy) | N/A |
+| 45 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 46 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
+| 47 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 48 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 49 | [Bicampeón](http://twitter.com/search?q=Bicampe%c3%b3n) | N/A |
+| 50 | [Florian](http://twitter.com/search?q=Florian) | N/A |
 
 
 
