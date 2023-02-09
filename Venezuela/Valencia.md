@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-09 07:15:39 UTC`
+📆 Last Updated: `2023-02-09 08:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 7 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 8 | [#ChavezJuventudYVictoria](http://twitter.com/search?q=%23ChavezJuventudYVictoria) | N/A |
-| 9 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 10 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
-| 11 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 12 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 13 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 14 | [Arnaldo Hernández](http://twitter.com/search?q=Arnaldo+Hern%c3%a1ndez) | N/A |
-| 15 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 16 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 17 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 18 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
-| 19 | [Onia](http://twitter.com/search?q=Onia) | N/A |
-| 20 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
-| 21 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 22 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
-| 23 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 24 | [Semifinal](http://twitter.com/search?q=Semifinal) | N/A |
-| 25 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 26 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 27 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 28 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
-| 29 | [Jhoulys Chacín](http://twitter.com/search?q=Jhoulys+Chac%c3%adn) | N/A |
-| 30 | [Triple Play](http://twitter.com/search?q=Triple+Play) | N/A |
-| 31 | [Ronald Acuña Jr](http://twitter.com/search?q=Ronald+Acu%c3%b1a+Jr) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
-| 34 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 35 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 36 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 37 | [andy garcía](http://twitter.com/search?q=andy+garc%c3%ada) | N/A |
-| 38 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 9 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 10 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 11 | [Arnaldo Hernández](http://twitter.com/search?q=Arnaldo+Hern%c3%a1ndez) | N/A |
+| 12 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 13 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 14 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 15 | [Onia](http://twitter.com/search?q=Onia) | N/A |
+| 16 | [Polar](http://twitter.com/search?q=Polar) | N/A |
+| 17 | [Kareem Abdul](http://twitter.com/search?q=Kareem+Abdul) | N/A |
+| 18 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 19 | [arias cárdenas](http://twitter.com/search?q=arias+c%c3%a1rdenas) | N/A |
+| 20 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 21 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
+| 22 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 23 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 24 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 25 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
+| 26 | [Triple Play](http://twitter.com/search?q=Triple+Play) | N/A |
+| 27 | [Ronald Acuña Jr](http://twitter.com/search?q=Ronald+Acu%c3%b1a+Jr) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
+| 30 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
+| 31 | [Rondon](http://twitter.com/search?q=Rondon) | N/A |
+| 32 | [Jhoulys Chacín](http://twitter.com/search?q=Jhoulys+Chac%c3%adn) | N/A |
+| 33 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 34 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 35 | [Misael](http://twitter.com/search?q=Misael) | N/A |
+| 36 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
+| 37 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 38 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
 | 39 | [Mazo Dando](http://twitter.com/search?q=Mazo+Dando) | N/A |
-| 40 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
-| 41 | [granadinas](http://twitter.com/search?q=granadinas) | N/A |
-| 42 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
-| 43 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
-| 44 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 46 | [Instagram y Twitter](http://twitter.com/search?q=Instagram+y+Twitter) | N/A |
-| 47 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
+| 40 | [granadinas](http://twitter.com/search?q=granadinas) | N/A |
+| 41 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
+| 42 | [montilla](http://twitter.com/search?q=montilla) | N/A |
+| 43 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 45 | [Instagram y Twitter](http://twitter.com/search?q=Instagram+y+Twitter) | N/A |
+| 46 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
+| 47 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 49 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 49 | [SAPE OPTRA](http://twitter.com/search?q=SAPE+OPTRA) | N/A |
 
 
 

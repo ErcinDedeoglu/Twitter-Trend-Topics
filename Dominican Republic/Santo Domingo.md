@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-09 07:15:35 UTC`
+📆 Last Updated: `2023-02-09 08:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,15 +31,15 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 14 | [#fiip](http://twitter.com/search?q=%23fiip) | N/A |
 | 15 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
 | 16 | [jairo asencio](http://twitter.com/search?q=jairo+asencio) | N/A |
-| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 18 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 17 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 18 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 19 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 20 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
 | 21 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 22 | [#ScoringKing](http://twitter.com/search?q=%23ScoringKing) | N/A |
 | 23 | [La Cabra](http://twitter.com/search?q=La+Cabra) | N/A |
-| 24 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 27 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 28 | [alexis medina](http://twitter.com/search?q=alexis+medina) | N/A |
@@ -49,10 +49,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 32 | [ecológica](http://twitter.com/search?q=ecol%c3%b3gica) | N/A |
 | 33 | [francisco pagán](http://twitter.com/search?q=francisco+pag%c3%a1n) | N/A |
 | 34 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 35 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 38 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 35 | [omar fernández](http://twitter.com/search?q=omar+fern%c3%a1ndez) | N/A |
+| 36 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 37 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 38 | [Los Lakers](http://twitter.com/search?q=Los+Lakers) | N/A |
 | 39 | [King James](http://twitter.com/search?q=King+James) | N/A |
 | 40 | [Junior Lake](http://twitter.com/search?q=Junior+Lake) | N/A |
 | 41 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |

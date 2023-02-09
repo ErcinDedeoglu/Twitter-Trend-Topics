@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-09 07:16:21 UTC`
+📆 Last Updated: `2023-02-09 08:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DENNIS ARANA](http://twitter.com/search?q=DENNIS+ARANA) | N/A |
+| 1 | [CONFIAR DENNIS ARANA](http://twitter.com/search?q=CONFIAR+DENNIS+ARANA) | N/A |
 | 2 | [Gaby Asturias](http://twitter.com/search?q=Gaby+Asturias) | N/A |
 | 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 5 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
 | 6 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
 | 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [IGSS](http://twitter.com/search?q=IGSS) | N/A |
+| 8 | [IGSS](http://twitter.com/search?q=IGSS) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 10 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
 | 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Guatemala
 | 31 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
 | 32 | [El Lic](http://twitter.com/search?q=El+Lic) | N/A |
 | 33 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 34 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
-| 35 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
-| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 37 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 39 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 40 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
+| 34 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
+| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 36 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 37 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 38 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 39 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
+| 40 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 41 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 42 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 43 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
-| 44 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 47 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 48 | [Ósea](http://twitter.com/search?q=%c3%93sea) | N/A |
-| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 50 | [La U](http://twitter.com/search?q=La+U) | N/A |
+| 42 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
+| 43 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 45 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
+| 46 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 47 | [Ósea](http://twitter.com/search?q=%c3%93sea) | N/A |
+| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 49 | [La U](http://twitter.com/search?q=La+U) | N/A |
+| 50 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 
 
 

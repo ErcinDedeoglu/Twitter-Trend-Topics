@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-09 07:15:44 UTC`
+📆 Last Updated: `2023-02-09 08:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 2 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 3 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 4 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 5 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 8 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 9 | [#OLLOSC](http://twitter.com/search?q=%23OLLOSC) | N/A |
-| 10 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 11 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 12 | [France 3](http://twitter.com/search?q=France+3) | France 3 is a French public television channel and part of the France Télévisions group, which also includes France 2, France 4, and France 5. The channel's mission is to provide a national public service of information, culture, and entertainment. In English, it can be translated as "France Three". |
-| 13 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
-| 14 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 15 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 16 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 17 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 20 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 21 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 22 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 25 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 27 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 28 | [Fier](http://twitter.com/search?q=Fier) | N/A |
-| 29 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 30 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 31 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
-| 32 | [Djibril Cissé](http://twitter.com/search?q=Djibril+Ciss%c3%a9) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 35 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 36 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
-| 37 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 38 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
-| 39 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 40 | [Vichy](http://twitter.com/search?q=Vichy) | N/A |
-| 41 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
-| 42 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 43 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 44 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 45 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 46 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 47 | [Alexis Sanchez](http://twitter.com/search?q=Alexis+Sanchez) | N/A |
-| 48 | [Phœnix](http://twitter.com/search?q=Ph%c5%93nix) | N/A |
-| 49 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 50 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 4 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 5 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
+| 6 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 7 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 8 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 9 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 10 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 11 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 12 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
+| 13 | [Zootopie 2](http://twitter.com/search?q=Zootopie+2) | N/A |
+| 14 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 15 | [Fier](http://twitter.com/search?q=Fier) | N/A |
+| 16 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 17 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 19 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 20 | [La Reine](http://twitter.com/search?q=La+Reine) | N/A |
+| 21 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 24 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 25 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 27 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 28 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 31 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 33 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 34 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 35 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 36 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 37 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 38 | [Olympique de Marseille](http://twitter.com/search?q=Olympique+de+Marseille) | N/A |
+| 39 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 40 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
+| 41 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 42 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 43 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 44 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 45 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 46 | [L'OM](http://twitter.com/search?q=L%27OM) | N/A |
+| 47 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 48 | [#ReformeRetraites](http://twitter.com/search?q=%23ReformeRetraites) | N/A |
 
 
 
