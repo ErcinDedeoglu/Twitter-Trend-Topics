@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-09 08:16:01 UTC`
+📆 Last Updated: `2023-02-09 09:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,34 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 | 6 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 7 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
-| 8 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 9 | [#larriesvsantis](http://twitter.com/search?q=%23larriesvsantis) | N/A |
-| 10 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 11 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 12 | [Larry](http://twitter.com/search?q=Larry) | N/A |
-| 13 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 14 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 15 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 16 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 19 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 7 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 8 | [#larriesvsantis](http://twitter.com/search?q=%23larriesvsantis) | N/A |
+| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 10 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 11 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 12 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 13 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 14 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 15 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 17 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 18 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 19 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
 | 20 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 21 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 22 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 23 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 24 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
-| 25 | [Grupo Pachuca](http://twitter.com/search?q=Grupo+Pachuca) | N/A |
-| 26 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
-| 27 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 28 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 29 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 30 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 31 | [Jimmy Lozano](http://twitter.com/search?q=Jimmy+Lozano) | N/A |
-| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 33 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 34 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
-| 35 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 36 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 37 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
-| 38 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 39 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 40 | [Metroid Prime Remastered](http://twitter.com/search?q=Metroid+Prime+Remastered) | N/A |
-| 41 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 42 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 43 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 44 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 45 | [#CartelInmobiliario](http://twitter.com/search?q=%23CartelInmobiliario) | N/A |
-| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 47 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
-| 48 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
-| 49 | [#AmloElReyDelCash](http://twitter.com/search?q=%23AmloElReyDelCash) | N/A |
+| 21 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 22 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
+| 23 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 24 | [Grupo Pachuca](http://twitter.com/search?q=Grupo+Pachuca) | N/A |
+| 25 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 26 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 27 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
+| 28 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 30 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
+| 31 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 32 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 33 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 34 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
 
 
 

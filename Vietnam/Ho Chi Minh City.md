@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-09 08:16:26 UTC`
+📆 Last Updated: `2023-02-09 09:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#biuourbluevalentine](http://twitter.com/search?q=%23biuourbluevalentine) | N/A |
-| 2 | [#MoonlightChickenEP1](http://twitter.com/search?q=%23MoonlightChickenEP1) | N/A |
-| 3 | [#OpeningTrailerPhoto_Momo](http://twitter.com/search?q=%23OpeningTrailerPhoto_Momo) | N/A |
-| 4 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 1 | [#BiuOurBlueValentine](http://twitter.com/search?q=%23BiuOurBlueValentine) | N/A |
+| 2 | [#OpeningTrailerPhoto_Momo](http://twitter.com/search?q=%23OpeningTrailerPhoto_Momo) | N/A |
+| 3 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 4 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
 | 5 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
 | 6 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
 | 7 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
 | 8 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 9 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
-| 10 | [netflix bring back ocs](http://twitter.com/search?q=netflix+bring+back+ocs) | N/A |
+| 9 | [netflix bring back ocs](http://twitter.com/search?q=netflix+bring+back+ocs) | N/A |
+| 10 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 11 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 14 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 15 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 16 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 18 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 19 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
-| 20 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
-| 21 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 22 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 23 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
-| 24 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 25 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 28 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
-| 29 | [đồng nai](http://twitter.com/search?q=%c4%91%e1%bb%93ng+nai) | N/A |
-| 30 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
-| 31 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 32 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
-| 33 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
-| 34 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [West](http://twitter.com/search?q=West) | N/A |
-| 37 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 38 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
-| 39 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 40 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 41 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 42 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 43 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
-| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 45 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
-| 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 47 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 48 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 49 | [Tây Ninh](http://twitter.com/search?q=T%c3%a2y+Ninh) | N/A |
+| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 13 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 14 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 17 | [0xai curated](http://twitter.com/search?q=0xai+curated) | N/A |
+| 18 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
+| 19 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
+| 20 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 21 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
+| 22 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 23 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 24 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 25 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
+| 26 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
+| 27 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 28 | [đồng nai](http://twitter.com/search?q=%c4%91%e1%bb%93ng+nai) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
+| 31 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 32 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 33 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 34 | [West](http://twitter.com/search?q=West) | N/A |
+| 35 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 36 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
+| 37 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 38 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 39 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 40 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
+| 41 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 42 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
+| 43 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 44 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 45 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 46 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 47 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 48 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 49 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
 
 
 

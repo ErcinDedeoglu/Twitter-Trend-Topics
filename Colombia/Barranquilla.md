@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-09 08:16:04 UTC`
+📆 Last Updated: `2023-02-09 09:15:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,34 +17,34 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
 | 2 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 3 | [#SerieDelCaribexWIN](http://twitter.com/search?q=%23SerieDelCaribexWIN) | N/A |
+| 3 | [#seriedelcaribexwin](http://twitter.com/search?q=%23seriedelcaribexwin) | N/A |
 | 4 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
-| 5 | [#dueleque](http://twitter.com/search?q=%23dueleque) | N/A |
-| 6 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
-| 7 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
-| 8 | [Baracaldo](http://twitter.com/search?q=Baracaldo) | N/A |
+| 5 | [jorge luis alfonso lópez](http://twitter.com/search?q=jorge+luis+alfonso+l%c3%b3pez) | N/A |
+| 6 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
+| 7 | [#dueleque](http://twitter.com/search?q=%23dueleque) | N/A |
+| 8 | [baracaldo](http://twitter.com/search?q=baracaldo) | N/A |
 | 9 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 10 | [#LosMediosMienten](http://twitter.com/search?q=%23LosMediosMienten) | N/A |
-| 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 12 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 11 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 12 | [#LosMediosMienten](http://twitter.com/search?q=%23LosMediosMienten) | N/A |
 | 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 14 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
 | 15 | [Asoinca](http://twitter.com/search?q=Asoinca) | N/A |
 | 16 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
 | 17 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
 | 18 | [Che Guevara](http://twitter.com/search?q=Che+Guevara) | N/A |
-| 19 | [Gestor de Paz](http://twitter.com/search?q=Gestor+de+Paz) | N/A |
-| 20 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
-| 21 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 22 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 23 | [Garavito](http://twitter.com/search?q=Garavito) | N/A |
-| 24 | [Nogal](http://twitter.com/search?q=Nogal) | N/A |
+| 19 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 20 | [GESTOR DE PAZ](http://twitter.com/search?q=GESTOR+DE+PAZ) | N/A |
+| 21 | [Goez](http://twitter.com/search?q=Goez) | N/A |
+| 22 | [Garavito](http://twitter.com/search?q=Garavito) | N/A |
+| 23 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
+| 24 | [nogal](http://twitter.com/search?q=nogal) | N/A |
 | 25 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
 | 26 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
 | 27 | [FOMAG](http://twitter.com/search?q=FOMAG) | N/A |
 | 28 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
 | 29 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 30 | [Da Costa](http://twitter.com/search?q=Da+Costa) | N/A |
+| 30 | [da costa](http://twitter.com/search?q=da+costa) | N/A |
 | 31 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 32 | [Diego Molano](http://twitter.com/search?q=Diego+Molano) | N/A |
 | 33 | [Astrid Cáceres](http://twitter.com/search?q=Astrid+C%c3%a1ceres) | N/A |
@@ -54,13 +54,13 @@ This is top 50 for [Colombia](</Colombia>)
 | 37 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
 | 38 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
 | 39 | [jefferson duque](http://twitter.com/search?q=jefferson+duque) | N/A |
-| 40 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 40 | [gatico](http://twitter.com/search?q=gatico) | N/A |
 | 41 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
-| 42 | [La Saga](http://twitter.com/search?q=La+Saga) | N/A |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 45 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 46 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 42 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 43 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 44 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 45 | [Facilitador](http://twitter.com/search?q=Facilitador) | N/A |
+| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 
 
 

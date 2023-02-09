@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-09 08:16:18 UTC`
+📆 Last Updated: `2023-02-09 09:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#BRIUntungDanSlamet](http://twitter.com/search?q=%23BRIUntungDanSlamet) | N/A |
 | 2 | [#DikenalHandal](http://twitter.com/search?q=%23DikenalHandal) | N/A |
-| 3 | [Mas Bupati](http://twitter.com/search?q=Mas+Bupati) | N/A |
-| 4 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
-| 5 | [Laba BRI 51](http://twitter.com/search?q=Laba+BRI+51) | N/A |
-| 6 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
-| 7 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
+| 3 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
+| 4 | [Laba BRI 51](http://twitter.com/search?q=Laba+BRI+51) | N/A |
+| 5 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
+| 6 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
+| 7 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
 | 8 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
-| 9 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
-| 10 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 11 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 13 | [Jakarta BIN](http://twitter.com/search?q=Jakarta+BIN) | N/A |
-| 14 | [Namor](http://twitter.com/search?q=Namor) | N/A |
-| 15 | [BTN Mobile](http://twitter.com/search?q=BTN+Mobile) | N/A |
-| 16 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 17 | [Bank BRI](http://twitter.com/search?q=Bank+BRI) | N/A |
-| 18 | [Mas Wali](http://twitter.com/search?q=Mas+Wali) | N/A |
-| 19 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 20 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 21 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 23 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 24 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 25 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 26 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 27 | [Gettr](http://twitter.com/search?q=Gettr) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 30 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 31 | [DM Twitter](http://twitter.com/search?q=DM+Twitter) | N/A |
-| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 33 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
-| 34 | [Beng](http://twitter.com/search?q=Beng) | N/A |
-| 35 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 36 | [Roka](http://twitter.com/search?q=Roka) | N/A |
-| 37 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 38 | [Masbro](http://twitter.com/search?q=Masbro) | N/A |
-| 39 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 40 | [Ketinggalan](http://twitter.com/search?q=Ketinggalan) | N/A |
-| 41 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 42 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 43 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
-| 44 | [#JakartaSTINBINDay](http://twitter.com/search?q=%23JakartaSTINBINDay) | N/A |
-| 45 | [#IndramayuDukungGanjar](http://twitter.com/search?q=%23IndramayuDukungGanjar) | N/A |
-| 46 | [#HeelshireMystery](http://twitter.com/search?q=%23HeelshireMystery) | N/A |
+| 9 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 10 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
+| 11 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 12 | [Chef](http://twitter.com/search?q=Chef) | N/A |
+| 13 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 15 | [Bank BRI](http://twitter.com/search?q=Bank+BRI) | N/A |
+| 16 | [Jakarta BIN](http://twitter.com/search?q=Jakarta+BIN) | N/A |
+| 17 | [BTN Mobile](http://twitter.com/search?q=BTN+Mobile) | N/A |
+| 18 | [Pers Bebas](http://twitter.com/search?q=Pers+Bebas) | N/A |
+| 19 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 20 | [Namor](http://twitter.com/search?q=Namor) | N/A |
+| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 22 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
+| 23 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 24 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 25 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 26 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 27 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [BMKG](http://twitter.com/search?q=BMKG) | N/A |
+| 31 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
+| 32 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 33 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 34 | [Bengbeng](http://twitter.com/search?q=Bengbeng) | N/A |
+| 35 | [Masbro](http://twitter.com/search?q=Masbro) | N/A |
+| 36 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 37 | [Ketinggalan](http://twitter.com/search?q=Ketinggalan) | N/A |
+| 38 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 39 | [Superstar](http://twitter.com/search?q=Superstar) | N/A |
+| 40 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
+| 41 | [#TXTatMCOUNTDOWN](http://twitter.com/search?q=%23TXTatMCOUNTDOWN) | N/A |
+| 42 | [#NANON_UNIDWDMV](http://twitter.com/search?q=%23NANON_UNIDWDMV) | N/A |
+| 43 | [#JakartaSTINBINDay](http://twitter.com/search?q=%23JakartaSTINBINDay) | N/A |
+| 44 | [#휴닝카이](http://twitter.com/search?q=%23%ed%9c%b4%eb%8b%9d%ec%b9%b4%ec%9d%b4) | N/A |
+| 45 | [#HeelshireMystery](http://twitter.com/search?q=%23HeelshireMystery) | N/A |
+| 46 | [#IndramayuDukungGanjar](http://twitter.com/search?q=%23IndramayuDukungGanjar) | N/A |
 | 47 | [#Mahagita200](http://twitter.com/search?q=%23Mahagita200) | N/A |
 
 

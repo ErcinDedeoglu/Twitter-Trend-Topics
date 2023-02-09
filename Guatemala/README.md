@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-09 08:16:49 UTC`
+📆 Last Updated: `2023-02-09 09:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CONFIAR DENNIS ARANA](http://twitter.com/search?q=CONFIAR+DENNIS+ARANA) | N/A |
+| 1 | [DENNIS ARANA](http://twitter.com/search?q=DENNIS+ARANA) | N/A |
 | 2 | [Gaby Asturias](http://twitter.com/search?q=Gaby+Asturias) | N/A |
 | 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
@@ -56,7 +56,7 @@ This is top 50 for Guatemala
 | 39 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
 | 40 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 41 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 42 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
+| 42 | [giammattei](http://twitter.com/search?q=giammattei) | N/A |
 | 43 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 45 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
