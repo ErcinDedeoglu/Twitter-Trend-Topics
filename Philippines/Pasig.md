@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-09 15:15:34 UTC`
+📆 Last Updated: `2023-02-09 16:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 2 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 2 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
+| 3 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
 | 4 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
-| 5 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
-| 6 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
-| 7 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 8 | [#DLFallguy](http://twitter.com/search?q=%23DLFallguy) | N/A |
-| 9 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 10 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 12 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 13 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 14 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
-| 15 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
-| 16 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 17 | [LUCKYBEAUTY ONFEB26](http://twitter.com/search?q=LUCKYBEAUTY+ONFEB26) | N/A |
-| 18 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
-| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 21 | [Nang Aiza](http://twitter.com/search?q=Nang+Aiza) | N/A |
-| 22 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 23 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
-| 24 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
-| 25 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 6 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
+| 7 | [#AtinAngMundoVer4](http://twitter.com/search?q=%23AtinAngMundoVer4) | N/A |
+| 8 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
+| 9 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 10 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 11 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 12 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 13 | [Happy Birthday Sooyoung](http://twitter.com/search?q=Happy+Birthday+Sooyoung) | N/A |
+| 14 | [JAYWON](http://twitter.com/search?q=JAYWON) | N/A |
+| 15 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 17 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 18 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 19 | [LUCKYBEAUTY ONFEB26](http://twitter.com/search?q=LUCKYBEAUTY+ONFEB26) | N/A |
+| 20 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
+| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 23 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 24 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 25 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 26 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
-| 27 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
-| 28 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 29 | [Des Cheng](http://twitter.com/search?q=Des+Cheng) | N/A |
-| 30 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 27 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 28 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 30 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
 | 31 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 32 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 33 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 34 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 35 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
-| 36 | [FELIPStraydogs D-1 Release](http://twitter.com/search?q=FELIPStraydogs+D-1+Release) | N/A |
-| 37 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
-| 38 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 32 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 33 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 34 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
+| 35 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 38 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
 | 39 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 40 | [mc yeonjun](http://twitter.com/search?q=mc+yeonjun) | N/A |
-| 41 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 42 | [UAAP](http://twitter.com/search?q=UAAP) | N/A |
-| 43 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 44 | [WELCOME BACK CutiePIE EIAN](http://twitter.com/search?q=WELCOME+BACK+CutiePIE+EIAN) | N/A |
-| 45 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 46 | [cignal](http://twitter.com/search?q=cignal) | N/A |
-| 47 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
-| 48 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 49 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 40 | [FELIPStraydogs D-1 Release](http://twitter.com/search?q=FELIPStraydogs+D-1+Release) | N/A |
+| 41 | [mc yeonjun](http://twitter.com/search?q=mc+yeonjun) | N/A |
+| 42 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
+| 43 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 44 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 45 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 46 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
+| 47 | [#JonaxxACTYAKab45](http://twitter.com/search?q=%23JonaxxACTYAKab45) | N/A |
+| 48 | [#DLFallguy](http://twitter.com/search?q=%23DLFallguy) | N/A |
+| 49 | [#ทฤษฎีสีชมพูxWINKWHITE](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xWINKWHITE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-09 15:15:19 UTC`
+📆 Last Updated: `2023-02-09 16:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#9Feb](http://twitter.com/search?q=%239Feb) | N/A |
 | 3 | [#PatriaGrandeEsCaribe](http://twitter.com/search?q=%23PatriaGrandeEsCaribe) | N/A |
 | 4 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 5 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
 | 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 10 | [Onia](http://twitter.com/search?q=Onia) | N/A |
-| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 12 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
-| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 14 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 11 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 12 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 13 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 15 | [Ronald Acuña Jr.](http://twitter.com/search?q=Ronald+Acu%c3%b1a+Jr.) | N/A |
-| 16 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 16 | [Día Mundial de la Pizza](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Pizza) | N/A |
 | 17 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 18 | [IVIC](http://twitter.com/search?q=IVIC) | N/A |
-| 19 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 20 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
-| 21 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
-| 22 | [Ciudad Piar](http://twitter.com/search?q=Ciudad+Piar) | N/A |
-| 23 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 26 | [Arnaldo Hernández](http://twitter.com/search?q=Arnaldo+Hern%c3%a1ndez) | N/A |
-| 27 | [triple play](http://twitter.com/search?q=triple+play) | N/A |
-| 28 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 29 | [Sape Optra](http://twitter.com/search?q=Sape+Optra) | N/A |
-| 30 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 18 | [Yangel Herrera](http://twitter.com/search?q=Yangel+Herrera) | N/A |
+| 19 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
+| 20 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
+| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 22 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [IVIC](http://twitter.com/search?q=IVIC) | N/A |
+| 25 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 26 | [SAPE OPTRA](http://twitter.com/search?q=SAPE+OPTRA) | N/A |
+| 27 | [Arnaldo Hernández](http://twitter.com/search?q=Arnaldo+Hern%c3%a1ndez) | N/A |
+| 28 | [triple play](http://twitter.com/search?q=triple+play) | N/A |
+| 29 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 31 | [Joselo](http://twitter.com/search?q=Joselo) | N/A |
-| 32 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 33 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 34 | [Puerto Ordaz](http://twitter.com/search?q=Puerto+Ordaz) | N/A |
-| 35 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 36 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 37 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 32 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 33 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 34 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 35 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 36 | [kevin durant](http://twitter.com/search?q=kevin+durant) | N/A |
+| 37 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
 | 38 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 39 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 40 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 41 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 42 | [andy garcía](http://twitter.com/search?q=andy+garc%c3%ada) | N/A |
-| 43 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
-| 44 | [Mazo](http://twitter.com/search?q=Mazo) | N/A |
-| 45 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 46 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 47 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 48 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 49 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 39 | [Ciudad Piar](http://twitter.com/search?q=Ciudad+Piar) | N/A |
+| 40 | [andy garcía](http://twitter.com/search?q=andy+garc%c3%ada) | N/A |
+| 41 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 42 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 43 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 44 | [Polar](http://twitter.com/search?q=Polar) | N/A |
+| 45 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
+| 46 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 47 | [Título 42](http://twitter.com/search?q=T%c3%adtulo+42) | N/A |
+| 48 | [Puerto Ordaz](http://twitter.com/search?q=Puerto+Ordaz) | N/A |
+| 49 | [Newman](http://twitter.com/search?q=Newman) | N/A |
 
 
 

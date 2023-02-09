@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-02-09 15:15:37 UTC`
+📆 Last Updated: `2023-02-09 16:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Egypt](</Egypt>)
 | 4 | [#عد_عيناك](http://twitter.com/search?q=%23%d8%b9%d8%af_%d8%b9%d9%8a%d9%86%d8%a7%d9%83) | N/A |
 | 5 | [#كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 6 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 7 | [#نيره_اشرف](http://twitter.com/search?q=%23%d9%86%d9%8a%d8%b1%d9%87_%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
-| 8 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 9 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 10 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 7 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 8 | [#سايلو_فوودز](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%8a%d9%84%d9%88_%d9%81%d9%88%d9%88%d8%af%d8%b2) | N/A |
+| 9 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 10 | [#نيره_اشرف](http://twitter.com/search?q=%23%d9%86%d9%8a%d8%b1%d9%87_%d8%a7%d8%b4%d8%b1%d9%81) | N/A |
 | 11 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 12 | [#اهلي_المونديال_جاهز_للريال](http://twitter.com/search?q=%23%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84_%d8%ac%d8%a7%d9%87%d8%b2_%d9%84%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | N/A |
-| 13 | [#توقع_مع_المدرج](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac) | N/A |
-| 14 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 12 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 13 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 14 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 15 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
-| 16 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 16 | [علي الحصان الخاسر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b3%d8%b1) | N/A |
 | 17 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 18 | [محمد عادل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 19 | [علي الحصان الخاسر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b3%d8%b1) | N/A |
-| 20 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
-| 21 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [ايمن الكاشف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d8%b4%d9%81) | N/A |
-| 23 | [فاركو الحياه](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d9%83%d9%88+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
-| 24 | [محمد محشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ad%d8%b4%d9%8a) | N/A |
-| 25 | [سير المباراه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 26 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 27 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 18 | [المركز الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 19 | [فاركو الحياه](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d9%83%d9%88+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
+| 20 | [ايمن الكاشف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d8%b4%d9%81) | N/A |
+| 21 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 22 | [محمد محشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ad%d8%b4%d9%8a) | N/A |
+| 23 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
+| 24 | [محمد عادل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 25 | [رابع العالم](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 26 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 27 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 28 | [الاداء المشرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81) | N/A |
-| 29 | [رابع العالم](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 30 | [القايمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 29 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 30 | [سير المباراه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
 | 31 | [9 فبراير 2023](http://twitter.com/search?q=9+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 32 | [علي الحلوه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
-| 33 | [علي الواقف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d9%81) | N/A |
-| 34 | [الخروج المشرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d9%88%d8%ac+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81) | N/A |
-| 35 | [لحد الدقيقه](http://twitter.com/search?q=%d9%84%d8%ad%d8%af+%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87) | N/A |
-| 36 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [الفجوه الدولاريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%ac%d9%88%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 33 | [علي الحلوه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 34 | [رابع الدوري](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 35 | [الخروج المشرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d9%88%d8%ac+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81) | N/A |
+| 36 | [لحد الدقيقه](http://twitter.com/search?q=%d9%84%d8%ad%d8%af+%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87) | N/A |
 | 37 | [المرحله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 38 | [وعبد القادر](http://twitter.com/search?q=%d9%88%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | N/A |
-| 39 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 40 | [صانع لعب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d9%84%d8%b9%d8%a8) | N/A |
-| 41 | [رابع الدوري](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 42 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 43 | [سباق الاحصنه](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ad%d8%b5%d9%86%d9%87) | N/A |
-| 44 | [الفجوه الدولاريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%ac%d9%88%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 39 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [سباق الاحصنه](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ad%d8%b5%d9%86%d9%87) | N/A |
+| 41 | [علي الواقف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d9%81) | N/A |
+| 42 | [القايمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 43 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 44 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 45 | [التمثيل المشرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%ab%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%81) | N/A |
-| 46 | [الخدمه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [العربيه الكارو](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d9%88) | N/A |
 | 47 | [الذكري الثامنه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d9%87) | N/A |
-| 48 | [السكندري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a) | N/A |
-| 49 | [عماد النحاس](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d9%86%d8%ad%d8%a7%d8%b3) | N/A |
-| 50 | [العربيه الكارو](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d9%88) | N/A |
+| 48 | [سباق الخيل](http://twitter.com/search?q=%d8%b3%d8%a8%d8%a7%d9%82+%d8%a7%d9%84%d8%ae%d9%8a%d9%84) | N/A |
+| 49 | [صانع لعب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d9%84%d8%b9%d8%a8) | N/A |
+| 50 | [الخدمه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
 
 
 

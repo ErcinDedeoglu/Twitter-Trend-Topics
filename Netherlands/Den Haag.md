@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-09 15:15:24 UTC`
+📆 Last Updated: `2023-02-09 16:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FEYnec](http://twitter.com/search?q=%23FEYnec) | N/A |
-| 2 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 3 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 4 | [#psvemm](http://twitter.com/search?q=%23psvemm) | N/A |
-| 5 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 6 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 7 | [#violet](http://twitter.com/search?q=%23violet) | N/A |
-| 8 | [statenleden van forum](http://twitter.com/search?q=statenleden+van+forum) | N/A |
-| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
-| 11 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 12 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
-| 13 | [hartman](http://twitter.com/search?q=hartman) | N/A |
-| 14 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 15 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 16 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 17 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 18 | [Hanbin](http://twitter.com/search?q=Hanbin) | N/A |
-| 19 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 20 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
-| 21 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 22 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 23 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 24 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 25 | [Stel](http://twitter.com/search?q=Stel) | N/A |
-| 26 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 27 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
-| 28 | [Ingewijden](http://twitter.com/search?q=Ingewijden) | N/A |
-| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 30 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 31 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 32 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 33 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 34 | [Dag 9](http://twitter.com/search?q=Dag+9) | N/A |
-| 35 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 38 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 39 | [cillessen](http://twitter.com/search?q=cillessen) | N/A |
-| 40 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 41 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 42 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
+| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 3 | [Budel](http://twitter.com/search?q=Budel) | N/A |
+| 4 | [#Hazes](http://twitter.com/search?q=%23Hazes) | N/A |
+| 5 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
+| 6 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 7 | [#psvemm](http://twitter.com/search?q=%23psvemm) | N/A |
+| 8 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 9 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 10 | [statenleden van forum](http://twitter.com/search?q=statenleden+van+forum) | N/A |
+| 11 | [#violet](http://twitter.com/search?q=%23violet) | N/A |
+| 12 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 13 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 14 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
+| 15 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 16 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 17 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 18 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 20 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 21 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
+| 22 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 23 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 24 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 25 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 26 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 27 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 28 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 29 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 31 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 32 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 33 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 34 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 35 | [Stel](http://twitter.com/search?q=Stel) | N/A |
+| 36 | [cillessen](http://twitter.com/search?q=cillessen) | N/A |
+| 37 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 39 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 40 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
+| 41 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 42 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
 | 43 | [Oever](http://twitter.com/search?q=Oever) | N/A |
-| 44 | [Tippz](http://twitter.com/search?q=Tippz) | N/A |
-| 45 | [spakenburg](http://twitter.com/search?q=spakenburg) | N/A |
-| 46 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 44 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
+| 45 | [Tippz](http://twitter.com/search?q=Tippz) | N/A |
+| 46 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 47 | [Feyenoorder](http://twitter.com/search?q=Feyenoorder) | N/A |
-| 48 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
-| 49 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 48 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 49 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 
 
 

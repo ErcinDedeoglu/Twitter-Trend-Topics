@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-09 15:15:47 UTC`
+📆 Last Updated: `2023-02-09 16:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 5 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 6 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 7 | [Waititi](http://twitter.com/search?q=Waititi) | N/A |
+| 7 | [waititi](http://twitter.com/search?q=waititi) | N/A |
 | 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 9 | [rawiri](http://twitter.com/search?q=rawiri) | N/A |
 | 10 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
@@ -39,22 +39,22 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 22 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
 | 23 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 24 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 25 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 27 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 29 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 26 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 28 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 29 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 | 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 31 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 33 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
+| 33 | [tvnz](http://twitter.com/search?q=tvnz) | N/A |
 | 34 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 35 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
-| 36 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
-| 37 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 38 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
-| 39 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 40 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
+| 35 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
+| 36 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
+| 37 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
+| 38 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 39 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
+| 40 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
 | 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 42 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 43 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |

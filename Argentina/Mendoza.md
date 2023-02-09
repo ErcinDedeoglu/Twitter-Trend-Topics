@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-09 15:15:15 UTC`
+📆 Last Updated: `2023-02-09 16:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cosquinrockenlaheat](http://twitter.com/search?q=%23cosquinrockenlaheat) | N/A |
-| 2 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 3 | [#TorneoProyeccion](http://twitter.com/search?q=%23TorneoProyeccion) | N/A |
+| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 2 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 3 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
 | 4 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 5 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 5 | [#cosquinrockenlaheat](http://twitter.com/search?q=%23cosquinrockenlaheat) | N/A |
 | 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [Centro Español](http://twitter.com/search?q=Centro+Espa%c3%b1ol) | N/A |
+| 7 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
 | 8 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 9 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 10 | [#StrayKids_THESOUND_MV](http://twitter.com/search?q=%23StrayKids_THESOUND_MV) | N/A |
-| 11 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 12 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 13 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 14 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 15 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 16 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [El 2do](http://twitter.com/search?q=El+2do) | N/A |
-| 19 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 20 | [Copa Argentina](http://twitter.com/search?q=Copa+Argentina) | N/A |
-| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 22 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 23 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 24 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 25 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
-| 26 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 27 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 28 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 29 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 30 | [Día Mundial de la Pizza](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Pizza) | N/A |
-| 31 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 32 | [lituania](http://twitter.com/search?q=lituania) | N/A |
-| 33 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 34 | [BWL FIRST KOREAN SONG](http://twitter.com/search?q=BWL+FIRST+KOREAN+SONG) | N/A |
-| 35 | [Máxima](http://twitter.com/search?q=M%c3%a1xima) | N/A |
-| 36 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 37 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 39 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 40 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
-| 41 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 42 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 43 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 44 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
-| 45 | [messi con la 10](http://twitter.com/search?q=messi+con+la+10) | N/A |
-| 46 | [nahuel curcio](http://twitter.com/search?q=nahuel+curcio) | N/A |
-| 47 | [Soy Messi](http://twitter.com/search?q=Soy+Messi) | N/A |
-| 48 | [Juicio Político](http://twitter.com/search?q=Juicio+Pol%c3%adtico) | N/A |
-| 49 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 50 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 9 | [El 2do](http://twitter.com/search?q=El+2do) | N/A |
+| 10 | [#TorneoProyeccion](http://twitter.com/search?q=%23TorneoProyeccion) | N/A |
+| 11 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 12 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 13 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 14 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 15 | [Ayala](http://twitter.com/search?q=Ayala) | N/A |
+| 16 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 17 | [Día Mundial de la Pizza](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Pizza) | N/A |
+| 18 | [Máxima](http://twitter.com/search?q=M%c3%a1xima) | N/A |
+| 19 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 20 | [Lituania](http://twitter.com/search?q=Lituania) | N/A |
+| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 22 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 23 | [Kicillof](http://twitter.com/search?q=Kicillof) | N/A |
+| 24 | [Palomar](http://twitter.com/search?q=Palomar) | N/A |
+| 25 | [Lacunza](http://twitter.com/search?q=Lacunza) | N/A |
+| 26 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 27 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 28 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 29 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 31 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
+| 32 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 33 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
+| 34 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 35 | [Siria y Turquía](http://twitter.com/search?q=Siria+y+Turqu%c3%ada) | N/A |
+| 36 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 37 | [En CABA](http://twitter.com/search?q=En+CABA) | N/A |
+| 38 | [Duhalde](http://twitter.com/search?q=Duhalde) | N/A |
+| 39 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 40 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 41 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 42 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 43 | [#ArielEnSuSalsa](http://twitter.com/search?q=%23ArielEnSuSalsa) | N/A |
+| 44 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 
 
 
