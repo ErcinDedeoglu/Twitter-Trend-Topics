@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-09 14:15:51 UTC`
+📆 Last Updated: `2023-02-09 15:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cyclonegabrielle](http://twitter.com/search?q=%23cyclonegabrielle) | N/A |
+| 1 | [#CycloneGabrielle](http://twitter.com/search?q=%23CycloneGabrielle) | N/A |
 | 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
@@ -30,18 +30,18 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 13 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 | 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 17 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
-| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 19 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
-| 20 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 21 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 24 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 25 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 26 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 27 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 16 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
+| 17 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 18 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 19 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 21 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
+| 22 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 23 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 24 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 25 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 27 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 29 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 45 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 46 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
 | 47 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 48 | [he puapua](http://twitter.com/search?q=he+puapua) | N/A |
+| 48 | [He Puapua](http://twitter.com/search?q=He+Puapua) | N/A |
 | 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 50 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 

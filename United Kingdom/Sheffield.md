@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-09 14:15:13 UTC`
+📆 Last Updated: `2023-02-09 15:15:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 3 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 6 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 7 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 8 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 9 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 1 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 2 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 3 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 5 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 8 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 11 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
 | 12 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 13 | [Sixways Rugby](http://twitter.com/search?q=Sixways+Rugby) | N/A |
-| 14 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 15 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 16 | [Death Penalty](http://twitter.com/search?q=Death+Penalty) | N/A |
-| 17 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 18 | [Former Labour MP](http://twitter.com/search?q=Former+Labour+MP) | N/A |
-| 19 | [mcdonnell](http://twitter.com/search?q=mcdonnell) | N/A |
-| 20 | [T Levels](http://twitter.com/search?q=T+Levels) | N/A |
-| 21 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
-| 22 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 23 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 24 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
-| 25 | [Verity](http://twitter.com/search?q=Verity) | N/A |
-| 26 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 27 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 28 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 30 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 31 | [Former MP](http://twitter.com/search?q=Former+MP) | N/A |
-| 32 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 33 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 34 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 35 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
-| 36 | [Deputy Chair](http://twitter.com/search?q=Deputy+Chair) | N/A |
-| 37 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 13 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 14 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
+| 15 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 16 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 17 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
+| 18 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 19 | [Death Penalty](http://twitter.com/search?q=Death+Penalty) | N/A |
+| 20 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
+| 21 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
+| 22 | [T Levels](http://twitter.com/search?q=T+Levels) | N/A |
+| 23 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 24 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
+| 25 | [Mone](http://twitter.com/search?q=Mone) | N/A |
+| 26 | [Verity](http://twitter.com/search?q=Verity) | N/A |
+| 27 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 28 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 29 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 30 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
+| 31 | [Hanbin](http://twitter.com/search?q=Hanbin) | N/A |
+| 32 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 33 | [Former MP](http://twitter.com/search?q=Former+MP) | N/A |
+| 34 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
+| 35 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 36 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 37 | [Perez](http://twitter.com/search?q=Perez) | N/A |
 | 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 39 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 40 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
-| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 39 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
+| 40 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 41 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 | 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 43 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 44 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
-| 45 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 46 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 43 | [Deputy Chair](http://twitter.com/search?q=Deputy+Chair) | N/A |
+| 44 | [west lancashire](http://twitter.com/search?q=west+lancashire) | N/A |
+| 45 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-02-09 14:16:03 UTC`
+📆 Last Updated: `2023-02-09 15:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Greece
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Φιλιππιδης](http://twitter.com/search?q=%23%ce%a6%ce%b9%ce%bb%ce%b9%cf%80%cf%80%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
-| 2 | [#kalomesimeraki](http://twitter.com/search?q=%23kalomesimeraki) | N/A |
-| 3 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 4 | [#Καρανικολας](http://twitter.com/search?q=%23%ce%9a%ce%b1%cf%81%ce%b1%ce%bd%ce%b9%ce%ba%ce%bf%ce%bb%ce%b1%cf%82) | N/A |
-| 5 | [Συρια](http://twitter.com/search?q=%ce%a3%cf%85%cf%81%ce%b9%ce%b1) | N/A |
-| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 2 | [#shoppingstar](http://twitter.com/search?q=%23shoppingstar) | N/A |
+| 3 | [#kalomesimeraki](http://twitter.com/search?q=%23kalomesimeraki) | N/A |
+| 4 | [#tlive](http://twitter.com/search?q=%23tlive) | N/A |
+| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 6 | [Συρια](http://twitter.com/search?q=%ce%a3%cf%85%cf%81%ce%b9%ce%b1) | N/A |
 | 7 | [Εθνικου Θεατρου](http://twitter.com/search?q=%ce%95%ce%b8%ce%bd%ce%b9%ce%ba%ce%bf%cf%85+%ce%98%ce%b5%ce%b1%cf%84%cf%81%ce%bf%cf%85) | N/A |
 | 8 | [8,5 Ριχτερ](http://twitter.com/search?q=8%2c5+%ce%a1%ce%b9%cf%87%cf%84%ce%b5%cf%81) | N/A |
-| 9 | [Κασιδιαρη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%83%ce%b9%ce%b4%ce%b9%ce%b1%cf%81%ce%b7) | N/A |
-| 10 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
-| 11 | [#roukzouk](http://twitter.com/search?q=%23roukzouk) | N/A |
-| 12 | [Λοβερδου](http://twitter.com/search?q=%ce%9b%ce%bf%ce%b2%ce%b5%cf%81%ce%b4%ce%bf%cf%85) | N/A |
-| 13 | [Το ΕΑΜ](http://twitter.com/search?q=%ce%a4%ce%bf+%ce%95%ce%91%ce%9c) | N/A |
-| 14 | [εμακ](http://twitter.com/search?q=%ce%b5%ce%bc%ce%b1%ce%ba) | N/A |
-| 15 | [Δημοκρατικη Πατριωτικη Ενοτητα](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%bf%ce%ba%cf%81%ce%b1%cf%84%ce%b9%ce%ba%ce%b7+%ce%a0%ce%b1%cf%84%cf%81%ce%b9%cf%89%cf%84%ce%b9%ce%ba%ce%b7+%ce%95%ce%bd%ce%bf%cf%84%ce%b7%cf%84%ce%b1) | N/A |
-| 16 | [Μιμη](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bc%ce%b7) | N/A |
-| 17 | [9 Φεβρουαριου](http://twitter.com/search?q=9+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 18 | [Λιγναδη](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b3%ce%bd%ce%b1%ce%b4%ce%b7) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Κασιδιαρη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%83%ce%b9%ce%b4%ce%b9%ce%b1%cf%81%ce%b7) | N/A |
+| 11 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
+| 12 | [Το ΕΑΜ](http://twitter.com/search?q=%ce%a4%ce%bf+%ce%95%ce%91%ce%9c) | N/A |
+| 13 | [9 Φεβρουαριου](http://twitter.com/search?q=9+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 14 | [ΕΜΑΚ](http://twitter.com/search?q=%ce%95%ce%9c%ce%91%ce%9a) | N/A |
+| 15 | [Λιγναδη](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b3%ce%bd%ce%b1%ce%b4%ce%b7) | N/A |
+| 16 | [συνολακη](http://twitter.com/search?q=%cf%83%cf%85%ce%bd%ce%bf%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
+| 17 | [Λιανη](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%b7) | N/A |
+| 18 | [Μιμη](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bc%ce%b7) | N/A |
 | 19 | [Κινημα Αλλαγης](http://twitter.com/search?q=%ce%9a%ce%b9%ce%bd%ce%b7%ce%bc%ce%b1+%ce%91%ce%bb%ce%bb%ce%b1%ce%b3%ce%b7%cf%82) | N/A |
-| 20 | [Συνολακη](http://twitter.com/search?q=%ce%a3%cf%85%ce%bd%ce%bf%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
-| 21 | [Δημητρα Λιανη](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%b7%cf%84%cf%81%ce%b1+%ce%9b%ce%b9%ce%b1%ce%bd%ce%b7) | N/A |
-| 22 | [Τατιανα](http://twitter.com/search?q=%ce%a4%ce%b1%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 23 | [Γερμανους](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%cf%82) | N/A |
-| 24 | [Δραματικης Σχολης](http://twitter.com/search?q=%ce%94%cf%81%ce%b1%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7%cf%82+%ce%a3%cf%87%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
-| 25 | [Ναζι](http://twitter.com/search?q=%ce%9d%ce%b1%ce%b6%ce%b9) | N/A |
-| 26 | [Μπιμπιλα](http://twitter.com/search?q=%ce%9c%cf%80%ce%b9%ce%bc%cf%80%ce%b9%ce%bb%ce%b1) | N/A |
-| 27 | [Παραιτηθηκαν](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b1%ce%b9%cf%84%ce%b7%ce%b8%ce%b7%ce%ba%ce%b1%ce%bd) | N/A |
-| 28 | [νικος ξυλουρης](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%be%cf%85%ce%bb%ce%bf%cf%85%cf%81%ce%b7%cf%82) | N/A |
+| 20 | [Τατιανα](http://twitter.com/search?q=%ce%a4%ce%b1%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
+| 21 | [Δραματικης Σχολης](http://twitter.com/search?q=%ce%94%cf%81%ce%b1%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7%cf%82+%ce%a3%cf%87%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
+| 22 | [Ναζι](http://twitter.com/search?q=%ce%9d%ce%b1%ce%b6%ce%b9) | N/A |
+| 23 | [γερμανους](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%cf%82) | N/A |
+| 24 | [Μπιμπιλα](http://twitter.com/search?q=%ce%9c%cf%80%ce%b9%ce%bc%cf%80%ce%b9%ce%bb%ce%b1) | N/A |
+| 25 | [Παραιτηθηκαν](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b1%ce%b9%cf%84%ce%b7%ce%b8%ce%b7%ce%ba%ce%b1%ce%bd) | N/A |
+| 26 | [Δημοκρατικη Πατριωτικη Ενοτητα](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%bf%ce%ba%cf%81%ce%b1%cf%84%ce%b9%ce%ba%ce%b7+%ce%a0%ce%b1%cf%84%cf%81%ce%b9%cf%89%cf%84%ce%b9%ce%ba%ce%b7+%ce%95%ce%bd%ce%bf%cf%84%ce%b7%cf%84%ce%b1) | N/A |
+| 27 | [νικος ξυλουρης](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%be%cf%85%ce%bb%ce%bf%cf%85%cf%81%ce%b7%cf%82) | N/A |
+| 28 | [Λοβερδου](http://twitter.com/search?q=%ce%9b%ce%bf%ce%b2%ce%b5%cf%81%ce%b4%ce%bf%cf%85) | N/A |
 | 29 | [Χρυση Αυγη](http://twitter.com/search?q=%ce%a7%cf%81%cf%85%cf%83%ce%b7+%ce%91%cf%85%ce%b3%ce%b7) | N/A |
-| 30 | [Βρυξελλες](http://twitter.com/search?q=%ce%92%cf%81%cf%85%ce%be%ce%b5%ce%bb%ce%bb%ce%b5%cf%82) | N/A |
-| 31 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 32 | [Μενδωνη](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bd%ce%b4%cf%89%ce%bd%ce%b7) | N/A |
-| 33 | [Ερντογαν](http://twitter.com/search?q=%ce%95%cf%81%ce%bd%cf%84%ce%bf%ce%b3%ce%b1%ce%bd) | N/A |
-| 34 | [Μουντιαλ](http://twitter.com/search?q=%ce%9c%ce%bf%cf%85%ce%bd%cf%84%ce%b9%ce%b1%ce%bb) | N/A |
-| 35 | [Λαμια](http://twitter.com/search?q=%ce%9b%ce%b1%ce%bc%ce%b9%ce%b1) | N/A |
-| 36 | [Ελον](http://twitter.com/search?q=%ce%95%ce%bb%ce%bf%ce%bd) | N/A |
-| 37 | [θυρας 7](http://twitter.com/search?q=%ce%b8%cf%85%cf%81%ce%b1%cf%82+7) | N/A |
-| 38 | [Ντουραντ](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%cf%85%cf%81%ce%b1%ce%bd%cf%84) | N/A |
-| 39 | [Μπαρτζωκα](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%cf%89%ce%ba%ce%b1) | N/A |
-| 40 | [Μανουσου Βολουδακη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%bf%cf%85%cf%83%ce%bf%cf%85+%ce%92%ce%bf%ce%bb%ce%bf%cf%85%ce%b4%ce%b1%ce%ba%ce%b7) | N/A |
-| 41 | [Περιστεριου](http://twitter.com/search?q=%ce%a0%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b5%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 42 | [Τεχνη](http://twitter.com/search?q=%ce%a4%ce%b5%cf%87%ce%bd%ce%b7) | N/A |
-| 43 | [σβερκο](http://twitter.com/search?q=%cf%83%ce%b2%ce%b5%cf%81%ce%ba%ce%bf) | N/A |
-| 44 | [Ασαντ](http://twitter.com/search?q=%ce%91%cf%83%ce%b1%ce%bd%cf%84) | N/A |
-| 45 | [Διονυσιος Σολωμος](http://twitter.com/search?q=%ce%94%ce%b9%ce%bf%ce%bd%cf%85%cf%83%ce%b9%ce%bf%cf%82+%ce%a3%ce%bf%ce%bb%cf%89%ce%bc%ce%bf%cf%82) | N/A |
-| 46 | [ΙΝΚΑ](http://twitter.com/search?q=%ce%99%ce%9d%ce%9a%ce%91) | N/A |
-| 47 | [ΠΑΡΩΝ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a1%ce%a9%ce%9d) | N/A |
-| 48 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 49 | [Γερμανων](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%cf%89%ce%bd) | N/A |
-| 50 | [Σαουδικη Αραβια](http://twitter.com/search?q=%ce%a3%ce%b1%ce%bf%cf%85%ce%b4%ce%b9%ce%ba%ce%b7+%ce%91%cf%81%ce%b1%ce%b2%ce%b9%ce%b1) | N/A |
+| 30 | [Μενδωνη](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bd%ce%b4%cf%89%ce%bd%ce%b7) | N/A |
+| 31 | [Ερντογαν](http://twitter.com/search?q=%ce%95%cf%81%ce%bd%cf%84%ce%bf%ce%b3%ce%b1%ce%bd) | N/A |
+| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 33 | [ελον](http://twitter.com/search?q=%ce%b5%ce%bb%ce%bf%ce%bd) | N/A |
+| 34 | [Ντουραντ](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%cf%85%cf%81%ce%b1%ce%bd%cf%84) | N/A |
+| 35 | [Θυρας 7](http://twitter.com/search?q=%ce%98%cf%85%cf%81%ce%b1%cf%82+7) | N/A |
+| 36 | [Ανδρουλακη](http://twitter.com/search?q=%ce%91%ce%bd%ce%b4%cf%81%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7) | N/A |
+| 37 | [Μπαρτζωκα](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%cf%89%ce%ba%ce%b1) | N/A |
+| 38 | [Διονυσιος Σολωμος](http://twitter.com/search?q=%ce%94%ce%b9%ce%bf%ce%bd%cf%85%cf%83%ce%b9%ce%bf%cf%82+%ce%a3%ce%bf%ce%bb%cf%89%ce%bc%ce%bf%cf%82) | N/A |
+| 39 | [μανουσου βολουδακη](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%ce%bf%cf%85%cf%83%ce%bf%cf%85+%ce%b2%ce%bf%ce%bb%ce%bf%cf%85%ce%b4%ce%b1%ce%ba%ce%b7) | N/A |
+| 40 | [Λαμια](http://twitter.com/search?q=%ce%9b%ce%b1%ce%bc%ce%b9%ce%b1) | N/A |
+| 41 | [σβερκο](http://twitter.com/search?q=%cf%83%ce%b2%ce%b5%cf%81%ce%ba%ce%bf) | N/A |
+| 42 | [ασαντ](http://twitter.com/search?q=%ce%b1%cf%83%ce%b1%ce%bd%cf%84) | N/A |
+| 43 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 44 | [Τεχνη](http://twitter.com/search?q=%ce%a4%ce%b5%cf%87%ce%bd%ce%b7) | N/A |
+| 45 | [ΙΝΚΑ](http://twitter.com/search?q=%ce%99%ce%9d%ce%9a%ce%91) | N/A |
+| 46 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 47 | [Γερμανων](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%cf%89%ce%bd) | N/A |
+| 48 | [Βρυξελλες](http://twitter.com/search?q=%ce%92%cf%81%cf%85%ce%be%ce%b5%ce%bb%ce%bb%ce%b5%cf%82) | N/A |
+| 49 | [Μουντιαλ](http://twitter.com/search?q=%ce%9c%ce%bf%cf%85%ce%bd%cf%84%ce%b9%ce%b1%ce%bb) | N/A |
+| 50 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
 
 
 

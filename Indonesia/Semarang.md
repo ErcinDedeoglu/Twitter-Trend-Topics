@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-09 14:15:31 UTC`
+📆 Last Updated: `2023-02-09 15:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
-| 2 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 3 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 4 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 5 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 6 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
-| 7 | [#OnThatDayxWinMetawin](http://twitter.com/search?q=%23OnThatDayxWinMetawin) | N/A |
-| 8 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
-| 9 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 10 | [Snapdragon 8 Gen 2](http://twitter.com/search?q=Snapdragon+8+Gen+2) | N/A |
-| 11 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 14 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 15 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 16 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 17 | [PROTECT MGCA FOR BTS](http://twitter.com/search?q=PROTECT+MGCA+FOR+BTS) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 20 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 21 | [Chef](http://twitter.com/search?q=Chef) | N/A |
-| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 23 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 25 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 26 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 27 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
-| 28 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 29 | [Bank BRI](http://twitter.com/search?q=Bank+BRI) | N/A |
-| 30 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 31 | [RCTI](http://twitter.com/search?q=RCTI) | N/A |
-| 32 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 33 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 34 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 35 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
-| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 37 | [Kenal](http://twitter.com/search?q=Kenal) | N/A |
-| 38 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
-| 39 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 41 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 42 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
-| 43 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
-| 44 | [#KeepKalem](http://twitter.com/search?q=%23KeepKalem) | N/A |
-| 45 | [#LyodraEgo](http://twitter.com/search?q=%23LyodraEgo) | N/A |
-| 46 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 47 | [#GiffarineChinaxMileApo](http://twitter.com/search?q=%23GiffarineChinaxMileApo) | N/A |
-| 48 | [#SugarRushRide3rdWin](http://twitter.com/search?q=%23SugarRushRide3rdWin) | N/A |
-| 49 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
+| 1 | [#BRIUntungDanSlamet](http://twitter.com/search?q=%23BRIUntungDanSlamet) | N/A |
+| 2 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
+| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 4 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
+| 5 | [#TheInterestOfLoveEp16](http://twitter.com/search?q=%23TheInterestOfLoveEp16) | N/A |
+| 6 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 7 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 8 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 9 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 10 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 11 | [nightography](http://twitter.com/search?q=nightography) | N/A |
+| 12 | [lyodra](http://twitter.com/search?q=lyodra) | N/A |
+| 13 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 14 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 15 | [Eneng](http://twitter.com/search?q=Eneng) | N/A |
+| 16 | [Snapdragon 8 Gen 2](http://twitter.com/search?q=Snapdragon+8+Gen+2) | N/A |
+| 17 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 18 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 19 | [PROTECT MGCA FOR BTS](http://twitter.com/search?q=PROTECT+MGCA+FOR+BTS) | N/A |
+| 20 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 21 | [Hanbin](http://twitter.com/search?q=Hanbin) | N/A |
+| 22 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 24 | [Candy](http://twitter.com/search?q=Candy) | N/A |
+| 25 | [RCTI](http://twitter.com/search?q=RCTI) | N/A |
+| 26 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 27 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 29 | [Sangobion](http://twitter.com/search?q=Sangobion) | N/A |
+| 30 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 31 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 32 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 33 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 34 | [Chef](http://twitter.com/search?q=Chef) | N/A |
+| 35 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 36 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 37 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 38 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 39 | [Kenal](http://twitter.com/search?q=Kenal) | N/A |
+| 40 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 41 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 42 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
+| 43 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 44 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
+| 45 | [#aturananticintajkt48](http://twitter.com/search?q=%23aturananticintajkt48) | N/A |
+| 46 | [#OnThatDayxWinMetawin](http://twitter.com/search?q=%23OnThatDayxWinMetawin) | N/A |
+| 47 | [#KeepKalem](http://twitter.com/search?q=%23KeepKalem) | N/A |
+| 48 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 49 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
 
 
 

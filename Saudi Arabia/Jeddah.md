@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-09 14:15:42 UTC`
+📆 Last Updated: `2023-02-09 15:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ازاي_تخنق_جارك](http://twitter.com/search?q=%23%d8%a7%d8%b2%d8%a7%d9%8a_%d8%aa%d8%ae%d9%86%d9%82_%d8%ac%d8%a7%d8%b1%d9%83) | N/A |
-| 2 | [#تعليم_جده](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%af%d9%87) | N/A |
+| 2 | [#الاتحاد_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
 | 3 | [#الشباب_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 4 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 4 | [#مملكه_الانسانيه](http://twitter.com/search?q=%23%d9%85%d9%85%d9%84%d9%83%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 5 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
 | 6 | [#عد_عيناك](http://twitter.com/search?q=%23%d8%b9%d8%af_%d8%b9%d9%8a%d9%86%d8%a7%d9%83) | N/A |
-| 7 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 8 | [#السعوديه_تساند_سوريا_وتركيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%aa%d8%b3%d8%a7%d9%86%d8%af_%d8%b3%d9%88%d8%b1%d9%8a%d8%a7_%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 9 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 10 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 11 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
-| 12 | [الحمله الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
+| 7 | [كارلوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3) | كارلوس is a male given name of Greek origin. It is derived from the name Καρλος (Karlos), which is a form of the Latin name Carolus, meaning "manly". In English, it is usually translated as "Charles". |
+| 8 | [عامر بن منير](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%a8%d9%86+%d9%85%d9%86%d9%8a%d8%b1) | N/A |
+| 9 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
+| 10 | [رياض شراحيلي](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
+| 11 | [سعيد الربيعي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
+| 12 | [حسين القحطاني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
 | 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 14 | [مركز الملك](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 15 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 16 | [احمد شراحيلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | N/A |
-| 17 | [رمز العداله](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 18 | [فواز الصقور](http://twitter.com/search?q=%d9%81%d9%88%d8%a7%d8%b2+%d8%a7%d9%84%d8%b5%d9%82%d9%88%d8%b1) | N/A |
-| 19 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 20 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 21 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
-| 22 | [القهوه الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%87%d9%88%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 23 | [التقديم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 24 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 25 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 26 | [المسجد النبوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
-| 27 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 28 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 29 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 30 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 31 | [اللعب النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
-| 32 | [كارلوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3) | كارلوس is a male given name of Greek origin. It is derived from the name Καρλος (Karlos), which is a form of the Latin name Carolus, meaning "manly". In English, it is usually translated as "Charles". |
-| 33 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 34 | [سعيد الربيعي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
-| 35 | [غير المسلمين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 36 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 37 | [متولي](http://twitter.com/search?q=%d9%85%d8%aa%d9%88%d9%84%d9%8a) | N/A |
-| 38 | [العين الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 39 | [اختبار التحصيلي](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
-| 40 | [الوحده اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 41 | [الاعمال الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [جسر جوي](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%ac%d9%88%d9%8a) | N/A |
-| 43 | [علي النهايي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | N/A |
-| 44 | [طريق الخطا](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7) | N/A |
-| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 46 | [سلطان الحربي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
-| 47 | [نادي سعودي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 48 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [علي برنامج التعاقد المباشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%82%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
-| 50 | [ping](http://twitter.com/search?q=ping) | N/A |
+| 14 | [ارون](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86) | ارون is an Arabic name meaning "light". |
+| 15 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 16 | [رمز العداله](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 17 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 18 | [القهوه الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%87%d9%88%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [المسجد النبوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
+| 20 | [الاداره القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 21 | [اختبار التحصيلي](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
+| 22 | [غير المسلمين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 23 | [رونالدينهو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 24 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 25 | [الاداره العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 26 | [طريق الخطا](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7) | N/A |
+| 27 | [لسوريا](http://twitter.com/search?q=%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 28 | [#مهرجان_البن_الاول_بالمخواه](http://twitter.com/search?q=%23%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86_%d8%a7%d9%84%d8%a8%d9%86_%d8%a7%d9%84%d8%a7%d9%88%d9%84_%d8%a8%d8%a7%d9%84%d9%85%d8%ae%d9%88%d8%a7%d9%87) | N/A |
+| 29 | [#البزنس65](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b365) | N/A |
+| 30 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 31 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 32 | [#النصر_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 33 | [#شجع_مع_الانماء](http://twitter.com/search?q=%23%d8%b4%d8%ac%d8%b9_%d9%85%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1) | N/A |
+| 34 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
+| 35 | [#الهلال_11مليون_متابع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_11%d9%85%d9%84%d9%8a%d9%88%d9%86_%d9%85%d8%aa%d8%a7%d8%a8%d8%b9) | N/A |
+| 36 | [#مصطفي_غربال](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
+| 37 | [#LEAP](http://twitter.com/search?q=%23LEAP) | N/A |
+| 38 | [#يلا_شباب](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 39 | [#زد_رصيدك17](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8317) | N/A |
+| 40 | [#ساره_الجهني_تنخاكم6](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%856) | N/A |
+| 41 | [#الزلزال_المدمر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1) | N/A |
+| 42 | [#التعاون_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
+| 43 | [#رساله](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87) | N/A |
+| 44 | [#KimDongwanInRiyadh](http://twitter.com/search?q=%23KimDongwanInRiyadh) | N/A |
+| 45 | [#نيزك_الدوادمي](http://twitter.com/search?q=%23%d9%86%d9%8a%d8%b2%d9%83_%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%af%d9%85%d9%8a) | N/A |
+| 46 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
+| 47 | [#فياريال_برشلونه](http://twitter.com/search?q=%23%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84_%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 48 | [#ضمك_الفيحاء](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 49 | [#موتمر_الزكاه_والضريبه_والجمارك](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d8%b2%d9%83%d8%a7%d9%87_%d9%88%d8%a7%d9%84%d8%b6%d8%b1%d9%8a%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b1%d9%83) | N/A |
+| 50 | [#الطايي_الاتفاق](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a_%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | N/A |
 
 
 

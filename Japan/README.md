@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-02-09 14:16:04 UTC`
+📆 Last Updated: `2023-02-09 15:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Japan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#本名にかすってもないのについたあだ名](http://twitter.com/search?q=%23%e6%9c%ac%e5%90%8d%e3%81%ab%e3%81%8b%e3%81%99%e3%81%a3%e3%81%a6%e3%82%82%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%9f%e3%81%82%e3%81%a0%e5%90%8d) | N/A |
-| 2 | [#ダウンタウンDX](http://twitter.com/search?q=%23%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3DX) | #ダウンタウンDX is a Japanese variety show that has been airing since 1989. It is hosted by the comedy duo Downtown, and features a variety of guests, sketches, and games. The show's name translates to "Downtown Double X" in English. |
-| 3 | [#忍者に結婚は難しい](http://twitter.com/search?q=%23%e5%bf%8d%e8%80%85%e3%81%ab%e7%b5%90%e5%a9%9a%e3%81%af%e9%9b%a3%e3%81%97%e3%81%84) | "#忍者に結婚は難しい" is a Japanese phrase that translates to "It's difficult to marry a ninja". It is used to express the idea that it is difficult to find someone who has the same level of skill and dedication as a ninja. |
-| 4 | [#素のまんま](http://twitter.com/search?q=%23%e7%b4%a0%e3%81%ae%e3%81%be%e3%82%93%e3%81%be) | #素のまんま is a Japanese phrase that literally translates to "as is" or "just as it is". It is used to express that something should remain unchanged or unaltered. |
-| 5 | [タペストリー](http://twitter.com/search?q=%e3%82%bf%e3%83%9a%e3%82%b9%e3%83%88%e3%83%aa%e3%83%bc) | タペストリー (tapestry) is a type of decorative fabric or wall hanging that is usually made of wool, cotton, or silk. It is often used to decorate walls and furniture, and can also be used as a form of textile art. In English, the word "tapestry" can refer to both the fabric itself and the artwork created with it. |
-| 6 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 7 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 8 | [#THE夜会](http://twitter.com/search?q=%23THE%e5%a4%9c%e4%bc%9a) | #THE夜会 is a Japanese hashtag that translates to “The Night Party”. It is used to refer to events or gatherings that take place at night, such as parties, concerts, and other social activities. |
-| 9 | [SM買収](http://twitter.com/search?q=SM%e8%b2%b7%e5%8f%8e) | N/A |
-| 10 | [ゆるふわ樹海ガール](http://twitter.com/search?q=%e3%82%86%e3%82%8b%e3%81%b5%e3%82%8f%e6%a8%b9%e6%b5%b7%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
-| 11 | [伊達ちゃん](http://twitter.com/search?q=%e4%bc%8a%e9%81%94%e3%81%a1%e3%82%83%e3%82%93) | 伊達ちゃん is a nickname for the Japanese singer and actress, Ayumi Hamasaki. It is derived from her given name, Ayumi, and the Japanese word for "young lady," chan. In English, it can be translated to mean "Miss Ayumi." |
-| 12 | [アンリミテッドギャラクシー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%aa%e3%83%9f%e3%83%86%e3%83%83%e3%83%89%e3%82%ae%e3%83%a3%e3%83%a9%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
-| 13 | [CHEMISTRY](http://twitter.com/search?q=CHEMISTRY) | N/A |
-| 14 | [全員リーダー](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
-| 15 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 16 | [トヨナガタクト](http://twitter.com/search?q=%e3%83%88%e3%83%a8%e3%83%8a%e3%82%ac%e3%82%bf%e3%82%af%e3%83%88) | トヨナガタクト is a Japanese phrase that translates to "eternal tact". It is used to describe someone who has a natural ability to handle difficult situations with grace and diplomacy. |
-| 17 | [カンタロウ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%bf%e3%83%ad%e3%82%a6) | カンタロウ is a Japanese word that means "tough guy" or "tough guy attitude". It is often used to describe someone who is strong-willed and determined. |
-| 18 | [お化け屋敷](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%b1%8b%e6%95%b7) | N/A |
-| 19 | [黒沢さん](http://twitter.com/search?q=%e9%bb%92%e6%b2%a2%e3%81%95%e3%82%93) | 黒沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Kurosawa" or "Ms. Kurosawa". |
-| 20 | [ラケット](http://twitter.com/search?q=%e3%83%a9%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 21 | [ケンミンショー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%9f%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc) | ケンミンショー is a Japanese variety show hosted by comedians Ken Shimura and Masatoshi Hamada. The show has been running since 1989 and features various celebrity guests, comedy skits, and game shows. In English, the show is known as "Kenmin Show". |
-| 22 | [蘭たん原神](http://twitter.com/search?q=%e8%98%ad%e3%81%9f%e3%82%93%e5%8e%9f%e7%a5%9e) | N/A |
-| 23 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
-| 24 | [尾身会長](http://twitter.com/search?q=%e5%b0%be%e8%ba%ab%e4%bc%9a%e9%95%b7) | N/A |
-| 25 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
-| 26 | [狂いのところ失礼](http://twitter.com/search?q=%e7%8b%82%e3%81%84%e3%81%ae%e3%81%a8%e3%81%93%e3%82%8d%e5%a4%b1%e7%a4%bc) | N/A |
-| 27 | [ルパパト](http://twitter.com/search?q=%e3%83%ab%e3%83%91%e3%83%91%e3%83%88) | N/A |
-| 28 | [マシュー](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%a5%e3%83%bc) | マシュー (Matthew) is a masculine Japanese given name. It is derived from the Hebrew name Mattityahu, which means "gift of God". In English, it is usually translated as Matthew. |
-| 29 | [だてラウ](http://twitter.com/search?q=%e3%81%a0%e3%81%a6%e3%83%a9%e3%82%a6) | だてラウ is a Japanese phrase that literally translates to "I'm going to do it". It is often used as an expression of determination or resolve. |
-| 30 | [史上最恐](http://twitter.com/search?q=%e5%8f%b2%e4%b8%8a%e6%9c%80%e6%81%90) | N/A |
-| 31 | [お化け役](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%bd%b9) | N/A |
-| 32 | [空手5段の客](http://twitter.com/search?q=%e7%a9%ba%e6%89%8b5%e6%ae%b5%e3%81%ae%e5%ae%a2) | N/A |
-| 33 | [バイバイ黒髪](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e9%bb%92%e9%ab%aa) | N/A |
-| 34 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
-| 35 | [辻田さん](http://twitter.com/search?q=%e8%be%bb%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 36 | [流星隊特番](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8a%e7%89%b9%e7%95%aa) | N/A |
-| 37 | [星川ソロライブ](http://twitter.com/search?q=%e6%98%9f%e5%b7%9d%e3%82%bd%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 38 | [距離必要](http://twitter.com/search?q=%e8%b7%9d%e9%9b%a2%e5%bf%85%e8%a6%81) | N/A |
-| 39 | [給料11等分](http://twitter.com/search?q=%e7%b5%a6%e6%96%9911%e7%ad%89%e5%88%86) | N/A |
-| 40 | [ソンハンビン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | ソンハンビン (sonhanbin) is a Korean term that literally translates to "mountain and river." It is used to describe a beautiful landscape or scenery. |
-| 41 | [クワバタオハラ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%83%90%e3%82%bf%e3%82%aa%e3%83%8f%e3%83%a9) | N/A |
+| 2 | [#身長から150cm引いた数だけ喋れる](http://twitter.com/search?q=%23%e8%ba%ab%e9%95%b7%e3%81%8b%e3%82%89150cm%e5%bc%95%e3%81%84%e3%81%9f%e6%95%b0%e3%81%a0%e3%81%91%e5%96%8b%e3%82%8c%e3%82%8b) | N/A |
+| 3 | [#松浦果南生誕祭2023](http://twitter.com/search?q=%23%e6%9d%be%e6%b5%a6%e6%9e%9c%e5%8d%97%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
+| 4 | [全員リーダー](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 5 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 6 | [#ダウンタウンDX](http://twitter.com/search?q=%23%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3DX) | #ダウンタウンDX is a Japanese variety show that has been airing since 1989. It is hosted by the comedy duo Downtown, and features a variety of guests, sketches, and games. The show's name translates to "Downtown Double X" in English. |
+| 7 | [#庭ラジ](http://twitter.com/search?q=%23%e5%ba%ad%e3%83%a9%e3%82%b8) | #庭ラジ is a hashtag used on Twitter in Japan. It is used to share stories, photos, and videos of people enjoying outdoor activities such as gardening, camping, and fishing. The English translation of #庭ラジ is "Garden Radio". |
+| 8 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 9 | [アンリミテッドギャラクシー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%aa%e3%83%9f%e3%83%86%e3%83%83%e3%83%89%e3%82%ae%e3%83%a3%e3%83%a9%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
+| 10 | [果南ちゃん](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 11 | [タペストリー](http://twitter.com/search?q=%e3%82%bf%e3%83%9a%e3%82%b9%e3%83%88%e3%83%aa%e3%83%bc) | タペストリー (tapestry) is a type of decorative fabric or wall hanging that is usually made of wool, cotton, or silk. It is often used to decorate walls and furniture, and can also be used as a form of textile art. In English, the word "tapestry" can refer to both the fabric itself and the artwork created with it. |
+| 12 | [ヘブバン1周年](http://twitter.com/search?q=%e3%83%98%e3%83%96%e3%83%90%e3%83%b31%e5%91%a8%e5%b9%b4) | N/A |
+| 13 | [ホシくん](http://twitter.com/search?q=%e3%83%9b%e3%82%b7%e3%81%8f%e3%82%93) | ホシくん is a character from the Japanese manga series, "Kochikame". He is a police officer who works in the fictional Ryōgoku Police Station. His name literally translates to "Star Boy" and he is known for his strong sense of justice and loyalty to his friends. |
+| 14 | [流星隊P](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8aP) | 流星隊P is a Japanese music production team. The name translates to "Meteor Team P" in English. The team is composed of two members, U-ya Asaoka and Shunsuke Tsuri, who specialize in producing music for anime and video games. |
+| 15 | [SM買収](http://twitter.com/search?q=SM%e8%b2%b7%e5%8f%8e) | N/A |
+| 16 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 17 | [新ビジュ](http://twitter.com/search?q=%e6%96%b0%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
+| 18 | [ゆるふわ樹海ガール](http://twitter.com/search?q=%e3%82%86%e3%82%8b%e3%81%b5%e3%82%8f%e6%a8%b9%e6%b5%b7%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
+| 19 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 20 | [CHEMISTRY](http://twitter.com/search?q=CHEMISTRY) | N/A |
+| 21 | [尾身会長](http://twitter.com/search?q=%e5%b0%be%e8%ba%ab%e4%bc%9a%e9%95%b7) | N/A |
+| 22 | [伊達ちゃん](http://twitter.com/search?q=%e4%bc%8a%e9%81%94%e3%81%a1%e3%82%83%e3%82%93) | 伊達ちゃん is a nickname for the Japanese singer and actress, Ayumi Hamasaki. It is derived from her given name, Ayumi, and the Japanese word for "young lady," chan. In English, it can be translated to mean "Miss Ayumi." |
+| 23 | [トヨナガタクト](http://twitter.com/search?q=%e3%83%88%e3%83%a8%e3%83%8a%e3%82%ac%e3%82%bf%e3%82%af%e3%83%88) | トヨナガタクト is a Japanese phrase that translates to "eternal tact". It is used to describe someone who has a natural ability to handle difficult situations with grace and diplomacy. |
+| 24 | [奏ちゃん誕生日](http://twitter.com/search?q=%e5%a5%8f%e3%81%a1%e3%82%83%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 25 | [ラケット](http://twitter.com/search?q=%e3%83%a9%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 26 | [やちょこみん](http://twitter.com/search?q=%e3%82%84%e3%81%a1%e3%82%87%e3%81%93%e3%81%bf%e3%82%93) | N/A |
+| 27 | [奏誕生日](http://twitter.com/search?q=%e5%a5%8f%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 28 | [お化け屋敷](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%b1%8b%e6%95%b7) | N/A |
+| 29 | [山手線人身事故](http://twitter.com/search?q=%e5%b1%b1%e6%89%8b%e7%b7%9a%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | N/A |
+| 30 | [カンタロウ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%bf%e3%83%ad%e3%82%a6) | カンタロウ is a Japanese word that means "tough guy" or "tough guy attitude". It is often used to describe someone who is strong-willed and determined. |
+| 31 | [流星隊特番](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8a%e7%89%b9%e7%95%aa) | N/A |
+| 32 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
+| 33 | [ルパパト](http://twitter.com/search?q=%e3%83%ab%e3%83%91%e3%83%91%e3%83%88) | N/A |
+| 34 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
+| 35 | [蘭たん原神](http://twitter.com/search?q=%e8%98%ad%e3%81%9f%e3%82%93%e5%8e%9f%e7%a5%9e) | N/A |
+| 36 | [黒沢さん](http://twitter.com/search?q=%e9%bb%92%e6%b2%a2%e3%81%95%e3%82%93) | 黒沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Kurosawa" or "Ms. Kurosawa". |
+| 37 | [狂いのところ失礼](http://twitter.com/search?q=%e7%8b%82%e3%81%84%e3%81%ae%e3%81%a8%e3%81%93%e3%82%8d%e5%a4%b1%e7%a4%bc) | N/A |
+| 38 | [マシュー](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%a5%e3%83%bc) | マシュー (Matthew) is a masculine Japanese given name. It is derived from the Hebrew name Mattityahu, which means "gift of God". In English, it is usually translated as Matthew. |
+| 39 | [ケンミンショー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%9f%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc) | ケンミンショー is a Japanese variety show hosted by comedians Ken Shimura and Masatoshi Hamada. The show has been running since 1989 and features various celebrity guests, comedy skits, and game shows. In English, the show is known as "Kenmin Show". |
+| 40 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
+| 41 | [東京・豊島区の高野之夫区長](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%bb%e8%b1%8a%e5%b3%b6%e5%8c%ba%e3%81%ae%e9%ab%98%e9%87%8e%e4%b9%8b%e5%a4%ab%e5%8c%ba%e9%95%b7) | N/A |
 | 42 | [ノーマルタイヤ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a4) | ノーマルタイヤ (Nōmaru taiya) is a Japanese term for regular tires. It is used to refer to tires that are not specialized for any particular purpose, such as off-road or racing tires. In English, it can be translated as "normal tires". |
-| 43 | [フイくん](http://twitter.com/search?q=%e3%83%95%e3%82%a4%e3%81%8f%e3%82%93) | フイくん is a character from the Japanese manga series, Chibi Maruko-chan. He is a young boy who is Maruko's classmate and friend. His name comes from the Japanese word "fuiku" which means "cute". In English, his name could be translated as "Cute Boy". |
-| 44 | [ブレーメン](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 45 | [東京・豊島区の高野之夫区長](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%bb%e8%b1%8a%e5%b3%b6%e5%8c%ba%e3%81%ae%e9%ab%98%e9%87%8e%e4%b9%8b%e5%a4%ab%e5%8c%ba%e9%95%b7) | N/A |
-| 46 | [運営会社](http://twitter.com/search?q=%e9%81%8b%e5%96%b6%e4%bc%9a%e7%a4%be) | N/A |
-| 47 | [コバゴー](http://twitter.com/search?q=%e3%82%b3%e3%83%90%e3%82%b4%e3%83%bc) | N/A |
-| 48 | [流星隊P](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8aP) | 流星隊P is a Japanese music production team. The name translates to "Meteor Team P" in English. The team is composed of two members, U-ya Asaoka and Shunsuke Tsuri, who specialize in producing music for anime and video games. |
-| 49 | [テラスタイプ判別クイズ](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%97%e5%88%a4%e5%88%a5%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 50 | [神在月先生](http://twitter.com/search?q=%e7%a5%9e%e5%9c%a8%e6%9c%88%e5%85%88%e7%94%9f) | N/A |
+| 43 | [ブレーメン](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
+| 44 | [お化け役](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%bd%b9) | N/A |
+| 45 | [テラスタイプ判別クイズ](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%97%e5%88%a4%e5%88%a5%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 46 | [流星隊大好き](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e9%9a%8a%e5%a4%a7%e5%a5%bd%e3%81%8d) | N/A |
+| 47 | [第385回](http://twitter.com/search?q=%e7%ac%ac385%e5%9b%9e) | N/A |
+| 48 | [空手5段の客](http://twitter.com/search?q=%e7%a9%ba%e6%89%8b5%e6%ae%b5%e3%81%ae%e5%ae%a2) | N/A |
+| 49 | [インディーズデビュー13周年](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%83%bc%e3%82%ba%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc13%e5%91%a8%e5%b9%b4) | N/A |
+| 50 | [ハンビン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
 
 
 
