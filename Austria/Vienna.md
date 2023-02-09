@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-09 20:15:35 UTC`
+📆 Last Updated: `2023-02-09 21:15:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 3 | [Dissertation](http://twitter.com/search?q=Dissertation) | N/A |
-| 4 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 4 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 5 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 6 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
+| 6 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 7 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 8 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 9 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
-| 10 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 11 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 13 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 14 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 8 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
+| 9 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 10 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
+| 11 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 12 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 13 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 14 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
 | 15 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 16 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
-| 17 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
-| 18 | [#Aschbacher](http://twitter.com/search?q=%23Aschbacher) | N/A |
-| 19 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 20 | [rosemarie](http://twitter.com/search?q=rosemarie) | N/A |
-| 21 | [Doppelspitze](http://twitter.com/search?q=Doppelspitze) | N/A |
-| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 24 | [Ende Februar](http://twitter.com/search?q=Ende+Februar) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
-| 27 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 28 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 29 | [freistädter](http://twitter.com/search?q=freist%c3%a4dter) | N/A |
-| 30 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 31 | [Couch](http://twitter.com/search?q=Couch) | N/A |
-| 32 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 33 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 34 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 35 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
-| 36 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
-| 37 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 16 | [#Aschbacher](http://twitter.com/search?q=%23Aschbacher) | N/A |
+| 17 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
+| 18 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
+| 19 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 20 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 21 | [rosemarie](http://twitter.com/search?q=rosemarie) | N/A |
+| 22 | [Doppelspitze](http://twitter.com/search?q=Doppelspitze) | N/A |
+| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 25 | [Ende Februar](http://twitter.com/search?q=Ende+Februar) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
+| 28 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 29 | [Unis](http://twitter.com/search?q=Unis) | N/A |
+| 30 | [freistädter](http://twitter.com/search?q=freist%c3%a4dter) | N/A |
+| 31 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 32 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 33 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 34 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
+| 35 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 36 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 37 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 38 | [Clown](http://twitter.com/search?q=Clown) | N/A |
 | 39 | [Gang](http://twitter.com/search?q=Gang) | N/A |
-| 40 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 41 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 42 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 43 | [Applaus](http://twitter.com/search?q=Applaus) | N/A |
-| 44 | [hilfe vor ort](http://twitter.com/search?q=hilfe+vor+ort) | N/A |
-| 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 46 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 40 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 41 | [Applaus](http://twitter.com/search?q=Applaus) | N/A |
+| 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 43 | [Hilfe vor Ort](http://twitter.com/search?q=Hilfe+vor+Ort) | N/A |
+| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 45 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 46 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 47 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
-| 48 | [Clown](http://twitter.com/search?q=Clown) | N/A |
-| 49 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 50 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 48 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 
 

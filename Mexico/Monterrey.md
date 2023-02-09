@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-09 20:15:28 UTC`
+📆 Last Updated: `2023-02-09 21:15:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
 | 3 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 4 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 5 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 5 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
 | 6 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 7 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
-| 8 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 9 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 10 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
-| 11 | [Hugo Ayala](http://twitter.com/search?q=Hugo+Ayala) | N/A |
-| 12 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
-| 13 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Marcos Ayala](http://twitter.com/search?q=Marcos+Ayala) | N/A |
-| 17 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 18 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 19 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 20 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 21 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
-| 22 | [Gilberto Higuera Bernal](http://twitter.com/search?q=Gilberto+Higuera+Bernal) | N/A |
-| 23 | [#DíaDelOdontólogo](http://twitter.com/search?q=%23D%c3%adaDelOdont%c3%b3logo) | N/A |
-| 24 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 26 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
-| 27 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
-| 28 | [José Guadalupe Tapia Quintero](http://twitter.com/search?q=Jos%c3%a9+Guadalupe+Tapia+Quintero) | N/A |
+| 7 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 8 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 9 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 10 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 11 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
+| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 13 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 14 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
+| 15 | [Hugo Ayala](http://twitter.com/search?q=Hugo+Ayala) | N/A |
+| 16 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 17 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 18 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
+| 19 | [Marcos Ayala](http://twitter.com/search?q=Marcos+Ayala) | N/A |
+| 20 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
+| 21 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 22 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 23 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
+| 24 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
+| 25 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
+| 26 | [Gilberto Higuera Bernal](http://twitter.com/search?q=Gilberto+Higuera+Bernal) | N/A |
+| 27 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 28 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
 | 29 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 31 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 32 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 33 | [Néstor Ojeda](http://twitter.com/search?q=N%c3%a9stor+Ojeda) | N/A |
-| 34 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 35 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
-| 36 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 37 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 38 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 39 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
-| 40 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 41 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
-| 42 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 43 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
-| 44 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
-| 45 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 46 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 47 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
-| 48 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 49 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 50 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 30 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 31 | [José Guadalupe Tapia Quintero](http://twitter.com/search?q=Jos%c3%a9+Guadalupe+Tapia+Quintero) | N/A |
+| 32 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 33 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 34 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 36 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 37 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 38 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 39 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
+| 40 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 41 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
+| 42 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 43 | [Compra](http://twitter.com/search?q=Compra) | N/A |
+| 44 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 45 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 46 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 47 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 48 | [#DiaDelOdontologo](http://twitter.com/search?q=%23DiaDelOdontologo) | N/A |
+| 49 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 50 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
 
 
 

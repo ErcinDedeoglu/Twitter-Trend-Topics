@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-09 20:15:39 UTC`
+📆 Last Updated: `2023-02-09 21:15:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023C4](http://twitter.com/search?q=%23COAC2023C4) | N/A |
-| 2 | [#Pasapalabra701](http://twitter.com/search?q=%23Pasapalabra701) | N/A |
+| 2 | [#firstdates9f](http://twitter.com/search?q=%23firstdates9f) | N/A |
 | 3 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
 | 4 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 5 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 6 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 7 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 8 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 9 | [Valdepeñas](http://twitter.com/search?q=Valdepe%c3%b1as) | N/A |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [Negre](http://twitter.com/search?q=Negre) | N/A |
-| 12 | [#CopaDeEspaña](http://twitter.com/search?q=%23CopaDeEspa%c3%b1a) | N/A |
-| 13 | [Elda](http://twitter.com/search?q=Elda) | N/A |
-| 14 | [Mecano](http://twitter.com/search?q=Mecano) | N/A |
+| 5 | [#Pasapalabra701](http://twitter.com/search?q=%23Pasapalabra701) | N/A |
+| 6 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 7 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
+| 8 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 9 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 10 | [Gran Torino](http://twitter.com/search?q=Gran+Torino) | N/A |
+| 11 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 12 | [José María Saiz](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Saiz) | N/A |
+| 13 | [Mecano](http://twitter.com/search?q=Mecano) | N/A |
+| 14 | [Negre](http://twitter.com/search?q=Negre) | N/A |
 | 15 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 18 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 19 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
-| 20 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 21 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
-| 22 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
-| 23 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 24 | [Más de 500](http://twitter.com/search?q=M%c3%a1s+de+500) | N/A |
-| 25 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
-| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 27 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 28 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 29 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 30 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 31 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 32 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 33 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 34 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 35 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 36 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 37 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 38 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 39 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 40 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 41 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
-| 42 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 43 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
-| 44 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 45 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 46 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 47 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 48 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 16 | [Valdepeñas](http://twitter.com/search?q=Valdepe%c3%b1as) | N/A |
+| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 19 | [Elda](http://twitter.com/search?q=Elda) | N/A |
+| 20 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 21 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 22 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 23 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
+| 24 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 25 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 26 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 27 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 28 | [Más de 500](http://twitter.com/search?q=M%c3%a1s+de+500) | N/A |
+| 29 | [Mariló Montero](http://twitter.com/search?q=Maril%c3%b3+Montero) | N/A |
+| 30 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
+| 31 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 32 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 33 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 34 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 35 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 36 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 37 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
+| 38 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 39 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 40 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 41 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 42 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 43 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 44 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 45 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 46 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 47 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 48 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
+| 49 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
 
 
 

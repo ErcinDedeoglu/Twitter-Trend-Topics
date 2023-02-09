@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-09 20:15:37 UTC`
+📆 Last Updated: `2023-02-09 21:15:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nordstream2](http://twitter.com/search?q=%23Nordstream2) | N/A |
-| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 3 | [#AchtungVerbrechen](http://twitter.com/search?q=%23AchtungVerbrechen) | N/A |
+| 2 | [#AchtungVerbrechen](http://twitter.com/search?q=%23AchtungVerbrechen) | N/A |
+| 3 | [#RoadtripAmerika](http://twitter.com/search?q=%23RoadtripAmerika) | N/A |
 | 4 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 5 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 7 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 8 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 11 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 5 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 6 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 7 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 9 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 10 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 13 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
 | 14 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 15 | [Kader Loth](http://twitter.com/search?q=Kader+Loth) | N/A |
 | 16 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
 | 17 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 18 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
+| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 19 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 21 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 24 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
-| 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 26 | [Widder](http://twitter.com/search?q=Widder) | N/A |
-| 27 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 28 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 30 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 31 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 33 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 34 | [Güterverkehr](http://twitter.com/search?q=G%c3%bcterverkehr) | N/A |
-| 35 | [Bilanz](http://twitter.com/search?q=Bilanz) | N/A |
-| 36 | [Roland](http://twitter.com/search?q=Roland) | N/A |
-| 37 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
-| 38 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
-| 39 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 40 | [Danke für die Warnung](http://twitter.com/search?q=Danke+f%c3%bcr+die+Warnung) | N/A |
-| 41 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 42 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
-| 43 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 44 | [Herr Baum](http://twitter.com/search?q=Herr+Baum) | N/A |
-| 45 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 46 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 47 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 22 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
+| 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 24 | [Widder](http://twitter.com/search?q=Widder) | N/A |
+| 25 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 26 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 30 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
+| 31 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 32 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 33 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
+| 34 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
+| 35 | [Danke für die Warnung](http://twitter.com/search?q=Danke+f%c3%bcr+die+Warnung) | N/A |
+| 36 | [Herr Baum](http://twitter.com/search?q=Herr+Baum) | N/A |
+| 37 | [Wahl-Klau](http://twitter.com/search?q=Wahl-Klau) | N/A |
+| 38 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
+| 39 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 40 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 41 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 42 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 43 | [Windparks](http://twitter.com/search?q=Windparks) | N/A |
+| 44 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 45 | [Schütze](http://twitter.com/search?q=Sch%c3%bctze) | N/A |
+| 46 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 47 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
 
 
 

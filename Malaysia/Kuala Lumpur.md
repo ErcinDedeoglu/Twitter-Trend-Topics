@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-09 20:15:48 UTC`
+📆 Last Updated: `2023-02-09 21:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,11 +30,11 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 13 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 | 14 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
 | 15 | [Hot FM](http://twitter.com/search?q=Hot+FM) | N/A |
-| 16 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 16 | [MCountdown](http://twitter.com/search?q=MCountdown) | N/A |
 | 17 | [Wind Flower](http://twitter.com/search?q=Wind+Flower) | N/A |
 | 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Mason Rothschild](http://twitter.com/search?q=Mason+Rothschild) | N/A |
-| 20 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
+| 19 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
+| 20 | [Mason Rothschild](http://twitter.com/search?q=Mason+Rothschild) | N/A |
 | 21 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
 | 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 23 | [Nazri](http://twitter.com/search?q=Nazri) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 26 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
 | 27 | [Piano Man](http://twitter.com/search?q=Piano+Man) | N/A |
 | 28 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 29 | [Hermès](http://twitter.com/search?q=Herm%c3%a8s) | N/A |
-| 30 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 29 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 30 | [Hermès](http://twitter.com/search?q=Herm%c3%a8s) | N/A |
 | 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 32 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 33 | [live for yourself dhu](http://twitter.com/search?q=live+for+yourself+dhu) | N/A |
 | 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 35 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [Robert Pires](http://twitter.com/search?q=Robert+Pires) | N/A |
-| 38 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 39 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 40 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [I MISS YOU](http://twitter.com/search?q=I+MISS+YOU) | N/A |
-| 43 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 44 | [wheein](http://twitter.com/search?q=wheein) | N/A |
-| 45 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 46 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 47 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 48 | [um oh ah yeah](http://twitter.com/search?q=um+oh+ah+yeah) | N/A |
-| 49 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 50 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 37 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 38 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 39 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 40 | [I MISS YOU](http://twitter.com/search?q=I+MISS+YOU) | N/A |
+| 41 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 42 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 43 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
+| 44 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 45 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
+| 46 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 47 | [um oh ah yeah](http://twitter.com/search?q=um+oh+ah+yeah) | N/A |
+| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 49 | [Robert Pires](http://twitter.com/search?q=Robert+Pires) | N/A |
+| 50 | [Muda](http://twitter.com/search?q=Muda) | N/A |
 
 
 
