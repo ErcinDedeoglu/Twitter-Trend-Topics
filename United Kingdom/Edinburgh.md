@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-09 17:15:25 UTC`
+📆 Last Updated: `2023-02-09 18:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 4 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 6 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
-| 7 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 8 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 9 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 10 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 11 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 12 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 3 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 4 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 5 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 6 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 7 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
+| 8 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 9 | [Bissouma](http://twitter.com/search?q=Bissouma) | Bissouma is a name of African origin, derived from the Mandinka language. It means “one who is blessed” or “one who is favored by God”. |
+| 10 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 11 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 12 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 | 13 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 14 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 15 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
-| 16 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 17 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 18 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 19 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
+| 14 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
+| 17 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 18 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 19 | [Never Fall in Love Again](http://twitter.com/search?q=Never+Fall+in+Love+Again) | N/A |
 | 20 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 21 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
-| 22 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 23 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 24 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 25 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 26 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 27 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 28 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 29 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
-| 30 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 31 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
-| 32 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
-| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 34 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 35 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 36 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
-| 37 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
-| 38 | [Mone](http://twitter.com/search?q=Mone) | N/A |
-| 39 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 40 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 41 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
-| 42 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 43 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
-| 44 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 46 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 47 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 48 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 49 | [Verity](http://twitter.com/search?q=Verity) | N/A |
+| 21 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
+| 22 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 23 | [The Look of Love](http://twitter.com/search?q=The+Look+of+Love) | N/A |
+| 24 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
+| 25 | [Radz](http://twitter.com/search?q=Radz) | N/A |
+| 26 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 27 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 28 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 29 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 30 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 31 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 32 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
+| 33 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
+| 34 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 35 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 36 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 37 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 38 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 39 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 40 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
+| 41 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 42 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 43 | [clegg](http://twitter.com/search?q=clegg) | N/A |
+| 44 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 45 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
+| 46 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 47 | [Mone](http://twitter.com/search?q=Mone) | N/A |
+| 48 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 49 | [Slot](http://twitter.com/search?q=Slot) | N/A |
 
 
 

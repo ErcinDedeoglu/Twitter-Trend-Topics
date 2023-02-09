@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-09 17:16:16 UTC`
+📆 Last Updated: `2023-02-09 18:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 2 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 3 | [#BigFone](http://twitter.com/search?q=%23BigFone) | N/A |
-| 4 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 5 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 6 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 7 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 8 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 9 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 10 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 11 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
-| 12 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 13 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 15 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 17 | [Irmãos Coragem](http://twitter.com/search?q=Irm%c3%a3os+Coragem) | N/A |
-| 18 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 19 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 20 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 21 | [kim lip](http://twitter.com/search?q=kim+lip) | N/A |
-| 22 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
-| 23 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 24 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 25 | [Ronnie Lessa](http://twitter.com/search?q=Ronnie+Lessa) | N/A |
-| 26 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
-| 27 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 28 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 29 | [R$7,40](http://twitter.com/search?q=R%247%2c40) | N/A |
-| 30 | [Kuscevic](http://twitter.com/search?q=Kuscevic) | N/A |
-| 31 | [Moni](http://twitter.com/search?q=Moni) | N/A |
-| 32 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 33 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 34 | [tessa](http://twitter.com/search?q=tessa) | N/A |
-| 35 | [Bemol](http://twitter.com/search?q=Bemol) | N/A |
-| 36 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 37 | [Frevo](http://twitter.com/search?q=Frevo) | N/A |
-| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 39 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 40 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 41 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 42 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 43 | [Nero](http://twitter.com/search?q=Nero) | N/A |
-| 44 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 45 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 46 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 47 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
-| 48 | [Obrigado Fortaleza](http://twitter.com/search?q=Obrigado+Fortaleza) | N/A |
-| 49 | [Lea Maria](http://twitter.com/search?q=Lea+Maria) | N/A |
-| 50 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 1 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 2 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 3 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 4 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 5 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 7 | [#BigFone](http://twitter.com/search?q=%23BigFone) | N/A |
+| 8 | [Renatinho](http://twitter.com/search?q=Renatinho) | Renatinho is a Portuguese nickname for the name Renato, which means "little Renato". It is often used as an affectionate term of endearment. In English, it would be translated as "Little Renato". |
+| 9 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 10 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 11 | [#foracowboy](http://twitter.com/search?q=%23foracowboy) | N/A |
+| 12 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
+| 13 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 14 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 15 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 16 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 17 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 18 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 19 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 20 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 21 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 22 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 23 | [Irmãos Coragem](http://twitter.com/search?q=Irm%c3%a3os+Coragem) | N/A |
+| 24 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
+| 25 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 26 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 27 | [Ronnie Lessa](http://twitter.com/search?q=Ronnie+Lessa) | N/A |
+| 28 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
+| 29 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
+| 30 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 31 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 32 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 33 | [kim lip](http://twitter.com/search?q=kim+lip) | N/A |
+| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 35 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
+| 36 | [R$7,40](http://twitter.com/search?q=R%247%2c40) | N/A |
+| 37 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 38 | [Kuscevic](http://twitter.com/search?q=Kuscevic) | N/A |
+| 39 | [Ursinho Pooh](http://twitter.com/search?q=Ursinho+Pooh) | N/A |
+| 40 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 41 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 42 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 43 | [Moni](http://twitter.com/search?q=Moni) | N/A |
+| 44 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 45 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 46 | [Frevo](http://twitter.com/search?q=Frevo) | N/A |
+| 47 | [Bemol](http://twitter.com/search?q=Bemol) | N/A |
+| 48 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 49 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 50 | [tessa](http://twitter.com/search?q=tessa) | N/A |
 
 
 

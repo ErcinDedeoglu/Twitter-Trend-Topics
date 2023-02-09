@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-09 17:16:11 UTC`
+📆 Last Updated: `2023-02-09 18:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 2 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 3 | [Barclays](http://twitter.com/search?q=Barclays) | N/A |
-| 4 | [Kyrie and KD](http://twitter.com/search?q=Kyrie+and+KD) | N/A |
-| 5 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
-| 6 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 7 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
-| 8 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 9 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 10 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 11 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 13 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 14 | [Hart](http://twitter.com/search?q=Hart) | N/A |
-| 15 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 4 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
+| 5 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 6 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 7 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
+| 8 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 9 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 10 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
+| 11 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 12 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 13 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 14 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 15 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 16 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 17 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 18 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 19 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 20 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 21 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 22 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 23 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 24 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 25 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 26 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
-| 27 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
-| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 29 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 30 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 31 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 32 | [I Say A Little Prayer](http://twitter.com/search?q=I+Say+A+Little+Prayer) | N/A |
-| 33 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 34 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 35 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 36 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 37 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
-| 38 | [Five 2nd](http://twitter.com/search?q=Five+2nd) | N/A |
-| 39 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
-| 40 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 41 | [Raindrops Keep Fallin](http://twitter.com/search?q=Raindrops+Keep+Fallin) | N/A |
-| 42 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 43 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
-| 44 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 45 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 46 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 47 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 48 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 49 | [What The World Needs Now](http://twitter.com/search?q=What+The+World+Needs+Now) | N/A |
-| 50 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 17 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 18 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 19 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 20 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 24 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 25 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
+| 26 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
+| 27 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 28 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 29 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 30 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 32 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
+| 33 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
+| 34 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 35 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 36 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
+| 37 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
+| 38 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 39 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 40 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 41 | [Goga](http://twitter.com/search?q=Goga) | N/A |
+| 42 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 43 | [Saddiq](http://twitter.com/search?q=Saddiq) | N/A |
+| 44 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 45 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 46 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 47 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 48 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
+| 49 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 50 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 
 
 

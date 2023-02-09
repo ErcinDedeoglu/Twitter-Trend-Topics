@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-09 17:15:23 UTC`
+📆 Last Updated: `2023-02-09 18:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 3 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 2 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 | 4 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 9 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 10 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 11 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 12 | [Rasmus Andersson](http://twitter.com/search?q=Rasmus+Andersson) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 9 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 10 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 12 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 14 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 16 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 15 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 16 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 17 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 18 | [Rasmus Andersson](http://twitter.com/search?q=Rasmus+Andersson) | N/A |
 | 19 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 20 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 21 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 22 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 23 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 24 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 27 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 28 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 29 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 21 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 22 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 25 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 28 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 30 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 31 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 32 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Rex Murphy](http://twitter.com/search?q=Rex+Murphy) | N/A |
-| 35 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 36 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 37 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 38 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 39 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 40 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 41 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 42 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
-| 43 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 44 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 47 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 48 | [Khem](http://twitter.com/search?q=Khem) | N/A |
-| 49 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 50 | [Pepperoni](http://twitter.com/search?q=Pepperoni) | N/A |
+| 31 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 32 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 33 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 34 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 35 | [Pepperoni](http://twitter.com/search?q=Pepperoni) | N/A |
+| 36 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 37 | [Canopy](http://twitter.com/search?q=Canopy) | N/A |
+| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 39 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 40 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 41 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 42 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 43 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
+| 44 | [Rex Murphy](http://twitter.com/search?q=Rex+Murphy) | N/A |
+| 45 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 46 | [Khem](http://twitter.com/search?q=Khem) | N/A |
+| 47 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 48 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 49 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 50 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
 
 
 

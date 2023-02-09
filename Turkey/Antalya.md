@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-09 17:16:04 UTC`
+📆 Last Updated: `2023-02-09 18:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 1 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 2 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
-| 3 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
-| 4 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
-| 5 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
-| 6 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
-| 7 | [#HepimizEnkazdayız](http://twitter.com/search?q=%23HepimizEnkazday%c4%b1z) | N/A |
-| 8 | [Helal](http://twitter.com/search?q=Helal) | N/A |
-| 9 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 10 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
-| 11 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 12 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 13 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
-| 14 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
-| 15 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 16 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
+| 3 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 4 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
+| 5 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
+| 6 | [Elveda Netflix](http://twitter.com/search?q=Elveda+Netflix) | N/A |
+| 7 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 8 | [#HepimizEnkazdayız](http://twitter.com/search?q=%23HepimizEnkazday%c4%b1z) | N/A |
+| 9 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
+| 10 | [Helal](http://twitter.com/search?q=Helal) | N/A |
+| 11 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 12 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
+| 13 | [Birol](http://twitter.com/search?q=Birol) | N/A |
+| 14 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 15 | [Yiğit Akar](http://twitter.com/search?q=Yi%c4%9fit+Akar) | N/A |
+| 16 | [Berna](http://twitter.com/search?q=Berna) | N/A |
 | 17 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 18 | [Doğruları](http://twitter.com/search?q=Do%c4%9frular%c4%b1) | N/A |
-| 19 | [Tepki](http://twitter.com/search?q=Tepki) | N/A |
-| 20 | [Erteleme](http://twitter.com/search?q=Erteleme) | N/A |
-| 21 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
-| 22 | [Gaziantep FK](http://twitter.com/search?q=Gaziantep+FK) | N/A |
-| 23 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
-| 24 | [Ettirildi](http://twitter.com/search?q=Ettirildi) | N/A |
+| 18 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
+| 19 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
+| 20 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
+| 21 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
+| 22 | [Tepki](http://twitter.com/search?q=Tepki) | N/A |
+| 23 | [Akit](http://twitter.com/search?q=Akit) | N/A |
+| 24 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
 | 25 | [Samimiyetsizsiniz](http://twitter.com/search?q=Samimiyetsizsiniz) | N/A |
-| 26 | [Duruşunuz](http://twitter.com/search?q=Duru%c5%9funuz) | N/A |
-| 27 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
-| 28 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 29 | [Ciner](http://twitter.com/search?q=Ciner) | N/A |
-| 30 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
+| 26 | [Ertelemek](http://twitter.com/search?q=Ertelemek) | N/A |
+| 27 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
+| 28 | [Kulüpler](http://twitter.com/search?q=Kul%c3%bcpler) | N/A |
+| 29 | [DepremBölgesine Maskeİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesine+Maske%c4%b0htiyac%c4%b1) | N/A |
+| 30 | [Ettirildi](http://twitter.com/search?q=Ettirildi) | N/A |
 | 31 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
-| 32 | [Omurgalı](http://twitter.com/search?q=Omurgal%c4%b1) | N/A |
-| 33 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
-| 34 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 35 | [Tüm Türkiye'de](http://twitter.com/search?q=T%c3%bcm+T%c3%bcrkiye%27de) | N/A |
-| 36 | [Sayın Kılıçdaroğlu](http://twitter.com/search?q=Say%c4%b1n+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 37 | [Üyelik](http://twitter.com/search?q=%c3%9cyelik) | N/A |
-| 38 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 39 | [Ağzına](http://twitter.com/search?q=A%c4%9fz%c4%b1na) | N/A |
-| 40 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 41 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
-| 42 | [Burak Milli](http://twitter.com/search?q=Burak+Milli) | N/A |
-| 43 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 44 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 45 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
-| 46 | [11 Şubat](http://twitter.com/search?q=11+%c5%9eubat) | N/A |
-| 47 | [Galip](http://twitter.com/search?q=Galip) | N/A |
-| 48 | [çarşı](http://twitter.com/search?q=%c3%a7ar%c5%9f%c4%b1) | N/A |
-| 49 | [Ruslar Maraş'ta](http://twitter.com/search?q=Ruslar+Mara%c5%9f%27ta) | N/A |
-| 50 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
+| 32 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
+| 33 | [Zoraki](http://twitter.com/search?q=Zoraki) | N/A |
+| 34 | [Ayşegül](http://twitter.com/search?q=Ay%c5%9feg%c3%bcl) | N/A |
+| 35 | [Doğruları](http://twitter.com/search?q=Do%c4%9frular%c4%b1) | N/A |
+| 36 | [Fetih](http://twitter.com/search?q=Fetih) | N/A |
+| 37 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 38 | [Gaziantep FK](http://twitter.com/search?q=Gaziantep+FK) | N/A |
+| 39 | [Duruşunuz](http://twitter.com/search?q=Duru%c5%9funuz) | N/A |
+| 40 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 41 | [Mesai](http://twitter.com/search?q=Mesai) | N/A |
+| 42 | [HİJYEN ÜRÜNLERİ](http://twitter.com/search?q=H%c4%b0JYEN+%c3%9cR%c3%9cNLER%c4%b0) | N/A |
+| 43 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 44 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 45 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 46 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
+| 47 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 48 | [Okullar 20](http://twitter.com/search?q=Okullar+20) | N/A |
+| 49 | [Omurgalı](http://twitter.com/search?q=Omurgal%c4%b1) | N/A |
+| 50 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-09 17:16:12 UTC`
+📆 Last Updated: `2023-02-09 18:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
-| 2 | [Morey](http://twitter.com/search?q=Morey) | N/A |
-| 3 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 4 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 1 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 2 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 3 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 4 | [East](http://twitter.com/search?q=East) | N/A |
 | 5 | [Temple](http://twitter.com/search?q=Temple) | N/A |
 | 6 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 7 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 9 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 11 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 12 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 13 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 14 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 15 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 16 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
-| 17 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 18 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
-| 19 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
-| 20 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 21 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 22 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 23 | [I Say A Little Prayer](http://twitter.com/search?q=I+Say+A+Little+Prayer) | N/A |
-| 24 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 25 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 26 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 28 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
-| 29 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 30 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
-| 31 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 32 | [Five 2nd](http://twitter.com/search?q=Five+2nd) | N/A |
-| 33 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 34 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 35 | [Raindrops Keep Fallin](http://twitter.com/search?q=Raindrops+Keep+Fallin) | N/A |
-| 36 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
-| 37 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 38 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 39 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 40 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 41 | [What The World Needs Now](http://twitter.com/search?q=What+The+World+Needs+Now) | N/A |
-| 42 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 43 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 44 | [West](http://twitter.com/search?q=West) | N/A |
-| 45 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 46 | [Carville](http://twitter.com/search?q=Carville) | N/A |
-| 47 | [Never Fall in Love Again](http://twitter.com/search?q=Never+Fall+in+Love+Again) | N/A |
-| 48 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
-| 49 | [Joe Pesci](http://twitter.com/search?q=Joe+Pesci) | N/A |
+| 7 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 8 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 9 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 10 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
+| 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 12 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 14 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
+| 17 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
+| 18 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 19 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 20 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 22 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
+| 23 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
+| 24 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 25 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 26 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 27 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
+| 28 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
+| 29 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 30 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 31 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 32 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 33 | [Goga](http://twitter.com/search?q=Goga) | N/A |
+| 34 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 35 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 36 | [Saddiq](http://twitter.com/search?q=Saddiq) | N/A |
+| 37 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 38 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 39 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 40 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 41 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
+| 42 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 43 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
+| 44 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 45 | [Ibaka](http://twitter.com/search?q=Ibaka) | N/A |
+| 46 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 47 | [Marie Harf](http://twitter.com/search?q=Marie+Harf) | N/A |
+| 48 | [Morey](http://twitter.com/search?q=Morey) | N/A |
+| 49 | [Carville](http://twitter.com/search?q=Carville) | N/A |
 
 
 
