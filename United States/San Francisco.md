@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-09 05:16:40 UTC`
+📆 Last Updated: `2023-02-09 06:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 2 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 3 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
-| 4 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
-| 5 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 7 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 8 | [D’Angelo](http://twitter.com/search?q=D%e2%80%99Angelo) | N/A |
-| 9 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 10 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 11 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
-| 12 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
-| 13 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 14 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 15 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 16 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 17 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 19 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 20 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 21 | [#Disney](http://twitter.com/search?q=%23Disney) | N/A |
-| 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 23 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 25 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 29 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
-| 30 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 32 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 33 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 34 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 35 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 38 | [Reggie Bullock](http://twitter.com/search?q=Reggie+Bullock) | N/A |
-| 39 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 40 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 41 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 42 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 43 | [Gunns](http://twitter.com/search?q=Gunns) | N/A |
-| 44 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 45 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 46 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 47 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 48 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
-| 49 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 50 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 1 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 2 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 3 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 4 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 6 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 7 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 8 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 9 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 10 | [Dray](http://twitter.com/search?q=Dray) | N/A |
+| 11 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 12 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 13 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 14 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 15 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 17 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 18 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 19 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 20 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 21 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
+| 22 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 23 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
+| 24 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 25 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 26 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 29 | [KD to the Suns](http://twitter.com/search?q=KD+to+the+Suns) | N/A |
+| 30 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 31 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 32 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 33 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 34 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 35 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 36 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
+| 39 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 40 | [KD to Phoenix](http://twitter.com/search?q=KD+to+Phoenix) | N/A |
+| 41 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 42 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
+| 43 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 46 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 47 | [KD to PHX](http://twitter.com/search?q=KD+to+PHX) | N/A |
+| 48 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 49 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 50 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
 
 
 

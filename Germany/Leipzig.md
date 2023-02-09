@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-09 05:16:02 UTC`
+📆 Last Updated: `2023-02-09 06:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 5 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 6 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 10 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
-| 11 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 12 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 15 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 16 | [riemann](http://twitter.com/search?q=riemann) | N/A |
-| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 18 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 19 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 20 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 21 | [gittens](http://twitter.com/search?q=gittens) | N/A |
-| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 23 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 24 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 25 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 26 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 28 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 29 | [Conny](http://twitter.com/search?q=Conny) | N/A |
-| 30 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 31 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 32 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 33 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 34 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 35 | [paschas](http://twitter.com/search?q=paschas) | N/A |
-| 36 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 37 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 38 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 39 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
-| 40 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
-| 41 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 42 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 43 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 44 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 45 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 46 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 47 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 48 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
+| 2 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 6 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 8 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 9 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 10 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 11 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 12 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 13 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 14 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 16 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 17 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 18 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 19 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 20 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 21 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 22 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 23 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 24 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 25 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 26 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
+| 27 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 28 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 29 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 30 | [gittens](http://twitter.com/search?q=gittens) | N/A |
+| 31 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 32 | [EMRE CAN](http://twitter.com/search?q=EMRE+CAN) | N/A |
+| 33 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 34 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 35 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 36 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 37 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 38 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 39 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 40 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 41 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 42 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 43 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 46 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 47 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
+| 48 | [Humor](http://twitter.com/search?q=Humor) | N/A |
 
 
 

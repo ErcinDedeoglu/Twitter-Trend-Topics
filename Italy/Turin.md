@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-09 05:16:03 UTC`
+📆 Last Updated: `2023-02-09 06:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 3 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 4 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 5 | [tananai](http://twitter.com/search?q=tananai) | N/A |
+| 2 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 3 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 4 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 5 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
 | 6 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 7 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 8 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 9 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 10 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 11 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 12 | [#articolo31](http://twitter.com/search?q=%23articolo31) | N/A |
-| 13 | [#8febbraio](http://twitter.com/search?q=%238febbraio) | N/A |
+| 7 | [ALBANO](http://twitter.com/search?q=ALBANO) | N/A |
+| 8 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 9 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
+| 10 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
+| 11 | [#articolo31](http://twitter.com/search?q=%23articolo31) | N/A |
+| 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 13 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 14 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 15 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
-| 16 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 16 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
 | 17 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 18 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
-| 19 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 20 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 21 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 22 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 23 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 24 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 25 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 19 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 20 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 21 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 22 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 23 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 24 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 25 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
 | 26 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 27 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
 | 28 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 | 29 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 30 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 31 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 32 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 33 | [rose rosse](http://twitter.com/search?q=rose+rosse) | N/A |
-| 34 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 35 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 36 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 37 | [Luchino](http://twitter.com/search?q=Luchino) | N/A |
-| 38 | [francesco arca](http://twitter.com/search?q=francesco+arca) | N/A |
-| 39 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 40 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 41 | [elena sofia ricci](http://twitter.com/search?q=elena+sofia+ricci) | N/A |
+| 30 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 31 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 32 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 33 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 34 | [coma cose](http://twitter.com/search?q=coma+cose) | N/A |
+| 35 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 36 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 37 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
+| 38 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 39 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 40 | [francesco arca](http://twitter.com/search?q=francesco+arca) | N/A |
+| 41 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
 | 42 | [piero pelù](http://twitter.com/search?q=piero+pel%c3%b9) | N/A |
-| 43 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 44 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 45 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
-| 46 | [Mahmood](http://twitter.com/search?q=Mahmood) | N/A |
-| 47 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 48 | [facchinetti](http://twitter.com/search?q=facchinetti) | N/A |
-| 49 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 50 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
+| 43 | [elena sofia ricci](http://twitter.com/search?q=elena+sofia+ricci) | N/A |
+| 44 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 45 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 46 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
+| 47 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 48 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
+| 49 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 50 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
 
 
 
