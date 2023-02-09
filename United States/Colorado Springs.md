@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-02-09 10:16:10 UTC`
+📆 Last Updated: `2023-02-09 11:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [United States](</United States>)
 | 7 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
 | 8 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
 | 9 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 10 | [The West](http://twitter.com/search?q=The+West) | N/A |
-| 11 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
-| 12 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
+| 10 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
+| 11 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 12 | [The West](http://twitter.com/search?q=The+West) | N/A |
 | 13 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
-| 14 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 14 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
+| 15 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
 | 16 | [KD to Phoenix](http://twitter.com/search?q=KD+to+Phoenix) | N/A |
-| 17 | [Kyrie and KD](http://twitter.com/search?q=Kyrie+and+KD) | N/A |
-| 18 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 19 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 20 | [DAVID STERN](http://twitter.com/search?q=DAVID+STERN) | N/A |
-| 21 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 23 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 24 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 25 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 26 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 17 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 18 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 19 | [Kyrie and KD](http://twitter.com/search?q=Kyrie+and+KD) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 22 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
+| 23 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 24 | [DBook](http://twitter.com/search?q=DBook) | N/A |
+| 25 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 26 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
 | 27 | [KD is a Sun](http://twitter.com/search?q=KD+is+a+Sun) | N/A |
-| 28 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
+| 28 | [KD to PHX](http://twitter.com/search?q=KD+to+PHX) | N/A |
 | 29 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 30 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 30 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 31 | [Damn KD](http://twitter.com/search?q=Damn+KD) | N/A |
-| 32 | [kd to phx](http://twitter.com/search?q=kd+to+phx) | N/A |
-| 33 | [#WeAreTheValley](http://twitter.com/search?q=%23WeAreTheValley) | N/A |
-| 34 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 35 | [seob](http://twitter.com/search?q=seob) | N/A |
-| 36 | [KD and CP3](http://twitter.com/search?q=KD+and+CP3) | N/A |
-| 37 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 38 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
-| 39 | [Seth Curry](http://twitter.com/search?q=Seth+Curry) | Seth Curry is the name of an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). He is the son of former NBA player Dell Curry and the younger brother of NBA player Stephen Curry. |
-| 40 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 41 | [KD & Kyrie](http://twitter.com/search?q=KD+%26+Kyrie) | N/A |
-| 42 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 43 | [Mat Ishbia](http://twitter.com/search?q=Mat+Ishbia) | N/A |
-| 44 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 45 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 46 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 47 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 48 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
+| 32 | [#WeAreTheValley](http://twitter.com/search?q=%23WeAreTheValley) | N/A |
+| 33 | [blazers](http://twitter.com/search?q=blazers) | N/A |
+| 34 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 35 | [KD and CP3](http://twitter.com/search?q=KD+and+CP3) | N/A |
+| 36 | [seob](http://twitter.com/search?q=seob) | N/A |
+| 37 | [KD & Kyrie](http://twitter.com/search?q=KD+%26+Kyrie) | N/A |
+| 38 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 39 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 40 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 41 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 42 | [Seth Curry](http://twitter.com/search?q=Seth+Curry) | Seth Curry is the name of an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). He is the son of former NBA player Dell Curry and the younger brother of NBA player Stephen Curry. |
+| 43 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
+| 44 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 45 | [Carville](http://twitter.com/search?q=Carville) | N/A |
+| 46 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
+| 47 | [James Jones](http://twitter.com/search?q=James+Jones) | N/A |
+| 48 | [Mat Ishbia](http://twitter.com/search?q=Mat+Ishbia) | N/A |
 
 
 

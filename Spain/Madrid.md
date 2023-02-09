@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-09 10:15:47 UTC`
+📆 Last Updated: `2023-02-09 11:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 2 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 3 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
-| 4 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 7 | [#CarrefourGamingConKirby](http://twitter.com/search?q=%23CarrefourGamingConKirby) | N/A |
-| 8 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 9 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 10 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 11 | [#DíaMundialdelaPizza](http://twitter.com/search?q=%23D%c3%adaMundialdelaPizza) | N/A |
-| 12 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
-| 13 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 14 | [Manolo Vieira](http://twitter.com/search?q=Manolo+Vieira) | N/A |
-| 15 | [La Superliga](http://twitter.com/search?q=La+Superliga) | N/A |
-| 16 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 17 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 18 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 19 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 21 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 22 | [Santa Apolonia](http://twitter.com/search?q=Santa+Apolonia) | N/A |
-| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 29 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 30 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
-| 31 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 32 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 33 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 34 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 35 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 36 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 37 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 1 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 2 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 3 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 4 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 5 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 6 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
+| 7 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 8 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [#CarrefourGamingConKirby](http://twitter.com/search?q=%23CarrefourGamingConKirby) | N/A |
+| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 12 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 13 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 14 | [#DíaMundialdelaPizza](http://twitter.com/search?q=%23D%c3%adaMundialdelaPizza) | N/A |
+| 15 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 16 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 17 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 18 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 19 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 20 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 21 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 24 | [Manolo Vieira](http://twitter.com/search?q=Manolo+Vieira) | N/A |
+| 25 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 26 | [Emule](http://twitter.com/search?q=Emule) | N/A |
+| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 28 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 29 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 32 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
+| 33 | [Santa Apolonia](http://twitter.com/search?q=Santa+Apolonia) | N/A |
+| 34 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 35 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Prime](http://twitter.com/search?q=Prime) | N/A |
 | 38 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 39 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 40 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
-| 41 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 42 | [D.E.P](http://twitter.com/search?q=D.E.P) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 45 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 46 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 47 | [Colau](http://twitter.com/search?q=Colau) | N/A |
-| 48 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
-| 49 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 50 | [Calviño](http://twitter.com/search?q=Calvi%c3%b1o) | N/A |
+| 39 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 40 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 41 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 42 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
+| 43 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 44 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 45 | [Colau](http://twitter.com/search?q=Colau) | N/A |
+| 46 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 47 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 48 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 49 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-09 10:15:47 UTC`
+📆 Last Updated: `2023-02-09 11:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [#TBS23](http://twitter.com/search?q=%23TBS23) | N/A |
-| 7 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 8 | [Die SVP ist ein Sauhaufen](http://twitter.com/search?q=Die+SVP+ist+ein+Sauhaufen) | N/A |
+| 7 | [Sauhaufen](http://twitter.com/search?q=Sauhaufen) | N/A |
+| 8 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 9 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 11 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 15 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
-| 16 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 10 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 13 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 14 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
+| 15 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 17 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 18 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 21 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 22 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 23 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 24 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 25 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 26 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 27 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 28 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 29 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
-| 30 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 32 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 33 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 34 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 35 | [Beziehungen](http://twitter.com/search?q=Beziehungen) | N/A |
-| 36 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 37 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 38 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 43 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 44 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
-| 45 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 46 | [friedensforscher](http://twitter.com/search?q=friedensforscher) | N/A |
-| 47 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 48 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 19 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 20 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 21 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 22 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 23 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 24 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 26 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 29 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 30 | [besetzung](http://twitter.com/search?q=besetzung) | N/A |
+| 31 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 32 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 33 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 34 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 35 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 36 | [Beziehungen](http://twitter.com/search?q=Beziehungen) | N/A |
+| 37 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 38 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 39 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 40 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 41 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 43 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 44 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 45 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 46 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 47 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 48 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
 
 
 
