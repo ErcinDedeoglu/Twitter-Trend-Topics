@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-09 16:15:57 UTC`
+📆 Last Updated: `2023-02-09 17:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 2 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 3 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 4 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 5 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 6 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 7 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 9 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 10 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
-| 11 | [El Tribunal Constitucional](http://twitter.com/search?q=El+Tribunal+Constitucional) | N/A |
-| 12 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 13 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 14 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
-| 15 | [#LeydeCooperación](http://twitter.com/search?q=%23LeydeCooperaci%c3%b3n) | N/A |
-| 16 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 17 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 18 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 19 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 20 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 21 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 22 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 23 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 24 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
-| 25 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 26 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 28 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 29 | [Kike Pérez](http://twitter.com/search?q=Kike+P%c3%a9rez) | N/A |
-| 30 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
-| 31 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 32 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
-| 33 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 34 | [Amazon Prime](http://twitter.com/search?q=Amazon+Prime) | N/A |
-| 35 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
-| 36 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 37 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 38 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 42 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 43 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 45 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
-| 46 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 47 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 48 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 1 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 2 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 4 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 5 | [#TierraAmarga9Feb](http://twitter.com/search?q=%23TierraAmarga9Feb) | N/A |
+| 6 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 8 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 9 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 10 | [Emule](http://twitter.com/search?q=Emule) | N/A |
+| 11 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 12 | [El Tribunal Constitucional](http://twitter.com/search?q=El+Tribunal+Constitucional) | N/A |
+| 13 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 14 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 15 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 16 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
+| 17 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 18 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 19 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
+| 20 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 21 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 22 | [Elda](http://twitter.com/search?q=Elda) | N/A |
+| 23 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
+| 24 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 25 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 26 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 27 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 28 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 29 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 30 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 31 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 32 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 33 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 34 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
+| 35 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 36 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 37 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 39 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 40 | [Amazon Prime](http://twitter.com/search?q=Amazon+Prime) | N/A |
+| 41 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 42 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 43 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
+| 44 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 45 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 46 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 48 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
 | 49 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 50 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 50 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
 
 
 

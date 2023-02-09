@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-09 16:15:55 UTC`
+📆 Last Updated: `2023-02-09 17:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 2 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
-| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 5 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
-| 8 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 9 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 11 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 12 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 13 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 14 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 15 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 1 | [#Nordstream2](http://twitter.com/search?q=%23Nordstream2) | N/A |
+| 2 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
+| 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 6 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 7 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 10 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 11 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 12 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 13 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 14 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 16 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 17 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 18 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 19 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 20 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 21 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 22 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 23 | [Widder](http://twitter.com/search?q=Widder) | N/A |
-| 24 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 25 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 27 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 30 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
-| 31 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 32 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
+| 18 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 19 | [Widder](http://twitter.com/search?q=Widder) | N/A |
+| 20 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 24 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 25 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 26 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 27 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 28 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
+| 29 | [Wahl-Klau](http://twitter.com/search?q=Wahl-Klau) | N/A |
+| 30 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 31 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
+| 32 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 33 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 34 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
-| 35 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
-| 36 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 37 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 38 | [herr baum](http://twitter.com/search?q=herr+baum) | N/A |
-| 39 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 34 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 35 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
+| 36 | [Herr Baum](http://twitter.com/search?q=Herr+Baum) | N/A |
+| 37 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 38 | [riemann](http://twitter.com/search?q=riemann) | N/A |
+| 39 | [BotW](http://twitter.com/search?q=BotW) | N/A |
 | 40 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 41 | [elfer](http://twitter.com/search?q=elfer) | N/A |
-| 42 | [riemann](http://twitter.com/search?q=riemann) | N/A |
-| 43 | [Rheinmetall](http://twitter.com/search?q=Rheinmetall) | N/A |
-| 44 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
-| 45 | [Best Intro](http://twitter.com/search?q=Best+Intro) | N/A |
-| 46 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 47 | [Best Song](http://twitter.com/search?q=Best+Song) | N/A |
-| 48 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
-| 49 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 41 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 42 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
+| 43 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
+| 44 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 45 | [Chipkarte](http://twitter.com/search?q=Chipkarte) | N/A |
+| 46 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
+| 47 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 48 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
+| 49 | [Humor](http://twitter.com/search?q=Humor) | N/A |
 
 
 

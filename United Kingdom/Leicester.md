@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-09 16:15:41 UTC`
+📆 Last Updated: `2023-02-09 17:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
-| 2 | [Deputy Chair](http://twitter.com/search?q=Deputy+Chair) | N/A |
-| 3 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 4 | [Mental Health Week](http://twitter.com/search?q=Mental+Health+Week) | N/A |
-| 5 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 6 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 7 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 8 | [#ToryShambles](http://twitter.com/search?q=%23ToryShambles) | N/A |
-| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 10 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
-| 11 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 12 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 1 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
+| 2 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
+| 3 | [Deputy Chair](http://twitter.com/search?q=Deputy+Chair) | N/A |
+| 4 | [#networking](http://twitter.com/search?q=%23networking) | N/A |
+| 5 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 6 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 8 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 9 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 10 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 11 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 12 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
 | 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 14 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 15 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 16 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 17 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 18 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 19 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 20 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
-| 21 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
-| 22 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 23 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 24 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 25 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 26 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
-| 27 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 28 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 29 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
-| 30 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 31 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
-| 32 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 33 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
-| 34 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
-| 35 | [T Levels](http://twitter.com/search?q=T+Levels) | N/A |
-| 36 | [Mone](http://twitter.com/search?q=Mone) | N/A |
-| 37 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 38 | [timothy evans](http://twitter.com/search?q=timothy+evans) | N/A |
-| 39 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 14 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 15 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 16 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 17 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
+| 18 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 19 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 20 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 21 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 22 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
+| 23 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
+| 24 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 25 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 28 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
+| 29 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 30 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 31 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 32 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 33 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
+| 34 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 36 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 37 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
+| 38 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 39 | [Mone](http://twitter.com/search?q=Mone) | N/A |
 | 40 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 41 | [starlink](http://twitter.com/search?q=starlink) | N/A |
-| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 43 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 44 | [Former MP](http://twitter.com/search?q=Former+MP) | N/A |
-| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 46 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 47 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 48 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
-| 49 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
+| 41 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 42 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
+| 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 44 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
+| 45 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 46 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 47 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 48 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 49 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
 
 
 

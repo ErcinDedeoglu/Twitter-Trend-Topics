@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-09 16:16:21 UTC`
+📆 Last Updated: `2023-02-09 17:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ISC23](http://twitter.com/search?q=%23ISC23) | N/A |
-| 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 3 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 4 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 6 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 7 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 9 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 10 | [#daomaker](http://twitter.com/search?q=%23daomaker) | N/A |
-| 11 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 14 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 15 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 16 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 17 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
-| 18 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 19 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 20 | [West](http://twitter.com/search?q=West) | N/A |
-| 21 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 22 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
-| 23 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 24 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 25 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 1 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 4 | [#ISC23](http://twitter.com/search?q=%23ISC23) | N/A |
+| 5 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 6 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 7 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 8 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 12 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 14 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 15 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 16 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
+| 17 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 18 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 19 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
+| 20 | [Justin Jackson](http://twitter.com/search?q=Justin+Jackson) | N/A |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 23 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 24 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 25 | [I Say A Little Prayer](http://twitter.com/search?q=I+Say+A+Little+Prayer) | N/A |
 | 26 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 27 | [Raindrops Keep Fallin](http://twitter.com/search?q=Raindrops+Keep+Fallin) | N/A |
-| 28 | [Joe Pesci](http://twitter.com/search?q=Joe+Pesci) | N/A |
-| 29 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 30 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 31 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 32 | [Walk On By](http://twitter.com/search?q=Walk+On+By) | N/A |
-| 33 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
-| 34 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 35 | [Keyshia](http://twitter.com/search?q=Keyshia) | N/A |
-| 36 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 37 | [Christopher Miller](http://twitter.com/search?q=Christopher+Miller) | N/A |
-| 38 | [James Carville](http://twitter.com/search?q=James+Carville) | N/A |
-| 39 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 40 | [What the World Needs Now](http://twitter.com/search?q=What+the+World+Needs+Now) | N/A |
-| 41 | [Never Fall in Love Again](http://twitter.com/search?q=Never+Fall+in+Love+Again) | N/A |
-| 42 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 43 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 44 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 45 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
-| 46 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 47 | [East](http://twitter.com/search?q=East) | N/A |
-| 48 | [Chris Miller](http://twitter.com/search?q=Chris+Miller) | N/A |
-| 49 | [Russell Heller](http://twitter.com/search?q=Russell+Heller) | N/A |
+| 27 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 28 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 29 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 30 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 31 | [Five 2nd](http://twitter.com/search?q=Five+2nd) | N/A |
+| 32 | [My Head](http://twitter.com/search?q=My+Head) | N/A |
+| 33 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 34 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 35 | [Raindrops Keep Fallin](http://twitter.com/search?q=Raindrops+Keep+Fallin) | N/A |
+| 36 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
+| 37 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 38 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 39 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 40 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 41 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 42 | [What The World Needs Now](http://twitter.com/search?q=What+The+World+Needs+Now) | N/A |
+| 43 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 44 | [West](http://twitter.com/search?q=West) | N/A |
+| 45 | [Never Fall in Love Again](http://twitter.com/search?q=Never+Fall+in+Love+Again) | N/A |
+| 46 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
+| 47 | [Carville](http://twitter.com/search?q=Carville) | N/A |
+| 48 | [Joe Pesci](http://twitter.com/search?q=Joe+Pesci) | N/A |
+| 49 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 50 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
 
 
 

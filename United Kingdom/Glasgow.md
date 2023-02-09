@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-09 16:15:41 UTC`
+📆 Last Updated: `2023-02-09 17:15:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 2 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
 | 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 4 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
-| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 6 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 7 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 9 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 10 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 4 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 5 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 6 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 7 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
+| 8 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 9 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 10 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
 | 11 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 12 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 13 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 14 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 15 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 16 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
-| 17 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
-| 18 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 19 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 21 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 22 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
-| 23 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 24 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 25 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
-| 26 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 27 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 13 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
+| 14 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 15 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 16 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 17 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
+| 18 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 19 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 20 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 21 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
+| 22 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 23 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
+| 24 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 25 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Luther](http://twitter.com/search?q=Luther) | N/A |
 | 28 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 29 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
-| 30 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
-| 31 | [T Levels](http://twitter.com/search?q=T+Levels) | N/A |
-| 32 | [Mone](http://twitter.com/search?q=Mone) | N/A |
-| 33 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 34 | [timothy evans](http://twitter.com/search?q=timothy+evans) | N/A |
-| 35 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 36 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 37 | [starlink](http://twitter.com/search?q=starlink) | N/A |
-| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 39 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 40 | [Former MP](http://twitter.com/search?q=Former+MP) | N/A |
-| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 42 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 43 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 44 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
-| 45 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
-| 46 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 47 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 48 | [Verity](http://twitter.com/search?q=Verity) | N/A |
-| 49 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 50 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 29 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 30 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 31 | [Rare Edition](http://twitter.com/search?q=Rare+Edition) | N/A |
+| 32 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 33 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
+| 34 | [Nick Clegg](http://twitter.com/search?q=Nick+Clegg) | N/A |
+| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 36 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 37 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 38 | [McDonnell](http://twitter.com/search?q=McDonnell) | N/A |
+| 39 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 40 | [Mone](http://twitter.com/search?q=Mone) | N/A |
+| 41 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
+| 42 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
+| 43 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
+| 46 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 47 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 48 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 49 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 50 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
 
 
 

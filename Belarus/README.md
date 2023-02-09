@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-09 16:16:31 UTC`
+📆 Last Updated: `2023-02-09 17:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,31 +16,29 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 2 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 2 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 3 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 4 | [Дотторе](http://twitter.com/search?q=%d0%94%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
 | 5 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 6 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 7 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 8 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
+| 6 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 7 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 8 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 9 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 10 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
-| 11 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 12 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 13 | [БДГ Деловая](http://twitter.com/search?q=%d0%91%d0%94%d0%93+%d0%94%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 14 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 15 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 16 | [#nftfam](http://twitter.com/search?q=%23nftfam) | N/A |
-| 17 | [#землетрясение](http://twitter.com/search?q=%23%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5%d1%82%d1%80%d1%8f%d1%81%d0%b5%d0%bd%d0%b8%d0%b5) | N/A |
-| 18 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 19 | [скоро](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%be) | N/A |
-| 20 | [Гродно](http://twitter.com/search?q=%d0%93%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
-| 21 | [В Минске](http://twitter.com/search?q=%d0%92+%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 22 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 23 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 24 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 25 | [#голосвремени](http://twitter.com/search?q=%23%d0%b3%d0%be%d0%bb%d0%be%d1%81%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8) | N/A |
-| 26 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 10 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 11 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 12 | [БДГ Деловая](http://twitter.com/search?q=%d0%91%d0%94%d0%93+%d0%94%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
+| 13 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 14 | [#NFTFam](http://twitter.com/search?q=%23NFTFam) | N/A |
+| 15 | [#землетрясение](http://twitter.com/search?q=%23%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5%d1%82%d1%80%d1%8f%d1%81%d0%b5%d0%bd%d0%b8%d0%b5) | N/A |
+| 16 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 17 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 18 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
+| 19 | [Гродно](http://twitter.com/search?q=%d0%93%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
+| 20 | [В Минске](http://twitter.com/search?q=%d0%92+%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
+| 21 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 22 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 23 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 24 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-02-09 16:16:18 UTC`
+📆 Last Updated: `2023-02-09 17:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 2 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
 | 3 | [#Shehzada](http://twitter.com/search?q=%23Shehzada) | #Shehzada is a Hindi word that translates to "Prince" in English. It is used to refer to a male member of a royal family, usually the son of a king or emperor. |
-| 4 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 5 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
+| 4 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
+| 5 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
 | 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
-| 8 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 9 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
-| 10 | [#Instamart](http://twitter.com/search?q=%23Instamart) | N/A |
-| 11 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
-| 12 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 7 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
+| 8 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
+| 9 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
+| 10 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
+| 11 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 12 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
 | 13 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
-| 14 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
+| 14 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
 | 15 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
-| 16 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
+| 16 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
 | 17 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
-| 18 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 19 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 20 | [Surname](http://twitter.com/search?q=Surname) | N/A |
-| 21 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
-| 22 | [शिबू सोरेन](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%ac%e0%a5%82+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 23 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 24 | [Indira Gandhi](http://twitter.com/search?q=Indira+Gandhi) | N/A |
-| 25 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 26 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 27 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 28 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 29 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 18 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
+| 19 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 20 | [धामी सरकार](http://twitter.com/search?q=%e0%a4%a7%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 21 | [Surname](http://twitter.com/search?q=Surname) | N/A |
+| 22 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 23 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 24 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 25 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 26 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 27 | [Indira Gandhi](http://twitter.com/search?q=Indira+Gandhi) | N/A |
+| 28 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 29 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 30 | [WE LOVE YOU SHALIN BHANOT](http://twitter.com/search?q=WE+LOVE+YOU+SHALIN+BHANOT) | N/A |
-| 31 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 32 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
-| 33 | [Happy Chocolate](http://twitter.com/search?q=Happy+Chocolate) | N/A |
-| 34 | [Ganga](http://twitter.com/search?q=Ganga) | N/A |
-| 35 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
-| 36 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
-| 37 | [#MallaYuddhaInHyderabad](http://twitter.com/search?q=%23MallaYuddhaInHyderabad) | N/A |
-| 38 | [#RajyaSabha](http://twitter.com/search?q=%23RajyaSabha) | N/A |
-| 39 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 40 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
-| 41 | [#KartikAaryan](http://twitter.com/search?q=%23KartikAaryan) | N/A |
-| 42 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
-| 43 | [#DDLJ](http://twitter.com/search?q=%23DDLJ) | N/A |
-| 44 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
-| 45 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
-| 46 | [#Uttrakhand](http://twitter.com/search?q=%23Uttrakhand) | N/A |
-| 47 | [#DhruvVikram](http://twitter.com/search?q=%23DhruvVikram) | N/A |
-| 48 | [#PappuWillBePappu](http://twitter.com/search?q=%23PappuWillBePappu) | N/A |
-| 49 | [#DoubleEngineGIS2023](http://twitter.com/search?q=%23DoubleEngineGIS2023) | N/A |
-| 50 | [#RavindraJadeja](http://twitter.com/search?q=%23RavindraJadeja) | N/A |
+| 31 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 32 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 33 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 34 | [Chocolate Day](http://twitter.com/search?q=Chocolate+Day) | N/A |
+| 35 | [Happy Chocolate](http://twitter.com/search?q=Happy+Chocolate) | N/A |
+| 36 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
+| 37 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
+| 38 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
+| 39 | [#MallaYuddhaInHyderabad](http://twitter.com/search?q=%23MallaYuddhaInHyderabad) | N/A |
+| 40 | [#ModiInRajyaSabha](http://twitter.com/search?q=%23ModiInRajyaSabha) | N/A |
+| 41 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 42 | [#Uttrakhand](http://twitter.com/search?q=%23Uttrakhand) | N/A |
+| 43 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
+| 44 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
+| 45 | [#UttarakhandPaperLeak](http://twitter.com/search?q=%23UttarakhandPaperLeak) | N/A |
+| 46 | [#PappuWillBePappu](http://twitter.com/search?q=%23PappuWillBePappu) | N/A |
+| 47 | [#RavindraJadeja](http://twitter.com/search?q=%23RavindraJadeja) | N/A |
+| 48 | [#DDLJ](http://twitter.com/search?q=%23DDLJ) | N/A |
+| 49 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
+| 50 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
 
 
 

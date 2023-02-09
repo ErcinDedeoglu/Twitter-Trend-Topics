@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-09 16:16:16 UTC`
+📆 Last Updated: `2023-02-09 17:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#ہزارہ_کی_آواز_مریم_نواز](http://twitter.com/search?q=%23%db%81%d8%b2%d8%a7%d8%b1%db%81_%da%a9%db%8c_%d8%a2%d9%88%d8%a7%d8%b2_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
 | 5 | [#PSLAnthem](http://twitter.com/search?q=%23PSLAnthem) | N/A |
 | 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
-| 8 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 7 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
+| 8 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
 | 9 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 10 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
-| 11 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 12 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 13 | [World Premiere](http://twitter.com/search?q=World+Premiere) | N/A |
-| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 15 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 16 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 17 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 18 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
-| 19 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 10 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
+| 11 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 12 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 13 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 14 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 16 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 17 | [Chahat Fateh Ali Khan](http://twitter.com/search?q=Chahat+Fateh+Ali+Khan) | N/A |
+| 18 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 19 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
 | 20 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
-| 21 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 22 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 23 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 24 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 25 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 26 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 27 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
-| 28 | [happy birthday rita maa](http://twitter.com/search?q=happy+birthday+rita+maa) | N/A |
-| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [From Pakistan](http://twitter.com/search?q=From+Pakistan) | N/A |
-| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 32 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 33 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 34 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 35 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
-| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 37 | [Anger](http://twitter.com/search?q=Anger) | Anger is a strong emotion characterized by feelings of hostility, agitation, and resentment. It is often associated with aggressive behavior and can be caused by a variety of factors, including frustration, fear, injustice, or hurt. |
-| 38 | [State Bank of Pakistan](http://twitter.com/search?q=State+Bank+of+Pakistan) | N/A |
-| 39 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 40 | [mohammad rizwan](http://twitter.com/search?q=mohammad+rizwan) | N/A |
-| 41 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
-| 42 | [America](http://twitter.com/search?q=America) | N/A |
-| 43 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 44 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
-| 45 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 46 | [Kesy](http://twitter.com/search?q=Kesy) | N/A |
-| 47 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
-| 48 | [PAKISTAN SUPER LEAGUE](http://twitter.com/search?q=PAKISTAN+SUPER+LEAGUE) | N/A |
-| 49 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 21 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 22 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 23 | [happy birthday rita maa](http://twitter.com/search?q=happy+birthday+rita+maa) | N/A |
+| 24 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 25 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 26 | [From Pakistan](http://twitter.com/search?q=From+Pakistan) | N/A |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
+| 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 30 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 31 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 32 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
+| 33 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
+| 34 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 35 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 36 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 37 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 38 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 39 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 40 | [Crush](http://twitter.com/search?q=Crush) | N/A |
+| 41 | [Itna](http://twitter.com/search?q=Itna) | N/A |
+| 42 | [Kesy](http://twitter.com/search?q=Kesy) | N/A |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 44 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 45 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 46 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 47 | [Edited](http://twitter.com/search?q=Edited) | N/A |
+| 48 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
+| 49 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 50 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 
 
 
