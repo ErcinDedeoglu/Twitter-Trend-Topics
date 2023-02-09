@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-09 22:16:23 UTC`
+📆 Last Updated: `2023-02-09 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Ukraine
 | 6 | [Орбан](http://twitter.com/search?q=%d0%9e%d1%80%d0%b1%d0%b0%d0%bd) | N/A |
 | 7 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 8 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 9 | [Угледаром](http://twitter.com/search?q=%d0%a3%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
-| 10 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 9 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 10 | [Угледаром](http://twitter.com/search?q=%d0%a3%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d1%80%d0%be%d0%bc) | N/A |
 | 11 | [#fanart](http://twitter.com/search?q=%23fanart) | N/A |
 | 12 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 13 | [London](http://twitter.com/search?q=London) | N/A |
-| 14 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
-| 15 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
-| 16 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 17 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 13 | [President](http://twitter.com/search?q=President) | N/A |
+| 14 | [London](http://twitter.com/search?q=London) | N/A |
+| 15 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 17 | [Dnipro](http://twitter.com/search?q=Dnipro) | Dnipro is the fourth-longest river in Europe and the longest river in Ukraine. It is also known as the Dnieper River. The name Dnipro is derived from the ancient Greek name of the river, Dnepr, which means “river of wild waters”. |
 | 18 | [#Martian](http://twitter.com/search?q=%23Martian) | N/A |
 | 19 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 20 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 23 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 24 | [крикнула](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
-| 25 | [британии](http://twitter.com/search?q=%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 26 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 27 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 28 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 29 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 30 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 31 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 32 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 33 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 34 | [Тримайтесь](http://twitter.com/search?q=%d0%a2%d1%80%d0%b8%d0%bc%d0%b0%d0%b9%d1%82%d0%b5%d1%81%d1%8c) | N/A |
-| 35 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
-| 36 | [Чебурашка](http://twitter.com/search?q=%d0%a7%d0%b5%d0%b1%d1%83%d1%80%d0%b0%d1%88%d0%ba%d0%b0) | N/A |
+| 21 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
+| 22 | [#ethoswallet](http://twitter.com/search?q=%23ethoswallet) | N/A |
+| 23 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
+| 26 | [Валентина](http://twitter.com/search?q=%d0%92%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 27 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 28 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 29 | [британии](http://twitter.com/search?q=%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 30 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
+| 31 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 32 | [Чебурашка](http://twitter.com/search?q=%d0%a7%d0%b5%d0%b1%d1%83%d1%80%d0%b0%d1%88%d0%ba%d0%b0) | N/A |
+| 33 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 34 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 36 | [Дай Бог](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9+%d0%91%d0%be%d0%b3) | N/A |
 | 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 38 | [Луганской](http://twitter.com/search?q=%d0%9b%d1%83%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 39 | [арестовича](http://twitter.com/search?q=%d0%b0%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
-| 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 41 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 42 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 43 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
-| 44 | [Десь](http://twitter.com/search?q=%d0%94%d0%b5%d1%81%d1%8c) | N/A |
-| 45 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 46 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 38 | [Daily Reward](http://twitter.com/search?q=Daily+Reward) | N/A |
+| 39 | [Луганской](http://twitter.com/search?q=%d0%9b%d1%83%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 40 | [Африке](http://twitter.com/search?q=%d0%90%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 41 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 42 | [Десь](http://twitter.com/search?q=%d0%94%d0%b5%d1%81%d1%8c) | N/A |
+| 43 | [Арестовича](http://twitter.com/search?q=%d0%90%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
+| 44 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 45 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 46 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
 | 47 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 48 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 49 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 50 | [Vuhledar](http://twitter.com/search?q=Vuhledar) | N/A |
+| 48 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 49 | [United Kingdom](http://twitter.com/search?q=United+Kingdom) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

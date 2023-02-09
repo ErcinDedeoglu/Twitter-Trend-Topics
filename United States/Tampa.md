@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-02-09 22:16:14 UTC`
+📆 Last Updated: `2023-02-09 23:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 1 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
 | 2 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 3 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 5 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 6 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 7 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 8 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 9 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 10 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 11 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
-| 12 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 13 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 15 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 16 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 17 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 18 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 19 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 20 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 21 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 22 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 24 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 25 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 26 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 27 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 28 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 29 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 30 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 31 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 32 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 33 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
-| 34 | [#stlblues](http://twitter.com/search?q=%23stlblues) | N/A |
-| 35 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 36 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 37 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 38 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 39 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 40 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 41 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
-| 42 | [Turley](http://twitter.com/search?q=Turley) | N/A |
+| 3 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 5 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 7 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 8 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 9 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 10 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 11 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
+| 12 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 15 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 16 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 17 | [#YourWeekendPlansIn4Words](http://twitter.com/search?q=%23YourWeekendPlansIn4Words) | N/A |
+| 18 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 19 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 21 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 22 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 23 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
+| 24 | [GPII](http://twitter.com/search?q=GPII) | N/A |
+| 25 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 26 | [Turley](http://twitter.com/search?q=Turley) | N/A |
+| 27 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 28 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 29 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
+| 30 | [71% of Americans](http://twitter.com/search?q=71%25+of+Americans) | N/A |
+| 31 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
+| 32 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 33 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 34 | [Tinsley](http://twitter.com/search?q=Tinsley) | N/A |
+| 35 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 36 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 37 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 38 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 40 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 41 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 42 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
 | 43 | [Blais](http://twitter.com/search?q=Blais) | N/A |
-| 44 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 45 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 46 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 47 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 48 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 49 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 44 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 45 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 46 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 47 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 48 | [Ibaka](http://twitter.com/search?q=Ibaka) | N/A |
+| 49 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
 
 
 

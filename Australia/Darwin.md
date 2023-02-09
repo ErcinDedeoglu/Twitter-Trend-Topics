@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-09 22:15:48 UTC`
+📆 Last Updated: `2023-02-09 23:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 3 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 4 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
 | 5 | [Warner](http://twitter.com/search?q=Warner) | N/A |
 | 6 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 7 | [Alan Tudge](http://twitter.com/search?q=Alan+Tudge) | N/A |
-| 8 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 9 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 10 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
-| 11 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 12 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 13 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 14 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 15 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 16 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 17 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 18 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 19 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
-| 20 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 21 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 7 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 8 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
+| 9 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 10 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 11 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 12 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 13 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 14 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
+| 15 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 16 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 17 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 18 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 19 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 20 | [#LeBronJames](http://twitter.com/search?q=%23LeBronJames) | N/A |
+| 21 | [Sydney Mining Club](http://twitter.com/search?q=Sydney+Mining+Club) | N/A |
 | 22 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
-| 25 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 26 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
+| 23 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
+| 24 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
+| 25 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 27 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 28 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
-| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 32 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 33 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 28 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 29 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 30 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 31 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
 | 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 36 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 37 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 38 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 41 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 42 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
-| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 44 | [bryce cotton](http://twitter.com/search?q=bryce+cotton) | N/A |
-| 45 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 46 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 49 | [Abuse](http://twitter.com/search?q=Abuse) | N/A |
-| 50 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 35 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
+| 36 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 37 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
+| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 39 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 40 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
+| 41 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 44 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 45 | [Abuse](http://twitter.com/search?q=Abuse) | N/A |
+| 46 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 47 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 48 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 49 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 50 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 
 
 
