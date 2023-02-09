@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-09 04:16:31 UTC`
+📆 Last Updated: `2023-02-09 05:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
 | 6 | [KDLEX ITS SHOWTIME](http://twitter.com/search?q=KDLEX+ITS+SHOWTIME) | N/A |
 | 7 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 8 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
-| 9 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 8 | [MY POCKETZ](http://twitter.com/search?q=MY+POCKETZ) | N/A |
+| 9 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
 | 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 11 | [YES BESTIE](http://twitter.com/search?q=YES+BESTIE) | N/A |
-| 12 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 13 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 14 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
-| 15 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 16 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
-| 17 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
-| 18 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 19 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
-| 20 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 21 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 22 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
-| 23 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 24 | [EXO IS NINE](http://twitter.com/search?q=EXO+IS+NINE) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 27 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 28 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 29 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 30 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 11 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 13 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
+| 14 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
+| 15 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 16 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
+| 17 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 18 | [baek](http://twitter.com/search?q=baek) | N/A |
+| 19 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 20 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
+| 21 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 22 | [EXO IS NINE](http://twitter.com/search?q=EXO+IS+NINE) | N/A |
+| 23 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 24 | [YES BESTIE](http://twitter.com/search?q=YES+BESTIE) | N/A |
+| 25 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 26 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 29 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 30 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
 | 31 | [Filipinas](http://twitter.com/search?q=Filipinas) | Filipinas is the Spanish name for the Philippines, a Southeast Asian country located in the western Pacific Ocean. The English translation of Filipinas is "Philippines". |
-| 32 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
-| 33 | [sb19 on wishbus usa](http://twitter.com/search?q=sb19+on+wishbus+usa) | N/A |
-| 34 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 35 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 36 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
-| 37 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 38 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
-| 39 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 40 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 41 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 42 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 43 | [HAPPY BIRTHDAY WONIE](http://twitter.com/search?q=HAPPY+BIRTHDAY+WONIE) | N/A |
-| 44 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 45 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 46 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 47 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 48 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 49 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 32 | [sb19 on wishbus usa](http://twitter.com/search?q=sb19+on+wishbus+usa) | N/A |
+| 33 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 34 | [TENJUL ON MAGANDANG BUHAY](http://twitter.com/search?q=TENJUL+ON+MAGANDANG+BUHAY) | N/A |
+| 35 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
+| 36 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 37 | [The Light](http://twitter.com/search?q=The+Light) | N/A |
+| 38 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
+| 39 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
+| 40 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 41 | [HAPPY BIRTHDAY WONIE](http://twitter.com/search?q=HAPPY+BIRTHDAY+WONIE) | N/A |
+| 42 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 44 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 45 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 46 | [PBBM IN JAPAN](http://twitter.com/search?q=PBBM+IN+JAPAN) | N/A |
+| 47 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 48 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 49 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
 | 50 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 
 

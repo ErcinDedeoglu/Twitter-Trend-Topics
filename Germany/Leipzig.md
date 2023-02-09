@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-09 04:16:18 UTC`
+📆 Last Updated: `2023-02-09 05:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 2 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 5 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 6 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 7 | [büttenrede](http://twitter.com/search?q=b%c3%bcttenrede) | N/A |
+| 1 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 4 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 5 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 6 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 8 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [Metroid Prime Remaster](http://twitter.com/search?q=Metroid+Prime+Remaster) | N/A |
-| 12 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 14 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 15 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 16 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 18 | [riemann](http://twitter.com/search?q=riemann) | N/A |
-| 19 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 20 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 21 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 22 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
-| 23 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 24 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 25 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 9 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 10 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
+| 11 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 12 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 14 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 15 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 16 | [riemann](http://twitter.com/search?q=riemann) | N/A |
+| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 18 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 19 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 20 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 21 | [gittens](http://twitter.com/search?q=gittens) | N/A |
+| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 23 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 24 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 25 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
 | 26 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 27 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 28 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
-| 31 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 32 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
-| 33 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 34 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 35 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 27 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 28 | [Pistorius](http://twitter.com/search?q=Pistorius) | N/A |
+| 29 | [Conny](http://twitter.com/search?q=Conny) | N/A |
+| 30 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 31 | [Unerwartet](http://twitter.com/search?q=Unerwartet) | N/A |
+| 32 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 33 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 34 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 35 | [paschas](http://twitter.com/search?q=paschas) | N/A |
 | 36 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
 | 37 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 38 | [Paschas](http://twitter.com/search?q=Paschas) | N/A |
-| 39 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 40 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 41 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
+| 38 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 39 | [Jakobsweg](http://twitter.com/search?q=Jakobsweg) | N/A |
+| 40 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
+| 41 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
 | 42 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 43 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 44 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 43 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 44 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
 | 45 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 46 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
-| 47 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 47 | [Dustin](http://twitter.com/search?q=Dustin) | N/A |
 | 48 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
 
 

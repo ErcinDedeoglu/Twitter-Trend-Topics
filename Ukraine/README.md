@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-09 04:17:07 UTC`
+📆 Last Updated: `2023-02-09 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,21 +19,21 @@ This is top 50 for Ukraine
 | 2 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
 | 3 | [London](http://twitter.com/search?q=London) | N/A |
 | 4 | [Великобритании](http://twitter.com/search?q=%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 5 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 6 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
-| 7 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 9 | [President](http://twitter.com/search?q=President) | N/A |
-| 10 | [#SaveLegendsOfTomorrow](http://twitter.com/search?q=%23SaveLegendsOfTomorrow) | N/A |
-| 11 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [#BlueChip](http://twitter.com/search?q=%23BlueChip) | N/A |
-| 15 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 5 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 6 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 8 | [President](http://twitter.com/search?q=President) | N/A |
+| 9 | [#SaveLegendsOfTomorrow](http://twitter.com/search?q=%23SaveLegendsOfTomorrow) | N/A |
+| 10 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 11 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 12 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 13 | [#bluechip](http://twitter.com/search?q=%23bluechip) | N/A |
+| 14 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 15 | [#capyai](http://twitter.com/search?q=%23capyai) | N/A |
 | 16 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 17 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 | 18 | [харькову](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d1%83) | N/A |
-| 19 | [ипсо](http://twitter.com/search?q=%d0%b8%d0%bf%d1%81%d0%be) | N/A |
+| 19 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 20 | [Casino](http://twitter.com/search?q=Casino) | N/A |
 | 21 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
 | 22 | [африке](http://twitter.com/search?q=%d0%b0%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
@@ -45,9 +45,9 @@ This is top 50 for Ukraine
 | 28 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
 | 29 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 30 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
-| 31 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 32 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 33 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 31 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 33 | [ИПСО](http://twitter.com/search?q=%d0%98%d0%9f%d0%a1%d0%9e) | N/A |
 | 34 | [тааааак](http://twitter.com/search?q=%d1%82%d0%b0%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
 | 35 | [Смешно](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%88%d0%bd%d0%be) | N/A |
 | 36 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-09 04:16:59 UTC`
+📆 Last Updated: `2023-02-09 05:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,28 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 3 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 4 | [Magnette](http://twitter.com/search?q=Magnette) | N/A |
-| 5 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 6 | [Walen](http://twitter.com/search?q=Walen) | N/A |
-| 7 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 9 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 10 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 11 | [Domenico Tedesco](http://twitter.com/search?q=Domenico+Tedesco) | N/A |
-| 12 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
-| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 14 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 15 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 16 | [Waal](http://twitter.com/search?q=Waal) | N/A |
-| 17 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 18 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 2 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 3 | [Magnette](http://twitter.com/search?q=Magnette) | N/A |
+| 4 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 5 | [Walen](http://twitter.com/search?q=Walen) | N/A |
+| 6 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 8 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Domenico Tedesco](http://twitter.com/search?q=Domenico+Tedesco) | N/A |
+| 11 | [#SaferInternetDay](http://twitter.com/search?q=%23SaferInternetDay) | N/A |
+| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 13 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 14 | [#kcorpwin](http://twitter.com/search?q=%23kcorpwin) | N/A |
+| 15 | [Waal](http://twitter.com/search?q=Waal) | N/A |
+| 16 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 17 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 18 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 19 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
 | 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 23 | [Vlamingen](http://twitter.com/search?q=Vlamingen) | N/A |
+| 21 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
 | 24 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
 | 25 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 26 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
@@ -45,10 +45,10 @@ This is top 50 for Belgium
 | 28 | [b-fast](http://twitter.com/search?q=b-fast) | N/A |
 | 29 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 33 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 34 | [mattias desmet](http://twitter.com/search?q=mattias+desmet) | N/A |
+| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 32 | [Vlamingen](http://twitter.com/search?q=Vlamingen) | N/A |
+| 33 | [Mattias Desmet](http://twitter.com/search?q=Mattias+Desmet) | N/A |
+| 34 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 35 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
 | 36 | [wallons](http://twitter.com/search?q=wallons) | N/A |
 | 37 | [dag allemaal](http://twitter.com/search?q=dag+allemaal) | N/A |

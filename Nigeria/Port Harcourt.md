@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-09 04:16:35 UTC`
+📆 Last Updated: `2023-02-09 05:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 5 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 6 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 7 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 8 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 9 | [#sootcity](http://twitter.com/search?q=%23sootcity) | N/A |
-| 10 | [#sportsbetioxpremierleague](http://twitter.com/search?q=%23sportsbetioxpremierleague) | N/A |
-| 11 | [#youthsortingout](http://twitter.com/search?q=%23youthsortingout) | N/A |
-| 12 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 14 | [#shopperswarehouse](http://twitter.com/search?q=%23shopperswarehouse) | N/A |
-| 15 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 19 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
-| 20 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 21 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
-| 22 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 23 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 25 | [Lagos REC](http://twitter.com/search?q=Lagos+REC) | N/A |
-| 26 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 27 | [PHYNA X RIXARI VAL SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+VAL+SALES) | N/A |
-| 28 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 29 | [Makanaki](http://twitter.com/search?q=Makanaki) | N/A |
-| 30 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 31 | [congratulations sheggz](http://twitter.com/search?q=congratulations+sheggz) | N/A |
-| 32 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 33 | [Abeokuta](http://twitter.com/search?q=Abeokuta) | N/A |
-| 34 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 8 | [#sootcity](http://twitter.com/search?q=%23sootcity) | N/A |
+| 9 | [#sportsbetioxpremierleague](http://twitter.com/search?q=%23sportsbetioxpremierleague) | N/A |
+| 10 | [#youthsortingout](http://twitter.com/search?q=%23youthsortingout) | N/A |
+| 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 13 | [#shopperswarehouse](http://twitter.com/search?q=%23shopperswarehouse) | N/A |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 18 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
+| 19 | [Pooja](http://twitter.com/search?q=Pooja) | N/A |
+| 20 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 21 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 22 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 23 | [phyna x rixari val sales](http://twitter.com/search?q=phyna+x+rixari+val+sales) | N/A |
+| 24 | [Lagos REC](http://twitter.com/search?q=Lagos+REC) | N/A |
+| 25 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 26 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 27 | [Makanaki](http://twitter.com/search?q=Makanaki) | N/A |
+| 28 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 29 | [congratulations sheggz](http://twitter.com/search?q=congratulations+sheggz) | N/A |
+| 30 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 31 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 32 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 33 | [Malami](http://twitter.com/search?q=Malami) | N/A |
+| 34 | [King James](http://twitter.com/search?q=King+James) | N/A |
 | 35 | [Buhari in 2015](http://twitter.com/search?q=Buhari+in+2015) | N/A |
-| 36 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 37 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
-| 38 | [Zenith Bank](http://twitter.com/search?q=Zenith+Bank) | N/A |
-| 39 | [Opportunist](http://twitter.com/search?q=Opportunist) | N/A |
-| 40 | [Spyro](http://twitter.com/search?q=Spyro) | N/A |
+| 36 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 37 | [Abeokuta](http://twitter.com/search?q=Abeokuta) | N/A |
+| 38 | [Spyro](http://twitter.com/search?q=Spyro) | N/A |
+| 39 | [Zenith Bank](http://twitter.com/search?q=Zenith+Bank) | N/A |
+| 40 | [Opportunist](http://twitter.com/search?q=Opportunist) | N/A |
 | 41 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 42 | [nurtw](http://twitter.com/search?q=nurtw) | N/A |
-| 43 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 44 | [Missionary](http://twitter.com/search?q=Missionary) | N/A |
-| 45 | [yahaya bello](http://twitter.com/search?q=yahaya+bello) | N/A |
-| 46 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 42 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
+| 43 | [VOTE KANIVA](http://twitter.com/search?q=VOTE+KANIVA) | N/A |
+| 44 | [Yahaya Bello](http://twitter.com/search?q=Yahaya+Bello) | N/A |
+| 45 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 46 | [NURTW](http://twitter.com/search?q=NURTW) | N/A |
 | 47 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 48 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 49 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 50 | [kanuri](http://twitter.com/search?q=kanuri) | N/A |
+| 48 | [kanuri](http://twitter.com/search?q=kanuri) | N/A |
+| 49 | [Missionary](http://twitter.com/search?q=Missionary) | N/A |
+| 50 | [Yobe](http://twitter.com/search?q=Yobe) | N/A |
 
 
 
