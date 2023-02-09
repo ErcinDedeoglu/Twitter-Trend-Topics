@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-09 19:15:49 UTC`
+📆 Last Updated: `2023-02-09 20:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 7 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
 | 8 | [UNIDENTIFIED WONDER](http://twitter.com/search?q=UNIDENTIFIED+WONDER) | N/A |
 | 9 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 10 | [Yên Bái](http://twitter.com/search?q=Y%c3%aan+B%c3%a1i) | N/A |
+| 10 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
 | 11 | [câu cá ngừ cùng seokjin](http://twitter.com/search?q=c%c3%a2u+c%c3%a1+ng%e1%bb%ab+c%c3%b9ng+seokjin) | N/A |
 | 12 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
 | 13 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |

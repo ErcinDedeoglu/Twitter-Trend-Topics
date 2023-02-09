@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-09 19:16:11 UTC`
+📆 Last Updated: `2023-02-09 20:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Indonesia
 | 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 14 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
 | 15 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 16 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 17 | [mas gibran](http://twitter.com/search?q=mas+gibran) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [mas gibran](http://twitter.com/search?q=mas+gibran) | N/A |
+| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 18 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 | 19 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
 | 20 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 21 | [Laba BRI 51](http://twitter.com/search?q=Laba+BRI+51) | N/A |
+| 21 | [laba bri 51](http://twitter.com/search?q=laba+bri+51) | N/A |
 | 22 | [Beng](http://twitter.com/search?q=Beng) | N/A |
 | 23 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
-| 24 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
+| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 25 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
 | 26 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 27 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 28 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 27 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 28 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
 | 29 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
 | 30 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 31 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 32 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
-| 33 | [NMIXX FIRST MINI ALBUM](http://twitter.com/search?q=NMIXX+FIRST+MINI+ALBUM) | N/A |
-| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [Airi](http://twitter.com/search?q=Airi) | N/A |
-| 36 | [btn mobile](http://twitter.com/search?q=btn+mobile) | N/A |
-| 37 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 38 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
-| 39 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 32 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
+| 33 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
+| 34 | [Airi](http://twitter.com/search?q=Airi) | N/A |
+| 35 | [btn mobile](http://twitter.com/search?q=btn+mobile) | N/A |
+| 36 | [Kebangun](http://twitter.com/search?q=Kebangun) | N/A |
+| 37 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
+| 38 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 39 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
 | 40 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 41 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 42 | [Dilla](http://twitter.com/search?q=Dilla) | N/A |
-| 43 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
-| 44 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
-| 45 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 46 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 41 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 42 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 43 | [Dilla](http://twitter.com/search?q=Dilla) | N/A |
+| 44 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 45 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 46 | [haechan lee](http://twitter.com/search?q=haechan+lee) | N/A |
 | 47 | [Sangobion](http://twitter.com/search?q=Sangobion) | N/A |
-| 48 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
-| 49 | [Arah Coffee](http://twitter.com/search?q=Arah+Coffee) | N/A |
-| 50 | [Eneng](http://twitter.com/search?q=Eneng) | N/A |
+| 48 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 49 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 50 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
 
 
 

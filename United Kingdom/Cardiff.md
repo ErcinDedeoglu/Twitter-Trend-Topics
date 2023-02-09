@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-09 19:15:23 UTC`
+📆 Last Updated: `2023-02-09 20:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 3 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 4 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 6 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 7 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
-| 8 | [#CatsOrDogsInSongOrFilm](http://twitter.com/search?q=%23CatsOrDogsInSongOrFilm) | N/A |
-| 9 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 10 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 11 | [Bissouma](http://twitter.com/search?q=Bissouma) | Bissouma is a name of African origin, derived from the Mandinka language. It means “one who is blessed” or “one who is favored by God”. |
-| 12 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 15 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 16 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 17 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 18 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 19 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 20 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 21 | [Never Fall In Love Again](http://twitter.com/search?q=Never+Fall+In+Love+Again) | N/A |
-| 22 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 23 | [The Look of Love](http://twitter.com/search?q=The+Look+of+Love) | N/A |
-| 24 | [Radz](http://twitter.com/search?q=Radz) | N/A |
-| 25 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
-| 26 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
-| 27 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
-| 28 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
-| 29 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 30 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 31 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 32 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
-| 33 | [Wasps](http://twitter.com/search?q=Wasps) | N/A |
-| 34 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 35 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 36 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 37 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 39 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 40 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 41 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 42 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 43 | [Clegg](http://twitter.com/search?q=Clegg) | N/A |
-| 44 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 45 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 46 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 47 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 48 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 49 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 4 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 5 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 6 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 7 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 8 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 9 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 10 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 11 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 12 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 13 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 14 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 15 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 16 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
+| 17 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 18 | [Julianne](http://twitter.com/search?q=Julianne) | N/A |
+| 19 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 20 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 21 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 22 | [Bissouma](http://twitter.com/search?q=Bissouma) | Bissouma is a name of African origin, derived from the Mandinka language. It means “one who is blessed” or “one who is favored by God”. |
+| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 24 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 25 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 26 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 27 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 29 | [The Look of Love](http://twitter.com/search?q=The+Look+of+Love) | N/A |
+| 30 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 31 | [Austin Powers](http://twitter.com/search?q=Austin+Powers) | N/A |
+| 32 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 33 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 34 | [Never Fall In Love Again](http://twitter.com/search?q=Never+Fall+In+Love+Again) | N/A |
+| 35 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
+| 36 | [Fortran](http://twitter.com/search?q=Fortran) | N/A |
+| 37 | [Radz](http://twitter.com/search?q=Radz) | N/A |
+| 38 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 39 | [Sixways](http://twitter.com/search?q=Sixways) | N/A |
+| 40 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
+| 41 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 42 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 43 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
+| 44 | [Jared O’Mara](http://twitter.com/search?q=Jared+O%e2%80%99Mara) | N/A |
+| 45 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 46 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 47 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 48 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
 
 
 

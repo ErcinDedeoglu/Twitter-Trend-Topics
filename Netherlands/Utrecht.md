@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-09 19:15:39 UTC`
+📆 Last Updated: `2023-02-09 20:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tweaja](http://twitter.com/search?q=%23tweaja) | N/A |
-| 2 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 3 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 4 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 5 | [#FEYnec](http://twitter.com/search?q=%23FEYnec) | N/A |
-| 6 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 7 | [Cerny](http://twitter.com/search?q=Cerny) | N/A |
-| 8 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 1 | [#tweAJA](http://twitter.com/search?q=%23tweAJA) | N/A |
+| 2 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 3 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 4 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
+| 5 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 6 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 7 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 8 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 9 | [#feynec](http://twitter.com/search?q=%23feynec) | N/A |
 | 10 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 11 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 12 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 12 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 14 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 15 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 16 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 17 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 18 | [Budel](http://twitter.com/search?q=Budel) | N/A |
-| 19 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
-| 20 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 21 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 22 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 23 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
-| 24 | [Ron Jans](http://twitter.com/search?q=Ron+Jans) | N/A |
-| 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 26 | [Van Wolfswinkel](http://twitter.com/search?q=Van+Wolfswinkel) | N/A |
-| 27 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 28 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 14 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 15 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 16 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 17 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 18 | [Cerny](http://twitter.com/search?q=Cerny) | N/A |
+| 19 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 20 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 21 | [Budel](http://twitter.com/search?q=Budel) | N/A |
+| 22 | [Ron Jans](http://twitter.com/search?q=Ron+Jans) | N/A |
+| 23 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
+| 24 | [Van Wolfswinkel](http://twitter.com/search?q=Van+Wolfswinkel) | N/A |
+| 25 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 26 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 27 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 29 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 30 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 31 | [Statenleden van Forum](http://twitter.com/search?q=Statenleden+van+Forum) | N/A |
+| 30 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 31 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 32 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 33 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 34 | [Roxeanne](http://twitter.com/search?q=Roxeanne) | N/A |
-| 35 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 36 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
-| 37 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
-| 38 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 39 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 40 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 41 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 42 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 43 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 44 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 45 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 33 | [Statenleden van Forum](http://twitter.com/search?q=Statenleden+van+Forum) | N/A |
+| 34 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 35 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 36 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 37 | [Michiel](http://twitter.com/search?q=Michiel) | N/A |
+| 38 | [Enschede](http://twitter.com/search?q=Enschede) | N/A |
+| 39 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
+| 40 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 41 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 42 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 43 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 44 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 46 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 47 | [Enschede](http://twitter.com/search?q=Enschede) | N/A |
-| 48 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
-| 49 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 47 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
+| 48 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 49 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 
 
 

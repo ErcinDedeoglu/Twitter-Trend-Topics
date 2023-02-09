@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-09 19:15:49 UTC`
+📆 Last Updated: `2023-02-09 20:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 7 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
 | 8 | [UNIDENTIFIED WONDER](http://twitter.com/search?q=UNIDENTIFIED+WONDER) | N/A |
 | 9 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 10 | [Yên Bái](http://twitter.com/search?q=Y%c3%aan+B%c3%a1i) | N/A |
+| 10 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
 | 11 | [câu cá ngừ cùng seokjin](http://twitter.com/search?q=c%c3%a2u+c%c3%a1+ng%e1%bb%ab+c%c3%b9ng+seokjin) | N/A |
 | 12 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
 | 13 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 23 | [0xAI Curated](http://twitter.com/search?q=0xAI+Curated) | N/A |
-| 24 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
+| 24 | [thổ nhĩ kỳ](http://twitter.com/search?q=th%e1%bb%95+nh%c4%a9+k%e1%bb%b3) | N/A |
 | 25 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
 | 26 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
 | 27 | [West](http://twitter.com/search?q=West) | N/A |

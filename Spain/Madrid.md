@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-09 19:15:39 UTC`
+📆 Last Updated: `2023-02-09 20:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 4 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
-| 5 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 6 | [#TierraAmarga9Feb](http://twitter.com/search?q=%23TierraAmarga9Feb) | N/A |
-| 7 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 10 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 11 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 12 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
-| 13 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
-| 14 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 15 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 3 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 5 | [#COAC2023C4](http://twitter.com/search?q=%23COAC2023C4) | N/A |
+| 6 | [#Pasapalabra701](http://twitter.com/search?q=%23Pasapalabra701) | N/A |
+| 7 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 8 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 11 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 12 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 13 | [Valdepeñas](http://twitter.com/search?q=Valdepe%c3%b1as) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [Negre](http://twitter.com/search?q=Negre) | N/A |
 | 16 | [Elda](http://twitter.com/search?q=Elda) | N/A |
-| 17 | [#COAC2023C4](http://twitter.com/search?q=%23COAC2023C4) | N/A |
-| 18 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 19 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
-| 20 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 21 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
-| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 23 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 24 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 25 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 26 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
-| 27 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 28 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
-| 29 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 30 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 31 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 32 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 33 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 34 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 35 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 36 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 37 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 38 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 39 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 40 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 41 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 42 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 44 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 46 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 47 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 48 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 49 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 50 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 17 | [#CopaDeEspaña](http://twitter.com/search?q=%23CopaDeEspa%c3%b1a) | N/A |
+| 18 | [Mecano](http://twitter.com/search?q=Mecano) | N/A |
+| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 22 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 23 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 24 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 25 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
+| 26 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
+| 27 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 28 | [Más de 500](http://twitter.com/search?q=M%c3%a1s+de+500) | N/A |
+| 29 | [Los Oscar](http://twitter.com/search?q=Los+Oscar) | N/A |
+| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 31 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 32 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 33 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 34 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 35 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 36 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 37 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 38 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 39 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 40 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
+| 41 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 42 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 43 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 44 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 45 | [Carmen Alcayde](http://twitter.com/search?q=Carmen+Alcayde) | N/A |
+| 46 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
+| 47 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
+| 48 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 49 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 50 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
 
 
 

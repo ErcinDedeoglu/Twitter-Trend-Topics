@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-09 19:16:00 UTC`
+📆 Last Updated: `2023-02-09 20:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
 | 2 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
 | 3 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
-| 4 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
-| 5 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 6 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 7 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 8 | [Elveda Netflix](http://twitter.com/search?q=Elveda+Netflix) | N/A |
-| 9 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
-| 10 | [Gülsüm](http://twitter.com/search?q=G%c3%bcls%c3%bcm) | N/A |
-| 11 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
-| 12 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
-| 13 | [TahaDuymaza AfadEkibi](http://twitter.com/search?q=TahaDuymaza+AfadEkibi) | N/A |
-| 14 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 15 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
-| 16 | [Fetih](http://twitter.com/search?q=Fetih) | N/A |
-| 17 | [MONT BATTANİYE YARDIMI](http://twitter.com/search?q=MONT+BATTAN%c4%b0YE+YARDIMI) | N/A |
-| 18 | [Yiğit Akar](http://twitter.com/search?q=Yi%c4%9fit+Akar) | N/A |
-| 19 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
-| 20 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 21 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 22 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
-| 23 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
-| 24 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 25 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 26 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 27 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 28 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 29 | [Akit](http://twitter.com/search?q=Akit) | N/A |
-| 30 | [DepremBölgesine Maskeİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesine+Maske%c4%b0htiyac%c4%b1) | N/A |
-| 31 | [Ettirildi](http://twitter.com/search?q=Ettirildi) | N/A |
-| 32 | [Samimiyetsizsiniz](http://twitter.com/search?q=Samimiyetsizsiniz) | N/A |
-| 33 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
-| 34 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 35 | [Tepki](http://twitter.com/search?q=Tepki) | N/A |
-| 36 | [Mehmet Büyükekşi](http://twitter.com/search?q=Mehmet+B%c3%bcy%c3%bckek%c5%9fi) | N/A |
-| 37 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
-| 38 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
-| 39 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
-| 40 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 41 | [HİJYEN ÜRÜNLERİ](http://twitter.com/search?q=H%c4%b0JYEN+%c3%9cR%c3%9cNLER%c4%b0) | N/A |
-| 42 | [Zoraki](http://twitter.com/search?q=Zoraki) | N/A |
-| 43 | [Erteleme](http://twitter.com/search?q=Erteleme) | N/A |
-| 44 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 45 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
-| 46 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
-| 47 | [Ayşegül](http://twitter.com/search?q=Ay%c5%9feg%c3%bcl) | N/A |
-| 48 | [Mesai](http://twitter.com/search?q=Mesai) | N/A |
-| 49 | [Doğruları](http://twitter.com/search?q=Do%c4%9frular%c4%b1) | N/A |
+| 4 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 5 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 6 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 7 | [TahaDuymaza AfadEkibi](http://twitter.com/search?q=TahaDuymaza+AfadEkibi) | N/A |
+| 8 | [#suriyeliler](http://twitter.com/search?q=%23suriyeliler) | N/A |
+| 9 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 10 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 11 | [Birol](http://twitter.com/search?q=Birol) | N/A |
+| 12 | [Gülsüm](http://twitter.com/search?q=G%c3%bcls%c3%bcm) | N/A |
+| 13 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 14 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
+| 15 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
+| 16 | [MONT BATTANIYE YARDIMI](http://twitter.com/search?q=MONT+BATTANIYE+YARDIMI) | N/A |
+| 17 | [Elveda Netflix](http://twitter.com/search?q=Elveda+Netflix) | N/A |
+| 18 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 19 | [Starbucks Bitti](http://twitter.com/search?q=Starbucks+Bitti) | N/A |
+| 20 | [Asiye](http://twitter.com/search?q=Asiye) | N/A |
+| 21 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 22 | [HIJYEN URUNLERI](http://twitter.com/search?q=HIJYEN+URUNLERI) | N/A |
+| 23 | [Fetih](http://twitter.com/search?q=Fetih) | N/A |
+| 24 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 25 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 26 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
+| 27 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 28 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 29 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 30 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 31 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
+| 32 | [DEVLET MİLLET EL ELE](http://twitter.com/search?q=DEVLET+M%c4%b0LLET+EL+ELE) | N/A |
+| 33 | [Asil Türk](http://twitter.com/search?q=Asil+T%c3%bcrk) | N/A |
+| 34 | [Akit](http://twitter.com/search?q=Akit) | N/A |
+| 35 | [Yiğit Akar](http://twitter.com/search?q=Yi%c4%9fit+Akar) | N/A |
+| 36 | [Kötülüğün](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bc%c4%9f%c3%bcn) | N/A |
+| 37 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 38 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 39 | [Uğursuz](http://twitter.com/search?q=U%c4%9fursuz) | N/A |
+| 40 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 41 | [DepremBölgesine Maskeİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesine+Maske%c4%b0htiyac%c4%b1) | N/A |
+| 42 | [Bozuk](http://twitter.com/search?q=Bozuk) | N/A |
+| 43 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 44 | [Kötülük](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bck) | N/A |
+| 45 | [Samimiyetsizler](http://twitter.com/search?q=Samimiyetsizler) | N/A |
+| 46 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 47 | [Ertelenecek](http://twitter.com/search?q=Ertelenecek) | N/A |
+| 48 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
+| 49 | [Samimiyetsizsiniz](http://twitter.com/search?q=Samimiyetsizsiniz) | N/A |
 
 
 

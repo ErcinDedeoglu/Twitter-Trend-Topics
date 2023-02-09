@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-09 19:15:58 UTC`
+📆 Last Updated: `2023-02-09 20:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CowHugDay](http://twitter.com/search?q=%23CowHugDay) | N/A |
-| 2 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
+| 2 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
 | 3 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
-| 4 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
-| 5 | [#HBD_Kaviraj](http://twitter.com/search?q=%23HBD_Kaviraj) | N/A |
-| 6 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
-| 7 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 8 | [#UnstoppableWithNBKS2](http://twitter.com/search?q=%23UnstoppableWithNBKS2) | N/A |
-| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 11 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
-| 12 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
-| 13 | [Ankit](http://twitter.com/search?q=Ankit) | N/A |
-| 14 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 15 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
-| 16 | [Journey](http://twitter.com/search?q=Journey) | N/A |
-| 17 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
-| 18 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 19 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 20 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
+| 4 | [#HBD_Kaviraj](http://twitter.com/search?q=%23HBD_Kaviraj) | N/A |
+| 5 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
+| 6 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
+| 7 | [ZINDABAD REBEL STAR](http://twitter.com/search?q=ZINDABAD+REBEL+STAR) | N/A |
+| 8 | [#Ronaldo𓃵](http://twitter.com/search?q=%23Ronaldo%f0%93%83%b5) | N/A |
+| 9 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 10 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
+| 11 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 12 | [Forever Optimistic Sushant](http://twitter.com/search?q=Forever+Optimistic+Sushant) | N/A |
+| 13 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 14 | [Ankit](http://twitter.com/search?q=Ankit) | N/A |
+| 15 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 16 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
+| 17 | [Journey](http://twitter.com/search?q=Journey) | N/A |
+| 18 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
+| 19 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 20 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
 | 21 | [मणिशंकर अय्यर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%af%e0%a5%8d%e0%a4%af%e0%a4%b0) | N/A |
 | 22 | [Harami](http://twitter.com/search?q=Harami) | N/A |
-| 23 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
-| 24 | [Feroze Gandhi](http://twitter.com/search?q=Feroze+Gandhi) | N/A |
-| 25 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
-| 26 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
-| 27 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 28 | [शिबू सोरेन](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%ac%e0%a5%82+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 29 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 30 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 31 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 32 | [प्रधान मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 33 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 34 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 35 | [Ganga](http://twitter.com/search?q=Ganga) | N/A |
-| 36 | [#SA20](http://twitter.com/search?q=%23SA20) | N/A |
-| 37 | [#AlNassr](http://twitter.com/search?q=%23AlNassr) | #AlNassr is the name of a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. |
-| 38 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
-| 39 | [#PriyankaChaharChoudharyᅠ](http://twitter.com/search?q=%23PriyankaChaharChoudhary%e1%85%a0) | N/A |
-| 40 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
-| 41 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 42 | [#ShalinBhanot](http://twitter.com/search?q=%23ShalinBhanot) | N/A |
+| 23 | [BHIM](http://twitter.com/search?q=BHIM) | N/A |
+| 24 | [ERCP](http://twitter.com/search?q=ERCP) | N/A |
+| 25 | [BIHAR WITH VIKAS VAIBHAV IPS](http://twitter.com/search?q=BIHAR+WITH+VIKAS+VAIBHAV+IPS) | N/A |
+| 26 | [विकास वैभव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%b5%e0%a5%88%e0%a4%ad%e0%a4%b5) | N/A |
+| 27 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 28 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 29 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 30 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 31 | [#AlNassr](http://twitter.com/search?q=%23AlNassr) | #AlNassr is the name of a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. |
+| 32 | [#Farzi](http://twitter.com/search?q=%23Farzi) | N/A |
+| 33 | [#MahindraRacingComesHome](http://twitter.com/search?q=%23MahindraRacingComesHome) | N/A |
+| 34 | [#UnstoppableWithNBKS2](http://twitter.com/search?q=%23UnstoppableWithNBKS2) | N/A |
+| 35 | [#JSKvSEC](http://twitter.com/search?q=%23JSKvSEC) | N/A |
+| 36 | [#PriyankaChaharChoudharyᅠ](http://twitter.com/search?q=%23PriyankaChaharChoudhary%e1%85%a0) | N/A |
+| 37 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
+| 38 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
+| 39 | [#ShalinBhanot](http://twitter.com/search?q=%23ShalinBhanot) | N/A |
+| 40 | [#UnionsDestroyEconomies](http://twitter.com/search?q=%23UnionsDestroyEconomies) | N/A |
+| 41 | [#SayNotoTruckUnions](http://twitter.com/search?q=%23SayNotoTruckUnions) | N/A |
+| 42 | [#SupportIndustriesinHimachal](http://twitter.com/search?q=%23SupportIndustriesinHimachal) | N/A |
 | 43 | [#1YearOfMAHAANism](http://twitter.com/search?q=%231YearOfMAHAANism) | N/A |
-| 44 | [#UnionsDestroyEconomies](http://twitter.com/search?q=%23UnionsDestroyEconomies) | N/A |
-| 45 | [#SayNotoTruckUnions](http://twitter.com/search?q=%23SayNotoTruckUnions) | N/A |
-| 46 | [#SupportIndustriesinHimachal](http://twitter.com/search?q=%23SupportIndustriesinHimachal) | N/A |
-| 47 | [#Dehradun](http://twitter.com/search?q=%23Dehradun) | N/A |
-| 48 | [#ModiInRajyaSabha](http://twitter.com/search?q=%23ModiInRajyaSabha) | N/A |
-| 49 | [#PMModiInParliament](http://twitter.com/search?q=%23PMModiInParliament) | N/A |
-| 50 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
+| 44 | [#ModiInRajyaSabha](http://twitter.com/search?q=%23ModiInRajyaSabha) | N/A |
+| 45 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
+| 46 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 47 | [#PMModiInParliament](http://twitter.com/search?q=%23PMModiInParliament) | N/A |
+| 48 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
+| 49 | [#CharacterDheela2](http://twitter.com/search?q=%23CharacterDheela2) | N/A |
+| 50 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 
 
 

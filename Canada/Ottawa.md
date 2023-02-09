@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-09 19:15:22 UTC`
+📆 Last Updated: `2023-02-09 20:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 3 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 4 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 5 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 6 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 7 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 8 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 9 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 12 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 13 | [Conor Timmins](http://twitter.com/search?q=Conor+Timmins) | N/A |
-| 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 16 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 19 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 20 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 21 | [#stlblues](http://twitter.com/search?q=%23stlblues) | N/A |
-| 22 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 23 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 26 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 27 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 28 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 31 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
-| 32 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 35 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 36 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 37 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 38 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 39 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 40 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 41 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 42 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 43 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 44 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 45 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 46 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 47 | [Rex Murphy](http://twitter.com/search?q=Rex+Murphy) | N/A |
-| 48 | [Khem](http://twitter.com/search?q=Khem) | N/A |
-| 49 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 50 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 4 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 5 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 6 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 7 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 9 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 10 | [Hunter Skinner](http://twitter.com/search?q=Hunter+Skinner) | N/A |
+| 11 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 12 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
+| 13 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 16 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 17 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 18 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 19 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 20 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 21 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 23 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 24 | [Kyle Dubas](http://twitter.com/search?q=Kyle+Dubas) | N/A |
+| 25 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 26 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 27 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 28 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 29 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 30 | [#NCTCA2023](http://twitter.com/search?q=%23NCTCA2023) | N/A |
+| 31 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 32 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 33 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 35 | [Timmins](http://twitter.com/search?q=Timmins) | N/A |
+| 36 | [Poetl](http://twitter.com/search?q=Poetl) | N/A |
+| 37 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 38 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 39 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 40 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 41 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 42 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 43 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 44 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
+| 45 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 46 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 47 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 48 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 49 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

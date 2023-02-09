@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-09 19:16:13 UTC`
+📆 Last Updated: `2023-02-09 20:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 3 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
-| 4 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 5 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 8 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
-| 9 | [#PoderosoCha](http://twitter.com/search?q=%23PoderosoCha) | N/A |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 13 | [#DíaDelOdontólogo](http://twitter.com/search?q=%23D%c3%adaDelOdont%c3%b3logo) | N/A |
-| 14 | [José Guadalupe Tapia Quintero](http://twitter.com/search?q=Jos%c3%a9+Guadalupe+Tapia+Quintero) | N/A |
-| 15 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
-| 16 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 17 | [Gilberto Higuera Bernal](http://twitter.com/search?q=Gilberto+Higuera+Bernal) | N/A |
-| 18 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 19 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 21 | [Tacuichamona](http://twitter.com/search?q=Tacuichamona) | N/A |
-| 22 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 23 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 24 | [Decena Trágica](http://twitter.com/search?q=Decena+Tr%c3%a1gica) | N/A |
-| 25 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
-| 26 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 27 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 28 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 29 | [Néstor Ojeda](http://twitter.com/search?q=N%c3%a9stor+Ojeda) | N/A |
-| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 31 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
-| 32 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 33 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 34 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
-| 35 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
-| 36 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
-| 37 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 38 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 39 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 40 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 41 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 42 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 43 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 44 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 45 | [#GhostsAgain](http://twitter.com/search?q=%23GhostsAgain) | N/A |
-| 46 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
-| 47 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 48 | [#DíaPorLaIntegridad](http://twitter.com/search?q=%23D%c3%adaPorLaIntegridad) | N/A |
-| 49 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
-| 50 | [#SeungrisRealStory](http://twitter.com/search?q=%23SeungrisRealStory) | N/A |
+| 2 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 3 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 5 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 6 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 7 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
+| 8 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 9 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
+| 10 | [Hugo Ayala](http://twitter.com/search?q=Hugo+Ayala) | N/A |
+| 11 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 12 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
+| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 15 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 16 | [Marcos Ayala](http://twitter.com/search?q=Marcos+Ayala) | N/A |
+| 17 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 18 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 19 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 20 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
+| 21 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
+| 22 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 23 | [Gilberto Higuera Bernal](http://twitter.com/search?q=Gilberto+Higuera+Bernal) | N/A |
+| 24 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
+| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 26 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
+| 27 | [Lupe Tapia](http://twitter.com/search?q=Lupe+Tapia) | N/A |
+| 28 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 29 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 30 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 31 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 32 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 33 | [Néstor Ojeda](http://twitter.com/search?q=N%c3%a9stor+Ojeda) | N/A |
+| 34 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 35 | [The Rasmus](http://twitter.com/search?q=The+Rasmus) | N/A |
+| 36 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 37 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 38 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 39 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 40 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
+| 41 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 42 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
+| 43 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 44 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
+| 45 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 46 | [#DíaDelOdontólogo](http://twitter.com/search?q=%23D%c3%adaDelOdont%c3%b3logo) | N/A |
+| 47 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 48 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 49 | [#BoyWithLuv1Billion](http://twitter.com/search?q=%23BoyWithLuv1Billion) | N/A |
+| 50 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 
 
 

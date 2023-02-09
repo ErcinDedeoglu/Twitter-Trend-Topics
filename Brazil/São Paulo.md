@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-09 19:15:32 UTC`
+📆 Last Updated: `2023-02-09 20:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 2 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 3 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 4 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 5 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 6 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 7 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 1 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 2 | [Kuscevic](http://twitter.com/search?q=Kuscevic) | N/A |
+| 3 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 5 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 6 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 7 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
 | 8 | [Paredão](http://twitter.com/search?q=Pared%c3%a3o) | N/A |
-| 9 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 9 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
 | 10 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 11 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
-| 12 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 13 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 14 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 15 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 16 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 17 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 18 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
-| 19 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 20 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 11 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 12 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 13 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 14 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 15 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 16 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | Carlos Alberto is a Portuguese name, derived from the Germanic name Karl, meaning "free man". It is also the name of a famous Brazilian footballer who played for the Brazilian national team in the 1970s. He is widely regarded as one of the greatest players of all time. |
+| 17 | [Luvinha](http://twitter.com/search?q=Luvinha) | N/A |
+| 18 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 19 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 20 | [#DÃOMaker](http://twitter.com/search?q=%23D%c3%83OMaker) | N/A |
+| 21 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
 | 22 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 23 | [Renatinho](http://twitter.com/search?q=Renatinho) | Renatinho is a Portuguese nickname for the name Renato, which means "little Renato". It is often used as an affectionate term of endearment. In English, it would be translated as "Little Renato". |
-| 24 | [Papai Cris](http://twitter.com/search?q=Papai+Cris) | Papai Cris is a Portuguese term of endearment used to refer to a father figure. It translates literally to "Daddy Cris" in English. |
-| 25 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 26 | [#BigFone](http://twitter.com/search?q=%23BigFone) | N/A |
-| 27 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 29 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 30 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 31 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 32 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 33 | [Wellington Silva](http://twitter.com/search?q=Wellington+Silva) | N/A |
-| 34 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
-| 35 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
-| 38 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 23 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 25 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 26 | [Diany](http://twitter.com/search?q=Diany) | N/A |
+| 27 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 28 | [Papai Cris](http://twitter.com/search?q=Papai+Cris) | Papai Cris is a Portuguese term of endearment used to refer to a father figure. It translates literally to "Daddy Cris" in English. |
+| 29 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
+| 30 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 31 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 32 | [Robinson de Castro](http://twitter.com/search?q=Robinson+de+Castro) | N/A |
+| 33 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 34 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 35 | [#AppleMusicHalftime](http://twitter.com/search?q=%23AppleMusicHalftime) | N/A |
+| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 37 | [Renatinho](http://twitter.com/search?q=Renatinho) | Renatinho is a Portuguese nickname for the name Renato, which means "little Renato". It is often used as an affectionate term of endearment. In English, it would be translated as "Little Renato". |
+| 38 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
 | 39 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 40 | [Homem-Aranha Noir](http://twitter.com/search?q=Homem-Aranha+Noir) | N/A |
-| 41 | [Ronnie Lessa](http://twitter.com/search?q=Ronnie+Lessa) | N/A |
-| 42 | [Irmãos Coragem](http://twitter.com/search?q=Irm%c3%a3os+Coragem) | N/A |
-| 43 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 44 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 45 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 46 | [Robinson de Castro](http://twitter.com/search?q=Robinson+de+Castro) | N/A |
-| 47 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 48 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 49 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 50 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
+| 40 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
+| 41 | [Sérgio Cabral](http://twitter.com/search?q=S%c3%a9rgio+Cabral) | N/A |
+| 42 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 43 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
+| 44 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 45 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 46 | [Namaria](http://twitter.com/search?q=Namaria) | N/A |
+| 47 | [Wellington Silva](http://twitter.com/search?q=Wellington+Silva) | N/A |
+| 48 | [Pelinka](http://twitter.com/search?q=Pelinka) | Pelinka is a German surname derived from the Old High German word "pelinc," meaning "little". It is most commonly found in the southern part of Germany. In English, it can be translated to mean "little one". |
+| 49 | [Sauditão](http://twitter.com/search?q=Saudit%c3%a3o) | N/A |
+| 50 | [Beverley](http://twitter.com/search?q=Beverley) | N/A |
 
 
 

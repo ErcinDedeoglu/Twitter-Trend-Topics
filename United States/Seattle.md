@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-09 19:16:08 UTC`
+📆 Last Updated: `2023-02-09 20:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 4 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 5 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 6 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 7 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 9 | [#DÃOMaker](http://twitter.com/search?q=%23D%c3%83OMaker) | N/A |
-| 10 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 11 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 15 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
-| 16 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 17 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 18 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 19 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 20 | [Blais](http://twitter.com/search?q=Blais) | N/A |
-| 21 | [#stlblues](http://twitter.com/search?q=%23stlblues) | N/A |
-| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 23 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
-| 24 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 26 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
-| 27 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 28 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 29 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 30 | [Troy Weaver](http://twitter.com/search?q=Troy+Weaver) | N/A |
-| 31 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 32 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
-| 33 | [Duren](http://twitter.com/search?q=Duren) | N/A |
-| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [Angie Craig](http://twitter.com/search?q=Angie+Craig) | N/A |
-| 36 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 37 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
-| 38 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 41 | [Pepperoni](http://twitter.com/search?q=Pepperoni) | N/A |
-| 42 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 43 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
-| 44 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 45 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 46 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 47 | [Ibaka](http://twitter.com/search?q=Ibaka) | N/A |
-| 48 | [Hajek](http://twitter.com/search?q=Hajek) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 3 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 4 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 6 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 7 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 8 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 9 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 10 | [#DÃOMaker](http://twitter.com/search?q=%23D%c3%83OMaker) | N/A |
+| 11 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 12 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 13 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 14 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 15 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 16 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 17 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 18 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 19 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 21 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
+| 22 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
+| 23 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 24 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 25 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 26 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 27 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 28 | [#stlblues](http://twitter.com/search?q=%23stlblues) | N/A |
+| 29 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 30 | [Blais](http://twitter.com/search?q=Blais) | N/A |
+| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 32 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 33 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 34 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
+| 35 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 36 | [GPII](http://twitter.com/search?q=GPII) | N/A |
+| 37 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 38 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 39 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 40 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 41 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 42 | [George Hill](http://twitter.com/search?q=George+Hill) | N/A |
+| 43 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 44 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
+| 45 | [Troy Weaver](http://twitter.com/search?q=Troy+Weaver) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 48 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 49 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 
 
 
