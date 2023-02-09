@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-02-09 02:40:56 UTC`
+📆 Last Updated: `2023-02-09 03:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for [Russia](</Russia>)
 | 22 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
 | 23 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 24 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 25 | [Кинопоиске](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
+| 25 | [кинопоиске](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
 | 26 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 27 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 28 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Russia](</Russia>)
 | 41 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 42 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
 | 43 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 44 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
+| 44 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
 | 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 46 | [серьезно](http://twitter.com/search?q=%d1%81%d0%b5%d1%80%d1%8c%d0%b5%d0%b7%d0%bd%d0%be) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-09 02:41:24 UTC`
+📆 Last Updated: `2023-02-09 03:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for New Zealand
 | 12 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 13 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
 | 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 15 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
-| 16 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 17 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 18 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 19 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 21 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
-| 22 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 23 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 24 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 25 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
-| 26 | [ARPs](http://twitter.com/search?q=ARPs) | N/A |
-| 27 | [Luckily](http://twitter.com/search?q=Luckily) | N/A |
-| 28 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 29 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 31 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 32 | [He Puapua](http://twitter.com/search?q=He+Puapua) | N/A |
-| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
-| 37 | [#freereadku](http://twitter.com/search?q=%23freereadku) | N/A |
-| 38 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
-| 39 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 15 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 16 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 17 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 18 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 19 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
+| 20 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 21 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 22 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 23 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
+| 24 | [Luckily](http://twitter.com/search?q=Luckily) | N/A |
+| 25 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 26 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 27 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 29 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 30 | [He Puapua](http://twitter.com/search?q=He+Puapua) | N/A |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 32 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 33 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 34 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
+| 35 | [#freereadku](http://twitter.com/search?q=%23freereadku) | N/A |
+| 36 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
+| 37 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 39 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 42 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 43 | [Rangiora](http://twitter.com/search?q=Rangiora) | N/A |
-| 44 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 46 | [#NZvEng](http://twitter.com/search?q=%23NZvEng) | N/A |
-| 47 | [guyon](http://twitter.com/search?q=guyon) | N/A |
-| 48 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 49 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
-| 50 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 41 | [Rangiora](http://twitter.com/search?q=Rangiora) | N/A |
+| 42 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 43 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 46 | [guyon](http://twitter.com/search?q=guyon) | N/A |
+| 47 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 48 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
+| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 50 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
 
 
 

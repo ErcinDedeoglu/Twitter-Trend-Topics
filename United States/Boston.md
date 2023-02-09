@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-09 02:41:06 UTC`
+📆 Last Updated: `2023-02-09 03:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 3 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 4 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 9 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 11 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 12 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 14 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 15 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 16 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 17 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 18 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 21 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 22 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 23 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 24 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
-| 25 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 26 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 27 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 28 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 29 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 30 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 31 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 32 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 33 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 34 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 35 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 36 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 37 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 38 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 39 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 40 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 41 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 42 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 43 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 44 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 45 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 46 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 47 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 48 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 49 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 50 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 3 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 4 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 5 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 6 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 7 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 12 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 13 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 14 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 15 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 16 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 17 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 18 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 19 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 21 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 22 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 23 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 27 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 28 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 29 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 30 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 31 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 32 | [Gunns](http://twitter.com/search?q=Gunns) | N/A |
+| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 34 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 35 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 36 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 37 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 38 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 39 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 42 | [AR Fox](http://twitter.com/search?q=AR+Fox) | N/A |
+| 43 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 44 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 46 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 47 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 48 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 49 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 50 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
 
 
 

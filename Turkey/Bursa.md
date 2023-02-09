@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-09 02:41:03 UTC`
+📆 Last Updated: `2023-02-09 03:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,40 @@ This is top 50 for [Turkey](</Turkey>)
 | 7 | [Düzeldi](http://twitter.com/search?q=D%c3%bczeldi) | N/A |
 | 8 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
 | 9 | [Elif Melisa](http://twitter.com/search?q=Elif+Melisa) | N/A |
-| 10 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 11 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
-| 12 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Açıldı](http://twitter.com/search?q=A%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 10 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
+| 11 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 14 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
 | 15 | [Zübeyde](http://twitter.com/search?q=Z%c3%bcbeyde) | N/A |
 | 16 | [Suriye'ye](http://twitter.com/search?q=Suriye%27ye) | N/A |
-| 17 | [Twitterı](http://twitter.com/search?q=Twitter%c4%b1) | N/A |
-| 18 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
+| 17 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
+| 18 | [Twitterı](http://twitter.com/search?q=Twitter%c4%b1) | N/A |
 | 19 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 20 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 21 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 22 | [DepremBölgesine IsıtıcıDesteği](http://twitter.com/search?q=DepremB%c3%b6lgesine+Is%c4%b1t%c4%b1c%c4%b1Deste%c4%9fi) | N/A |
-| 23 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 24 | [Twitter'dan](http://twitter.com/search?q=Twitter%27dan) | N/A |
-| 25 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 26 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 27 | [#serefsiz](http://twitter.com/search?q=%23serefsiz) | N/A |
+| 20 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 21 | [DepremBölgesine IsıtıcıDesteği](http://twitter.com/search?q=DepremB%c3%b6lgesine+Is%c4%b1t%c4%b1c%c4%b1Deste%c4%9fi) | N/A |
+| 22 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 23 | [Twitter'dan](http://twitter.com/search?q=Twitter%27dan) | N/A |
+| 24 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 25 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 26 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
+| 27 | [#tarafsizbolge](http://twitter.com/search?q=%23tarafsizbolge) | N/A |
 | 28 | [#internetBlockedinTurkey](http://twitter.com/search?q=%23internetBlockedinTurkey) | N/A |
-| 29 | [#hatayiskenderun](http://twitter.com/search?q=%23hatayiskenderun) | N/A |
-| 30 | [#tarafsizbolge](http://twitter.com/search?q=%23tarafsizbolge) | N/A |
-| 31 | [#acildeprem](http://twitter.com/search?q=%23acildeprem) | N/A |
-| 32 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
-| 33 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
-| 34 | [#gaziantepdeprem](http://twitter.com/search?q=%23gaziantepdeprem) | N/A |
-| 35 | [#UnicefTürkiyedenDefol](http://twitter.com/search?q=%23UnicefT%c3%bcrkiyedenDefol) | N/A |
-| 36 | [#cnnturk](http://twitter.com/search?q=%23cnnturk) | N/A |
-| 37 | [#yardımıhızlandır](http://twitter.com/search?q=%23yard%c4%b1m%c4%b1h%c4%b1zland%c4%b1r) | N/A |
-| 38 | [#ProvokatörKılıçdaroğlu](http://twitter.com/search?q=%23Provokat%c3%b6rK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 39 | [#Diyarbakirdeprem](http://twitter.com/search?q=%23Diyarbakirdeprem) | N/A |
-| 40 | [#DEPREMYARDIM](http://twitter.com/search?q=%23DEPREMYARDIM) | N/A |
-| 41 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
-| 42 | [#OsmaniyeDeprem](http://twitter.com/search?q=%23OsmaniyeDeprem) | N/A |
-| 43 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
-| 44 | [#ShowTv](http://twitter.com/search?q=%23ShowTv) | N/A |
-| 45 | [#marasdepremi](http://twitter.com/search?q=%23marasdepremi) | N/A |
-| 46 | [#Hataysamandağ](http://twitter.com/search?q=%23Hataysamanda%c4%9f) | N/A |
-| 47 | [#CumhurbaskanıErdoğan](http://twitter.com/search?q=%23Cumhurbaskan%c4%b1Erdo%c4%9fan) | N/A |
+| 29 | [#rahatdeğiliz](http://twitter.com/search?q=%23rahatde%c4%9filiz) | N/A |
+| 30 | [#gaziantepdeprem](http://twitter.com/search?q=%23gaziantepdeprem) | N/A |
+| 31 | [#cnnturk](http://twitter.com/search?q=%23cnnturk) | N/A |
+| 32 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
+| 33 | [#UnicefTürkiyedenDefol](http://twitter.com/search?q=%23UnicefT%c3%bcrkiyedenDefol) | N/A |
+| 34 | [#yardımıhızlandır](http://twitter.com/search?q=%23yard%c4%b1m%c4%b1h%c4%b1zland%c4%b1r) | N/A |
+| 35 | [#ProvokatörKılıçdaroğlu](http://twitter.com/search?q=%23Provokat%c3%b6rK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 36 | [#Diyarbakirdeprem](http://twitter.com/search?q=%23Diyarbakirdeprem) | N/A |
+| 37 | [#DEPREMYARDIM](http://twitter.com/search?q=%23DEPREMYARDIM) | N/A |
+| 38 | [#ArmyAssembleForTurkey](http://twitter.com/search?q=%23ArmyAssembleForTurkey) | N/A |
+| 39 | [#OsmaniyeDeprem](http://twitter.com/search?q=%23OsmaniyeDeprem) | N/A |
+| 40 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
+| 41 | [#ShowTv](http://twitter.com/search?q=%23ShowTv) | N/A |
+| 42 | [#marasdepremi](http://twitter.com/search?q=%23marasdepremi) | N/A |
+| 43 | [#Hataysamandağ](http://twitter.com/search?q=%23Hataysamanda%c4%9f) | N/A |
 
 
 

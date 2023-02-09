@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-09 02:41:25 UTC`
+📆 Last Updated: `2023-02-09 03:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,34 +23,34 @@ This is top 50 for Qatar
 | 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 7 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 8 | [محمد بن عبدالله العطيه الجويه](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 9 | [الدفعه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
-| 10 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 11 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 12 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 13 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 14 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 15 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 16 | [8 فبراير 2023](http://twitter.com/search?q=8+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 17 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 18 | [دوري نجوم قطر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d9%86%d8%ac%d9%88%d9%85+%d9%82%d8%b7%d8%b1) | N/A |
-| 19 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 21 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 22 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
-| 23 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 24 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 25 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
-| 26 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 28 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 29 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
-| 30 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 31 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 32 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 33 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 34 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
-| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 36 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 9 | [شاهد مقطع الفيديو الخاص](http://twitter.com/search?q=%d8%b4%d8%a7%d9%87%d8%af+%d9%85%d9%82%d8%b7%d8%b9+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 10 | [الدفعه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
+| 11 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 12 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 13 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 14 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 15 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 16 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 17 | [8 فبراير 2023](http://twitter.com/search?q=8+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 18 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 19 | [دوري نجوم قطر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d9%86%d8%ac%d9%88%d9%85+%d9%82%d8%b7%d8%b1) | N/A |
+| 20 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 21 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 22 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 23 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 24 | [قطر الخيريه](http://twitter.com/search?q=%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 25 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 26 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
+| 27 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 29 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 30 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 31 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
+| 32 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 33 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 34 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 35 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 37 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
 | 38 | [الدوري العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 39 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |

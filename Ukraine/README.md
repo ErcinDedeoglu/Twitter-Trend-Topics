@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-09 02:41:28 UTC`
+📆 Last Updated: `2023-02-09 03:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,21 +17,21 @@ This is top 50 for Ukraine
 | ------- | ------------ | ------------ |
 | 1 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 2 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 3 | [великобритании](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 4 | [London](http://twitter.com/search?q=London) | N/A |
+| 3 | [London](http://twitter.com/search?q=London) | N/A |
+| 4 | [Великобритании](http://twitter.com/search?q=%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 | 5 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 6 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 8 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 6 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 7 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 9 | [President](http://twitter.com/search?q=President) | N/A |
 | 10 | [#SaveLegendsOfTomorrow](http://twitter.com/search?q=%23SaveLegendsOfTomorrow) | N/A |
 | 11 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
 | 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [United Kingdom](http://twitter.com/search?q=United+Kingdom) | N/A |
-| 15 | [#BlueChip](http://twitter.com/search?q=%23BlueChip) | N/A |
-| 16 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 17 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 14 | [#BlueChip](http://twitter.com/search?q=%23BlueChip) | N/A |
+| 15 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 16 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 17 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 | 18 | [харькову](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d1%83) | N/A |
 | 19 | [ипсо](http://twitter.com/search?q=%d0%b8%d0%bf%d1%81%d0%be) | N/A |
 | 20 | [Casino](http://twitter.com/search?q=Casino) | N/A |

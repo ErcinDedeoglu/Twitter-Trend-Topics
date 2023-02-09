@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-09 02:40:49 UTC`
+📆 Last Updated: `2023-02-09 03:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 11 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
 | 12 | [0xai curated](http://twitter.com/search?q=0xai+curated) | N/A |
 | 13 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
-| 14 | [thổ nhĩ kỳ](http://twitter.com/search?q=th%e1%bb%95+nh%c4%a9+k%e1%bb%b3) | N/A |
+| 14 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
 | 15 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 16 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
 | 17 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 18 | [được](http://twitter.com/search?q=%c4%91%c6%b0%e1%bb%a3c) | N/A |
-| 19 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 21 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 22 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
-| 23 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
-| 24 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 25 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 26 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 27 | [West](http://twitter.com/search?q=West) | N/A |
-| 28 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
-| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 30 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 31 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 34 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 35 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 36 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
-| 37 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 38 | [tây ninh](http://twitter.com/search?q=t%c3%a2y+ninh) | N/A |
-| 39 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 40 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 41 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 42 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 43 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 44 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 46 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 47 | [chuyện](http://twitter.com/search?q=chuy%e1%bb%87n) | N/A |
-| 48 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 49 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 18 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 19 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 20 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 21 | [$NEAR](http://twitter.com/search?q=%24NEAR) | N/A |
+| 22 | [ĐƯỢC](http://twitter.com/search?q=%c4%90%c6%af%e1%bb%a2C) | N/A |
+| 23 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 24 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 25 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 26 | [Đồng Nai](http://twitter.com/search?q=%c4%90%e1%bb%93ng+Nai) | N/A |
+| 27 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
+| 30 | [West](http://twitter.com/search?q=West) | N/A |
+| 31 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
+| 32 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 33 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 36 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 37 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 38 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 39 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 40 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
+| 41 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 42 | [tây ninh](http://twitter.com/search?q=t%c3%a2y+ninh) | N/A |
+| 43 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 44 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
+| 45 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 47 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 48 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 
