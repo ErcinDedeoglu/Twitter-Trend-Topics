@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-09 13:20:36 UTC`
+📆 Last Updated: `2023-02-09 14:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Guatemala
 | 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 7 | [IGSS](http://twitter.com/search?q=IGSS) | N/A |
 | 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 10 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 11 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 13 | [conjuve](http://twitter.com/search?q=conjuve) | N/A |
-| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 15 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 16 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 17 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
-| 18 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
-| 19 | [#CantStopFallingForIN](http://twitter.com/search?q=%23CantStopFallingForIN) | N/A |
-| 20 | [Ohana](http://twitter.com/search?q=Ohana) | Ohana is a Hawaiian word that means family. It is often used to express the idea of family being an important part of life and that no one should be left behind or forgotten. |
-| 21 | [Escuintla](http://twitter.com/search?q=Escuintla) | N/A |
-| 22 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 23 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 24 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
-| 25 | [Zapeta](http://twitter.com/search?q=Zapeta) | N/A |
+| 9 | [Escuintla](http://twitter.com/search?q=Escuintla) | N/A |
+| 10 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 14 | [conjuve](http://twitter.com/search?q=conjuve) | N/A |
+| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 16 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 17 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 18 | [#아이엔의_스물셋도_안아줄게요](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ec%97%94%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%85%8b%eb%8f%84_%ec%95%88%ec%95%84%ec%a4%84%ea%b2%8c%ec%9a%94) | N/A |
+| 19 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 20 | [#cantstopfallingforin](http://twitter.com/search?q=%23cantstopfallingforin) | N/A |
+| 21 | [Zapeta](http://twitter.com/search?q=Zapeta) | N/A |
+| 22 | [Ohana](http://twitter.com/search?q=Ohana) | Ohana is a Hawaiian word that means family. It is often used to express the idea of family being an important part of life and that no one should be left behind or forgotten. |
+| 23 | [carlos ruano](http://twitter.com/search?q=carlos+ruano) | N/A |
+| 24 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 25 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
 | 26 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 27 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 28 | [#TransitoGT](http://twitter.com/search?q=%23TransitoGT) | N/A |
+| 27 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
+| 28 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 29 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
 | 30 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 31 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
 | 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 33 | [El Lic](http://twitter.com/search?q=El+Lic) | N/A |
-| 34 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 35 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 37 | [vocal king i.n day](http://twitter.com/search?q=vocal+king+i.n+day) | N/A |
-| 38 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 39 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
-| 40 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
+| 34 | [#ClubWC](http://twitter.com/search?q=%23ClubWC) | N/A |
+| 35 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 36 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 38 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 39 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 40 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
 | 41 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
-| 42 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 43 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
-| 44 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 47 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 48 | [Ósea](http://twitter.com/search?q=%c3%93sea) | N/A |
-| 49 | [La U](http://twitter.com/search?q=La+U) | N/A |
-| 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 42 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
+| 43 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 44 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
+| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 49 | [Ósea](http://twitter.com/search?q=%c3%93sea) | N/A |
+| 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 
 
 

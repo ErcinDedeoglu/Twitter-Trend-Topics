@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-09 13:20:00 UTC`
+📆 Last Updated: `2023-02-09 14:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,47 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 2 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 1 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 2 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
 | 3 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 5 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
-| 6 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
-| 7 | [#SuperLega](http://twitter.com/search?q=%23SuperLega) | N/A |
-| 8 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
-| 9 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 10 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 11 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 12 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 5 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 6 | [#Sanreno2023](http://twitter.com/search?q=%23Sanreno2023) | N/A |
+| 7 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
+| 8 | [#Superlega](http://twitter.com/search?q=%23Superlega) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 11 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 12 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
 | 13 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 14 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
-| 15 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 16 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 17 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 14 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 15 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 16 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 17 | [Tango](http://twitter.com/search?q=Tango) | N/A |
 | 18 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 19 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 20 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
-| 21 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 22 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 23 | [Paola & Chiara](http://twitter.com/search?q=Paola+%26+Chiara) | N/A |
-| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 25 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
-| 26 | [Libertà](http://twitter.com/search?q=Libert%c3%a0) | N/A |
-| 27 | [Siena](http://twitter.com/search?q=Siena) | N/A |
-| 28 | [#Sanreno2023](http://twitter.com/search?q=%23Sanreno2023) | N/A |
-| 29 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 30 | [#foibe](http://twitter.com/search?q=%23foibe) | N/A |
-| 31 | [#Scholz](http://twitter.com/search?q=%23Scholz) | N/A |
-| 32 | [#Draghi](http://twitter.com/search?q=%23Draghi) | N/A |
-| 33 | [#angeloduro](http://twitter.com/search?q=%23angeloduro) | N/A |
-| 34 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 35 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 36 | [#LaGioiaDiScrivere](http://twitter.com/search?q=%23LaGioiaDiScrivere) | N/A |
-| 37 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
-| 38 | [#SanValentino](http://twitter.com/search?q=%23SanValentino) | N/A |
+| 19 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 20 | [Furore](http://twitter.com/search?q=Furore) | N/A |
+| 21 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 22 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
+| 23 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 24 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 25 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 27 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 28 | [Libertà](http://twitter.com/search?q=Libert%c3%a0) | N/A |
+| 29 | [Siena](http://twitter.com/search?q=Siena) | N/A |
+| 30 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 31 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 32 | [#foibe](http://twitter.com/search?q=%23foibe) | N/A |
+| 33 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 34 | [#ColapesceDimartino](http://twitter.com/search?q=%23ColapesceDimartino) | N/A |
+| 35 | [#angeloduro](http://twitter.com/search?q=%23angeloduro) | N/A |
+| 36 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
+| 37 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 38 | [#LaGioiaDiScrivere](http://twitter.com/search?q=%23LaGioiaDiScrivere) | N/A |
+| 39 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 40 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
+| 41 | [#SanValentino](http://twitter.com/search?q=%23SanValentino) | N/A |
 
 
 

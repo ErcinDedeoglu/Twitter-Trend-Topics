@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-09 13:20:38 UTC`
+📆 Last Updated: `2023-02-09 14:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,43 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#مار_مارون](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%b1_%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
-| 2 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 3 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
-| 4 | [ايلي لحود](http://twitter.com/search?q=%d8%a7%d9%8a%d9%84%d9%8a+%d9%84%d8%ad%d9%88%d8%af) | N/A |
-| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 6 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
+| 1 | [#عد_عيناك](http://twitter.com/search?q=%23%d8%b9%d8%af_%d8%b9%d9%8a%d9%86%d8%a7%d9%83) | N/A |
+| 2 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 3 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 4 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
+| 5 | [ايلي لحود](http://twitter.com/search?q=%d8%a7%d9%8a%d9%84%d9%8a+%d9%84%d8%ad%d9%88%d8%af) | N/A |
+| 6 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 | 7 | [#هزه_الارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 8 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 9 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 10 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
-| 11 | [#قيصر_يمنع_الانقاذ](http://twitter.com/search?q=%23%d9%82%d9%8a%d8%b5%d8%b1_%d9%8a%d9%85%d9%86%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0) | N/A |
-| 12 | [الهزات الخفيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%81%d9%8a%d9%81%d9%87) | N/A |
-| 13 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 8 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
+| 9 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 10 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 11 | [الهزات الخفيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%81%d9%8a%d9%81%d9%87) | N/A |
+| 12 | [#قيصر_يمنع_الانقاذ](http://twitter.com/search?q=%23%d9%82%d9%8a%d8%b5%d8%b1_%d9%8a%d9%85%d9%86%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0) | N/A |
+| 13 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
 | 14 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 15 | [طوني نمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d9%86%d9%85%d8%b1) | N/A |
-| 16 | [جنوب الهرمل](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d9%87%d8%b1%d9%85%d9%84) | N/A |
-| 17 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
-| 18 | [فريق الانقاذ اللبناني](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 19 | [الباحث الجيولوجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d8%ab+%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d9%84%d9%88%d8%ac%d9%8a) | N/A |
-| 20 | [المناطق اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 21 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 22 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 23 | [رضوان مرتضى](http://twitter.com/search?q=%d8%b1%d8%b6%d9%88%d8%a7%d9%86+%d9%85%d8%b1%d8%aa%d8%b6%d9%89) | N/A |
-| 24 | [الوفد الوزاري اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 25 | [8 شباط 2023](http://twitter.com/search?q=8+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 26 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 27 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 28 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 29 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 30 | [باسل حبقوق](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%84+%d8%ad%d8%a8%d9%82%d9%88%d9%82) | N/A |
-| 31 | [شاب سوري](http://twitter.com/search?q=%d8%b4%d8%a7%d8%a8+%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 32 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 33 | [علي الانتحار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d8%b1) | N/A |
-| 34 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 35 | [ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 36 | [فيصل المقداد](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%a7%d8%af) | N/A |
-| 37 | [جبران باسيل](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86+%d8%a8%d8%a7%d8%b3%d9%8a%d9%84) | N/A |
+| 15 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 16 | [طوني نمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d9%86%d9%85%d8%b1) | N/A |
+| 17 | [جنوب الهرمل](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d9%87%d8%b1%d9%85%d9%84) | N/A |
+| 18 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
+| 19 | [رضوان مرتضى](http://twitter.com/search?q=%d8%b1%d8%b6%d9%88%d8%a7%d9%86+%d9%85%d8%b1%d8%aa%d8%b6%d9%89) | N/A |
+| 20 | [فريق الانقاذ اللبناني](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [الباحث الجيولوجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d8%ab+%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d9%84%d9%88%d8%ac%d9%8a) | N/A |
+| 22 | [المناطق اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 23 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 24 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 25 | [الوفد الوزاري اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 26 | [8 شباط 2023](http://twitter.com/search?q=8+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
+| 27 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 28 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 29 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 30 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 31 | [باسل حبقوق](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%84+%d8%ad%d8%a8%d9%82%d9%88%d9%82) | N/A |
+| 32 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 33 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 34 | [علي الانتحار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ad%d8%a7%d8%b1) | N/A |
+| 35 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 36 | [ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 37 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
 | 38 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 39 | [حزب القوات](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a8+%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa) | N/A |
 | 40 | [الاخبار الكاذبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%83%d8%a7%d8%b0%d8%a8%d9%87) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for Lebanon
 | 42 | [فوج الهندسه](http://twitter.com/search?q=%d9%81%d9%88%d8%ac+%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%87) | N/A |
 | 43 | [ايا صوفيا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%b5%d9%88%d9%81%d9%8a%d8%a7) | N/A |
 | 44 | [Mantle](http://twitter.com/search?q=Mantle) | N/A |
-| 45 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 46 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 47 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 48 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 45 | [الاراضي السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 46 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 47 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 48 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
 | 49 | [سيده النجاه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
 | 50 | [الرييس الاسد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 

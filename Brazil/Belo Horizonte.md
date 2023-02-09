@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-09 13:19:53 UTC`
+📆 Last Updated: `2023-02-09 14:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 6 | [#DAOMaker](http://twitter.com/search?q=%23DAOMaker) | N/A |
+| 1 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 2 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 3 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
+| 4 | [#DAOḾaker](http://twitter.com/search?q=%23DAO%e1%b8%beaker) | N/A |
+| 5 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 6 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
 | 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 8 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
-| 9 | [moni](http://twitter.com/search?q=moni) | N/A |
-| 10 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 11 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 12 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 13 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 14 | [#ทฤษฎีสีชมพูxWINKWHITE](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xWINKWHITE) | N/A |
-| 15 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 9 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 10 | [#ทฤษฎีสีชมพูxWINKWHITE](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9xWINKWHITE) | N/A |
+| 11 | [Moni](http://twitter.com/search?q=Moni) | N/A |
+| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 14 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
+| 15 | [takuto](http://twitter.com/search?q=takuto) | N/A |
 | 16 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 17 | [#enem2022](http://twitter.com/search?q=%23enem2022) | N/A |
-| 18 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 19 | [R$7,40](http://twitter.com/search?q=R%247%2c40) | N/A |
-| 20 | [#BOYSPLANETep2](http://twitter.com/search?q=%23BOYSPLANETep2) | N/A |
-| 21 | [#MoonlightChickenEP2](http://twitter.com/search?q=%23MoonlightChickenEP2) | N/A |
-| 22 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 23 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 24 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 25 | [Pacto](http://twitter.com/search?q=Pacto) | N/A |
-| 26 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 27 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 28 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 29 | [Frevo](http://twitter.com/search?q=Frevo) | N/A |
-| 30 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 31 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 32 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 33 | [Redação](http://twitter.com/search?q=Reda%c3%a7%c3%a3o) | N/A |
-| 34 | [Juliano Gaspar](http://twitter.com/search?q=Juliano+Gaspar) | N/A |
-| 35 | [Samus](http://twitter.com/search?q=Samus) | N/A |
-| 36 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 17 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 18 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 19 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 20 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 21 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 22 | [Kuscevic](http://twitter.com/search?q=Kuscevic) | N/A |
+| 23 | [#enem2022](http://twitter.com/search?q=%23enem2022) | N/A |
+| 24 | [R$7,40](http://twitter.com/search?q=R%247%2c40) | N/A |
+| 25 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 26 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 27 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 28 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 29 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 30 | [Nero](http://twitter.com/search?q=Nero) | N/A |
+| 31 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 32 | [Frevo](http://twitter.com/search?q=Frevo) | N/A |
+| 33 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 34 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 35 | [Bemol](http://twitter.com/search?q=Bemol) | N/A |
+| 36 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
 | 37 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 38 | [Emas](http://twitter.com/search?q=Emas) | N/A |
-| 39 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
-| 40 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 41 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
-| 42 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 43 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 44 | [Noitada](http://twitter.com/search?q=Noitada) | N/A |
-| 45 | [Ibama](http://twitter.com/search?q=Ibama) | N/A |
-| 46 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 48 | [matos](http://twitter.com/search?q=matos) | N/A |
-| 49 | [Allan dos Santos](http://twitter.com/search?q=Allan+dos+Santos) | N/A |
-| 50 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 38 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 39 | [Emas](http://twitter.com/search?q=Emas) | N/A |
+| 40 | [Juliano Gaspar](http://twitter.com/search?q=Juliano+Gaspar) | N/A |
+| 41 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 42 | [Redação](http://twitter.com/search?q=Reda%c3%a7%c3%a3o) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Lea Maria](http://twitter.com/search?q=Lea+Maria) | N/A |
+| 45 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 46 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 47 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 48 | [Samus](http://twitter.com/search?q=Samus) | N/A |
+| 49 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 50 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-09 13:20:19 UTC`
+📆 Last Updated: `2023-02-09 14:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
 | 2 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 3 | [#ہزارہ_کی_آواز_مریم_نواز](http://twitter.com/search?q=%23%db%81%d8%b2%d8%a7%d8%b1%db%81_%da%a9%db%8c_%d8%a2%d9%88%d8%a7%d8%b2_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
-| 4 | [#ShadabKhan](http://twitter.com/search?q=%23ShadabKhan) | N/A |
-| 5 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 6 | [Fawad khan](http://twitter.com/search?q=Fawad+khan) | N/A |
-| 7 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 9 | [World Premiere](http://twitter.com/search?q=World+Premiere) | N/A |
-| 10 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 11 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 13 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 14 | [gillette](http://twitter.com/search?q=gillette) | N/A |
-| 15 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 16 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
+| 3 | [#ShadabKhan](http://twitter.com/search?q=%23ShadabKhan) | N/A |
+| 4 | [#ہزارہ_کی_آواز_مریم_نواز](http://twitter.com/search?q=%23%db%81%d8%b2%d8%a7%d8%b1%db%81_%da%a9%db%8c_%d8%a2%d9%88%d8%a7%d8%b2_%d9%85%d8%b1%db%8c%d9%85_%d9%86%d9%88%d8%a7%d8%b2) | N/A |
+| 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 6 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 7 | [fawad khan](http://twitter.com/search?q=fawad+khan) | N/A |
+| 8 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 10 | [World Premiere](http://twitter.com/search?q=World+Premiere) | N/A |
+| 11 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 12 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 13 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 14 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 15 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 16 | [Gillette](http://twitter.com/search?q=Gillette) | N/A |
 | 17 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 18 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 19 | [from pakistan](http://twitter.com/search?q=from+pakistan) | N/A |
-| 20 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 21 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 22 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 23 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
-| 24 | [Chahat Fateh Ali Khan](http://twitter.com/search?q=Chahat+Fateh+Ali+Khan) | N/A |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [sphf](http://twitter.com/search?q=sphf) | N/A |
-| 27 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
-| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 29 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 30 | [thugs of pakistan](http://twitter.com/search?q=thugs+of+pakistan) | N/A |
-| 31 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
-| 32 | [asim abbasi](http://twitter.com/search?q=asim+abbasi) | N/A |
-| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 34 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
-| 35 | [Anger](http://twitter.com/search?q=Anger) | Anger is a strong emotion characterized by feelings of hostility, agitation, and resentment. It is often associated with aggressive behavior and can be caused by a variety of factors, including frustration, fear, injustice, or hurt. |
-| 36 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
-| 37 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 38 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 39 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
-| 40 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 18 | [Chahat Fateh Ali Khan](http://twitter.com/search?q=Chahat+Fateh+Ali+Khan) | N/A |
+| 19 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 20 | [steve smith](http://twitter.com/search?q=steve+smith) | N/A |
+| 21 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 22 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 24 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 25 | [From Pakistan](http://twitter.com/search?q=From+Pakistan) | N/A |
+| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 27 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 28 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
+| 29 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 30 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
+| 31 | [asim abbasi](http://twitter.com/search?q=asim+abbasi) | N/A |
+| 32 | [Anger](http://twitter.com/search?q=Anger) | Anger is a strong emotion characterized by feelings of hostility, agitation, and resentment. It is often associated with aggressive behavior and can be caused by a variety of factors, including frustration, fear, injustice, or hurt. |
+| 33 | [shameless](http://twitter.com/search?q=shameless) | N/A |
+| 34 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
+| 35 | [pakistan super league](http://twitter.com/search?q=pakistan+super+league) | N/A |
+| 36 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 37 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 38 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 39 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 40 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
 | 41 | [Pure](http://twitter.com/search?q=Pure) | N/A |
-| 42 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 43 | [Sirf](http://twitter.com/search?q=Sirf) | N/A |
-| 44 | [asad](http://twitter.com/search?q=asad) | N/A |
-| 45 | [Lays](http://twitter.com/search?q=Lays) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Cricket](http://twitter.com/search?q=Cricket) | N/A |
-| 48 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 49 | [Pakistan Super League](http://twitter.com/search?q=Pakistan+Super+League) | N/A |
+| 42 | [sirf](http://twitter.com/search?q=sirf) | N/A |
+| 43 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 44 | [Lays](http://twitter.com/search?q=Lays) | N/A |
+| 45 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 46 | [Asad umar](http://twitter.com/search?q=Asad+umar) | N/A |
+| 47 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 48 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 49 | [Haseen](http://twitter.com/search?q=Haseen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-09 13:20:23 UTC`
+📆 Last Updated: `2023-02-09 14:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [#gemilerinizbatsın](http://twitter.com/search?q=%23gemilerinizbats%c4%b1n) | N/A |
 | 5 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
 | 6 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
-| 7 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 8 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
-| 9 | [Galip](http://twitter.com/search?q=Galip) | N/A |
-| 10 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 7 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 8 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
+| 9 | [11 Şubat](http://twitter.com/search?q=11+%c5%9eubat) | N/A |
+| 10 | [HatayDörtyola AcilEkip](http://twitter.com/search?q=HatayD%c3%b6rtyola+AcilEkip) | N/A |
 | 11 | [İngiltere](http://twitter.com/search?q=%c4%b0ngiltere) | N/A |
-| 12 | [Hazal](http://twitter.com/search?q=Hazal) | N/A |
-| 13 | [DepremBölgelerine TermalKamera](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TermalKamera) | N/A |
-| 14 | [NazlıVarışa AcilYardım](http://twitter.com/search?q=Nazl%c4%b1Var%c4%b1%c5%9fa+AcilYard%c4%b1m) | N/A |
-| 15 | [11 Şubat](http://twitter.com/search?q=11+%c5%9eubat) | N/A |
-| 16 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 17 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 18 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
-| 19 | [Nicolo Zaniolo](http://twitter.com/search?q=Nicolo+Zaniolo) | N/A |
-| 20 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 21 | [DepremBölgelerine KefenLazım](http://twitter.com/search?q=DepremB%c3%b6lgelerine+KefenLaz%c4%b1m) | N/A |
-| 22 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
-| 23 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 24 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 25 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
-| 26 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 27 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
-| 28 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
-| 29 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 30 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
-| 31 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 32 | [Halk](http://twitter.com/search?q=Halk) | N/A |
-| 33 | [DepremBölgesinde Çadırİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesinde+%c3%87ad%c4%b1r%c4%b0htiyac%c4%b1) | N/A |
-| 34 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 35 | [Bira](http://twitter.com/search?q=Bira) | N/A |
-| 36 | [DepremBölgelerine SuDesteği](http://twitter.com/search?q=DepremB%c3%b6lgelerine+SuDeste%c4%9fi) | N/A |
-| 37 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
-| 38 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 39 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 40 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 41 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 42 | [Şovu](http://twitter.com/search?q=%c5%9eovu) | N/A |
-| 43 | [Annesinin](http://twitter.com/search?q=Annesinin) | N/A |
-| 44 | [Server Beşirli](http://twitter.com/search?q=Server+Be%c5%9firli) | N/A |
-| 45 | [Asıl](http://twitter.com/search?q=As%c4%b1l) | N/A |
-| 46 | [Aynaya](http://twitter.com/search?q=Aynaya) | N/A |
-| 47 | [Devamını](http://twitter.com/search?q=Devam%c4%b1n%c4%b1) | N/A |
-| 48 | [9 Şubat](http://twitter.com/search?q=9+%c5%9eubat) | N/A |
-| 49 | [Oradaki](http://twitter.com/search?q=Oradaki) | N/A |
+| 12 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 13 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 14 | [Galip](http://twitter.com/search?q=Galip) | N/A |
+| 15 | [Hazal](http://twitter.com/search?q=Hazal) | N/A |
+| 16 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 17 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
+| 18 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 19 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 20 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
+| 21 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
+| 22 | [Nicolo Zaniolo](http://twitter.com/search?q=Nicolo+Zaniolo) | N/A |
+| 23 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
+| 24 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 25 | [DepremBölgelerine KefenLazım](http://twitter.com/search?q=DepremB%c3%b6lgelerine+KefenLaz%c4%b1m) | N/A |
+| 26 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 27 | [Ruslar Maraş'ta](http://twitter.com/search?q=Ruslar+Mara%c5%9f%27ta) | N/A |
+| 28 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 29 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 30 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 31 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
+| 32 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
+| 33 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 34 | [NazlıVarışa AcilYardım](http://twitter.com/search?q=Nazl%c4%b1Var%c4%b1%c5%9fa+AcilYard%c4%b1m) | N/A |
+| 35 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
+| 36 | [Halk](http://twitter.com/search?q=Halk) | N/A |
+| 37 | [DepremBölgesinde Çadırİhtiyacı](http://twitter.com/search?q=DepremB%c3%b6lgesinde+%c3%87ad%c4%b1r%c4%b0htiyac%c4%b1) | N/A |
+| 38 | [DepremBölgelerine SuDesteği](http://twitter.com/search?q=DepremB%c3%b6lgelerine+SuDeste%c4%9fi) | N/A |
+| 39 | [Annesinin](http://twitter.com/search?q=Annesinin) | N/A |
+| 40 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 41 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
+| 42 | [şovun](http://twitter.com/search?q=%c5%9fovun) | N/A |
+| 43 | [Bira](http://twitter.com/search?q=Bira) | N/A |
+| 44 | [Macar](http://twitter.com/search?q=Macar) | N/A |
+| 45 | [9 Şubat](http://twitter.com/search?q=9+%c5%9eubat) | N/A |
+| 46 | [Server Beşirli](http://twitter.com/search?q=Server+Be%c5%9firli) | N/A |
+| 47 | [efes](http://twitter.com/search?q=efes) | N/A |
+| 48 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 49 | [Aynaya](http://twitter.com/search?q=Aynaya) | N/A |
 
 
 

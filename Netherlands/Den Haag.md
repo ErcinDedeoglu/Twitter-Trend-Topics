@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-09 13:20:00 UTC`
+📆 Last Updated: `2023-02-09 14:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 7 | [#violet](http://twitter.com/search?q=%23violet) | N/A |
 | 8 | [Statenleden van Forum](http://twitter.com/search?q=Statenleden+van+Forum) | N/A |
 | 9 | [Els Borst](http://twitter.com/search?q=Els+Borst) | N/A |
-| 10 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
-| 11 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 12 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 13 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 14 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 16 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 17 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
-| 18 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 19 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 21 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 22 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 23 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
-| 24 | [Tippz](http://twitter.com/search?q=Tippz) | N/A |
-| 25 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 10 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 11 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 12 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | N/A |
+| 13 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 14 | [hartman](http://twitter.com/search?q=hartman) | N/A |
+| 15 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 16 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [Branderhorst](http://twitter.com/search?q=Branderhorst) | N/A |
+| 20 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 21 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 22 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 23 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 24 | [Proton VPN](http://twitter.com/search?q=Proton+VPN) | N/A |
+| 25 | [tippz](http://twitter.com/search?q=tippz) | N/A |
 | 26 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 27 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 28 | [Stel](http://twitter.com/search?q=Stel) | N/A |
-| 29 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 30 | [spakenburg](http://twitter.com/search?q=spakenburg) | N/A |
-| 31 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 27 | [Stel](http://twitter.com/search?q=Stel) | N/A |
+| 28 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
+| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 30 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 31 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 32 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 33 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 33 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 | 34 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 35 | [Turkse](http://twitter.com/search?q=Turkse) | N/A |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [Dag 9](http://twitter.com/search?q=Dag+9) | N/A |
-| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 39 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 40 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
-| 41 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 42 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 43 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
-| 44 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
-| 45 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 46 | [Oever](http://twitter.com/search?q=Oever) | N/A |
-| 47 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 48 | [Jorritsma](http://twitter.com/search?q=Jorritsma) | N/A |
-| 49 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 35 | [Dag 9](http://twitter.com/search?q=Dag+9) | N/A |
+| 36 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 38 | [cillessen](http://twitter.com/search?q=cillessen) | N/A |
+| 39 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 40 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 41 | [Farmers Defence Force](http://twitter.com/search?q=Farmers+Defence+Force) | N/A |
+| 42 | [Oever](http://twitter.com/search?q=Oever) | N/A |
+| 43 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 44 | [Jorritsma](http://twitter.com/search?q=Jorritsma) | N/A |
+| 45 | [Feyenoorder](http://twitter.com/search?q=Feyenoorder) | N/A |
+| 46 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 47 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
+| 48 | [Matrix](http://twitter.com/search?q=Matrix) | N/A |
+| 49 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 
 
 

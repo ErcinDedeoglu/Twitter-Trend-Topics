@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-02-09 13:19:46 UTC`
+📆 Last Updated: `2023-02-09 14:15:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WCBP23](http://twitter.com/search?q=%23WCBP23) | N/A |
-| 2 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
-| 3 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
-| 4 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 6 | [#SkillsForLife](http://twitter.com/search?q=%23SkillsForLife) | N/A |
-| 7 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 8 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 9 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 10 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 11 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 12 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 13 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 14 | [Sixways Rugby](http://twitter.com/search?q=Sixways+Rugby) | N/A |
-| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
-| 17 | [Death Penalty](http://twitter.com/search?q=Death+Penalty) | N/A |
-| 18 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 19 | [mcdonnell](http://twitter.com/search?q=mcdonnell) | N/A |
-| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 21 | [Verity](http://twitter.com/search?q=Verity) | N/A |
-| 22 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 1 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 2 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 3 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 4 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 6 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 8 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 11 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 12 | [Sixways Rugby](http://twitter.com/search?q=Sixways+Rugby) | N/A |
+| 13 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 14 | [Stourbridge](http://twitter.com/search?q=Stourbridge) | N/A |
+| 15 | [Death Penalty](http://twitter.com/search?q=Death+Penalty) | N/A |
+| 16 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 17 | [Former Labour MP](http://twitter.com/search?q=Former+Labour+MP) | N/A |
+| 18 | [mcdonnell](http://twitter.com/search?q=mcdonnell) | N/A |
+| 19 | [T Levels](http://twitter.com/search?q=T+Levels) | N/A |
+| 20 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 22 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 23 | [Timothy Evans](http://twitter.com/search?q=Timothy+Evans) | N/A |
-| 24 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 25 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
-| 26 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 27 | [DC Thomson](http://twitter.com/search?q=DC+Thomson) | N/A |
+| 24 | [Verity](http://twitter.com/search?q=Verity) | N/A |
+| 25 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 26 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 27 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
 | 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 29 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 30 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 31 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
-| 32 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 34 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 29 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
+| 30 | [Former MP](http://twitter.com/search?q=Former+MP) | N/A |
+| 31 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 32 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 33 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 34 | [New Tory](http://twitter.com/search?q=New+Tory) | N/A |
 | 35 | [Deputy Chair](http://twitter.com/search?q=Deputy+Chair) | N/A |
-| 36 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 37 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 38 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 39 | [Priti Patel](http://twitter.com/search?q=Priti+Patel) | N/A |
-| 40 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 42 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 43 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 45 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 46 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
-| 47 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 48 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 49 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 36 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 39 | [Jim Spence](http://twitter.com/search?q=Jim+Spence) | N/A |
+| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 42 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 43 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 44 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 45 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 46 | [Priti Patel](http://twitter.com/search?q=Priti+Patel) | N/A |
+| 47 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 48 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 49 | [The Sopranos](http://twitter.com/search?q=The+Sopranos) | N/A |
 
 
 

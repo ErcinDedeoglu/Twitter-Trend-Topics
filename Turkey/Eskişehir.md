@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-09 13:20:24 UTC`
+📆 Last Updated: `2023-02-09 14:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 5 | [#starbucksBoykot](http://twitter.com/search?q=%23starbucksBoykot) | N/A |
 | 6 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
 | 7 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
-| 8 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 9 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
-| 10 | [Galip](http://twitter.com/search?q=Galip) | N/A |
-| 11 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
-| 12 | [İngiltere](http://twitter.com/search?q=%c4%b0ngiltere) | N/A |
-| 13 | [NazlıVarışa AcilYardım](http://twitter.com/search?q=Nazl%c4%b1Var%c4%b1%c5%9fa+AcilYard%c4%b1m) | N/A |
+| 8 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 9 | [11 Şubat](http://twitter.com/search?q=11+%c5%9eubat) | N/A |
+| 10 | [HatayDörtyola AcilEkip](http://twitter.com/search?q=HatayD%c3%b6rtyola+AcilEkip) | N/A |
+| 11 | [İngiltere](http://twitter.com/search?q=%c4%b0ngiltere) | N/A |
+| 12 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 13 | [Galip](http://twitter.com/search?q=Galip) | N/A |
 | 14 | [Hazal](http://twitter.com/search?q=Hazal) | N/A |
-| 15 | [11 Şubat](http://twitter.com/search?q=11+%c5%9eubat) | N/A |
-| 16 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 17 | [Nicolo Zaniolo](http://twitter.com/search?q=Nicolo+Zaniolo) | N/A |
-| 18 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 15 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 16 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
+| 17 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 18 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
 | 19 | [Üyeliğimi](http://twitter.com/search?q=%c3%9cyeli%c4%9fimi) | N/A |
-| 20 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 21 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 22 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
-| 23 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 24 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
-| 25 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
-| 26 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 27 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
-| 28 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 29 | [Halk](http://twitter.com/search?q=Halk) | N/A |
-| 30 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 31 | [Bira](http://twitter.com/search?q=Bira) | N/A |
-| 32 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
+| 20 | [Nicolo Zaniolo](http://twitter.com/search?q=Nicolo+Zaniolo) | N/A |
+| 21 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 22 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
+| 23 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 24 | [Ruslar Maraş'ta](http://twitter.com/search?q=Ruslar+Mara%c5%9f%27ta) | N/A |
+| 25 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 26 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 27 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 28 | [Selçuk](http://twitter.com/search?q=Sel%c3%a7uk) | N/A |
+| 29 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 30 | [NazlıVarışa AcilYardım](http://twitter.com/search?q=Nazl%c4%b1Var%c4%b1%c5%9fa+AcilYard%c4%b1m) | N/A |
+| 31 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
+| 32 | [Halk](http://twitter.com/search?q=Halk) | N/A |
 | 33 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 34 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 35 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 36 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 37 | [Şovu](http://twitter.com/search?q=%c5%9eovu) | N/A |
-| 38 | [Annesinin](http://twitter.com/search?q=Annesinin) | N/A |
-| 39 | [Server Beşirli](http://twitter.com/search?q=Server+Be%c5%9firli) | N/A |
-| 40 | [Asıl](http://twitter.com/search?q=As%c4%b1l) | N/A |
-| 41 | [Aynaya](http://twitter.com/search?q=Aynaya) | N/A |
-| 42 | [Devamını](http://twitter.com/search?q=Devam%c4%b1n%c4%b1) | N/A |
-| 43 | [9 Şubat](http://twitter.com/search?q=9+%c5%9eubat) | N/A |
-| 44 | [Oradaki](http://twitter.com/search?q=Oradaki) | N/A |
-| 45 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 46 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 47 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 48 | [Bugün 4](http://twitter.com/search?q=Bug%c3%bcn+4) | N/A |
-| 49 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 50 | [Ağzına](http://twitter.com/search?q=A%c4%9fz%c4%b1na) | N/A |
+| 34 | [Annesinin](http://twitter.com/search?q=Annesinin) | N/A |
+| 35 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 36 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
+| 37 | [şovun](http://twitter.com/search?q=%c5%9fovun) | N/A |
+| 38 | [Bira](http://twitter.com/search?q=Bira) | N/A |
+| 39 | [9 Şubat](http://twitter.com/search?q=9+%c5%9eubat) | N/A |
+| 40 | [Server Beşirli](http://twitter.com/search?q=Server+Be%c5%9firli) | N/A |
+| 41 | [efes](http://twitter.com/search?q=efes) | N/A |
+| 42 | [Macar](http://twitter.com/search?q=Macar) | N/A |
+| 43 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 44 | [Aynaya](http://twitter.com/search?q=Aynaya) | N/A |
+| 45 | [Katar](http://twitter.com/search?q=Katar) | N/A |
+| 46 | [Ağzına](http://twitter.com/search?q=A%c4%9fz%c4%b1na) | N/A |
+| 47 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 48 | [Rönesans](http://twitter.com/search?q=R%c3%b6nesans) | N/A |
+| 49 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
+| 50 | [Oradaki](http://twitter.com/search?q=Oradaki) | N/A |
 
 
 
