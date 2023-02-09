@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-02-09 11:15:55 UTC`
+📆 Last Updated: `2023-02-09 12:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#本名にかすってもないのについたあだ名](http://twitter.com/search?q=%23%e6%9c%ac%e5%90%8d%e3%81%ab%e3%81%8b%e3%81%99%e3%81%a3%e3%81%a6%e3%82%82%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%9f%e3%81%82%e3%81%a0%e5%90%8d) | N/A |
-| 2 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
-| 3 | [#せきねもんのバレンタイン](http://twitter.com/search?q=%23%e3%81%9b%e3%81%8d%e3%81%ad%e3%82%82%e3%82%93%e3%81%ae%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
-| 4 | [#世界樹生放送](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e6%a8%b9%e7%94%9f%e6%94%be%e9%80%81) | N/A |
-| 5 | [ハガレンコラボ](http://twitter.com/search?q=%e3%83%8f%e3%82%ac%e3%83%ac%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 6 | [風船マウント](http://twitter.com/search?q=%e9%a2%a8%e8%88%b9%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
-| 7 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
-| 8 | [Revo](http://twitter.com/search?q=Revo) | N/A |
-| 9 | [平子さん](http://twitter.com/search?q=%e5%b9%b3%e5%ad%90%e3%81%95%e3%82%93) | "平子さん" is a Japanese honorific title used to refer to someone with the surname "Hirako". It is roughly equivalent to "Mr. Hirako" in English. |
-| 10 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
-| 11 | [ラケット](http://twitter.com/search?q=%e3%83%a9%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 12 | [清楚系ギャル](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a%e7%b3%bb%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
-| 13 | [清楚50](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a50) | N/A |
+| 1 | [#LBレコード](http://twitter.com/search?q=%23LB%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
+| 2 | [#本名にかすってもないのについたあだ名](http://twitter.com/search?q=%23%e6%9c%ac%e5%90%8d%e3%81%ab%e3%81%8b%e3%81%99%e3%81%a3%e3%81%a6%e3%82%82%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%9f%e3%81%82%e3%81%a0%e5%90%8d) | N/A |
+| 3 | [#世界樹生放送](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e6%a8%b9%e7%94%9f%e6%94%be%e9%80%81) | N/A |
+| 4 | [#せきねもんのバレンタイン](http://twitter.com/search?q=%23%e3%81%9b%e3%81%8d%e3%81%ad%e3%82%82%e3%82%93%e3%81%ae%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | N/A |
+| 5 | [星川ソロライブ](http://twitter.com/search?q=%e6%98%9f%e5%b7%9d%e3%82%bd%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 6 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
+| 7 | [バイバイ黒髪](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e9%bb%92%e9%ab%aa) | N/A |
+| 8 | [ラケット](http://twitter.com/search?q=%e3%83%a9%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 9 | [風船マウント](http://twitter.com/search?q=%e9%a2%a8%e8%88%b9%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
+| 10 | [ハガレンコラボ](http://twitter.com/search?q=%e3%83%8f%e3%82%ac%e3%83%ac%e3%83%b3%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 11 | [Revo](http://twitter.com/search?q=Revo) | N/A |
+| 12 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
+| 13 | [清楚系ギャル](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a%e7%b3%bb%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
 | 14 | [ギャルさと清楚さ](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e3%81%95%e3%81%a8%e6%b8%85%e6%a5%9a%e3%81%95) | N/A |
-| 15 | [ギャル度50](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e5%ba%a650) | N/A |
-| 16 | [Want You](http://twitter.com/search?q=Want+You) | N/A |
-| 17 | [サンホラ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9b%e3%83%a9) | N/A |
-| 18 | [能楽関係者](http://twitter.com/search?q=%e8%83%bd%e6%a5%bd%e9%96%a2%e4%bf%82%e8%80%85) | N/A |
-| 19 | [炎上覚悟の投稿](http://twitter.com/search?q=%e7%82%8e%e4%b8%8a%e8%a6%9a%e6%82%9f%e3%81%ae%e6%8a%95%e7%a8%bf) | N/A |
-| 20 | [ブルムン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%a0%e3%83%b3) | N/A |
-| 21 | [女性社長](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e7%a4%be%e9%95%b7) | N/A |
-| 22 | [中小企業の切実事情](http://twitter.com/search?q=%e4%b8%ad%e5%b0%8f%e4%bc%81%e6%a5%ad%e3%81%ae%e5%88%87%e5%ae%9f%e4%ba%8b%e6%83%85) | N/A |
-| 23 | [圧倒的ギャル](http://twitter.com/search?q=%e5%9c%a7%e5%80%92%e7%9a%84%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
-| 24 | [清楚80](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a80) | N/A |
-| 25 | [緊急発表](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e7%99%ba%e8%a1%a8) | 緊急発表 is a Japanese phrase that translates to "emergency announcement". It is used to describe an announcement that is made in response to an urgent situation. |
-| 26 | [森久保さん](http://twitter.com/search?q=%e6%a3%ae%e4%b9%85%e4%bf%9d%e3%81%95%e3%82%93) | N/A |
-| 27 | [清楚20](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a20) | N/A |
-| 28 | [ブイくん](http://twitter.com/search?q=%e3%83%96%e3%82%a4%e3%81%8f%e3%82%93) | N/A |
-| 29 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 30 | [異常性癖](http://twitter.com/search?q=%e7%95%b0%e5%b8%b8%e6%80%a7%e7%99%96) | N/A |
-| 31 | [大雪予報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e4%ba%88%e5%a0%b1) | N/A |
-| 32 | [たれぱんだ](http://twitter.com/search?q=%e3%81%9f%e3%82%8c%e3%81%b1%e3%82%93%e3%81%a0) | N/A |
-| 33 | [福井県池田町の担当者](http://twitter.com/search?q=%e7%a6%8f%e4%ba%95%e7%9c%8c%e6%b1%a0%e7%94%b0%e7%94%ba%e3%81%ae%e6%8b%85%e5%bd%93%e8%80%85) | N/A |
-| 34 | [ブイちゃん](http://twitter.com/search?q=%e3%83%96%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [サクラコ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%82%b3) | N/A |
-| 36 | [ノーマルタイヤ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a4) | ノーマルタイヤ (Nōmaru taiya) is a Japanese term for regular tires. It is used to refer to tires that are not specialized for any particular purpose, such as off-road or racing tires. In English, it can be translated as "normal tires". |
-| 37 | [佐賀記念](http://twitter.com/search?q=%e4%bd%90%e8%b3%80%e8%a8%98%e5%bf%b5) | N/A |
-| 38 | [札付きのギャル](http://twitter.com/search?q=%e6%9c%ad%e4%bb%98%e3%81%8d%e3%81%ae%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
-| 39 | [美怜ちゃん](http://twitter.com/search?q=%e7%be%8e%e6%80%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [生粋のギャル](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
-| 41 | [凛の謎解き成功](http://twitter.com/search?q=%e5%87%9b%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 42 | [ギャル度100](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e5%ba%a6100) | N/A |
-| 43 | [タオルパーカー](http://twitter.com/search?q=%e3%82%bf%e3%82%aa%e3%83%ab%e3%83%91%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 44 | [エムカ1位](http://twitter.com/search?q=%e3%82%a8%e3%83%a0%e3%82%ab1%e4%bd%8d) | N/A |
-| 45 | [森久保祥太郎](http://twitter.com/search?q=%e6%a3%ae%e4%b9%85%e4%bf%9d%e7%a5%a5%e5%a4%aa%e9%83%8e) | N/A |
-| 46 | [水着イズナ](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%a4%e3%82%ba%e3%83%8a) | N/A |
-| 47 | [友崎くん](http://twitter.com/search?q=%e5%8f%8b%e5%b4%8e%e3%81%8f%e3%82%93) | N/A |
-| 48 | [ファユム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%a6%e3%83%a0) | N/A |
-| 49 | [清楚100](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a100) | N/A |
+| 15 | [だてラウ](http://twitter.com/search?q=%e3%81%a0%e3%81%a6%e3%83%a9%e3%82%a6) | だてラウ is a Japanese phrase that literally translates to "I'm going to do it". It is often used as an expression of determination or resolve. |
+| 16 | [ギャル度50](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e5%ba%a650) | N/A |
+| 17 | [清楚50](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a50) | N/A |
+| 18 | [SM買収](http://twitter.com/search?q=SM%e8%b2%b7%e5%8f%8e) | N/A |
+| 19 | [ゆるふわ樹海ガール](http://twitter.com/search?q=%e3%82%86%e3%82%8b%e3%81%b5%e3%82%8f%e6%a8%b9%e6%b5%b7%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
+| 20 | [フイくん](http://twitter.com/search?q=%e3%83%95%e3%82%a4%e3%81%8f%e3%82%93) | フイくん is a character from the Japanese manga series, Chibi Maruko-chan. He is a young boy who is Maruko's classmate and friend. His name comes from the Japanese word "fuiku" which means "cute". In English, his name could be translated as "Cute Boy". |
+| 21 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
+| 22 | [たれぱんだ](http://twitter.com/search?q=%e3%81%9f%e3%82%8c%e3%81%b1%e3%82%93%e3%81%a0) | N/A |
+| 23 | [炎上覚悟の投稿](http://twitter.com/search?q=%e7%82%8e%e4%b8%8a%e8%a6%9a%e6%82%9f%e3%81%ae%e6%8a%95%e7%a8%bf) | N/A |
+| 24 | [Want You](http://twitter.com/search?q=Want+You) | N/A |
+| 25 | [女性社長](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e7%a4%be%e9%95%b7) | N/A |
+| 26 | [史上最恐](http://twitter.com/search?q=%e5%8f%b2%e4%b8%8a%e6%9c%80%e6%81%90) | N/A |
+| 27 | [サンホラ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9b%e3%83%a9) | N/A |
+| 28 | [渋川さん](http://twitter.com/search?q=%e6%b8%8b%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 29 | [お化け役](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%bd%b9) | N/A |
+| 30 | [空手5段の客](http://twitter.com/search?q=%e7%a9%ba%e6%89%8b5%e6%ae%b5%e3%81%ae%e5%ae%a2) | N/A |
+| 31 | [中小企業の切実事情](http://twitter.com/search?q=%e4%b8%ad%e5%b0%8f%e4%bc%81%e6%a5%ad%e3%81%ae%e5%88%87%e5%ae%9f%e4%ba%8b%e6%83%85) | N/A |
+| 32 | [お化け屋敷](http://twitter.com/search?q=%e3%81%8a%e5%8c%96%e3%81%91%e5%b1%8b%e6%95%b7) | N/A |
+| 33 | [距離必要](http://twitter.com/search?q=%e8%b7%9d%e9%9b%a2%e5%bf%85%e8%a6%81) | N/A |
+| 34 | [平子さん](http://twitter.com/search?q=%e5%b9%b3%e5%ad%90%e3%81%95%e3%82%93) | "平子さん" is a Japanese honorific title used to refer to someone with the surname "Hirako". It is roughly equivalent to "Mr. Hirako" in English. |
+| 35 | [さだまさし](http://twitter.com/search?q=%e3%81%95%e3%81%a0%e3%81%be%e3%81%95%e3%81%97) | N/A |
+| 36 | [清楚80](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a80) | N/A |
+| 37 | [マスク着用緩和](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8%e7%b7%a9%e5%92%8c) | N/A |
+| 38 | [エンキョリクライ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%ad%e3%83%a7%e3%83%aa%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
+| 39 | [圧倒的ギャル](http://twitter.com/search?q=%e5%9c%a7%e5%80%92%e7%9a%84%e3%82%ae%e3%83%a3%e3%83%ab) | N/A |
+| 40 | [清楚20](http://twitter.com/search?q=%e6%b8%85%e6%a5%9a20) | N/A |
+| 41 | [モンスト](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | モンスト is a mobile game developed by Mixi, Inc. It is a free-to-play role-playing game that combines elements of strategy and action. The name "モンスト" is an abbreviation of the Japanese phrase "Monster Strike", which translates to English as "Monster Attack". |
+| 42 | [異常性癖](http://twitter.com/search?q=%e7%95%b0%e5%b8%b8%e6%80%a7%e7%99%96) | N/A |
+| 43 | [能楽関係者](http://twitter.com/search?q=%e8%83%bd%e6%a5%bd%e9%96%a2%e4%bf%82%e8%80%85) | N/A |
+| 44 | [タオルパーカー](http://twitter.com/search?q=%e3%82%bf%e3%82%aa%e3%83%ab%e3%83%91%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 45 | [テラスタイプ判別クイズ](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%97%e5%88%a4%e5%88%a5%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 46 | [ノーマルタイヤ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a4) | ノーマルタイヤ (Nōmaru taiya) is a Japanese term for regular tires. It is used to refer to tires that are not specialized for any particular purpose, such as off-road or racing tires. In English, it can be translated as "normal tires". |
+| 47 | [大雪予報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e4%ba%88%e5%a0%b1) | N/A |
+| 48 | [瀬戸熊さん](http://twitter.com/search?q=%e7%80%ac%e6%88%b8%e7%86%8a%e3%81%95%e3%82%93) | 瀬戸熊さん (Setoguma-san) is a Japanese children's song about a bear who lives in the Seto Inland Sea. The song tells the story of how the bear loves to swim and play in the sea, and how he loves to eat fish. In English, the title translates to "Mr. Seto Bear". |
+| 49 | [シングルバトル](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%90%e3%83%88%e3%83%ab) | N/A |
 
 
 

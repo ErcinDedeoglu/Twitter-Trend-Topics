@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-09 11:16:08 UTC`
+📆 Last Updated: `2023-02-09 12:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,20 +22,20 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#YouthWithHinaButt](http://twitter.com/search?q=%23YouthWithHinaButt) | N/A |
 | 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 7 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 8 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 9 | [Fawad khan](http://twitter.com/search?q=Fawad+khan) | N/A |
+| 8 | [Fawad khan](http://twitter.com/search?q=Fawad+khan) | N/A |
+| 9 | [Reported](http://twitter.com/search?q=Reported) | N/A |
 | 10 | [World Premiere](http://twitter.com/search?q=World+Premiere) | N/A |
 | 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Gillette](http://twitter.com/search?q=Gillette) | N/A |
-| 13 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 15 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 12 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 13 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 14 | [Gillette](http://twitter.com/search?q=Gillette) | N/A |
+| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
 | 16 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 17 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 17 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
 | 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 19 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
 | 20 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 21 | [From Pakistan](http://twitter.com/search?q=From+Pakistan) | N/A |
+| 21 | [from pakistan](http://twitter.com/search?q=from+pakistan) | N/A |
 | 22 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 23 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
 | 24 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 28 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
 | 29 | [thugs of pakistan](http://twitter.com/search?q=thugs+of+pakistan) | N/A |
 | 30 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
-| 31 | [Anger](http://twitter.com/search?q=Anger) | Anger is a strong emotion characterized by feelings of hostility, agitation, and resentment. It is often associated with aggressive behavior and can be caused by a variety of factors, including frustration, fear, injustice, or hurt. |
-| 32 | [Asim Abbasi](http://twitter.com/search?q=Asim+Abbasi) | N/A |
-| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 34 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
-| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 36 | [quetta gladiators](http://twitter.com/search?q=quetta+gladiators) | N/A |
-| 37 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 38 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
-| 39 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 40 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 41 | [Golden](http://twitter.com/search?q=Golden) | N/A |
-| 42 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 43 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 44 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 45 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 47 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 48 | [Matlab](http://twitter.com/search?q=Matlab) | N/A |
-| 49 | [Thanku](http://twitter.com/search?q=Thanku) | N/A |
-| 50 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 31 | [Asim Abbasi](http://twitter.com/search?q=Asim+Abbasi) | N/A |
+| 32 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 33 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
+| 34 | [Anger](http://twitter.com/search?q=Anger) | Anger is a strong emotion characterized by feelings of hostility, agitation, and resentment. It is often associated with aggressive behavior and can be caused by a variety of factors, including frustration, fear, injustice, or hurt. |
+| 35 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
+| 36 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 37 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 38 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 39 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 40 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 41 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 42 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 43 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 44 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
+| 45 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 46 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 49 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 50 | [Korean](http://twitter.com/search?q=Korean) | N/A |
 
 
 

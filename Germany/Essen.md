@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-09 11:15:47 UTC`
+📆 Last Updated: `2023-02-09 12:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
 | 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
-| 5 | [#FCNF95](http://twitter.com/search?q=%23FCNF95) | N/A |
-| 6 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 7 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [#Flugzwerg](http://twitter.com/search?q=%23Flugzwerg) | N/A |
+| 6 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 | 9 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 10 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 12 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 10 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 11 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 12 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 13 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
-| 14 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 15 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 16 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 17 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
-| 18 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 19 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 20 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
-| 21 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 14 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 15 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 16 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 17 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 18 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 19 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 20 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
+| 21 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
 | 22 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 23 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 24 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 25 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 26 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 27 | [Widder](http://twitter.com/search?q=Widder) | N/A |
-| 28 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
-| 29 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 30 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 31 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 33 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 34 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 35 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 36 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 37 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 38 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
-| 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 43 | [Ligen](http://twitter.com/search?q=Ligen) | N/A |
-| 44 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 45 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
-| 46 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 47 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
-| 48 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 49 | [Schütze](http://twitter.com/search?q=Sch%c3%bctze) | N/A |
-| 50 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
+| 23 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
+| 24 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 25 | [Chipkarte](http://twitter.com/search?q=Chipkarte) | N/A |
+| 26 | [Büttenrede](http://twitter.com/search?q=B%c3%bcttenrede) | N/A |
+| 27 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 28 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 29 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 30 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 31 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
+| 32 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 33 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 35 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 36 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 37 | [Widder](http://twitter.com/search?q=Widder) | N/A |
+| 38 | [USA und Norwegen](http://twitter.com/search?q=USA+und+Norwegen) | N/A |
+| 39 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
+| 40 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Ligen](http://twitter.com/search?q=Ligen) | N/A |
+| 43 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 44 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 45 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 46 | [jakobsweg](http://twitter.com/search?q=jakobsweg) | N/A |
+| 47 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 48 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 49 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 50 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-09 11:15:32 UTC`
+📆 Last Updated: `2023-02-09 12:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 7 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 8 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 9 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 12 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 15 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 17 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 19 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 21 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 22 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 23 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 24 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 25 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 26 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 27 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 31 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 32 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 6 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 7 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 8 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 11 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 14 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 15 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 16 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 17 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 18 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 19 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 20 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 21 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 22 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 24 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 25 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 28 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 29 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 30 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 31 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 32 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
 | 33 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 34 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 35 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 36 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 37 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 38 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 41 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 42 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 43 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 44 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 45 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 46 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 47 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 48 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 49 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 50 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 34 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 35 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 36 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 38 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 39 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 40 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 41 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 42 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 43 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 45 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 46 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 47 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 48 | [Arash](http://twitter.com/search?q=Arash) | N/A |
+| 49 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 50 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-09 11:15:42 UTC`
+📆 Last Updated: `2023-02-09 12:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 1 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 2 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 3 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 4 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 5 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 6 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
-| 7 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 8 | [Brooklyn Nets](http://twitter.com/search?q=Brooklyn+Nets) | N/A |
-| 9 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 10 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 11 | [#enem2022](http://twitter.com/search?q=%23enem2022) | N/A |
-| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 13 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 14 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 15 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
-| 16 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 17 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 18 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 19 | [Emas](http://twitter.com/search?q=Emas) | N/A |
-| 20 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 21 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 22 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 23 | [Samus](http://twitter.com/search?q=Samus) | N/A |
-| 24 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 25 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 26 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 27 | [Tirei 900](http://twitter.com/search?q=Tirei+900) | N/A |
-| 28 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 29 | [Frozen](http://twitter.com/search?q=Frozen) | N/A |
-| 30 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 31 | [DODI](http://twitter.com/search?q=DODI) | N/A |
-| 32 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 33 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 34 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 35 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 36 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 37 | [Ibama](http://twitter.com/search?q=Ibama) | N/A |
-| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 39 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 40 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 41 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 42 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 43 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
-| 44 | [FOI CULPA DO CU](http://twitter.com/search?q=FOI+CULPA+DO+CU) | N/A |
-| 45 | [Cupido](http://twitter.com/search?q=Cupido) | N/A |
-| 46 | [Lica](http://twitter.com/search?q=Lica) | N/A |
-| 47 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 48 | [Derretida](http://twitter.com/search?q=Derretida) | N/A |
-| 49 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 50 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 6 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 7 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 8 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 9 | [R$7,40](http://twitter.com/search?q=R%247%2c40) | N/A |
+| 10 | [Moni](http://twitter.com/search?q=Moni) | N/A |
+| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 12 | [#BOYSPLANETEP2](http://twitter.com/search?q=%23BOYSPLANETEP2) | N/A |
+| 13 | [#enem2022](http://twitter.com/search?q=%23enem2022) | N/A |
+| 14 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 15 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 16 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 17 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 18 | [Sisu](http://twitter.com/search?q=Sisu) | N/A |
+| 19 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 20 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 21 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 22 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 23 | [#bdrj](http://twitter.com/search?q=%23bdrj) | N/A |
+| 24 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 25 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 26 | [Emas](http://twitter.com/search?q=Emas) | N/A |
+| 27 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 28 | [Parabénssss](http://twitter.com/search?q=Parab%c3%a9nssss) | N/A |
+| 29 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 30 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 31 | [Noitada](http://twitter.com/search?q=Noitada) | N/A |
+| 32 | [Redação](http://twitter.com/search?q=Reda%c3%a7%c3%a3o) | N/A |
+| 33 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 34 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
+| 35 | [Tirei 900](http://twitter.com/search?q=Tirei+900) | N/A |
+| 36 | [Samus](http://twitter.com/search?q=Samus) | N/A |
+| 37 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 38 | [Ibama](http://twitter.com/search?q=Ibama) | N/A |
+| 39 | [Frozen 2](http://twitter.com/search?q=Frozen+2) | N/A |
+| 40 | [UFMG](http://twitter.com/search?q=UFMG) | N/A |
+| 41 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 42 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 43 | [penetra](http://twitter.com/search?q=penetra) | N/A |
+| 44 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 45 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 46 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 47 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
+| 48 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 49 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 50 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
 
 
 
