@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-09 06:16:43 UTC`
+📆 Last Updated: `2023-02-09 07:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 2 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 3 | [#borsadaislemleriptaledilsin](http://twitter.com/search?q=%23borsadaislemleriptaledilsin) | N/A |
-| 4 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 5 | [#TwitteriAcin](http://twitter.com/search?q=%23TwitteriAcin) | N/A |
-| 6 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 8 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 9 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
-| 10 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
-| 11 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
-| 12 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 13 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 14 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 15 | [Enkaz](http://twitter.com/search?q=Enkaz) | N/A |
-| 16 | [RönesansRezidansa EkipGönderin](http://twitter.com/search?q=R%c3%b6nesansRezidansa+EkipG%c3%b6nderin) | N/A |
-| 17 | [George HW Bush](http://twitter.com/search?q=George+HW+Bush) | N/A |
-| 18 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
-| 19 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
-| 20 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 21 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 22 | [Suriyeliler](http://twitter.com/search?q=Suriyeliler) | N/A |
-| 23 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 24 | [Birlik Zamanı](http://twitter.com/search?q=Birlik+Zaman%c4%b1) | N/A |
-| 25 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 26 | [Siyaset](http://twitter.com/search?q=Siyaset) | N/A |
-| 27 | [Kısıtlama](http://twitter.com/search?q=K%c4%b1s%c4%b1tlama) | N/A |
-| 28 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
-| 29 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 30 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
-| 31 | [Afet](http://twitter.com/search?q=Afet) | N/A |
-| 32 | [Helal](http://twitter.com/search?q=Helal) | N/A |
-| 33 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 34 | [Servet Altaş](http://twitter.com/search?q=Servet+Alta%c5%9f) | N/A |
-| 35 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 36 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 37 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
-| 38 | [Gelmesinler](http://twitter.com/search?q=Gelmesinler) | N/A |
-| 39 | [Ekrem](http://twitter.com/search?q=Ekrem) | N/A |
-| 40 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 41 | [Sende](http://twitter.com/search?q=Sende) | N/A |
-| 42 | [Hoşt](http://twitter.com/search?q=Ho%c5%9ft) | N/A |
-| 43 | [List Price](http://twitter.com/search?q=List+Price) | N/A |
-| 44 | [Omurgasız](http://twitter.com/search?q=Omurgas%c4%b1z) | N/A |
-| 45 | [İşiniz](http://twitter.com/search?q=%c4%b0%c5%9finiz) | N/A |
-| 46 | [Özgüven](http://twitter.com/search?q=%c3%96zg%c3%bcven) | N/A |
-| 47 | [Arkadaşlar Allah](http://twitter.com/search?q=Arkada%c5%9flar+Allah) | N/A |
-| 48 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
-| 49 | [Feyyaz Yiğit](http://twitter.com/search?q=Feyyaz+Yi%c4%9fit) | N/A |
-| 50 | [GSM Operatörleri](http://twitter.com/search?q=GSM+Operat%c3%b6rleri) | N/A |
+| 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
+| 2 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
+| 3 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 4 | [#ABDgemisiistemiyoruz](http://twitter.com/search?q=%23ABDgemisiistemiyoruz) | N/A |
+| 5 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 6 | [George HW Bush](http://twitter.com/search?q=George+HW+Bush) | N/A |
+| 7 | [RönesansRezidansa EkipGönderin](http://twitter.com/search?q=R%c3%b6nesansRezidansa+EkipG%c3%b6nderin) | N/A |
+| 8 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 9 | [#Marasayetisemiyoruz](http://twitter.com/search?q=%23Marasayetisemiyoruz) | N/A |
+| 10 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
+| 11 | [Yunan](http://twitter.com/search?q=Yunan) | N/A |
+| 12 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
+| 13 | [#ProvokatörKılıçdaroğlu](http://twitter.com/search?q=%23Provokat%c3%b6rK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 14 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 15 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
+| 16 | [İşiniz](http://twitter.com/search?q=%c4%b0%c5%9finiz) | N/A |
+| 17 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 18 | [Halk](http://twitter.com/search?q=Halk) | N/A |
+| 19 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 20 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 21 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 22 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 23 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
+| 24 | [Sözün](http://twitter.com/search?q=S%c3%b6z%c3%bcn) | N/A |
+| 25 | [Reklam](http://twitter.com/search?q=Reklam) | N/A |
+| 26 | [Yalancı](http://twitter.com/search?q=Yalanc%c4%b1) | N/A |
+| 27 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
+| 28 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 29 | [Sabırlar](http://twitter.com/search?q=Sab%c4%b1rlar) | N/A |
+| 30 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
+| 31 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 32 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
+| 33 | [#UnicefTürkiyedenDefol](http://twitter.com/search?q=%23UnicefT%c3%bcrkiyedenDefol) | N/A |
+| 34 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
+| 35 | [#birebirdayanisma](http://twitter.com/search?q=%23birebirdayanisma) | N/A |
+| 36 | [#serefsiz](http://twitter.com/search?q=%23serefsiz) | N/A |
+| 37 | [#internetBlockedinTurkey](http://twitter.com/search?q=%23internetBlockedinTurkey) | N/A |
+| 38 | [#haluklevet](http://twitter.com/search?q=%23haluklevet) | N/A |
+| 39 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 
 
 

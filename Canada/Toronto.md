@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-09 06:16:04 UTC`
+📆 Last Updated: `2023-02-09 07:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 7 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 8 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 9 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 14 | [Khem](http://twitter.com/search?q=Khem) | N/A |
-| 15 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 17 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 18 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 19 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 1 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 3 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 5 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 6 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 7 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 8 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 10 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 11 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 12 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 13 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 14 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 15 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 16 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 17 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 19 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 23 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 24 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 25 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 26 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 31 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 32 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 33 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 34 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 35 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 36 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 37 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 38 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 39 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 40 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 44 | [Arash](http://twitter.com/search?q=Arash) | N/A |
-| 45 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
-| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 47 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 48 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
-| 49 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 50 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 23 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 24 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 25 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 27 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
+| 28 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 29 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 30 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 31 | [Rex Murphy](http://twitter.com/search?q=Rex+Murphy) | N/A |
+| 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 33 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 37 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 38 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 39 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 40 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 41 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
+| 42 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 43 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 44 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 46 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 47 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
 
 
 

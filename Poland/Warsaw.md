@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-09 06:16:17 UTC`
+📆 Last Updated: `2023-02-09 07:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
-| 2 | [Mateusz Murański](http://twitter.com/search?q=Mateusz+Mura%c5%84ski) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 5 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 6 | [Andrzeja Poczobuta](http://twitter.com/search?q=Andrzeja+Poczobuta) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 9 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 10 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 11 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
-| 12 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 13 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 14 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 15 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 16 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
-| 17 | [kopernik](http://twitter.com/search?q=kopernik) | N/A |
-| 18 | [grodnie](http://twitter.com/search?q=grodnie) | N/A |
-| 19 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 20 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 21 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 22 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 23 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 24 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 25 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 26 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 27 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 28 | [gill-piątek](http://twitter.com/search?q=gill-pi%c4%85tek) | N/A |
-| 29 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 30 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 31 | [koalicja obywatelska](http://twitter.com/search?q=koalicja+obywatelska) | N/A |
-| 32 | [szymczyk](http://twitter.com/search?q=szymczyk) | N/A |
-| 33 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
-| 34 | [iem brazil](http://twitter.com/search?q=iem+brazil) | N/A |
-| 35 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 36 | [górach izerskich](http://twitter.com/search?q=g%c3%b3rach+izerskich) | N/A |
-| 37 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
-| 38 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 39 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 40 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 41 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 42 | [kidawa](http://twitter.com/search?q=kidawa) | N/A |
-| 43 | [zygmunta szendzielarza](http://twitter.com/search?q=zygmunta+szendzielarza) | N/A |
-| 44 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 45 | [kadyrow](http://twitter.com/search?q=kadyrow) | N/A |
-| 46 | [Wcisło](http://twitter.com/search?q=Wcis%c5%82o) | N/A |
-| 47 | [fernando santos](http://twitter.com/search?q=fernando+santos) | N/A |
-| 48 | [pileckiego](http://twitter.com/search?q=pileckiego) | N/A |
-| 49 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 50 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
+| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 2 | [Piaseckiego](http://twitter.com/search?q=Piaseckiego) | N/A |
+| 3 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
+| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 5 | [Kowalskiego](http://twitter.com/search?q=Kowalskiego) | N/A |
+| 6 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 7 | [Mateusz Murański](http://twitter.com/search?q=Mateusz+Mura%c5%84ski) | N/A |
+| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 9 | [Miażdży](http://twitter.com/search?q=Mia%c5%bcd%c5%bcy) | N/A |
+| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 11 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Andrzeja Poczobuta](http://twitter.com/search?q=Andrzeja+Poczobuta) | N/A |
+| 14 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 15 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
+| 16 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 17 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 18 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
+| 19 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 20 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 21 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 22 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 23 | [grodnie](http://twitter.com/search?q=grodnie) | N/A |
+| 24 | [Twittera](http://twitter.com/search?q=Twittera) | N/A |
+| 25 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 26 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 27 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 28 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 29 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 30 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 31 | [Rosją](http://twitter.com/search?q=Rosj%c4%85) | N/A |
+| 32 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 33 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
+| 34 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 35 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 36 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 37 | [Hanna Gill-Piątek](http://twitter.com/search?q=Hanna+Gill-Pi%c4%85tek) | N/A |
+| 38 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
+| 39 | [iem brazil](http://twitter.com/search?q=iem+brazil) | N/A |
+| 40 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 41 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 42 | [Program](http://twitter.com/search?q=Program) | N/A |
+| 43 | [górach izerskich](http://twitter.com/search?q=g%c3%b3rach+izerskich) | N/A |
+| 44 | [Kidawa](http://twitter.com/search?q=Kidawa) | N/A |
+| 45 | [Wiatraki](http://twitter.com/search?q=Wiatraki) | N/A |
+| 46 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 47 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 48 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 49 | [zygmunta szendzielarza](http://twitter.com/search?q=zygmunta+szendzielarza) | N/A |
+| 50 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
 
 
 

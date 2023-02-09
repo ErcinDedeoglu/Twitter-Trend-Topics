@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-09 06:16:12 UTC`
+📆 Last Updated: `2023-02-09 07:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
-| 2 | [#ChileBajoAtaqueTerrorista](http://twitter.com/search?q=%23ChileBajoAtaqueTerrorista) | N/A |
-| 3 | [#ToqueDeQueda](http://twitter.com/search?q=%23ToqueDeQueda) | N/A |
-| 4 | [Larry](http://twitter.com/search?q=Larry) | N/A |
-| 5 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
+| 2 | [#larriesvsantis](http://twitter.com/search?q=%23larriesvsantis) | N/A |
+| 3 | [#ChileBajoAtaqueTerrorista](http://twitter.com/search?q=%23ChileBajoAtaqueTerrorista) | N/A |
+| 4 | [#ToqueDeQueda](http://twitter.com/search?q=%23ToqueDeQueda) | N/A |
+| 5 | [Larry](http://twitter.com/search?q=Larry) | N/A |
 | 6 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
 | 7 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
 | 8 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
 | 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 10 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 11 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
+| 10 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
+| 11 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
 | 12 | [ricky martin](http://twitter.com/search?q=ricky+martin) | N/A |
 | 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 14 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
 | 15 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
 | 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Gracias Presidente](http://twitter.com/search?q=Gracias+Presidente) | N/A |
-| 19 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
-| 20 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
+| 17 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
+| 20 | [Gracias Presidente](http://twitter.com/search?q=Gracias+Presidente) | N/A |
 | 21 | [Lucía Hiriart](http://twitter.com/search?q=Luc%c3%ada+Hiriart) | N/A |
 | 22 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 23 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 24 | [Daniel Valdés](http://twitter.com/search?q=Daniel+Vald%c3%a9s) | N/A |
-| 25 | [Cristian Valenzuela](http://twitter.com/search?q=Cristian+Valenzuela) | N/A |
-| 26 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 28 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 29 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
-| 30 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 31 | [Brigadistos](http://twitter.com/search?q=Brigadistos) | N/A |
-| 32 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 33 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 35 | [Los Chilenos](http://twitter.com/search?q=Los+Chilenos) | N/A |
-| 36 | [Eloisa](http://twitter.com/search?q=Eloisa) | N/A |
-| 37 | [Experta](http://twitter.com/search?q=Experta) | N/A |
-| 38 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 39 | [bomberos de vicuña](http://twitter.com/search?q=bomberos+de+vicu%c3%b1a) | N/A |
-| 40 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 41 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 42 | [araos](http://twitter.com/search?q=araos) | N/A |
-| 43 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
-| 44 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 45 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 46 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
+| 23 | [Daniel Valdés](http://twitter.com/search?q=Daniel+Vald%c3%a9s) | N/A |
+| 24 | [Cristian Valenzuela](http://twitter.com/search?q=Cristian+Valenzuela) | N/A |
+| 25 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 26 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 27 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 28 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
+| 29 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 30 | [Brigadistos](http://twitter.com/search?q=Brigadistos) | N/A |
+| 31 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 32 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 33 | [Los Chilenos](http://twitter.com/search?q=Los+Chilenos) | N/A |
+| 34 | [Eloisa](http://twitter.com/search?q=Eloisa) | N/A |
+| 35 | [Experta](http://twitter.com/search?q=Experta) | N/A |
+| 36 | [bomberos de vicuña](http://twitter.com/search?q=bomberos+de+vicu%c3%b1a) | N/A |
+| 37 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 38 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 39 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 40 | [araos](http://twitter.com/search?q=araos) | N/A |
+| 41 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
+| 42 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 43 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 44 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 47 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 48 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 
 
 

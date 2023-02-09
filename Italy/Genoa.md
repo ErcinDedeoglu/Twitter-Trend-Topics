@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-09 06:16:20 UTC`
+📆 Last Updated: `2023-02-09 07:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 3 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 4 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 2 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 3 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 4 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 5 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 6 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 7 | [ALBANO](http://twitter.com/search?q=ALBANO) | N/A |
-| 8 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 9 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 10 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
-| 11 | [#articolo31](http://twitter.com/search?q=%23articolo31) | N/A |
-| 12 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 13 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 14 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 15 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
-| 16 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 17 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 19 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 20 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 21 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 22 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 23 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 24 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 25 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 26 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 27 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 28 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 29 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 30 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 31 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 32 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 33 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 34 | [coma cose](http://twitter.com/search?q=coma+cose) | N/A |
-| 35 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 36 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 37 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
-| 38 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 39 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 40 | [francesco arca](http://twitter.com/search?q=francesco+arca) | N/A |
-| 41 | [piero pelù](http://twitter.com/search?q=piero+pel%c3%b9) | N/A |
-| 42 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 43 | [elena sofia ricci](http://twitter.com/search?q=elena+sofia+ricci) | N/A |
-| 44 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 45 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 46 | [Cugini di Campagna](http://twitter.com/search?q=Cugini+di+Campagna) | N/A |
-| 47 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 48 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
-| 49 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 50 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 6 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 7 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 8 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 9 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 10 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 11 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 12 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 13 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
+| 14 | [ALBANO](http://twitter.com/search?q=ALBANO) | N/A |
+| 15 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 16 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 17 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 18 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 19 | [MASSIMO RANIERI](http://twitter.com/search?q=MASSIMO+RANIERI) | N/A |
+| 20 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 21 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 22 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 23 | [#BuongiornoATutti](http://twitter.com/search?q=%23BuongiornoATutti) | N/A |
+| 24 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 25 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
+| 26 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 27 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
+| 28 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 29 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 30 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 31 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 32 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 33 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 34 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 35 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 36 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 37 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 38 | [Buongiorno Viktoria](http://twitter.com/search?q=Buongiorno+Viktoria) | N/A |
+| 39 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 40 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 41 | [Buongiorno Rossy](http://twitter.com/search?q=Buongiorno+Rossy) | N/A |
+| 42 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 43 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 44 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 45 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 46 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 47 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
+| 48 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 49 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 50 | [Gianmaria](http://twitter.com/search?q=Gianmaria) | N/A |
 
 
 
