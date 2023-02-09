@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-09 12:17:35 UTC`
+📆 Last Updated: `2023-02-09 13:20:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for New Zealand
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 5 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 7 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 8 | [Otago](http://twitter.com/search?q=Otago) | N/A |
-| 9 | [Waititi](http://twitter.com/search?q=Waititi) | N/A |
-| 10 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
+| 6 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 7 | [Otago](http://twitter.com/search?q=Otago) | N/A |
+| 8 | [Waititi](http://twitter.com/search?q=Waititi) | N/A |
+| 9 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 10 | [rawiri](http://twitter.com/search?q=rawiri) | N/A |
 | 11 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 12 | [Willis](http://twitter.com/search?q=Willis) | N/A |
 | 13 | [Sean](http://twitter.com/search?q=Sean) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for New Zealand
 | 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 18 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
 | 19 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 20 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 20 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
 | 21 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 22 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |

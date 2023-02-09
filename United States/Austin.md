@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-09 12:17:21 UTC`
+📆 Last Updated: `2023-02-09 13:20:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 5 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 6 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 3 | [#DAOMaker](http://twitter.com/search?q=%23DAOMaker) | N/A |
+| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 6 | [Christopher Miller](http://twitter.com/search?q=Christopher+Miller) | N/A |
 | 7 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 8 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 9 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 10 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 11 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 12 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 13 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 14 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 15 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
-| 16 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 17 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 18 | [West](http://twitter.com/search?q=West) | N/A |
-| 19 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
-| 20 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 21 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
-| 22 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
-| 23 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
-| 24 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 25 | [Daily Quordle 381](http://twitter.com/search?q=Daily+Quordle+381) | N/A |
-| 26 | [KD to Phoenix](http://twitter.com/search?q=KD+to+Phoenix) | N/A |
-| 27 | [#ThankfulThursday](http://twitter.com/search?q=%23ThankfulThursday) | N/A |
-| 28 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 29 | [Kyrie and KD](http://twitter.com/search?q=Kyrie+and+KD) | N/A |
-| 30 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 31 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
-| 32 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 33 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 34 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 35 | [KD is a Sun](http://twitter.com/search?q=KD+is+a+Sun) | N/A |
-| 36 | [DBook](http://twitter.com/search?q=DBook) | N/A |
-| 37 | [James Carville](http://twitter.com/search?q=James+Carville) | N/A |
-| 38 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 39 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 40 | [Damn KD](http://twitter.com/search?q=Damn+KD) | N/A |
-| 41 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 42 | [KD to PHX](http://twitter.com/search?q=KD+to+PHX) | N/A |
-| 43 | [Seth Curry](http://twitter.com/search?q=Seth+Curry) | Seth Curry is the name of an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). He is the son of former NBA player Dell Curry and the younger brother of NBA player Stephen Curry. |
-| 44 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 45 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 8 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [Chris Miller](http://twitter.com/search?q=Chris+Miller) | N/A |
+| 11 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 12 | [#morningjoe](http://twitter.com/search?q=%23morningjoe) | N/A |
+| 13 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 14 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 15 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 16 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 17 | [West](http://twitter.com/search?q=West) | N/A |
+| 18 | [KD and Kyrie](http://twitter.com/search?q=KD+and+Kyrie) | N/A |
+| 19 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 21 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 22 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [TJ Warren](http://twitter.com/search?q=TJ+Warren) | N/A |
+| 25 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
+| 26 | [Daily Quordle 381](http://twitter.com/search?q=Daily+Quordle+381) | N/A |
+| 27 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 28 | [Kyrie and KD](http://twitter.com/search?q=Kyrie+and+KD) | N/A |
+| 29 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 30 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 31 | [KD to Phoenix](http://twitter.com/search?q=KD+to+Phoenix) | N/A |
+| 32 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 33 | [Sen. John Fetterman](http://twitter.com/search?q=Sen.+John+Fetterman) | N/A |
+| 34 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
+| 35 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 36 | [kd is a sun](http://twitter.com/search?q=kd+is+a+sun) | N/A |
+| 37 | [DBook](http://twitter.com/search?q=DBook) | N/A |
+| 38 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 39 | [James Carville](http://twitter.com/search?q=James+Carville) | N/A |
+| 40 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 41 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
+| 42 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [Seth Curry](http://twitter.com/search?q=Seth+Curry) | Seth Curry is the name of an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). He is the son of former NBA player Dell Curry and the younger brother of NBA player Stephen Curry. |
+| 45 | [KD & Kyrie](http://twitter.com/search?q=KD+%26+Kyrie) | N/A |
 | 46 | [Kyrie and Harden](http://twitter.com/search?q=Kyrie+and+Harden) | N/A |
-| 47 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 48 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 49 | [KD & Kyrie](http://twitter.com/search?q=KD+%26+Kyrie) | N/A |
+| 47 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 48 | [Damn KD](http://twitter.com/search?q=Damn+KD) | N/A |
+| 49 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
 
 
 

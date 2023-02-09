@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-09 12:17:36 UTC`
+📆 Last Updated: `2023-02-09 13:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 2 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
-| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 1 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 2 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 3 | [#HogwartsLegacyMM](http://twitter.com/search?q=%23HogwartsLegacyMM) | N/A |
 | 4 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 5 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 6 | [#CarrefourGamingConKirby](http://twitter.com/search?q=%23CarrefourGamingConKirby) | N/A |
-| 7 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 9 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
-| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
-| 12 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 13 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 14 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 6 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 7 | [#CarrefourGamingConKirby](http://twitter.com/search?q=%23CarrefourGamingConKirby) | N/A |
+| 8 | [#FiniWortenLovers](http://twitter.com/search?q=%23FiniWortenLovers) | N/A |
+| 9 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
+| 10 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 11 | [El Constitucional](http://twitter.com/search?q=El+Constitucional) | N/A |
+| 12 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 13 | [#HablandoClaro9F](http://twitter.com/search?q=%23HablandoClaro9F) | N/A |
+| 14 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 15 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 16 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 17 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 18 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 19 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 20 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 21 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 22 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 23 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 24 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 25 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 26 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 16 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 17 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 18 | [Mateu Alemany](http://twitter.com/search?q=Mateu+Alemany) | N/A |
+| 19 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 20 | [eMule](http://twitter.com/search?q=eMule) | N/A |
+| 21 | [Joan Laporta](http://twitter.com/search?q=Joan+Laporta) | N/A |
+| 22 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 23 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 26 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 27 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 28 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 29 | [Joan Laporta](http://twitter.com/search?q=Joan+Laporta) | N/A |
-| 30 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 31 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 32 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
-| 35 | [Santa Apolonia](http://twitter.com/search?q=Santa+Apolonia) | N/A |
-| 36 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 37 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 38 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 39 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 41 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 44 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 45 | [Colau](http://twitter.com/search?q=Colau) | N/A |
-| 46 | [Olona](http://twitter.com/search?q=Olona) | N/A |
-| 47 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 48 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 49 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 50 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 28 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 29 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
+| 30 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 31 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 33 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 34 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 36 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 37 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 38 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
+| 39 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 41 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 42 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
+| 43 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 44 | [Manolo Vieira](http://twitter.com/search?q=Manolo+Vieira) | N/A |
+| 45 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
+| 46 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 47 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 48 | [El 9](http://twitter.com/search?q=El+9) | N/A |
+| 49 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 50 | [copa de España](http://twitter.com/search?q=copa+de+Espa%c3%b1a) | N/A |
 
 
 

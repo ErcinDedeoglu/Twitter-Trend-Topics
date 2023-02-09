@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-09 12:17:08 UTC`
+📆 Last Updated: `2023-02-09 13:20:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 3 | [#DreamMakerTheDreamConference](http://twitter.com/search?q=%23DreamMakerTheDreamConference) | N/A |
-| 4 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
-| 5 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
-| 6 | [#SugarRushRide3rdWin](http://twitter.com/search?q=%23SugarRushRide3rdWin) | N/A |
-| 7 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 8 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
-| 9 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 10 | [Nang Aiza](http://twitter.com/search?q=Nang+Aiza) | N/A |
-| 11 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
+| 1 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
+| 2 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
+| 3 | [#ENHYPEN_Drunk_Dazed_100M](http://twitter.com/search?q=%23ENHYPEN_Drunk_Dazed_100M) | N/A |
+| 4 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 5 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
+| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 7 | [#DarnaSuperEndGame](http://twitter.com/search?q=%23DarnaSuperEndGame) | N/A |
+| 8 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 9 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 10 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 11 | [Nang Aiza](http://twitter.com/search?q=Nang+Aiza) | N/A |
 | 12 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
-| 13 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
-| 14 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
-| 15 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
-| 16 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
-| 17 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 18 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 19 | [mc yeonjun](http://twitter.com/search?q=mc+yeonjun) | N/A |
-| 20 | [SRR 3RD WIN](http://twitter.com/search?q=SRR+3RD+WIN) | N/A |
-| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 22 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 23 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
-| 24 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 25 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 26 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
-| 27 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
-| 28 | [WELCOME BACK CutiePIE EIAN](http://twitter.com/search?q=WELCOME+BACK+CutiePIE+EIAN) | N/A |
-| 29 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 30 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 31 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
-| 32 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 33 | [MC KAI](http://twitter.com/search?q=MC+KAI) | N/A |
-| 34 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 35 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 36 | [WIDEN THE GAP](http://twitter.com/search?q=WIDEN+THE+GAP) | N/A |
-| 37 | [MIGUEL TANFELIX](http://twitter.com/search?q=MIGUEL+TANFELIX) | N/A |
-| 38 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 39 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 41 | [West](http://twitter.com/search?q=West) | N/A |
-| 42 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 43 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 44 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 45 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 46 | [#FELIPforPARCINQ](http://twitter.com/search?q=%23FELIPforPARCINQ) | N/A |
-| 47 | [#TheRebelHeartIssue](http://twitter.com/search?q=%23TheRebelHeartIssue) | N/A |
-| 48 | [#TwentyJungWONderfulYears](http://twitter.com/search?q=%23TwentyJungWONderfulYears) | N/A |
-| 49 | [#TXT17thWin](http://twitter.com/search?q=%23TXT17thWin) | N/A |
-| 50 | [#SB19What10MonSpotify](http://twitter.com/search?q=%23SB19What10MonSpotify) | N/A |
+| 13 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
+| 14 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 15 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 16 | [LUCKYBEAUTY ONFEB26](http://twitter.com/search?q=LUCKYBEAUTY+ONFEB26) | N/A |
+| 17 | [Denden](http://twitter.com/search?q=Denden) | N/A |
+| 18 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 20 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
+| 21 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
+| 22 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
+| 23 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 24 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
+| 25 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
+| 26 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 27 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [Maizo](http://twitter.com/search?q=Maizo) | N/A |
+| 30 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 31 | [mc yeonjun](http://twitter.com/search?q=mc+yeonjun) | N/A |
+| 32 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 33 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
+| 34 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 35 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 36 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 37 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
+| 38 | [WELCOME BACK CutiePIE EIAN](http://twitter.com/search?q=WELCOME+BACK+CutiePIE+EIAN) | N/A |
+| 39 | [I STAND WITH SEUNGRI](http://twitter.com/search?q=I+STAND+WITH+SEUNGRI) | N/A |
+| 40 | [FELIPStraydogs D-1 Release](http://twitter.com/search?q=FELIPStraydogs+D-1+Release) | N/A |
+| 41 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 42 | [UAAP](http://twitter.com/search?q=UAAP) | N/A |
+| 43 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 46 | [West](http://twitter.com/search?q=West) | N/A |
+| 47 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 48 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 49 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 50 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-09 12:16:54 UTC`
+📆 Last Updated: `2023-02-09 13:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 3 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 4 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 5 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 6 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 7 | [#ONEPIECE1074](http://twitter.com/search?q=%23ONEPIECE1074) | N/A |
-| 8 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 9 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 10 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
-| 11 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 14 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 15 | [#LoisSOC](http://twitter.com/search?q=%23LoisSOC) | N/A |
-| 16 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 17 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 18 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 19 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 20 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 21 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 2 | [Crous](http://twitter.com/search?q=Crous) | N/A |
+| 3 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 4 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 5 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 6 | [#ONEPIECE1074](http://twitter.com/search?q=%23ONEPIECE1074) | N/A |
+| 7 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 8 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 9 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [#LoisSOC](http://twitter.com/search?q=%23LoisSOC) | N/A |
+| 12 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 13 | [#estellemidi](http://twitter.com/search?q=%23estellemidi) | N/A |
+| 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 15 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 17 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 18 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 19 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 21 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
 | 22 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 25 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 26 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 27 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 28 | [Zootopie 2](http://twitter.com/search?q=Zootopie+2) | N/A |
-| 29 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 30 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 31 | [Fier](http://twitter.com/search?q=Fier) | N/A |
-| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 33 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 34 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 35 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 36 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 37 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 38 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 39 | [La Reine](http://twitter.com/search?q=La+Reine) | N/A |
+| 23 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
+| 24 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 25 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
+| 26 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 28 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 29 | [Zootopie](http://twitter.com/search?q=Zootopie) | N/A |
+| 30 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 31 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 32 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 33 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 34 | [La Reine](http://twitter.com/search?q=La+Reine) | N/A |
+| 35 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 36 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 37 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 38 | [Fier](http://twitter.com/search?q=Fier) | N/A |
+| 39 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 40 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
 | 41 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 42 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 43 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 44 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 45 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 46 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 47 | [Le 4](http://twitter.com/search?q=Le+4) | N/A |
-| 48 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 49 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 50 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 42 | [Le 4](http://twitter.com/search?q=Le+4) | N/A |
+| 43 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 45 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 46 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 47 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 48 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 49 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 50 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 
 
 

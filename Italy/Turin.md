@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-09 12:16:56 UTC`
+📆 Last Updated: `2023-02-09 13:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 3 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 4 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 5 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
-| 6 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 7 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 8 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 9 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 10 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 11 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 14 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 15 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
-| 16 | [albano](http://twitter.com/search?q=albano) | N/A |
-| 17 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 18 | [#SuperLega](http://twitter.com/search?q=%23SuperLega) | N/A |
-| 19 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 20 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 21 | [MASSIMO RANIERI](http://twitter.com/search?q=MASSIMO+RANIERI) | N/A |
-| 22 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 23 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
-| 24 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 25 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 26 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 27 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 28 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 29 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
-| 30 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 31 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 32 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 33 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 34 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 35 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 36 | [Pooh](http://twitter.com/search?q=Pooh) | N/A |
-| 37 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
-| 38 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 39 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 40 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 41 | [elena sofia ricci](http://twitter.com/search?q=elena+sofia+ricci) | N/A |
-| 42 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 43 | [Coma Cose](http://twitter.com/search?q=Coma+Cose) | N/A |
-| 44 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 45 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 46 | [Splash](http://twitter.com/search?q=Splash) | N/A |
-| 47 | [Auguri Tata](http://twitter.com/search?q=Auguri+Tata) | N/A |
-| 48 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
-| 49 | [francesco arca](http://twitter.com/search?q=francesco+arca) | N/A |
-| 50 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 1 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 3 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 4 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
+| 5 | [#SuperLega](http://twitter.com/search?q=%23SuperLega) | N/A |
+| 6 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
+| 7 | [#Sanreno2023](http://twitter.com/search?q=%23Sanreno2023) | N/A |
+| 8 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 9 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 10 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
+| 11 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 12 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 13 | [Emanuela Orlandi](http://twitter.com/search?q=Emanuela+Orlandi) | N/A |
+| 14 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 15 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 17 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 18 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 19 | [Majorino](http://twitter.com/search?q=Majorino) | N/A |
+| 20 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 21 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 22 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 23 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 24 | [Libertà](http://twitter.com/search?q=Libert%c3%a0) | N/A |
+| 25 | [Siena](http://twitter.com/search?q=Siena) | N/A |
+| 26 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 27 | [#foibe](http://twitter.com/search?q=%23foibe) | N/A |
+| 28 | [#Scholz](http://twitter.com/search?q=%23Scholz) | N/A |
+| 29 | [#Draghi](http://twitter.com/search?q=%23Draghi) | N/A |
+| 30 | [#angeloduro](http://twitter.com/search?q=%23angeloduro) | N/A |
+| 31 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 32 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 33 | [#LaGioiaDiScrivere](http://twitter.com/search?q=%23LaGioiaDiScrivere) | N/A |
+| 34 | [#fuoriattilio](http://twitter.com/search?q=%23fuoriattilio) | N/A |
+| 35 | [#SanValentino](http://twitter.com/search?q=%23SanValentino) | N/A |
 
 
 
