@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-09 03:19:32 UTC`
+📆 Last Updated: `2023-02-09 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for Belarus
 | 1 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 2 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 3 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 4 | [прости](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
+| 4 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
 | 5 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
 | 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 7 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 8 | [#globalcrisis](http://twitter.com/search?q=%23globalcrisis) | N/A |
-| 9 | [дудя](http://twitter.com/search?q=%d0%b4%d1%83%d0%b4%d1%8f) | N/A |
+| 9 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
 | 10 | [#кубокразвития](http://twitter.com/search?q=%23%d0%ba%d1%83%d0%b1%d0%be%d0%ba%d1%80%d0%b0%d0%b7%d0%b2%d0%b8%d1%82%d0%b8%d1%8f) | N/A |
 | 11 | [УЖАС](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1) | N/A |
 | 12 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Belarus
 | 17 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
 | 18 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 19 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 20 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 20 | [скорее](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 21 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
 | 22 | [#developmentcup](http://twitter.com/search?q=%23developmentcup) | N/A |
 | 23 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |

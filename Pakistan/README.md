@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-09 03:19:37 UTC`
+📆 Last Updated: `2023-02-09 04:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Pakistan
 | 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 7 | [Fawad khan](http://twitter.com/search?q=Fawad+khan) | N/A |
 | 8 | [From Pakistan](http://twitter.com/search?q=From+Pakistan) | N/A |
-| 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 10 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 11 | [sphf](http://twitter.com/search?q=sphf) | N/A |
 | 12 | [hassan naqvi](http://twitter.com/search?q=hassan+naqvi) | N/A |
-| 13 | [asim abbasi](http://twitter.com/search?q=asim+abbasi) | N/A |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [WORLD PREMIERE](http://twitter.com/search?q=WORLD+PREMIERE) | N/A |
-| 16 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
-| 17 | [HAPPY BIRTHDAY RITA MAA](http://twitter.com/search?q=HAPPY+BIRTHDAY+RITA+MAA) | N/A |
-| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 20 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
-| 21 | [c-130](http://twitter.com/search?q=c-130) | N/A |
-| 22 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 23 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
-| 24 | [asim azhar](http://twitter.com/search?q=asim+azhar) | N/A |
-| 25 | [blue 3 flexi](http://twitter.com/search?q=blue+3+flexi) | N/A |
-| 26 | [team zindagi](http://twitter.com/search?q=team+zindagi) | N/A |
-| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 28 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 29 | [get in touch](http://twitter.com/search?q=get+in+touch) | N/A |
-| 30 | [elon musk](http://twitter.com/search?q=elon+musk) | N/A |
-| 31 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 32 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 33 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 36 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 37 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 39 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
-| 40 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 41 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 43 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 44 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 45 | [Reality](http://twitter.com/search?q=Reality) | N/A |
-| 46 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 47 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 49 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 50 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 13 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 14 | [asim abbasi](http://twitter.com/search?q=asim+abbasi) | N/A |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 17 | [WORLD PREMIERE](http://twitter.com/search?q=WORLD+PREMIERE) | N/A |
+| 18 | [Free Palestine](http://twitter.com/search?q=Free+Palestine) | N/A |
+| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
+| 22 | [C-130](http://twitter.com/search?q=C-130) | N/A |
+| 23 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 24 | [SAPMs](http://twitter.com/search?q=SAPMs) | N/A |
+| 25 | [asim azhar](http://twitter.com/search?q=asim+azhar) | N/A |
+| 26 | [blue 3 flexi](http://twitter.com/search?q=blue+3+flexi) | N/A |
+| 27 | [team zindagi](http://twitter.com/search?q=team+zindagi) | N/A |
+| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 29 | [elon musk](http://twitter.com/search?q=elon+musk) | N/A |
+| 30 | [get in touch](http://twitter.com/search?q=get+in+touch) | N/A |
+| 31 | [happy birthday rita maa](http://twitter.com/search?q=happy+birthday+rita+maa) | N/A |
+| 32 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 33 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 37 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 38 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 39 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 41 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 42 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 43 | [Sath](http://twitter.com/search?q=Sath) | N/A |
+| 44 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 45 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
+| 46 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 47 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
+| 48 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 50 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
 
 
 

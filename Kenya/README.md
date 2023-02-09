@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-02-09 03:19:35 UTC`
+📆 Last Updated: `2023-02-09 04:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 2 | [#BoycottEquityBank](http://twitter.com/search?q=%23BoycottEquityBank) | N/A |
-| 3 | [Fred Matiang](http://twitter.com/search?q=Fred+Matiang) | N/A |
-| 4 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 1 | [Matiangi](http://twitter.com/search?q=Matiangi) | N/A |
+| 2 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [#BoycottEquityBank](http://twitter.com/search?q=%23BoycottEquityBank) | N/A |
 | 5 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 6 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 6 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 7 | [#omokanagabriel1xbet](http://twitter.com/search?q=%23omokanagabriel1xbet) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 11 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 12 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 13 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
-| 14 | [30 jubilee mps](http://twitter.com/search?q=30+jubilee+mps) | N/A |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 17 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
-| 18 | [NSSF](http://twitter.com/search?q=NSSF) | N/A |
-| 19 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 20 | [sabina chege](http://twitter.com/search?q=sabina+chege) | N/A |
-| 21 | [Power is Transient](http://twitter.com/search?q=Power+is+Transient) | N/A |
-| 22 | [Miguna Miguna](http://twitter.com/search?q=Miguna+Miguna) | N/A |
+| 8 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 9 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 10 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 11 | [State House](http://twitter.com/search?q=State+House) | N/A |
+| 12 | [30 jubilee mps](http://twitter.com/search?q=30+jubilee+mps) | N/A |
+| 13 | [Miguna Miguna](http://twitter.com/search?q=Miguna+Miguna) | N/A |
+| 14 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
+| 17 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
+| 18 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 19 | [sabina chege](http://twitter.com/search?q=sabina+chege) | N/A |
+| 20 | [NSSF](http://twitter.com/search?q=NSSF) | N/A |
+| 21 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
+| 22 | [Power is Transient](http://twitter.com/search?q=Power+is+Transient) | N/A |
 | 23 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 24 | [alfayo](http://twitter.com/search?q=alfayo) | N/A |
-| 25 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
-| 26 | [okello max](http://twitter.com/search?q=okello+max) | N/A |
-| 27 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 30 | [ODM MPs](http://twitter.com/search?q=ODM+MPs) | N/A |
-| 31 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 32 | [john mbadi](http://twitter.com/search?q=john+mbadi) | N/A |
-| 33 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 34 | [Langata](http://twitter.com/search?q=Langata) | N/A |
-| 35 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 36 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 37 | [hongera peter](http://twitter.com/search?q=hongera+peter) | N/A |
-| 38 | [EACC](http://twitter.com/search?q=EACC) | N/A |
-| 39 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 40 | [Ruaraka](http://twitter.com/search?q=Ruaraka) | N/A |
-| 41 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 42 | [jeremiah kioni](http://twitter.com/search?q=jeremiah+kioni) | N/A |
-| 43 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 44 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 45 | [juma chitembwe](http://twitter.com/search?q=juma+chitembwe) | N/A |
-| 46 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
-| 47 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 49 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 50 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 24 | [Abagusii](http://twitter.com/search?q=Abagusii) | N/A |
+| 25 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 26 | [Revenge](http://twitter.com/search?q=Revenge) | N/A |
+| 27 | [alfayo](http://twitter.com/search?q=alfayo) | N/A |
+| 28 | [okello max](http://twitter.com/search?q=okello+max) | N/A |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 31 | [Langata](http://twitter.com/search?q=Langata) | N/A |
+| 32 | [ODM MPs](http://twitter.com/search?q=ODM+MPs) | N/A |
+| 33 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 34 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 35 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 36 | [EACC](http://twitter.com/search?q=EACC) | N/A |
+| 37 | [King James](http://twitter.com/search?q=King+James) | N/A |
+| 38 | [Ruaraka](http://twitter.com/search?q=Ruaraka) | N/A |
+| 39 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 40 | [hongera peter](http://twitter.com/search?q=hongera+peter) | N/A |
+| 41 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 42 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 43 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 44 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
+| 45 | [Itumbi](http://twitter.com/search?q=Itumbi) | N/A |
+| 46 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 47 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 48 | [juma chitembwe](http://twitter.com/search?q=juma+chitembwe) | N/A |
+| 49 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 50 | [ECDE](http://twitter.com/search?q=ECDE) | N/A |
 
 
 

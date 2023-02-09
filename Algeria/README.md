@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-09 03:19:31 UTC`
+📆 Last Updated: `2023-02-09 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,25 +46,25 @@ This is top 50 for Algeria
 | 29 | [النظام الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 30 | [#الزلازل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84) | N/A |
 | 31 | [سفر فرنسي](http://twitter.com/search?q=%d8%b3%d9%81%d8%b1+%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 32 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 33 | [الضوء الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%88%d8%a1+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 34 | [سيدي يوسف](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 35 | [علي الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
-| 36 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 37 | [انور مالك](http://twitter.com/search?q=%d8%a7%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 38 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 39 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 40 | [فريق الانقاذ الجزايري](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 41 | [Amira Bouraoui](http://twitter.com/search?q=Amira+Bouraoui) | N/A |
-| 42 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 43 | [#اوكرانيا](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 32 | [سيدي يوسف](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 33 | [#الهزه_الارضيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 34 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 35 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 36 | [انور مالك](http://twitter.com/search?q=%d8%a7%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d9%84%d9%83) | N/A |
+| 37 | [الضوء الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%88%d8%a1+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 38 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 39 | [فريق الانقاذ الجزايري](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 40 | [Amira Bouraoui](http://twitter.com/search?q=Amira+Bouraoui) | N/A |
+| 41 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 42 | [#اوكرانيا](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 43 | [علي الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
 | 44 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
 | 45 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
 | 46 | [مناطق المعارضه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87) | N/A |
-| 47 | [الدول العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 48 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 49 | [دمشق](http://twitter.com/search?q=%d8%af%d9%85%d8%b4%d9%82) | N/A |
-| 50 | [الرييس الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 47 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 48 | [دمشق](http://twitter.com/search?q=%d8%af%d9%85%d8%b4%d9%82) | N/A |
+| 49 | [الرييس الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 50 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 
 
 

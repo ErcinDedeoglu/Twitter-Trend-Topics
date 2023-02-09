@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-09 03:18:46 UTC`
+📆 Last Updated: `2023-02-09 04:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Argentina](</Argentina>)
 | 8 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
 | 9 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
 | 10 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 11 | [#GranHermanoArgentina2022](http://twitter.com/search?q=%23GranHermanoArgentina2022) | N/A |
-| 12 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
-| 13 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 11 | [#granhermanoargentina2022](http://twitter.com/search?q=%23granhermanoargentina2022) | N/A |
+| 12 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 13 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
 | 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 15 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 16 | [Primera D](http://twitter.com/search?q=Primera+D) | N/A |
-| 17 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
-| 18 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
-| 19 | [Si Julieta](http://twitter.com/search?q=Si+Julieta) | N/A |
-| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 16 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
+| 17 | [Primera D](http://twitter.com/search?q=Primera+D) | N/A |
+| 18 | [Si Julieta](http://twitter.com/search?q=Si+Julieta) | N/A |
+| 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 20 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
 | 21 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 22 | [Colidio](http://twitter.com/search?q=Colidio) | N/A |
-| 23 | [Complot](http://twitter.com/search?q=Complot) | N/A |
-| 24 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 25 | [AFINIDAD](http://twitter.com/search?q=AFINIDAD) | N/A |
-| 26 | [#los8escalonesdelmillón](http://twitter.com/search?q=%23los8escalonesdelmill%c3%b3n) | N/A |
+| 22 | [Complot](http://twitter.com/search?q=Complot) | N/A |
+| 23 | [AFINIDAD](http://twitter.com/search?q=AFINIDAD) | N/A |
+| 24 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 25 | [Colidio](http://twitter.com/search?q=Colidio) | N/A |
+| 26 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
 | 27 | [#Desafio2023](http://twitter.com/search?q=%23Desafio2023) | N/A |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [POLILLA](http://twitter.com/search?q=POLILLA) | N/A |
-| 30 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 31 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 32 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
-| 33 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 34 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 35 | [Holder](http://twitter.com/search?q=Holder) | N/A |
-| 36 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 37 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 28 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 29 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 30 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 31 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
+| 32 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 33 | [Soy Messi](http://twitter.com/search?q=Soy+Messi) | N/A |
+| 34 | [POLILLA](http://twitter.com/search?q=POLILLA) | N/A |
+| 35 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 36 | [Holder](http://twitter.com/search?q=Holder) | N/A |
+| 37 | [Alfita](http://twitter.com/search?q=Alfita) | N/A |
 | 38 | [Morón](http://twitter.com/search?q=Mor%c3%b3n) | N/A |
-| 39 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Soy Messi](http://twitter.com/search?q=Soy+Messi) | N/A |
-| 42 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 43 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 45 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 46 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 47 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 48 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
-| 49 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 50 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 39 | [#FrodoFlipendo](http://twitter.com/search?q=%23FrodoFlipendo) | N/A |
+| 40 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
+| 41 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 42 | [Omar Perotti](http://twitter.com/search?q=Omar+Perotti) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 45 | [Voto](http://twitter.com/search?q=Voto) | N/A |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 48 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 49 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 50 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
 
 
 

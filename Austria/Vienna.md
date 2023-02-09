@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-09 03:18:48 UTC`
+📆 Last Updated: `2023-02-09 04:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for [Austria](</Austria>)
 | 5 | [#Gang](http://twitter.com/search?q=%23Gang) | N/A |
 | 6 | [Türkei](http://twitter.com/search?q=T%c3%bcrkei) | N/A |
 | 7 | [freistädter](http://twitter.com/search?q=freist%c3%a4dter) | N/A |
-| 8 | [Doppelspitze](http://twitter.com/search?q=Doppelspitze) | N/A |
-| 9 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 10 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 11 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
-| 12 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 13 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 8 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 9 | [Doppelspitze](http://twitter.com/search?q=Doppelspitze) | N/A |
+| 10 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 11 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 12 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 13 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 14 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 15 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
 | 16 | [Assad](http://twitter.com/search?q=Assad) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Austria](</Austria>)
 | 21 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
 | 22 | [Kurden](http://twitter.com/search?q=Kurden) | N/A |
 | 23 | [Äußerungen](http://twitter.com/search?q=%c3%84u%c3%9ferungen) | N/A |
-| 24 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 24 | [radfahrer](http://twitter.com/search?q=radfahrer) | N/A |
 | 25 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 26 | [NETFLIX BRING BACK OCS](http://twitter.com/search?q=NETFLIX+BRING+BACK+OCS) | N/A |
 | 27 | [Sony](http://twitter.com/search?q=Sony) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for [Austria](</Austria>)
 | 33 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
 | 34 | [Schicksal](http://twitter.com/search?q=Schicksal) | N/A |
 | 35 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 36 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
+| 36 | [deckel](http://twitter.com/search?q=deckel) | N/A |
 | 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 38 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 39 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 39 | [standort](http://twitter.com/search?q=standort) | N/A |
 | 40 | [klage](http://twitter.com/search?q=klage) | N/A |
 | 41 | [Gesundheitssystem](http://twitter.com/search?q=Gesundheitssystem) | N/A |
 | 42 | [Wurzeln](http://twitter.com/search?q=Wurzeln) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Austria](</Austria>)
 | 44 | [vereinigung](http://twitter.com/search?q=vereinigung) | N/A |
 | 45 | [socken](http://twitter.com/search?q=socken) | N/A |
 | 46 | [hartig](http://twitter.com/search?q=hartig) | N/A |
-| 47 | [Sauerei](http://twitter.com/search?q=Sauerei) | N/A |
+| 47 | [sauerei](http://twitter.com/search?q=sauerei) | N/A |
 | 48 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
 | 49 | [haushalte](http://twitter.com/search?q=haushalte) | N/A |
-| 50 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

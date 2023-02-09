@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-09 03:19:36 UTC`
+📆 Last Updated: `2023-02-09 04:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,19 +24,19 @@ This is top 50 for Lebanon
 | 7 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
 | 8 | [قانون قيصر](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d9%82%d9%8a%d8%b5%d8%b1) | N/A |
 | 9 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 10 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [#مار_مارون](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%b1_%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
-| 12 | [الهزات الخفيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%81%d9%8a%d9%81%d9%87) | N/A |
-| 13 | [طوني نمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d9%86%d9%85%d8%b1) | N/A |
-| 14 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 15 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 10 | [#مار_مارون](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%b1_%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 11 | [الهزات الخفيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%81%d9%8a%d9%81%d9%87) | N/A |
+| 12 | [طوني نمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d9%86%d9%85%d8%b1) | N/A |
+| 13 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 14 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 15 | [المساعدات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 16 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
 | 17 | [جنوب الهرمل](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d9%87%d8%b1%d9%85%d9%84) | N/A |
 | 18 | [الاخبار الكاذبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%83%d8%a7%d8%b0%d8%a8%d9%87) | N/A |
 | 19 | [الهييه الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
-| 20 | [طرابلس](http://twitter.com/search?q=%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 21 | [الباحث الجيولوجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d8%ab+%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d9%84%d9%88%d8%ac%d9%8a) | N/A |
-| 22 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 20 | [الباحث الجيولوجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d8%ab+%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d9%84%d9%88%d8%ac%d9%8a) | N/A |
+| 21 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 22 | [طرابلس](http://twitter.com/search?q=%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
 | 23 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 24 | [8 شباط 2023](http://twitter.com/search?q=8+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
 | 25 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Lebanon
 | 41 | [وزارة الزراعة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d8%a9) | N/A |
 | 42 | [Mantle](http://twitter.com/search?q=Mantle) | N/A |
 | 43 | [سيده النجاه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
-| 44 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 45 | [نبيه بري الحكومي](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
-| 46 | [القوات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 47 | [النظام المجرم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d9%85) | N/A |
-| 48 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [فيصل المقداد](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%a7%d8%af) | N/A |
-| 50 | [طفل سوري](http://twitter.com/search?q=%d8%b7%d9%81%d9%84+%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 44 | [نبيه بري الحكومي](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
+| 45 | [القوات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 46 | [النظام المجرم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d9%85) | N/A |
+| 47 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 48 | [فيصل المقداد](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%a7%d8%af) | N/A |
+| 49 | [طفل سوري](http://twitter.com/search?q=%d8%b7%d9%81%d9%84+%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 50 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
 
 
 

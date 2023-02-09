@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-09 03:19:25 UTC`
+📆 Last Updated: `2023-02-09 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
+| 2 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 3 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
 | 4 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 5 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 6 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 7 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 8 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 6 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 7 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 8 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
 | 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 10 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 11 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
-| 12 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 13 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 14 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 15 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 16 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 17 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 19 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
-| 20 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 21 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 22 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 23 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 24 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 25 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 26 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 27 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 28 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 29 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 30 | [Mormon](http://twitter.com/search?q=Mormon) | N/A |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 34 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 35 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 36 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 39 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 40 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 41 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 42 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 43 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 44 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 45 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 46 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 48 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 49 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 50 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 10 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 11 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 12 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 14 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 15 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 16 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
+| 17 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 18 | [GameCube](http://twitter.com/search?q=GameCube) | N/A |
+| 19 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 20 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 21 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 22 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
+| 23 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
+| 24 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 25 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 26 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 27 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 28 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 29 | [Mormon](http://twitter.com/search?q=Mormon) | N/A |
+| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 31 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 32 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 33 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 36 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 37 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 38 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 39 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 40 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 41 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 43 | [Reggie Bullock](http://twitter.com/search?q=Reggie+Bullock) | N/A |
+| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 45 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 46 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 47 | [Gunns](http://twitter.com/search?q=Gunns) | N/A |
+| 48 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 49 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 50 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
 
 
 
