@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-09 00:28:56 UTC`
+📆 Last Updated: `2023-02-09 01:44:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 2 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 3 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 4 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
-| 5 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 7 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 8 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 9 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 10 | [Congressional](http://twitter.com/search?q=Congressional) | N/A |
-| 11 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 12 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 13 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 14 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 15 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 17 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 18 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 19 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 20 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 21 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
-| 22 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 23 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 24 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 25 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 26 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 27 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 28 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 29 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 30 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 31 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 32 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 33 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 34 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 35 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 36 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 37 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
-| 38 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
-| 39 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 40 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 41 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 42 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 43 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 44 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
-| 45 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
-| 46 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 1 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 2 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
+| 3 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 5 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 6 | [Bob Iger](http://twitter.com/search?q=Bob+Iger) | N/A |
+| 7 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 9 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 10 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 11 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 12 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 13 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
+| 14 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 15 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 18 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 19 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 20 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 21 | [Mormon](http://twitter.com/search?q=Mormon) | N/A |
+| 22 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
+| 23 | [Congressional](http://twitter.com/search?q=Congressional) | N/A |
+| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 25 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 27 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 28 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 29 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 32 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 33 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 35 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 36 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 37 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 38 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 39 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 40 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 41 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 42 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 43 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 44 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 45 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 46 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 47 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 
 
 

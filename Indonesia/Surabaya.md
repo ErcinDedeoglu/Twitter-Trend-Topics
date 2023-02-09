@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-09 00:28:28 UTC`
+📆 Last Updated: `2023-02-09 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
-| 2 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
-| 3 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
-| 4 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 5 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 7 | [Kembali Pada Hukum Allah](http://twitter.com/search?q=Kembali+Pada+Hukum+Allah) | N/A |
-| 8 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 9 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 10 | [Jaya Dengan Khilafah](http://twitter.com/search?q=Jaya+Dengan+Khilafah) | N/A |
-| 11 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 12 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 13 | [Masuk](http://twitter.com/search?q=Masuk) | N/A |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [DM Twitter](http://twitter.com/search?q=DM+Twitter) | N/A |
-| 16 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 18 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
+| 1 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
+| 2 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 3 | [#트메모두_정우의_졸업축하해](http://twitter.com/search?q=%23%ed%8a%b8%eb%a9%94%eb%aa%a8%eb%91%90_%ec%a0%95%ec%9a%b0%ec%9d%98_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 5 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
+| 6 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 7 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
+| 8 | [#CongratulationsWONYOUNG](http://twitter.com/search?q=%23CongratulationsWONYOUNG) | N/A |
+| 9 | [#장원영_졸업_축하해](http://twitter.com/search?q=%23%ec%9e%a5%ec%9b%90%ec%98%81_%ec%a1%b8%ec%97%85_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 10 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 11 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 12 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 13 | [Kembali Pada Hukum Allah](http://twitter.com/search?q=Kembali+Pada+Hukum+Allah) | N/A |
+| 14 | [DM Twitter](http://twitter.com/search?q=DM+Twitter) | N/A |
+| 15 | [Pers Bebas](http://twitter.com/search?q=Pers+Bebas) | N/A |
+| 16 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 17 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [DMnya](http://twitter.com/search?q=DMnya) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 23 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 24 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 25 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
-| 26 | [Ini Twitter](http://twitter.com/search?q=Ini+Twitter) | N/A |
-| 27 | [Beng](http://twitter.com/search?q=Beng) | N/A |
-| 28 | [Pers Bebas](http://twitter.com/search?q=Pers+Bebas) | N/A |
-| 29 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 30 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 33 | [Nintendo Direct](http://twitter.com/search?q=Nintendo+Direct) | N/A |
-| 34 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 35 | [susi air](http://twitter.com/search?q=susi+air) | N/A |
-| 36 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 37 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 38 | [our majestic song](http://twitter.com/search?q=our+majestic+song) | N/A |
-| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 40 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
-| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 42 | [congratulations nct 127](http://twitter.com/search?q=congratulations+nct+127) | N/A |
-| 43 | [Superstar](http://twitter.com/search?q=Superstar) | N/A |
-| 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 45 | [Publish](http://twitter.com/search?q=Publish) | N/A |
-| 46 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 47 | [SLEMAN SEMBADA](http://twitter.com/search?q=SLEMAN+SEMBADA) | N/A |
-| 48 | [Rasa Sayange](http://twitter.com/search?q=Rasa+Sayange) | N/A |
-| 49 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 50 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 21 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 22 | [DMnya](http://twitter.com/search?q=DMnya) | N/A |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Beng](http://twitter.com/search?q=Beng) | N/A |
+| 27 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 28 | [#PerjuangkanPersatuanUmat](http://twitter.com/search?q=%23PerjuangkanPersatuanUmat) | N/A |
+| 29 | [#TimeToSUHlebrate](http://twitter.com/search?q=%23TimeToSUHlebrate) | N/A |
+| 30 | [#HPN2023](http://twitter.com/search?q=%23HPN2023) | N/A |
+| 31 | [#온세상이_컬러풀_쟈니데이](http://twitter.com/search?q=%23%ec%98%a8%ec%84%b8%ec%83%81%ec%9d%b4_%ec%bb%ac%eb%9f%ac%ed%92%80_%ec%9f%88%eb%8b%88%eb%8d%b0%ec%9d%b4) | N/A |
+| 32 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 33 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 34 | [#20JungWONderfulYears](http://twitter.com/search?q=%2320JungWONderfulYears) | N/A |
+| 35 | [#평생만18세_세고최계아기고양이](http://twitter.com/search?q=%23%ed%8f%89%ec%83%9d%eb%a7%8c18%ec%84%b8_%ec%84%b8%ea%b3%a0%ec%b5%9c%ea%b3%84%ec%95%84%ea%b8%b0%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 36 | [#HAPPYJOHNNYDAY](http://twitter.com/search?q=%23HAPPYJOHNNYDAY) | N/A |
+| 37 | [#초심_그이상의_사랑받는_정원](http://twitter.com/search?q=%23%ec%b4%88%ec%8b%ac_%ea%b7%b8%ec%9d%b4%ec%83%81%ec%9d%98_%ec%82%ac%eb%9e%91%eb%b0%9b%eb%8a%94_%ec%a0%95%ec%9b%90) | N/A |
+| 38 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 39 | [#PKBuntukBangsa](http://twitter.com/search?q=%23PKBuntukBangsa) | N/A |
 
 
 

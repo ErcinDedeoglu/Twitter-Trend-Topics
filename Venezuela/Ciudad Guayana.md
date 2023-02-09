@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-02-09 00:28:16 UTC`
+📆 Last Updated: `2023-02-09 01:43:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#8Feb](http://twitter.com/search?q=%238Feb) | N/A |
 | 2 | [#PatriaGrandeEsCaribe](http://twitter.com/search?q=%23PatriaGrandeEsCaribe) | N/A |
-| 3 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 8 | [Onia](http://twitter.com/search?q=Onia) | N/A |
-| 9 | [#VenezuelaMonumental](http://twitter.com/search?q=%23VenezuelaMonumental) | N/A |
-| 10 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 11 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 12 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 13 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 14 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 15 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 3 | [#ChavezJuventudYVictoria](http://twitter.com/search?q=%23ChavezJuventudYVictoria) | N/A |
+| 4 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 7 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 8 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [Francisco Arcia](http://twitter.com/search?q=Francisco+Arcia) | N/A |
+| 11 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 12 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 13 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 14 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 15 | [Onia](http://twitter.com/search?q=Onia) | N/A |
 | 16 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 17 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 18 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
-| 19 | [Direct](http://twitter.com/search?q=Direct) | N/A |
-| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 21 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 22 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 25 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 26 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 27 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
-| 28 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
+| 17 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 18 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 20 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
+| 21 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 22 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 23 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
+| 24 | [Petare](http://twitter.com/search?q=Petare) | N/A |
+| 25 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 26 | [Ali Castillo](http://twitter.com/search?q=Ali+Castillo) | N/A |
+| 27 | [Trotamundos](http://twitter.com/search?q=Trotamundos) | N/A |
+| 28 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
 | 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 30 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
-| 31 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 32 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 33 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 34 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
-| 35 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 36 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 37 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 38 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 39 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
-| 40 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 41 | [Mimi Lazo](http://twitter.com/search?q=Mimi+Lazo) | N/A |
-| 42 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 43 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
-| 44 | [montilla](http://twitter.com/search?q=montilla) | N/A |
-| 45 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
-| 46 | [Carabobo FC](http://twitter.com/search?q=Carabobo+FC) | N/A |
-| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 48 | [Carlos III](http://twitter.com/search?q=Carlos+III) | N/A |
+| 30 | [Misael](http://twitter.com/search?q=Misael) | N/A |
+| 31 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
+| 32 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 33 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
+| 34 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 35 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 37 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 38 | [Montilla](http://twitter.com/search?q=Montilla) | N/A |
+| 39 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
+| 40 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 41 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
+| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 43 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 44 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 45 | [Alberto Adriani](http://twitter.com/search?q=Alberto+Adriani) | N/A |
+| 46 | [Mimi Lazo](http://twitter.com/search?q=Mimi+Lazo) | N/A |
+| 47 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
+| 48 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
 
 
 

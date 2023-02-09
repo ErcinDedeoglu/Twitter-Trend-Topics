@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-02-09 00:28:50 UTC`
+📆 Last Updated: `2023-02-09 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 2 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 3 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 4 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 5 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 6 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 7 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 10 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 11 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 12 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 13 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
-| 14 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 15 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 16 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 17 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 18 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 19 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 20 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 22 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 24 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 25 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
-| 26 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 27 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 28 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 29 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 30 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
-| 31 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
-| 32 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 33 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 34 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 35 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 36 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 37 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
-| 38 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
-| 39 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 40 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 43 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 45 | [Hector](http://twitter.com/search?q=Hector) | N/A |
-| 46 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 47 | [Soren](http://twitter.com/search?q=Soren) | N/A |
-| 48 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 49 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 50 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 4 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 5 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 6 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 8 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 9 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 10 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 11 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 14 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 15 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 16 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 17 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 18 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 19 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 20 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 21 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 22 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 23 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 24 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 25 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 26 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 27 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 28 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 29 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 30 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 31 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 32 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 33 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 34 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 35 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 36 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 37 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
+| 38 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 40 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 41 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
+| 42 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 43 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 44 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 45 | [The Bunny](http://twitter.com/search?q=The+Bunny) | N/A |
+| 46 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 47 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
+| 48 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 49 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 50 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
 
 
 

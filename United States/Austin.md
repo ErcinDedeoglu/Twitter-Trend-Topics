@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-09 00:28:48 UTC`
+📆 Last Updated: `2023-02-09 01:44:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
 | 2 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 3 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 4 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 3 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 6 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 8 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 9 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 10 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 11 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 12 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 15 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 16 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 17 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
-| 18 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 19 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
-| 20 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 21 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 22 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
-| 23 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
-| 24 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 25 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 26 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 27 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 28 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 29 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 30 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
-| 31 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 32 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 33 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 34 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 35 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
-| 36 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
-| 37 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 38 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
-| 39 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
-| 40 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 41 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 42 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
-| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 44 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
-| 47 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 49 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 50 | [Hector](http://twitter.com/search?q=Hector) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 10 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 11 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 12 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 14 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 15 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 16 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 18 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 19 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 20 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 21 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 22 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 23 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 24 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 25 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 26 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 28 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 29 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 30 | [Danny Ainge](http://twitter.com/search?q=Danny+Ainge) | N/A |
+| 31 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 32 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 33 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 34 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 35 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 36 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 37 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 38 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 39 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 40 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
+| 41 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 42 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 43 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 44 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 45 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 46 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
+| 47 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 48 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 49 | [The Bunny](http://twitter.com/search?q=The+Bunny) | N/A |
+| 50 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
 
 
 

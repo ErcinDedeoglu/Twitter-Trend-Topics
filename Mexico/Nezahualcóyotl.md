@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-02-09 00:28:12 UTC`
+📆 Last Updated: `2023-02-09 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 4 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 2 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 5 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 6 | [#YouTubeDOWN](http://twitter.com/search?q=%23YouTubeDOWN) | N/A |
+| 7 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 8 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 10 | [#EnHoraBuenaCinco](http://twitter.com/search?q=%23EnHoraBuenaCinco) | N/A |
-| 11 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 12 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 13 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 14 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 15 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 16 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 17 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 18 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [CONFIAR DENNIS ARANA](http://twitter.com/search?q=CONFIAR+DENNIS+ARANA) | N/A |
+| 12 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 13 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 14 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
+| 15 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 16 | [#EnHoraBuenaCinco](http://twitter.com/search?q=%23EnHoraBuenaCinco) | N/A |
+| 17 | [INFIELES IS COMING](http://twitter.com/search?q=INFIELES+IS+COMING) | N/A |
+| 18 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
 | 19 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 20 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 21 | [Game Boy](http://twitter.com/search?q=Game+Boy) | N/A |
-| 22 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
-| 23 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 24 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
-| 25 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 26 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 27 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 28 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
-| 29 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 31 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
-| 34 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 35 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
-| 36 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 37 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
-| 38 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 39 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 40 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 41 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 42 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 43 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 44 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 45 | [Chetumal](http://twitter.com/search?q=Chetumal) | N/A |
-| 46 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 47 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 48 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 49 | [#Disney](http://twitter.com/search?q=%23Disney) | N/A |
+| 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 21 | [Zootopia](http://twitter.com/search?q=Zootopia) | N/A |
+| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 24 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 25 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 26 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 27 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 28 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
+| 29 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 30 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 31 | [Game Boy](http://twitter.com/search?q=Game+Boy) | N/A |
+| 32 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 33 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 34 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
+| 35 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 36 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
+| 37 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
+| 38 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 39 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 40 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
+| 41 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 42 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 44 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
+| 45 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 46 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
+| 47 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 48 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 49 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-09 00:28:19 UTC`
+📆 Last Updated: `2023-02-09 01:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
-| 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 3 | [#FrodoFlipendo](http://twitter.com/search?q=%23FrodoFlipendo) | N/A |
-| 4 | [#FrodoResponde](http://twitter.com/search?q=%23FrodoResponde) | N/A |
-| 5 | [#TerrorismoEconomico](http://twitter.com/search?q=%23TerrorismoEconomico) | N/A |
-| 6 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
-| 7 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 8 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 9 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 11 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 12 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 13 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 14 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 15 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 16 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
-| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 18 | [Messi con la 10](http://twitter.com/search?q=Messi+con+la+10) | N/A |
-| 19 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 20 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 22 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 23 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 24 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 25 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
-| 26 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 27 | [Alexis Sánchez](http://twitter.com/search?q=Alexis+S%c3%a1nchez) | N/A |
-| 28 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 29 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 32 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 33 | [Lisandro Martínez](http://twitter.com/search?q=Lisandro+Mart%c3%adnez) | N/A |
-| 34 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 35 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 36 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 37 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 38 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 41 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
-| 42 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 43 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 1 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 2 | [#patriciaenmasrealidad](http://twitter.com/search?q=%23patriciaenmasrealidad) | N/A |
+| 3 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
+| 4 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 5 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 7 | [PRIMO SOS MI FAVORITO](http://twitter.com/search?q=PRIMO+SOS+MI+FAVORITO) | N/A |
+| 8 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 9 | [POLILLA](http://twitter.com/search?q=POLILLA) | N/A |
+| 10 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
+| 11 | [#TerrorismoEconomico](http://twitter.com/search?q=%23TerrorismoEconomico) | N/A |
+| 12 | [#FrodoFlipendo](http://twitter.com/search?q=%23FrodoFlipendo) | N/A |
+| 13 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 14 | [#los8escalonesdelmillón](http://twitter.com/search?q=%23los8escalonesdelmill%c3%b3n) | N/A |
+| 15 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 16 | [Claudio Brilloni](http://twitter.com/search?q=Claudio+Brilloni) | N/A |
+| 17 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
+| 18 | [Guasone](http://twitter.com/search?q=Guasone) | N/A |
+| 19 | [HASTA LA FINAL CON ROMI](http://twitter.com/search?q=HASTA+LA+FINAL+CON+ROMI) | N/A |
+| 20 | [Centro Español](http://twitter.com/search?q=Centro+Espa%c3%b1ol) | N/A |
+| 21 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 22 | [Complot](http://twitter.com/search?q=Complot) | N/A |
+| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 24 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 25 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 26 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 27 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 28 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 29 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 32 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 33 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 34 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Alfa y Camila](http://twitter.com/search?q=Alfa+y+Camila) | N/A |
+| 37 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
+| 38 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
+| 39 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 40 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 43 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 44 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 45 | [Romina y Daniela](http://twitter.com/search?q=Romina+y+Daniela) | N/A |
+| 46 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 47 | [Lisandro Martínez](http://twitter.com/search?q=Lisandro+Mart%c3%adnez) | N/A |
+| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 49 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 50 | [bella hadid](http://twitter.com/search?q=bella+hadid) | N/A |
 
 
 
