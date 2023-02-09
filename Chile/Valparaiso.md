@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-08 23:15:51 UTC`
+📆 Last Updated: `2023-02-09 00:28:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ChileBajoAtaqueTerrorista](http://twitter.com/search?q=%23ChileBajoAtaqueTerrorista) | N/A |
-| 2 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 3 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 4 | [#IncendiosForestaleschile](http://twitter.com/search?q=%23IncendiosForestaleschile) | N/A |
-| 5 | [#SS9inChile](http://twitter.com/search?q=%23SS9inChile) | N/A |
-| 6 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 7 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 8 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 9 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
-| 10 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 11 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 12 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
+| 1 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
+| 2 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 3 | [#ToqueDeQueda](http://twitter.com/search?q=%23ToqueDeQueda) | N/A |
+| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [#ChileBajoAtaqueTerrorista](http://twitter.com/search?q=%23ChileBajoAtaqueTerrorista) | N/A |
+| 6 | [elon musk](http://twitter.com/search?q=elon+musk) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [Daniel Valdés](http://twitter.com/search?q=Daniel+Vald%c3%a9s) | N/A |
+| 9 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 10 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 11 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 12 | [Yumbel](http://twitter.com/search?q=Yumbel) | N/A |
 | 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 14 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
-| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 17 | [Lucía Hiriart](http://twitter.com/search?q=Luc%c3%ada+Hiriart) | N/A |
-| 18 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
-| 19 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
-| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 21 | [Experta](http://twitter.com/search?q=Experta) | N/A |
-| 22 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 14 | [Urruticoechea](http://twitter.com/search?q=Urruticoechea) | N/A |
+| 15 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 16 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 17 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 18 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 19 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
+| 20 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
+| 21 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 22 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
 | 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 25 | [Brigadistos](http://twitter.com/search?q=Brigadistos) | N/A |
-| 26 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 27 | [Zapping](http://twitter.com/search?q=Zapping) | N/A |
-| 28 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
-| 29 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
-| 30 | [DelBonis](http://twitter.com/search?q=DelBonis) | N/A |
-| 31 | [los bunkers](http://twitter.com/search?q=los+bunkers) | N/A |
-| 32 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
-| 33 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 35 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 36 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 38 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 39 | [Penoso](http://twitter.com/search?q=Penoso) | N/A |
-| 40 | [La Isla](http://twitter.com/search?q=La+Isla) | N/A |
-| 41 | [Bomberos de Vicuña](http://twitter.com/search?q=Bomberos+de+Vicu%c3%b1a) | N/A |
-| 42 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 24 | [Ninhue](http://twitter.com/search?q=Ninhue) | N/A |
+| 25 | [Lucía Hiriart](http://twitter.com/search?q=Luc%c3%ada+Hiriart) | N/A |
+| 26 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 27 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 28 | [Experta](http://twitter.com/search?q=Experta) | N/A |
+| 29 | [Brigadistos](http://twitter.com/search?q=Brigadistos) | N/A |
+| 30 | [Delbonis](http://twitter.com/search?q=Delbonis) | N/A |
+| 31 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 32 | [Copa de Francia](http://twitter.com/search?q=Copa+de+Francia) | N/A |
+| 33 | [Los Chilenos](http://twitter.com/search?q=Los+Chilenos) | N/A |
+| 34 | [los bunkers](http://twitter.com/search?q=los+bunkers) | N/A |
+| 35 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 36 | [Cristian Valenzuela](http://twitter.com/search?q=Cristian+Valenzuela) | N/A |
+| 37 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
+| 38 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
+| 39 | [Las Meninas](http://twitter.com/search?q=Las+Meninas) | N/A |
+| 40 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 41 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 42 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
 | 43 | [Araos](http://twitter.com/search?q=Araos) | N/A |
-| 44 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 45 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 46 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 47 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
-| 48 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 44 | [Bomberos de Vicuña](http://twitter.com/search?q=Bomberos+de+Vicu%c3%b1a) | N/A |
+| 45 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 46 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 47 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
+| 48 | [La Cisterna](http://twitter.com/search?q=La+Cisterna) | N/A |
 
 
 

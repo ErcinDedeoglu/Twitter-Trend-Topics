@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-08 23:16:14 UTC`
+📆 Last Updated: `2023-02-09 00:28:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 | 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 9 | [bellescapessummer withshein](http://twitter.com/search?q=bellescapessummer+withshein) | N/A |
-| 10 | [angge g day](http://twitter.com/search?q=angge+g+day) | N/A |
-| 11 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
-| 12 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 13 | [tenjul on magandang buhay](http://twitter.com/search?q=tenjul+on+magandang+buhay) | N/A |
-| 14 | [GAP FINAL EP PRESSTOUR](http://twitter.com/search?q=GAP+FINAL+EP+PRESSTOUR) | N/A |
-| 15 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
-| 16 | [OUR MAJESTIC SONG](http://twitter.com/search?q=OUR+MAJESTIC+SONG) | N/A |
-| 17 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
-| 18 | [Love For Humanity](http://twitter.com/search?q=Love+For+Humanity) | N/A |
-| 19 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
-| 20 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
-| 21 | [franseth chico reunited](http://twitter.com/search?q=franseth+chico+reunited) | N/A |
-| 22 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 23 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 24 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
-| 25 | [JIHAN SELCA](http://twitter.com/search?q=JIHAN+SELCA) | N/A |
-| 26 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 27 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
-| 28 | [straydogs mv teaser](http://twitter.com/search?q=straydogs+mv+teaser) | N/A |
-| 29 | [kaia na10 ito](http://twitter.com/search?q=kaia+na10+ito) | N/A |
-| 30 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
-| 31 | [birthday na ni](http://twitter.com/search?q=birthday+na+ni) | N/A |
-| 32 | [shairadiaz as ria](http://twitter.com/search?q=shairadiaz+as+ria) | N/A |
-| 33 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
-| 34 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
-| 35 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 36 | [jeremiah gray](http://twitter.com/search?q=jeremiah+gray) | N/A |
+| 10 | [OUR BABY YANG IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+YANG+IS+TWENTYOI) | N/A |
+| 11 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 12 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 13 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 14 | [Jihan](http://twitter.com/search?q=Jihan) | N/A |
+| 15 | [pangako yan wishclusive](http://twitter.com/search?q=pangako+yan+wishclusive) | N/A |
+| 16 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 17 | [FELIPStraydogs D-2 Release](http://twitter.com/search?q=FELIPStraydogs+D-2+Release) | N/A |
+| 18 | [gap final ep presstour](http://twitter.com/search?q=gap+final+ep+presstour) | N/A |
+| 19 | [janenella angtunaynabida](http://twitter.com/search?q=janenella+angtunaynabida) | N/A |
+| 20 | [tenjul on magandang buhay](http://twitter.com/search?q=tenjul+on+magandang+buhay) | N/A |
+| 21 | [our majestic song](http://twitter.com/search?q=our+majestic+song) | N/A |
+| 22 | [NCT DREAM JAPAN DEBUT](http://twitter.com/search?q=NCT+DREAM+JAPAN+DEBUT) | N/A |
+| 23 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 24 | [Love For Humanity](http://twitter.com/search?q=Love+For+Humanity) | N/A |
+| 25 | [VOCAL KING I.N DAY](http://twitter.com/search?q=VOCAL+KING+I.N+DAY) | N/A |
+| 26 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 27 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
+| 28 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
+| 29 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 30 | [straydogs mv teaser](http://twitter.com/search?q=straydogs+mv+teaser) | N/A |
+| 31 | [nadine for reno8t](http://twitter.com/search?q=nadine+for+reno8t) | N/A |
+| 32 | [franseth chicocloseness](http://twitter.com/search?q=franseth+chicocloseness) | N/A |
+| 33 | [WE FIGHT FOR BTS](http://twitter.com/search?q=WE+FIGHT+FOR+BTS) | N/A |
+| 34 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 35 | [KAIA Na10 ITO](http://twitter.com/search?q=KAIA+Na10+ITO) | N/A |
+| 36 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 37 | [King James](http://twitter.com/search?q=King+James) | N/A |
-| 38 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 40 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 41 | [LEADERNIM](http://twitter.com/search?q=LEADERNIM) | N/A |
-| 42 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 44 | [Woobear](http://twitter.com/search?q=Woobear) | N/A |
-| 45 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 46 | [Bilibili Comics](http://twitter.com/search?q=Bilibili+Comics) | N/A |
-| 47 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 48 | [Legends](http://twitter.com/search?q=Legends) | N/A |
-| 49 | [Pokemon](http://twitter.com/search?q=Pokemon) | N/A |
-| 50 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 38 | [MS Teams](http://twitter.com/search?q=MS+Teams) | N/A |
+| 39 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 40 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 42 | [Sira](http://twitter.com/search?q=Sira) | N/A |
+| 43 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 44 | [royalty seated](http://twitter.com/search?q=royalty+seated) | N/A |
+| 45 | [Leadernim](http://twitter.com/search?q=Leadernim) | N/A |
+| 46 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 47 | [BIRTHDAY NA NI](http://twitter.com/search?q=BIRTHDAY+NA+NI) | N/A |
+| 48 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 49 | [Jeremiah Gray](http://twitter.com/search?q=Jeremiah+Gray) | N/A |
+| 50 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 
 
 

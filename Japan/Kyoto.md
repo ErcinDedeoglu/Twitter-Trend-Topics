@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-02-08 23:16:40 UTC`
+📆 Last Updated: `2023-02-09 00:28:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [予約ツイート](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
-| 2 | [予約投稿](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e6%8a%95%e7%a8%bf) | N/A |
-| 3 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 4 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
-| 5 | [ツイート制限](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e5%88%b6%e9%99%90) | N/A |
-| 6 | [ゴーストトリック](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 1 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 2 | [ニンダイ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
+| 3 | [ハイカラシティ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b7%e3%83%86%e3%82%a3) | N/A |
+| 4 | [ゴーストトリック](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 5 | [予約投稿](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e6%8a%95%e7%a8%bf) | N/A |
+| 6 | [予約ツイート](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
 | 7 | [レイトン](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
-| 8 | [バテンカイトス](http://twitter.com/search?q=%e3%83%90%e3%83%86%e3%83%b3%e3%82%ab%e3%82%a4%e3%83%88%e3%82%b9) | N/A |
-| 9 | [バテンカイトス](http://twitter.com/search?q=%e3%83%90%e3%83%86%e3%83%b3%e3%82%ab%e3%82%a4%e3%83%88%e3%82%b9) | N/A |
-| 10 | [Twitter不具合](http://twitter.com/search?q=Twitter%e4%b8%8d%e5%85%b7%e5%90%88) | Twitter不具合 is a Japanese phrase that translates to "Twitter malfunction" in English. It is used to describe when Twitter is not working properly or experiencing technical difficulties. |
+| 8 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 9 | [Twitter不具合](http://twitter.com/search?q=Twitter%e4%b8%8d%e5%85%b7%e5%90%88) | Twitter不具合 is a Japanese phrase that translates to "Twitter malfunction" in English. It is used to describe when Twitter is not working properly or experiencing technical difficulties. |
+| 10 | [バテンカイトス](http://twitter.com/search?q=%e3%83%90%e3%83%86%e3%83%b3%e3%82%ab%e3%82%a4%e3%83%88%e3%82%b9) | N/A |
 | 11 | [ゲームボーイ](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 12 | [ブラウザ](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6) | N/A |
-| 13 | [ファンタジーライフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
-| 14 | [ピクミン4](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%83%9f%e3%83%b34) | N/A |
-| 15 | [マホロア](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%83%ad%e3%82%a2) | マホロア is a Japanese word that means "magical aura". It is often used to describe the feeling of being surrounded by a mysterious and magical atmosphere. |
-| 16 | [ポケモンカードGB](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89GB) | N/A |
-| 17 | [レベルファイブ](http://twitter.com/search?q=%e3%83%ac%e3%83%99%e3%83%ab%e3%83%95%e3%82%a1%e3%82%a4%e3%83%96) | N/A |
-| 18 | [サイドオーダー](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%89%e3%82%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
-| 19 | [マリーのアトリエ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%ae%e3%82%a2%e3%83%88%e3%83%aa%e3%82%a8) | N/A |
-| 20 | [追加パック](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%83%91%e3%83%83%e3%82%af) | N/A |
-| 21 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 22 | [Twitterくん](http://twitter.com/search?q=Twitter%e3%81%8f%e3%82%93) | Twitterくん is a Japanese mascot character created by Twitter Japan. The character is a blue bird with a yellow beak and feet, wearing a red hoodie with the Twitter logo on it. The character's name translates to "Twitter Boy" in English, and its purpose is to promote the use of Twitter in Japan. |
-| 23 | [フォロー制限](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e5%88%b6%e9%99%90) | N/A |
-| 24 | [#NintendoDirectJP](http://twitter.com/search?q=%23NintendoDirectJP) | N/A |
-| 25 | [ハイカラスクエア](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%82%ab%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a8%e3%82%a2) | N/A |
-| 26 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
-| 27 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 28 | [レインコード](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
-| 29 | [黄金の太陽](http://twitter.com/search?q=%e9%bb%84%e9%87%91%e3%81%ae%e5%a4%aa%e9%99%bd) | N/A |
-| 30 | [スプラDLC](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9DLC) | N/A |
-| 31 | [ポケカGB](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%abGB) | N/A |
-| 32 | [エキスパンションパス](http://twitter.com/search?q=%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%91%e3%82%b9) | N/A |
-| 33 | [カービィ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
-| 34 | [GBとGBA](http://twitter.com/search?q=GB%e3%81%a8GBA) | N/A |
-| 35 | [アルヴィース](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%b4%e3%82%a3%e3%83%bc%e3%82%b9) | N/A |
-| 36 | [ニンテンドーダイレクト](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bc%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88) | N/A |
-| 37 | [予約設定](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e8%a8%ad%e5%ae%9a) | N/A |
-| 38 | [ツイート送信](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e9%80%81%e4%bf%a1) | N/A |
-| 39 | [封印烈火](http://twitter.com/search?q=%e5%b0%81%e5%8d%b0%e7%83%88%e7%81%ab) | N/A |
-| 40 | [Twitter調子](http://twitter.com/search?q=Twitter%e8%aa%bf%e5%ad%90) | Twitter調子 is a Japanese phrase that literally translates to "Twitter mood." It is used to describe the current sentiment of Twitter users, such as whether they are feeling positive or negative about a particular topic. |
-| 41 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
-| 42 | [MOTHER3](http://twitter.com/search?q=MOTHER3) | N/A |
-| 43 | [桃鉄ワールド](http://twitter.com/search?q=%e6%a1%83%e9%89%84%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 44 | [鏡の大迷宮](http://twitter.com/search?q=%e9%8f%a1%e3%81%ae%e5%a4%a7%e8%bf%b7%e5%ae%ae) | N/A |
-| 45 | [#滝沢歌舞伎ZEROFINAL](http://twitter.com/search?q=%23%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8eZEROFINAL) | N/A |
-| 46 | [シュルク](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%ab%e3%82%af) | N/A |
+| 12 | [ファンタジーライフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 13 | [ピクミン4](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%83%9f%e3%83%b34) | N/A |
+| 14 | [フォロー制限](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e5%88%b6%e9%99%90) | N/A |
+| 15 | [ツイート制限](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88%e5%88%b6%e9%99%90) | N/A |
+| 16 | [リマスター](http://twitter.com/search?q=%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 17 | [ポケモンカードGB](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89GB) | N/A |
+| 18 | [マリーのアトリエ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%ae%e3%82%a2%e3%83%88%e3%83%aa%e3%82%a8) | N/A |
+| 19 | [カービィ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
+| 20 | [カエルの為](http://twitter.com/search?q=%e3%82%ab%e3%82%a8%e3%83%ab%e3%81%ae%e7%82%ba) | N/A |
+| 21 | [黄金の太陽](http://twitter.com/search?q=%e9%bb%84%e9%87%91%e3%81%ae%e5%a4%aa%e9%99%bd) | N/A |
+| 22 | [マホロア](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%83%ad%e3%82%a2) | マホロア is a Japanese word that means "magical aura". It is often used to describe the feeling of being surrounded by a mysterious and magical atmosphere. |
+| 23 | [追加パック](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e3%83%91%e3%83%83%e3%82%af) | N/A |
+| 24 | [サイドオーダー](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%89%e3%82%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 25 | [Twitterくん](http://twitter.com/search?q=Twitter%e3%81%8f%e3%82%93) | Twitterくん is a Japanese mascot character created by Twitter Japan. The character is a blue bird with a yellow beak and feet, wearing a red hoodie with the Twitter logo on it. The character's name translates to "Twitter Boy" in English, and its purpose is to promote the use of Twitter in Japan. |
+| 26 | [Twitter障害](http://twitter.com/search?q=Twitter%e9%9a%9c%e5%ae%b3) | N/A |
+| 27 | [ブラウザ](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6) | N/A |
+| 28 | [レベルファイブ](http://twitter.com/search?q=%e3%83%ac%e3%83%99%e3%83%ab%e3%83%95%e3%82%a1%e3%82%a4%e3%83%96) | N/A |
+| 29 | [鏡の大迷宮](http://twitter.com/search?q=%e9%8f%a1%e3%81%ae%e5%a4%a7%e8%bf%b7%e5%ae%ae) | N/A |
+| 30 | [レインコード](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
+| 31 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 32 | [ポケカGB](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%abGB) | N/A |
+| 33 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
+| 34 | [シオカラーズ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%82%ab%e3%83%a9%e3%83%bc%e3%82%ba) | N/A |
+| 35 | [DM通知](http://twitter.com/search?q=DM%e9%80%9a%e7%9f%a5) | N/A |
+| 36 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 37 | [Twitter調子](http://twitter.com/search?q=Twitter%e8%aa%bf%e5%ad%90) | Twitter調子 is a Japanese phrase that literally translates to "Twitter mood." It is used to describe the current sentiment of Twitter users, such as whether they are feeling positive or negative about a particular topic. |
+| 38 | [MOTHER3](http://twitter.com/search?q=MOTHER3) | N/A |
+| 39 | [GBとGBA](http://twitter.com/search?q=GB%e3%81%a8GBA) | N/A |
+| 40 | [ニンテンドーダイレクト](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bc%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88) | N/A |
+| 41 | [エキスパンションパス](http://twitter.com/search?q=%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%91%e3%82%b9) | N/A |
+| 42 | [ブレワイ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4) | N/A |
+| 43 | [#滝沢歌舞伎ZEROFINAL](http://twitter.com/search?q=%23%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8eZEROFINAL) | N/A |
+| 44 | [ふしぎのぼうし](http://twitter.com/search?q=%e3%81%b5%e3%81%97%e3%81%8e%e3%81%ae%e3%81%bc%e3%81%86%e3%81%97) | N/A |
+| 45 | [レックス](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 46 | [スプラDLC](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9DLC) | N/A |
 | 47 | [ダウニー](http://twitter.com/search?q=%e3%83%80%e3%82%a6%e3%83%8b%e3%83%bc) | N/A |
-| 48 | [桃鉄新作](http://twitter.com/search?q=%e6%a1%83%e9%89%84%e6%96%b0%e4%bd%9c) | N/A |
-| 49 | [ふしぎのぼうし](http://twitter.com/search?q=%e3%81%b5%e3%81%97%e3%81%8e%e3%81%ae%e3%81%bc%e3%81%86%e3%81%97) | N/A |
-| 50 | [Twitter復活](http://twitter.com/search?q=Twitter%e5%be%a9%e6%b4%bb) | N/A |
+| 48 | [アルヴィース](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%b4%e3%82%a3%e3%83%bc%e3%82%b9) | N/A |
+| 49 | [API制限](http://twitter.com/search?q=API%e5%88%b6%e9%99%90) | N/A |
+| 50 | [イーロン](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%83%ad%e3%83%b3) | イーロン is the given name of Elon Musk, an American entrepreneur and business magnate. He is the founder, CEO, and CTO of SpaceX; co-founder, CEO, and product architect of Tesla Inc.; and founder of The Boring Company. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-08 23:16:04 UTC`
+📆 Last Updated: `2023-02-09 00:28:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 4 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 5 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
 | 7 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
 | 8 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 9 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 11 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 12 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 13 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 14 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
-| 17 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
-| 18 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 9 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 12 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 14 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 15 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 16 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 17 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 18 | [klarnamen](http://twitter.com/search?q=klarnamen) | N/A |
 | 19 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 22 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 23 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 24 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 25 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 26 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 27 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 31 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 32 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 33 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 34 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 35 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 36 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
-| 37 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 38 | [grenzgebiet](http://twitter.com/search?q=grenzgebiet) | N/A |
-| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 40 | [Fuss](http://twitter.com/search?q=Fuss) | N/A |
-| 41 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 42 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
-| 43 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
-| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 45 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
-| 46 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 47 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 48 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 20 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 21 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 23 | [Besetzung](http://twitter.com/search?q=Besetzung) | N/A |
+| 24 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 25 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 26 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 27 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 28 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 29 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 31 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 32 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 35 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 36 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 37 | [Verfügung](http://twitter.com/search?q=Verf%c3%bcgung) | N/A |
+| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 39 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 42 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 43 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 44 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 45 | [West](http://twitter.com/search?q=West) | N/A |
+| 46 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
+| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 48 | [Friedensforscher](http://twitter.com/search?q=Friedensforscher) | N/A |
 
 
 

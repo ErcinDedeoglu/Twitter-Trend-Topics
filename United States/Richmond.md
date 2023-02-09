@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-08 23:16:38 UTC`
+📆 Last Updated: `2023-02-09 00:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 4 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 5 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 6 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 7 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 8 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 9 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 10 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 11 | [SPLATOON DLC](http://twitter.com/search?q=SPLATOON+DLC) | N/A |
-| 12 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 15 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
-| 16 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 18 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 19 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 22 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 23 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 24 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 25 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 2 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 3 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 4 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 6 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 7 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 10 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 11 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 12 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
+| 13 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 14 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 15 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 16 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 17 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
+| 18 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
+| 19 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
+| 20 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 22 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 24 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 25 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
 | 26 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 27 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
-| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 29 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 30 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 31 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 32 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 33 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
-| 34 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
-| 35 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 36 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 27 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 28 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
+| 29 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 30 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 31 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
+| 32 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
+| 33 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
+| 34 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 35 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 36 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
 | 37 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
-| 38 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 39 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
-| 40 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 41 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 42 | [Advance Wars](http://twitter.com/search?q=Advance+Wars) | N/A |
-| 43 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 44 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 45 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
-| 46 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 47 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
-| 48 | [Deca Police](http://twitter.com/search?q=Deca+Police) | N/A |
-| 49 | [No Tomodachi Life](http://twitter.com/search?q=No+Tomodachi+Life) | N/A |
+| 38 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
+| 39 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 40 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
+| 41 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 42 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 44 | [Hector](http://twitter.com/search?q=Hector) | N/A |
+| 45 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 46 | [Soren](http://twitter.com/search?q=Soren) | N/A |
+| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 48 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
 
 
 

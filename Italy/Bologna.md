@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-08 23:16:01 UTC`
+📆 Last Updated: `2023-02-09 00:28:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,46 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 2 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 3 | [#articolo31](http://twitter.com/search?q=%23articolo31) | N/A |
-| 4 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 5 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 7 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 1 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
+| 4 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 5 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 6 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 7 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
 | 8 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 9 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 10 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 11 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 12 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 13 | [Drusilla](http://twitter.com/search?q=Drusilla) | N/A |
-| 14 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 15 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 16 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
-| 17 | [Renga](http://twitter.com/search?q=Renga) | N/A |
-| 18 | [Dardust](http://twitter.com/search?q=Dardust) | N/A |
-| 19 | [Big Fish](http://twitter.com/search?q=Big+Fish) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [J-Ax](http://twitter.com/search?q=J-Ax) | N/A |
-| 22 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 23 | [Dimartino](http://twitter.com/search?q=Dimartino) | N/A |
-| 24 | [Francesco Arca](http://twitter.com/search?q=Francesco+Arca) | N/A |
-| 25 | [Siena](http://twitter.com/search?q=Siena) | N/A |
-| 26 | [Elena Fanchini](http://twitter.com/search?q=Elena+Fanchini) | N/A |
-| 27 | [Perdere](http://twitter.com/search?q=Perdere) | N/A |
-| 28 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 29 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 30 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 31 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 32 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
-| 33 | [Termini](http://twitter.com/search?q=Termini) | N/A |
-| 34 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
-| 35 | [#Madame](http://twitter.com/search?q=%23Madame) | N/A |
-| 36 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
-| 37 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 38 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
-| 39 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 40 | [#IranRevolution](http://twitter.com/search?q=%23IranRevolution) | N/A |
-| 41 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 42 | [#Majorino](http://twitter.com/search?q=%23Majorino) | N/A |
-| 43 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 44 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 45 | [#Galatasaray](http://twitter.com/search?q=%23Galatasaray) | #Galatasaray is the name of a Turkish sports club based in Istanbul. The name translates to "Galata Palace" in English, referring to the Galata district of Istanbul where the club was founded in 1905. |
-| 46 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
+| 9 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 10 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 11 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 12 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 13 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 14 | [#furore](http://twitter.com/search?q=%23furore) | N/A |
+| 15 | [Luchino](http://twitter.com/search?q=Luchino) | N/A |
+| 16 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 17 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 18 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 19 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 20 | [Black Eyed Peas](http://twitter.com/search?q=Black+Eyed+Peas) | N/A |
+| 21 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 22 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 23 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 24 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 25 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 26 | [Siena](http://twitter.com/search?q=Siena) | N/A |
+| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 28 | [Renga](http://twitter.com/search?q=Renga) | N/A |
+| 29 | [J-Ax](http://twitter.com/search?q=J-Ax) | N/A |
+| 30 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 31 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
+| 32 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 33 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 34 | [#fantasanremo](http://twitter.com/search?q=%23fantasanremo) | N/A |
+| 35 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
+| 36 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 37 | [#nonSiVede](http://twitter.com/search?q=%23nonSiVede) | N/A |
+| 38 | [#legajeru](http://twitter.com/search?q=%23legajeru) | N/A |
+| 39 | [#Majorino](http://twitter.com/search?q=%23Majorino) | N/A |
+| 40 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
 
 
 

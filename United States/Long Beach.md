@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-08 23:16:35 UTC`
+📆 Last Updated: `2023-02-09 00:28:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 2 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
-| 3 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 4 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 7 | [John Williams](http://twitter.com/search?q=John+Williams) | John Williams is the name of an American composer, conductor, and pianist. He is best known for his film scores, including those for the Star Wars and Indiana Jones franchises. He has won numerous awards, including five Academy Awards, four Golden Globe Awards, seven British Academy Film Awards, and twenty-two Grammy Awards. |
-| 8 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 1 | [#ScreenPit](http://twitter.com/search?q=%23ScreenPit) | N/A |
+| 2 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 3 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 4 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 5 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 6 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 7 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 8 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 | 9 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 10 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 11 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 12 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 13 | [SS and Medicare](http://twitter.com/search?q=SS+and+Medicare) | N/A |
-| 14 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 15 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 16 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 17 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 19 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 20 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 21 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 22 | [SPLATOON DLC](http://twitter.com/search?q=SPLATOON+DLC) | N/A |
-| 23 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 26 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 10 | [Congressional](http://twitter.com/search?q=Congressional) | N/A |
+| 11 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 12 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 13 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 14 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 15 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 17 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 18 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 19 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 20 | [Professor Layton](http://twitter.com/search?q=Professor+Layton) | N/A |
+| 21 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 22 | [Twitter DMs](http://twitter.com/search?q=Twitter+DMs) | N/A |
+| 23 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 24 | [Etrian Odyssey](http://twitter.com/search?q=Etrian+Odyssey) | N/A |
+| 25 | [My DMs](http://twitter.com/search?q=My+DMs) | N/A |
+| 26 | [splatoon dlc](http://twitter.com/search?q=splatoon+dlc) | N/A |
 | 27 | [Samba de Amigo](http://twitter.com/search?q=Samba+de+Amigo) | N/A |
-| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 29 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 32 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 33 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 34 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 35 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 36 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
-| 37 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
-| 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 39 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
-| 40 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 41 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 42 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 43 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
-| 44 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
-| 45 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
-| 46 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
-| 47 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 28 | [Minish Cap](http://twitter.com/search?q=Minish+Cap) | N/A |
+| 29 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 30 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
+| 31 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 32 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 33 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 34 | [Shulk](http://twitter.com/search?q=Shulk) | N/A |
+| 35 | [Alvis](http://twitter.com/search?q=Alvis) | N/A |
+| 36 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 37 | [Tonya Harding](http://twitter.com/search?q=Tonya+Harding) | N/A |
+| 38 | [GB and GBA](http://twitter.com/search?q=GB+and+GBA) | N/A |
+| 39 | [Side Order](http://twitter.com/search?q=Side+Order) | N/A |
+| 40 | [Sea of Stars](http://twitter.com/search?q=Sea+of+Stars) | N/A |
+| 41 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 42 | [Golden Sun](http://twitter.com/search?q=Golden+Sun) | N/A |
+| 43 | [My Twitter](http://twitter.com/search?q=My+Twitter) | N/A |
+| 44 | [Fashion Dreamer](http://twitter.com/search?q=Fashion+Dreamer) | N/A |
+| 45 | [Inkopolis](http://twitter.com/search?q=Inkopolis) | N/A |
+| 46 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 47 | [Style Savvy](http://twitter.com/search?q=Style+Savvy) | N/A |
 
 
 

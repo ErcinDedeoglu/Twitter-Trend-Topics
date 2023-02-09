@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-08 23:15:47 UTC`
+📆 Last Updated: `2023-02-09 00:28:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 2 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
-| 3 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 1 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 4 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 6 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 5 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 7 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 10 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
-| 11 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 12 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 17 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 19 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 20 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 21 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 22 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 23 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 24 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 25 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 26 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
-| 27 | [Laura Flores](http://twitter.com/search?q=Laura+Flores) | N/A |
-| 28 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 29 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 30 | [Chetumal](http://twitter.com/search?q=Chetumal) | N/A |
-| 31 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 32 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 33 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 34 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 35 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 36 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 37 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 38 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
-| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 40 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 41 | [#MISAMO](http://twitter.com/search?q=%23MISAMO) | N/A |
-| 42 | [#BosqueDeChapultepec](http://twitter.com/search?q=%23BosqueDeChapultepec) | N/A |
-| 43 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
-| 44 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 45 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 46 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 47 | [#VillaVictoria](http://twitter.com/search?q=%23VillaVictoria) | N/A |
-| 48 | [#ClubWC](http://twitter.com/search?q=%23ClubWC) | N/A |
-| 49 | [#BecasEdoméx](http://twitter.com/search?q=%23BecasEdom%c3%a9x) | N/A |
-| 50 | [#빛나는_스무살_냥정원_레쭈고](http://twitter.com/search?q=%23%eb%b9%9b%eb%82%98%eb%8a%94_%ec%8a%a4%eb%ac%b4%ec%82%b4_%eb%83%a5%ec%a0%95%ec%9b%90_%eb%a0%88%ec%ad%88%ea%b3%a0) | N/A |
+| 8 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [#EnHoraBuenaCinco](http://twitter.com/search?q=%23EnHoraBuenaCinco) | N/A |
+| 11 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 12 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 13 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 14 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 15 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 16 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 17 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 18 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 19 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 20 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 21 | [Game Boy](http://twitter.com/search?q=Game+Boy) | N/A |
+| 22 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
+| 23 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 24 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
+| 25 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 26 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 27 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 28 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
+| 29 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 31 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [#Disney](http://twitter.com/search?q=%23Disney) | N/A |
+| 34 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 35 | [Twittear](http://twitter.com/search?q=Twittear) | N/A |
+| 36 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 37 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
+| 38 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
+| 39 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 40 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 41 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 42 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 43 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 44 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 45 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 46 | [Chetumal](http://twitter.com/search?q=Chetumal) | N/A |
+| 47 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 48 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 49 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 50 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 
 
 

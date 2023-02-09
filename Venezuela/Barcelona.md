@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-08 23:15:52 UTC`
+📆 Last Updated: `2023-02-09 00:28:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#8Feb](http://twitter.com/search?q=%238Feb) | N/A |
 | 2 | [#PatriaGrandeEsCaribe](http://twitter.com/search?q=%23PatriaGrandeEsCaribe) | N/A |
-| 3 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 4 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 5 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [#VenezuelaMonumental](http://twitter.com/search?q=%23VenezuelaMonumental) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 9 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 10 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 11 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 12 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
-| 13 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 14 | [Polar](http://twitter.com/search?q=Polar) | N/A |
-| 15 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
-| 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [feliz martes](http://twitter.com/search?q=feliz+martes) | N/A |
-| 19 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
-| 20 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 21 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 22 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 23 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
-| 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 25 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 26 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
-| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 28 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 29 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
-| 30 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
-| 31 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 32 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 33 | [montilla](http://twitter.com/search?q=montilla) | N/A |
-| 34 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
-| 35 | [Mimi Lazo](http://twitter.com/search?q=Mimi+Lazo) | N/A |
+| 3 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 7 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 8 | [Onia](http://twitter.com/search?q=Onia) | N/A |
+| 9 | [#VenezuelaMonumental](http://twitter.com/search?q=%23VenezuelaMonumental) | N/A |
+| 10 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 11 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 12 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 13 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 14 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 15 | [Julio Verne](http://twitter.com/search?q=Julio+Verne) | N/A |
+| 16 | [Polar](http://twitter.com/search?q=Polar) | N/A |
+| 17 | [Lorenzo Mendoza](http://twitter.com/search?q=Lorenzo+Mendoza) | N/A |
+| 18 | [Arias Cárdenas](http://twitter.com/search?q=Arias+C%c3%a1rdenas) | N/A |
+| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 20 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 21 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 24 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 26 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
+| 27 | [Filarmónica de Nueva York](http://twitter.com/search?q=Filarm%c3%b3nica+de+Nueva+York) | N/A |
+| 28 | [Misael](http://twitter.com/search?q=Misael) | N/A |
+| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 30 | [Granadinas](http://twitter.com/search?q=Granadinas) | N/A |
+| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 32 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 33 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 34 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
+| 35 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 36 | [Carabobo FC](http://twitter.com/search?q=Carabobo+FC) | N/A |
-| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 38 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [Nervis Villalobos](http://twitter.com/search?q=Nervis+Villalobos) | N/A |
-| 41 | [Lili Estefan](http://twitter.com/search?q=Lili+Estefan) | N/A |
-| 42 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 37 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 38 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 39 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 40 | [Andy García](http://twitter.com/search?q=Andy+Garc%c3%ada) | N/A |
+| 41 | [Mimi Lazo](http://twitter.com/search?q=Mimi+Lazo) | N/A |
+| 42 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 43 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
 | 44 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 45 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 46 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 47 | [Carlos III](http://twitter.com/search?q=Carlos+III) | N/A |
-| 48 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 45 | [CICPC](http://twitter.com/search?q=CICPC) | N/A |
+| 46 | [montilla](http://twitter.com/search?q=montilla) | N/A |
+| 47 | [San Vicente](http://twitter.com/search?q=San+Vicente) | N/A |
 
 
 
