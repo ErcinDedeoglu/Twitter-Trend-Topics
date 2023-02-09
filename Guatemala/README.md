@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-09 09:16:09 UTC`
+📆 Last Updated: `2023-02-09 10:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DENNIS ARANA](http://twitter.com/search?q=DENNIS+ARANA) | N/A |
-| 2 | [Gaby Asturias](http://twitter.com/search?q=Gaby+Asturias) | N/A |
+| 2 | [gaby asturias](http://twitter.com/search?q=gaby+asturias) | N/A |
 | 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 5 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
@@ -29,7 +29,7 @@ This is top 50 for Guatemala
 | 12 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 13 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 15 | [Conjuve](http://twitter.com/search?q=Conjuve) | N/A |
+| 15 | [conjuve](http://twitter.com/search?q=conjuve) | N/A |
 | 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 18 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for Guatemala
 | 24 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
 | 25 | [Zapeta](http://twitter.com/search?q=Zapeta) | N/A |
 | 26 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 27 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 27 | [queso](http://twitter.com/search?q=queso) | N/A |
 | 28 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 29 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
 | 30 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
@@ -56,7 +56,7 @@ This is top 50 for Guatemala
 | 39 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
 | 40 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 41 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 42 | [giammattei](http://twitter.com/search?q=giammattei) | N/A |
+| 42 | [Giammattei](http://twitter.com/search?q=Giammattei) | N/A |
 | 43 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 45 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-02-09 09:15:55 UTC`
+📆 Last Updated: `2023-02-09 10:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 3 | [#AloneOutNow](http://twitter.com/search?q=%23AloneOutNow) | N/A |
+| 1 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [#Jadeja](http://twitter.com/search?q=%23Jadeja) | N/A |
 | 4 | [#HBDShindeSaheb](http://twitter.com/search?q=%23HBDShindeSaheb) | N/A |
-| 5 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 6 | [#KudiyeeNiTeri](http://twitter.com/search?q=%23KudiyeeNiTeri) | N/A |
-| 7 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 8 | [PIYA RE OUT NOW](http://twitter.com/search?q=PIYA+RE+OUT+NOW) | N/A |
-| 9 | [Marnus](http://twitter.com/search?q=Marnus) | N/A |
-| 10 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 11 | [Mayank Agarwal](http://twitter.com/search?q=Mayank+Agarwal) | Mayank Agarwal is an Indian cricketer who plays for the Indian national cricket team. His name is derived from the Sanskrit words "Maya" meaning "illusion" and "Ank" meaning "mark". The literal translation of his name is "mark of illusion". |
-| 12 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 13 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 14 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 15 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 16 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
-| 17 | [Kollywood](http://twitter.com/search?q=Kollywood) | N/A |
-| 18 | [Onus On CBI 4SSRJustice](http://twitter.com/search?q=Onus+On+CBI+4SSRJustice) | N/A |
-| 19 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 20 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 22 | [Rs 900](http://twitter.com/search?q=Rs+900) | N/A |
-| 23 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 24 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 25 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 26 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
-| 27 | [ट्विटर ब्लू](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9f%e0%a4%b0+%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%82) | N/A |
-| 28 | [Happy Chocolate](http://twitter.com/search?q=Happy+Chocolate) | N/A |
-| 29 | [MSCI](http://twitter.com/search?q=MSCI) | N/A |
-| 30 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
-| 31 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 32 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 33 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 34 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 35 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 36 | [Ganga](http://twitter.com/search?q=Ganga) | N/A |
-| 37 | [#ChocolateDay](http://twitter.com/search?q=%23ChocolateDay) | N/A |
-| 38 | [#jadeja](http://twitter.com/search?q=%23jadeja) | N/A |
-| 39 | [#RajyaSabha](http://twitter.com/search?q=%23RajyaSabha) | N/A |
-| 40 | [#TwitterBlue](http://twitter.com/search?q=%23TwitterBlue) | N/A |
-| 41 | [#BorderGavaskarTrophy](http://twitter.com/search?q=%23BorderGavaskarTrophy) | N/A |
-| 42 | [#UPGoesGlobal](http://twitter.com/search?q=%23UPGoesGlobal) | N/A |
-| 43 | [#Ashwin](http://twitter.com/search?q=%23Ashwin) | N/A |
-| 44 | [#CowHugging](http://twitter.com/search?q=%23CowHugging) | N/A |
-| 45 | [#BlueTick](http://twitter.com/search?q=%23BlueTick) | N/A |
-| 46 | [#RanjiTrophy2023](http://twitter.com/search?q=%23RanjiTrophy2023) | N/A |
-| 47 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 48 | [#KsBharat](http://twitter.com/search?q=%23KsBharat) | N/A |
-| 49 | [#karvsau](http://twitter.com/search?q=%23karvsau) | N/A |
-| 50 | [#MrunalThakur](http://twitter.com/search?q=%23MrunalThakur) | N/A |
+| 5 | [#AloneOutNow](http://twitter.com/search?q=%23AloneOutNow) | N/A |
+| 6 | [#RajyaSabha](http://twitter.com/search?q=%23RajyaSabha) | N/A |
+| 7 | [Mark Waugh](http://twitter.com/search?q=Mark+Waugh) | N/A |
+| 8 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 9 | [Alex Carey](http://twitter.com/search?q=Alex+Carey) | N/A |
+| 10 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 11 | [Sunny G](http://twitter.com/search?q=Sunny+G) | N/A |
+| 12 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 13 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 14 | [PIYA RE OUT NOW](http://twitter.com/search?q=PIYA+RE+OUT+NOW) | N/A |
+| 15 | [Ravi Shastri](http://twitter.com/search?q=Ravi+Shastri) | N/A |
+| 16 | [Onus On CBI 4SSRJustice](http://twitter.com/search?q=Onus+On+CBI+4SSRJustice) | N/A |
+| 17 | [संजय सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 18 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 19 | [Kollywood](http://twitter.com/search?q=Kollywood) | N/A |
+| 20 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 21 | [Mayank Agarwal](http://twitter.com/search?q=Mayank+Agarwal) | Mayank Agarwal is an Indian cricketer who plays for the Indian national cricket team. His name is derived from the Sanskrit words "Maya" meaning "illusion" and "Ank" meaning "mark". The literal translation of his name is "mark of illusion". |
+| 22 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 24 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 25 | [Labuschagne](http://twitter.com/search?q=Labuschagne) | N/A |
+| 26 | [Rs 900](http://twitter.com/search?q=Rs+900) | N/A |
+| 27 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 28 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 29 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 30 | [Happy Chocolate](http://twitter.com/search?q=Happy+Chocolate) | N/A |
+| 31 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 32 | [ट्विटर ब्लू](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9f%e0%a4%b0+%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%82) | N/A |
+| 33 | [Motion of Thanks](http://twitter.com/search?q=Motion+of+Thanks) | N/A |
+| 34 | [MSCI](http://twitter.com/search?q=MSCI) | N/A |
+| 35 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 36 | [PM Modi](http://twitter.com/search?q=PM+Modi) | N/A |
+| 37 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 38 | [1st Test](http://twitter.com/search?q=1st+Test) | N/A |
+| 39 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 40 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 41 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 42 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 43 | [#ChocolateDay](http://twitter.com/search?q=%23ChocolateDay) | N/A |
+| 44 | [#KudiyeeNiTeri](http://twitter.com/search?q=%23KudiyeeNiTeri) | N/A |
+| 45 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 46 | [#Ashwin](http://twitter.com/search?q=%23Ashwin) | N/A |
+| 47 | [#BorderGavaskarTrophy](http://twitter.com/search?q=%23BorderGavaskarTrophy) | N/A |
+| 48 | [#TwitterBlue](http://twitter.com/search?q=%23TwitterBlue) | N/A |
+| 49 | [#UPGoesGlobal](http://twitter.com/search?q=%23UPGoesGlobal) | N/A |
+| 50 | [#UnnatoTripuraSresthoTripura](http://twitter.com/search?q=%23UnnatoTripuraSresthoTripura) | N/A |
 
 
 

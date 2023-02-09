@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-09 09:15:56 UTC`
+📆 Last Updated: `2023-02-09 10:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
-| 2 | [#ABDgemisiistemiyoruz](http://twitter.com/search?q=%23ABDgemisiistemiyoruz) | N/A |
-| 3 | [Kadir Sütçü](http://twitter.com/search?q=Kadir+S%c3%bct%c3%a7%c3%bc) | N/A |
+| 2 | [#starbucksBoykot](http://twitter.com/search?q=%23starbucksBoykot) | N/A |
+| 3 | [#ABDgemisiistemiyoruz](http://twitter.com/search?q=%23ABDgemisiistemiyoruz) | N/A |
 | 4 | [#depremden](http://twitter.com/search?q=%23depremden) | N/A |
-| 5 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
-| 6 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 7 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 8 | [#tahaduymaz](http://twitter.com/search?q=%23tahaduymaz) | N/A |
-| 9 | [#starbucksBoykot](http://twitter.com/search?q=%23starbucksBoykot) | N/A |
-| 10 | [Zeynep Polat](http://twitter.com/search?q=Zeynep+Polat) | N/A |
-| 11 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
-| 12 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 13 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
-| 14 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
-| 15 | [Şovu](http://twitter.com/search?q=%c5%9eovu) | N/A |
+| 5 | [Kadir Sütçü](http://twitter.com/search?q=Kadir+S%c3%bct%c3%a7%c3%bc) | N/A |
+| 6 | [#netflixboykot](http://twitter.com/search?q=%23netflixboykot) | N/A |
+| 7 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 8 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 9 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 10 | [Dayanışma Vakti](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Vakti) | N/A |
+| 11 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 12 | [ZeynepZaraca AcilYardım](http://twitter.com/search?q=ZeynepZaraca+AcilYard%c4%b1m) | N/A |
+| 13 | [Galip](http://twitter.com/search?q=Galip) | N/A |
+| 14 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 15 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
 | 16 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 17 | [Galip](http://twitter.com/search?q=Galip) | N/A |
-| 18 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 19 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
-| 20 | [Servet](http://twitter.com/search?q=Servet) | N/A |
+| 17 | [Zeynep Polat](http://twitter.com/search?q=Zeynep+Polat) | N/A |
+| 18 | [Şovu](http://twitter.com/search?q=%c5%9eovu) | N/A |
+| 19 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 20 | [Depremin 4](http://twitter.com/search?q=Depremin+4) | N/A |
 | 21 | [Halk](http://twitter.com/search?q=Halk) | N/A |
-| 22 | [Bugün 4](http://twitter.com/search?q=Bug%c3%bcn+4) | N/A |
-| 23 | [Tayvan Cumhurbaşkanı](http://twitter.com/search?q=Tayvan+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 24 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 25 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 26 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 27 | [RönesansRezidansa EkipGönderin](http://twitter.com/search?q=R%c3%b6nesansRezidansa+EkipG%c3%b6nderin) | N/A |
-| 28 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 29 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 30 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
-| 31 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
-| 32 | [Gelmesin](http://twitter.com/search?q=Gelmesin) | N/A |
-| 33 | [George HW Bush](http://twitter.com/search?q=George+HW+Bush) | N/A |
-| 34 | [Yunan](http://twitter.com/search?q=Yunan) | N/A |
-| 35 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 36 | [Arsız](http://twitter.com/search?q=Ars%c4%b1z) | N/A |
-| 37 | [Yüzsüz](http://twitter.com/search?q=Y%c3%bczs%c3%bcz) | N/A |
-| 38 | [Murat Bardakçı](http://twitter.com/search?q=Murat+Bardak%c3%a7%c4%b1) | N/A |
-| 39 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 40 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 41 | [Omurgasız](http://twitter.com/search?q=Omurgas%c4%b1z) | N/A |
-| 42 | [Yalancı](http://twitter.com/search?q=Yalanc%c4%b1) | N/A |
-| 43 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 44 | [Rezil](http://twitter.com/search?q=Rezil) | N/A |
-| 45 | [Şovmen](http://twitter.com/search?q=%c5%9eovmen) | N/A |
+| 22 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 23 | [Bugün 4](http://twitter.com/search?q=Bug%c3%bcn+4) | N/A |
+| 24 | [Tuborg](http://twitter.com/search?q=Tuborg) | N/A |
+| 25 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 26 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
+| 27 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 28 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 29 | [Servet Altaş](http://twitter.com/search?q=Servet+Alta%c5%9f) | N/A |
+| 30 | [RönesansRezidansa EkipGönderin](http://twitter.com/search?q=R%c3%b6nesansRezidansa+EkipG%c3%b6nderin) | N/A |
+| 31 | [Tayvan Cumhurbaşkanı](http://twitter.com/search?q=Tayvan+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 32 | [Devamını](http://twitter.com/search?q=Devam%c4%b1n%c4%b1) | N/A |
+| 33 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 34 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 35 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 36 | [deprembölgelerine kefenlazım](http://twitter.com/search?q=depremb%c3%b6lgelerine+kefenlaz%c4%b1m) | N/A |
+| 37 | [Hazal](http://twitter.com/search?q=Hazal) | N/A |
+| 38 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 39 | [Gelmesin](http://twitter.com/search?q=Gelmesin) | N/A |
+| 40 | [Bira](http://twitter.com/search?q=Bira) | N/A |
+| 41 | [Yıkılmayan](http://twitter.com/search?q=Y%c4%b1k%c4%b1lmayan) | N/A |
+| 42 | [Hanımefendi](http://twitter.com/search?q=Han%c4%b1mefendi) | N/A |
+| 43 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 44 | [Yunan](http://twitter.com/search?q=Yunan) | N/A |
+| 45 | [Yüzsüz](http://twitter.com/search?q=Y%c3%bczs%c3%bcz) | N/A |
 | 46 | [Yardıma](http://twitter.com/search?q=Yard%c4%b1ma) | N/A |
-| 47 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
-| 48 | [TEYİTLİ BİLGİ](http://twitter.com/search?q=TEY%c4%b0TL%c4%b0+B%c4%b0LG%c4%b0) | N/A |
-| 49 | [İşiniz](http://twitter.com/search?q=%c4%b0%c5%9finiz) | N/A |
-| 50 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 47 | [DepremBölgelerine SuDesteği](http://twitter.com/search?q=DepremB%c3%b6lgelerine+SuDeste%c4%9fi) | N/A |
+| 48 | [Şovmen](http://twitter.com/search?q=%c5%9eovmen) | N/A |
+| 49 | [Rezil](http://twitter.com/search?q=Rezil) | N/A |
+| 50 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
 
 
 

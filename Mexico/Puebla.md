@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-09 09:15:23 UTC`
+📆 Last Updated: `2023-02-09 10:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 2 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 3 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 6 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 7 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 8 | [#larriesvsantis](http://twitter.com/search?q=%23larriesvsantis) | N/A |
-| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 10 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 11 | [Larry](http://twitter.com/search?q=Larry) | N/A |
-| 12 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 13 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 14 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 15 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 18 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 19 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 20 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 21 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 22 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
-| 23 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 24 | [Grupo Pachuca](http://twitter.com/search?q=Grupo+Pachuca) | N/A |
-| 25 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 26 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 27 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
-| 28 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 30 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
-| 31 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 32 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 33 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 34 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
+| 1 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 2 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 3 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 4 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
+| 5 | [#ventajaallstar](http://twitter.com/search?q=%23ventajaallstar) | N/A |
+| 6 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 7 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 8 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 9 | [#TXTatMCOUNTDOWN](http://twitter.com/search?q=%23TXTatMCOUNTDOWN) | N/A |
+| 10 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
+| 11 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 14 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 15 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 16 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 17 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 18 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
+| 19 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 21 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
+| 22 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 23 | [miguel herrera](http://twitter.com/search?q=miguel+herrera) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 26 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 27 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 28 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 29 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 30 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 32 | [Sabrina Sabrok](http://twitter.com/search?q=Sabrina+Sabrok) | N/A |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 34 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 35 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 36 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 37 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 38 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 39 | [Irarragorri](http://twitter.com/search?q=Irarragorri) | N/A |
+| 40 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 41 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 42 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 43 | [Jabbar](http://twitter.com/search?q=Jabbar) | N/A |
+| 44 | [Eva de Metal](http://twitter.com/search?q=Eva+de+Metal) | N/A |
+| 45 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 46 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 47 | [Edgar Veytia](http://twitter.com/search?q=Edgar+Veytia) | N/A |
+| 48 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
+| 49 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
+| 50 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
 
 
 
