@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gwangju
 
-📆 Last Updated: `2023-02-10 22:16:04 UTC`
+📆 Last Updated: `2023-02-10 23:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [Korea](</Korea>)
 | 13 | [쿠킹미제](http://twitter.com/search?q=%ec%bf%a0%ed%82%b9%eb%af%b8%ec%a0%9c) | N/A |
 | 14 | [수달인형](http://twitter.com/search?q=%ec%88%98%eb%8b%ac%ec%9d%b8%ed%98%95) | N/A |
 | 15 | [메타버스](http://twitter.com/search?q=%eb%a9%94%ed%83%80%eb%b2%84%ec%8a%a4) | N/A |
-| 16 | [졸업 축하](http://twitter.com/search?q=%ec%a1%b8%ec%97%85+%ec%b6%95%ed%95%98) | N/A |
-| 17 | [아담 이브](http://twitter.com/search?q=%ec%95%84%eb%8b%b4+%ec%9d%b4%eb%b8%8c) | N/A |
-| 18 | [고1 3모](http://twitter.com/search?q=%ea%b3%a01+3%eb%aa%a8) | N/A |
+| 16 | [아담 이브](http://twitter.com/search?q=%ec%95%84%eb%8b%b4+%ec%9d%b4%eb%b8%8c) | N/A |
+| 17 | [고1 3모](http://twitter.com/search?q=%ea%b3%a01+3%eb%aa%a8) | N/A |
+| 18 | [졸업 축하](http://twitter.com/search?q=%ec%a1%b8%ec%97%85+%ec%b6%95%ed%95%98) | N/A |
 | 19 | [꼬들 406](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+406) | N/A |
-| 20 | [인형놀이](http://twitter.com/search?q=%ec%9d%b8%ed%98%95%eb%86%80%ec%9d%b4) | N/A |
-| 21 | [복지왕 자캐](http://twitter.com/search?q=%eb%b3%b5%ec%a7%80%ec%99%95+%ec%9e%90%ec%ba%90) | N/A |
-| 22 | [스엠 인수](http://twitter.com/search?q=%ec%8a%a4%ec%97%a0+%ec%9d%b8%ec%88%98) | N/A |
-| 23 | [주력커뮤](http://twitter.com/search?q=%ec%a3%bc%eb%a0%a5%ec%bb%a4%eb%ae%a4) | N/A |
-| 24 | [황소개구리](http://twitter.com/search?q=%ed%99%a9%ec%86%8c%ea%b0%9c%ea%b5%ac%eb%a6%ac) | N/A |
-| 25 | [총괄 vs](http://twitter.com/search?q=%ec%b4%9d%ea%b4%84+vs) | N/A |
-| 26 | [아이해봉](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%ed%95%b4%eb%b4%89) | N/A |
-| 27 | [vs 시리](http://twitter.com/search?q=vs+%ec%8b%9c%eb%a6%ac) | N/A |
-| 28 | [커뮤자캐](http://twitter.com/search?q=%ec%bb%a4%eb%ae%a4%ec%9e%90%ec%ba%90) | N/A |
-| 29 | [러닝중 기억](http://twitter.com/search?q=%eb%9f%ac%eb%8b%9d%ec%a4%91+%ea%b8%b0%ec%96%b5) | N/A |
-| 30 | [이성수 탁영준](http://twitter.com/search?q=%ec%9d%b4%ec%84%b1%ec%88%98+%ed%83%81%ec%98%81%ec%a4%80) | N/A |
-| 31 | [은채아기](http://twitter.com/search?q=%ec%9d%80%ec%b1%84%ec%95%84%ea%b8%b0) | N/A |
-| 32 | [츠키스타](http://twitter.com/search?q=%ec%b8%a0%ed%82%a4%ec%8a%a4%ed%83%80) | N/A |
-| 33 | [하이브로](http://twitter.com/search?q=%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a1%9c) | N/A |
-| 34 | [막내 디노](http://twitter.com/search?q=%eb%a7%89%eb%82%b4+%eb%94%94%eb%85%b8) | N/A |
-| 35 | [알하이탐 생일](http://twitter.com/search?q=%ec%95%8c%ed%95%98%ec%9d%b4%ed%83%90+%ec%83%9d%ec%9d%bc) | N/A |
-| 36 | [신사임당](http://twitter.com/search?q=%ec%8b%a0%ec%82%ac%ec%9e%84%eb%8b%b9) | N/A |
-| 37 | [역대급관캐](http://twitter.com/search?q=%ec%97%ad%eb%8c%80%ea%b8%89%ea%b4%80%ec%ba%90) | N/A |
-| 38 | [아기수달](http://twitter.com/search?q=%ec%95%84%ea%b8%b0%ec%88%98%eb%8b%ac) | N/A |
-| 39 | [더보이즈 씨피](http://twitter.com/search?q=%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88+%ec%94%a8%ed%94%bc) | N/A |
-| 40 | [빰빰소셜클럽](http://twitter.com/search?q=%eb%b9%b0%eb%b9%b0%ec%86%8c%ec%85%9c%ed%81%b4%eb%9f%bd) | N/A |
-| 41 | [유의사항](http://twitter.com/search?q=%ec%9c%a0%ec%9d%98%ec%82%ac%ed%95%ad) | N/A |
-| 42 | [핑크블러드](http://twitter.com/search?q=%ed%95%91%ed%81%ac%eb%b8%94%eb%9f%ac%eb%93%9c) | N/A |
-| 43 | [방시혁 돼지새끼](http://twitter.com/search?q=%eb%b0%a9%ec%8b%9c%ed%98%81+%eb%8f%bc%ec%a7%80%ec%83%88%eb%81%bc) | N/A |
-| 44 | [연습실 비하인드](http://twitter.com/search?q=%ec%97%b0%ec%8a%b5%ec%8b%a4+%eb%b9%84%ed%95%98%ec%9d%b8%eb%93%9c) | N/A |
-| 45 | [친구하실분](http://twitter.com/search?q=%ec%b9%9c%ea%b5%ac%ed%95%98%ec%8b%a4%eb%b6%84) | N/A |
-| 46 | [겨울왕국](http://twitter.com/search?q=%ea%b2%a8%ec%9a%b8%ec%99%95%ea%b5%ad) | N/A |
-| 47 | [마스토돈](http://twitter.com/search?q=%eb%a7%88%ec%8a%a4%ed%86%a0%eb%8f%88) | 마스토돈 (Mastodon) is a free, open-source social networking service and microblogging platform. It is similar to Twitter, but allows users to host their own servers and have more control over their data. The name comes from the extinct mammal of the same name. In English, it means "Mastodon". |
-| 48 | [대마 양성](http://twitter.com/search?q=%eb%8c%80%eb%a7%88+%ec%96%91%ec%84%b1) | N/A |
-| 49 | [미라클모닝](http://twitter.com/search?q=%eb%af%b8%eb%9d%bc%ed%81%b4%eb%aa%a8%eb%8b%9d) | N/A |
+| 20 | [주력커뮤](http://twitter.com/search?q=%ec%a3%bc%eb%a0%a5%ec%bb%a4%eb%ae%a4) | N/A |
+| 21 | [아이해봉](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%ed%95%b4%eb%b4%89) | N/A |
+| 22 | [황소개구리](http://twitter.com/search?q=%ed%99%a9%ec%86%8c%ea%b0%9c%ea%b5%ac%eb%a6%ac) | N/A |
+| 23 | [총괄 vs](http://twitter.com/search?q=%ec%b4%9d%ea%b4%84+vs) | N/A |
+| 24 | [러닝후 복지왕 자캐](http://twitter.com/search?q=%eb%9f%ac%eb%8b%9d%ed%9b%84+%eb%b3%b5%ec%a7%80%ec%99%95+%ec%9e%90%ec%ba%90) | N/A |
+| 25 | [역대급관캐](http://twitter.com/search?q=%ec%97%ad%eb%8c%80%ea%b8%89%ea%b4%80%ec%ba%90) | N/A |
+| 26 | [vs 시리](http://twitter.com/search?q=vs+%ec%8b%9c%eb%a6%ac) | N/A |
+| 27 | [러닝중 기억](http://twitter.com/search?q=%eb%9f%ac%eb%8b%9d%ec%a4%91+%ea%b8%b0%ec%96%b5) | N/A |
+| 28 | [신사임당](http://twitter.com/search?q=%ec%8b%a0%ec%82%ac%ec%9e%84%eb%8b%b9) | N/A |
+| 29 | [이성수 탁영준](http://twitter.com/search?q=%ec%9d%b4%ec%84%b1%ec%88%98+%ed%83%81%ec%98%81%ec%a4%80) | N/A |
+| 30 | [커뮤자캐](http://twitter.com/search?q=%ec%bb%a4%eb%ae%a4%ec%9e%90%ec%ba%90) | N/A |
+| 31 | [하이브로](http://twitter.com/search?q=%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a1%9c) | N/A |
+| 32 | [스엠 인수](http://twitter.com/search?q=%ec%8a%a4%ec%97%a0+%ec%9d%b8%ec%88%98) | N/A |
+| 33 | [인형놀이](http://twitter.com/search?q=%ec%9d%b8%ed%98%95%eb%86%80%ec%9d%b4) | N/A |
+| 34 | [미라클모닝](http://twitter.com/search?q=%eb%af%b8%eb%9d%bc%ed%81%b4%eb%aa%a8%eb%8b%9d) | N/A |
+| 35 | [츠키스타](http://twitter.com/search?q=%ec%b8%a0%ed%82%a4%ec%8a%a4%ed%83%80) | N/A |
+| 36 | [알하이탐 생일](http://twitter.com/search?q=%ec%95%8c%ed%95%98%ec%9d%b4%ed%83%90+%ec%83%9d%ec%9d%bc) | N/A |
+| 37 | [빰빰소셜클럽](http://twitter.com/search?q=%eb%b9%b0%eb%b9%b0%ec%86%8c%ec%85%9c%ed%81%b4%eb%9f%bd) | N/A |
+| 38 | [더보이즈 씨피](http://twitter.com/search?q=%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88+%ec%94%a8%ed%94%bc) | N/A |
+| 39 | [여돌이라면 열애설](http://twitter.com/search?q=%ec%97%ac%eb%8f%8c%ec%9d%b4%eb%9d%bc%eb%a9%b4+%ec%97%b4%ec%95%a0%ec%84%a4) | N/A |
+| 40 | [핑크블러드](http://twitter.com/search?q=%ed%95%91%ed%81%ac%eb%b8%94%eb%9f%ac%eb%93%9c) | N/A |
+| 41 | [방시혁 돼지새끼](http://twitter.com/search?q=%eb%b0%a9%ec%8b%9c%ed%98%81+%eb%8f%bc%ec%a7%80%ec%83%88%eb%81%bc) | N/A |
+| 42 | [아기수달](http://twitter.com/search?q=%ec%95%84%ea%b8%b0%ec%88%98%eb%8b%ac) | N/A |
+| 43 | [은채아기](http://twitter.com/search?q=%ec%9d%80%ec%b1%84%ec%95%84%ea%b8%b0) | N/A |
+| 44 | [막내 디노](http://twitter.com/search?q=%eb%a7%89%eb%82%b4+%eb%94%94%eb%85%b8) | N/A |
+| 45 | [연습실 비하인드](http://twitter.com/search?q=%ec%97%b0%ec%8a%b5%ec%8b%a4+%eb%b9%84%ed%95%98%ec%9d%b8%eb%93%9c) | N/A |
+| 46 | [유의사항](http://twitter.com/search?q=%ec%9c%a0%ec%9d%98%ec%82%ac%ed%95%ad) | N/A |
+| 47 | [겨울왕국](http://twitter.com/search?q=%ea%b2%a8%ec%9a%b8%ec%99%95%ea%b5%ad) | N/A |
+| 48 | [대사 초성](http://twitter.com/search?q=%eb%8c%80%ec%82%ac+%ec%b4%88%ec%84%b1) | N/A |
+| 49 | [친구하실분](http://twitter.com/search?q=%ec%b9%9c%ea%b5%ac%ed%95%98%ec%8b%a4%eb%b6%84) | N/A |
 
 
 

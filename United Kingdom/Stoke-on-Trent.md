@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-10 22:15:42 UTC`
+📆 Last Updated: `2023-02-10 23:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 2 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 3 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 4 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 5 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 6 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 7 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 8 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 9 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 10 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
+| 1 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 2 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 3 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 4 | [St Andrews](http://twitter.com/search?q=St+Andrews) | N/A |
+| 5 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 6 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 7 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
+| 8 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 9 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
+| 10 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
 | 11 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 12 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 13 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 14 | [#DeathInParadise](http://twitter.com/search?q=%23DeathInParadise) | N/A |
+| 13 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 14 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
 | 15 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 16 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 16 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 18 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
-| 19 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 20 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 21 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 22 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 18 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 19 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 20 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 21 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 22 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
 | 23 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 24 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 25 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 26 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 27 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
-| 28 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 29 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 30 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 24 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 25 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 26 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 27 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 28 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 29 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 30 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
 | 31 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 33 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 34 | [Crick](http://twitter.com/search?q=Crick) | N/A |
-| 35 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 36 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
-| 37 | [Doop](http://twitter.com/search?q=Doop) | N/A |
-| 38 | [Inspiral Carpets](http://twitter.com/search?q=Inspiral+Carpets) | N/A |
+| 32 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 33 | [Phil Taylor](http://twitter.com/search?q=Phil+Taylor) | N/A |
+| 34 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 35 | [Crick](http://twitter.com/search?q=Crick) | N/A |
+| 36 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 37 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 38 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
 | 39 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 40 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 41 | [Grady](http://twitter.com/search?q=Grady) | N/A |
-| 42 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 43 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
-| 44 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 46 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 47 | [Would I Lie To You](http://twitter.com/search?q=Would+I+Lie+To+You) | N/A |
+| 40 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 41 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 42 | [Grady](http://twitter.com/search?q=Grady) | N/A |
+| 43 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
+| 44 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 45 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
+| 46 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 47 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 48 | [Primal Scream](http://twitter.com/search?q=Primal+Scream) | N/A |
 
 

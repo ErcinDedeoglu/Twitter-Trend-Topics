@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-10 22:16:03 UTC`
+📆 Last Updated: `2023-02-10 23:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 2 | [クイーンC](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3C) | N/A |
-| 3 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 4 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
-| 5 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
-| 6 | [#Mx2](http://twitter.com/search?q=%23Mx2) | #Mx2 is a hashtag used on social media to refer to the Mexican-American community. It is often used to show support for the Mexican-American community and to highlight their contributions to society. |
-| 7 | [ジュンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%81%8f%e3%82%93) | ジュンくん is a nickname for the Japanese male name Jun. It is a term of endearment, similar to calling someone "Jun-kun" in English. |
-| 8 | [忍田さん](http://twitter.com/search?q=%e5%bf%8d%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 9 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 10 | [アラスカ上空](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%b9%e3%82%ab%e4%b8%8a%e7%a9%ba) | N/A |
-| 11 | [建国記念の日](http://twitter.com/search?q=%e5%bb%ba%e5%9b%bd%e8%a8%98%e5%bf%b5%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
-| 13 | [#おは戦50211fd](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650211fd) | N/A |
-| 14 | [#golf897](http://twitter.com/search?q=%23golf897) | N/A |
-| 15 | [#木梨の会](http://twitter.com/search?q=%23%e6%9c%a8%e6%a2%a8%e3%81%ae%e4%bc%9a) | N/A |
-| 16 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
-| 17 | [愛と勇気とチェリーパイ](http://twitter.com/search?q=%e6%84%9b%e3%81%a8%e5%8b%87%e6%b0%97%e3%81%a8%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc%e3%83%91%e3%82%a4) | N/A |
-| 18 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
-| 19 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
-| 20 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
-| 21 | [ズラタン](http://twitter.com/search?q=%e3%82%ba%e3%83%a9%e3%82%bf%e3%83%b3) | N/A |
-| 22 | [ティアウ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a6) | N/A |
-| 23 | [神武天皇](http://twitter.com/search?q=%e7%a5%9e%e6%ad%a6%e5%a4%a9%e7%9a%87) | N/A |
-| 24 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
-| 26 | [志摩スペイン村](http://twitter.com/search?q=%e5%bf%97%e6%91%a9%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3%e6%9d%91) | N/A |
-| 27 | [イラプション](http://twitter.com/search?q=%e3%82%a4%e3%83%a9%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 28 | [オールナイトライブ](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 29 | [わんこそば記念日](http://twitter.com/search?q=%e3%82%8f%e3%82%93%e3%81%93%e3%81%9d%e3%81%b0%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 30 | [twinrail](http://twitter.com/search?q=twinrail) | N/A |
-| 31 | [Wordle 602](http://twitter.com/search?q=Wordle+602) | N/A |
-| 32 | [バズリズム](http://twitter.com/search?q=%e3%83%90%e3%82%ba%e3%83%aa%e3%82%ba%e3%83%a0) | バズリズム is a Japanese media company that produces and distributes content related to music, fashion, and entertainment. The name is a combination of the words "buzz" and "rhythm," which reflects the company's mission to create content that resonates with its audience. In English, it can be translated as "Buzz Rhythm." |
-| 33 | [東京競馬](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e7%ab%b6%e9%a6%ac) | N/A |
-| 34 | [パイモン](http://twitter.com/search?q=%e3%83%91%e3%82%a4%e3%83%a2%e3%83%b3) | N/A |
-| 35 | [チョコレート言葉](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e8%a8%80%e8%91%89) | N/A |
-| 36 | [アイスダンス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 37 | [布団ちゃん](http://twitter.com/search?q=%e5%b8%83%e5%9b%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [ワイスピ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%82%b9%e3%83%94) | N/A |
-| 39 | [斉木楠雄](http://twitter.com/search?q=%e6%96%89%e6%9c%a8%e6%a5%a0%e9%9b%84) | N/A |
-| 40 | [ゼノギアス25周年](http://twitter.com/search?q=%e3%82%bc%e3%83%8e%e3%82%ae%e3%82%a2%e3%82%b925%e5%91%a8%e5%b9%b4) | N/A |
-| 41 | [路面凍結](http://twitter.com/search?q=%e8%b7%af%e9%9d%a2%e5%87%8d%e7%b5%90) | 路面凍結 (romen dōkō) is a Japanese term that literally translates to "road surface freezing." It refers to the phenomenon of ice forming on roads due to cold temperatures, which can cause dangerous driving conditions. |
-| 42 | [式守さん](http://twitter.com/search?q=%e5%bc%8f%e5%ae%88%e3%81%95%e3%82%93) | N/A |
-| 43 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
-| 44 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
-| 45 | [ワクチン業務100人のはず](http://twitter.com/search?q=%e3%83%af%e3%82%af%e3%83%81%e3%83%b3%e6%a5%ad%e5%8b%99100%e4%ba%ba%e3%81%ae%e3%81%af%e3%81%9a) | N/A |
-| 46 | [ワンピースカード](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%94%e3%83%bc%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 47 | [一人っ子](http://twitter.com/search?q=%e4%b8%80%e4%ba%ba%e3%81%a3%e5%ad%90) | N/A |
-| 48 | [ズムサタ](http://twitter.com/search?q=%e3%82%ba%e3%83%a0%e3%82%b5%e3%82%bf) | N/A |
-| 49 | [ブルースハープ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%8f%e3%83%bc%e3%83%97) | N/A |
-| 50 | [マスク緩和後](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%b7%a9%e5%92%8c%e5%be%8c) | N/A |
+| 2 | [ムビナナ](http://twitter.com/search?q=%e3%83%a0%e3%83%93%e3%83%8a%e3%83%8a) | ムビナナ is a Japanese word that means "to be confused". It is often used to describe a feeling of being overwhelmed or uncertain. |
+| 3 | [#マイあさ](http://twitter.com/search?q=%23%e3%83%9e%e3%82%a4%e3%81%82%e3%81%95) | N/A |
+| 4 | [アイスバーン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%90%e3%83%bc%e3%83%b3) | アイスバーン (Iceburn) is a Japanese rock band formed in Tokyo in 1989. The band's music is a mix of progressive rock, jazz fusion, and funk. The name "Iceburn" is derived from the English phrase "ice burn," which refers to the sensation of coldness that one feels when exposed to extreme cold temperatures. In English, the phrase can also be used to describe an intense emotional experience. |
+| 5 | [クイーンC](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3C) | N/A |
+| 6 | [JAEPO](http://twitter.com/search?q=JAEPO) | N/A |
+| 7 | [国立競技場](http://twitter.com/search?q=%e5%9b%bd%e7%ab%8b%e7%ab%b6%e6%8a%80%e5%a0%b4) | N/A |
+| 8 | [合同ライブ](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 9 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
+| 10 | [スケートリンク](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%88%e3%83%aa%e3%83%b3%e3%82%af) | N/A |
+| 11 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
+| 12 | [結婚報告](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e5%a0%b1%e5%91%8a) | 結婚報告 is a Japanese phrase that translates to "wedding announcement". It is used to inform family and friends of an upcoming wedding. |
+| 13 | [#Merm4id色](http://twitter.com/search?q=%23Merm4id%e8%89%b2) | N/A |
+| 14 | [ホロキュア](http://twitter.com/search?q=%e3%83%9b%e3%83%ad%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 15 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
+| 16 | [#ストチューブ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%88%e3%83%81%e3%83%a5%e3%83%bc%e3%83%96) | N/A |
+| 17 | [#金ドラ100よか](http://twitter.com/search?q=%23%e9%87%91%e3%83%89%e3%83%a9100%e3%82%88%e3%81%8b) | #金ドラ100よか is a hashtag used on Twitter in Japan. It roughly translates to "Gold Dragon 100 is good". It is used to express approval or praise for the Gold Dragon 100, a Japanese brand of cigarettes. |
+| 18 | [無事到着](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%88%b0%e7%9d%80) | N/A |
+| 19 | [カルデアス](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%87%e3%82%a2%e3%82%b9) | N/A |
+| 20 | [Angel Beats](http://twitter.com/search?q=Angel+Beats) | Angel Beats is a Japanese anime series created by Jun Maeda and produced by P.A. Works and Aniplex. The story follows a group of teenagers who have died and are stuck in a limbo-like world, where they must fight against an angel to gain their freedom. The title of the series is derived from the phrase "angel beats," which refers to the sound of a heart beating in the afterlife. |
+| 21 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
+| 22 | [リエゾン](http://twitter.com/search?q=%e3%83%aa%e3%82%a8%e3%82%be%e3%83%b3) | リエゾン is a type of Japanese sake, which is made from rice and koji (a type of mold). It is a light and refreshing sake with a slightly sweet flavor. In English, it is sometimes referred to as "rice wine". |
+| 23 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
+| 24 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
+| 25 | [建国記念の日](http://twitter.com/search?q=%e5%bb%ba%e5%9b%bd%e8%a8%98%e5%bf%b5%e3%81%ae%e6%97%a5) | N/A |
+| 26 | [青鬼さん](http://twitter.com/search?q=%e9%9d%92%e9%ac%bc%e3%81%95%e3%82%93) | 青鬼さん (Ao Oni) is a Japanese horror game created by H.S.I. It is a survival horror game where the player must escape from a mansion filled with monsters. The title literally translates to "Blue Demon" in English. |
+| 27 | [アラスカ上空](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%b9%e3%82%ab%e4%b8%8a%e7%a9%ba) | N/A |
+| 28 | [東京競馬](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e7%ab%b6%e9%a6%ac) | N/A |
+| 29 | [レノテン](http://twitter.com/search?q=%e3%83%ac%e3%83%8e%e3%83%86%e3%83%b3) | N/A |
+| 30 | [志摩スペイン村](http://twitter.com/search?q=%e5%bf%97%e6%91%a9%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3%e6%9d%91) | N/A |
+| 31 | [発走時刻](http://twitter.com/search?q=%e7%99%ba%e8%b5%b0%e6%99%82%e5%88%bb) | N/A |
+| 32 | [愛と勇気とチェリーパイ](http://twitter.com/search?q=%e6%84%9b%e3%81%a8%e5%8b%87%e6%b0%97%e3%81%a8%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc%e3%83%91%e3%82%a4) | N/A |
+| 33 | [祝日・土曜](http://twitter.com/search?q=%e7%a5%9d%e6%97%a5%e3%83%bb%e5%9c%9f%e6%9b%9c) | N/A |
+| 34 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 35 | [土曜日の祝日](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e6%97%a5%e3%81%ae%e7%a5%9d%e6%97%a5) | N/A |
+| 36 | [哉中ちゃん](http://twitter.com/search?q=%e5%93%89%e4%b8%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [神武天皇](http://twitter.com/search?q=%e7%a5%9e%e6%ad%a6%e5%a4%a9%e7%9a%87) | N/A |
+| 38 | [飛行物体](http://twitter.com/search?q=%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93) | N/A |
+| 39 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
+| 40 | [わんこそば記念日](http://twitter.com/search?q=%e3%82%8f%e3%82%93%e3%81%93%e3%81%9d%e3%81%b0%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 41 | [フォト風クリアカード](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%88%e9%a2%a8%e3%82%af%e3%83%aa%e3%82%a2%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 42 | [ダート変更](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%88%e5%a4%89%e6%9b%b4) | N/A |
+| 43 | [斉木楠雄](http://twitter.com/search?q=%e6%96%89%e6%9c%a8%e6%a5%a0%e9%9b%84) | N/A |
+| 44 | [ズームイン](http://twitter.com/search?q=%e3%82%ba%e3%83%bc%e3%83%a0%e3%82%a4%e3%83%b3) | N/A |
+| 45 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 46 | [アイスダンス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 47 | [レノくん](http://twitter.com/search?q=%e3%83%ac%e3%83%8e%e3%81%8f%e3%82%93) | N/A |
+| 48 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [休日ダイヤ](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
+| 50 | [テンマくん](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%83%9e%e3%81%8f%e3%82%93) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-10 22:15:42 UTC`
+📆 Last Updated: `2023-02-10 23:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 2 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 3 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 4 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 5 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 6 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 7 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 9 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 10 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 11 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 12 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 13 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
-| 14 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 15 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 16 | [#DeathInParadise](http://twitter.com/search?q=%23DeathInParadise) | N/A |
-| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 18 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 19 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
-| 22 | [Channel 5](http://twitter.com/search?q=Channel+5) | N/A |
-| 23 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 24 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 25 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 26 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 27 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 28 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 29 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 30 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
-| 31 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 32 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 33 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 34 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 35 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 36 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 1 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 2 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 3 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 4 | [St Andrews](http://twitter.com/search?q=St+Andrews) | N/A |
+| 5 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 6 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 7 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 8 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 9 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
+| 10 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 11 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
+| 12 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
+| 13 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 14 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 15 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 16 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 17 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
+| 18 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 20 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 21 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 22 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 23 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 24 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
+| 25 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 26 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 27 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 28 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 29 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 30 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 31 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 32 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
+| 33 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 34 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 35 | [Phil Taylor](http://twitter.com/search?q=Phil+Taylor) | N/A |
+| 36 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 37 | [Crick](http://twitter.com/search?q=Crick) | N/A |
-| 38 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 39 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
-| 40 | [Doop](http://twitter.com/search?q=Doop) | N/A |
-| 41 | [Inspiral Carpets](http://twitter.com/search?q=Inspiral+Carpets) | N/A |
-| 42 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 43 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 44 | [Grady](http://twitter.com/search?q=Grady) | N/A |
+| 38 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 39 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 40 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
+| 41 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 42 | [Grady](http://twitter.com/search?q=Grady) | N/A |
+| 43 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
+| 44 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 45 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
 | 46 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
 | 47 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 48 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 49 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 48 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 49 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 
 
 

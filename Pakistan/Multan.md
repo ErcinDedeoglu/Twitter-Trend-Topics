@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-10 22:16:14 UTC`
+📆 Last Updated: `2023-02-10 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
 | 7 | [saint rampal ji](http://twitter.com/search?q=saint+rampal+ji) | N/A |
 | 8 | [Bloody Civilians](http://twitter.com/search?q=Bloody+Civilians) | N/A |
-| 9 | [Justice Jawad Hassan](http://twitter.com/search?q=Justice+Jawad+Hassan) | N/A |
-| 10 | [finance minister ishaq dar](http://twitter.com/search?q=finance+minister+ishaq+dar) | N/A |
+| 9 | [finance minister ishaq dar](http://twitter.com/search?q=finance+minister+ishaq+dar) | N/A |
+| 10 | [Justice Jawad Hassan](http://twitter.com/search?q=Justice+Jawad+Hassan) | N/A |
 | 11 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 12 | [Legends](http://twitter.com/search?q=Legends) | N/A |
-| 13 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 12 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 13 | [Legends](http://twitter.com/search?q=Legends) | N/A |
 | 14 | [lordships](http://twitter.com/search?q=lordships) | N/A |
 | 15 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
 | 16 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
-| 17 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 18 | [kohlu](http://twitter.com/search?q=kohlu) | N/A |
-| 19 | [Waris](http://twitter.com/search?q=Waris) | N/A |
-| 20 | [Aima Baig](http://twitter.com/search?q=Aima+Baig) | N/A |
-| 21 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 22 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
-| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 24 | [Shayan](http://twitter.com/search?q=Shayan) | N/A |
-| 25 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 26 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 27 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 28 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 29 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 30 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 31 | [Theek](http://twitter.com/search?q=Theek) | N/A |
-| 32 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 33 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 34 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 35 | [Arey](http://twitter.com/search?q=Arey) | N/A |
-| 36 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 37 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 38 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 39 | [Haye](http://twitter.com/search?q=Haye) | N/A |
-| 40 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 41 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
-| 42 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Pinterest](http://twitter.com/search?q=Pinterest) | N/A |
-| 45 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 46 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 48 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 49 | [Firdous](http://twitter.com/search?q=Firdous) | N/A |
+| 17 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 18 | [Waris](http://twitter.com/search?q=Waris) | N/A |
+| 19 | [Aima Baig](http://twitter.com/search?q=Aima+Baig) | N/A |
+| 20 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 21 | [Kohlu](http://twitter.com/search?q=Kohlu) | N/A |
+| 22 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 24 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 25 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
+| 26 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 27 | [Shayan](http://twitter.com/search?q=Shayan) | N/A |
+| 28 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 29 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 30 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 31 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 32 | [Naughty](http://twitter.com/search?q=Naughty) | N/A |
+| 33 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 34 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 35 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 36 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
+| 37 | [Arey](http://twitter.com/search?q=Arey) | N/A |
+| 38 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 39 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 40 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 41 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 44 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
+| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 46 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 47 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 48 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 49 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
 
 
 

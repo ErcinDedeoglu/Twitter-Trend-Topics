@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-10 22:16:35 UTC`
+📆 Last Updated: `2023-02-10 23:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,43 @@ This is top 50 for South Africa
 | ------- | ------------ | ------------ |
 | 1 | [#RIPAKA](http://twitter.com/search?q=%23RIPAKA) | N/A |
 | 2 | [Not AKA](http://twitter.com/search?q=Not+AKA) | N/A |
-| 3 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
-| 4 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
-| 5 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
-| 6 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
-| 7 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 8 | [Mashiane](http://twitter.com/search?q=Mashiane) | N/A |
-| 9 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 10 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 11 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 12 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 13 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
-| 14 | [NO WAYS](http://twitter.com/search?q=NO+WAYS) | N/A |
-| 15 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [Saile](http://twitter.com/search?q=Saile) | N/A |
-| 18 | [Tibz](http://twitter.com/search?q=Tibz) | N/A |
-| 19 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 20 | [Riky](http://twitter.com/search?q=Riky) | N/A |
-| 21 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
-| 22 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 23 | [President](http://twitter.com/search?q=President) | N/A |
-| 24 | [Ngezana](http://twitter.com/search?q=Ngezana) | N/A |
-| 25 | [Sekgota](http://twitter.com/search?q=Sekgota) | N/A |
-| 26 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 27 | [Arthur Zwane](http://twitter.com/search?q=Arthur+Zwane) | N/A |
-| 28 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 29 | [DJ Sumbody](http://twitter.com/search?q=DJ+Sumbody) | N/A |
-| 30 | [Hlanti](http://twitter.com/search?q=Hlanti) | N/A |
-| 31 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 32 | [Da Les](http://twitter.com/search?q=Da+Les) | N/A |
-| 33 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
-| 34 | [Nange](http://twitter.com/search?q=Nange) | N/A |
-| 35 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 36 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 37 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 38 | [Anele](http://twitter.com/search?q=Anele) | N/A |
-| 39 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 40 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 41 | [Duba](http://twitter.com/search?q=Duba) | N/A |
-| 42 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 43 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
-| 44 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
-| 45 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 46 | [Matlou](http://twitter.com/search?q=Matlou) | N/A |
-| 47 | [King Ndlovu](http://twitter.com/search?q=King+Ndlovu) | N/A |
-| 48 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 50 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 3 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
+| 4 | [Tibz](http://twitter.com/search?q=Tibz) | N/A |
+| 5 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
+| 6 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 7 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 8 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 9 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
+| 10 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
+| 11 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 12 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 13 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
+| 14 | [Mashiane](http://twitter.com/search?q=Mashiane) | N/A |
+| 15 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
+| 16 | [DJ Sumbody](http://twitter.com/search?q=DJ+Sumbody) | N/A |
+| 17 | [Riky](http://twitter.com/search?q=Riky) | N/A |
+| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 19 | [NO WAYS](http://twitter.com/search?q=NO+WAYS) | N/A |
+| 20 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 21 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 22 | [Anele](http://twitter.com/search?q=Anele) | N/A |
+| 23 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 24 | [Saile](http://twitter.com/search?q=Saile) | N/A |
+| 25 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 26 | [Ngezana](http://twitter.com/search?q=Ngezana) | N/A |
+| 27 | [Sekgota](http://twitter.com/search?q=Sekgota) | N/A |
+| 28 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 29 | [Hlanti](http://twitter.com/search?q=Hlanti) | N/A |
+| 30 | [Nange](http://twitter.com/search?q=Nange) | N/A |
+| 31 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
+| 32 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
+| 33 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 34 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 35 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 36 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
+| 37 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 38 | [#SAvSL](http://twitter.com/search?q=%23SAvSL) | N/A |
+| 39 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
 
 
 

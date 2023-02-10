@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-10 22:16:18 UTC`
+📆 Last Updated: `2023-02-10 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 2 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 3 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
+| 1 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 2 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
+| 3 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
 | 4 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
-| 5 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
-| 6 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 7 | [#ülkemdemülteciistemiyorum](http://twitter.com/search?q=%23%c3%bclkemdem%c3%bclteciistemiyorum) | N/A |
-| 8 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 9 | [TahaDuymaza OperatorDestegi](http://twitter.com/search?q=TahaDuymaza+OperatorDestegi) | N/A |
-| 10 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 5 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 6 | [#ülkemdemülteciistemiyorum](http://twitter.com/search?q=%23%c3%bclkemdem%c3%bclteciistemiyorum) | N/A |
+| 7 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 8 | [TahaDuymaza OperatorDestegi](http://twitter.com/search?q=TahaDuymaza+OperatorDestegi) | N/A |
+| 9 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 11 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 12 | [Şehitler](http://twitter.com/search?q=%c5%9eehitler) | N/A |
-| 13 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 14 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 15 | [Asıl Kim](http://twitter.com/search?q=As%c4%b1l+Kim) | N/A |
-| 16 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 17 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 18 | [Kurtarılmış](http://twitter.com/search?q=Kurtar%c4%b1lm%c4%b1%c5%9f) | N/A |
-| 19 | [Hollanda](http://twitter.com/search?q=Hollanda) | N/A |
-| 20 | [HESAP VERECEKSİNİZ](http://twitter.com/search?q=HESAP+VERECEKS%c4%b0N%c4%b0Z) | N/A |
-| 21 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
-| 22 | [Ellerinize](http://twitter.com/search?q=Ellerinize) | N/A |
-| 23 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
-| 24 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 25 | [Bangkok'taki 8,5](http://twitter.com/search?q=Bangkok%27taki+8%2c5) | N/A |
-| 26 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
-| 27 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 28 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 29 | [Yumruk](http://twitter.com/search?q=Yumruk) | N/A |
-| 30 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
-| 31 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 32 | [Beşiktaşlı](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
-| 33 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
-| 34 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 35 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 36 | [DepremBölgelerine ÇadırYardımı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+%c3%87ad%c4%b1rYard%c4%b1m%c4%b1) | N/A |
-| 37 | [Meltem Ünsal](http://twitter.com/search?q=Meltem+%c3%9cnsal) | N/A |
-| 38 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 39 | [Güney Koreli](http://twitter.com/search?q=G%c3%bcney+Koreli) | N/A |
+| 12 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 13 | [Şehitler](http://twitter.com/search?q=%c5%9eehitler) | N/A |
+| 14 | [Parfüm](http://twitter.com/search?q=Parf%c3%bcm) | N/A |
+| 15 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 16 | [Hollanda](http://twitter.com/search?q=Hollanda) | N/A |
+| 17 | [HESAP VERECEKSİNİZ](http://twitter.com/search?q=HESAP+VERECEKS%c4%b0N%c4%b0Z) | N/A |
+| 18 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
+| 19 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 20 | [Kurtarılmış](http://twitter.com/search?q=Kurtar%c4%b1lm%c4%b1%c5%9f) | N/A |
+| 21 | [Asıl Kim](http://twitter.com/search?q=As%c4%b1l+Kim) | N/A |
+| 22 | [Bangkok'taki 8,5](http://twitter.com/search?q=Bangkok%27taki+8%2c5) | N/A |
+| 23 | [Ellerinize](http://twitter.com/search?q=Ellerinize) | N/A |
+| 24 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
+| 25 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 26 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 27 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
+| 28 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 29 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 30 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 31 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 32 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
+| 33 | [Yumruk](http://twitter.com/search?q=Yumruk) | N/A |
+| 34 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
+| 35 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 36 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 37 | [DepremBölgelerine ÇadırYardımı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+%c3%87ad%c4%b1rYard%c4%b1m%c4%b1) | N/A |
+| 38 | [Bir Beşiktaşlı](http://twitter.com/search?q=Bir+Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
+| 39 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
 | 40 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
-| 41 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
-| 42 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 43 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 44 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
-| 45 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 46 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
-| 47 | [Makyaj](http://twitter.com/search?q=Makyaj) | N/A |
-| 48 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
-| 49 | [Videoyu](http://twitter.com/search?q=Videoyu) | N/A |
-| 50 | [Allahınıza](http://twitter.com/search?q=Allah%c4%b1n%c4%b1za) | N/A |
+| 41 | [DepremBölgelerine Astımİlacı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+Ast%c4%b1m%c4%b0lac%c4%b1) | N/A |
+| 42 | [Meltem Ünsal](http://twitter.com/search?q=Meltem+%c3%9cnsal) | N/A |
+| 43 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
+| 44 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 45 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 46 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
+| 47 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 48 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 49 | [Makyaj](http://twitter.com/search?q=Makyaj) | N/A |
+| 50 | [Kapı](http://twitter.com/search?q=Kap%c4%b1) | N/A |
 
 
 

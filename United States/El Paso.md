@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-10 22:16:22 UTC`
+📆 Last Updated: `2023-02-10 23:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 2 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 1 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 2 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
 | 3 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 4 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 5 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 6 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [#cashappinwild](http://twitter.com/search?q=%23cashappinwild) | N/A |
-| 9 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 10 | [#MySexTapeIsNamed](http://twitter.com/search?q=%23MySexTapeIsNamed) | N/A |
-| 11 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 12 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 13 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 14 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 4 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [#cashappinwild](http://twitter.com/search?q=%23cashappinwild) | N/A |
+| 7 | [#MySexTapeIsNamed](http://twitter.com/search?q=%23MySexTapeIsNamed) | N/A |
+| 8 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 9 | [Dana Brown](http://twitter.com/search?q=Dana+Brown) | Dana Brown is a name, and it does not have any particular meaning in English. |
+| 10 | [HIPPA](http://twitter.com/search?q=HIPPA) | N/A |
+| 11 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 12 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 13 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 15 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 18 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 19 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
-| 20 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 21 | [Object](http://twitter.com/search?q=Object) | N/A |
-| 22 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 23 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 24 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 25 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 26 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
-| 27 | [Prudhoe Bay](http://twitter.com/search?q=Prudhoe+Bay) | N/A |
-| 28 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 29 | [SMILES and LEAVES](http://twitter.com/search?q=SMILES+and+LEAVES) | N/A |
-| 30 | [Michael Fulmer](http://twitter.com/search?q=Michael+Fulmer) | N/A |
-| 31 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 33 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 34 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 35 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 36 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 37 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 38 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 39 | [Kelis](http://twitter.com/search?q=Kelis) | N/A |
-| 40 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 41 | [Fox Corp](http://twitter.com/search?q=Fox+Corp) | N/A |
+| 16 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 17 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 18 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
+| 19 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 20 | [February is Fruitful](http://twitter.com/search?q=February+is+Fruitful) | N/A |
+| 21 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 22 | [Object](http://twitter.com/search?q=Object) | N/A |
+| 23 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 24 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 25 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
+| 26 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 27 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 28 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 29 | [Prudhoe Bay](http://twitter.com/search?q=Prudhoe+Bay) | N/A |
+| 30 | [SMILES and LEAVES](http://twitter.com/search?q=SMILES+and+LEAVES) | N/A |
+| 31 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 32 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 33 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 34 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 35 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 36 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
+| 37 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 38 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [Kelis](http://twitter.com/search?q=Kelis) | N/A |
+| 41 | [Michael Fulmer](http://twitter.com/search?q=Michael+Fulmer) | N/A |
 | 42 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 43 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
-| 44 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 45 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 46 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 47 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 48 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 49 | [yoojung](http://twitter.com/search?q=yoojung) | N/A |
+| 43 | [Lasry](http://twitter.com/search?q=Lasry) | N/A |
+| 44 | [Fox Corp](http://twitter.com/search?q=Fox+Corp) | N/A |
+| 45 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 46 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 48 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 49 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
 
 
 

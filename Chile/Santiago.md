@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-10 22:15:45 UTC`
+📆 Last Updated: `2023-02-10 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 2 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 3 | [#Ninhue](http://twitter.com/search?q=%23Ninhue) | N/A |
+| 2 | [#Ninhue](http://twitter.com/search?q=%23Ninhue) | N/A |
+| 3 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
 | 4 | [#BoricEstaQuemandoChile](http://twitter.com/search?q=%23BoricEstaQuemandoChile) | N/A |
 | 5 | [#Dichato](http://twitter.com/search?q=%23Dichato) | N/A |
 | 6 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 7 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 9 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 10 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
-| 11 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 12 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 13 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 14 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 15 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 16 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 17 | [Marcelo Piccardo](http://twitter.com/search?q=Marcelo+Piccardo) | N/A |
-| 18 | [Fito Paez](http://twitter.com/search?q=Fito+Paez) | N/A |
-| 19 | [Paulina Saball](http://twitter.com/search?q=Paulina+Saball) | N/A |
-| 20 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 21 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 22 | [carvallo](http://twitter.com/search?q=carvallo) | N/A |
-| 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 24 | [Cristián de la Fuente](http://twitter.com/search?q=Cristi%c3%a1n+de+la+Fuente) | N/A |
-| 25 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 26 | [Ministro de Agricultura](http://twitter.com/search?q=Ministro+de+Agricultura) | N/A |
-| 27 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 28 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 29 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 30 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
-| 31 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 32 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 33 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 34 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 35 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 36 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 37 | [San Marcos de Arica](http://twitter.com/search?q=San+Marcos+de+Arica) | N/A |
-| 38 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 39 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 40 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 7 | [#EdSerSeReconcilian](http://twitter.com/search?q=%23EdSerSeReconcilian) | N/A |
+| 8 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 9 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
+| 10 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 11 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
+| 12 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 13 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 14 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 15 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 17 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 18 | [San Marcos de Arica](http://twitter.com/search?q=San+Marcos+de+Arica) | N/A |
+| 19 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
+| 20 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 21 | [Cristián de la Fuente](http://twitter.com/search?q=Cristi%c3%a1n+de+la+Fuente) | N/A |
+| 22 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 23 | [carvallo](http://twitter.com/search?q=carvallo) | N/A |
+| 24 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 25 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 26 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 27 | [Ministro de Agricultura](http://twitter.com/search?q=Ministro+de+Agricultura) | N/A |
+| 28 | [Marcelo Piccardo](http://twitter.com/search?q=Marcelo+Piccardo) | N/A |
+| 29 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 30 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 31 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 32 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 33 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 34 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 35 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 36 | [Serkan](http://twitter.com/search?q=Serkan) | N/A |
+| 37 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 38 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 39 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 40 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
 | 41 | [Quellón](http://twitter.com/search?q=Quell%c3%b3n) | N/A |
-| 42 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 43 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 44 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
-| 45 | [Calama](http://twitter.com/search?q=Calama) | N/A |
+| 42 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 43 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
+| 44 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 45 | [Fuentealba](http://twitter.com/search?q=Fuentealba) | N/A |
 | 46 | [Cansu Dere](http://twitter.com/search?q=Cansu+Dere) | N/A |
-| 47 | [Marcelo Díaz](http://twitter.com/search?q=Marcelo+D%c3%adaz) | N/A |
-| 48 | [Esteban Valenzuela](http://twitter.com/search?q=Esteban+Valenzuela) | N/A |
-| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 50 | [Jaime Bassa](http://twitter.com/search?q=Jaime+Bassa) | N/A |
+| 47 | [Zorros del Desierto](http://twitter.com/search?q=Zorros+del+Desierto) | N/A |
+| 48 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 49 | [Calama](http://twitter.com/search?q=Calama) | N/A |
+| 50 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 
 
 
