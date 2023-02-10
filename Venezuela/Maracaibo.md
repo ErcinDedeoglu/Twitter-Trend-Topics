@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-02-10 06:16:08 UTC`
+📆 Last Updated: `2023-02-10 07:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,13 +19,13 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#SomosCaribe](http://twitter.com/search?q=%23SomosCaribe) | N/A |
 | 3 | [#IVIC64Años](http://twitter.com/search?q=%23IVIC64A%c3%b1os) | N/A |
 | 4 | [#SDCxTLT](http://twitter.com/search?q=%23SDCxTLT) | N/A |
-| 5 | [Vizcaya](http://twitter.com/search?q=Vizcaya) | N/A |
-| 6 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 7 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
-| 8 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 10 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 5 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 6 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
+| 7 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
+| 8 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 9 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 10 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 11 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
 | 12 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
 | 13 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
 | 14 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
@@ -34,35 +34,35 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 17 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
 | 18 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 19 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
-| 20 | [Tigres del Licey](http://twitter.com/search?q=Tigres+del+Licey) | N/A |
-| 21 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 22 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
-| 23 | [Onia](http://twitter.com/search?q=Onia) | N/A |
-| 24 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 25 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 26 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 27 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 30 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
-| 33 | [Chirinos](http://twitter.com/search?q=Chirinos) | N/A |
-| 34 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 35 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
-| 36 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 37 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
-| 38 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
-| 39 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 40 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 41 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 42 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 43 | [SAPE OPTRA](http://twitter.com/search?q=SAPE+OPTRA) | N/A |
-| 44 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 45 | [Ticketmundo](http://twitter.com/search?q=Ticketmundo) | N/A |
-| 46 | [Robert Suárez](http://twitter.com/search?q=Robert+Su%c3%a1rez) | N/A |
-| 47 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 48 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 20 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 21 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
+| 22 | [Onia](http://twitter.com/search?q=Onia) | N/A |
+| 23 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 24 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 25 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
+| 26 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 27 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 28 | [Tigres del Licey](http://twitter.com/search?q=Tigres+del+Licey) | N/A |
+| 29 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 30 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
+| 31 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
+| 32 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 33 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
+| 36 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
+| 37 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 38 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 39 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 40 | [Chirinos](http://twitter.com/search?q=Chirinos) | N/A |
+| 41 | [SAPE OPTRA](http://twitter.com/search?q=SAPE+OPTRA) | N/A |
+| 42 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 43 | [Ticketmundo](http://twitter.com/search?q=Ticketmundo) | N/A |
+| 44 | [Robert Suárez](http://twitter.com/search?q=Robert+Su%c3%a1rez) | N/A |
+| 45 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 46 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 47 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 49 | [Ronald Acuña Jr.](http://twitter.com/search?q=Ronald+Acu%c3%b1a+Jr.) | N/A |
 | 50 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 

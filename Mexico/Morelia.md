@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-10 06:16:05 UTC`
+📆 Last Updated: `2023-02-10 07:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 2 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
-| 3 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
-| 4 | [#AbsolutNights](http://twitter.com/search?q=%23AbsolutNights) | N/A |
-| 5 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 6 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
-| 7 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 10 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 12 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 13 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 14 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 15 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
-| 16 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 17 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 18 | [Montes](http://twitter.com/search?q=Montes) | N/A |
-| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 20 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 21 | [Vucetich](http://twitter.com/search?q=Vucetich) | N/A |
-| 22 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 23 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 24 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
-| 25 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 26 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 27 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 28 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 29 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 30 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 31 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 32 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 33 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
-| 34 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 35 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 37 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 38 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 39 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 40 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
-| 41 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 42 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 43 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 1 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 2 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 3 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 4 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 5 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 6 | [#AbsolutNights](http://twitter.com/search?q=%23AbsolutNights) | N/A |
+| 7 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
+| 8 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 9 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
+| 10 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 11 | [MIEDO DE SENTIR OUT NOW](http://twitter.com/search?q=MIEDO+DE+SENTIR+OUT+NOW) | N/A |
+| 12 | [FANTASMA'S SONG](http://twitter.com/search?q=FANTASMA%27S+SONG) | N/A |
+| 13 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 14 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 15 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 16 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 17 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 18 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 19 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 20 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 21 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 22 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 23 | [Vucetich](http://twitter.com/search?q=Vucetich) | N/A |
+| 24 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 25 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 26 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 27 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 28 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 29 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
+| 30 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 31 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 32 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 33 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 34 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 35 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 36 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 37 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 38 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 39 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 40 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 41 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 42 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 43 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
 | 44 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 45 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 46 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 47 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 45 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 46 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 47 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
 
 
 

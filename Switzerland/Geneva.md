@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-10 06:16:18 UTC`
+📆 Last Updated: `2023-02-10 07:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 3 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 2 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
+| 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
 | 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 6 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
@@ -37,32 +37,32 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 21 | [wohnraum](http://twitter.com/search?q=wohnraum) | N/A |
 | 22 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 23 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 25 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 23 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 24 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 25 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 26 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
 | 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 28 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 30 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 32 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 33 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 35 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
-| 36 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 37 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 38 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 40 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
-| 41 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 42 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 43 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
-| 44 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 45 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
-| 46 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 47 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 48 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 31 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 32 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 34 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 35 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 36 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 37 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 39 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
+| 40 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 41 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 42 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
+| 43 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 44 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
+| 45 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 46 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 47 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 48 | [Willen](http://twitter.com/search?q=Willen) | N/A |
 
 
 

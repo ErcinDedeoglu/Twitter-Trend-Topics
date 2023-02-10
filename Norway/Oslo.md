@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-10 06:16:19 UTC`
+📆 Last Updated: `2023-02-10 07:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,8 +40,8 @@ This is top 50 for [Norway](</Norway>)
 | 23 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
 | 24 | [Kult](http://twitter.com/search?q=Kult) | N/A |
 | 25 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
-| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 27 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
+| 26 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
+| 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 28 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 30 | [Switch](http://twitter.com/search?q=Switch) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Norway](</Norway>)
 | 39 | [nordsjøen](http://twitter.com/search?q=nordsj%c3%b8en) | N/A |
 | 40 | [USAs](http://twitter.com/search?q=USAs) | N/A |
 | 41 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 42 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 45 | [Sian](http://twitter.com/search?q=Sian) | N/A |
-| 46 | [tyrkia](http://twitter.com/search?q=tyrkia) | N/A |
-| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 43 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 44 | [Sian](http://twitter.com/search?q=Sian) | N/A |
+| 45 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
+| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 48 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
 | 49 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 50 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 50 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
 
 
 

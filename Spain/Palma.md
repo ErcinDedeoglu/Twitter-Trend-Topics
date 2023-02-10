@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-10 06:16:17 UTC`
+📆 Last Updated: `2023-02-10 07:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Spain](</Spain>)
 | 7 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 11 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 12 | [#firstdates9f](http://twitter.com/search?q=%23firstdates9f) | N/A |
+| 10 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 11 | [#firstdates9f](http://twitter.com/search?q=%23firstdates9f) | N/A |
+| 12 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 13 | [Manolo Vieira](http://twitter.com/search?q=Manolo+Vieira) | N/A |
 | 14 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
 | 15 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
 | 16 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
 | 17 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
 | 18 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 19 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 20 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 22 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 23 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 19 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 21 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 22 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 23 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
 | 24 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 25 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
-| 26 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 27 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 29 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
-| 30 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 31 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 34 | [juan carlos rivero](http://twitter.com/search?q=juan+carlos+rivero) | N/A |
-| 35 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 36 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 37 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 25 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 28 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 29 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 30 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 31 | [juan carlos rivero](http://twitter.com/search?q=juan+carlos+rivero) | N/A |
+| 32 | [eMule](http://twitter.com/search?q=eMule) | N/A |
+| 33 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 36 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 37 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 38 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 39 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 40 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 41 | [Felipe moreno](http://twitter.com/search?q=Felipe+moreno) | N/A |
-| 42 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 43 | [El Tribunal Constitucional](http://twitter.com/search?q=El+Tribunal+Constitucional) | N/A |
-| 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 46 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 47 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 48 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 49 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 39 | [Felipe moreno](http://twitter.com/search?q=Felipe+moreno) | N/A |
+| 40 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
+| 41 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 42 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 44 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 45 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 46 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 47 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 48 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 49 | [El Tribunal Constitucional](http://twitter.com/search?q=El+Tribunal+Constitucional) | N/A |
 
 
 
