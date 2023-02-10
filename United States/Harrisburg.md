@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-10 18:16:26 UTC`
+📆 Last Updated: `2023-02-10 19:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoBirds](http://twitter.com/search?q=%23GoBirds) | N/A |
-| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 7 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 10 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 11 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 12 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 13 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 14 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 18 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 19 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 20 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 21 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 22 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 23 | [BOLTIE](http://twitter.com/search?q=BOLTIE) | N/A |
-| 24 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 27 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 28 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
-| 29 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 30 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 31 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 32 | [good friday](http://twitter.com/search?q=good+friday) | N/A |
-| 33 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
-| 34 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 35 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 36 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 37 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 38 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
-| 39 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 40 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 41 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
-| 42 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 43 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 44 | [Letty](http://twitter.com/search?q=Letty) | N/A |
-| 45 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 47 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 48 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 49 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
-| 50 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 1 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 2 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 4 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 5 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 9 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 10 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 11 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 12 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 14 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 15 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 17 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 18 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 19 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 20 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 21 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 22 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 23 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 24 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 25 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 26 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 28 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 29 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 30 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 31 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 32 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 33 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 34 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 35 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 36 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 37 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
+| 38 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 39 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 40 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 41 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 42 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 43 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 44 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 45 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 47 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 48 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 49 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
+| 50 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
 
 
 

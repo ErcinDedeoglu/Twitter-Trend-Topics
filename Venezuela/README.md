@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-10 18:16:41 UTC`
+📆 Last Updated: `2023-02-10 19:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Venezuela
 | 1 | [#10Feb](http://twitter.com/search?q=%2310Feb) | N/A |
 | 2 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
 | 3 | [#9Feb](http://twitter.com/search?q=%239Feb) | N/A |
-| 4 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
-| 5 | [#IVIC64Años](http://twitter.com/search?q=%23IVIC64A%c3%b1os) | N/A |
-| 6 | [#SiSePuedeVzla](http://twitter.com/search?q=%23SiSePuedeVzla) | N/A |
+| 4 | [#SiSePuedeVzla](http://twitter.com/search?q=%23SiSePuedeVzla) | N/A |
+| 5 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
+| 6 | [#ivic64años](http://twitter.com/search?q=%23ivic64a%c3%b1os) | N/A |
 | 7 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
 | 8 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
-| 9 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
-| 10 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 9 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 10 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
 | 11 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
 | 12 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 13 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 14 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 15 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 16 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 13 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 14 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
+| 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 18 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 19 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
-| 20 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 21 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
-| 22 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 23 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 24 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 27 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 28 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
-| 29 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 20 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 21 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 23 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
+| 24 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
+| 25 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 26 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 28 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 29 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
 | 30 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 31 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
-| 32 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
-| 33 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 34 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 35 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 36 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 31 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 32 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 33 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 34 | [norwith gudiño](http://twitter.com/search?q=norwith+gudi%c3%b1o) | N/A |
+| 35 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 36 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 37 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 38 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 39 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 40 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 41 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
-| 42 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
-| 43 | [TicketMundo](http://twitter.com/search?q=TicketMundo) | N/A |
-| 44 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 45 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 46 | [Claritza Ron](http://twitter.com/search?q=Claritza+Ron) | N/A |
-| 47 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
-| 48 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 49 | [Chirinos](http://twitter.com/search?q=Chirinos) | N/A |
-| 50 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 38 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
+| 39 | [Claritza Ron](http://twitter.com/search?q=Claritza+Ron) | N/A |
+| 40 | [TicketMundo](http://twitter.com/search?q=TicketMundo) | N/A |
+| 41 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
+| 42 | [Escudo Nacional de Venezuela](http://twitter.com/search?q=Escudo+Nacional+de+Venezuela) | N/A |
+| 43 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
+| 44 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
+| 45 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 46 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 47 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 48 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 49 | [sape optra](http://twitter.com/search?q=sape+optra) | N/A |
+| 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

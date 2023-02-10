@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-02-10 18:16:06 UTC`
+📆 Last Updated: `2023-02-10 19:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#川崎ブレイブサンダース](http://twitter.com/search?q=%23%e5%b7%9d%e5%b4%8e%e3%83%96%e3%83%ac%e3%82%a4%e3%83%96%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b9) | N/A |
+| 1 | [関ジャニ](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
 | 2 | [グリッドマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 3 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 4 | [ルーラー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | ルーラー (Ruler) is a Japanese word that refers to a ruler or measuring device. In English, it can be used to refer to a ruler, a ruler-like object, or an authority figure. |
-| 5 | [プロローグ](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0) | N/A |
-| 6 | [#めいっぱいレモンパイ](http://twitter.com/search?q=%23%e3%82%81%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%91%e3%82%a4) | N/A |
-| 7 | [KAT-TUN](http://twitter.com/search?q=KAT-TUN) | KAT-TUN is a Japanese boy band formed in 2006 by Johnny & Associates. The name KAT-TUN is an acronym of the first letter of each member's family name: Kazuya Kamenashi, Akanishi Jin, Tanaka Koki, Taguchi Junnosuke, Ueda Tatsuya and Nakamaru Yuichi. The name can be translated to "Completely and Totally Unstoppable". |
-| 8 | [アルターエゴ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bf%e3%83%bc%e3%82%a8%e3%82%b4) | N/A |
-| 9 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 10 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 11 | [ONAKAMA](http://twitter.com/search?q=ONAKAMA) | N/A |
-| 12 | [アイドルマスター](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 13 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 14 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
-| 15 | [個人判断](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e5%88%a4%e6%96%ad) | N/A |
-| 16 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
-| 17 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
-| 18 | [#霜降り明星ANN](http://twitter.com/search?q=%23%e9%9c%9c%e9%99%8d%e3%82%8a%e6%98%8e%e6%98%9fANN) | N/A |
-| 19 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
-| 21 | [愛と勇気とチェリーパイ](http://twitter.com/search?q=%e6%84%9b%e3%81%a8%e5%8b%87%e6%b0%97%e3%81%a8%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc%e3%83%91%e3%82%a4) | N/A |
-| 22 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 23 | [布団ちゃん](http://twitter.com/search?q=%e5%b8%83%e5%9b%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 24 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
-| 25 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
-| 26 | [イラプション](http://twitter.com/search?q=%e3%82%a4%e3%83%a9%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 27 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
-| 28 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
-| 29 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
-| 30 | [マイマイカブリ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%96%e3%83%aa) | N/A |
-| 31 | [ワイスピ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%82%b9%e3%83%94) | N/A |
-| 32 | [twinrail](http://twitter.com/search?q=twinrail) | N/A |
-| 33 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
-| 34 | [ブルースハープ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%8f%e3%83%bc%e3%83%97) | N/A |
-| 35 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
-| 36 | [結成27周年](http://twitter.com/search?q=%e7%b5%90%e6%88%9027%e5%91%a8%e5%b9%b4) | N/A |
-| 37 | [チョコレート言葉](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e8%a8%80%e8%91%89) | N/A |
-| 38 | [バディワルツ](http://twitter.com/search?q=%e3%83%90%e3%83%87%e3%82%a3%e3%83%af%e3%83%ab%e3%83%84) | N/A |
-| 39 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
-| 40 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 41 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
-| 42 | [Wordle 602](http://twitter.com/search?q=Wordle+602) | N/A |
-| 43 | [ムルちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 45 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
-| 46 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
-| 48 | [式守さん](http://twitter.com/search?q=%e5%bc%8f%e5%ae%88%e3%81%95%e3%82%93) | N/A |
-| 49 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
-| 50 | [ホームズとワトソン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%ba%e3%81%a8%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
+| 3 | [ルーラー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | ルーラー (Ruler) is a Japanese word that refers to a ruler or measuring device. In English, it can be used to refer to a ruler, a ruler-like object, or an authority figure. |
+| 4 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
+| 5 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 6 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 7 | [#霜降り明星ANN](http://twitter.com/search?q=%23%e9%9c%9c%e9%99%8d%e3%82%8a%e6%98%8e%e6%98%9fANN) | N/A |
+| 8 | [#RIDEONTIME](http://twitter.com/search?q=%23RIDEONTIME) | #RIDEONTIME is a hashtag used to promote the idea of living life to the fullest and making the most of every moment. It encourages people to make the most of their time and live life with purpose. |
+| 9 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [#bananamoon](http://twitter.com/search?q=%23bananamoon) | N/A |
+| 11 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
+| 12 | [愛と勇気とチェリーパイ](http://twitter.com/search?q=%e6%84%9b%e3%81%a8%e5%8b%87%e6%b0%97%e3%81%a8%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc%e3%83%91%e3%82%a4) | N/A |
+| 13 | [布団ちゃん](http://twitter.com/search?q=%e5%b8%83%e5%9b%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 14 | [イラプション](http://twitter.com/search?q=%e3%82%a4%e3%83%a9%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 15 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
+| 16 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
+| 17 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 18 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
+| 19 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
+| 20 | [ワイスピ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%82%b9%e3%83%94) | N/A |
+| 21 | [twinrail](http://twitter.com/search?q=twinrail) | N/A |
+| 22 | [マイマイカブリ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%96%e3%83%aa) | N/A |
+| 23 | [ブルースハープ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%8f%e3%83%bc%e3%83%97) | N/A |
+| 24 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
+| 25 | [チョコレート言葉](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e8%a8%80%e8%91%89) | N/A |
+| 26 | [Wordle 602](http://twitter.com/search?q=Wordle+602) | N/A |
+| 27 | [バディワルツ](http://twitter.com/search?q=%e3%83%90%e3%83%87%e3%82%a3%e3%83%af%e3%83%ab%e3%83%84) | N/A |
+| 28 | [結成27周年](http://twitter.com/search?q=%e7%b5%90%e6%88%9027%e5%91%a8%e5%b9%b4) | N/A |
+| 29 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
+| 30 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
+| 31 | [式守さん](http://twitter.com/search?q=%e5%bc%8f%e5%ae%88%e3%81%95%e3%82%93) | N/A |
+| 32 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
+| 33 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
+| 34 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 35 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
+| 36 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
+| 37 | [ムルちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [カタツムリ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%83%84%e3%83%a0%e3%83%aa) | N/A |
+| 39 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [パイモンのこと](http://twitter.com/search?q=%e3%83%91%e3%82%a4%e3%83%a2%e3%83%b3%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
+| 41 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 42 | [ヴェルサス](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%b5%e3%82%b9) | ヴェルサス (Verusu) is a Japanese fashion brand that specializes in casual streetwear. The brand is known for its bold and colorful designs, which often feature graphic prints and unique silhouettes. The name Verusu is derived from the Latin word "veritas," which means truth. In English, Verusu can be translated to mean "true style." |
+| 43 | [ワトソン](http://twitter.com/search?q=%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
+| 44 | [建国記念の日](http://twitter.com/search?q=%e5%bb%ba%e5%9b%bd%e8%a8%98%e5%bf%b5%e3%81%ae%e6%97%a5) | N/A |
+| 45 | [被検体E](http://twitter.com/search?q=%e8%a2%ab%e6%a4%9c%e4%bd%93E) | N/A |
+| 46 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
+| 47 | [でぃのちゃん](http://twitter.com/search?q=%e3%81%a7%e3%81%83%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [カルデアス](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%87%e3%82%a2%e3%82%b9) | N/A |
+| 49 | [プラーナ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%bc%e3%83%8a) | N/A |
+| 50 | [斉木楠雄](http://twitter.com/search?q=%e6%96%89%e6%9c%a8%e6%a5%a0%e9%9b%84) | N/A |
 
 
 

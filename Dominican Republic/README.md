@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-10 18:16:34 UTC`
+📆 Last Updated: `2023-02-10 19:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cadaquienensulao](http://twitter.com/search?q=%23cadaquienensulao) | N/A |
-| 2 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 3 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
-| 4 | [Cap Cana](http://twitter.com/search?q=Cap+Cana) | N/A |
+| 2 | [Cap Cana](http://twitter.com/search?q=Cap+Cana) | N/A |
+| 3 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 4 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
 | 5 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 6 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 7 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 8 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
-| 9 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 6 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 7 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 8 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 9 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
 | 10 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 11 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 12 | [Faride](http://twitter.com/search?q=Faride) | N/A |
-| 13 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
-| 14 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
-| 15 | [euclides sanchez](http://twitter.com/search?q=euclides+sanchez) | N/A |
-| 16 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 17 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 18 | [#SerieDelCaribe2033](http://twitter.com/search?q=%23SerieDelCaribe2033) | N/A |
-| 19 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 12 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
+| 13 | [Faride](http://twitter.com/search?q=Faride) | N/A |
+| 14 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 15 | [Euclides Sánchez](http://twitter.com/search?q=Euclides+S%c3%a1nchez) | N/A |
+| 16 | [Eduardo Estrella](http://twitter.com/search?q=Eduardo+Estrella) | N/A |
+| 17 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
+| 18 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 19 | [#SerieDelCaribe2033](http://twitter.com/search?q=%23SerieDelCaribe2033) | N/A |
 | 20 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 21 | [Día Nacional del Folklore](http://twitter.com/search?q=D%c3%ada+Nacional+del+Folklore) | N/A |
-| 22 | [Starling Marte](http://twitter.com/search?q=Starling+Marte) | N/A |
-| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 24 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 25 | [Servio Tulio](http://twitter.com/search?q=Servio+Tulio) | N/A |
-| 26 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
-| 27 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 28 | [Traidores](http://twitter.com/search?q=Traidores) | N/A |
-| 29 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 30 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
-| 31 | [kelvin gutiérrez](http://twitter.com/search?q=kelvin+guti%c3%a9rrez) | N/A |
-| 32 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 33 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 34 | [retiren](http://twitter.com/search?q=retiren) | N/A |
-| 35 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
-| 36 | [Punta Cana](http://twitter.com/search?q=Punta+Cana) | N/A |
-| 37 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 38 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
-| 39 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 22 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 23 | [Punta Cana](http://twitter.com/search?q=Punta+Cana) | N/A |
+| 24 | [Servio Tulio](http://twitter.com/search?q=Servio+Tulio) | N/A |
+| 25 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 26 | [Starling Marte](http://twitter.com/search?q=Starling+Marte) | N/A |
+| 27 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
+| 28 | [kelvin gutiérrez](http://twitter.com/search?q=kelvin+guti%c3%a9rrez) | N/A |
+| 29 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 30 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 31 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 32 | [Traidores](http://twitter.com/search?q=Traidores) | N/A |
+| 33 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
+| 34 | [Siri](http://twitter.com/search?q=Siri) | N/A |
+| 35 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
+| 36 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
+| 37 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 38 | [retiren](http://twitter.com/search?q=retiren) | N/A |
+| 39 | [Asencio](http://twitter.com/search?q=Asencio) | N/A |
 | 40 | [El Poli](http://twitter.com/search?q=El+Poli) | N/A |
-| 41 | [Asencio](http://twitter.com/search?q=Asencio) | N/A |
-| 42 | [Siri](http://twitter.com/search?q=Siri) | N/A |
-| 43 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 44 | [El Glorioso](http://twitter.com/search?q=El+Glorioso) | N/A |
-| 45 | [Proyecto de Ley Integral](http://twitter.com/search?q=Proyecto+de+Ley+Integral) | N/A |
+| 41 | [Vinicio](http://twitter.com/search?q=Vinicio) | N/A |
+| 42 | [Proyecto de Ley Integral](http://twitter.com/search?q=Proyecto+de+Ley+Integral) | N/A |
+| 43 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 44 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 45 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
 | 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 47 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 48 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
-| 49 | [Franklin Mirabal](http://twitter.com/search?q=Franklin+Mirabal) | N/A |
-| 50 | [Vinchos](http://twitter.com/search?q=Vinchos) | N/A |
+| 48 | [Franklin Mirabal](http://twitter.com/search?q=Franklin+Mirabal) | N/A |
+| 49 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
+| 50 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 
 
 

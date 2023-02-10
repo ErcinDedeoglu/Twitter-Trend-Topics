@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-10 18:16:39 UTC`
+📆 Last Updated: `2023-02-10 19:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 2 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 2 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 3 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
 | 4 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 5 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 6 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 7 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 8 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 9 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 12 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
-| 13 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 14 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 15 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 16 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 17 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 19 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 20 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 21 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 6 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 7 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 8 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 9 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
+| 10 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 11 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 12 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
+| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 14 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 15 | [salamat po maam](http://twitter.com/search?q=salamat+po+maam) | N/A |
+| 16 | [kdlex its showtime](http://twitter.com/search?q=kdlex+its+showtime) | N/A |
+| 17 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 18 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
+| 19 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 20 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 21 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
 | 22 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 23 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 24 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 25 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 26 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
-| 27 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 28 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 29 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
-| 30 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 31 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 32 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 33 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 34 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
-| 35 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 36 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 37 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
-| 38 | [#DLSearch](http://twitter.com/search?q=%23DLSearch) | N/A |
-| 39 | [#FELIP_STRAYDOGSmvOutNow](http://twitter.com/search?q=%23FELIP_STRAYDOGSmvOutNow) | N/A |
-| 40 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
-| 41 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 42 | [#BedaDoBetter](http://twitter.com/search?q=%23BedaDoBetter) | N/A |
-| 43 | [#AlwaysByYeolSide](http://twitter.com/search?q=%23AlwaysByYeolSide) | N/A |
-| 44 | [#골든차일드](http://twitter.com/search?q=%23%ea%b3%a8%eb%93%a0%ec%b0%a8%ec%9d%bc%eb%93%9c) | N/A |
-| 45 | [#매일매일_보고싶은_대열찌_생일축하해](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc%eb%a7%a4%ec%9d%bc_%eb%b3%b4%ea%b3%a0%ec%8b%b6%ec%9d%80_%eb%8c%80%ec%97%b4%ec%b0%8c_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#GoldenChild](http://twitter.com/search?q=%23GoldenChild) | N/A |
-| 47 | [#WWIW16](http://twitter.com/search?q=%23WWIW16) | N/A |
-| 48 | [#onceselcaday](http://twitter.com/search?q=%23onceselcaday) | N/A |
-| 49 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
-| 50 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 23 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 24 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 25 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 26 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
+| 27 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 28 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 29 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 30 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
+| 31 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 32 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 33 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 34 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 35 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 36 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
+| 37 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 38 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 39 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 40 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 41 | [davidlicauco forlazada](http://twitter.com/search?q=davidlicauco+forlazada) | N/A |
+| 42 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 43 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 44 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
+| 45 | [JayB](http://twitter.com/search?q=JayB) | N/A |
+| 46 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 47 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 49 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
+| 50 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
 
 
 

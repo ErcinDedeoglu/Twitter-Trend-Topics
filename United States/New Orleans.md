@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-02-10 18:16:29 UTC`
+📆 Last Updated: `2023-02-10 19:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,48 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 2 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 2 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
 | 7 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 10 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 11 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 12 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 13 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 14 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 8 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 9 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 11 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 12 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 13 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 14 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 15 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 16 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
 | 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 18 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 19 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 20 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 21 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 22 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 23 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 24 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 25 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 26 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 27 | [BOLTIE](http://twitter.com/search?q=BOLTIE) | N/A |
-| 28 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
-| 29 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 30 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 31 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 32 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 33 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
-| 36 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 37 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 38 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
-| 39 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 40 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 41 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
-| 42 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 43 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 44 | [Letty](http://twitter.com/search?q=Letty) | N/A |
+| 18 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 19 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 20 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 22 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 23 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 25 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 26 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 27 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 28 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 29 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 30 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 31 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 32 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 33 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 34 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
+| 35 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 36 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 37 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 38 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 39 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 40 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 41 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
+| 42 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 43 | [Eruption](http://twitter.com/search?q=Eruption) | N/A |
 
 
 

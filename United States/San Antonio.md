@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-10 18:16:31 UTC`
+📆 Last Updated: `2023-02-10 19:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 8 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 1 | [#ISC23](http://twitter.com/search?q=%23ISC23) | N/A |
+| 2 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 3 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 4 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
+| 5 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 6 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 9 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 10 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
 | 11 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 12 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 13 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 14 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 15 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 18 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 19 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 20 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 22 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 23 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 24 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 27 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 28 | [BOLTIE](http://twitter.com/search?q=BOLTIE) | N/A |
-| 29 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
-| 30 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 12 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 13 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 14 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 16 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 17 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 18 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 19 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 20 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 21 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 22 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 23 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 24 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 25 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 26 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 27 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 28 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 29 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 30 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 31 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 32 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 33 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 34 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 35 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 36 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
-| 37 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 38 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 39 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
-| 40 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 41 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
-| 42 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 43 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 44 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 45 | [Letty](http://twitter.com/search?q=Letty) | N/A |
-| 46 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 47 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 48 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 49 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 32 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 33 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 34 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 35 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 36 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
+| 37 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 38 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 39 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 40 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 41 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 42 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 43 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
+| 44 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 45 | [Eruption](http://twitter.com/search?q=Eruption) | N/A |
+| 46 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 47 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 48 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 49 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 50 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-10 18:15:42 UTC`
+📆 Last Updated: `2023-02-10 19:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#comedinewithme](http://twitter.com/search?q=%23comedinewithme) | N/A |
-| 2 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 3 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 4 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 5 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 6 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
-| 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 8 | [#SkillsForLife](http://twitter.com/search?q=%23SkillsForLife) | N/A |
+| 1 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
+| 2 | [#comedinewithme](http://twitter.com/search?q=%23comedinewithme) | N/A |
+| 3 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 4 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 5 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
+| 6 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 7 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 8 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 9 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 10 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 11 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
-| 12 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 13 | [Jay Jay Reilly](http://twitter.com/search?q=Jay+Jay+Reilly) | N/A |
-| 14 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 15 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
-| 16 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 17 | [Methven](http://twitter.com/search?q=Methven) | N/A |
-| 18 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 20 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 21 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 23 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 24 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 25 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 26 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
-| 27 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 28 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 29 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 30 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 31 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
-| 32 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 33 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
-| 34 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 35 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 36 | [#FridayFive](http://twitter.com/search?q=%23FridayFive) | N/A |
-| 37 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 38 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 10 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 11 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 12 | [Rants](http://twitter.com/search?q=Rants) | N/A |
+| 13 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 14 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 15 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 16 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 17 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
+| 18 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 19 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 20 | [Methven](http://twitter.com/search?q=Methven) | N/A |
+| 21 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 22 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 23 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 24 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 25 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 26 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 27 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 28 | [Republic of Ireland](http://twitter.com/search?q=Republic+of+Ireland) | N/A |
+| 29 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
+| 30 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 31 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 32 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 33 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 34 | [Nate](http://twitter.com/search?q=Nate) | N/A |
+| 35 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
+| 36 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 37 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 38 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
 | 39 | [#clarksonsfarm2](http://twitter.com/search?q=%23clarksonsfarm2) | N/A |
-| 40 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 41 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 42 | [#soloBeatleEgyptology](http://twitter.com/search?q=%23soloBeatleEgyptology) | N/A |
-| 43 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
-| 44 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
-| 45 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 46 | [#DyddMiwsigCymru2023](http://twitter.com/search?q=%23DyddMiwsigCymru2023) | N/A |
-| 47 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 48 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 49 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 40 | [#5albums07](http://twitter.com/search?q=%235albums07) | N/A |
+| 41 | [#FridayFive](http://twitter.com/search?q=%23FridayFive) | N/A |
+| 42 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
+| 43 | [#Fast10](http://twitter.com/search?q=%23Fast10) | N/A |
+| 44 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 45 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 46 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 47 | [#soloBeatleEgyptology](http://twitter.com/search?q=%23soloBeatleEgyptology) | N/A |
+| 48 | [#LemonadeFinanceValentine](http://twitter.com/search?q=%23LemonadeFinanceValentine) | N/A |
+| 49 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
 
 
 

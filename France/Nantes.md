@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-10 18:15:55 UTC`
+📆 Last Updated: `2023-02-10 19:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
 | 2 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 3 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 4 | [#XboxMicromania](http://twitter.com/search?q=%23XboxMicromania) | N/A |
+| 3 | [Thomas Portes](http://twitter.com/search?q=Thomas+Portes) | N/A |
+| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 5 | [Niro](http://twitter.com/search?q=Niro) | N/A |
 | 6 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 7 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 8 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 9 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 10 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 11 | [#FCLRCL](http://twitter.com/search?q=%23FCLRCL) | N/A |
+| 7 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 8 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 9 | [#XboxMicromania](http://twitter.com/search?q=%23XboxMicromania) | N/A |
+| 10 | [#FCLRCL](http://twitter.com/search?q=%23FCLRCL) | N/A |
+| 11 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
 | 12 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 13 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 14 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 15 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 13 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 14 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 15 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 16 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Thomas Portes](http://twitter.com/search?q=Thomas+Portes) | N/A |
+| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
 | 20 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
 | 21 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 22 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
-| 23 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 24 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 25 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 26 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 27 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 28 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 29 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 30 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 23 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 24 | [Zamalek](http://twitter.com/search?q=Zamalek) | Zamalek is a district in Cairo, Egypt. It is located on the west bank of the Nile River and is home to many of Cairo's most affluent neighborhoods. The name Zamalek comes from the Arabic phrase "zamalik al-manzil," which translates to "the palace of residence." |
+| 25 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
+| 26 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 28 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 29 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 31 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
 | 32 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 33 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 33 | [Cria Cuervos](http://twitter.com/search?q=Cria+Cuervos) | N/A |
 | 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 35 | [Cria Cuervos](http://twitter.com/search?q=Cria+Cuervos) | N/A |
-| 36 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 39 | [Riester](http://twitter.com/search?q=Riester) | N/A |
-| 40 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 41 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 42 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 35 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 36 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 37 | [Julien Dray](http://twitter.com/search?q=Julien+Dray) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [Fournas](http://twitter.com/search?q=Fournas) | N/A |
+| 40 | [Kaydop](http://twitter.com/search?q=Kaydop) | N/A |
+| 41 | [Rayane](http://twitter.com/search?q=Rayane) | N/A |
+| 42 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 43 | [Vacra](http://twitter.com/search?q=Vacra) | N/A |
-| 44 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 45 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 46 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
-| 47 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 48 | [Leca](http://twitter.com/search?q=Leca) | N/A |
-| 49 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 50 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 44 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 46 | [Riester](http://twitter.com/search?q=Riester) | N/A |
+| 47 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 48 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 49 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 50 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 
 
 

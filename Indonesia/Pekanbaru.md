@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-10 18:16:02 UTC`
+📆 Last Updated: `2023-02-10 19:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 2 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
+| 1 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
+| 2 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
 | 3 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 4 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
+| 4 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
 | 5 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
-| 6 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 6 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
 | 7 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
-| 8 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
-| 9 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 10 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 11 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
-| 12 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 13 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 14 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
+| 8 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 9 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
+| 10 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 11 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 12 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 13 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
+| 14 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
 | 15 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
 | 16 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
 | 17 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
 | 18 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 19 | [bupati kendal](http://twitter.com/search?q=bupati+kendal) | N/A |
-| 20 | [Rais Aam PBNU](http://twitter.com/search?q=Rais+Aam+PBNU) | N/A |
-| 21 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 22 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
-| 23 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 24 | [mas bupati](http://twitter.com/search?q=mas+bupati) | N/A |
+| 19 | [Batalin](http://twitter.com/search?q=Batalin) | N/A |
+| 20 | [bupati kendal](http://twitter.com/search?q=bupati+kendal) | N/A |
+| 21 | [Rais Aam PBNU](http://twitter.com/search?q=Rais+Aam+PBNU) | N/A |
+| 22 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 23 | [mas bupati](http://twitter.com/search?q=mas+bupati) | N/A |
+| 24 | [Laras](http://twitter.com/search?q=Laras) | N/A |
 | 25 | [erick thohir apresiasi bri](http://twitter.com/search?q=erick+thohir+apresiasi+bri) | N/A |
-| 26 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 26 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
 | 27 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
-| 28 | [Dimatiin](http://twitter.com/search?q=Dimatiin) | N/A |
-| 29 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 30 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
-| 31 | [51,4 t](http://twitter.com/search?q=51%2c4+t) | N/A |
-| 32 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 33 | [bukan orang baru](http://twitter.com/search?q=bukan+orang+baru) | N/A |
-| 34 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 35 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 36 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
-| 37 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
-| 38 | [Thanks to BTS](http://twitter.com/search?q=Thanks+to+BTS) | N/A |
-| 39 | [Nyala](http://twitter.com/search?q=Nyala) | N/A |
-| 40 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 41 | [miftachul ahyar](http://twitter.com/search?q=miftachul+ahyar) | N/A |
-| 42 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
+| 28 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
+| 29 | [51,4 t](http://twitter.com/search?q=51%2c4+t) | N/A |
+| 30 | [bukan orang baru](http://twitter.com/search?q=bukan+orang+baru) | N/A |
+| 31 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
+| 32 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
+| 33 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 34 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 35 | [Dimatiin](http://twitter.com/search?q=Dimatiin) | N/A |
+| 36 | [miftachul ahyar](http://twitter.com/search?q=miftachul+ahyar) | N/A |
+| 37 | [selamat hari pers nasional](http://twitter.com/search?q=selamat+hari+pers+nasional) | N/A |
+| 38 | [Nyala](http://twitter.com/search?q=Nyala) | N/A |
+| 39 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
+| 40 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 41 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 42 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
 | 43 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 44 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 45 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 46 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [SETIP](http://twitter.com/search?q=SETIP) | N/A |
-| 49 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 44 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
+| 45 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 47 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 48 | [tongkat angin](http://twitter.com/search?q=tongkat+angin) | N/A |
 
 
 

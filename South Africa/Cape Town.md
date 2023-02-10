@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-10 18:16:14 UTC`
+📆 Last Updated: `2023-02-10 19:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 3 | [President](http://twitter.com/search?q=President) | N/A |
-| 4 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 5 | [#StateofTheNationAddress2023](http://twitter.com/search?q=%23StateofTheNationAddress2023) | N/A |
-| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 7 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 8 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 9 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 10 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 11 | [Saile](http://twitter.com/search?q=Saile) | N/A |
-| 12 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 13 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
-| 14 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
-| 15 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 16 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
-| 17 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 18 | [Pinky Pinky](http://twitter.com/search?q=Pinky+Pinky) | N/A |
-| 19 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
-| 20 | [Cab Sav](http://twitter.com/search?q=Cab+Sav) | N/A |
-| 21 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
-| 22 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 23 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 24 | [uncle vinny](http://twitter.com/search?q=uncle+vinny) | N/A |
-| 25 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 26 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 27 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 28 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
-| 29 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 30 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 31 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 32 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 33 | [Come Dine With Me](http://twitter.com/search?q=Come+Dine+With+Me) | N/A |
-| 34 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 35 | [Lepantiti la America](http://twitter.com/search?q=Lepantiti+la+America) | N/A |
-| 36 | [R Kelly](http://twitter.com/search?q=R+Kelly) | N/A |
-| 37 | [Kaizer Chiefs](http://twitter.com/search?q=Kaizer+Chiefs) | Kaizer Chiefs is a South African professional football club based in Johannesburg. The club was founded in 1970 and is one of the most successful teams in the country, having won the Premier Soccer League title a record eight times. The name Kaizer Chiefs is derived from the late South African president, Kaizer Matanzima, who was a strong supporter of the team. |
-| 38 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 39 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 40 | [Limpopo](http://twitter.com/search?q=Limpopo) | N/A |
-| 41 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 3 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 4 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 5 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
+| 6 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 7 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 8 | [#RHOGQ](http://twitter.com/search?q=%23RHOGQ) | N/A |
+| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 10 | [President](http://twitter.com/search?q=President) | N/A |
+| 11 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
+| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 13 | [Travis Graham](http://twitter.com/search?q=Travis+Graham) | N/A |
+| 14 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
+| 15 | [Matlou](http://twitter.com/search?q=Matlou) | N/A |
+| 16 | [Ngezana](http://twitter.com/search?q=Ngezana) | N/A |
+| 17 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
+| 18 | [Saile](http://twitter.com/search?q=Saile) | N/A |
+| 19 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 20 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 21 | [Duba](http://twitter.com/search?q=Duba) | N/A |
+| 22 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
+| 23 | [Pinky Pinky](http://twitter.com/search?q=Pinky+Pinky) | N/A |
+| 24 | [Sekgota](http://twitter.com/search?q=Sekgota) | N/A |
+| 25 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 26 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 27 | [Cab Sav](http://twitter.com/search?q=Cab+Sav) | N/A |
+| 28 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 29 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 30 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
+| 31 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
+| 32 | [Come Dine With Me](http://twitter.com/search?q=Come+Dine+With+Me) | N/A |
+| 33 | [uncle vinny](http://twitter.com/search?q=uncle+vinny) | N/A |
+| 34 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 35 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 36 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
+| 37 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
+| 38 | [lepantiti la america](http://twitter.com/search?q=lepantiti+la+america) | N/A |
+| 39 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 40 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 41 | [Limpopo](http://twitter.com/search?q=Limpopo) | N/A |
 | 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 43 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
-| 44 | [Raven](http://twitter.com/search?q=Raven) | N/A |
-| 45 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 43 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 44 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 45 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
 | 46 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 47 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 48 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
-| 49 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 47 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
 
 
 
