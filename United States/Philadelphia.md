@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-10 17:16:20 UTC`
+📆 Last Updated: `2023-02-10 18:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GoBirds](http://twitter.com/search?q=%23GoBirds) | N/A |
-| 2 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 5 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 7 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
 | 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 12 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 14 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 15 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
-| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 18 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 23 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 24 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 9 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 10 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 11 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 12 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 13 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 14 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 18 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 19 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 20 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 21 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 22 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 23 | [BOLTIE](http://twitter.com/search?q=BOLTIE) | N/A |
+| 24 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
 | 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
 | 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 27 | [Chad Hall](http://twitter.com/search?q=Chad+Hall) | N/A |
-| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 29 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 30 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 31 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 32 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 34 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 35 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 36 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
-| 37 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
-| 38 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
-| 39 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
-| 40 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 41 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
-| 42 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 43 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 44 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
-| 45 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 46 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
-| 47 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 48 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 49 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 50 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 27 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 28 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 29 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 30 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 31 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 32 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 33 | [good friday](http://twitter.com/search?q=good+friday) | N/A |
+| 34 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
+| 35 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 36 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 37 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
+| 38 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 39 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 40 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 41 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 42 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 43 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 44 | [Letty](http://twitter.com/search?q=Letty) | N/A |
+| 45 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 47 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 48 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 49 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 50 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
 
 
 

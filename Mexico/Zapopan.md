@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-02-10 17:15:39 UTC`
+📆 Last Updated: `2023-02-10 18:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 5 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 6 | [#DíaDeLaFuerzaAéreaMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaFuerzaA%c3%a9reaMexicana) | N/A |
-| 7 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 8 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 9 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
-| 10 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 11 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 12 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 13 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 14 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 15 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 18 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 19 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 20 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 21 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 22 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 23 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 2 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
+| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 6 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 7 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 8 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 9 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 10 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 11 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 12 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
+| 13 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 16 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 18 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 19 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 20 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 21 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 22 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 23 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
 | 24 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 25 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 25 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
 | 26 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 27 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 28 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 29 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 30 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 31 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
-| 32 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
-| 33 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
-| 34 | [#KornoEnApuros](http://twitter.com/search?q=%23KornoEnApuros) | N/A |
-| 35 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 36 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 37 | [#CoverMañanero](http://twitter.com/search?q=%23CoverMa%c3%b1anero) | N/A |
+| 27 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 28 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
+| 29 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 30 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 31 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 32 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 33 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 34 | [#TraigoAntojoDe](http://twitter.com/search?q=%23TraigoAntojoDe) | N/A |
+| 35 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 36 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
+| 37 | [#auronporsiempre](http://twitter.com/search?q=%23auronporsiempre) | N/A |
 | 38 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 39 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 40 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 41 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 42 | [#buenosdías](http://twitter.com/search?q=%23buenosd%c3%adas) | N/A |
-| 43 | [#Cuba](http://twitter.com/search?q=%23Cuba) | N/A |
-| 44 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
-| 45 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
-| 46 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 39 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 40 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 41 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 42 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 43 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 44 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 45 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 46 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-10 17:15:43 UTC`
+📆 Last Updated: `2023-02-10 18:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
-| 2 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 3 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
-| 4 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 5 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 6 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
+| 1 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 2 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 3 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 4 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
+| 5 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
+| 6 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
 | 7 | [leo santana](http://twitter.com/search?q=leo+santana) | N/A |
-| 8 | [siwon](http://twitter.com/search?q=siwon) | N/A |
-| 9 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 10 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 11 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 12 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 13 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 14 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 15 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 17 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 8 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 9 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 10 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 11 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 12 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 13 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 14 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 15 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
+| 16 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 18 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 20 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
-| 21 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 22 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 23 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 24 | [SIGAM CHOKEY](http://twitter.com/search?q=SIGAM+CHOKEY) | N/A |
-| 25 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 26 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 27 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 28 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 29 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 30 | [Beatriz Haddad Maia](http://twitter.com/search?q=Beatriz+Haddad+Maia) | N/A |
-| 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 32 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 33 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 34 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 35 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 36 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 37 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 38 | [Bia Haddad Maia](http://twitter.com/search?q=Bia+Haddad+Maia) | N/A |
-| 39 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 40 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
-| 41 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 42 | [Letty](http://twitter.com/search?q=Letty) | N/A |
-| 43 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
-| 44 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 45 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 46 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 47 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 48 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 49 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 50 | [Ancelloti](http://twitter.com/search?q=Ancelloti) | N/A |
+| 19 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 20 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 21 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 22 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 24 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 25 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 26 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 27 | [SIGAM CHOKEY](http://twitter.com/search?q=SIGAM+CHOKEY) | N/A |
+| 28 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 29 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 30 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 31 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 32 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 33 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 34 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 35 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 36 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 37 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 38 | [Cármen Lúcia](http://twitter.com/search?q=C%c3%a1rmen+L%c3%bacia) | N/A |
+| 39 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 40 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 41 | [Beatriz Haddad Maia](http://twitter.com/search?q=Beatriz+Haddad+Maia) | N/A |
+| 42 | [Bia Haddad Maia](http://twitter.com/search?q=Bia+Haddad+Maia) | N/A |
+| 43 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 44 | [Letty](http://twitter.com/search?q=Letty) | N/A |
+| 45 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 46 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 47 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 48 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 49 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 50 | [Creme](http://twitter.com/search?q=Creme) | N/A |
 
 
 

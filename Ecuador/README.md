@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-10 17:16:25 UTC`
+📆 Last Updated: `2023-02-10 18:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Ecuador
 | 1 | [Pita](http://twitter.com/search?q=Pita) | N/A |
 | 2 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
 | 3 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 5 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 6 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 7 | [#LassoRespetaLaDemocracia](http://twitter.com/search?q=%23LassoRespetaLaDemocracia) | N/A |
-| 8 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 9 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
-| 10 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 11 | [Gerencia y Procuraduría](http://twitter.com/search?q=Gerencia+y+Procuradur%c3%ada) | N/A |
-| 12 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
-| 13 | [#LassoEsCorrupto](http://twitter.com/search?q=%23LassoEsCorrupto) | N/A |
-| 14 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
-| 15 | [Aparicio Caicedo](http://twitter.com/search?q=Aparicio+Caicedo) | N/A |
-| 16 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 4 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
+| 5 | [#LassoRespetaLaDemocracia](http://twitter.com/search?q=%23LassoRespetaLaDemocracia) | N/A |
+| 6 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 7 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 8 | [#LatidoPilsener](http://twitter.com/search?q=%23LatidoPilsener) | N/A |
+| 9 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 10 | [mar en los premios heat](http://twitter.com/search?q=mar+en+los+premios+heat) | N/A |
+| 11 | [Aparicio Caicedo](http://twitter.com/search?q=Aparicio+Caicedo) | N/A |
+| 12 | [#LassoRenuncia](http://twitter.com/search?q=%23LassoRenuncia) | N/A |
+| 13 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
+| 14 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
+| 15 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 16 | [henry cucalón](http://twitter.com/search?q=henry+cucal%c3%b3n) | N/A |
 | 17 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
-| 18 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
-| 19 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
-| 20 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 21 | [andrés seminario](http://twitter.com/search?q=andr%c3%a9s+seminario) | N/A |
-| 22 | [mauricio guim](http://twitter.com/search?q=mauricio+guim) | N/A |
+| 18 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 19 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
+| 20 | [andrés seminario](http://twitter.com/search?q=andr%c3%a9s+seminario) | N/A |
+| 21 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 23 | [Malecón](http://twitter.com/search?q=Malec%c3%b3n) | N/A |
-| 24 | [Correista](http://twitter.com/search?q=Correista) | N/A |
-| 25 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
-| 26 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
-| 27 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
-| 28 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
-| 29 | [Iván Correa](http://twitter.com/search?q=Iv%c3%a1n+Correa) | N/A |
-| 30 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
-| 31 | [rendón](http://twitter.com/search?q=rend%c3%b3n) | N/A |
-| 32 | [Francisco Jiménez](http://twitter.com/search?q=Francisco+Jim%c3%a9nez) | N/A |
-| 33 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 24 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
+| 25 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
+| 26 | [Correista](http://twitter.com/search?q=Correista) | N/A |
+| 27 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
+| 28 | [Iván Correa](http://twitter.com/search?q=Iv%c3%a1n+Correa) | N/A |
+| 29 | [Francisco Jiménez](http://twitter.com/search?q=Francisco+Jim%c3%a9nez) | N/A |
+| 30 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 31 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
+| 32 | [Rendón](http://twitter.com/search?q=Rend%c3%b3n) | N/A |
+| 33 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
+| 34 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
 | 35 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
-| 36 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 37 | [víctor figueroa](http://twitter.com/search?q=v%c3%adctor+figueroa) | N/A |
+| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 37 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 38 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
-| 39 | [Sebastián Corral](http://twitter.com/search?q=Sebasti%c3%a1n+Corral) | N/A |
-| 40 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 41 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
-| 42 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 43 | [Potosí](http://twitter.com/search?q=Potos%c3%ad) | N/A |
-| 44 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 45 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
-| 46 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 47 | [tania vásquez](http://twitter.com/search?q=tania+v%c3%a1squez) | N/A |
-| 48 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 40 | [víctor figueroa](http://twitter.com/search?q=v%c3%adctor+figueroa) | N/A |
+| 41 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 42 | [Sebastián Corral](http://twitter.com/search?q=Sebasti%c3%a1n+Corral) | N/A |
+| 43 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 44 | [Gerencia](http://twitter.com/search?q=Gerencia) | N/A |
+| 45 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 46 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 47 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 48 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
 | 49 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 50 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 50 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 
 
 

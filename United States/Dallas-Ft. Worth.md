@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-10 17:16:16 UTC`
+📆 Last Updated: `2023-02-10 18:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [United States](</United States>)
 | 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 6 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 7 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
 | 8 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 9 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 10 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 11 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 12 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 14 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
-| 15 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 16 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 20 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 11 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 12 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 13 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 14 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 15 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 18 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 19 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 20 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
 | 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 22 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 23 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 24 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 26 | [Chad Hall](http://twitter.com/search?q=Chad+Hall) | N/A |
-| 27 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 28 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 29 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 30 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 22 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 23 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 24 | [BOLTIE](http://twitter.com/search?q=BOLTIE) | N/A |
+| 25 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 26 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 27 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 28 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 29 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 30 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
 | 31 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 32 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 33 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 34 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 32 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 34 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
 | 35 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 36 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
-| 37 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
-| 38 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
-| 39 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 40 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 41 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
-| 42 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 43 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
-| 44 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 45 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
-| 46 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 47 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 48 | [laura dern](http://twitter.com/search?q=laura+dern) | N/A |
+| 36 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 37 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 38 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 39 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
+| 40 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 41 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 42 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 43 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 44 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 45 | [Letty](http://twitter.com/search?q=Letty) | N/A |
+| 46 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 47 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 48 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
 
 
 

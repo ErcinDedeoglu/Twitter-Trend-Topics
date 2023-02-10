@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-10 17:15:33 UTC`
+📆 Last Updated: `2023-02-10 18:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 2 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 3 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 4 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 1 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 3 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 4 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
 | 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 6 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
-| 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 6 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 7 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
 | 8 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
 | 9 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
 | 10 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 11 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 12 | [Jordan Harris](http://twitter.com/search?q=Jordan+Harris) | N/A |
-| 13 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 14 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 15 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 16 | [Jordan Peterson and Rex Murphy](http://twitter.com/search?q=Jordan+Peterson+and+Rex+Murphy) | N/A |
-| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 18 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
-| 19 | [Congratulations Tammie](http://twitter.com/search?q=Congratulations+Tammie) | N/A |
+| 11 | [Sharbot Lake](http://twitter.com/search?q=Sharbot+Lake) | N/A |
+| 12 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 15 | [Jordan Peterson and Rex Murphy](http://twitter.com/search?q=Jordan+Peterson+and+Rex+Murphy) | N/A |
+| 16 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 17 | [Jordan Harris](http://twitter.com/search?q=Jordan+Harris) | N/A |
+| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 19 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
 | 20 | [Battle of Billings Bridge](http://twitter.com/search?q=Battle+of+Billings+Bridge) | N/A |
-| 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 21 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
 | 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 24 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 25 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 28 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 29 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 30 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
-| 31 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 32 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 33 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 35 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 38 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 39 | [Pepperoni](http://twitter.com/search?q=Pepperoni) | N/A |
-| 40 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 41 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 42 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 43 | [John Horgan](http://twitter.com/search?q=John+Horgan) | N/A |
-| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 46 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 23 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 24 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 25 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 27 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
+| 28 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 29 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 30 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 31 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 32 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 33 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 36 | [Tammie](http://twitter.com/search?q=Tammie) | N/A |
+| 37 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 38 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 39 | [John Horgan](http://twitter.com/search?q=John+Horgan) | N/A |
+| 40 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 41 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 42 | [Khem](http://twitter.com/search?q=Khem) | N/A |
+| 43 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 45 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 46 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 
 
 

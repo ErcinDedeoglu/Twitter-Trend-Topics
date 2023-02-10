@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-10 17:15:53 UTC`
+📆 Last Updated: `2023-02-10 18:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 2 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 5 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 6 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 7 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 8 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
-| 9 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 10 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 11 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
-| 12 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 13 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
-| 14 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 15 | [Setip](http://twitter.com/search?q=Setip) | N/A |
-| 16 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 17 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 19 | [David](http://twitter.com/search?q=David) | N/A |
-| 20 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 21 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 22 | [persisam](http://twitter.com/search?q=persisam) | N/A |
-| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 24 | [SinB](http://twitter.com/search?q=SinB) | N/A |
-| 25 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 26 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 27 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 28 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 29 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 30 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 31 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
-| 32 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
-| 33 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
-| 34 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 35 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 36 | [#태용버블](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%eb%b2%84%eb%b8%94) | N/A |
-| 37 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
-| 38 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 39 | [#ApoxVogueInSukhothai](http://twitter.com/search?q=%23ApoxVogueInSukhothai) | N/A |
-| 40 | [#TesUsiaMental](http://twitter.com/search?q=%23TesUsiaMental) | N/A |
-| 41 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
-| 42 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
+| 1 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 2 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
+| 3 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 4 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
+| 5 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
+| 6 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 7 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 8 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
+| 9 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
+| 10 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 11 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 12 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
+| 13 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 14 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 15 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
+| 16 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 17 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 18 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 19 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 20 | [bupati kendal](http://twitter.com/search?q=bupati+kendal) | N/A |
+| 21 | [Rais Aam PBNU](http://twitter.com/search?q=Rais+Aam+PBNU) | N/A |
+| 22 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
+| 23 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
+| 24 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 25 | [mas bupati](http://twitter.com/search?q=mas+bupati) | N/A |
+| 26 | [erick thohir apresiasi bri](http://twitter.com/search?q=erick+thohir+apresiasi+bri) | N/A |
+| 27 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
+| 28 | [Dimatiin](http://twitter.com/search?q=Dimatiin) | N/A |
+| 29 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 30 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
+| 31 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
+| 32 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 33 | [51,4 t](http://twitter.com/search?q=51%2c4+t) | N/A |
+| 34 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 35 | [bukan orang baru](http://twitter.com/search?q=bukan+orang+baru) | N/A |
+| 36 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 37 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
+| 38 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
+| 39 | [Thanks to BTS](http://twitter.com/search?q=Thanks+to+BTS) | N/A |
+| 40 | [Nyala](http://twitter.com/search?q=Nyala) | N/A |
+| 41 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 42 | [miftachul ahyar](http://twitter.com/search?q=miftachul+ahyar) | N/A |
+| 43 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
+| 44 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 45 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 46 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 47 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
+| 48 | [SETIP](http://twitter.com/search?q=SETIP) | N/A |
+| 49 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 50 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-10 17:15:55 UTC`
+📆 Last Updated: `2023-02-10 18:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 4 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 5 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
-| 6 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 6 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
 | 7 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 8 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 9 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 10 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 12 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 13 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 8 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 9 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 10 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 11 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 13 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 14 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
-| 15 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
-| 16 | [margaret court](http://twitter.com/search?q=margaret+court) | N/A |
-| 17 | [boland](http://twitter.com/search?q=boland) | N/A |
-| 18 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 19 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 20 | [Atar](http://twitter.com/search?q=Atar) | N/A |
-| 21 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 22 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
-| 23 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 24 | [michelle rowland](http://twitter.com/search?q=michelle+rowland) | N/A |
-| 25 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 26 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 27 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 28 | [Fite](http://twitter.com/search?q=Fite) | N/A |
-| 29 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
-| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 31 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 15 | [FITE](http://twitter.com/search?q=FITE) | N/A |
+| 16 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
+| 17 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 18 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 19 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 20 | [margaret court](http://twitter.com/search?q=margaret+court) | N/A |
+| 21 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 22 | [Atar](http://twitter.com/search?q=Atar) | N/A |
+| 23 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 24 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 25 | [michelle rowland](http://twitter.com/search?q=michelle+rowland) | N/A |
+| 26 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 27 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
+| 28 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 29 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 30 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 31 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
 | 32 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 33 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 34 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 35 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 33 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 34 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 35 | [dr Karl](http://twitter.com/search?q=dr+Karl) | N/A |
 | 36 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
-| 37 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 38 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
-| 39 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 37 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
+| 38 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 39 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
 | 40 | [john mulaney](http://twitter.com/search?q=john+mulaney) | N/A |
 | 41 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
 | 42 | [naplan](http://twitter.com/search?q=naplan) | N/A |
 | 43 | [sydney water](http://twitter.com/search?q=sydney+water) | N/A |
-| 44 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 45 | [colac](http://twitter.com/search?q=colac) | N/A |
-| 46 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 47 | [World Heritage](http://twitter.com/search?q=World+Heritage) | N/A |
+| 44 | [colac](http://twitter.com/search?q=colac) | N/A |
+| 45 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 46 | [World Heritage](http://twitter.com/search?q=World+Heritage) | N/A |
+| 47 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
 | 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 
 

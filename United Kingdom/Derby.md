@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-10 17:15:34 UTC`
+📆 Last Updated: `2023-02-10 18:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 2 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 3 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
-| 4 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 5 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 6 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 7 | [#apprenticeship](http://twitter.com/search?q=%23apprenticeship) | N/A |
+| 1 | [#comedinewithme](http://twitter.com/search?q=%23comedinewithme) | N/A |
+| 2 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 3 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
+| 4 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 5 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 6 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 8 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 9 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 10 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 11 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
+| 9 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 10 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
+| 11 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 12 | [Jay Jay Reilly](http://twitter.com/search?q=Jay+Jay+Reilly) | N/A |
-| 13 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 14 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 15 | [Methven](http://twitter.com/search?q=Methven) | N/A |
-| 16 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 17 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 18 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 19 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 21 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 22 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 23 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 24 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 25 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 26 | [Bert](http://twitter.com/search?q=Bert) | N/A |
-| 27 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 28 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
-| 29 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 30 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 31 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 32 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
-| 33 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
-| 34 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 35 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 36 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 37 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 38 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 39 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 40 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 13 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 14 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
+| 15 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 16 | [Methven](http://twitter.com/search?q=Methven) | N/A |
+| 17 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 18 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 20 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 21 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 22 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 23 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 24 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 25 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
+| 26 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 27 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 28 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 29 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 30 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
+| 31 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 32 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 33 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
+| 34 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 35 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
+| 36 | [#fridayfive](http://twitter.com/search?q=%23fridayfive) | N/A |
+| 37 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
+| 38 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 39 | [#clarksonsfarm2](http://twitter.com/search?q=%23clarksonsfarm2) | N/A |
+| 40 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
 | 41 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 42 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 43 | [#soloBeatleEgyptology](http://twitter.com/search?q=%23soloBeatleEgyptology) | N/A |
-| 44 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 45 | [#FridayFive](http://twitter.com/search?q=%23FridayFive) | N/A |
-| 46 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
+| 42 | [#soloBeatleEgyptology](http://twitter.com/search?q=%23soloBeatleEgyptology) | N/A |
+| 43 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
+| 44 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 45 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 46 | [#DyddMiwsigCymru2023](http://twitter.com/search?q=%23DyddMiwsigCymru2023) | N/A |
+| 47 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 48 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 49 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
 
 
 

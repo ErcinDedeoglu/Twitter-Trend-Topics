@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-10 17:16:29 UTC`
+📆 Last Updated: `2023-02-10 18:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Philippines
 | 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 4 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
 | 5 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 6 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 7 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 6 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 7 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
 | 8 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
 | 9 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
 | 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
 | 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 12 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
 | 13 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 14 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 15 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 16 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 17 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 18 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
-| 19 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 20 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 21 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 22 | [Chaeng](http://twitter.com/search?q=Chaeng) | N/A |
-| 23 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 24 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 25 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 26 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 27 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 28 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 29 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
-| 30 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 31 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 32 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 33 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
-| 34 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 35 | [Narda](http://twitter.com/search?q=Narda) | N/A |
-| 36 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 37 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 38 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
-| 39 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 40 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 41 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 42 | [JayB](http://twitter.com/search?q=JayB) | N/A |
-| 43 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 44 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 45 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
-| 46 | [#DLSearch](http://twitter.com/search?q=%23DLSearch) | N/A |
-| 47 | [#FELIP_STRAYDOGSmvOutNow](http://twitter.com/search?q=%23FELIP_STRAYDOGSmvOutNow) | N/A |
-| 48 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
-| 49 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 50 | [#BedaDoBetter](http://twitter.com/search?q=%23BedaDoBetter) | N/A |
+| 14 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 15 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 16 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 17 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 19 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 20 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 21 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 22 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 23 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 24 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 25 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 26 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
+| 27 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 28 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 29 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
+| 30 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 31 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 32 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 33 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 34 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
+| 35 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 36 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 37 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
+| 38 | [#DLSearch](http://twitter.com/search?q=%23DLSearch) | N/A |
+| 39 | [#FELIP_STRAYDOGSmvOutNow](http://twitter.com/search?q=%23FELIP_STRAYDOGSmvOutNow) | N/A |
+| 40 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
+| 41 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 42 | [#BedaDoBetter](http://twitter.com/search?q=%23BedaDoBetter) | N/A |
+| 43 | [#AlwaysByYeolSide](http://twitter.com/search?q=%23AlwaysByYeolSide) | N/A |
+| 44 | [#골든차일드](http://twitter.com/search?q=%23%ea%b3%a8%eb%93%a0%ec%b0%a8%ec%9d%bc%eb%93%9c) | N/A |
+| 45 | [#매일매일_보고싶은_대열찌_생일축하해](http://twitter.com/search?q=%23%eb%a7%a4%ec%9d%bc%eb%a7%a4%ec%9d%bc_%eb%b3%b4%ea%b3%a0%ec%8b%b6%ec%9d%80_%eb%8c%80%ec%97%b4%ec%b0%8c_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 46 | [#GoldenChild](http://twitter.com/search?q=%23GoldenChild) | N/A |
+| 47 | [#WWIW16](http://twitter.com/search?q=%23WWIW16) | N/A |
+| 48 | [#onceselcaday](http://twitter.com/search?q=%23onceselcaday) | N/A |
+| 49 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
+| 50 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 
 
 

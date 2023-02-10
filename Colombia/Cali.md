@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-10 17:15:40 UTC`
+📆 Last Updated: `2023-02-10 18:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaDelPeriodista](http://twitter.com/search?q=%23DiaDelPeriodista) | N/A |
-| 2 | [#UnDescaroEs](http://twitter.com/search?q=%23UnDescaroEs) | N/A |
-| 3 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
-| 4 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
-| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 1 | [#UnDescaroEs](http://twitter.com/search?q=%23UnDescaroEs) | N/A |
+| 2 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
+| 3 | [#DiaDelPeriodista](http://twitter.com/search?q=%23DiaDelPeriodista) | N/A |
+| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
 | 6 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
 | 7 | [Guacherna](http://twitter.com/search?q=Guacherna) | N/A |
-| 8 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 9 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 8 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 9 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
 | 10 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
-| 11 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 13 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 14 | [Hacienda Nápoles](http://twitter.com/search?q=Hacienda+N%c3%a1poles) | N/A |
-| 15 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 16 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
-| 17 | [Radamel Falcao García](http://twitter.com/search?q=Radamel+Falcao+Garc%c3%ada) | N/A |
-| 18 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 19 | [Matamba](http://twitter.com/search?q=Matamba) | N/A |
-| 20 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
-| 21 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
-| 22 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 24 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 12 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
+| 13 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 14 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
+| 15 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 16 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 17 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 18 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 20 | [MAÑANA SERÁ BONITO](http://twitter.com/search?q=MA%c3%91ANA+SER%c3%81+BONITO) | N/A |
+| 21 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 22 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
+| 23 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
+| 24 | [Corinto](http://twitter.com/search?q=Corinto) | N/A |
 | 25 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Corinto](http://twitter.com/search?q=Corinto) | N/A |
-| 28 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
-| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 30 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
-| 31 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 32 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 33 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 34 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
-| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 36 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 37 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 38 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 39 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 40 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 41 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 42 | [Danilo Rueda](http://twitter.com/search?q=Danilo+Rueda) | N/A |
-| 43 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 44 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 45 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 46 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 47 | [chocoa](http://twitter.com/search?q=chocoa) | N/A |
-| 48 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
-| 49 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 26 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 27 | [andueza](http://twitter.com/search?q=andueza) | N/A |
+| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 29 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 30 | [Radamel Falcao García](http://twitter.com/search?q=Radamel+Falcao+Garc%c3%ada) | N/A |
+| 31 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 32 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 35 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 37 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
+| 38 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 39 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 40 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 41 | [caraballo](http://twitter.com/search?q=caraballo) | N/A |
+| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 43 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 44 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 45 | [Hacienda Nápoles](http://twitter.com/search?q=Hacienda+N%c3%a1poles) | N/A |
+| 46 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 47 | [Chocoa](http://twitter.com/search?q=Chocoa) | N/A |
+| 48 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 49 | [BRUNO DÍAZ](http://twitter.com/search?q=BRUNO+D%c3%8dAZ) | N/A |
 
 
 
