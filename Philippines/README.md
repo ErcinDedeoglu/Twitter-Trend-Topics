@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-10 19:16:14 UTC`
+📆 Last Updated: `2023-02-10 20:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,34 +18,34 @@ This is top 50 for Philippines
 | 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
 | 2 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
 | 3 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 4 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
 | 6 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
 | 7 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 8 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 9 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
-| 10 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 11 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 12 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
-| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 14 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 8 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
+| 9 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 10 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 11 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 12 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 13 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 14 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
 | 15 | [salamat po maam](http://twitter.com/search?q=salamat+po+maam) | N/A |
-| 16 | [kdlex its showtime](http://twitter.com/search?q=kdlex+its+showtime) | N/A |
-| 17 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 18 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 19 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 20 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 21 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 16 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 17 | [kdlex its showtime](http://twitter.com/search?q=kdlex+its+showtime) | N/A |
+| 18 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 19 | [bgyo on feu ocp2023](http://twitter.com/search?q=bgyo+on+feu+ocp2023) | N/A |
+| 20 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 21 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 22 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
 | 23 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 24 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 25 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 26 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
-| 27 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 28 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 29 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 30 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
-| 31 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 24 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 25 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
+| 26 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
+| 27 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 28 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 29 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
+| 30 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 31 | [drunk-dazed hits 100m](http://twitter.com/search?q=drunk-dazed+hits+100m) | N/A |
 | 32 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 | 33 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
 | 34 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Philippines
 | 44 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
 | 45 | [JayB](http://twitter.com/search?q=JayB) | N/A |
 | 46 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 47 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 47 | [bea de leon](http://twitter.com/search?q=bea+de+leon) | N/A |
 | 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 49 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 50 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 50 | [heechul](http://twitter.com/search?q=heechul) | N/A |
 
 
 

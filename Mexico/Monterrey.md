@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-10 19:15:27 UTC`
+📆 Last Updated: `2023-02-10 20:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,45 +17,45 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
 | 2 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
-| 3 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
-| 4 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 6 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 7 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 8 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 9 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 10 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 11 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 12 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
-| 13 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 14 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 15 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 16 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 17 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
-| 18 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 19 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 20 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 21 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 22 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 23 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 24 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 25 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 26 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 27 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 28 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 29 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 30 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
-| 31 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 32 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 33 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 34 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 35 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
-| 36 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 37 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 38 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 39 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
-| 40 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 41 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 3 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 4 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 5 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
+| 6 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 7 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 8 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 9 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 10 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 11 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
+| 12 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 13 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 14 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 15 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 16 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 17 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 18 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
+| 19 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 20 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 21 | [Hoy 10](http://twitter.com/search?q=Hoy+10) | N/A |
+| 22 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 23 | [Director Técnico](http://twitter.com/search?q=Director+T%c3%a9cnico) | N/A |
+| 24 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
+| 25 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 26 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 27 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
+| 28 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 29 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 30 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 31 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 33 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 34 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 35 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 36 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 37 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 38 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 39 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 40 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 41 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
 
 
 

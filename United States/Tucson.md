@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-10 19:16:07 UTC`
+📆 Last Updated: `2023-02-10 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Radio Row](http://twitter.com/search?q=Radio+Row) | N/A |
 | 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 3 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 8 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 9 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 10 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 3 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 4 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 8 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 9 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 11 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 12 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 13 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 14 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 15 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 12 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 13 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 14 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 15 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
 | 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 17 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 18 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 19 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 20 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 21 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 22 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 23 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 24 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 27 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 28 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 29 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 30 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 31 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 32 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 33 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 34 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 18 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 19 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 20 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 21 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 22 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 23 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 24 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 25 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 26 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 27 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 28 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 29 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 30 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 32 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 33 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 34 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
 | 35 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
-| 36 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 37 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 38 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 39 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
-| 40 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 41 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 42 | [frank iero](http://twitter.com/search?q=frank+iero) | N/A |
-| 43 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 44 | [Eruption](http://twitter.com/search?q=Eruption) | N/A |
-| 45 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 46 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 47 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
-| 48 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 49 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
+| 36 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 37 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 38 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 39 | [National Security Council](http://twitter.com/search?q=National+Security+Council) | N/A |
+| 40 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 41 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
+| 42 | [Object](http://twitter.com/search?q=Object) | N/A |
+| 43 | [IBSA](http://twitter.com/search?q=IBSA) | N/A |
+| 44 | [yoojung](http://twitter.com/search?q=yoojung) | N/A |
+| 45 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 46 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
+| 47 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 48 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 49 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
 
 
 

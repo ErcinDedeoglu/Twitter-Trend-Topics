@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-02-10 19:15:42 UTC`
+📆 Last Updated: `2023-02-10 20:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,16 +21,16 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 5 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
 | 6 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 7 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 9 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 10 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 11 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 12 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 13 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 14 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 15 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
-| 16 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
+| 7 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 8 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 9 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 10 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 13 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 14 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
+| 15 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
+| 16 | [#NRLPreSeason](http://twitter.com/search?q=%23NRLPreSeason) | N/A |
 | 17 | [margaret court](http://twitter.com/search?q=margaret+court) | N/A |
 | 18 | [Boland](http://twitter.com/search?q=Boland) | N/A |
 | 19 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
@@ -41,26 +41,26 @@ This is top 50 for [Australia](</Australia>)
 | 24 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
 | 25 | [michelle rowland](http://twitter.com/search?q=michelle+rowland) | N/A |
 | 26 | [sportsbet](http://twitter.com/search?q=sportsbet) | N/A |
-| 27 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 28 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 29 | [Fite](http://twitter.com/search?q=Fite) | N/A |
-| 30 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 31 | [angus taylor](http://twitter.com/search?q=angus+taylor) | N/A |
-| 32 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 33 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 34 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 35 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
-| 36 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 37 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
-| 38 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 39 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
-| 40 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 41 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
-| 42 | [naplan](http://twitter.com/search?q=naplan) | N/A |
-| 43 | [sydney water](http://twitter.com/search?q=sydney+water) | N/A |
-| 44 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 45 | [colac](http://twitter.com/search?q=colac) | N/A |
-| 46 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
+| 27 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 28 | [Fite](http://twitter.com/search?q=Fite) | N/A |
+| 29 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 30 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 31 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 32 | [dr karl](http://twitter.com/search?q=dr+karl) | N/A |
+| 33 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
+| 34 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 35 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
+| 36 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 37 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
+| 38 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 39 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 40 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
+| 41 | [naplan](http://twitter.com/search?q=naplan) | N/A |
+| 42 | [sydney water](http://twitter.com/search?q=sydney+water) | N/A |
+| 43 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 44 | [colac](http://twitter.com/search?q=colac) | N/A |
+| 45 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
+| 46 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
 | 47 | [World Heritage](http://twitter.com/search?q=World+Heritage) | N/A |
 | 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 49 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |

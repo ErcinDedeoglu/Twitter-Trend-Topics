@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-10 19:16:16 UTC`
+📆 Last Updated: `2023-02-10 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Vietnam
 | 4 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 5 | [#ENGLOTxRapidLife](http://twitter.com/search?q=%23ENGLOTxRapidLife) | N/A |
 | 6 | [#LoveinTheAirinVietnam](http://twitter.com/search?q=%23LoveinTheAirinVietnam) | N/A |
-| 7 | [$PIT](http://twitter.com/search?q=%24PIT) | N/A |
+| 7 | [$pit](http://twitter.com/search?q=%24pit) | N/A |
 | 8 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 9 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
 | 10 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Vietnam
 | 39 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 40 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
 | 41 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 42 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 44 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 45 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 46 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 47 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 48 | [Trong](http://twitter.com/search?q=Trong) | N/A |
-| 49 | [West](http://twitter.com/search?q=West) | N/A |
-| 50 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 42 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 43 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 44 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 45 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
+| 46 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 47 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 48 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 49 | [Trong](http://twitter.com/search?q=Trong) | N/A |
+| 50 | [West](http://twitter.com/search?q=West) | N/A |
 
 
 

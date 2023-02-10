@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-10 19:15:35 UTC`
+📆 Last Updated: `2023-02-10 20:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 2 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
-| 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 1 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
+| 2 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
+| 3 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
 | 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 9 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 5 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 6 | [#DSCFCH](http://twitter.com/search?q=%23DSCFCH) | N/A |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 9 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
 | 10 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 11 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
-| 12 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 13 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 14 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 15 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 16 | [Blackfacing](http://twitter.com/search?q=Blackfacing) | N/A |
-| 17 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 18 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
-| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 20 | ['Fenster'](http://twitter.com/search?q=%27Fenster%27) | N/A |
-| 21 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 22 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 23 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 24 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 25 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 26 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 27 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 28 | [Schleck](http://twitter.com/search?q=Schleck) | N/A |
-| 29 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 30 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 31 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 32 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 33 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 34 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 35 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
-| 36 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 37 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 38 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 39 | [Tilo Jung](http://twitter.com/search?q=Tilo+Jung) | N/A |
-| 40 | [Umdeutung](http://twitter.com/search?q=Umdeutung) | N/A |
-| 41 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
-| 42 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
-| 43 | [Triebe](http://twitter.com/search?q=Triebe) | N/A |
-| 44 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
-| 45 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 46 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 47 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 48 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 49 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 50 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 11 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
+| 12 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 13 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 14 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 15 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
+| 16 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 17 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 18 | [Schulsystem](http://twitter.com/search?q=Schulsystem) | N/A |
+| 19 | [Widerlich](http://twitter.com/search?q=Widerlich) | N/A |
+| 20 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 21 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 22 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 23 | [Tüte](http://twitter.com/search?q=T%c3%bcte) | N/A |
+| 24 | [Aufruf](http://twitter.com/search?q=Aufruf) | N/A |
+| 25 | [#KSCSGF](http://twitter.com/search?q=%23KSCSGF) | N/A |
+| 26 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 27 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
+| 28 | [#fif23](http://twitter.com/search?q=%23fif23) | N/A |
+| 29 | [#AUESVW](http://twitter.com/search?q=%23AUESVW) | N/A |
+| 30 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 31 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 32 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 33 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 34 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 35 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 36 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 37 | [#LauterbachRuecktrittJetzt](http://twitter.com/search?q=%23LauterbachRuecktrittJetzt) | N/A |
 
 
 

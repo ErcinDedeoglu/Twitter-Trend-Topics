@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-10 19:15:37 UTC`
+📆 Last Updated: `2023-02-10 20:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#10febbraio](http://twitter.com/search?q=%2310febbraio) | N/A |
-| 3 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
-| 4 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
-| 5 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
-| 6 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 7 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 10 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 11 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 12 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 13 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 14 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 15 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 16 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 17 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 18 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
-| 19 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 21 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 22 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 23 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 24 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
-| 25 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 26 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 27 | [Sonego](http://twitter.com/search?q=Sonego) | N/A |
-| 28 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 29 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 30 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 31 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 32 | [codice 10](http://twitter.com/search?q=codice+10) | N/A |
-| 33 | [Siani](http://twitter.com/search?q=Siani) | N/A |
-| 34 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 35 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 36 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 37 | [Criscitiello](http://twitter.com/search?q=Criscitiello) | N/A |
-| 38 | [Corte Costituzionale](http://twitter.com/search?q=Corte+Costituzionale) | N/A |
-| 39 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 40 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 41 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 42 | [Kyenge](http://twitter.com/search?q=Kyenge) | N/A |
-| 43 | [Istria](http://twitter.com/search?q=Istria) | N/A |
-| 44 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 45 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
-| 46 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
-| 47 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 48 | [Fils](http://twitter.com/search?q=Fils) | N/A |
-| 49 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 50 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 1 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 2 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
+| 3 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 4 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
+| 5 | [#FestivalDiSanremo2023](http://twitter.com/search?q=%23FestivalDiSanremo2023) | N/A |
+| 6 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 7 | [Ma Will](http://twitter.com/search?q=Ma+Will) | N/A |
+| 8 | [#Cozzolino](http://twitter.com/search?q=%23Cozzolino) | N/A |
+| 9 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
+| 10 | [#Qatargate](http://twitter.com/search?q=%23Qatargate) | N/A |
+| 11 | [#avantiunaltro](http://twitter.com/search?q=%23avantiunaltro) | N/A |
+| 12 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
+| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 14 | [Daniele e Oriana](http://twitter.com/search?q=Daniele+e+Oriana) | N/A |
+| 15 | [La Egonu](http://twitter.com/search?q=La+Egonu) | N/A |
+| 16 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 17 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 18 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 19 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 20 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 21 | [Arianna](http://twitter.com/search?q=Arianna) | N/A |
+| 22 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
+| 23 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 24 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 25 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
+| 26 | [Italiana](http://twitter.com/search?q=Italiana) | N/A |
+| 27 | [Facci](http://twitter.com/search?q=Facci) | N/A |
+| 28 | [Enogu](http://twitter.com/search?q=Enogu) | N/A |
+| 29 | [Padova](http://twitter.com/search?q=Padova) | N/A |
+| 30 | [Cruciani](http://twitter.com/search?q=Cruciani) | N/A |
+| 31 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 32 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 33 | [#10febbraio](http://twitter.com/search?q=%2310febbraio) | N/A |
+| 34 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
+| 35 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 36 | [#Sonego](http://twitter.com/search?q=%23Sonego) | N/A |
+| 37 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
+| 38 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 39 | [#CONI](http://twitter.com/search?q=%23CONI) | N/A |
+| 40 | [#EuroTrack23](http://twitter.com/search?q=%23EuroTrack23) | N/A |
+| 41 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
+| 42 | [#razzismo](http://twitter.com/search?q=%23razzismo) | N/A |
 
 
 

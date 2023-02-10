@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-10 19:15:27 UTC`
+📆 Last Updated: `2023-02-10 20:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
-| 2 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 4 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 5 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 7 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 8 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 9 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 10 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 11 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
-| 12 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 13 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 14 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 15 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 16 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
-| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 19 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 20 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 21 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 22 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 23 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 24 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 25 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 26 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 27 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 28 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 29 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
-| 30 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 31 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 32 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 33 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 34 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
-| 35 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 36 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 37 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
-| 38 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 39 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
-| 40 | [#TraigoAntojoDe](http://twitter.com/search?q=%23TraigoAntojoDe) | N/A |
-| 41 | [#Fast10](http://twitter.com/search?q=%23Fast10) | N/A |
-| 42 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
-| 43 | [#RapidosYFuriososX](http://twitter.com/search?q=%23RapidosYFuriososX) | N/A |
-| 44 | [#ComplacenciasNextFM](http://twitter.com/search?q=%23ComplacenciasNextFM) | N/A |
-| 45 | [#YoSigoALaFranjaEnTribuna](http://twitter.com/search?q=%23YoSigoALaFranjaEnTribuna) | N/A |
-| 46 | [#auronporsiempre](http://twitter.com/search?q=%23auronporsiempre) | N/A |
-| 47 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 48 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 1 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 2 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 3 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
+| 4 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 6 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 7 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 9 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
+| 10 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 11 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 12 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 13 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 14 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 15 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 16 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 17 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
+| 18 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 19 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 20 | [Hoy 10](http://twitter.com/search?q=Hoy+10) | N/A |
+| 21 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 22 | [Director Técnico](http://twitter.com/search?q=Director+T%c3%a9cnico) | N/A |
+| 23 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
+| 24 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 25 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 26 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
+| 27 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 30 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 32 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 34 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 36 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 37 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 38 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 39 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 40 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 41 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 42 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 43 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 44 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 45 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 46 | [#YoSigoALaFranjaEnTribuna](http://twitter.com/search?q=%23YoSigoALaFranjaEnTribuna) | N/A |
+| 47 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 48 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 49 | [#Fast10](http://twitter.com/search?q=%23Fast10) | N/A |
+| 50 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
 
 
 

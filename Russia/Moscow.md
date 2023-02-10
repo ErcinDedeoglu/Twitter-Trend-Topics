@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-02-10 19:15:53 UTC`
+📆 Last Updated: `2023-02-10 20:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,24 +26,24 @@ This is top 50 for [Russia](</Russia>)
 | 9 | [#омархайам](http://twitter.com/search?q=%23%d0%be%d0%bc%d0%b0%d1%80%d1%85%d0%b0%d0%b9%d0%b0%d0%bc) | N/A |
 | 10 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
 | 11 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 12 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 12 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
 | 13 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 14 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 15 | [илон маск](http://twitter.com/search?q=%d0%b8%d0%bb%d0%be%d0%bd+%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
+| 15 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
 | 16 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 | 17 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 18 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 19 | [Чебурашка](http://twitter.com/search?q=%d0%a7%d0%b5%d0%b1%d1%83%d1%80%d0%b0%d1%88%d0%ba%d0%b0) | N/A |
-| 20 | [Смотрю](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8e) | N/A |
-| 21 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 22 | [Алексей](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
+| 18 | [64.37 APT](http://twitter.com/search?q=64.37+APT) | N/A |
+| 19 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 20 | [Чебурашка](http://twitter.com/search?q=%d0%a7%d0%b5%d0%b1%d1%83%d1%80%d0%b0%d1%88%d0%ba%d0%b0) | N/A |
+| 21 | [Смотрю](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8e) | N/A |
+| 22 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
 | 23 | [Твиттера](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b0) | N/A |
 | 24 | [Родину](http://twitter.com/search?q=%d0%a0%d0%be%d0%b4%d0%b8%d0%bd%d1%83) | N/A |
 | 25 | [Лучшее](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b5%d0%b5) | N/A |
 | 26 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 27 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
-| 28 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
-| 29 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 27 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
+| 28 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 29 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
 | 30 | [хогвартс легаси](http://twitter.com/search?q=%d1%85%d0%be%d0%b3%d0%b2%d0%b0%d1%80%d1%82%d1%81+%d0%bb%d0%b5%d0%b3%d0%b0%d1%81%d0%b8) | N/A |
 | 31 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 32 | [Польши](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b8) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for [Russia](</Russia>)
 | 34 | [Чисто](http://twitter.com/search?q=%d0%a7%d0%b8%d1%81%d1%82%d0%be) | N/A |
 | 35 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 36 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 37 | [Гарри Поттера](http://twitter.com/search?q=%d0%93%d0%b0%d1%80%d1%80%d0%b8+%d0%9f%d0%be%d1%82%d1%82%d0%b5%d1%80%d0%b0) | N/A |
-| 38 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 39 | [Кинопоиске](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
+| 37 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 38 | [Гарри Поттера](http://twitter.com/search?q=%d0%93%d0%b0%d1%80%d1%80%d0%b8+%d0%9f%d0%be%d1%82%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 39 | [Шикарно](http://twitter.com/search?q=%d0%a8%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
 | 40 | [слава](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0) | N/A |
-| 41 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 42 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 43 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 44 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 45 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 47 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 48 | [Роулинг](http://twitter.com/search?q=%d0%a0%d0%be%d1%83%d0%bb%d0%b8%d0%bd%d0%b3) | N/A |
+| 41 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 42 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 43 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 44 | [Роулинг](http://twitter.com/search?q=%d0%a0%d0%be%d1%83%d0%bb%d0%b8%d0%bd%d0%b3) | N/A |
+| 45 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 46 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 47 | [Вкусно](http://twitter.com/search?q=%d0%92%d0%ba%d1%83%d1%81%d0%bd%d0%be) | N/A |
+| 48 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-10 19:16:14 UTC`
+📆 Last Updated: `2023-02-10 20:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for Singapore
 | 2 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 3 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
 | 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 5 | [#锡林郭勒](http://twitter.com/search?q=%23%e9%94%a1%e6%9e%97%e9%83%ad%e5%8b%92) | N/A |
-| 6 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 5 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 6 | [#锡林郭勒](http://twitter.com/search?q=%23%e9%94%a1%e6%9e%97%e9%83%ad%e5%8b%92) | N/A |
 | 7 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
 | 8 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [im seeing txt](http://twitter.com/search?q=im+seeing+txt) | N/A |
+| 10 | [IM SEEING TXT](http://twitter.com/search?q=IM+SEEING+TXT) | N/A |
 | 11 | [wheein](http://twitter.com/search?q=wheein) | N/A |
 | 12 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
 | 13 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
@@ -50,21 +50,21 @@ This is top 50 for Singapore
 | 33 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 34 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
 | 35 | [Weibo](http://twitter.com/search?q=Weibo) | N/A |
-| 36 | [star vista](http://twitter.com/search?q=star+vista) | N/A |
-| 37 | [HES SO CUTE](http://twitter.com/search?q=HES+SO+CUTE) | N/A |
-| 38 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 39 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 40 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 41 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 43 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 44 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 36 | [HES SO CUTE](http://twitter.com/search?q=HES+SO+CUTE) | N/A |
+| 37 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 38 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 39 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 40 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 42 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 43 | [Gmgmm](http://twitter.com/search?q=Gmgmm) | N/A |
+| 44 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
 | 45 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 46 | [Gmgmm](http://twitter.com/search?q=Gmgmm) | N/A |
-| 47 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 50 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 46 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 47 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 48 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 49 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 50 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 
 
 
