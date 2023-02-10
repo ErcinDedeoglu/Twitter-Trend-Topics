@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-10 04:16:07 UTC`
+📆 Last Updated: `2023-02-10 05:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,23 +15,23 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 3 | [dissertation](http://twitter.com/search?q=dissertation) | N/A |
-| 4 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 5 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 6 | [Belastung](http://twitter.com/search?q=Belastung) | N/A |
-| 7 | [doktortitel](http://twitter.com/search?q=doktortitel) | N/A |
-| 8 | [plagiat](http://twitter.com/search?q=plagiat) | N/A |
+| 1 | [Belastung](http://twitter.com/search?q=Belastung) | N/A |
+| 2 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 4 | [dissertation](http://twitter.com/search?q=dissertation) | N/A |
+| 5 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 6 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
+| 7 | [plagiat](http://twitter.com/search?q=plagiat) | N/A |
+| 8 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 10 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 11 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
-| 12 | [#aschbacher](http://twitter.com/search?q=%23aschbacher) | N/A |
-| 13 | [magazin](http://twitter.com/search?q=magazin) | N/A |
+| 11 | [#aschbacher](http://twitter.com/search?q=%23aschbacher) | N/A |
+| 12 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
+| 13 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
 | 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 15 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 16 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 17 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
+| 17 | [#BOCBVB](http://twitter.com/search?q=%23BOCBVB) | N/A |
 | 18 | [Clown](http://twitter.com/search?q=Clown) | N/A |
 | 19 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
 | 20 | [rosemarie](http://twitter.com/search?q=rosemarie) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Austria](</Austria>)
 | 31 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
 | 32 | [Bratislava](http://twitter.com/search?q=Bratislava) | N/A |
 | 33 | [Direct](http://twitter.com/search?q=Direct) | N/A |
-| 34 | [Gutachten](http://twitter.com/search?q=Gutachten) | N/A |
+| 34 | [gutachten](http://twitter.com/search?q=gutachten) | N/A |
 | 35 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 36 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 37 | [Übersterblichkeit](http://twitter.com/search?q=%c3%9cbersterblichkeit) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Austria](</Austria>)
 | 42 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 44 | [hilfe vor ort](http://twitter.com/search?q=hilfe+vor+ort) | N/A |
-| 45 | [genesung](http://twitter.com/search?q=genesung) | N/A |
+| 45 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
 | 46 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 | 47 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
 | 48 | [Money](http://twitter.com/search?q=Money) | N/A |

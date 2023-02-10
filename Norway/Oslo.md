@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-10 04:16:16 UTC`
+📆 Last Updated: `2023-02-10 05:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,16 +18,16 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 2 | [Giske](http://twitter.com/search?q=Giske) | N/A |
 | 3 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 4 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
+| 4 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
 | 5 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 6 | [equinor](http://twitter.com/search?q=equinor) | N/A |
-| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 10 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 12 | [#MehlMåGå](http://twitter.com/search?q=%23MehlM%c3%a5G%c3%a5) | N/A |
-| 13 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 7 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 8 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 9 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 11 | [#mehlmågå](http://twitter.com/search?q=%23mehlm%c3%a5g%c3%a5) | N/A |
+| 12 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 13 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 14 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 15 | [Josimar](http://twitter.com/search?q=Josimar) | N/A |
 | 16 | [vinmonopolet](http://twitter.com/search?q=vinmonopolet) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Norway](</Norway>)
 | 33 | [harstad](http://twitter.com/search?q=harstad) | N/A |
 | 34 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
 | 35 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 36 | [NNPF](http://twitter.com/search?q=NNPF) | N/A |
+| 36 | [nnpf](http://twitter.com/search?q=nnpf) | N/A |
 | 37 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 38 | [nordsjøen](http://twitter.com/search?q=nordsj%c3%b8en) | N/A |
 | 39 | [USAs](http://twitter.com/search?q=USAs) | N/A |

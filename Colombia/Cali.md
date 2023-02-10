@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-10 04:16:00 UTC`
+📆 Last Updated: `2023-02-10 05:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [#DiaDelPeriodista](http://twitter.com/search?q=%23DiaDelPeriodista) | N/A |
 | 2 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
-| 3 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 4 | [#quierodaflores](http://twitter.com/search?q=%23quierodaflores) | N/A |
-| 5 | [#NoMeParece](http://twitter.com/search?q=%23NoMeParece) | N/A |
-| 6 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 7 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 8 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 9 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 10 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
-| 11 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 12 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 13 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
-| 14 | [Roque](http://twitter.com/search?q=Roque) | N/A |
-| 15 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 17 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
-| 18 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 19 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 20 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
-| 21 | [Bonnet](http://twitter.com/search?q=Bonnet) | N/A |
-| 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 23 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 24 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
-| 25 | [Brazucas](http://twitter.com/search?q=Brazucas) | N/A |
-| 26 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
-| 27 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
-| 28 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
-| 29 | [Panamericanos](http://twitter.com/search?q=Panamericanos) | N/A |
-| 30 | [Calienta Comesaña](http://twitter.com/search?q=Calienta+Comesa%c3%b1a) | N/A |
-| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 32 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 33 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 34 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
-| 35 | [Paola Herrera](http://twitter.com/search?q=Paola+Herrera) | N/A |
+| 3 | [#quierodaflores](http://twitter.com/search?q=%23quierodaflores) | N/A |
+| 4 | [#NoMeParece](http://twitter.com/search?q=%23NoMeParece) | N/A |
+| 5 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 6 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 7 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 8 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 9 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
+| 10 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 11 | [Roque](http://twitter.com/search?q=Roque) | N/A |
+| 12 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 13 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
+| 14 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 16 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
+| 17 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 18 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
+| 19 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 20 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
+| 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 22 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 23 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
+| 24 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
+| 25 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
+| 26 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 27 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 28 | [Panamericanos](http://twitter.com/search?q=Panamericanos) | N/A |
+| 29 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 30 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 31 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 32 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 33 | [Paola Herrera](http://twitter.com/search?q=Paola+Herrera) | N/A |
+| 34 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 35 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
 | 36 | [Mejia](http://twitter.com/search?q=Mejia) | N/A |
-| 37 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 37 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
 | 38 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 39 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 42 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 43 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
-| 44 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
-| 45 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 46 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 47 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 48 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 49 | [Gonzalo Guillén](http://twitter.com/search?q=Gonzalo+Guill%c3%a9n) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 41 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
+| 42 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 43 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 44 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 45 | [Gonzalo Guillén](http://twitter.com/search?q=Gonzalo+Guill%c3%a9n) | N/A |
+| 46 | [Caín](http://twitter.com/search?q=Ca%c3%adn) | N/A |
+| 47 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
+| 48 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 49 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
 
 
 

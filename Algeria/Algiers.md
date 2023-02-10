@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-10 04:16:29 UTC`
+📆 Last Updated: `2023-02-10 05:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 47 | [مناطق المعارضه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87) | N/A |
 | 48 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
 | 49 | [المخابرات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 50 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
 
 
 

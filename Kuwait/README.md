@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-10 04:17:01 UTC`
+📆 Last Updated: `2023-02-10 05:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 2 | [#انغام_في_الكويت](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%ba%d8%a7%d9%85_%d9%81%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 3 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 2 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 3 | [#انغام_في_الكويت](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%ba%d8%a7%d9%85_%d9%81%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 4 | [#مطرف_المطرف](http://twitter.com/search?q=%23%d9%85%d8%b7%d8%b1%d9%81_%d8%a7%d9%84%d9%85%d8%b7%d8%b1%d9%81) | N/A |
-| 5 | [#القادسيه_الجهراء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%ac%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
-| 6 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 7 | [الخميس الونيس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | N/A |
-| 8 | [لهيب الشوق](http://twitter.com/search?q=%d9%84%d9%87%d9%8a%d8%a8+%d8%a7%d9%84%d8%b4%d9%88%d9%82) | N/A |
-| 9 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 10 | [نور العين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 11 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 12 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 13 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 14 | [مطلق الجاسر](http://twitter.com/search?q=%d9%85%d8%b7%d9%84%d9%82+%d8%a7%d9%84%d8%ac%d8%a7%d8%b3%d8%b1) | N/A |
-| 15 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 16 | [عمار اشكناني](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d8%b4%d9%83%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 17 | [محمود المرضي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%b6%d9%8a) | N/A |
-| 18 | [الاداره المركزيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d9%87) | N/A |
-| 19 | [صادق النيه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 21 | [حمدان العازمي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
-| 22 | [السفاره التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 23 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 24 | [دولار لدعم الجهود الاغاثيه](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d8%a7%d8%ba%d8%a7%d8%ab%d9%8a%d9%87) | N/A |
-| 25 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
-| 26 | [يابو نصار](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
-| 27 | [سويت معروف](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%aa+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
-| 28 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 29 | [يابو عواد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%af) | N/A |
-| 30 | [علي الوحده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 31 | [علي الترفيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%81%d9%8a%d9%87) | N/A |
-| 32 | [9 فبراير 2023](http://twitter.com/search?q=9+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 33 | [ويك اند](http://twitter.com/search?q=%d9%88%d9%8a%d9%83+%d8%a7%d9%86%d8%af) | N/A |
-| 34 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 35 | [مكتب المجلس](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 36 | [يابو نافع](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%81%d8%b9) | N/A |
-| 37 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 38 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 39 | [الاسره الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
-| 40 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 41 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 42 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 43 | [يابو متعب](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
-| 44 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 45 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 46 | [الاستثمارات الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
-| 47 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 48 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 49 | [خالد الرشيدي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 50 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 5 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 6 | [#القادسيه_الجهراء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%ac%d9%87%d8%b1%d8%a7%d8%a1) | N/A |
+| 7 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 8 | [الخميس الونيس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | N/A |
+| 9 | [لهيب الشوق](http://twitter.com/search?q=%d9%84%d9%87%d9%8a%d8%a8+%d8%a7%d9%84%d8%b4%d9%88%d9%82) | N/A |
+| 10 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 11 | [نور العين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
+| 12 | [مطلق الجاسر](http://twitter.com/search?q=%d9%85%d8%b7%d9%84%d9%82+%d8%a7%d9%84%d8%ac%d8%a7%d8%b3%d8%b1) | N/A |
+| 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 14 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 15 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 16 | [الحفلات الغناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%81%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 17 | [عمار اشكناني](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d8%b4%d9%83%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [محمود المرضي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%b6%d9%8a) | N/A |
+| 19 | [الاداره المركزيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d9%87) | N/A |
+| 20 | [صادق النيه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d9%86%d9%8a%d9%87) | N/A |
+| 21 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 22 | [حمدان العازمي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
+| 23 | [السفاره التركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 24 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 25 | [جامعه عبدالله السالم](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 26 | [دولار لدعم الجهود الاغاثيه](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d8%a7%d8%ba%d8%a7%d8%ab%d9%8a%d9%87) | N/A |
+| 27 | [سيسوكو](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b3%d9%88%d9%83%d9%88) | N/A |
+| 28 | [يابو نصار](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
+| 29 | [سويت معروف](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%aa+%d9%85%d8%b9%d8%b1%d9%88%d9%81) | N/A |
+| 30 | [يابو عواد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%af) | N/A |
+| 31 | [علي الوحده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 32 | [علي الترفيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%b1%d9%81%d9%8a%d9%87) | N/A |
+| 33 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 34 | [9 فبراير 2023](http://twitter.com/search?q=9+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 35 | [ويك اند](http://twitter.com/search?q=%d9%88%d9%8a%d9%83+%d8%a7%d9%86%d8%af) | N/A |
+| 36 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 37 | [مكتب المجلس](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 38 | [يابو نافع](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%81%d8%b9) | N/A |
+| 39 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 40 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 41 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 42 | [الاسره الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 43 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 44 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 45 | [يابو متعب](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
+| 46 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 47 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 48 | [الاستثمارات الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 49 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 50 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
 
 
 

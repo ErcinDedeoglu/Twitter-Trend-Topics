@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-10 04:16:57 UTC`
+📆 Last Updated: `2023-02-10 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,29 +42,29 @@ This is top 50 for Belgium
 | 25 | [Wiskunde](http://twitter.com/search?q=Wiskunde) | N/A |
 | 26 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 27 | [Amerikanen](http://twitter.com/search?q=Amerikanen) | N/A |
-| 28 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 29 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 30 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 31 | [desmet](http://twitter.com/search?q=desmet) | N/A |
-| 32 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 36 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 37 | [vlamingen](http://twitter.com/search?q=vlamingen) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 41 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 43 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 44 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 45 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
-| 46 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 47 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 48 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 49 | [zwart](http://twitter.com/search?q=zwart) | N/A |
-| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 28 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
+| 29 | [Desmet](http://twitter.com/search?q=Desmet) | N/A |
+| 30 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 31 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 34 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 35 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
+| 36 | [vlamingen](http://twitter.com/search?q=vlamingen) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 39 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 40 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 41 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 42 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 43 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
+| 44 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
+| 45 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 46 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 47 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 48 | [zwart](http://twitter.com/search?q=zwart) | N/A |
+| 49 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 50 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
 
 
 

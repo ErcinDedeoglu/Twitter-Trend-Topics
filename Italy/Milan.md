@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-10 04:16:12 UTC`
+📆 Last Updated: `2023-02-10 05:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
 | 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 4 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 7 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 3 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 4 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 5 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 6 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 7 | [tananai](http://twitter.com/search?q=tananai) | N/A |
 | 8 | [#maneskin](http://twitter.com/search?q=%23maneskin) | N/A |
 | 9 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 10 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for [Italy](</Italy>)
 | 12 | [Davide](http://twitter.com/search?q=Davide) | N/A |
 | 13 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 14 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 15 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 16 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 17 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
-| 18 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 19 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 15 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 16 | [#9febbraio](http://twitter.com/search?q=%239febbraio) | N/A |
+| 17 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
+| 18 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 19 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 20 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
 | 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 22 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 23 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
+| 23 | [angelo duro](http://twitter.com/search?q=angelo+duro) | N/A |
 | 24 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 25 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 26 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 25 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 26 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
 | 27 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 28 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 28 | [Joey](http://twitter.com/search?q=Joey) | N/A |
 | 29 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 30 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 31 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 32 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
-| 33 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 34 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 35 | [Siani](http://twitter.com/search?q=Siani) | N/A |
-| 36 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
-| 37 | [sangio](http://twitter.com/search?q=sangio) | N/A |
-| 38 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 39 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 40 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
-| 41 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 42 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 43 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 44 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 45 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 46 | [benigni](http://twitter.com/search?q=benigni) | N/A |
-| 47 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 48 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 49 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
-| 50 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 30 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 31 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 32 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 33 | [Siani](http://twitter.com/search?q=Siani) | N/A |
+| 34 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 35 | [sangio](http://twitter.com/search?q=sangio) | N/A |
+| 36 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 37 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 38 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 39 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 40 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 41 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 42 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 43 | [benigni](http://twitter.com/search?q=benigni) | N/A |
+| 44 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 45 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 46 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
+| 47 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 48 | [codice 10](http://twitter.com/search?q=codice+10) | N/A |
+| 49 | [NO WAR](http://twitter.com/search?q=NO+WAR) | N/A |
+| 50 | [Olly](http://twitter.com/search?q=Olly) | N/A |
 
 
 

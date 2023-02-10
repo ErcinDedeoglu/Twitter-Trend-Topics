@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-10 04:17:03 UTC`
+📆 Last Updated: `2023-02-10 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,16 +22,16 @@ This is top 50 for Portugal
 | 5 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
 | 6 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 7 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 8 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 9 | [Vlachodimos](http://twitter.com/search?q=Vlachodimos) | N/A |
-| 10 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
+| 8 | [Vlachodimos](http://twitter.com/search?q=Vlachodimos) | N/A |
+| 9 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
+| 10 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 11 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 12 | [Racic](http://twitter.com/search?q=Racic) | N/A |
 | 13 | [Morato](http://twitter.com/search?q=Morato) | N/A |
-| 14 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 15 | [Al Musrati](http://twitter.com/search?q=Al+Musrati) | N/A |
-| 16 | [O Bah](http://twitter.com/search?q=O+Bah) | N/A |
-| 17 | [Jamor](http://twitter.com/search?q=Jamor) | N/A |
+| 14 | [Al Musrati](http://twitter.com/search?q=Al+Musrati) | N/A |
+| 15 | [O Bah](http://twitter.com/search?q=O+Bah) | N/A |
+| 16 | [Jamor](http://twitter.com/search?q=Jamor) | N/A |
+| 17 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
 | 18 | [Pizzi](http://twitter.com/search?q=Pizzi) | N/A |
 | 19 | [#SCBSLB](http://twitter.com/search?q=%23SCBSLB) | N/A |
 | 20 | [Taça de Portugal](http://twitter.com/search?q=Ta%c3%a7a+de+Portugal) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Portugal
 | 23 | [Brugge](http://twitter.com/search?q=Brugge) | N/A |
 | 24 | [Varzim](http://twitter.com/search?q=Varzim) | Varzim is a Portuguese coastal town located in the district of Porto. The name Varzim is derived from the Latin word "variscus", which means "sandy". In English, it can be translated to mean "sandy shore". |
 | 25 | [Taremi](http://twitter.com/search?q=Taremi) | N/A |
-| 26 | [Banza](http://twitter.com/search?q=Banza) | N/A |
+| 26 | [banza](http://twitter.com/search?q=banza) | N/A |
 | 27 | [Odysseas](http://twitter.com/search?q=Odysseas) | N/A |
 | 28 | [santana](http://twitter.com/search?q=santana) | N/A |
 | 29 | [artur soares](http://twitter.com/search?q=artur+soares) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Portugal
 | 32 | [ricardo horta](http://twitter.com/search?q=ricardo+horta) | N/A |
 | 33 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
 | 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 35 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 36 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 37 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
-| 38 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 40 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 41 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 42 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
-| 43 | [Adeus Netflix](http://twitter.com/search?q=Adeus+Netflix) | N/A |
-| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 45 | [O Ody](http://twitter.com/search?q=O+Ody) | N/A |
-| 46 | [Rui Veloso](http://twitter.com/search?q=Rui+Veloso) | N/A |
-| 47 | [#JanelaDaBru](http://twitter.com/search?q=%23JanelaDaBru) | N/A |
-| 48 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | André Gomes is a Portuguese professional footballer who plays for Premier League club Everton and the Portugal national team. His name translates to "Andrew Gomes" in English. |
-| 49 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
-| 50 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 35 | [antónio silva](http://twitter.com/search?q=ant%c3%b3nio+silva) | N/A |
+| 36 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 37 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 39 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 40 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
+| 41 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 42 | [Adeus Netflix](http://twitter.com/search?q=Adeus+Netflix) | N/A |
+| 43 | [o ody](http://twitter.com/search?q=o+ody) | N/A |
+| 44 | [Rui Veloso](http://twitter.com/search?q=Rui+Veloso) | N/A |
+| 45 | [#JanelaDaBru](http://twitter.com/search?q=%23JanelaDaBru) | N/A |
+| 46 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | André Gomes is a Portuguese professional footballer who plays for Premier League club Everton and the Portugal national team. His name translates to "Andrew Gomes" in English. |
+| 47 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
+| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 49 | [Fábio Melo](http://twitter.com/search?q=F%c3%a1bio+Melo) | N/A |
+| 50 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 
 
 

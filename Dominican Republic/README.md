@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-10 04:16:58 UTC`
+📆 Last Updated: `2023-02-10 05:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Dominican Republic
 | 15 | [samuel pereyra](http://twitter.com/search?q=samuel+pereyra) | N/A |
 | 16 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 17 | [#hechoenrd](http://twitter.com/search?q=%23hechoenrd) | N/A |
-| 18 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 19 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 18 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 19 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
 | 20 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
 | 21 | [Marte](http://twitter.com/search?q=Marte) | N/A |
 | 22 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 23 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
-| 24 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 25 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 26 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
+| 23 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 24 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
+| 25 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
+| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 27 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 28 | [Dunia](http://twitter.com/search?q=Dunia) | N/A |
-| 29 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 30 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 31 | [Kelvin Gutiérrez](http://twitter.com/search?q=Kelvin+Guti%c3%a9rrez) | N/A |
-| 32 | [cabarete](http://twitter.com/search?q=cabarete) | N/A |
-| 33 | [estadio Quisqueya](http://twitter.com/search?q=estadio+Quisqueya) | N/A |
-| 34 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
-| 35 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
-| 36 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 38 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
-| 39 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 40 | [Vinicio](http://twitter.com/search?q=Vinicio) | N/A |
-| 41 | [Roster](http://twitter.com/search?q=Roster) | N/A |
-| 42 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 43 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
-| 44 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 45 | [El Poli](http://twitter.com/search?q=El+Poli) | N/A |
-| 46 | [Ulises Francisco Espaillat](http://twitter.com/search?q=Ulises+Francisco+Espaillat) | N/A |
-| 47 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 48 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
-| 49 | [Mella](http://twitter.com/search?q=Mella) | N/A |
-| 50 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 29 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 30 | [Kelvin Gutiérrez](http://twitter.com/search?q=Kelvin+Guti%c3%a9rrez) | N/A |
+| 31 | [cabarete](http://twitter.com/search?q=cabarete) | N/A |
+| 32 | [estadio quisqueya](http://twitter.com/search?q=estadio+quisqueya) | N/A |
+| 33 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 36 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
+| 37 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
+| 38 | [Vinicio](http://twitter.com/search?q=Vinicio) | N/A |
+| 39 | [Roster](http://twitter.com/search?q=Roster) | N/A |
+| 40 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
+| 41 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
+| 42 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 43 | [El Poli](http://twitter.com/search?q=El+Poli) | N/A |
+| 44 | [Ulises Francisco Espaillat](http://twitter.com/search?q=Ulises+Francisco+Espaillat) | N/A |
+| 45 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 46 | [Mella](http://twitter.com/search?q=Mella) | N/A |
+| 47 | [La NBA](http://twitter.com/search?q=La+NBA) | N/A |
+| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 50 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 
 
 

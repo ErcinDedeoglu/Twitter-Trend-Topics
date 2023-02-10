@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-10 04:15:58 UTC`
+📆 Last Updated: `2023-02-10 05:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
-| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 3 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 1 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 2 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
 | 4 | [#AbsolutNights](http://twitter.com/search?q=%23AbsolutNights) | N/A |
 | 5 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
-| 6 | [#CristianReyEnPlaydoit](http://twitter.com/search?q=%23CristianReyEnPlaydoit) | N/A |
-| 7 | [#EsquizosDMC](http://twitter.com/search?q=%23EsquizosDMC) | N/A |
-| 8 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 9 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
-| 10 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 11 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 12 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 13 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 14 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
-| 15 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 16 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 17 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
-| 18 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 19 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 20 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 22 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
-| 23 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 24 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 25 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
-| 26 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 27 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 28 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 6 | [Víctor Guzmán](http://twitter.com/search?q=V%c3%adctor+Guzm%c3%a1n) | N/A |
+| 7 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 8 | [#EsquizosDMC](http://twitter.com/search?q=%23EsquizosDMC) | N/A |
+| 9 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 10 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 12 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
+| 13 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 14 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 15 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 16 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 17 | [this is why](http://twitter.com/search?q=this+is+why) | N/A |
+| 18 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 19 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 20 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 21 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 22 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 23 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 24 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 25 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
+| 26 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 27 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 28 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
 | 29 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 31 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 32 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
-| 33 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 34 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 35 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 36 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 37 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 38 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
-| 39 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 32 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 33 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 34 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
+| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 36 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 37 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 38 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 40 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 41 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 42 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 43 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
-| 44 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 45 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 46 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
-| 47 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 48 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
+| 41 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 42 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 43 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
+| 44 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
+| 45 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 46 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 47 | [INFIELES](http://twitter.com/search?q=INFIELES) | N/A |
+| 48 | [Madero](http://twitter.com/search?q=Madero) | N/A |
 
 
 

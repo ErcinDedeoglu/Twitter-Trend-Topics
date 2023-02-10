@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-10 04:16:59 UTC`
+📆 Last Updated: `2023-02-10 05:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for Ghana
 | 16 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
 | 17 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 18 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 19 | [Haruna Iddrisu](http://twitter.com/search?q=Haruna+Iddrisu) | N/A |
-| 20 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 20 | [Haruna Iddrisu](http://twitter.com/search?q=Haruna+Iddrisu) | N/A |
 | 21 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 23 | [#brunchintheciti](http://twitter.com/search?q=%23brunchintheciti) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Ghana
 | 39 | [Bosom Pyung](http://twitter.com/search?q=Bosom+Pyung) | N/A |
 | 40 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
 | 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [sugarcane remix ft](http://twitter.com/search?q=sugarcane+remix+ft) | N/A |
+| 42 | [sugarcane remix ft](http://twitter.com/search?q=sugarcane+remix+ft) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 44 | [king promise](http://twitter.com/search?q=king+promise) | N/A |
 | 45 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
 | 46 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 47 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
 | 48 | [Scoring](http://twitter.com/search?q=Scoring) | N/A |
 | 49 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 50 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 50 | [billboard](http://twitter.com/search?q=billboard) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-10 04:16:14 UTC`
+📆 Last Updated: `2023-02-10 05:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Spain](</Spain>)
 | 19 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 20 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
 | 21 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 22 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 23 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 22 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 23 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 24 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
 | 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 26 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 27 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 28 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 26 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 27 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 28 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 29 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
 | 30 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 31 | [sikora](http://twitter.com/search?q=sikora) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 34 | [Emule](http://twitter.com/search?q=Emule) | N/A |
-| 35 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 36 | [BORA BORA PREMIERE](http://twitter.com/search?q=BORA+BORA+PREMIERE) | N/A |
-| 37 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 38 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 39 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 40 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 41 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 42 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 44 | [netflix y twitter](http://twitter.com/search?q=netflix+y+twitter) | N/A |
-| 45 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 46 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 47 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 48 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 49 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 50 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 33 | [Emule](http://twitter.com/search?q=Emule) | N/A |
+| 34 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 35 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 36 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 37 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 38 | [Netflix y Twitter](http://twitter.com/search?q=Netflix+y+Twitter) | N/A |
+| 39 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 40 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 41 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
+| 42 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 43 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 44 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 46 | [Navia](http://twitter.com/search?q=Navia) | N/A |
+| 47 | [El Tribunal Constitucional](http://twitter.com/search?q=El+Tribunal+Constitucional) | N/A |
+| 48 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 49 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 50 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 
 
 
