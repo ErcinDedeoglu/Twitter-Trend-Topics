@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-10 14:15:44 UTC`
+📆 Last Updated: `2023-02-10 15:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 2 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 3 | [#ucustrikes](http://twitter.com/search?q=%23ucustrikes) | N/A |
-| 4 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
-| 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 7 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 8 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 9 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 10 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 12 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 13 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 14 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 15 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 16 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 17 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 18 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 19 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 20 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
-| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 22 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 23 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 24 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
-| 25 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 26 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 27 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 28 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
-| 29 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 30 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 31 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 32 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 33 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
-| 34 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 35 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
-| 36 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
-| 37 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 38 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 39 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 40 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 41 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 42 | [#celebrationfriday](http://twitter.com/search?q=%23celebrationfriday) | N/A |
-| 43 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 44 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
-| 45 | [#TransformingPD](http://twitter.com/search?q=%23TransformingPD) | N/A |
-| 46 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 47 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
-| 48 | [#PutNHSPayRight](http://twitter.com/search?q=%23PutNHSPayRight) | N/A |
+| 1 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 2 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 3 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
+| 4 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
+| 5 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
+| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 8 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 9 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 10 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 11 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 12 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 13 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 14 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 15 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 16 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 18 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 19 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 20 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 21 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
+| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 24 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 25 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 26 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
+| 27 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 28 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 29 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 30 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 31 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 32 | [#Apprenticeship](http://twitter.com/search?q=%23Apprenticeship) | N/A |
+| 33 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 34 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 35 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
+| 36 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 37 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 38 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
+| 39 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
+| 40 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 41 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 42 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 43 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 44 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
+| 45 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 46 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 47 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
+| 48 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
 
 
 

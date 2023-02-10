@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-10 14:15:54 UTC`
+📆 Last Updated: `2023-02-10 15:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 2 | [kika](http://twitter.com/search?q=kika) | N/A |
-| 3 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 4 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 5 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 2 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 3 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 4 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 6 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 7 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 10 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 11 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 12 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 13 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 14 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 15 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
-| 16 | [#MandsAnatomy](http://twitter.com/search?q=%23MandsAnatomy) | N/A |
-| 17 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 18 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
-| 19 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 20 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 21 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 22 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 23 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 24 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 25 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 26 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
-| 27 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 28 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 29 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 30 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
-| 31 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
-| 32 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 33 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 34 | [Saint](http://twitter.com/search?q=Saint) | N/A |
-| 35 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 36 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 37 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 38 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 39 | [Serra das Araras](http://twitter.com/search?q=Serra+das+Araras) | N/A |
-| 40 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 41 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 42 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
-| 43 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 44 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 45 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 9 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 11 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 12 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 13 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 14 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 15 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 16 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 17 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 18 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 19 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 20 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 21 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 22 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 23 | [Saint](http://twitter.com/search?q=Saint) | N/A |
+| 24 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 25 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 26 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 27 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 28 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
+| 29 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 30 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 31 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 32 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
+| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 34 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
+| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 36 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 37 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
+| 38 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 39 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
+| 40 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
+| 41 | [Marins](http://twitter.com/search?q=Marins) | N/A |
+| 42 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 43 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 44 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
+| 45 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 46 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 
 
 

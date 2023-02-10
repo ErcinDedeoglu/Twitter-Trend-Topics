@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-02-10 14:15:49 UTC`
+📆 Last Updated: `2023-02-10 15:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 3 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 4 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 5 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 7 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 8 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
-| 9 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 10 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 11 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 2 | [#KornoEnApuros](http://twitter.com/search?q=%23KornoEnApuros) | N/A |
+| 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 6 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 7 | [yuridia](http://twitter.com/search?q=yuridia) | N/A |
+| 8 | [pablo gómez](http://twitter.com/search?q=pablo+g%c3%b3mez) | N/A |
+| 9 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 11 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 12 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 13 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 15 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 16 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 17 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 18 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 19 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 21 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 22 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 23 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 24 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 25 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 26 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 27 | [fuego en la oscuridad](http://twitter.com/search?q=fuego+en+la+oscuridad) | N/A |
-| 28 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 29 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 30 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 31 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 32 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 33 | [Cetes](http://twitter.com/search?q=Cetes) | N/A |
-| 34 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 35 | [this is why](http://twitter.com/search?q=this+is+why) | N/A |
-| 36 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 37 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 15 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 16 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 17 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 18 | [San Francisco Totimehuacan](http://twitter.com/search?q=San+Francisco+Totimehuacan) | N/A |
+| 19 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 20 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
+| 21 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 24 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 25 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 26 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 27 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 28 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 29 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 30 | [fuego en la oscuridad](http://twitter.com/search?q=fuego+en+la+oscuridad) | N/A |
+| 31 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 32 | [chapoy](http://twitter.com/search?q=chapoy) | N/A |
+| 33 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
+| 34 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 35 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 36 | [Cetes](http://twitter.com/search?q=Cetes) | N/A |
+| 37 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
 | 38 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 39 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
-| 40 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 41 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 42 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 43 | [Miguel Díaz](http://twitter.com/search?q=Miguel+D%c3%adaz) | N/A |
-| 44 | ["Lamborinis"](http://twitter.com/search?q=%22Lamborinis%22) | N/A |
-| 45 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 39 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 40 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
+| 41 | [Hoy 10](http://twitter.com/search?q=Hoy+10) | N/A |
+| 42 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 43 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 44 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 45 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
+| 46 | [San José Sánchez del Río](http://twitter.com/search?q=San+Jos%c3%a9+S%c3%a1nchez+del+R%c3%ado) | N/A |
 
 
 

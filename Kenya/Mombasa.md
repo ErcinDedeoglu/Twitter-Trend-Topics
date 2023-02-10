@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-02-10 14:16:15 UTC`
+📆 Last Updated: `2023-02-10 15:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
-| 2 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
-| 3 | [Kanini Kega](http://twitter.com/search?q=Kanini+Kega) | N/A |
-| 4 | [David Murathe](http://twitter.com/search?q=David+Murathe) | N/A |
-| 5 | [Matiang'i](http://twitter.com/search?q=Matiang%27i) | N/A |
-| 6 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
-| 7 | [Jalang'o](http://twitter.com/search?q=Jalang%27o) | N/A |
-| 8 | [#MonumentalWonder](http://twitter.com/search?q=%23MonumentalWonder) | N/A |
-| 9 | [#JibambeNaNoodiesTekeTeke](http://twitter.com/search?q=%23JibambeNaNoodiesTekeTeke) | N/A |
-| 10 | [#Resign](http://twitter.com/search?q=%23Resign) | N/A |
-| 11 | [#ExposeMediamaxCEO](http://twitter.com/search?q=%23ExposeMediamaxCEO) | N/A |
-| 12 | [#asanteequity](http://twitter.com/search?q=%23asanteequity) | N/A |
-| 13 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
-| 14 | [England](http://twitter.com/search?q=England) | N/A |
-| 15 | [Langata](http://twitter.com/search?q=Langata) | N/A |
-| 16 | [Safarilink](http://twitter.com/search?q=Safarilink) | N/A |
+| 1 | [#LoveLivesHere](http://twitter.com/search?q=%23LoveLivesHere) | N/A |
+| 2 | [#TasteLivesHere](http://twitter.com/search?q=%23TasteLivesHere) | N/A |
+| 3 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
+| 4 | [Jeremiah Kioni](http://twitter.com/search?q=Jeremiah+Kioni) | N/A |
+| 5 | [#JibambeNaNoodiesTekeTeke](http://twitter.com/search?q=%23JibambeNaNoodiesTekeTeke) | N/A |
+| 6 | [David Murathe](http://twitter.com/search?q=David+Murathe) | N/A |
+| 7 | [Tusker Cider](http://twitter.com/search?q=Tusker+Cider) | N/A |
+| 8 | [Matteo's Italian](http://twitter.com/search?q=Matteo%27s+Italian) | N/A |
+| 9 | [Matiang'i](http://twitter.com/search?q=Matiang%27i) | N/A |
+| 10 | [Mawimbi Restaurant](http://twitter.com/search?q=Mawimbi+Restaurant) | N/A |
+| 11 | [Kanini Kega](http://twitter.com/search?q=Kanini+Kega) | N/A |
+| 12 | [#MonumentalWonder](http://twitter.com/search?q=%23MonumentalWonder) | N/A |
+| 13 | [Jalang'o](http://twitter.com/search?q=Jalang%27o) | N/A |
+| 14 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
+| 15 | [#Resign](http://twitter.com/search?q=%23Resign) | N/A |
+| 16 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
 | 17 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 18 | [Daniel Rono](http://twitter.com/search?q=Daniel+Rono) | N/A |
-| 19 | [loyalty](http://twitter.com/search?q=loyalty) | N/A |
-| 20 | [Nelson Havi](http://twitter.com/search?q=Nelson+Havi) | N/A |
-| 21 | [Mark Masai](http://twitter.com/search?q=Mark+Masai) | N/A |
-| 22 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
-| 23 | [Miguna Miguna](http://twitter.com/search?q=Miguna+Miguna) | N/A |
-| 24 | [ratify  iloc189](http://twitter.com/search?q=ratify++iloc189) | N/A |
-| 25 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 26 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 27 | [Scripted](http://twitter.com/search?q=Scripted) | N/A |
-| 28 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
-| 29 | [Eritrea](http://twitter.com/search?q=Eritrea) | N/A |
-| 30 | [power is transient](http://twitter.com/search?q=power+is+transient) | N/A |
-| 31 | [Obinna](http://twitter.com/search?q=Obinna) | N/A |
-| 32 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 33 | [Mr Ibu](http://twitter.com/search?q=Mr+Ibu) | N/A |
-| 34 | [37,009 students supported](http://twitter.com/search?q=37%2c009+students+supported) | N/A |
+| 18 | [Langata](http://twitter.com/search?q=Langata) | N/A |
+| 19 | [Safarilink](http://twitter.com/search?q=Safarilink) | N/A |
+| 20 | [Daniel Rono](http://twitter.com/search?q=Daniel+Rono) | N/A |
+| 21 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 22 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
+| 23 | [Mark Masai](http://twitter.com/search?q=Mark+Masai) | N/A |
+| 24 | [Nelson Havi](http://twitter.com/search?q=Nelson+Havi) | N/A |
+| 25 | [Loyalty](http://twitter.com/search?q=Loyalty) | N/A |
+| 26 | [Miguna Miguna](http://twitter.com/search?q=Miguna+Miguna) | N/A |
+| 27 | [ratify  iloc189](http://twitter.com/search?q=ratify++iloc189) | N/A |
+| 28 | [Scripted](http://twitter.com/search?q=Scripted) | N/A |
+| 29 | [power is transient](http://twitter.com/search?q=power+is+transient) | N/A |
+| 30 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 31 | [Mr Ibu](http://twitter.com/search?q=Mr+Ibu) | N/A |
+| 32 | [37,009 students supported](http://twitter.com/search?q=37%2c009+students+supported) | N/A |
+| 33 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 34 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
 | 35 | [The DCI](http://twitter.com/search?q=The+DCI) | N/A |
-| 36 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
-| 37 | [Korir](http://twitter.com/search?q=Korir) | N/A |
-| 38 | [ojienda](http://twitter.com/search?q=ojienda) | N/A |
-| 39 | [Jeff Koinange](http://twitter.com/search?q=Jeff+Koinange) | N/A |
-| 40 | [Click OK](http://twitter.com/search?q=Click+OK) | N/A |
-| 41 | [nakuru county](http://twitter.com/search?q=nakuru+county) | N/A |
-| 42 | [CRipple](http://twitter.com/search?q=CRipple) | N/A |
-| 43 | [M-PESA Menu](http://twitter.com/search?q=M-PESA+Menu) | N/A |
-| 44 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 45 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
-| 46 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 47 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
-| 48 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 49 | [Clout](http://twitter.com/search?q=Clout) | N/A |
+| 36 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 37 | [Eritrea](http://twitter.com/search?q=Eritrea) | N/A |
+| 38 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
+| 39 | [Obinna](http://twitter.com/search?q=Obinna) | N/A |
+| 40 | [Korir](http://twitter.com/search?q=Korir) | N/A |
+| 41 | [ojienda](http://twitter.com/search?q=ojienda) | N/A |
+| 42 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
+| 43 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
+| 44 | [Jeff Koinange](http://twitter.com/search?q=Jeff+Koinange) | N/A |
+| 45 | [nakuru county](http://twitter.com/search?q=nakuru+county) | N/A |
+| 46 | [M-PESA Menu](http://twitter.com/search?q=M-PESA+Menu) | N/A |
+| 47 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 48 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
+| 49 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 
 
 

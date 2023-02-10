@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-10 14:16:05 UTC`
+📆 Last Updated: `2023-02-10 15:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
-| 2 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
+| 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 2 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
 | 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 4 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
-| 5 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 7 | [#otwmalioboro](http://twitter.com/search?q=%23otwmalioboro) | N/A |
-| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 9 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
-| 10 | [love shot](http://twitter.com/search?q=love+shot) | N/A |
-| 11 | [Tongkat Angin](http://twitter.com/search?q=Tongkat+Angin) | N/A |
-| 12 | [Setip](http://twitter.com/search?q=Setip) | N/A |
-| 13 | [ARMY DO IT FOR BTS](http://twitter.com/search?q=ARMY+DO+IT+FOR+BTS) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
+| 6 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
+| 7 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
+| 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 9 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 10 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 11 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
+| 12 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 13 | [Setip](http://twitter.com/search?q=Setip) | N/A |
 | 14 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 15 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 16 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 17 | [Persisam](http://twitter.com/search?q=Persisam) | N/A |
-| 18 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 19 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 20 | [Cuaca](http://twitter.com/search?q=Cuaca) | N/A |
-| 21 | [Bali United](http://twitter.com/search?q=Bali+United) | N/A |
-| 22 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 23 | [sinb](http://twitter.com/search?q=sinb) | N/A |
-| 24 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 25 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
-| 26 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 27 | [cowok 2](http://twitter.com/search?q=cowok+2) | N/A |
-| 28 | [Ay-Yo Second Win](http://twitter.com/search?q=Ay-Yo+Second+Win) | N/A |
+| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 16 | [Plossa](http://twitter.com/search?q=Plossa) | N/A |
+| 17 | [Lee Taeyong](http://twitter.com/search?q=Lee+Taeyong) | N/A |
+| 18 | [ARMY DO IT FOR BTS](http://twitter.com/search?q=ARMY+DO+IT+FOR+BTS) | N/A |
+| 19 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 20 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
+| 21 | [CRAVITY IS COMING BACK](http://twitter.com/search?q=CRAVITY+IS+COMING+BACK) | N/A |
+| 22 | [Persisam](http://twitter.com/search?q=Persisam) | N/A |
+| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 24 | [Tongkat Angin](http://twitter.com/search?q=Tongkat+Angin) | N/A |
+| 25 | [Bali United](http://twitter.com/search?q=Bali+United) | N/A |
+| 26 | [SINB](http://twitter.com/search?q=SINB) | N/A |
+| 27 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 28 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
 | 29 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 30 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 31 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
-| 32 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 34 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 30 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 31 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 32 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
+| 33 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 34 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 35 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 36 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 37 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 38 | [erick thohir](http://twitter.com/search?q=erick+thohir) | N/A |
-| 39 | [Chef](http://twitter.com/search?q=Chef) | N/A |
+| 36 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 37 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
+| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 39 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
 | 40 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
 | 41 | [David](http://twitter.com/search?q=David) | N/A |
 | 42 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 43 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 44 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 45 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
-| 46 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 47 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 48 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 49 | [#V1RST2ndSingle](http://twitter.com/search?q=%23V1RST2ndSingle) | N/A |
-| 50 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
+| 43 | [Chef](http://twitter.com/search?q=Chef) | N/A |
+| 44 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 45 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 46 | [#OTWMalioboro](http://twitter.com/search?q=%23OTWMalioboro) | N/A |
+| 47 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 48 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
+| 49 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 50 | [#WHATS_YOUR_GRAVITY](http://twitter.com/search?q=%23WHATS_YOUR_GRAVITY) | N/A |
 
 
 

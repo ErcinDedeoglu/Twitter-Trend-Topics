@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-10 14:15:56 UTC`
+📆 Last Updated: `2023-02-10 15:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SzepnijCośMiłego](http://twitter.com/search?q=%23SzepnijCo%c5%9bMi%c5%82ego) | N/A |
-| 2 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
+| 1 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
+| 2 | [#SzepnijCośMiłego](http://twitter.com/search?q=%23SzepnijCo%c5%9bMi%c5%82ego) | N/A |
 | 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 4 | [marcin oleksy](http://twitter.com/search?q=marcin+oleksy) | N/A |
-| 5 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 6 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 4 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 5 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 6 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
 | 7 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 8 | [Becia](http://twitter.com/search?q=Becia) | N/A |
-| 9 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
+| 8 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 9 | [rumunii](http://twitter.com/search?q=rumunii) | N/A |
 | 10 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 11 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
-| 12 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 13 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 14 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
-| 15 | [Przewodowie](http://twitter.com/search?q=Przewodowie) | N/A |
-| 16 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
-| 17 | [Kowalskiego](http://twitter.com/search?q=Kowalskiego) | N/A |
-| 18 | [Marc Tarabella](http://twitter.com/search?q=Marc+Tarabella) | N/A |
-| 19 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 20 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 21 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
-| 22 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 23 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
-| 24 | [#BiathlonPL](http://twitter.com/search?q=%23BiathlonPL) | N/A |
-| 25 | [leżajsk](http://twitter.com/search?q=le%c5%bcajsk) | N/A |
-| 26 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 27 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
-| 28 | [#SuperTyp](http://twitter.com/search?q=%23SuperTyp) | N/A |
-| 29 | [#hejteduUzi](http://twitter.com/search?q=%23hejteduUzi) | N/A |
-| 30 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 31 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
-| 32 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
-| 33 | [kopernik](http://twitter.com/search?q=kopernik) | N/A |
-| 34 | [morza czarnego](http://twitter.com/search?q=morza+czarnego) | N/A |
-| 35 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 36 | [Arabia Saudyjska](http://twitter.com/search?q=Arabia+Saudyjska) | N/A |
-| 37 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
-| 38 | [Sybir](http://twitter.com/search?q=Sybir) | N/A |
+| 11 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 12 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 13 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 14 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
+| 15 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
+| 16 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
+| 17 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 18 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 19 | [leżajsk](http://twitter.com/search?q=le%c5%bcajsk) | N/A |
+| 20 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 21 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 22 | [Kowalskiego](http://twitter.com/search?q=Kowalskiego) | N/A |
+| 23 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 24 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
+| 25 | [#hejteduuzi](http://twitter.com/search?q=%23hejteduuzi) | N/A |
+| 26 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
+| 27 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
+| 28 | [#pizzaday](http://twitter.com/search?q=%23pizzaday) | N/A |
+| 29 | [Amarala](http://twitter.com/search?q=Amarala) | N/A |
+| 30 | [kopernik](http://twitter.com/search?q=kopernik) | N/A |
+| 31 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 32 | [Marc Tarabella](http://twitter.com/search?q=Marc+Tarabella) | N/A |
+| 33 | [morza czarnego](http://twitter.com/search?q=morza+czarnego) | N/A |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Sybir](http://twitter.com/search?q=Sybir) | N/A |
+| 36 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 37 | [pucku](http://twitter.com/search?q=pucku) | N/A |
+| 38 | [dubaju](http://twitter.com/search?q=dubaju) | N/A |
 | 39 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 40 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 41 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 42 | [Józef Haller](http://twitter.com/search?q=J%c3%b3zef+Haller) | N/A |
-| 43 | [Pucku](http://twitter.com/search?q=Pucku) | N/A |
-| 44 | [Amarala](http://twitter.com/search?q=Amarala) | N/A |
-| 45 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
-| 46 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
-| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 48 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
-| 49 | [Białorusią](http://twitter.com/search?q=Bia%c5%82orusi%c4%85) | N/A |
-| 50 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 40 | [józef haller](http://twitter.com/search?q=j%c3%b3zef+haller) | N/A |
+| 41 | [glapiński](http://twitter.com/search?q=glapi%c5%84ski) | N/A |
+| 42 | [Bałtykiem](http://twitter.com/search?q=Ba%c5%82tykiem) | N/A |
+| 43 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 44 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 45 | [Białorusią](http://twitter.com/search?q=Bia%c5%82orusi%c4%85) | N/A |
+| 46 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 47 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 48 | [Ujazdowski](http://twitter.com/search?q=Ujazdowski) | N/A |
+| 49 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 50 | [zjednoczone emiraty arabskie](http://twitter.com/search?q=zjednoczone+emiraty+arabskie) | N/A |
 
 
 
