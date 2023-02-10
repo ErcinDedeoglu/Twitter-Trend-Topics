@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-10 03:22:32 UTC`
+📆 Last Updated: `2023-02-10 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 2 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 3 | [#Buckeyes](http://twitter.com/search?q=%23Buckeyes) | N/A |
-| 4 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 5 | [#NFLHonors2023](http://twitter.com/search?q=%23NFLHonors2023) | N/A |
-| 6 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 7 | [Brian Daboll](http://twitter.com/search?q=Brian+Daboll) | Brian Daboll is an American football coach who is currently the offensive coordinator for the Buffalo Bills of the National Football League (NFL). He has previously served as an offensive coordinator for the New England Patriots, Miami Dolphins, and Cleveland Browns. The name Brian Daboll is derived from his last name, which is pronounced "dah-bowl". |
-| 8 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 9 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 10 | [Coach of the Year](http://twitter.com/search?q=Coach+of+the+Year) | N/A |
-| 11 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 12 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
-| 13 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 14 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 15 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
-| 16 | [OROY](http://twitter.com/search?q=OROY) | N/A |
-| 17 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 18 | [COTY](http://twitter.com/search?q=COTY) | N/A |
-| 19 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
-| 20 | [Doug Pederson](http://twitter.com/search?q=Doug+Pederson) | Doug Pederson is an American football coach and former player. He is the head coach of the Philadelphia Eagles of the National Football League (NFL). He previously served as the offensive coordinator for the Kansas City Chiefs and was a quarterback in the NFL for 13 seasons. |
-| 21 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 23 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
-| 24 | [#Jets](http://twitter.com/search?q=%23Jets) | N/A |
-| 25 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 26 | [Sauce](http://twitter.com/search?q=Sauce) | N/A |
-| 27 | [Comeback Player of the Year](http://twitter.com/search?q=Comeback+Player+of+the+Year) | N/A |
-| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 29 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 30 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
-| 31 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
-| 32 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 33 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 34 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
-| 35 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
-| 36 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
-| 37 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 38 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
-| 39 | [CPOY](http://twitter.com/search?q=CPOY) | N/A |
-| 40 | [Woolen](http://twitter.com/search?q=Woolen) | N/A |
-| 41 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
-| 42 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 43 | [Cam Jordan](http://twitter.com/search?q=Cam+Jordan) | N/A |
-| 44 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 45 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 46 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
-| 47 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 48 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
-| 49 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 50 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 1 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 2 | [Zac Taylor](http://twitter.com/search?q=Zac+Taylor) | Zac Taylor is the head coach of the Cincinnati Bengals, an American football team in the National Football League (NFL). He was hired in 2019 and is the youngest head coach in the NFL. The name Zac Taylor comes from his given name Zachary Taylor. |
+| 3 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 4 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 5 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 6 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 7 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 8 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 9 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 10 | [Devin Hester](http://twitter.com/search?q=Devin+Hester) | Devin Hester is a former American football player who played as a return specialist and wide receiver in the National Football League (NFL). He is widely considered to be one of the greatest return specialists in NFL history, having returned 20 kickoffs and 14 punts for touchdowns during his career. |
+| 11 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 12 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 13 | [Canton](http://twitter.com/search?q=Canton) | N/A |
+| 14 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
+| 15 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
+| 16 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 17 | [Brian Daboll](http://twitter.com/search?q=Brian+Daboll) | Brian Daboll is an American football coach who is currently the offensive coordinator for the Buffalo Bills of the National Football League (NFL). He has previously served as an offensive coordinator for the New England Patriots, Miami Dolphins, and Cleveland Browns. The name Brian Daboll is derived from his last name, which is pronounced "dah-bowl". |
+| 18 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
+| 19 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 20 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
+| 21 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
+| 22 | [Coach of the Year](http://twitter.com/search?q=Coach+of+the+Year) | N/A |
+| 23 | [#MVPat](http://twitter.com/search?q=%23MVPat) | N/A |
+| 24 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
+| 25 | [Joe Klecko](http://twitter.com/search?q=Joe+Klecko) | N/A |
+| 26 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 27 | [DeMarcus Ware](http://twitter.com/search?q=DeMarcus+Ware) | N/A |
+| 28 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 29 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 30 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 31 | [COTY](http://twitter.com/search?q=COTY) | N/A |
+| 32 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 33 | [Don Coryell](http://twitter.com/search?q=Don+Coryell) | N/A |
+| 34 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 35 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 36 | [Kyle Brandt](http://twitter.com/search?q=Kyle+Brandt) | N/A |
+| 37 | [NFL MVP](http://twitter.com/search?q=NFL+MVP) | N/A |
+| 38 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 39 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
+| 40 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 41 | [Chuck Howley](http://twitter.com/search?q=Chuck+Howley) | N/A |
+| 42 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 43 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 44 | [Andre Johnson](http://twitter.com/search?q=Andre+Johnson) | N/A |
+| 45 | [Denny Kellington](http://twitter.com/search?q=Denny+Kellington) | N/A |
+| 46 | [Doug Pederson](http://twitter.com/search?q=Doug+Pederson) | Doug Pederson is an American football coach and former player. He is the head coach of the Philadelphia Eagles of the National Football League (NFL). He previously served as the offensive coordinator for the Kansas City Chiefs and was a quarterback in the NFL for 13 seasons. |
+| 47 | [Torry Holt](http://twitter.com/search?q=Torry+Holt) | N/A |
+| 48 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 49 | [Comeback Player of the Year](http://twitter.com/search?q=Comeback+Player+of+the+Year) | N/A |
+| 50 | [Super Bowl MVP](http://twitter.com/search?q=Super+Bowl+MVP) | N/A |
 
 
 

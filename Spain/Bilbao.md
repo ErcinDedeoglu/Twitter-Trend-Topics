@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-10 03:22:09 UTC`
+📆 Last Updated: `2023-02-10 04:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Spain](</Spain>)
 | 6 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [#PesadillaFortaleza](http://twitter.com/search?q=%23PesadillaFortaleza) | N/A |
-| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 11 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 12 | [Manolo Vieira](http://twitter.com/search?q=Manolo+Vieira) | N/A |
 | 13 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
 | 14 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
 | 15 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 16 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 17 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 18 | [BORA BORA PREMIERE](http://twitter.com/search?q=BORA+BORA+PREMIERE) | N/A |
-| 19 | [Silvina](http://twitter.com/search?q=Silvina) | N/A |
-| 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 21 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 22 | [Chulo](http://twitter.com/search?q=Chulo) | N/A |
-| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 24 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 25 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 26 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 27 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
-| 28 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 29 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 30 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 31 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 32 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 33 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 34 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
-| 35 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 36 | [Sikora](http://twitter.com/search?q=Sikora) | N/A |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 38 | [eMule](http://twitter.com/search?q=eMule) | N/A |
-| 39 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
-| 40 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 41 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
-| 42 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
-| 43 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
-| 44 | [Navia](http://twitter.com/search?q=Navia) | N/A |
-| 45 | [FANTASY LIFE](http://twitter.com/search?q=FANTASY+LIFE) | N/A |
-| 46 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 47 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 48 | [netflix y twitter](http://twitter.com/search?q=netflix+y+twitter) | N/A |
-| 49 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 16 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 17 | [BORA BORA PREMIERE](http://twitter.com/search?q=BORA+BORA+PREMIERE) | N/A |
+| 18 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 19 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 20 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 21 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 22 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 23 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 24 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
+| 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 26 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 27 | [jona](http://twitter.com/search?q=jona) | N/A |
+| 28 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 29 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 30 | [Bolaños](http://twitter.com/search?q=Bola%c3%b1os) | N/A |
+| 31 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 32 | [sikora](http://twitter.com/search?q=sikora) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [Pulitzer](http://twitter.com/search?q=Pulitzer) | N/A |
+| 35 | [Emule](http://twitter.com/search?q=Emule) | N/A |
+| 36 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 37 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 38 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 39 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
+| 40 | [Ley de Bienestar Animal](http://twitter.com/search?q=Ley+de+Bienestar+Animal) | N/A |
+| 41 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 42 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 44 | [netflix y twitter](http://twitter.com/search?q=netflix+y+twitter) | N/A |
+| 45 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 46 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 47 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 48 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 49 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 
 
 

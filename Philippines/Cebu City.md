@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-10 03:22:19 UTC`
+📆 Last Updated: `2023-02-10 04:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
-| 2 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
-| 3 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 5 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
-| 6 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 7 | [FELIPStraydogs D-DAY Release](http://twitter.com/search?q=FELIPStraydogs+D-DAY+Release) | N/A |
-| 8 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
-| 9 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
-| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 11 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 12 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
-| 13 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 14 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 1 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
+| 2 | [#FELIP_COMPLEXonEatBulaga](http://twitter.com/search?q=%23FELIP_COMPLEXonEatBulaga) | N/A |
+| 3 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
+| 4 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
+| 5 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [#DonBelle](http://twitter.com/search?q=%23DonBelle) | N/A |
+| 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 8 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 11 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
+| 12 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 13 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 14 | [KDLEX ITS SHOWTIME](http://twitter.com/search?q=KDLEX+ITS+SHOWTIME) | N/A |
 | 15 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 16 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 17 | [KDLEX ITS SHOWTIME](http://twitter.com/search?q=KDLEX+ITS+SHOWTIME) | N/A |
-| 18 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
-| 19 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 20 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 21 | [SULLYOON AND BAE GRADUATES](http://twitter.com/search?q=SULLYOON+AND+BAE+GRADUATES) | N/A |
-| 22 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
-| 23 | [bellescapessummer withshein](http://twitter.com/search?q=bellescapessummer+withshein) | N/A |
-| 24 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 25 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 26 | [nang aiza](http://twitter.com/search?q=nang+aiza) | N/A |
-| 27 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
-| 28 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
-| 29 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
-| 30 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 31 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
-| 32 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 33 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 34 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
-| 35 | [SMent](http://twitter.com/search?q=SMent) | N/A |
-| 36 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 37 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
-| 38 | [welcome back cutiepie eian](http://twitter.com/search?q=welcome+back+cutiepie+eian) | N/A |
-| 39 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 40 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 41 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
-| 42 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 43 | [jype](http://twitter.com/search?q=jype) | N/A |
-| 44 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 45 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 46 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
-| 47 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 48 | [Bighit](http://twitter.com/search?q=Bighit) | N/A |
-| 49 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
-| 50 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 16 | [special mc huening kai](http://twitter.com/search?q=special+mc+huening+kai) | N/A |
+| 17 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 18 | [SULLYOON AND BAE GRADUATES](http://twitter.com/search?q=SULLYOON+AND+BAE+GRADUATES) | N/A |
+| 19 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
+| 20 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 21 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 22 | [nang aiza](http://twitter.com/search?q=nang+aiza) | N/A |
+| 23 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
+| 24 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
+| 25 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 26 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
+| 27 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
+| 28 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 29 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 30 | [welcome back cutiepie eian](http://twitter.com/search?q=welcome+back+cutiepie+eian) | N/A |
+| 31 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 32 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 33 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 34 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 35 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 36 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
+| 37 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
+| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 40 | [SMent](http://twitter.com/search?q=SMent) | N/A |
+| 41 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
+| 42 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 43 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 44 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 45 | [luckybeauty onfeb26](http://twitter.com/search?q=luckybeauty+onfeb26) | N/A |
+| 46 | [Good Boy](http://twitter.com/search?q=Good+Boy) | N/A |
+| 47 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [Happy 25th](http://twitter.com/search?q=Happy+25th) | N/A |
+| 50 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-10 03:22:42 UTC`
+📆 Last Updated: `2023-02-10 04:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,24 +26,24 @@ This is top 50 for Oman
 | 9 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
 | 10 | [يوسف حبيب](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
 | 11 | [الحلوي العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 12 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 13 | [بطاطس عمان](http://twitter.com/search?q=%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 14 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
-| 15 | [القطاع الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 16 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 17 | [السفاره السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 18 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 19 | [الشباب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 20 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 21 | [الدراجات الهواييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 22 | [المنتج العماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 23 | [عامر بن منير](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%a8%d9%86+%d9%85%d9%86%d9%8a%d8%b1) | N/A |
-| 24 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 25 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 26 | [كريس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3) | كريس (Kris) is a masculine given name of Greek origin, meaning "Christ-bearer". In English, it is usually spelled Chris. |
-| 27 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
-| 28 | [الجهود المبذوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%b0%d9%88%d9%84%d9%87) | N/A |
-| 29 | [٩ فبراير](http://twitter.com/search?q=%d9%a9+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 12 | [بطاطس عمان](http://twitter.com/search?q=%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 13 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
+| 14 | [القطاع الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 16 | [السفاره السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 17 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 18 | [الشباب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 19 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 20 | [الدراجات الهواييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 21 | [المنتج العماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [عامر بن منير](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%a8%d9%86+%d9%85%d9%86%d9%8a%d8%b1) | N/A |
+| 23 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 24 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 25 | [كريس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3) | كريس (Kris) is a masculine given name of Greek origin, meaning "Christ-bearer". In English, it is usually spelled Chris. |
+| 26 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 27 | [الجهود المبذوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%b0%d9%88%d9%84%d9%87) | N/A |
+| 28 | [٩ فبراير](http://twitter.com/search?q=%d9%a9+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 29 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 30 | [لوكا](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7) | N/A |
 | 31 | [البنك المركزي العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
 | 32 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Oman
 | 44 | [الموسم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
 | 45 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
 | 46 | [مارسيليا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7) | N/A |
-| 47 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 48 | [عبدالله الخضوري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
+| 47 | [عبدالله الخضوري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d9%88%d8%b1%d9%8a) | N/A |
+| 48 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 49 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
+| 50 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-10 03:22:39 UTC`
+📆 Last Updated: `2023-02-10 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,12 +27,12 @@ This is top 50 for Belgium
 | 10 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 11 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 | 12 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 13 | [Geschiedenis](http://twitter.com/search?q=Geschiedenis) | N/A |
+| 13 | [geschiedenis](http://twitter.com/search?q=geschiedenis) | N/A |
 | 14 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 17 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 18 | [meps](http://twitter.com/search?q=meps) | N/A |
+| 18 | [MEPS](http://twitter.com/search?q=MEPS) | N/A |
 | 19 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 20 | [maurice dehousse](http://twitter.com/search?q=maurice+dehousse) | N/A |
 | 21 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
@@ -43,15 +43,15 @@ This is top 50 for Belgium
 | 26 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 27 | [Amerikanen](http://twitter.com/search?q=Amerikanen) | N/A |
 | 28 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 29 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 30 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 29 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 30 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
 | 31 | [desmet](http://twitter.com/search?q=desmet) | N/A |
 | 32 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 36 | [Gameboy](http://twitter.com/search?q=Gameboy) | N/A |
-| 37 | [Vlamingen](http://twitter.com/search?q=Vlamingen) | N/A |
+| 37 | [vlamingen](http://twitter.com/search?q=vlamingen) | N/A |
 | 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |

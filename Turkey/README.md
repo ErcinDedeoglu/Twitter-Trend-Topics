@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-10 03:22:45 UTC`
+📆 Last Updated: `2023-02-10 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UMUTVARUYKUYOK](http://twitter.com/search?q=%23UMUTVARUYKUYOK) | N/A |
-| 2 | [TahaDuymaza MadenciDesteği](http://twitter.com/search?q=TahaDuymaza+MadenciDeste%c4%9fi) | N/A |
-| 3 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
-| 4 | [#AhbapDernegi](http://twitter.com/search?q=%23AhbapDernegi) | N/A |
-| 5 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
-| 6 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 7 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
-| 8 | [#MüteahhitlerYargılansın](http://twitter.com/search?q=%23M%c3%bcteahhitlerYarg%c4%b1lans%c4%b1n) | N/A |
-| 9 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 10 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 11 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 12 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [Eline](http://twitter.com/search?q=Eline) | N/A |
-| 15 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 16 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
-| 17 | [Hataya GazMaskesi](http://twitter.com/search?q=Hataya+GazMaskesi) | N/A |
-| 18 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
-| 19 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 20 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
-| 21 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 22 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
-| 23 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
+| 2 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
+| 3 | [#AhbapDernegi](http://twitter.com/search?q=%23AhbapDernegi) | N/A |
+| 4 | [#DaoMaker](http://twitter.com/search?q=%23DaoMaker) | N/A |
+| 5 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 6 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 8 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
+| 9 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 10 | [Helal](http://twitter.com/search?q=Helal) | N/A |
+| 11 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 12 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 13 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 14 | [Dilara](http://twitter.com/search?q=Dilara) | N/A |
+| 15 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 16 | [dayanışma vakti](http://twitter.com/search?q=dayan%c4%b1%c5%9fma+vakti) | N/A |
+| 17 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 18 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 19 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 20 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 21 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 22 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 23 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
 | 24 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 25 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 26 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 27 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
-| 28 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 29 | [Hayret](http://twitter.com/search?q=Hayret) | N/A |
-| 30 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 31 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 32 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
-| 33 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 34 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 35 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 36 | [#DEPREMYARDIM](http://twitter.com/search?q=%23DEPREMYARDIM) | N/A |
-| 37 | [#celalsengor](http://twitter.com/search?q=%23celalsengor) | N/A |
-| 38 | [#yargıyıdurdurun](http://twitter.com/search?q=%23yarg%c4%b1y%c4%b1durdurun) | N/A |
-| 39 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 40 | [#Yağmacılar](http://twitter.com/search?q=%23Ya%c4%9fmac%c4%b1lar) | N/A |
-| 41 | [#DepremAcil](http://twitter.com/search?q=%23DepremAcil) | N/A |
-| 42 | [#PartilerinDeğil](http://twitter.com/search?q=%23PartilerinDe%c4%9fil) | N/A |
+| 25 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 26 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 27 | [İngiliz](http://twitter.com/search?q=%c4%b0ngiliz) | N/A |
+| 28 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 29 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
+| 30 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 31 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 32 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 33 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 34 | [SES VAR](http://twitter.com/search?q=SES+VAR) | N/A |
+| 35 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 36 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 37 | [Nursel](http://twitter.com/search?q=Nursel) | N/A |
+| 38 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 39 | [İnsan](http://twitter.com/search?q=%c4%b0nsan) | N/A |
+| 40 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 41 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 42 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
+| 43 | [İletişim](http://twitter.com/search?q=%c4%b0leti%c5%9fim) | N/A |
+| 44 | [Utanmaz](http://twitter.com/search?q=Utanmaz) | N/A |
+| 45 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 46 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 47 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
+| 48 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
+| 49 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 50 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
 
 
 

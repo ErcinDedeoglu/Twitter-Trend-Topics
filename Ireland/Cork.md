@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-10 03:22:05 UTC`
+📆 Last Updated: `2023-02-10 04:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for [Ireland](</Ireland>)
 | 4 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
 | 5 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
 | 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 7 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
+| 7 | [#firstdatesirl](http://twitter.com/search?q=%23firstdatesirl) | N/A |
 | 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 9 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 9 | [fianna fáil](http://twitter.com/search?q=fianna+f%c3%a1il) | N/A |
 | 10 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 12 | [#jnlr](http://twitter.com/search?q=%23jnlr) | N/A |
-| 13 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
+| 13 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
 | 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 15 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 16 | [Macdara](http://twitter.com/search?q=Macdara) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 18 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 20 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 21 | [Eco Eye](http://twitter.com/search?q=Eco+Eye) | N/A |
+| 21 | [eco eye](http://twitter.com/search?q=eco+eye) | N/A |
 | 22 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 23 | [rob herring](http://twitter.com/search?q=rob+herring) | N/A |
 | 24 | [Santry](http://twitter.com/search?q=Santry) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for [Ireland](</Ireland>)
 | 37 | [Mahon Tribunal](http://twitter.com/search?q=Mahon+Tribunal) | N/A |
 | 38 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 39 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 40 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 41 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 42 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
-| 43 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 44 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 46 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 47 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 48 | [President](http://twitter.com/search?q=President) | N/A |
-| 49 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 40 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 41 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
+| 42 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 44 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 45 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 46 | [President](http://twitter.com/search?q=President) | N/A |
+| 47 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 49 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-10 03:22:42 UTC`
+📆 Last Updated: `2023-02-10 04:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,14 +40,14 @@ This is top 50 for Latvia
 | 23 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 24 | [turcijā](http://twitter.com/search?q=turcij%c4%81) | N/A |
 | 25 | [латвию](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d1%8e) | N/A |
-| 26 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 27 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
-| 28 | [mārupē](http://twitter.com/search?q=m%c4%81rup%c4%93) | N/A |
-| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 30 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 31 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 32 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 26 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
+| 27 | [mārupē](http://twitter.com/search?q=m%c4%81rup%c4%93) | N/A |
+| 28 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 30 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 31 | [Depo](http://twitter.com/search?q=Depo) | N/A |
+| 32 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 33 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 34 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 | 35 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
 | 36 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Latvia
 | 47 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 48 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 49 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
-| 50 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 50 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
 
 
 

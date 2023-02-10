@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-10 03:22:46 UTC`
+📆 Last Updated: `2023-02-10 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for Ukraine
 | 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 4 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
 | 5 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 6 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
-| 7 | [Орбан](http://twitter.com/search?q=%d0%9e%d1%80%d0%b1%d0%b0%d0%bd) | N/A |
-| 8 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 9 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 6 | [Орбан](http://twitter.com/search?q=%d0%9e%d1%80%d0%b1%d0%b0%d0%bd) | N/A |
+| 7 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 8 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 9 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
 | 10 | [#fanart](http://twitter.com/search?q=%23fanart) | N/A |
 | 11 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 | 12 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Ukraine
 | 23 | [крикнула](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
 | 24 | [#Candle](http://twitter.com/search?q=%23Candle) | N/A |
 | 25 | [#Aleo](http://twitter.com/search?q=%23Aleo) | N/A |
-| 26 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 26 | [твиттере](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 | 27 | [британии](http://twitter.com/search?q=%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 | 28 | [валентина](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d0%bd%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 29 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Ukraine
 | 36 | [чебурашка](http://twitter.com/search?q=%d1%87%d0%b5%d0%b1%d1%83%d1%80%d0%b0%d1%88%d0%ba%d0%b0) | N/A |
 | 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 38 | [луганской](http://twitter.com/search?q=%d0%bb%d1%83%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 39 | [арестовича](http://twitter.com/search?q=%d0%b0%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
-| 40 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 41 | [Taiko's Private L1](http://twitter.com/search?q=Taiko%27s+Private+L1) | N/A |
-| 42 | [Йобана](http://twitter.com/search?q=%d0%99%d0%be%d0%b1%d0%b0%d0%bd%d0%b0) | N/A |
-| 43 | [Африке](http://twitter.com/search?q=%d0%90%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
-| 44 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 45 | [десь](http://twitter.com/search?q=%d0%b4%d0%b5%d1%81%d1%8c) | N/A |
-| 46 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
-| 47 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 48 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 49 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 50 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 39 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 40 | [Taiko's Private L1](http://twitter.com/search?q=Taiko%27s+Private+L1) | N/A |
+| 41 | [Йобана](http://twitter.com/search?q=%d0%99%d0%be%d0%b1%d0%b0%d0%bd%d0%b0) | N/A |
+| 42 | [африке](http://twitter.com/search?q=%d0%b0%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 43 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 44 | [десь](http://twitter.com/search?q=%d0%b4%d0%b5%d1%81%d1%8c) | N/A |
+| 45 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 46 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 47 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 48 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 49 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 50 | [Vuhledar](http://twitter.com/search?q=Vuhledar) | N/A |
 
 
 

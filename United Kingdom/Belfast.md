@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-10 03:21:56 UTC`
+📆 Last Updated: `2023-02-10 04:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#BelfastHour](http://twitter.com/search?q=%23BelfastHour) | N/A |
 | 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 4 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 3 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 4 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 5 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 6 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
 | 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 | 8 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
 | 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
@@ -29,41 +29,41 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 14 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 15 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 16 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
-| 17 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 19 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 20 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 21 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 22 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 23 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 24 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 25 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 26 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 27 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 28 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 29 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 30 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 31 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 32 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 35 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 36 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 37 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 38 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 39 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 40 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 42 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 15 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 19 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 20 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 21 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 22 | [Free Nickelodeon Mint](http://twitter.com/search?q=Free+Nickelodeon+Mint) | N/A |
+| 23 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 24 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 25 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 26 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 27 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 28 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 31 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 32 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 33 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 34 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 35 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 37 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 38 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 41 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 42 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
 | 43 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 46 | [amelie](http://twitter.com/search?q=amelie) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 49 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 46 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
+| 47 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 48 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 49 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
 
 
 

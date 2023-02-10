@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-10 03:22:10 UTC`
+📆 Last Updated: `2023-02-10 04:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,30 +40,30 @@ This is top 50 for [Latvia](</Latvia>)
 | 23 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
 | 24 | [turcijā](http://twitter.com/search?q=turcij%c4%81) | N/A |
 | 25 | [латвию](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d1%8e) | N/A |
-| 26 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 27 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
-| 28 | [mārupē](http://twitter.com/search?q=m%c4%81rup%c4%93) | N/A |
-| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 30 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 31 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 32 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 34 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 35 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 36 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 37 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 38 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 39 | [briedis](http://twitter.com/search?q=briedis) | N/A |
-| 40 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
-| 41 | [saskaņa](http://twitter.com/search?q=saska%c5%86a) | N/A |
-| 42 | [krievija](http://twitter.com/search?q=krievija) | N/A |
-| 43 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 44 | [ogri](http://twitter.com/search?q=ogri) | N/A |
-| 45 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 46 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 47 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 48 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 49 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
+| 26 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
+| 27 | [mārupē](http://twitter.com/search?q=m%c4%81rup%c4%93) | N/A |
+| 28 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 30 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 31 | [Depo](http://twitter.com/search?q=Depo) | N/A |
+| 32 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 33 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 34 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
+| 35 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 36 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 37 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 38 | [briedis](http://twitter.com/search?q=briedis) | N/A |
+| 39 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
+| 40 | [saskaņa](http://twitter.com/search?q=saska%c5%86a) | N/A |
+| 41 | [krievija](http://twitter.com/search?q=krievija) | N/A |
+| 42 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 43 | [ogri](http://twitter.com/search?q=ogri) | N/A |
+| 44 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 45 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 46 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 47 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 48 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
+| 49 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
 | 50 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
 
 
