@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-10 12:16:53 UTC`
+📆 Last Updated: `2023-02-10 13:20:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 2 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
+| 1 | [#SzepnijCośMiłego](http://twitter.com/search?q=%23SzepnijCo%c5%9bMi%c5%82ego) | N/A |
+| 2 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
 | 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 4 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 5 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 6 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
-| 7 | [Morza Czarnego](http://twitter.com/search?q=Morza+Czarnego) | N/A |
-| 8 | [#SuperTyp](http://twitter.com/search?q=%23SuperTyp) | N/A |
-| 9 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
-| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 11 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 13 | [Becia](http://twitter.com/search?q=Becia) | N/A |
-| 14 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
-| 15 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 16 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 17 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 18 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 19 | [Przewodowie](http://twitter.com/search?q=Przewodowie) | N/A |
-| 20 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
-| 21 | [kowalskiego](http://twitter.com/search?q=kowalskiego) | N/A |
-| 22 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
-| 23 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
-| 24 | [#hejteduUzi](http://twitter.com/search?q=%23hejteduUzi) | N/A |
-| 25 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 26 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
-| 27 | [Pucku](http://twitter.com/search?q=Pucku) | N/A |
-| 28 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
-| 29 | [sił zbrojnych ukrainy](http://twitter.com/search?q=si%c5%82+zbrojnych+ukrainy) | N/A |
-| 30 | [mateusz murański](http://twitter.com/search?q=mateusz+mura%c5%84ski) | N/A |
-| 31 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
-| 32 | [#PizzaDay](http://twitter.com/search?q=%23PizzaDay) | N/A |
-| 33 | [Olsztynie](http://twitter.com/search?q=Olsztynie) | N/A |
-| 34 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 35 | [Józef Haller](http://twitter.com/search?q=J%c3%b3zef+Haller) | N/A |
-| 36 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 37 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
-| 38 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 39 | [Powinieneś](http://twitter.com/search?q=Powiniene%c5%9b) | N/A |
-| 40 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 4 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
+| 5 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 6 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 7 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 9 | [#supertyp](http://twitter.com/search?q=%23supertyp) | N/A |
+| 10 | [lotos](http://twitter.com/search?q=lotos) | N/A |
+| 11 | [Becia](http://twitter.com/search?q=Becia) | N/A |
+| 12 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
+| 13 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 14 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
+| 17 | [Przewodowie](http://twitter.com/search?q=Przewodowie) | N/A |
+| 18 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
+| 19 | [Kowalskiego](http://twitter.com/search?q=Kowalskiego) | N/A |
+| 20 | [#hejteduUzi](http://twitter.com/search?q=%23hejteduUzi) | N/A |
+| 21 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 22 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 23 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
+| 24 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
+| 25 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
+| 26 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 27 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 28 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 29 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
+| 30 | [Olsztynie](http://twitter.com/search?q=Olsztynie) | N/A |
+| 31 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 32 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 33 | [morza czarnego](http://twitter.com/search?q=morza+czarnego) | N/A |
+| 34 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 35 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 36 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 37 | [Kazachstanu](http://twitter.com/search?q=Kazachstanu) | N/A |
+| 38 | [Powinieneś](http://twitter.com/search?q=Powiniene%c5%9b) | N/A |
+| 39 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 40 | [Sybir](http://twitter.com/search?q=Sybir) | N/A |
 | 41 | [Emiraty](http://twitter.com/search?q=Emiraty) | N/A |
 | 42 | [Żywiec](http://twitter.com/search?q=%c5%bbywiec) | N/A |
-| 43 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
-| 44 | [Smoleńskiem](http://twitter.com/search?q=Smole%c5%84skiem) | N/A |
-| 45 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 46 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 48 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
-| 49 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
-| 50 | [Arabia Saudyjska](http://twitter.com/search?q=Arabia+Saudyjska) | N/A |
+| 43 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 44 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 45 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 46 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
+| 47 | [Ławrow](http://twitter.com/search?q=%c5%81awrow) | N/A |
+| 48 | [Józef Haller](http://twitter.com/search?q=J%c3%b3zef+Haller) | N/A |
+| 49 | [Białorusią](http://twitter.com/search?q=Bia%c5%82orusi%c4%85) | N/A |
+| 50 | [Pucku](http://twitter.com/search?q=Pucku) | N/A |
 
 
 

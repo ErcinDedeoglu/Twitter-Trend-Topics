@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-10 12:17:24 UTC`
+📆 Last Updated: `2023-02-10 13:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [austin reaves](http://twitter.com/search?q=austin+reaves) | N/A |
+| 1 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 6 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 7 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 9 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 10 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 11 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 12 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 13 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 15 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 16 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 17 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 19 | [Red Friday](http://twitter.com/search?q=Red+Friday) | N/A |
-| 20 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 21 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 22 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 23 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 24 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 5 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 8 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 11 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 12 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 13 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 14 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 15 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 16 | [Red Friday](http://twitter.com/search?q=Red+Friday) | N/A |
+| 17 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 18 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 19 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 21 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 23 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
+| 24 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
 | 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 26 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 27 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 28 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 29 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 30 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 31 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
-| 32 | [Canton](http://twitter.com/search?q=Canton) | N/A |
-| 33 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 34 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 35 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 36 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 37 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 38 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 39 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 40 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
-| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 42 | [amelie](http://twitter.com/search?q=amelie) | N/A |
-| 43 | [Running Out Of Time](http://twitter.com/search?q=Running+Out+Of+Time) | N/A |
-| 44 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 45 | [Don Coryell](http://twitter.com/search?q=Don+Coryell) | N/A |
-| 46 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 47 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
-| 48 | [Daboll](http://twitter.com/search?q=Daboll) | Daboll is a surname of French origin. It is derived from the Old French word "d'Auboule", which means "from the little valley". In English, it can be translated to mean "from the small valley". |
-| 49 | [dak prescott](http://twitter.com/search?q=dak+prescott) | N/A |
-| 50 | [Joe Klecko](http://twitter.com/search?q=Joe+Klecko) | N/A |
+| 26 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 27 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 30 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 31 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 32 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 33 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 34 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
+| 35 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
+| 36 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
+| 37 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
+| 38 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
+| 39 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 40 | [Congrats Joe](http://twitter.com/search?q=Congrats+Joe) | N/A |
+| 41 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
+| 42 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 43 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 44 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 45 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 46 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
+| 47 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
+| 48 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 49 | [Daboll](http://twitter.com/search?q=Daboll) | Daboll is a surname of French origin. It is derived from the Old French word "d'Auboule", which means "from the little valley". In English, it can be translated to mean "from the small valley". |
+| 50 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
 
 
 

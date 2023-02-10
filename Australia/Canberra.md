@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-10 12:17:02 UTC`
+📆 Last Updated: `2023-02-10 13:20:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 2 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
-| 3 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 4 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 2 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 4 | [#brivccm](http://twitter.com/search?q=%23brivccm) | N/A |
 | 5 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 6 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
 | 7 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
@@ -26,44 +26,44 @@ This is top 50 for [Australia](</Australia>)
 | 9 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 10 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
 | 11 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 12 | [Cooper Johns](http://twitter.com/search?q=Cooper+Johns) | N/A |
-| 13 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 12 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 13 | [Cooper Johns](http://twitter.com/search?q=Cooper+Johns) | N/A |
 | 14 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 15 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 16 | [Fite](http://twitter.com/search?q=Fite) | N/A |
-| 17 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 18 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 19 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 20 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 21 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
-| 22 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
-| 23 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 16 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 17 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 18 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
+| 19 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
+| 20 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 21 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 22 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 23 | [Manly](http://twitter.com/search?q=Manly) | N/A |
 | 24 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 25 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 26 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 27 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 28 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
-| 29 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 30 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 31 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 32 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 33 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 34 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 35 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 36 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 37 | [Redcliffe](http://twitter.com/search?q=Redcliffe) | N/A |
-| 38 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 39 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 40 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 41 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 25 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 26 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 27 | [rachelle](http://twitter.com/search?q=rachelle) | N/A |
+| 28 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
+| 29 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 30 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 31 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 32 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 33 | [FITE](http://twitter.com/search?q=FITE) | N/A |
+| 34 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
+| 35 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 36 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 37 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
+| 38 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 39 | [angus taylor](http://twitter.com/search?q=angus+taylor) | N/A |
+| 40 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 41 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 42 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 43 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
-| 44 | [Sydney Mining Club](http://twitter.com/search?q=Sydney+Mining+Club) | N/A |
-| 45 | [Oleg Markov](http://twitter.com/search?q=Oleg+Markov) | N/A |
-| 46 | [naplan](http://twitter.com/search?q=naplan) | N/A |
-| 47 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
-| 48 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
-| 49 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 43 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 44 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 45 | [Dr Karl](http://twitter.com/search?q=Dr+Karl) | N/A |
+| 46 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
+| 47 | [Redcliffe](http://twitter.com/search?q=Redcliffe) | N/A |
+| 48 | [Oleg Markov](http://twitter.com/search?q=Oleg+Markov) | N/A |
+| 49 | [naplan](http://twitter.com/search?q=naplan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-10 12:16:55 UTC`
+📆 Last Updated: `2023-02-10 13:20:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 3 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 1 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 2 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 3 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 4 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 5 | [Manifest für Frieden](http://twitter.com/search?q=Manifest+f%c3%bcr+Frieden) | N/A |
-| 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 7 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 8 | [Blackfacing](http://twitter.com/search?q=Blackfacing) | N/A |
-| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 5 | [Manifest](http://twitter.com/search?q=Manifest) | N/A |
+| 6 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 7 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
 | 10 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 11 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
-| 12 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 11 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
+| 12 | [Helge Schneider](http://twitter.com/search?q=Helge+Schneider) | N/A |
 | 13 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 14 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 14 | [Schaf](http://twitter.com/search?q=Schaf) | N/A |
 | 15 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 16 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
-| 17 | ['Fenster'](http://twitter.com/search?q=%27Fenster%27) | N/A |
-| 18 | [Kriegsfall](http://twitter.com/search?q=Kriegsfall) | N/A |
-| 19 | [Schaf](http://twitter.com/search?q=Schaf) | N/A |
-| 20 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 21 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 22 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
+| 16 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 18 | [rumänien](http://twitter.com/search?q=rum%c3%a4nien) | N/A |
+| 19 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 20 | ['Fenster'](http://twitter.com/search?q=%27Fenster%27) | N/A |
+| 21 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
+| 22 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 23 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 24 | [Häusern](http://twitter.com/search?q=H%c3%a4usern) | N/A |
-| 25 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 27 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 28 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 30 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 31 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 33 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 34 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
+| 24 | [Schulsystem](http://twitter.com/search?q=Schulsystem) | N/A |
+| 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 26 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
+| 27 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 28 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 29 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 30 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 31 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 32 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
+| 33 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 35 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 36 | [Hörner](http://twitter.com/search?q=H%c3%b6rner) | N/A |
-| 37 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 38 | [Schulsystem](http://twitter.com/search?q=Schulsystem) | N/A |
-| 39 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 36 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 37 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 38 | [Lumpenpazifisten](http://twitter.com/search?q=Lumpenpazifisten) | N/A |
+| 39 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 40 | [Häusern](http://twitter.com/search?q=H%c3%a4usern) | N/A |
+| 41 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 43 | [herr baum](http://twitter.com/search?q=herr+baum) | N/A |
-| 44 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 44 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 45 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
 | 46 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 47 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
-| 48 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 47 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 48 | [Hörner](http://twitter.com/search?q=H%c3%b6rner) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-02-10 12:17:16 UTC`
+📆 Last Updated: `2023-02-10 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#freeelephantmalti](http://twitter.com/search?q=%23freeelephantmalti) | N/A |
-| 2 | [#BesharamBollywood](http://twitter.com/search?q=%23BesharamBollywood) | N/A |
-| 3 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
-| 4 | [#7weekstobholaa](http://twitter.com/search?q=%237weekstobholaa) | N/A |
-| 5 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
-| 6 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
-| 7 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 9 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 1 | [#BeerSong](http://twitter.com/search?q=%23BeerSong) | N/A |
+| 2 | [#TheUndertrials](http://twitter.com/search?q=%23TheUndertrials) | N/A |
+| 3 | [#FreeElephantMalti](http://twitter.com/search?q=%23FreeElephantMalti) | N/A |
+| 4 | [#BesharamBollywood](http://twitter.com/search?q=%23BesharamBollywood) | N/A |
+| 5 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
+| 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 7 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
+| 8 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 9 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
 | 10 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 11 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 12 | [Sainagar Shirdi](http://twitter.com/search?q=Sainagar+Shirdi) | N/A |
-| 13 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
-| 14 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 11 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 12 | [बोहरा समुदाय](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8b%e0%a4%b9%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
+| 13 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 14 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
 | 15 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 16 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 17 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 18 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 21 | [Solapur](http://twitter.com/search?q=Solapur) | N/A |
-| 22 | [राजस्थान सरकार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 23 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 25 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 26 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 27 | [Ranjha](http://twitter.com/search?q=Ranjha) | N/A |
-| 28 | [varun gandhi](http://twitter.com/search?q=varun+gandhi) | N/A |
-| 29 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
-| 30 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 31 | [CSMT](http://twitter.com/search?q=CSMT) | N/A |
-| 32 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
-| 33 | [Wachtell](http://twitter.com/search?q=Wachtell) | N/A |
-| 34 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
+| 16 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 17 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 18 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 19 | [Sainagar Shirdi](http://twitter.com/search?q=Sainagar+Shirdi) | N/A |
+| 20 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 21 | [राजस्थान सरकार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 22 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
+| 23 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
+| 24 | [Comeback](http://twitter.com/search?q=Comeback) | N/A |
+| 25 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 26 | [Solapur](http://twitter.com/search?q=Solapur) | N/A |
+| 27 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [Ranjha](http://twitter.com/search?q=Ranjha) | N/A |
+| 30 | [CSMT](http://twitter.com/search?q=CSMT) | N/A |
+| 31 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 32 | [Animal Welfare Board of India](http://twitter.com/search?q=Animal+Welfare+Board+of+India) | N/A |
+| 33 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 34 | [भारतीय रेल](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a5%87%e0%a4%b2) | N/A |
 | 35 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 36 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 37 | [Animal Welfare Board of India](http://twitter.com/search?q=Animal+Welfare+Board+of+India) | N/A |
-| 38 | [भारतीय रेल](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a5%87%e0%a4%b2) | N/A |
-| 39 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 40 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 41 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 42 | [#AxarPatel](http://twitter.com/search?q=%23AxarPatel) | N/A |
-| 43 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
-| 44 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
-| 45 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
+| 36 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 37 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 38 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
+| 39 | [#HaramiMahua](http://twitter.com/search?q=%23HaramiMahua) | N/A |
+| 40 | [#AUSvsIND](http://twitter.com/search?q=%23AUSvsIND) | N/A |
+| 41 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
+| 42 | [#axarpatel](http://twitter.com/search?q=%23axarpatel) | #axarpatel is a hashtag used on social media to promote the work of Indian actor and model Axar Patel. It is used to share news, updates, and photos related to his career. |
+| 43 | [#MahaWithModi](http://twitter.com/search?q=%23MahaWithModi) | N/A |
+| 44 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 45 | [#7weekstobholaa](http://twitter.com/search?q=%237weekstobholaa) | N/A |
 | 46 | [#javedakhtaroninvincibles](http://twitter.com/search?q=%23javedakhtaroninvincibles) | N/A |
-| 47 | [#RefreshWithWendys](http://twitter.com/search?q=%23RefreshWithWendys) | N/A |
-| 48 | [#MahaWithModi](http://twitter.com/search?q=%23MahaWithModi) | N/A |
-| 49 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 50 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
+| 47 | [#ThunivuOST](http://twitter.com/search?q=%23ThunivuOST) | N/A |
+| 48 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
+| 49 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 50 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
 
 
 

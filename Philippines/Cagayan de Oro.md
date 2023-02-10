@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-10 12:17:07 UTC`
+📆 Last Updated: `2023-02-10 13:20:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FELIP_STRAYDOGSmvOutNow](http://twitter.com/search?q=%23FELIP_STRAYDOGSmvOutNow) | N/A |
-| 2 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 3 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 4 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
-| 5 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 6 | [SALAMAT PO MAAM](http://twitter.com/search?q=SALAMAT+PO+MAAM) | N/A |
-| 7 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 1 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 2 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
+| 3 | [#FELIP_STRAYDOGSmvOutNow](http://twitter.com/search?q=%23FELIP_STRAYDOGSmvOutNow) | N/A |
+| 4 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
+| 5 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 6 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 7 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
 | 8 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
-| 9 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 10 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 11 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
-| 12 | [The Inner Man](http://twitter.com/search?q=The+Inner+Man) | N/A |
-| 13 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 14 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 15 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 16 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 17 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [JANELLA ICONIC VALENTINA](http://twitter.com/search?q=JANELLA+ICONIC+VALENTINA) | N/A |
-| 20 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
-| 21 | [HAPPY BIRTHDAY DONNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+DONNY) | N/A |
-| 22 | [FRANSETH TheHowsOfLove](http://twitter.com/search?q=FRANSETH+TheHowsOfLove) | N/A |
-| 23 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 24 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 25 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 26 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
-| 27 | [DavidLicauco ForLAZADA](http://twitter.com/search?q=DavidLicauco+ForLAZADA) | N/A |
-| 28 | [JayB](http://twitter.com/search?q=JayB) | N/A |
-| 29 | [RICCIandBLYTHE SVSquad](http://twitter.com/search?q=RICCIandBLYTHE+SVSquad) | N/A |
-| 30 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 31 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 32 | [mubank](http://twitter.com/search?q=mubank) | N/A |
-| 33 | [Vibe](http://twitter.com/search?q=Vibe) | N/A |
-| 34 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
-| 35 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 37 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 38 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
-| 39 | [#PNKJulieVer](http://twitter.com/search?q=%23PNKJulieVer) | N/A |
-| 40 | [#PagIbigNaKaya](http://twitter.com/search?q=%23PagIbigNaKaya) | N/A |
-| 41 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
-| 42 | [#DLSearch](http://twitter.com/search?q=%23DLSearch) | N/A |
-| 43 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
-| 44 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
-| 45 | [#OneConciertoPiyu](http://twitter.com/search?q=%23OneConciertoPiyu) | N/A |
-| 46 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
-| 47 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 48 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 49 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
+| 9 | [SALAMAT PO MAAM](http://twitter.com/search?q=SALAMAT+PO+MAAM) | N/A |
+| 10 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 11 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 12 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 13 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 14 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 15 | [The Inner Man](http://twitter.com/search?q=The+Inner+Man) | N/A |
+| 16 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
+| 17 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 18 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 19 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 21 | [JANELLA ICONIC VALENTINA](http://twitter.com/search?q=JANELLA+ICONIC+VALENTINA) | N/A |
+| 22 | [HAPPY BIRTHDAY DONNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+DONNY) | N/A |
+| 23 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 24 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 25 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 28 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
+| 29 | [FRANSETH TheHowsOfLove](http://twitter.com/search?q=FRANSETH+TheHowsOfLove) | N/A |
+| 30 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 31 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
+| 32 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 33 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 34 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 35 | [JayB](http://twitter.com/search?q=JayB) | N/A |
+| 36 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 37 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
+| 38 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
+| 39 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 40 | [Narda](http://twitter.com/search?q=Narda) | N/A |
+| 41 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 42 | [VIBE](http://twitter.com/search?q=VIBE) | N/A |
+| 43 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 44 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 45 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 46 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 47 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
+| 48 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 49 | [#WWIW16](http://twitter.com/search?q=%23WWIW16) | N/A |
 
 
 
