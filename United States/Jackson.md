@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-10 21:16:10 UTC`
+📆 Last Updated: `2023-02-10 22:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 3 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 4 | [#MySexTapeIsNamed](http://twitter.com/search?q=%23MySexTapeIsNamed) | N/A |
-| 5 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 8 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 2 | [#cashappinwild](http://twitter.com/search?q=%23cashappinwild) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 5 | [#MySexTapeIsNamed](http://twitter.com/search?q=%23MySexTapeIsNamed) | N/A |
+| 6 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 7 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 8 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
 | 9 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 11 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 12 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 13 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 14 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
-| 15 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 18 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 19 | [Michael Fulmer](http://twitter.com/search?q=Michael+Fulmer) | N/A |
-| 20 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 22 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 23 | [Object](http://twitter.com/search?q=Object) | N/A |
-| 24 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 25 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 26 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 27 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
-| 28 | [Prudhoe Bay](http://twitter.com/search?q=Prudhoe+Bay) | N/A |
-| 29 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 30 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 31 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 32 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 33 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 35 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 36 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 37 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 38 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 39 | [National Security Council](http://twitter.com/search?q=National+Security+Council) | N/A |
-| 40 | [Fox Corp](http://twitter.com/search?q=Fox+Corp) | N/A |
-| 41 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 42 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 43 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 44 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
-| 45 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 46 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 47 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 48 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 11 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 12 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 13 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 14 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 15 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
+| 16 | [Object](http://twitter.com/search?q=Object) | N/A |
+| 17 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 18 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 19 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 20 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 21 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
+| 22 | [Prudhoe Bay](http://twitter.com/search?q=Prudhoe+Bay) | N/A |
+| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 24 | [SMILES and LEAVES](http://twitter.com/search?q=SMILES+and+LEAVES) | N/A |
+| 25 | [Michael Fulmer](http://twitter.com/search?q=Michael+Fulmer) | N/A |
+| 26 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 27 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 28 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 29 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 30 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 31 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 32 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 33 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 34 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 35 | [Fox Corp](http://twitter.com/search?q=Fox+Corp) | N/A |
+| 36 | [Kelis](http://twitter.com/search?q=Kelis) | N/A |
+| 37 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 38 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 39 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
+| 40 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 42 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 43 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 44 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 45 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 46 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 47 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
+| 48 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
 
 
 

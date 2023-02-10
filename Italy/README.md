@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-10 21:16:19 UTC`
+📆 Last Updated: `2023-02-10 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 3 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 4 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
+| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 2 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
+| 3 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 4 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
 | 5 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
-| 6 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 7 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
-| 8 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
-| 9 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
-| 10 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
-| 11 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
-| 12 | [#Ariete](http://twitter.com/search?q=%23Ariete) | N/A |
-| 13 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
-| 14 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 15 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
-| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 17 | [La Fine](http://twitter.com/search?q=La+Fine) | N/A |
-| 18 | [ALESSANDRO CAVALLO](http://twitter.com/search?q=ALESSANDRO+CAVALLO) | N/A |
-| 19 | [JOHN ERIK](http://twitter.com/search?q=JOHN+ERIK) | N/A |
-| 20 | [#lanottevola](http://twitter.com/search?q=%23lanottevola) | N/A |
-| 21 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 22 | [Benji](http://twitter.com/search?q=Benji) | N/A |
-| 23 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 24 | [Cinque Giorni](http://twitter.com/search?q=Cinque+Giorni) | N/A |
-| 25 | [American Woman](http://twitter.com/search?q=American+Woman) | N/A |
-| 26 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
-| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 28 | [CODICE 05](http://twitter.com/search?q=CODICE+05) | N/A |
-| 29 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
-| 30 | [Ma Will](http://twitter.com/search?q=Ma+Will) | N/A |
-| 31 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 33 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 34 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
-| 35 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 36 | [Tiziano Ferro](http://twitter.com/search?q=Tiziano+Ferro) | N/A |
-| 37 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
-| 38 | [La Egonu](http://twitter.com/search?q=La+Egonu) | N/A |
-| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 40 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 41 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 42 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 43 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 44 | [#GenoaPalermo](http://twitter.com/search?q=%23GenoaPalermo) | N/A |
-| 45 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 46 | [#10febbraio](http://twitter.com/search?q=%2310febbraio) | N/A |
-| 47 | [#Qatargate](http://twitter.com/search?q=%23Qatargate) | N/A |
-| 48 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
-| 49 | [#CONI](http://twitter.com/search?q=%23CONI) | N/A |
-| 50 | [#EuroTrack23](http://twitter.com/search?q=%23EuroTrack23) | N/A |
+| 6 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 7 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 8 | [#Articolo31](http://twitter.com/search?q=%23Articolo31) | N/A |
+| 9 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
+| 10 | [Biagio Antonacci](http://twitter.com/search?q=Biagio+Antonacci) | N/A |
+| 11 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 12 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
+| 13 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
+| 14 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
+| 15 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
+| 16 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 17 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
+| 18 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 19 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 20 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 21 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
+| 22 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 23 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 24 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 25 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 26 | [Bella Hadid](http://twitter.com/search?q=Bella+Hadid) | N/A |
+| 27 | [#azzurro](http://twitter.com/search?q=%23azzurro) | N/A |
+| 28 | [ALESSANDRO CAVALLO](http://twitter.com/search?q=ALESSANDRO+CAVALLO) | N/A |
+| 29 | [La Fine](http://twitter.com/search?q=La+Fine) | N/A |
+| 30 | [Giusy Ferreri](http://twitter.com/search?q=Giusy+Ferreri) | N/A |
+| 31 | [JOHN ERIK](http://twitter.com/search?q=JOHN+ERIK) | N/A |
+| 32 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 33 | [Ariete e Sangiovanni](http://twitter.com/search?q=Ariete+e+Sangiovanni) | N/A |
+| 34 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 35 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 36 | [Big Mama](http://twitter.com/search?q=Big+Mama) | N/A |
+| 37 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 38 | [Cinque Giorni](http://twitter.com/search?q=Cinque+Giorni) | N/A |
 
 
 

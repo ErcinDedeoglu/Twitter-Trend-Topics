@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-10 21:15:26 UTC`
+📆 Last Updated: `2023-02-10 22:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 2 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
 | 4 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 5 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 7 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 8 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 9 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 10 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 11 | [Doug Ford](http://twitter.com/search?q=Doug+Ford) | N/A |
-| 12 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
-| 13 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 8 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 9 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 10 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 11 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 12 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 13 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
 | 14 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 15 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 17 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 18 | [Lanark County](http://twitter.com/search?q=Lanark+County) | N/A |
+| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 16 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 18 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Billings Bridge](http://twitter.com/search?q=Billings+Bridge) | N/A |
-| 21 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 22 | [Sharbot Lake](http://twitter.com/search?q=Sharbot+Lake) | N/A |
-| 23 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 25 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
-| 26 | [Jordan Peterson and Rex Murphy](http://twitter.com/search?q=Jordan+Peterson+and+Rex+Murphy) | N/A |
-| 27 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 28 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 29 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 30 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 31 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 32 | [Congratulations Tammie](http://twitter.com/search?q=Congratulations+Tammie) | N/A |
-| 33 | [Haroun Bouazzi](http://twitter.com/search?q=Haroun+Bouazzi) | N/A |
-| 34 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
-| 35 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 36 | [Khem](http://twitter.com/search?q=Khem) | N/A |
+| 20 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 21 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 22 | [Jordan Peterson and Rex Murphy](http://twitter.com/search?q=Jordan+Peterson+and+Rex+Murphy) | N/A |
+| 23 | [Battle of Billings Bridge](http://twitter.com/search?q=Battle+of+Billings+Bridge) | N/A |
+| 24 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 27 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 28 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 29 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 30 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 31 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 32 | [Zachary L'Heureux](http://twitter.com/search?q=Zachary+L%27Heureux) | N/A |
+| 33 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 34 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 35 | [Haroun Bouazzi](http://twitter.com/search?q=Haroun+Bouazzi) | N/A |
+| 36 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 40 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 39 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 40 | [Sharbot Lake](http://twitter.com/search?q=Sharbot+Lake) | N/A |
 | 41 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 42 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 42 | [Congratulations Tammie](http://twitter.com/search?q=Congratulations+Tammie) | N/A |
 | 43 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 45 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 46 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 47 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 45 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 48 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
 
 
 

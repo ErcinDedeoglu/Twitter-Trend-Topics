@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-10 21:16:20 UTC`
+📆 Last Updated: `2023-02-10 22:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kučinskis](http://twitter.com/search?q=Ku%c4%8dinskis) | N/A |
-| 2 | [darba](http://twitter.com/search?q=darba) | N/A |
-| 3 | [francijas](http://twitter.com/search?q=francijas) | N/A |
-| 4 | [Origo](http://twitter.com/search?q=Origo) | N/A |
-| 5 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 6 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 2 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 3 | [darba](http://twitter.com/search?q=darba) | N/A |
+| 4 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 5 | [francijas](http://twitter.com/search?q=francijas) | N/A |
+| 6 | [Origo](http://twitter.com/search?q=Origo) | N/A |
 | 7 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
 | 8 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
 | 9 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Latvia
 | 16 | [Lielbritānijas](http://twitter.com/search?q=Lielbrit%c4%81nijas) | N/A |
 | 17 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
 | 18 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 19 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 20 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
-| 21 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
-| 22 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
-| 23 | [Turcija](http://twitter.com/search?q=Turcija) | N/A |
-| 24 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Sīrijā](http://twitter.com/search?q=S%c4%abrij%c4%81) | N/A |
-| 27 | [Латвию](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d1%8e) | N/A |
-| 28 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 29 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
-| 30 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
-| 31 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
-| 32 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
-| 33 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 34 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 35 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
+| 19 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
+| 20 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
+| 21 | [turcija](http://twitter.com/search?q=turcija) | N/A |
+| 22 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 23 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Sīrijā](http://twitter.com/search?q=S%c4%abrij%c4%81) | N/A |
+| 26 | [Латвию](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d1%8e) | N/A |
+| 27 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 28 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
+| 29 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
+| 30 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
+| 31 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
+| 32 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 34 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
+| 35 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
 | 36 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 37 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
 | 38 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 39 | [Avens](http://twitter.com/search?q=Avens) | N/A |
-| 40 | [Helmaņa](http://twitter.com/search?q=Helma%c5%86a) | N/A |
-| 41 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 42 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 44 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 45 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 46 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 47 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 48 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 49 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 50 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 39 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
+| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 41 | [avens](http://twitter.com/search?q=avens) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 44 | [Satversmes](http://twitter.com/search?q=Satversmes) | N/A |
+| 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 46 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 47 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 48 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 49 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 50 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-10 21:15:54 UTC`
+📆 Last Updated: `2023-02-10 22:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Philippines](</Philippines>)
 | 19 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
 | 20 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 21 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 22 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 23 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 24 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 25 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
-| 26 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 22 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 23 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 24 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
+| 25 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 26 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
 | 27 | [sugar rush ride 3rd win](http://twitter.com/search?q=sugar+rush+ride+3rd+win) | N/A |
 | 28 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
 | 29 | [drunk-dazed hits 100m](http://twitter.com/search?q=drunk-dazed+hits+100m) | N/A |
-| 30 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 31 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
+| 30 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
+| 31 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
 | 32 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 33 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 34 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 35 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 36 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 37 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 38 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 39 | [davidlicauco forlazada](http://twitter.com/search?q=davidlicauco+forlazada) | N/A |
-| 40 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 41 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 42 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 43 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 44 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 45 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 46 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 47 | [bea de leon](http://twitter.com/search?q=bea+de+leon) | N/A |
-| 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 49 | [OUR BABY JUNGWON IS TWENTYOI](http://twitter.com/search?q=OUR+BABY+JUNGWON+IS+TWENTYOI) | N/A |
-| 50 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 33 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 34 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 35 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 36 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 37 | [davidlicauco forlazada](http://twitter.com/search?q=davidlicauco+forlazada) | N/A |
+| 38 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
+| 39 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 40 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 41 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 42 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
+| 43 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 44 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
+| 45 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
+| 46 | [bea de leon](http://twitter.com/search?q=bea+de+leon) | N/A |
+| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 48 | [our baby jungwon is twentyoi](http://twitter.com/search?q=our+baby+jungwon+is+twentyoi) | N/A |
+| 49 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 50 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
 
 
 

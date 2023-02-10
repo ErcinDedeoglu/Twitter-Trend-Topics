@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-02-10 21:15:33 UTC`
+📆 Last Updated: `2023-02-10 22:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 2 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 1 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 2 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
 | 3 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 4 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 5 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
-| 6 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 7 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
-| 8 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 5 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 6 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 7 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
+| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 9 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
-| 10 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 11 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 12 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 10 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
+| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 12 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
 | 13 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 14 | [Chinguen](http://twitter.com/search?q=Chinguen) | N/A |
-| 15 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
-| 16 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 14 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 15 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 16 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
 | 17 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 18 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 19 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 20 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
-| 21 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 22 | [Hoy 10](http://twitter.com/search?q=Hoy+10) | N/A |
-| 23 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 24 | [Director Técnico](http://twitter.com/search?q=Director+T%c3%a9cnico) | N/A |
-| 25 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 26 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 27 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 28 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 29 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 30 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 31 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 32 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 33 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 34 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 36 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 37 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 38 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 39 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 18 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 19 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 20 | [Chinguen](http://twitter.com/search?q=Chinguen) | N/A |
+| 21 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 22 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 23 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
+| 24 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 25 | [Director Técnico](http://twitter.com/search?q=Director+T%c3%a9cnico) | N/A |
+| 26 | [Profeco](http://twitter.com/search?q=Profeco) | N/A |
+| 27 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 28 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 29 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 30 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 31 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 32 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 33 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 34 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 35 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 36 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 37 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 38 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 39 | [Martino](http://twitter.com/search?q=Martino) | N/A |
 | 40 | [Guillermo Almada](http://twitter.com/search?q=Guillermo+Almada) | N/A |
-| 41 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 42 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
-| 43 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 44 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 41 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 42 | [#LeoEnConvoy](http://twitter.com/search?q=%23LeoEnConvoy) | N/A |
+| 43 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
+| 44 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
 | 45 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 46 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
 | 47 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |

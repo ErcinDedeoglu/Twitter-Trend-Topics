@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-02-10 21:15:37 UTC`
+📆 Last Updated: `2023-02-10 22:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 2 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 3 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
-| 4 | [ESCUTE MADRUGADA CALADA](http://twitter.com/search?q=ESCUTE+MADRUGADA+CALADA) | N/A |
-| 5 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
-| 6 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 7 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 8 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
-| 9 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 10 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 11 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 12 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 13 | [#BasqueteNaESPN](http://twitter.com/search?q=%23BasqueteNaESPN) | N/A |
-| 14 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
-| 15 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 16 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 17 | [Cármen Lúcia](http://twitter.com/search?q=C%c3%a1rmen+L%c3%bacia) | N/A |
-| 18 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 19 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 3 | [ESCUTE MADRUGADA CALADA](http://twitter.com/search?q=ESCUTE+MADRUGADA+CALADA) | N/A |
+| 4 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
+| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 6 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
+| 7 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
+| 8 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 9 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
+| 10 | [#TresVezesAna010](http://twitter.com/search?q=%23TresVezesAna010) | N/A |
+| 11 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 12 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
+| 13 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 14 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 15 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 16 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 17 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 18 | [Plagg](http://twitter.com/search?q=Plagg) | N/A |
+| 19 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 20 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 21 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
-| 22 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 23 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 24 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 25 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 26 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 29 | [Rizek](http://twitter.com/search?q=Rizek) | N/A |
-| 30 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 31 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 32 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
-| 33 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 34 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 35 | [Obediente](http://twitter.com/search?q=Obediente) | N/A |
-| 36 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 37 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 38 | [Metroid Dread](http://twitter.com/search?q=Metroid+Dread) | N/A |
-| 39 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 40 | [Fatal Model](http://twitter.com/search?q=Fatal+Model) | N/A |
-| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 42 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 43 | [Capitã Marvel](http://twitter.com/search?q=Capit%c3%a3+Marvel) | N/A |
-| 44 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
-| 45 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
-| 46 | [Divinópolis](http://twitter.com/search?q=Divin%c3%b3polis) | N/A |
-| 47 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 48 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
-| 49 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 21 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 22 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 23 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 24 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 25 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 26 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 27 | [Obediente](http://twitter.com/search?q=Obediente) | N/A |
+| 28 | [Divinópolis](http://twitter.com/search?q=Divin%c3%b3polis) | N/A |
+| 29 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 30 | [Bruno Mezenga](http://twitter.com/search?q=Bruno+Mezenga) | N/A |
+| 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 32 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 33 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 34 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 35 | [Cármen Lúcia](http://twitter.com/search?q=C%c3%a1rmen+L%c3%bacia) | N/A |
+| 36 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 37 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 38 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 39 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 40 | [Rizek](http://twitter.com/search?q=Rizek) | N/A |
+| 41 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 43 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 44 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 45 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 46 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
+| 47 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 48 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 49 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 
 
 

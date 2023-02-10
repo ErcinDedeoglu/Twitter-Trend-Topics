@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-10 21:15:48 UTC`
+📆 Last Updated: `2023-02-10 22:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 4 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 5 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
-| 6 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 7 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 8 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 9 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 10 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 11 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 6 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 7 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 8 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 9 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 10 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 12 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
 | 13 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 14 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
+| 14 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
 | 15 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [#NRLPreSeason](http://twitter.com/search?q=%23NRLPreSeason) | N/A |
-| 18 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 16 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 17 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 18 | [#NRLPreSeason](http://twitter.com/search?q=%23NRLPreSeason) | N/A |
 | 19 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 20 | [Atar](http://twitter.com/search?q=Atar) | N/A |
-| 21 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 22 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
-| 23 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 24 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
+| 20 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 21 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
+| 22 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 23 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 24 | [FITE](http://twitter.com/search?q=FITE) | N/A |
 | 25 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 26 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 27 | [Fite](http://twitter.com/search?q=Fite) | N/A |
-| 28 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 29 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 30 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 31 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 32 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 33 | [dr karl](http://twitter.com/search?q=dr+karl) | N/A |
-| 34 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
-| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 36 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 37 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
-| 38 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 39 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 40 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
+| 26 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 27 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 28 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 29 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 30 | [Cooper johns](http://twitter.com/search?q=Cooper+johns) | N/A |
+| 31 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 32 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 33 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
+| 34 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 35 | [Brent](http://twitter.com/search?q=Brent) | N/A |
+| 36 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 37 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
+| 38 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 39 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
+| 40 | [Atar](http://twitter.com/search?q=Atar) | N/A |
 | 41 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
-| 42 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 43 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 44 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 45 | [colac](http://twitter.com/search?q=colac) | N/A |
-| 46 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 47 | [world heritage](http://twitter.com/search?q=world+heritage) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 49 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 42 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 43 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 44 | [colac](http://twitter.com/search?q=colac) | N/A |
+| 45 | [NewsCorpse](http://twitter.com/search?q=NewsCorpse) | N/A |
+| 46 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 47 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
+| 48 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 50 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
 
 
