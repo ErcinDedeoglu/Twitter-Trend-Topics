@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-10 08:16:06 UTC`
+📆 Last Updated: `2023-02-10 09:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gilberto Higuera Bernal](http://twitter.com/search?q=Gilberto+Higuera+Bernal) | N/A |
-| 2 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 3 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
-| 4 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 5 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 6 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
-| 7 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 8 | [MIEDO DE SENTIR OUT NOW](http://twitter.com/search?q=MIEDO+DE+SENTIR+OUT+NOW) | N/A |
-| 9 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 10 | [FANTASMA'S SONG](http://twitter.com/search?q=FANTASMA%27S+SONG) | N/A |
-| 11 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 13 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 14 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 15 | [#Rayados](http://twitter.com/search?q=%23Rayados) | N/A |
-| 16 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 17 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 18 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 19 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 20 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 21 | [#CristianReyEnPlaydoit](http://twitter.com/search?q=%23CristianReyEnPlaydoit) | N/A |
-| 22 | [Vucetich](http://twitter.com/search?q=Vucetich) | N/A |
-| 23 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 24 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 25 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 26 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 27 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 28 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 29 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 30 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 31 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 32 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
-| 33 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 34 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 35 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 36 | [rolon](http://twitter.com/search?q=rolon) | N/A |
-| 37 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 38 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
-| 39 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 40 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 41 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
-| 42 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 2 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 3 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 4 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 11 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 13 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 14 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 15 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 16 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
+| 17 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 18 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 19 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 20 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 21 | [MIEDO DE SENTIR OUT NOW](http://twitter.com/search?q=MIEDO+DE+SENTIR+OUT+NOW) | N/A |
+| 22 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 23 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 24 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 25 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 26 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
+| 27 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 28 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 29 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 30 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 31 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 32 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 33 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
+| 34 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 35 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 36 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 37 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 38 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 39 | [Big Man](http://twitter.com/search?q=Big+Man) | N/A |
+| 40 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 41 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 42 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
+| 43 | [Little Dignity](http://twitter.com/search?q=Little+Dignity) | N/A |
+| 44 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
+| 45 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 48 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 49 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
 
 
 

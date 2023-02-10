@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-02-10 08:16:35 UTC`
+📆 Last Updated: `2023-02-10 09:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
 | 4 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
 | 5 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
-| 6 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 6 | [#DataAsseblief](http://twitter.com/search?q=%23DataAsseblief) | N/A |
 | 7 | [President](http://twitter.com/search?q=President) | N/A |
 | 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 9 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 10 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
-| 11 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 11 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
 | 12 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
 | 13 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 14 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 15 | [Cape Town City Hall](http://twitter.com/search?q=Cape+Town+City+Hall) | N/A |
-| 16 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 17 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 18 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 15 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 16 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 18 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
 | 19 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
 | 20 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
 | 21 | [Property](http://twitter.com/search?q=Property) | N/A |
-| 22 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 23 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 24 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 22 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 23 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 24 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
 | 25 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 28 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 29 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 26 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
+| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 28 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
+| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 30 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 31 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
 | 32 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
-| 33 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
-| 34 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 35 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 36 | [Curro](http://twitter.com/search?q=Curro) | N/A |
-| 37 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 38 | [Counter Assault Team](http://twitter.com/search?q=Counter+Assault+Team) | N/A |
-| 39 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 40 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 41 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 42 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 43 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 45 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 46 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 47 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 48 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 49 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
-| 50 | [Enhle](http://twitter.com/search?q=Enhle) | N/A |
+| 33 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 34 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 35 | [Cape Town City Hall](http://twitter.com/search?q=Cape+Town+City+Hall) | N/A |
+| 36 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 37 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 38 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
+| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 40 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
+| 41 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 42 | [Donald](http://twitter.com/search?q=Donald) | N/A |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 47 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 48 | [Serves](http://twitter.com/search?q=Serves) | N/A |
+| 49 | [Enhle](http://twitter.com/search?q=Enhle) | N/A |
+| 50 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
 
 
 

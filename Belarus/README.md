@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-10 08:16:57 UTC`
+📆 Last Updated: `2023-02-10 09:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,23 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 2 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 3 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 4 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 5 | [Турции и Сирии](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8+%d0%b8+%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
-| 6 | [Дотторе](http://twitter.com/search?q=%d0%94%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
-| 7 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 8 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 2 | [Дотторе](http://twitter.com/search?q=%d0%94%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
+| 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 4 | [Турции и Сирии](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8+%d0%b8+%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
+| 5 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
+| 6 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 7 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 8 | [#playlist](http://twitter.com/search?q=%23playlist) | N/A |
 | 9 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 10 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 11 | [Радио Мир в Беларуси](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b8%d0%be+%d0%9c%d0%b8%d1%80+%d0%b2+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 12 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 13 | [#землетрясение](http://twitter.com/search?q=%23%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5%d1%82%d1%80%d1%8f%d1%81%d0%b5%d0%bd%d0%b8%d0%b5) | N/A |
-| 14 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
-| 15 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 16 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 10 | [Радио Мир в Беларуси](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b8%d0%be+%d0%9c%d0%b8%d1%80+%d0%b2+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 11 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 12 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
+| 13 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 14 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 15 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 16 | [В Минске](http://twitter.com/search?q=%d0%92+%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
 | 17 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 18 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 19 | [#SurvivalinUnity](http://twitter.com/search?q=%23SurvivalinUnity) | N/A |
-| 20 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 23 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
+| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 

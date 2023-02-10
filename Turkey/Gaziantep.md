@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-10 08:16:45 UTC`
+📆 Last Updated: `2023-02-10 09:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#depremsondakika](http://twitter.com/search?q=%23depremsondakika) | N/A |
-| 2 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 3 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 4 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 5 | [Berk](http://twitter.com/search?q=Berk) | N/A |
-| 6 | [#istifa](http://twitter.com/search?q=%23istifa) | N/A |
-| 7 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 8 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 9 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
-| 10 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 11 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 12 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 13 | [1 Milyar](http://twitter.com/search?q=1+Milyar) | N/A |
-| 14 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 15 | [Erem](http://twitter.com/search?q=Erem) | N/A |
-| 16 | [Depremin 5](http://twitter.com/search?q=Depremin+5) | N/A |
-| 17 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
-| 18 | [Yedirmemek](http://twitter.com/search?q=Yedirmemek) | N/A |
-| 19 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 20 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
-| 21 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
+| 1 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 2 | [#istifa](http://twitter.com/search?q=%23istifa) | N/A |
+| 3 | [Berk](http://twitter.com/search?q=Berk) | N/A |
+| 4 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
+| 5 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 6 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 7 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 8 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
+| 9 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 10 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
+| 11 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 12 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 13 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
+| 14 | [Depremin 5](http://twitter.com/search?q=Depremin+5) | N/A |
+| 15 | [Sanane](http://twitter.com/search?q=Sanane) | N/A |
+| 16 | [Erem](http://twitter.com/search?q=Erem) | N/A |
+| 17 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 18 | [Size](http://twitter.com/search?q=Size) | N/A |
+| 19 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
+| 20 | [#Erdogan](http://twitter.com/search?q=%23Erdogan) | N/A |
+| 21 | [Afat](http://twitter.com/search?q=Afat) | N/A |
 | 22 | [Yönetemez](http://twitter.com/search?q=Y%c3%b6netemez) | N/A |
-| 23 | [Eline](http://twitter.com/search?q=Eline) | N/A |
-| 24 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
-| 25 | [Arzu Apartmanı](http://twitter.com/search?q=Arzu+Apartman%c4%b1) | N/A |
+| 23 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
+| 24 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
+| 25 | [1 Milyar](http://twitter.com/search?q=1+Milyar) | N/A |
 | 26 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 27 | [Çete](http://twitter.com/search?q=%c3%87ete) | N/A |
-| 28 | [Taha](http://twitter.com/search?q=Taha) | N/A |
-| 29 | [Çökecekler](http://twitter.com/search?q=%c3%87%c3%b6kecekler) | N/A |
-| 30 | [Paralar](http://twitter.com/search?q=Paralar) | N/A |
-| 31 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 32 | [Zorunuza](http://twitter.com/search?q=Zorunuza) | N/A |
-| 33 | [Kendileri](http://twitter.com/search?q=Kendileri) | N/A |
-| 34 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
-| 35 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 36 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
-| 37 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
+| 27 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 28 | [Paralar](http://twitter.com/search?q=Paralar) | N/A |
+| 29 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 30 | [Doymadınız](http://twitter.com/search?q=Doymad%c4%b1n%c4%b1z) | N/A |
+| 31 | [Yedirmemek](http://twitter.com/search?q=Yedirmemek) | N/A |
+| 32 | [Arzu Apartmanı](http://twitter.com/search?q=Arzu+Apartman%c4%b1) | N/A |
+| 33 | [Ayfer Tunç](http://twitter.com/search?q=Ayfer+Tun%c3%a7) | N/A |
+| 34 | [Kendileri](http://twitter.com/search?q=Kendileri) | N/A |
+| 35 | [Bakan Özer](http://twitter.com/search?q=Bakan+%c3%96zer) | N/A |
+| 36 | [Yedirmeyiz](http://twitter.com/search?q=Yedirmeyiz) | N/A |
+| 37 | [Çete](http://twitter.com/search?q=%c3%87ete) | N/A |
 | 38 | [Akut](http://twitter.com/search?q=Akut) | N/A |
-| 39 | [Zemin](http://twitter.com/search?q=Zemin) | N/A |
-| 40 | [Afat](http://twitter.com/search?q=Afat) | N/A |
-| 41 | [KIZILAY](http://twitter.com/search?q=KIZILAY) | N/A |
-| 42 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
-| 43 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
-| 44 | [Yavşak](http://twitter.com/search?q=Yav%c5%9fak) | N/A |
-| 45 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 46 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 47 | [Derdiniz](http://twitter.com/search?q=Derdiniz) | N/A |
-| 48 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
-| 49 | [Babala](http://twitter.com/search?q=Babala) | N/A |
-| 50 | [Kötülüğün](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bc%c4%9f%c3%bcn) | N/A |
+| 39 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 40 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 41 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
+| 42 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 43 | [Mübarek Cuma](http://twitter.com/search?q=M%c3%bcbarek+Cuma) | N/A |
+| 44 | [Pudra](http://twitter.com/search?q=Pudra) | N/A |
+| 45 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 46 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
+| 47 | [Zorunuza](http://twitter.com/search?q=Zorunuza) | N/A |
+| 48 | [Çökecekler](http://twitter.com/search?q=%c3%87%c3%b6kecekler) | N/A |
+| 49 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 50 | [Deniz Feneri](http://twitter.com/search?q=Deniz+Feneri) | N/A |
 
 
 

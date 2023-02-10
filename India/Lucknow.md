@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-10 08:16:41 UTC`
+📆 Last Updated: `2023-02-10 09:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
+| 1 | [उत्तर प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | उत्तर प्रदेश (Uttar Pradesh) is a state in northern India. It is the most populous state in the country and has a population of over 200 million people. The name literally translates to "Northern Province" in English. |
 | 2 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
 | 3 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
-| 4 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
-| 5 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 6 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
-| 7 | [#VashInCinemas](http://twitter.com/search?q=%23VashInCinemas) | N/A |
-| 8 | [Zero Hour On Flipkart](http://twitter.com/search?q=Zero+Hour+On+Flipkart) | N/A |
-| 9 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 4 | [#7WeeksToBholaa](http://twitter.com/search?q=%237WeeksToBholaa) | N/A |
+| 5 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
+| 6 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
+| 7 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
+| 8 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 9 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
 | 10 | [Lowest Travel With EaseMyTrip](http://twitter.com/search?q=Lowest+Travel+With+EaseMyTrip) | N/A |
-| 11 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 12 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 13 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
-| 14 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 15 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 16 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 17 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 18 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 11 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 12 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
+| 13 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 14 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 15 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 16 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 17 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
+| 18 | [FILMFAREME X SHEHNAAZ](http://twitter.com/search?q=FILMFAREME+X+SHEHNAAZ) | N/A |
 | 19 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 20 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 21 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 22 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
-| 23 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 24 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 25 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 26 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
-| 27 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
-| 28 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 29 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 31 | [Century](http://twitter.com/search?q=Century) | N/A |
-| 32 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 33 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 34 | [UPGIS-2023](http://twitter.com/search?q=UPGIS-2023) | N/A |
-| 35 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
-| 36 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
-| 37 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
-| 38 | [उत्तम प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 39 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 40 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 41 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
-| 42 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
-| 43 | [#Hitman](http://twitter.com/search?q=%23Hitman) | N/A |
-| 44 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 45 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
-| 46 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
-| 47 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
-| 48 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
-| 49 | [#teddyday](http://twitter.com/search?q=%23teddyday) | N/A |
-| 50 | [#CheersForReal](http://twitter.com/search?q=%23CheersForReal) | N/A |
+| 20 | [Ranjha](http://twitter.com/search?q=Ranjha) | N/A |
+| 21 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
+| 22 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 23 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 24 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 25 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 26 | [Wachtell](http://twitter.com/search?q=Wachtell) | N/A |
+| 27 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 28 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
+| 29 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
+| 30 | [AzaadiSAT-2](http://twitter.com/search?q=AzaadiSAT-2) | N/A |
+| 31 | [महेश जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a5%87%e0%a4%b6+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
+| 32 | [Century](http://twitter.com/search?q=Century) | N/A |
+| 33 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 34 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 35 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
+| 36 | [Sid Kiara](http://twitter.com/search?q=Sid+Kiara) | N/A |
+| 37 | [UPGIS-2023](http://twitter.com/search?q=UPGIS-2023) | N/A |
+| 38 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 39 | [Small Satellite Launch Vehicle](http://twitter.com/search?q=Small+Satellite+Launch+Vehicle) | N/A |
+| 40 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 41 | [फिरोज गांधी](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 42 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
+| 43 | [#VashInCinemas](http://twitter.com/search?q=%23VashInCinemas) | N/A |
+| 44 | [#OPPOReno8TonFlipkart](http://twitter.com/search?q=%23OPPOReno8TonFlipkart) | N/A |
+| 45 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
+| 46 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 47 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
+| 48 | [#Hitman](http://twitter.com/search?q=%23Hitman) | N/A |
+| 49 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
+| 50 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
 
 
 
