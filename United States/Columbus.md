@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-10 10:16:40 UTC`
+📆 Last Updated: `2023-02-10 11:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
 | 2 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
 | 3 | [#Browns](http://twitter.com/search?q=%23Browns) | #Browns is a hashtag used to refer to the Cleveland Browns, an American professional football team based in Cleveland, Ohio. The hashtag is often used on social media platforms such as Twitter and Instagram to discuss the team and its players. |
-| 4 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 5 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
-| 6 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 7 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 8 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
-| 9 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
-| 10 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 11 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 12 | [#Wordle601](http://twitter.com/search?q=%23Wordle601) | N/A |
-| 13 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 14 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
+| 4 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 5 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 6 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 10 | [#Wordle601](http://twitter.com/search?q=%23Wordle601) | N/A |
+| 11 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
+| 12 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 13 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 14 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
 | 15 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 16 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 17 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 18 | [Thick Skull](http://twitter.com/search?q=Thick+Skull) | N/A |
+| 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 17 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 18 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
 | 19 | [AUSTIN REAVES](http://twitter.com/search?q=AUSTIN+REAVES) | N/A |
-| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 21 | [Canton](http://twitter.com/search?q=Canton) | N/A |
-| 22 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 23 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 24 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
-| 25 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 20 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
+| 21 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 22 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 23 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
+| 24 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 25 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
 | 26 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 27 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
-| 28 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 29 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 30 | [Little Dignity](http://twitter.com/search?q=Little+Dignity) | N/A |
-| 31 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 32 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 27 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 28 | [Canton](http://twitter.com/search?q=Canton) | N/A |
+| 29 | [Little Dignity](http://twitter.com/search?q=Little+Dignity) | N/A |
+| 30 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 31 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 32 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
 | 33 | [Don Coryell](http://twitter.com/search?q=Don+Coryell) | N/A |
 | 34 | [Running Out Of Time](http://twitter.com/search?q=Running+Out+Of+Time) | N/A |
-| 35 | [amelie](http://twitter.com/search?q=amelie) | N/A |
-| 36 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 37 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
-| 38 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
-| 39 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 40 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 41 | [Denny Kellington](http://twitter.com/search?q=Denny+Kellington) | N/A |
-| 42 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 43 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 44 | [Big Man](http://twitter.com/search?q=Big+Man) | N/A |
-| 45 | [Andre Johnson](http://twitter.com/search?q=Andre+Johnson) | N/A |
-| 46 | [Daboll](http://twitter.com/search?q=Daboll) | Daboll is a surname of French origin. It is derived from the Old French word "d'Auboule", which means "from the little valley". In English, it can be translated to mean "from the small valley". |
-| 47 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
-| 48 | [Joe Klecko](http://twitter.com/search?q=Joe+Klecko) | N/A |
-| 49 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 50 | [Crave](http://twitter.com/search?q=Crave) | N/A |
+| 35 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
+| 36 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 37 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 38 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 39 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
+| 40 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 41 | [Big Man](http://twitter.com/search?q=Big+Man) | N/A |
+| 42 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 43 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
+| 44 | [Andre Johnson](http://twitter.com/search?q=Andre+Johnson) | N/A |
+| 45 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
+| 46 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 47 | [Reggie miller](http://twitter.com/search?q=Reggie+miller) | N/A |
+| 48 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 49 | [DeMarcus Ware](http://twitter.com/search?q=DeMarcus+Ware) | N/A |
+| 50 | [coty](http://twitter.com/search?q=coty) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-10 10:16:30 UTC`
+📆 Last Updated: `2023-02-10 11:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
 | 3 | [#WeAreTheWingKing](http://twitter.com/search?q=%23WeAreTheWingKing) | N/A |
-| 4 | [#TelkomMadeOfValentines](http://twitter.com/search?q=%23TelkomMadeOfValentines) | N/A |
-| 5 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 6 | [President](http://twitter.com/search?q=President) | N/A |
-| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 8 | [#SavannaNewcomerShowcase](http://twitter.com/search?q=%23SavannaNewcomerShowcase) | N/A |
+| 4 | [President](http://twitter.com/search?q=President) | N/A |
+| 5 | [#SavannaNewcomerShowcase](http://twitter.com/search?q=%23SavannaNewcomerShowcase) | N/A |
+| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 7 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 8 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
 | 9 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 10 | [Usher](http://twitter.com/search?q=Usher) | N/A |
-| 11 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
+| 10 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
+| 11 | [Usher](http://twitter.com/search?q=Usher) | N/A |
 | 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 13 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 14 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
-| 15 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
-| 16 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 17 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 18 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 19 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 20 | [Garlic](http://twitter.com/search?q=Garlic) | N/A |
-| 21 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 22 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 23 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 24 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
-| 25 | [BEST LIFE](http://twitter.com/search?q=BEST+LIFE) | N/A |
-| 26 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 27 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 28 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
-| 29 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 30 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 31 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 13 | [B. 20 WINGS](http://twitter.com/search?q=B.+20+WINGS) | N/A |
+| 14 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
+| 15 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 16 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 17 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
+| 18 | [30 WINGS & 50 WINGS](http://twitter.com/search?q=30+WINGS+%26+50+WINGS) | N/A |
+| 19 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 20 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 21 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 22 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 23 | [Garlic](http://twitter.com/search?q=Garlic) | N/A |
+| 24 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
+| 25 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
+| 26 | [BEST LIFE](http://twitter.com/search?q=BEST+LIFE) | N/A |
+| 27 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 28 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 29 | [Lepantiti la America](http://twitter.com/search?q=Lepantiti+la+America) | N/A |
+| 30 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
+| 31 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
 | 32 | [Property](http://twitter.com/search?q=Property) | N/A |
-| 33 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
-| 34 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 35 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 36 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 37 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 38 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 39 | [Herman](http://twitter.com/search?q=Herman) | N/A |
+| 33 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 34 | [special task force](http://twitter.com/search?q=special+task+force) | N/A |
+| 35 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 36 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 37 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 38 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 39 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
 | 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 41 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 42 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
-| 43 | [Vaal](http://twitter.com/search?q=Vaal) | N/A |
-| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 45 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
-| 46 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 47 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 48 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 49 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 50 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 41 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
+| 42 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
+| 43 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 44 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 45 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
+| 46 | [Block 10](http://twitter.com/search?q=Block+10) | N/A |
+| 47 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 48 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
+| 49 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 50 | [Enhle](http://twitter.com/search?q=Enhle) | N/A |
 
 
 

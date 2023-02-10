@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-10 10:16:04 UTC`
+📆 Last Updated: `2023-02-10 11:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 2 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 4 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 7 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 8 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 9 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 12 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 13 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 20 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 21 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 22 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 23 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 24 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 25 | [Luke Edwards](http://twitter.com/search?q=Luke+Edwards) | N/A |
-| 26 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 27 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
-| 28 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 29 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 30 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 31 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 32 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 33 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 34 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 35 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 36 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 37 | [Ashley Dalton](http://twitter.com/search?q=Ashley+Dalton) | N/A |
-| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 39 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [Henry Mauriss](http://twitter.com/search?q=Henry+Mauriss) | N/A |
-| 42 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 43 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 44 | [October and December](http://twitter.com/search?q=October+and+December) | N/A |
-| 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 49 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
+| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 2 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 5 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 6 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 8 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 9 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 10 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 11 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 12 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 13 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 14 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
+| 15 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
+| 16 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 17 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 18 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 19 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 20 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 21 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 22 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
+| 23 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 24 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 25 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 26 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 27 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 28 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
+| 29 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 30 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 31 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 32 | [#FridayThoughts](http://twitter.com/search?q=%23FridayThoughts) | N/A |
+| 33 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 34 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 35 | [#FeelGoodFriday](http://twitter.com/search?q=%23FeelGoodFriday) | N/A |
+| 36 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
+| 37 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 38 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
+| 39 | [#ToriesOut218](http://twitter.com/search?q=%23ToriesOut218) | N/A |
+| 40 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
+| 41 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
+| 42 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 43 | [#recession](http://twitter.com/search?q=%23recession) | N/A |
+| 44 | [#clarksonsfarm](http://twitter.com/search?q=%23clarksonsfarm) | N/A |
+| 45 | [#Wordle601](http://twitter.com/search?q=%23Wordle601) | N/A |
+| 46 | [#BurtBacarach](http://twitter.com/search?q=%23BurtBacarach) | N/A |
+| 47 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 48 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 49 | [#Apprenticeship](http://twitter.com/search?q=%23Apprenticeship) | N/A |
 
 
 

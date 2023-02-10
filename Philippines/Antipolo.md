@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-10 10:16:26 UTC`
+📆 Last Updated: `2023-02-10 11:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
-| 2 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
-| 3 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 4 | [#OneConciertoPiyu](http://twitter.com/search?q=%23OneConciertoPiyu) | N/A |
+| 1 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 2 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 3 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 4 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
 | 5 | [DARLENTINA HANGGANG WAKAS](http://twitter.com/search?q=DARLENTINA+HANGGANG+WAKAS) | N/A |
-| 6 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 7 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 8 | [JANELLA ICONIC VALENTINA](http://twitter.com/search?q=JANELLA+ICONIC+VALENTINA) | N/A |
-| 9 | [#BINISlaysOnFEU](http://twitter.com/search?q=%23BINISlaysOnFEU) | N/A |
-| 10 | [HAPPY BIRTHDAY DONNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+DONNY) | N/A |
-| 11 | [FRANSETH TheHowsOfLove](http://twitter.com/search?q=FRANSETH+TheHowsOfLove) | N/A |
-| 12 | [#EUNCHAE_1ST_MCBANK](http://twitter.com/search?q=%23EUNCHAE_1ST_MCBANK) | N/A |
-| 13 | [DavidLicauco ForLAZADA](http://twitter.com/search?q=DavidLicauco+ForLAZADA) | N/A |
-| 14 | [MANSAE MC MANCHAE](http://twitter.com/search?q=MANSAE+MC+MANCHAE) | N/A |
-| 15 | [RICCIandBLYTHE SVSquad](http://twitter.com/search?q=RICCIandBLYTHE+SVSquad) | N/A |
-| 16 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 17 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 18 | [mubank](http://twitter.com/search?q=mubank) | N/A |
-| 19 | [FELIPStraydogs D-DAY Release](http://twitter.com/search?q=FELIPStraydogs+D-DAY+Release) | N/A |
-| 20 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 21 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 23 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 24 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 25 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 26 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
-| 27 | [#SayangTayoMV](http://twitter.com/search?q=%23SayangTayoMV) | N/A |
-| 28 | [#은채의_스타일기_은행장편](http://twitter.com/search?q=%23%ec%9d%80%ec%b1%84%ec%9d%98_%ec%8a%a4%ed%83%80%ec%9d%bc%ea%b8%b0_%ec%9d%80%ed%96%89%ec%9e%a5%ed%8e%b8) | N/A |
-| 29 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
-| 30 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
-| 31 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 32 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
-| 33 | [#4thVPCAVoteNow](http://twitter.com/search?q=%234thVPCAVoteNow) | N/A |
-| 34 | [#지구젤리버블](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%a0%a4%eb%a6%ac%eb%b2%84%eb%b8%94) | N/A |
-| 35 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
-| 36 | [#FELIP_COMPLEXonEatBulaga](http://twitter.com/search?q=%23FELIP_COMPLEXonEatBulaga) | N/A |
-| 37 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
-| 38 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
-| 39 | [#ฟรีนเบค](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 40 | [#GDRAGON](http://twitter.com/search?q=%23GDRAGON) | N/A |
-| 41 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
-| 43 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
-| 44 | [#VIBEchallenge](http://twitter.com/search?q=%23VIBEchallenge) | N/A |
-| 45 | [#DivineDivasLive2023](http://twitter.com/search?q=%23DivineDivasLive2023) | N/A |
-| 46 | [#FreenBecky](http://twitter.com/search?q=%23FreenBecky) | N/A |
-| 47 | [#HonkaiStarRailPreregistration](http://twitter.com/search?q=%23HonkaiStarRailPreregistration) | N/A |
-| 48 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
-| 49 | [#BOYCOTTTuloyTBADNLaban702](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban702) | N/A |
-| 50 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
+| 6 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 7 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 8 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
+| 9 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 10 | [#OneConciertoPiyu](http://twitter.com/search?q=%23OneConciertoPiyu) | N/A |
+| 11 | [JANELLA ICONIC VALENTINA](http://twitter.com/search?q=JANELLA+ICONIC+VALENTINA) | N/A |
+| 12 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
+| 13 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
+| 14 | [The Inner Man](http://twitter.com/search?q=The+Inner+Man) | N/A |
+| 15 | [JANEDELEON IS DARNA](http://twitter.com/search?q=JANEDELEON+IS+DARNA) | N/A |
+| 16 | [FRANSETH TheHowsOfLove](http://twitter.com/search?q=FRANSETH+TheHowsOfLove) | N/A |
+| 17 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
+| 18 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 20 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 21 | [HAPPY BIRTHDAY DONNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+DONNY) | N/A |
+| 22 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 23 | [DavidLicauco ForLAZADA](http://twitter.com/search?q=DavidLicauco+ForLAZADA) | N/A |
+| 24 | [RICCIandBLYTHE SVSquad](http://twitter.com/search?q=RICCIandBLYTHE+SVSquad) | N/A |
+| 25 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
+| 26 | [VIBE](http://twitter.com/search?q=VIBE) | N/A |
+| 27 | [mubank](http://twitter.com/search?q=mubank) | N/A |
+| 28 | [FELIPStraydogs D-DAY Release](http://twitter.com/search?q=FELIPStraydogs+D-DAY+Release) | N/A |
+| 29 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 30 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 31 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 32 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 33 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 34 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 35 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 36 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 37 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
+| 38 | [#PagIbigNaKaya](http://twitter.com/search?q=%23PagIbigNaKaya) | N/A |
+| 39 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
+| 40 | [#PNKJulieVer](http://twitter.com/search?q=%23PNKJulieVer) | N/A |
+| 41 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
+| 42 | [#sayangtayomv](http://twitter.com/search?q=%23sayangtayomv) | N/A |
+| 43 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
+| 44 | [#BINISlaysOnFEU](http://twitter.com/search?q=%23BINISlaysOnFEU) | N/A |
+| 45 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
+| 46 | [#EUNCHAE_1ST_MCBANK](http://twitter.com/search?q=%23EUNCHAE_1ST_MCBANK) | N/A |
+| 47 | [#은채의_스타일기_은행장편](http://twitter.com/search?q=%23%ec%9d%80%ec%b1%84%ec%9d%98_%ec%8a%a4%ed%83%80%ec%9d%bc%ea%b8%b0_%ec%9d%80%ed%96%89%ec%9e%a5%ed%8e%b8) | N/A |
+| 48 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
+| 49 | [#4thVPCAVoteNow](http://twitter.com/search?q=%234thVPCAVoteNow) | N/A |
+| 50 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
 
 
 

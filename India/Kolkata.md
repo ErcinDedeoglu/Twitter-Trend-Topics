@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-02-10 10:16:35 UTC`
+📆 Last Updated: `2023-02-10 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 2 | [#JavedAkhtarOnInvincibles](http://twitter.com/search?q=%23JavedAkhtarOnInvincibles) | N/A |
-| 3 | [#RefreshWithWendys](http://twitter.com/search?q=%23RefreshWithWendys) | N/A |
-| 4 | [#7WeeksToBholaa](http://twitter.com/search?q=%237WeeksToBholaa) | N/A |
-| 5 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
-| 6 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 7 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 8 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 9 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 10 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 11 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
-| 12 | [FILMFAREME X SHEHNAAZ](http://twitter.com/search?q=FILMFAREME+X+SHEHNAAZ) | N/A |
-| 13 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 14 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
-| 15 | [Wachtell](http://twitter.com/search?q=Wachtell) | N/A |
-| 16 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 17 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 18 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 19 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 20 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 21 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
-| 22 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 23 | [Ranjha](http://twitter.com/search?q=Ranjha) | N/A |
-| 24 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 25 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 26 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 27 | [Flipkart](http://twitter.com/search?q=Flipkart) | N/A |
-| 28 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
-| 29 | [सामाजिक सुरक्षा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 30 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 31 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
-| 32 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 33 | [Sid Kiara](http://twitter.com/search?q=Sid+Kiara) | N/A |
-| 34 | [Small Satellite Launch Vehicle](http://twitter.com/search?q=Small+Satellite+Launch+Vehicle) | N/A |
-| 35 | [फिरोज गांधी](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 36 | [Century](http://twitter.com/search?q=Century) | N/A |
-| 37 | [AzaadiSAT-2](http://twitter.com/search?q=AzaadiSAT-2) | N/A |
-| 38 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 39 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
-| 40 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
-| 41 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 42 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
-| 43 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
-| 44 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
-| 45 | [#अडानी_का_नौकर](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a1%e0%a4%be%e0%a4%a8%e0%a5%80_%e0%a4%95%e0%a4%be_%e0%a4%a8%e0%a5%8c%e0%a4%95%e0%a4%b0) | N/A |
-| 46 | [#Hitman](http://twitter.com/search?q=%23Hitman) | N/A |
-| 47 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 48 | [#MahaWithModi](http://twitter.com/search?q=%23MahaWithModi) | N/A |
-| 49 | [#Lithium](http://twitter.com/search?q=%23Lithium) | N/A |
-| 50 | [#realme10Pro5GCocaColaEdition](http://twitter.com/search?q=%23realme10Pro5GCocaColaEdition) | N/A |
+| 1 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
+| 2 | [#7WeeksToBholaa](http://twitter.com/search?q=%237WeeksToBholaa) | N/A |
+| 3 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
+| 4 | [#JavedAkhtarOnInvincibles](http://twitter.com/search?q=%23JavedAkhtarOnInvincibles) | N/A |
+| 5 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
+| 6 | [#RefreshWithWendys](http://twitter.com/search?q=%23RefreshWithWendys) | N/A |
+| 7 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 8 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 9 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 10 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 11 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 12 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 13 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 14 | [Solapur](http://twitter.com/search?q=Solapur) | N/A |
+| 15 | [Sainagar Shirdi](http://twitter.com/search?q=Sainagar+Shirdi) | N/A |
+| 16 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 17 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 18 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
+| 19 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 20 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
+| 21 | [CSMT](http://twitter.com/search?q=CSMT) | N/A |
+| 22 | [FILMFAREME X SHEHNAAZ](http://twitter.com/search?q=FILMFAREME+X+SHEHNAAZ) | N/A |
+| 23 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 24 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
+| 25 | [Wachtell](http://twitter.com/search?q=Wachtell) | N/A |
+| 26 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
+| 27 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
+| 28 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 29 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 30 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 31 | [Ranjha](http://twitter.com/search?q=Ranjha) | N/A |
+| 32 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 33 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 34 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
+| 35 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 37 | [Flipkart](http://twitter.com/search?q=Flipkart) | N/A |
+| 38 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 39 | [Sid Kiara](http://twitter.com/search?q=Sid+Kiara) | N/A |
+| 40 | [Small Satellite Launch Vehicle](http://twitter.com/search?q=Small+Satellite+Launch+Vehicle) | N/A |
+| 41 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
+| 42 | [century](http://twitter.com/search?q=century) | N/A |
+| 43 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 44 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
+| 45 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
+| 46 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
+| 47 | [#VandeBharat](http://twitter.com/search?q=%23VandeBharat) | N/A |
+| 48 | [#D56Update](http://twitter.com/search?q=%23D56Update) | N/A |
+| 49 | [#D56TitleReveal](http://twitter.com/search?q=%23D56TitleReveal) | N/A |
+| 50 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
 
 
 
