@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-10 13:20:44 UTC`
+📆 Last Updated: `2023-02-10 14:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
 | 2 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 3 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 4 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 5 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 6 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 7 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 8 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 9 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
-| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 11 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 14 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
-| 15 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
-| 16 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 17 | [Serra das Araras](http://twitter.com/search?q=Serra+das+Araras) | N/A |
-| 18 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 19 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 20 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 21 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 22 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 23 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 24 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
-| 25 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 26 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 27 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 3 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 4 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 5 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 6 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 8 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 9 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 10 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 11 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 12 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 13 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
+| 14 | [#MandsAnatomy](http://twitter.com/search?q=%23MandsAnatomy) | N/A |
+| 15 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 16 | [#GAPTheDebutante](http://twitter.com/search?q=%23GAPTheDebutante) | N/A |
+| 17 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 18 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 19 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 20 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 21 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 22 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 23 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 24 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
+| 25 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 26 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 27 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
 | 28 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 29 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
-| 30 | [Jay B](http://twitter.com/search?q=Jay+B) | N/A |
-| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 32 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 33 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 34 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
-| 35 | [Big Man](http://twitter.com/search?q=Big+Man) | N/A |
-| 36 | [BOM DIAAAA](http://twitter.com/search?q=BOM+DIAAAA) | N/A |
-| 37 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 38 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
-| 39 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 40 | [Leôncio](http://twitter.com/search?q=Le%c3%b4ncio) | N/A |
-| 41 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 42 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 43 | [Little Dignity](http://twitter.com/search?q=Little+Dignity) | N/A |
-| 44 | [Marques](http://twitter.com/search?q=Marques) | N/A |
-| 45 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 46 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 47 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 50 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 29 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 30 | [Saint](http://twitter.com/search?q=Saint) | N/A |
+| 31 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 32 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
+| 33 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
+| 34 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 35 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
+| 36 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 37 | [Serra das Araras](http://twitter.com/search?q=Serra+das+Araras) | N/A |
+| 38 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 39 | [Marins](http://twitter.com/search?q=Marins) | N/A |
+| 40 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 41 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 42 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Jay B](http://twitter.com/search?q=Jay+B) | N/A |
+| 45 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
+| 46 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
+| 47 | [Todes](http://twitter.com/search?q=Todes) | N/A |
+| 48 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 49 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 50 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
 
 
 

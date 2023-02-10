@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-10 13:19:54 UTC`
+📆 Last Updated: `2023-02-10 14:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 2 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 3 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
-| 4 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
-| 5 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 3 | [#ucustrikes](http://twitter.com/search?q=%23ucustrikes) | N/A |
+| 4 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 5 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
+| 6 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 7 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
 | 8 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 9 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 10 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 13 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 14 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 15 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 16 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 17 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 12 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 13 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 14 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 15 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 16 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 17 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 18 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
 | 19 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 20 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 21 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 22 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
-| 23 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
-| 24 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 25 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 26 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 27 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 28 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 29 | [west lancs](http://twitter.com/search?q=west+lancs) | N/A |
-| 30 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 31 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 32 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 33 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
-| 34 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 35 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
-| 36 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 37 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 38 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
-| 39 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
-| 40 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
-| 41 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
-| 42 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 43 | [#TransformingPD](http://twitter.com/search?q=%23TransformingPD) | N/A |
-| 44 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 20 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
+| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 22 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 23 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 24 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
+| 25 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 26 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 27 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 28 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
+| 29 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 30 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 31 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 32 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 33 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 34 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
+| 35 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
+| 36 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 37 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 38 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 39 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 40 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
+| 41 | [#celebrationfriday](http://twitter.com/search?q=%23celebrationfriday) | N/A |
+| 42 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 43 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
+| 44 | [#TransformingPD](http://twitter.com/search?q=%23TransformingPD) | N/A |
 | 45 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 46 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 46 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
 | 47 | [#PutNHSPayRight](http://twitter.com/search?q=%23PutNHSPayRight) | N/A |
-| 48 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
-| 49 | [#clarksonsfarm](http://twitter.com/search?q=%23clarksonsfarm) | N/A |
+| 48 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 49 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
 
 
 

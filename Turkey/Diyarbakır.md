@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-10 13:20:32 UTC`
+📆 Last Updated: `2023-02-10 14:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
+| 1 | [#AfaddaBizimAhbapda](http://twitter.com/search?q=%23AfaddaBizimAhbapda) | N/A |
 | 2 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 3 | [#istifa](http://twitter.com/search?q=%23istifa) | N/A |
-| 4 | [AllahımBizi Affet](http://twitter.com/search?q=Allah%c4%b1mBizi+Affet) | N/A |
-| 5 | [#GünDayanışmaGünü](http://twitter.com/search?q=%23G%c3%bcnDayan%c4%b1%c5%9fmaG%c3%bcn%c3%bc) | N/A |
-| 6 | [#HaddiniBilLûbeAyar](http://twitter.com/search?q=%23HaddiniBilL%c3%bbbeAyar) | N/A |
-| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 8 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
-| 9 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 10 | [Akşener Seçim](http://twitter.com/search?q=Ak%c5%9fener+Se%c3%a7im) | N/A |
-| 11 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 12 | [Berk](http://twitter.com/search?q=Berk) | N/A |
-| 13 | [Şaibe](http://twitter.com/search?q=%c5%9eaibe) | N/A |
-| 14 | [Hüseyin Yayman](http://twitter.com/search?q=H%c3%bcseyin+Yayman) | N/A |
-| 15 | [1 ETH](http://twitter.com/search?q=1+ETH) | N/A |
-| 16 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
-| 17 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
-| 18 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 19 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 20 | [Ezip](http://twitter.com/search?q=Ezip) | N/A |
-| 21 | [SEÇİL APARTMANI](http://twitter.com/search?q=SE%c3%87%c4%b0L+APARTMANI) | N/A |
-| 22 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
-| 23 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
-| 24 | [TahaDuymaza MadenciDesteği](http://twitter.com/search?q=TahaDuymaza+MadenciDeste%c4%9fi) | N/A |
-| 25 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 26 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
-| 27 | [TUVALET KARAVANLARI](http://twitter.com/search?q=TUVALET+KARAVANLARI) | N/A |
-| 28 | [İnşaat Mühendisleri Odası](http://twitter.com/search?q=%c4%b0n%c5%9faat+M%c3%bchendisleri+Odas%c4%b1) | N/A |
-| 29 | [Eşkiya](http://twitter.com/search?q=E%c5%9fkiya) | N/A |
-| 30 | [TCG Bayraktar](http://twitter.com/search?q=TCG+Bayraktar) | N/A |
-| 31 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 32 | [Depremin 5](http://twitter.com/search?q=Depremin+5) | N/A |
-| 33 | [Bulun](http://twitter.com/search?q=Bulun) | N/A |
-| 34 | [Almasınlar](http://twitter.com/search?q=Almas%c4%b1nlar) | N/A |
-| 35 | [Vitalik](http://twitter.com/search?q=Vitalik) | N/A |
-| 36 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
-| 37 | [1 Milyar](http://twitter.com/search?q=1+Milyar) | N/A |
-| 38 | [Pudra](http://twitter.com/search?q=Pudra) | N/A |
-| 39 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 40 | [Yemez](http://twitter.com/search?q=Yemez) | N/A |
-| 41 | [Çete](http://twitter.com/search?q=%c3%87ete) | N/A |
-| 42 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 43 | [Sanane](http://twitter.com/search?q=Sanane) | N/A |
-| 44 | [Çocukların](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n) | N/A |
-| 45 | [Deniz Feneri](http://twitter.com/search?q=Deniz+Feneri) | N/A |
-| 46 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 47 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
-| 48 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
-| 49 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 50 | [AKP'lileri](http://twitter.com/search?q=AKP%27lileri) | N/A |
+| 3 | [#GünDayanışmaGünü](http://twitter.com/search?q=%23G%c3%bcnDayan%c4%b1%c5%9fmaG%c3%bcn%c3%bc) | N/A |
+| 4 | [#BizdeVarız](http://twitter.com/search?q=%23BizdeVar%c4%b1z) | N/A |
+| 5 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
+| 6 | [AllahımBizi Affet](http://twitter.com/search?q=Allah%c4%b1mBizi+Affet) | N/A |
+| 7 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
+| 8 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 9 | [EN BÜYÜK BEŞİKTAŞ](http://twitter.com/search?q=EN+B%c3%9cY%c3%9cK+BE%c5%9e%c4%b0KTA%c5%9e) | N/A |
+| 10 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 11 | [Akşener Seçim](http://twitter.com/search?q=Ak%c5%9fener+Se%c3%a7im) | N/A |
+| 12 | [Şaibe](http://twitter.com/search?q=%c5%9eaibe) | N/A |
+| 13 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 14 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 15 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 16 | [Yakalandılar](http://twitter.com/search?q=Yakaland%c4%b1lar) | N/A |
+| 17 | [Berk](http://twitter.com/search?q=Berk) | N/A |
+| 18 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
+| 19 | [1 eth](http://twitter.com/search?q=1+eth) | N/A |
+| 20 | [Hüseyin Yayman](http://twitter.com/search?q=H%c3%bcseyin+Yayman) | N/A |
+| 21 | [Birlikte Güçlüyüz](http://twitter.com/search?q=Birlikte+G%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
+| 22 | [SEÇİL APARTMANI](http://twitter.com/search?q=SE%c3%87%c4%b0L+APARTMANI) | N/A |
+| 23 | [Ayağına](http://twitter.com/search?q=Aya%c4%9f%c4%b1na) | N/A |
+| 24 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 25 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
+| 26 | [Çocukları](http://twitter.com/search?q=%c3%87ocuklar%c4%b1) | N/A |
+| 27 | [Ezip](http://twitter.com/search?q=Ezip) | N/A |
+| 28 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 29 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 30 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
+| 31 | [Murat Pak](http://twitter.com/search?q=Murat+Pak) | N/A |
+| 32 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 33 | [TCG Bayraktar](http://twitter.com/search?q=TCG+Bayraktar) | N/A |
+| 34 | [Ayaklarına](http://twitter.com/search?q=Ayaklar%c4%b1na) | N/A |
+| 35 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
+| 36 | [Eşkiya](http://twitter.com/search?q=E%c5%9fkiya) | N/A |
+| 37 | [Almasınlar](http://twitter.com/search?q=Almas%c4%b1nlar) | N/A |
+| 38 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
+| 39 | [TUVALET KARAVANLARI](http://twitter.com/search?q=TUVALET+KARAVANLARI) | N/A |
+| 40 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 41 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
+| 42 | [Çete](http://twitter.com/search?q=%c3%87ete) | N/A |
+| 43 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 44 | [İnşaat Mühendisleri Odası](http://twitter.com/search?q=%c4%b0n%c5%9faat+M%c3%bchendisleri+Odas%c4%b1) | N/A |
+| 45 | [Bulun](http://twitter.com/search?q=Bulun) | N/A |
+| 46 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 47 | [AcilKepçe VinçSeferberliği](http://twitter.com/search?q=AcilKep%c3%a7e+Vin%c3%a7Seferberli%c4%9fi) | N/A |
+| 48 | [Afat](http://twitter.com/search?q=Afat) | N/A |
+| 49 | [Tırın](http://twitter.com/search?q=T%c4%b1r%c4%b1n) | N/A |
+| 50 | [TahaDuymaza MadenciDesteği](http://twitter.com/search?q=TahaDuymaza+MadenciDeste%c4%9fi) | N/A |
 
 
 

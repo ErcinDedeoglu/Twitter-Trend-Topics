@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-10 13:20:14 UTC`
+📆 Last Updated: `2023-02-10 14:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#SetanAngin](http://twitter.com/search?q=%23SetanAngin) | N/A |
 | 2 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
-| 3 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 4 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 5 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
+| 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 4 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
+| 5 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 6 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
 | 7 | [Tongkat Angin](http://twitter.com/search?q=Tongkat+Angin) | N/A |
-| 8 | [Persisam](http://twitter.com/search?q=Persisam) | N/A |
-| 9 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
-| 10 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
-| 11 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 12 | [Bali United](http://twitter.com/search?q=Bali+United) | N/A |
-| 13 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 14 | [Cuaca](http://twitter.com/search?q=Cuaca) | N/A |
-| 15 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
-| 18 | [Ay-Yo Second Win](http://twitter.com/search?q=Ay-Yo+Second+Win) | N/A |
-| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 20 | [COWOK 2](http://twitter.com/search?q=COWOK+2) | N/A |
-| 21 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 22 | [MC SOOBIN](http://twitter.com/search?q=MC+SOOBIN) | N/A |
-| 23 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 25 | [music bank](http://twitter.com/search?q=music+bank) | N/A |
-| 26 | [Chef](http://twitter.com/search?q=Chef) | N/A |
-| 27 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 8 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 9 | [Setip](http://twitter.com/search?q=Setip) | N/A |
+| 10 | [ARMY DO IT FOR BTS](http://twitter.com/search?q=ARMY+DO+IT+FOR+BTS) | N/A |
+| 11 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 12 | [CONGRATULATIONS NCT 127](http://twitter.com/search?q=CONGRATULATIONS+NCT+127) | N/A |
+| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 14 | [Persisam](http://twitter.com/search?q=Persisam) | N/A |
+| 15 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 16 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 17 | [Cuaca](http://twitter.com/search?q=Cuaca) | N/A |
+| 18 | [Bali United](http://twitter.com/search?q=Bali+United) | N/A |
+| 19 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 20 | [sinb](http://twitter.com/search?q=sinb) | N/A |
+| 21 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 22 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
+| 23 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 24 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
+| 25 | [Ay-Yo Second Win](http://twitter.com/search?q=Ay-Yo+Second+Win) | N/A |
+| 26 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 27 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 28 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
-| 29 | [David](http://twitter.com/search?q=David) | N/A |
-| 30 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 31 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 32 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 33 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 34 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 35 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
-| 36 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 37 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 38 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 39 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 40 | [#V1RST2ndSingle](http://twitter.com/search?q=%23V1RST2ndSingle) | N/A |
-| 41 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
-| 42 | [#PalingSatset](http://twitter.com/search?q=%23PalingSatset) | N/A |
-| 43 | [#BelanjaHitunganMenit](http://twitter.com/search?q=%23BelanjaHitunganMenit) | #BelanjaHitunganMenit is an Indonesian hashtag that translates to "shopping in minutes". It is used to promote quick and efficient shopping experiences. |
-| 44 | [#AstroinAja](http://twitter.com/search?q=%23AstroinAja) | N/A |
-| 45 | [#V1RSTRasa](http://twitter.com/search?q=%23V1RSTRasa) | N/A |
-| 46 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 47 | [#คนถ่ายภาพนี้ก็หล่อฉดใฉ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%89%e0%b8%94%e0%b9%83%e0%b8%89) | N/A |
+| 29 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 31 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 32 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 33 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 34 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 35 | [erick thohir](http://twitter.com/search?q=erick+thohir) | N/A |
+| 36 | [chef](http://twitter.com/search?q=chef) | N/A |
+| 37 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 38 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 39 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 40 | [Laras](http://twitter.com/search?q=Laras) | N/A |
+| 41 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 42 | [#otwmalioboro](http://twitter.com/search?q=%23otwmalioboro) | N/A |
+| 43 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 44 | [#AyYo2ndWin](http://twitter.com/search?q=%23AyYo2ndWin) | N/A |
+| 45 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 46 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 47 | [#에이요_두번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%eb%91%90%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

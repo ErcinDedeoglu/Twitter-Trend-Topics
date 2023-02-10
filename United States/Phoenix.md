@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-10 13:20:40 UTC`
+📆 Last Updated: `2023-02-10 14:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 2 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 1 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 4 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 7 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 8 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 9 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 11 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 12 | [Red Friday](http://twitter.com/search?q=Red+Friday) | N/A |
-| 13 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
-| 14 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 15 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 16 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 18 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 19 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 20 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 21 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 22 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 23 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 26 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 27 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 28 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 29 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 9 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 10 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 13 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 14 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 15 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 16 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 17 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 18 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 19 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 20 | [FRYE](http://twitter.com/search?q=FRYE) | FRYE is a brand of footwear and accessories that was founded in 1863 by John A. Frye. The company is known for its high-quality leather boots, shoes, and bags. The name FRYE is derived from the phrase "Frye's Regal Quality," which was used to describe the company's commitment to craftsmanship and quality materials. |
+| 21 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 22 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 23 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
+| 24 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 25 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 26 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
+| 27 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 28 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 29 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
 | 30 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
-| 31 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 32 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 33 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 34 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 35 | [ronde barber](http://twitter.com/search?q=ronde+barber) | N/A |
-| 36 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 37 | [Congrats Joe](http://twitter.com/search?q=Congrats+Joe) | N/A |
-| 38 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 39 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 40 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 41 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 42 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 43 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
-| 44 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
-| 45 | [Daboll](http://twitter.com/search?q=Daboll) | Daboll is a surname of French origin. It is derived from the Old French word "d'Auboule", which means "from the little valley". In English, it can be translated to mean "from the small valley". |
-| 46 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
-| 47 | [Canton](http://twitter.com/search?q=Canton) | N/A |
-| 48 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 49 | [COTY](http://twitter.com/search?q=COTY) | N/A |
-| 50 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 31 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 32 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 33 | [Shy Glizzy](http://twitter.com/search?q=Shy+Glizzy) | Shy Glizzy is the stage name of American rapper Marquis Amonte King. The name is derived from his nickname, "Shy," and his hometown of Washington, D.C., which is known as "Glizzy." |
+| 34 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 35 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 36 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 37 | [Heechul](http://twitter.com/search?q=Heechul) | N/A |
+| 38 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
+| 39 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 40 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
+| 41 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
+| 42 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 43 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 44 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
+| 45 | [Baltimore County](http://twitter.com/search?q=Baltimore+County) | N/A |
+| 46 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 47 | [MacArthur](http://twitter.com/search?q=MacArthur) | N/A |
+| 48 | [Canton](http://twitter.com/search?q=Canton) | N/A |
+| 49 | [Peeing](http://twitter.com/search?q=Peeing) | N/A |
+| 50 | [Thick Skull](http://twitter.com/search?q=Thick+Skull) | N/A |
 
 
 
