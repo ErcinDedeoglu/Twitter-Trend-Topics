@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-09 23:16:44 UTC`
+📆 Last Updated: `2023-02-10 00:29:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 3 | [#enhorabuenajuega](http://twitter.com/search?q=%23enhorabuenajuega) | N/A |
-| 4 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 5 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
-| 6 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
-| 7 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 9 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 10 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 11 | [Joma](http://twitter.com/search?q=Joma) | N/A |
-| 12 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 13 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 14 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 15 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 16 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 17 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 18 | [Debanhi](http://twitter.com/search?q=Debanhi) | N/A |
-| 19 | [KIM LOAIZA](http://twitter.com/search?q=KIM+LOAIZA) | N/A |
-| 20 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 21 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
-| 22 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
-| 23 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 24 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 25 | [#DiaDelOdontologo](http://twitter.com/search?q=%23DiaDelOdontologo) | N/A |
+| 1 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 3 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 4 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
+| 5 | [#BLACKPINKMEXICO](http://twitter.com/search?q=%23BLACKPINKMEXICO) | N/A |
+| 6 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 7 | [#DreamzensVsOT26](http://twitter.com/search?q=%23DreamzensVsOT26) | N/A |
+| 8 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
+| 9 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 10 | [#enhorabuenajuega](http://twitter.com/search?q=%23enhorabuenajuega) | N/A |
+| 11 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 12 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 16 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 17 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 18 | [KIM LOAIZA](http://twitter.com/search?q=KIM+LOAIZA) | N/A |
+| 19 | [Joma](http://twitter.com/search?q=Joma) | N/A |
+| 20 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 21 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 22 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 23 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 24 | [Debanhi](http://twitter.com/search?q=Debanhi) | N/A |
+| 25 | [Madero](http://twitter.com/search?q=Madero) | N/A |
 | 26 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 27 | [#Atlacomulco](http://twitter.com/search?q=%23Atlacomulco) | N/A |
-| 28 | [Hugo Ayala](http://twitter.com/search?q=Hugo+Ayala) | N/A |
-| 29 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 30 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 31 | [Marcos Ayala](http://twitter.com/search?q=Marcos+Ayala) | N/A |
-| 32 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 33 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
-| 34 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 37 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
-| 38 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
-| 39 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 40 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
-| 41 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 42 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 43 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 44 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 45 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 46 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 47 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 48 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 49 | [Compra](http://twitter.com/search?q=Compra) | N/A |
-| 50 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 27 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 28 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 29 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
+| 30 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 31 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 32 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 33 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 34 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 35 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
+| 36 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 37 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
+| 38 | [Ghosts Again](http://twitter.com/search?q=Ghosts+Again) | N/A |
+| 39 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 40 | [El Lupe](http://twitter.com/search?q=El+Lupe) | N/A |
+| 41 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 42 | [Compra](http://twitter.com/search?q=Compra) | N/A |
+| 43 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 44 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 45 | [El Mayo](http://twitter.com/search?q=El+Mayo) | N/A |
+| 46 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 47 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 48 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 49 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 50 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
 
 
 

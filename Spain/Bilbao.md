@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-09 23:16:00 UTC`
+📆 Last Updated: `2023-02-10 00:28:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023C4](http://twitter.com/search?q=%23COAC2023C4) | N/A |
-| 2 | [#PesadillaFortaleza](http://twitter.com/search?q=%23PesadillaFortaleza) | N/A |
-| 3 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 4 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 5 | [#TodosContra1](http://twitter.com/search?q=%23TodosContra1) | N/A |
+| 2 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 3 | [#TodosContra1](http://twitter.com/search?q=%23TodosContra1) | N/A |
+| 4 | [#PesadillaFortaleza](http://twitter.com/search?q=%23PesadillaFortaleza) | N/A |
+| 5 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
 | 6 | [#PesadillaParaíso6](http://twitter.com/search?q=%23PesadillaPara%c3%adso6) | N/A |
-| 7 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
-| 8 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 7 | [Sikora](http://twitter.com/search?q=Sikora) | N/A |
+| 8 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
 | 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 10 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
-| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 12 | [Negre](http://twitter.com/search?q=Negre) | N/A |
-| 13 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 14 | [Gran Torino](http://twitter.com/search?q=Gran+Torino) | N/A |
-| 15 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 16 | [Mecano](http://twitter.com/search?q=Mecano) | N/A |
-| 17 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
-| 18 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 19 | [José María Saiz](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Saiz) | N/A |
-| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 21 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 22 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 23 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 24 | [Isabelita](http://twitter.com/search?q=Isabelita) | N/A |
-| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 26 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
-| 27 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
-| 28 | [natalia lacunza](http://twitter.com/search?q=natalia+lacunza) | N/A |
-| 29 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 30 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 31 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 32 | [Valdepeñas](http://twitter.com/search?q=Valdepe%c3%b1as) | N/A |
-| 33 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 34 | [Mariló Montero](http://twitter.com/search?q=Maril%c3%b3+Montero) | N/A |
-| 35 | [Elda](http://twitter.com/search?q=Elda) | N/A |
-| 36 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 38 | [Mixto](http://twitter.com/search?q=Mixto) | N/A |
-| 39 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
-| 40 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
-| 41 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 42 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 43 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 44 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 45 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 46 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 47 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 48 | [Más de 500](http://twitter.com/search?q=M%c3%a1s+de+500) | N/A |
-| 49 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 10 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 11 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
+| 12 | [Chulo](http://twitter.com/search?q=Chulo) | N/A |
+| 13 | [Negre](http://twitter.com/search?q=Negre) | N/A |
+| 14 | [Mecano](http://twitter.com/search?q=Mecano) | N/A |
+| 15 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 17 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 18 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 19 | [Gran Torino](http://twitter.com/search?q=Gran+Torino) | N/A |
+| 20 | [José María Saiz](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Saiz) | N/A |
+| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 22 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 23 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 24 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 25 | [Bad Gyal](http://twitter.com/search?q=Bad+Gyal) | N/A |
+| 26 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 27 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 28 | [Isabelita](http://twitter.com/search?q=Isabelita) | N/A |
+| 29 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 30 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
+| 31 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 33 | [Redondo](http://twitter.com/search?q=Redondo) | N/A |
+| 34 | [natalia lacunza](http://twitter.com/search?q=natalia+lacunza) | N/A |
+| 35 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 36 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
+| 37 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 38 | [Mariló Montero](http://twitter.com/search?q=Maril%c3%b3+Montero) | N/A |
+| 39 | [Valdepeñas](http://twitter.com/search?q=Valdepe%c3%b1as) | N/A |
+| 40 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 41 | [Elda](http://twitter.com/search?q=Elda) | N/A |
+| 42 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 43 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 44 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 45 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 46 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
+| 47 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 49 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
 
 
 

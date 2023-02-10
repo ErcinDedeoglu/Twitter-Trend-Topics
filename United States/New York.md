@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-09 23:16:34 UTC`
+📆 Last Updated: `2023-02-10 00:29:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 2 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 3 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 1 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 2 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 3 | [Meier](http://twitter.com/search?q=Meier) | N/A |
 | 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 5 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 6 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 7 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 8 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 9 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 10 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 11 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 15 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 16 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 17 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 5 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 6 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 7 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 8 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 9 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 10 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 11 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
+| 12 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 13 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 14 | [#GetWakandaForever](http://twitter.com/search?q=%23GetWakandaForever) | N/A |
+| 15 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 16 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 18 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
 | 19 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 20 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 21 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 22 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 23 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 24 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
-| 25 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 26 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 28 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 29 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 20 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 22 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 24 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 25 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 26 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 27 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 28 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 29 | [Amish](http://twitter.com/search?q=Amish) | N/A |
 | 30 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 31 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 32 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 33 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 34 | [Turley](http://twitter.com/search?q=Turley) | N/A |
-| 35 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 36 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 37 | [71% of Americans](http://twitter.com/search?q=71%25+of+Americans) | N/A |
-| 38 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 39 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 40 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 41 | [Tinsley](http://twitter.com/search?q=Tinsley) | N/A |
-| 42 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 43 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 44 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 45 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 46 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 47 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 48 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 49 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
-| 50 | [Blais](http://twitter.com/search?q=Blais) | N/A |
+| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 32 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 33 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
+| 34 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
+| 35 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 36 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 37 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 38 | [Turley](http://twitter.com/search?q=Turley) | N/A |
+| 39 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 40 | [GPII](http://twitter.com/search?q=GPII) | N/A |
+| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 42 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 43 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 44 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 45 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 46 | [Tinsley](http://twitter.com/search?q=Tinsley) | N/A |
+| 47 | [71% of Americans](http://twitter.com/search?q=71%25+of+Americans) | N/A |
+| 48 | [Ian Cole](http://twitter.com/search?q=Ian+Cole) | N/A |
+| 49 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
+| 50 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
 
 
 

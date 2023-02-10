@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-09 23:15:42 UTC`
+📆 Last Updated: `2023-02-10 00:28:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 1 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 2 | [#m21cb](http://twitter.com/search?q=%23m21cb) | N/A |
-| 3 | [#deathpenalty](http://twitter.com/search?q=%23deathpenalty) | N/A |
-| 4 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 5 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 6 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 7 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 9 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 10 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 12 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 13 | [Reece](http://twitter.com/search?q=Reece) | N/A |
+| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 4 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 5 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 7 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 9 | [Matthew Syed](http://twitter.com/search?q=Matthew+Syed) | N/A |
+| 10 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
+| 11 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 12 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 13 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 14 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
-| 15 | [Gezzy](http://twitter.com/search?q=Gezzy) | N/A |
-| 16 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 17 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 15 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 16 | [Gezzy](http://twitter.com/search?q=Gezzy) | N/A |
+| 17 | [Reece](http://twitter.com/search?q=Reece) | N/A |
 | 18 | [Aspinall](http://twitter.com/search?q=Aspinall) | N/A |
-| 19 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
-| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 21 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 22 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 23 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
-| 24 | [Ron and Kai](http://twitter.com/search?q=Ron+and+Kai) | N/A |
-| 25 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 26 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 27 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
-| 28 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 29 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 30 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 31 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 32 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 33 | [Duchess](http://twitter.com/search?q=Duchess) | N/A |
-| 34 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 36 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 37 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 38 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 39 | [Walk On By](http://twitter.com/search?q=Walk+On+By) | N/A |
-| 40 | [Dozy](http://twitter.com/search?q=Dozy) | N/A |
-| 41 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 42 | [Northern Soul](http://twitter.com/search?q=Northern+Soul) | N/A |
-| 43 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 44 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 45 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 19 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 20 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 21 | [George Freeman](http://twitter.com/search?q=George+Freeman) | N/A |
+| 22 | [Ron and Kai](http://twitter.com/search?q=Ron+and+Kai) | N/A |
+| 23 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 24 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 25 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 26 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
+| 27 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 28 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 29 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 30 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 31 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 32 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 33 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
+| 34 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 35 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 36 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 37 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 38 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 39 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 40 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 41 | [Duchess](http://twitter.com/search?q=Duchess) | N/A |
+| 42 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 43 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Dozy](http://twitter.com/search?q=Dozy) | N/A |
 | 46 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 48 | [The Stranglers](http://twitter.com/search?q=The+Stranglers) | N/A |
+| 47 | [Walk On By](http://twitter.com/search?q=Walk+On+By) | N/A |
+| 48 | [Derek Bentley](http://twitter.com/search?q=Derek+Bentley) | N/A |
 
 
 

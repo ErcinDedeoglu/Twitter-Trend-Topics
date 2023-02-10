@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-02-09 23:16:03 UTC`
+📆 Last Updated: `2023-02-10 00:28:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TolakKerasPolitikIdentitas](http://twitter.com/search?q=%23TolakKerasPolitikIdentitas) | N/A |
-| 2 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
-| 3 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
-| 4 | [#BRIUntungDanSlamet](http://twitter.com/search?q=%23BRIUntungDanSlamet) | N/A |
-| 5 | [#aicehisteria](http://twitter.com/search?q=%23aicehisteria) | N/A |
-| 6 | [Khilafah Merawat Jagat](http://twitter.com/search?q=Khilafah+Merawat+Jagat) | N/A |
-| 7 | [Mas Bupati](http://twitter.com/search?q=Mas+Bupati) | N/A |
-| 8 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
-| 9 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
-| 10 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
-| 11 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 12 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
-| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 15 | [Kembali Pada Hukum Allah](http://twitter.com/search?q=Kembali+Pada+Hukum+Allah) | N/A |
-| 16 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 17 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 18 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 21 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 22 | [laba bri 51](http://twitter.com/search?q=laba+bri+51) | N/A |
-| 23 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
-| 24 | [Beng](http://twitter.com/search?q=Beng) | N/A |
-| 25 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
-| 26 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
-| 27 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
-| 28 | [Roka](http://twitter.com/search?q=Roka) | N/A |
-| 29 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 30 | [Airi](http://twitter.com/search?q=Airi) | N/A |
-| 31 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 32 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
-| 33 | [btn mobile](http://twitter.com/search?q=btn+mobile) | N/A |
-| 34 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
-| 35 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
-| 38 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 40 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 41 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 42 | [haechan lee](http://twitter.com/search?q=haechan+lee) | N/A |
-| 43 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 44 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 45 | [NMIXX FIRST MINI ALBUM](http://twitter.com/search?q=NMIXX+FIRST+MINI+ALBUM) | N/A |
-| 46 | [Bright](http://twitter.com/search?q=Bright) | N/A |
-| 47 | [Sangobion](http://twitter.com/search?q=Sangobion) | N/A |
-| 48 | [Eyeliner](http://twitter.com/search?q=Eyeliner) | N/A |
-| 49 | [Arah Coffee](http://twitter.com/search?q=Arah+Coffee) | N/A |
+| 2 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 3 | [#BukaKembaliKM50](http://twitter.com/search?q=%23BukaKembaliKM50) | N/A |
+| 4 | [#HappyGradWOOation](http://twitter.com/search?q=%23HappyGradWOOation) | N/A |
+| 5 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
+| 6 | [#BRIUntungDanSlamet](http://twitter.com/search?q=%23BRIUntungDanSlamet) | N/A |
+| 7 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 8 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 9 | [Khilafah Merawat Jagat](http://twitter.com/search?q=Khilafah+Merawat+Jagat) | N/A |
+| 10 | [Mas Bupati](http://twitter.com/search?q=Mas+Bupati) | N/A |
+| 11 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
+| 12 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
+| 13 | [Morsex](http://twitter.com/search?q=Morsex) | N/A |
+| 14 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
+| 15 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
+| 16 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 17 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
+| 18 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
+| 19 | [Kembali Pada Hukum Allah](http://twitter.com/search?q=Kembali+Pada+Hukum+Allah) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 22 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 23 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 26 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 27 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 28 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 29 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 30 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
+| 31 | [Pers Bebas](http://twitter.com/search?q=Pers+Bebas) | N/A |
+| 32 | [laba bri 51](http://twitter.com/search?q=laba+bri+51) | N/A |
+| 33 | [Beng](http://twitter.com/search?q=Beng) | N/A |
+| 34 | [Mowning](http://twitter.com/search?q=Mowning) | N/A |
+| 35 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 36 | [Jawa Tengah](http://twitter.com/search?q=Jawa+Tengah) | N/A |
+| 37 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
+| 38 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 39 | [WONYOUNG IS GRADUATING TOO](http://twitter.com/search?q=WONYOUNG+IS+GRADUATING+TOO) | N/A |
+| 40 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 41 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
+| 42 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 43 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 44 | [Superstar](http://twitter.com/search?q=Superstar) | N/A |
+| 45 | [Airi](http://twitter.com/search?q=Airi) | N/A |
+| 46 | [btn mobile](http://twitter.com/search?q=btn+mobile) | N/A |
+| 47 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 48 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
+| 49 | [GENTLEMAN SIWON DAY](http://twitter.com/search?q=GENTLEMAN+SIWON+DAY) | N/A |
 
 
 

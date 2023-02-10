@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-09 23:15:59 UTC`
+📆 Last Updated: `2023-02-10 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 2 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 3 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 4 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 5 | [#Sanreno2023](http://twitter.com/search?q=%23Sanreno2023) | N/A |
-| 6 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 7 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 8 | [#Maneskin](http://twitter.com/search?q=%23Maneskin) | N/A |
-| 9 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 10 | [Paola Egonu](http://twitter.com/search?q=Paola+Egonu) | Paola Egonu is an Italian professional volleyball player. She is a member of the Italian national team and plays for Imoco Volley Conegliano in the Italian Serie A1. Her name translates to "beautiful eagle" in English. |
-| 11 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 12 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 13 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 14 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 15 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 16 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 17 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 18 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 19 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 20 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 21 | [#comacose](http://twitter.com/search?q=%23comacose) | N/A |
-| 22 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 23 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
-| 24 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 25 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [Forza Milan](http://twitter.com/search?q=Forza+Milan) | N/A |
-| 28 | [STANDING OVATION](http://twitter.com/search?q=STANDING+OVATION) | N/A |
-| 29 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
-| 30 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 31 | [CODICE 06](http://twitter.com/search?q=CODICE+06) | N/A |
-| 32 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
-| 33 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 34 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 1 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 2 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 6 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 7 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 8 | [#PaolaEgonu](http://twitter.com/search?q=%23PaolaEgonu) | N/A |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 10 | [#Maneskin](http://twitter.com/search?q=%23Maneskin) | N/A |
+| 11 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
+| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 13 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 14 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 15 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 16 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 17 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 18 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 19 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 20 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 21 | [Forza Milan](http://twitter.com/search?q=Forza+Milan) | N/A |
+| 22 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 23 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 24 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 25 | [Cugini](http://twitter.com/search?q=Cugini) | N/A |
+| 26 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 27 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 28 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 29 | [I Colla Zio](http://twitter.com/search?q=I+Colla+Zio) | N/A |
+| 30 | [STANDING OVATION](http://twitter.com/search?q=STANDING+OVATION) | N/A |
+| 31 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
+| 32 | [CODICE 06](http://twitter.com/search?q=CODICE+06) | N/A |
+| 33 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 34 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
 | 35 | [CODICE 10](http://twitter.com/search?q=CODICE+10) | N/A |
-| 36 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 37 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 38 | [EHI BRO](http://twitter.com/search?q=EHI+BRO) | N/A |
-| 39 | [The Loneliest](http://twitter.com/search?q=The+Loneliest) | N/A |
-| 40 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 41 | [PER ME LE COSE SONO DUE](http://twitter.com/search?q=PER+ME+LE+COSE+SONO+DUE) | N/A |
-| 42 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 43 | [NO WAR](http://twitter.com/search?q=NO+WAR) | N/A |
-| 44 | [Zerocalcare](http://twitter.com/search?q=Zerocalcare) | N/A |
-| 45 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 46 | [Zitti e Buoni](http://twitter.com/search?q=Zitti+e+Buoni) | N/A |
-| 47 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 48 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 49 | [Supereroi](http://twitter.com/search?q=Supereroi) | N/A |
-| 50 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 36 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 37 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 38 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 39 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 40 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 41 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 42 | [NO WAR](http://twitter.com/search?q=NO+WAR) | N/A |
+| 43 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 44 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 45 | [Zitti e Buoni](http://twitter.com/search?q=Zitti+e+Buoni) | N/A |
+| 46 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 47 | [Zerocalcare](http://twitter.com/search?q=Zerocalcare) | N/A |
+| 48 | [#comacose](http://twitter.com/search?q=%23comacose) | N/A |
+| 49 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
+| 50 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 
 
 

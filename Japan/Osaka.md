@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-09 23:16:38 UTC`
+📆 Last Updated: `2023-02-10 00:29:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [高校受験](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%8f%97%e9%a8%93) | N/A |
-| 2 | [高校入試](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%85%a5%e8%a9%a6) | N/A |
-| 3 | [私立受験](http://twitter.com/search?q=%e7%a7%81%e7%ab%8b%e5%8f%97%e9%a8%93) | N/A |
-| 4 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 5 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 6 | [#本名にかすってもないのについたあだ名](http://twitter.com/search?q=%23%e6%9c%ac%e5%90%8d%e3%81%ab%e3%81%8b%e3%81%99%e3%81%a3%e3%81%a6%e3%82%82%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%9f%e3%81%82%e3%81%a0%e5%90%8d) | N/A |
-| 7 | [マスク着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8) | N/A |
-| 8 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
-| 9 | [#長尾謙杜](http://twitter.com/search?q=%23%e9%95%b7%e5%b0%be%e8%ac%99%e6%9d%9c) | N/A |
-| 10 | [一太くん](http://twitter.com/search?q=%e4%b8%80%e5%a4%aa%e3%81%8f%e3%82%93) | 一太くん is a character from the Japanese manga series Doraemon. His name literally translates to "One-Taro" and he is a robotic cat from the future who helps the main character, Nobita, with his various adventures. In English, his name could be translated as "One-Taro the Cat". |
-| 11 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 12 | [#おは戦50210fk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650210fk) | N/A |
-| 13 | [#モーニングこんぱす](http://twitter.com/search?q=%23%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%93%e3%82%93%e3%81%b1%e3%81%99) | N/A |
-| 14 | [帰宅難民](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e9%9b%a3%e6%b0%91) | 帰宅難民 (kitakunanmin) is a Japanese term that refers to people who have been forced to return home due to the economic downturn caused by the COVID-19 pandemic. It literally translates to "returning home refugees". |
-| 15 | [大雪注意報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e6%b3%a8%e6%84%8f%e5%a0%b1) | N/A |
-| 16 | [大雪警報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e8%ad%a6%e5%a0%b1) | 大雪警報 (Daiyukkei Kōhō) is a Japanese term for a heavy snow warning. It is issued when the amount of snowfall is expected to exceed 10 cm in 24 hours or 20 cm in 48 hours. In English, it translates to "Heavy Snow Warning". |
-| 17 | [値引きシール](http://twitter.com/search?q=%e5%80%a4%e5%bc%95%e3%81%8d%e3%82%b7%e3%83%bc%e3%83%ab) | N/A |
-| 18 | [ニットの日](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 19 | [予報通り](http://twitter.com/search?q=%e4%ba%88%e5%a0%b1%e9%80%9a%e3%82%8a) | N/A |
-| 20 | [八王子駅前](http://twitter.com/search?q=%e5%85%ab%e7%8e%8b%e5%ad%90%e9%a7%85%e5%89%8d) | N/A |
-| 21 | [降り始め](http://twitter.com/search?q=%e9%99%8d%e3%82%8a%e5%a7%8b%e3%82%81) | N/A |
-| 22 | [ノーマルタイヤ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a4) | ノーマルタイヤ (Nōmaru taiya) is a Japanese term for regular tires. It is used to refer to tires that are not specialized for any particular purpose, such as off-road or racing tires. In English, it can be translated as "normal tires". |
-| 23 | [#松浦果南生誕祭2023](http://twitter.com/search?q=%23%e6%9d%be%e6%b5%a6%e6%9e%9c%e5%8d%97%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
-| 24 | [程度の雪](http://twitter.com/search?q=%e7%a8%8b%e5%ba%a6%e3%81%ae%e9%9b%aa) | N/A |
-| 25 | [天気予報](http://twitter.com/search?q=%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1) | 天気予報 (Tenkiyohou) is a Japanese term meaning "weather forecast". It is used to refer to the prediction of weather conditions for a certain area or region. |
-| 26 | [スタッドレス](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%83%e3%83%89%e3%83%ac%e3%82%b9) | スタッドレス (sutaddoresu) is a Japanese term for winter tires, which are tires designed to be used in cold weather and on icy roads. In English, it is often referred to as "studded tires". |
-| 27 | [東京の雪](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%81%ae%e9%9b%aa) | N/A |
-| 28 | [テレワーク](http://twitter.com/search?q=%e3%83%86%e3%83%ac%e3%83%af%e3%83%bc%e3%82%af) | N/A |
+| 1 | [#おのえ765](http://twitter.com/search?q=%23%e3%81%8a%e3%81%ae%e3%81%88765) | N/A |
+| 2 | [#おは朝](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%9c%9d) | N/A |
+| 3 | [高校受験](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%8f%97%e9%a8%93) | N/A |
+| 4 | [高校入試](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%85%a5%e8%a9%a6) | N/A |
+| 5 | [大阪オートメッセ](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%83%e3%82%bb) | N/A |
+| 6 | [果南ちゃん](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 7 | [私立入試](http://twitter.com/search?q=%e7%a7%81%e7%ab%8b%e5%85%a5%e8%a9%a6) | N/A |
+| 8 | [私立受験](http://twitter.com/search?q=%e7%a7%81%e7%ab%8b%e5%8f%97%e9%a8%93) | N/A |
+| 9 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 10 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 11 | [マスク着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8) | N/A |
+| 12 | [ホシくん](http://twitter.com/search?q=%e3%83%9b%e3%82%b7%e3%81%8f%e3%82%93) | ホシくん is a character from the Japanese manga series, "Kochikame". He is a police officer who works in the fictional Ryōgoku Police Station. His name literally translates to "Star Boy" and he is known for his strong sense of justice and loyalty to his friends. |
+| 13 | [ノーマルタイヤ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a4) | ノーマルタイヤ (Nōmaru taiya) is a Japanese term for regular tires. It is used to refer to tires that are not specialized for any particular purpose, such as off-road or racing tires. In English, it can be translated as "normal tires". |
+| 14 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
+| 15 | [スタッドレス](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%83%e3%83%89%e3%83%ac%e3%82%b9) | スタッドレス (sutaddoresu) is a Japanese term for winter tires, which are tires designed to be used in cold weather and on icy roads. In English, it is often referred to as "studded tires". |
+| 16 | [雪だるま](http://twitter.com/search?q=%e9%9b%aa%e3%81%a0%e3%82%8b%e3%81%be) | 雪だるま (yuki daruma) is a Japanese snowman made of snow. It is usually made by children during the winter season and is a popular activity in Japan. The name comes from the traditional Japanese Daruma doll, which symbolizes good luck and perseverance. In English, it can be translated to "snowman". |
+| 17 | [帰宅命令](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e5%91%bd%e4%bb%a4) | 帰宅命令 (Kitaku Meirei) is a Japanese phrase that translates to "Go Home Command". It is used to tell someone to go home, usually in a joking or playful manner. |
+| 18 | [テレワーク](http://twitter.com/search?q=%e3%83%86%e3%83%ac%e3%83%af%e3%83%bc%e3%82%af) | N/A |
+| 19 | [シオマリアッチ](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%83%9e%e3%83%aa%e3%82%a2%e3%83%83%e3%83%81) | N/A |
+| 20 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 21 | [一太くん](http://twitter.com/search?q=%e4%b8%80%e5%a4%aa%e3%81%8f%e3%82%93) | 一太くん is a character from the Japanese manga series Doraemon. His name literally translates to "One-Taro" and he is a robotic cat from the future who helps the main character, Nobita, with his various adventures. In English, his name could be translated as "One-Taro the Cat". |
+| 22 | [東京の雪](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%81%ae%e9%9b%aa) | N/A |
+| 23 | [在宅勤務](http://twitter.com/search?q=%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99) | N/A |
+| 24 | [値引きシール](http://twitter.com/search?q=%e5%80%a4%e5%bc%95%e3%81%8d%e3%82%b7%e3%83%bc%e3%83%ab) | N/A |
+| 25 | [濱田岳さん](http://twitter.com/search?q=%e6%bf%b1%e7%94%b0%e5%b2%b3%e3%81%95%e3%82%93) | N/A |
+| 26 | [#長尾謙杜](http://twitter.com/search?q=%23%e9%95%b7%e5%b0%be%e8%ac%99%e6%9d%9c) | N/A |
+| 27 | [帰宅難民](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e9%9b%a3%e6%b0%91) | 帰宅難民 (kitakunanmin) is a Japanese term that refers to people who have been forced to return home due to the economic downturn caused by the COVID-19 pandemic. It literally translates to "returning home refugees". |
+| 28 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
 | 29 | [交通機関](http://twitter.com/search?q=%e4%ba%a4%e9%80%9a%e6%a9%9f%e9%96%a2) | N/A |
-| 30 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
-| 31 | [帰宅命令](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e5%91%bd%e4%bb%a4) | 帰宅命令 (Kitaku Meirei) is a Japanese phrase that translates to "Go Home Command". It is used to tell someone to go home, usually in a joking or playful manner. |
-| 32 | [布団の日](http://twitter.com/search?q=%e5%b8%83%e5%9b%a3%e3%81%ae%e6%97%a5) | N/A |
-| 33 | [謙杜くん](http://twitter.com/search?q=%e8%ac%99%e6%9d%9c%e3%81%8f%e3%82%93) | N/A |
-| 34 | [百音ちゃん](http://twitter.com/search?q=%e7%99%be%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 百音ちゃん is a character created by the Japanese company Sanrio. She is a cute and cheerful girl who loves to sing and dance. Her name literally translates to "Hundred Sounds Girl" in English. |
-| 35 | [いれぶんさん](http://twitter.com/search?q=%e3%81%84%e3%82%8c%e3%81%b6%e3%82%93%e3%81%95%e3%82%93) | N/A |
-| 36 | [学校休み](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e4%bc%91%e3%81%bf) | 学校休み (Gakkō yasumi) is a Japanese phrase meaning "school break" or "school holiday". It is used to refer to the period of time when school is not in session, such as during summer vacation or winter break. |
-| 37 | [ふとんの日](http://twitter.com/search?q=%e3%81%b5%e3%81%a8%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 38 | [大河出演](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%87%ba%e6%bc%94) | N/A |
-| 39 | [平良結婚](http://twitter.com/search?q=%e5%b9%b3%e8%89%af%e7%b5%90%e5%a9%9a) | N/A |
-| 40 | [左利きグッズの日](http://twitter.com/search?q=%e5%b7%a6%e5%88%a9%e3%81%8d%e3%82%b0%e3%83%83%e3%82%ba%e3%81%ae%e6%97%a5) | N/A |
-| 41 | [倫果ちゃん](http://twitter.com/search?q=%e5%80%ab%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | 倫果ちゃん is a nickname for the Japanese singer and actress, Rena Matsui. It is derived from her given name, Rena (倫), and the Japanese word for fruit (果). In English, it can be translated to mean "Rena Fruit". |
-| 42 | [公開告白](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%91%8a%e7%99%bd) | N/A |
-| 43 | [こなーゆきー](http://twitter.com/search?q=%e3%81%93%e3%81%aa%e3%83%bc%e3%82%86%e3%81%8d%e3%83%bc) | N/A |
-| 44 | [ドットさん](http://twitter.com/search?q=%e3%83%89%e3%83%83%e3%83%88%e3%81%95%e3%82%93) | N/A |
-| 45 | [在宅勤務](http://twitter.com/search?q=%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99) | N/A |
-| 46 | [第385回](http://twitter.com/search?q=%e7%ac%ac385%e5%9b%9e) | N/A |
-| 47 | [果南ちゃん](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [雪の予報](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e4%ba%88%e5%a0%b1) | N/A |
-| 49 | [雪ちょっと](http://twitter.com/search?q=%e9%9b%aa%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8) | N/A |
+| 30 | [程度の雪](http://twitter.com/search?q=%e7%a8%8b%e5%ba%a6%e3%81%ae%e9%9b%aa) | N/A |
+| 31 | [大雪警報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e8%ad%a6%e5%a0%b1) | 大雪警報 (Daiyukkei Kōhō) is a Japanese term for a heavy snow warning. It is issued when the amount of snowfall is expected to exceed 10 cm in 24 hours or 20 cm in 48 hours. In English, it translates to "Heavy Snow Warning". |
+| 32 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
+| 33 | [雪のせい](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e3%81%9b%e3%81%84) | 雪のせい is a Japanese phrase that literally translates to "because of the snow". It is used to express the idea that something has been caused or affected by the snow. For example, if a person was late for work because of heavy snowfall, they might say "雪のせいで遅れました" (I was late because of the snow). |
+| 34 | [めちゃ雪](http://twitter.com/search?q=%e3%82%81%e3%81%a1%e3%82%83%e9%9b%aa) | めちゃ雪 is an expression used to describe a heavy snowfall. It literally translates to "crazy snow". |
+| 35 | [帰宅指示](http://twitter.com/search?q=%e5%b8%b0%e5%ae%85%e6%8c%87%e7%a4%ba) | N/A |
+| 36 | [八王子駅前](http://twitter.com/search?q=%e5%85%ab%e7%8e%8b%e5%ad%90%e9%a7%85%e5%89%8d) | N/A |
+| 37 | [予報通り](http://twitter.com/search?q=%e4%ba%88%e5%a0%b1%e9%80%9a%e3%82%8a) | N/A |
+| 38 | [大雪注意報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e6%b3%a8%e6%84%8f%e5%a0%b1) | N/A |
+| 39 | [#モーニングショー](http://twitter.com/search?q=%23%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%b7%e3%83%a7%e3%83%bc) | #モーニングショー is a Japanese hashtag that translates to "morning show" in English. It is used to tag posts related to morning shows, such as TV programs, radio shows, and other content related to the morning. |
+| 40 | [天気予報](http://twitter.com/search?q=%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1) | 天気予報 (Tenkiyohou) is a Japanese term meaning "weather forecast". It is used to refer to the prediction of weather conditions for a certain area or region. |
+| 41 | [ニットの日](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [雪の影響](http://twitter.com/search?q=%e9%9b%aa%e3%81%ae%e5%bd%b1%e9%9f%bf) | 雪の影響 is a Japanese phrase that translates to "the effects of snow". It is used to refer to the various impacts that snow can have on an area, such as transportation delays, power outages, and other disruptions. |
+| 43 | [降り始め](http://twitter.com/search?q=%e9%99%8d%e3%82%8a%e5%a7%8b%e3%82%81) | N/A |
+| 44 | [鳥居強右衛門](http://twitter.com/search?q=%e9%b3%a5%e5%b1%85%e5%bc%b7%e5%8f%b3%e8%a1%9b%e9%96%80) | N/A |
+| 45 | [不要不急の外出](http://twitter.com/search?q=%e4%b8%8d%e8%a6%81%e4%b8%8d%e6%80%a5%e3%81%ae%e5%a4%96%e5%87%ba) | 不要不急の外出 is a Japanese phrase that means "unnecessary outings". It is used to refer to going out when it is not necessary or urgent. In English, it could be translated as "avoid unnecessary outings". |
+| 46 | [貴司くん](http://twitter.com/search?q=%e8%b2%b4%e5%8f%b8%e3%81%8f%e3%82%93) | 貴司くん is a Japanese term of endearment used to refer to someone who is respected or admired. It can be translated to English as "dear sir" or "esteemed sir". |
+| 47 | [仕事休み](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e4%bc%91%e3%81%bf) | 仕事休み (shigoto yasumi) is a Japanese phrase meaning "time off from work". It is used to refer to taking a break from work, either for a day or for an extended period of time. |
+| 48 | [マシソン](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%82%bd%e3%83%b3) | マシソン (mashison) is a Japanese word that means "mansion". It is used to refer to a large, luxurious house. |
+| 49 | [平良結婚](http://twitter.com/search?q=%e5%b9%b3%e8%89%af%e7%b5%90%e5%a9%9a) | N/A |
 
 
 
