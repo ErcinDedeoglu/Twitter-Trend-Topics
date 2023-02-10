@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-10 01:44:01 UTC`
+📆 Last Updated: `2023-02-10 02:41:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DiaDelPeriodista](http://twitter.com/search?q=%23DiaDelPeriodista) | N/A |
-| 2 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 3 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 2 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 3 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
 | 4 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
 | 5 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 6 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 7 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 6 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 7 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
 | 8 | [#NoMeParece](http://twitter.com/search?q=%23NoMeParece) | N/A |
 | 9 | [#QuieroDaflores](http://twitter.com/search?q=%23QuieroDaflores) | N/A |
-| 10 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
-| 11 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 12 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
-| 13 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 14 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 15 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
-| 16 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 17 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 18 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 19 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 10 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
+| 11 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 12 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
+| 13 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 14 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 15 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
+| 16 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 17 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 18 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 19 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
 | 20 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 21 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 22 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
-| 23 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 24 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
+| 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Baier](http://twitter.com/search?q=Baier) | N/A |
+| 24 | [Duquismo](http://twitter.com/search?q=Duquismo) | N/A |
 | 25 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
-| 26 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 27 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
-| 28 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
-| 29 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 30 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
-| 31 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 32 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 33 | [Homero](http://twitter.com/search?q=Homero) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 36 | [Caín](http://twitter.com/search?q=Ca%c3%adn) | N/A |
-| 37 | [Paola Herrera](http://twitter.com/search?q=Paola+Herrera) | N/A |
-| 38 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 39 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
-| 40 | [Baracaldo](http://twitter.com/search?q=Baracaldo) | N/A |
-| 41 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 43 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
-| 44 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 45 | [Asoinca](http://twitter.com/search?q=Asoinca) | N/A |
-| 46 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 47 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 48 | [Fomag](http://twitter.com/search?q=Fomag) | N/A |
-| 49 | [Astrid Cáceres](http://twitter.com/search?q=Astrid+C%c3%a1ceres) | N/A |
+| 26 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
+| 27 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 28 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
+| 29 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
+| 30 | [Campín](http://twitter.com/search?q=Camp%c3%adn) | N/A |
+| 31 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 32 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
+| 33 | [Cauca](http://twitter.com/search?q=Cauca) | N/A |
+| 34 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Refisal](http://twitter.com/search?q=Refisal) | N/A |
+| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 38 | [Berrio](http://twitter.com/search?q=Berrio) | N/A |
+| 39 | [Caín](http://twitter.com/search?q=Ca%c3%adn) | N/A |
+| 40 | [Paola Herrera](http://twitter.com/search?q=Paola+Herrera) | N/A |
+| 41 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 42 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 43 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 44 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 45 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 46 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
+| 47 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 48 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 49 | [Baracaldo](http://twitter.com/search?q=Baracaldo) | N/A |
 
 
 

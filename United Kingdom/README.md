@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-10 01:44:55 UTC`
+📆 Last Updated: `2023-02-10 02:42:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 2 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 3 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 4 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 5 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
-| 6 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 8 | [Matthew Syed](http://twitter.com/search?q=Matthew+Syed) | N/A |
-| 9 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
-| 10 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 2 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
+| 5 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 6 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 7 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 8 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 9 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 10 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
 | 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 12 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 13 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 14 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 15 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 16 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 17 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 18 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 19 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 20 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
-| 21 | [Reece](http://twitter.com/search?q=Reece) | N/A |
-| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 23 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 24 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 25 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 26 | [rochelle](http://twitter.com/search?q=rochelle) | N/A |
-| 27 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 28 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 29 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
-| 30 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 12 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 13 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 15 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 16 | [amelie](http://twitter.com/search?q=amelie) | N/A |
+| 17 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 18 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 19 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 20 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 22 | [Reece](http://twitter.com/search?q=Reece) | N/A |
+| 23 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
+| 24 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 25 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 26 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 27 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 28 | [First Zara](http://twitter.com/search?q=First+Zara) | N/A |
+| 29 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 30 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
 | 31 | [Nads](http://twitter.com/search?q=Nads) | N/A |
 | 32 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
 | 33 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 34 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 35 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 36 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 37 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 38 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 40 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
-| 41 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 42 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 43 | [Derek Bentley](http://twitter.com/search?q=Derek+Bentley) | N/A |
-| 44 | [Walk On By](http://twitter.com/search?q=Walk+On+By) | N/A |
-| 45 | [Sorare](http://twitter.com/search?q=Sorare) | N/A |
-| 46 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 47 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 49 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 50 | [Pele](http://twitter.com/search?q=Pele) | N/A |
+| 34 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 35 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 37 | [carly rae jepsen](http://twitter.com/search?q=carly+rae+jepsen) | N/A |
+| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 39 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 40 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 41 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 42 | [#GraysonPerry](http://twitter.com/search?q=%23GraysonPerry) | N/A |
+| 43 | [#talkswithashafterdark](http://twitter.com/search?q=%23talkswithashafterdark) | N/A |
+| 44 | [#DragonsDen](http://twitter.com/search?q=%23DragonsDen) | N/A |
+| 45 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 46 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 47 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
 
 
 

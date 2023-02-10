@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-10 01:44:37 UTC`
+📆 Last Updated: `2023-02-10 02:42:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
 | 4 | [#AhbapDernegi](http://twitter.com/search?q=%23AhbapDernegi) | N/A |
 | 5 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
-| 6 | [#MüteahhitlerYargılansın](http://twitter.com/search?q=%23M%c3%bcteahhitlerYarg%c4%b1lans%c4%b1n) | N/A |
-| 7 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 8 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 9 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
-| 10 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 6 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 8 | [#MüteahhitlerYargılansın](http://twitter.com/search?q=%23M%c3%bcteahhitlerYarg%c4%b1lans%c4%b1n) | N/A |
+| 9 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 10 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
 | 11 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
 | 12 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 13 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 14 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 14 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
 | 15 | [Eline](http://twitter.com/search?q=Eline) | N/A |
 | 16 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
-| 17 | [Mihriban](http://twitter.com/search?q=Mihriban) | N/A |
-| 18 | [Hataya GazMaskesi](http://twitter.com/search?q=Hataya+GazMaskesi) | N/A |
-| 19 | [Hatice](http://twitter.com/search?q=Hatice) | N/A |
-| 20 | [Kurtulmuşlar](http://twitter.com/search?q=Kurtulmu%c5%9flar) | N/A |
-| 21 | [Yağız Ulaş](http://twitter.com/search?q=Ya%c4%9f%c4%b1z+Ula%c5%9f) | N/A |
-| 22 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
-| 23 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 24 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
-| 25 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 17 | [Hataya GazMaskesi](http://twitter.com/search?q=Hataya+GazMaskesi) | N/A |
+| 18 | [Hatice](http://twitter.com/search?q=Hatice) | N/A |
+| 19 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
+| 20 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 21 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 22 | [Kurtulmuşlar](http://twitter.com/search?q=Kurtulmu%c5%9flar) | N/A |
+| 23 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 24 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 25 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
 | 26 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
 | 27 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
-| 28 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 29 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 30 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 31 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 32 | [MONT BATTANIYE YARDIMI](http://twitter.com/search?q=MONT+BATTANIYE+YARDIMI) | N/A |
-| 33 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 34 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 35 | [HIJYEN URUNLERI](http://twitter.com/search?q=HIJYEN+URUNLERI) | N/A |
-| 36 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
-| 37 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
-| 38 | [Kötülüğün](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bc%c4%9f%c3%bcn) | N/A |
-| 39 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 40 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 41 | [Bozuk](http://twitter.com/search?q=Bozuk) | N/A |
-| 42 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
-| 43 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 44 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 45 | [Konya'ya](http://twitter.com/search?q=Konya%27ya) | N/A |
-| 46 | [Hayret](http://twitter.com/search?q=Hayret) | N/A |
-| 47 | [Başına](http://twitter.com/search?q=Ba%c5%9f%c4%b1na) | N/A |
-| 48 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
-| 49 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 50 | [Gülsüm](http://twitter.com/search?q=G%c3%bcls%c3%bcm) | N/A |
+| 28 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 29 | [Birol](http://twitter.com/search?q=Birol) | N/A |
+| 30 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 31 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 32 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 33 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
+| 34 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
+| 35 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 36 | [Hayret](http://twitter.com/search?q=Hayret) | N/A |
+| 37 | [Bozuk](http://twitter.com/search?q=Bozuk) | N/A |
+| 38 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 39 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
+| 40 | [Kötülüğün](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bc%c4%9f%c3%bcn) | N/A |
+| 41 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 42 | [Başına](http://twitter.com/search?q=Ba%c5%9f%c4%b1na) | N/A |
+| 43 | [misvak](http://twitter.com/search?q=misvak) | N/A |
+| 44 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
+| 45 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
+| 46 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
+| 47 | [Mucize](http://twitter.com/search?q=Mucize) | N/A |
+| 48 | [Hırsızlık](http://twitter.com/search?q=H%c4%b1rs%c4%b1zl%c4%b1k) | N/A |
+| 49 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
+| 50 | [#starbucksbitti](http://twitter.com/search?q=%23starbucksbitti) | N/A |
 
 
 

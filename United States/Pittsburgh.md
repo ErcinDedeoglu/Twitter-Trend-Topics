@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-10 01:44:44 UTC`
+📆 Last Updated: `2023-02-10 02:42:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 3 | [Matisse](http://twitter.com/search?q=Matisse) | N/A |
-| 4 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
-| 7 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 8 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 9 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 10 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 11 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 12 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
-| 13 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 14 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 15 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 16 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
-| 17 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
-| 18 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 19 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 20 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 21 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 22 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
-| 23 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 24 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 25 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 26 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 27 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
-| 28 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
-| 29 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 30 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 31 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 34 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 35 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 36 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 37 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 38 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 39 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 40 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 41 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 42 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 43 | [Dougie Hamilton](http://twitter.com/search?q=Dougie+Hamilton) | N/A |
-| 44 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 45 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
-| 46 | [Turley](http://twitter.com/search?q=Turley) | N/A |
-| 47 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 1 | [#Flyers](http://twitter.com/search?q=%23Flyers) | N/A |
+| 2 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 3 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 4 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 5 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 6 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 7 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 8 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 9 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 10 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 11 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 12 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 13 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
+| 14 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
+| 15 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 16 | [Sauce Gardner](http://twitter.com/search?q=Sauce+Gardner) | N/A |
+| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 18 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 19 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
+| 20 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 21 | [Micah Parsons](http://twitter.com/search?q=Micah+Parsons) | N/A |
+| 22 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 23 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
+| 24 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 25 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 26 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 27 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
+| 28 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 29 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 30 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
+| 31 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 32 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 33 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 34 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Offensive Player of the Year](http://twitter.com/search?q=Offensive+Player+of+the+Year) | N/A |
+| 37 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
+| 38 | [Dougie](http://twitter.com/search?q=Dougie) | N/A |
+| 39 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 40 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 41 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 42 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 43 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 44 | [Woolen](http://twitter.com/search?q=Woolen) | N/A |
+| 45 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
+| 46 | [Cotter](http://twitter.com/search?q=Cotter) | N/A |
+| 47 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
+| 48 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 49 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
 
 
 

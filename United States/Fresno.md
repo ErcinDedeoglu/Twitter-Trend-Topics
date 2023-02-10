@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-10 01:44:40 UTC`
+📆 Last Updated: `2023-02-10 02:42:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 2 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 3 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 5 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 6 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 7 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 8 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 9 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 10 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 13 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 14 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 15 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 16 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 17 | [Kennard](http://twitter.com/search?q=Kennard) | N/A |
-| 18 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
-| 19 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
-| 20 | [The Warriors](http://twitter.com/search?q=The+Warriors) | N/A |
-| 21 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 22 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 23 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
-| 24 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 25 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 26 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 27 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 29 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 30 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
-| 31 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
-| 32 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 33 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 34 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
-| 35 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 36 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 37 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 38 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 39 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 40 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 41 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
-| 42 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
-| 43 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 44 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 45 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 47 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 48 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 49 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 50 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 1 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 2 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 3 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 4 | [GPII](http://twitter.com/search?q=GPII) | N/A |
+| 5 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
+| 6 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 7 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
+| 8 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 9 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
+| 10 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 12 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
+| 13 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 14 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 15 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 16 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 17 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 18 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 19 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
+| 20 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 21 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 22 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 23 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 24 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 25 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 26 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 27 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 28 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 29 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 30 | [Sauce Gardner](http://twitter.com/search?q=Sauce+Gardner) | N/A |
+| 31 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 32 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 33 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 34 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
+| 35 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 36 | [Micah Parsons](http://twitter.com/search?q=Micah+Parsons) | N/A |
+| 37 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 38 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
+| 39 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 40 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 41 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 42 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
+| 43 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
+| 44 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 45 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 46 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 47 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 48 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 49 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
 
 
 

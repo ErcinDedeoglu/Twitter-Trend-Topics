@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-10 01:43:58 UTC`
+📆 Last Updated: `2023-02-10 02:41:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 2 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 5 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 6 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
-| 7 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 8 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 9 | [#DreamzensVsOT26](http://twitter.com/search?q=%23DreamzensVsOT26) | N/A |
-| 10 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 11 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
-| 12 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
-| 13 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 14 | [#playdoitmexico](http://twitter.com/search?q=%23playdoitmexico) | N/A |
-| 15 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 16 | [Ramón Urías](http://twitter.com/search?q=Ram%c3%b3n+Ur%c3%adas) | N/A |
-| 17 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 18 | [Sayonara](http://twitter.com/search?q=Sayonara) | N/A |
-| 19 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 20 | [Camberos](http://twitter.com/search?q=Camberos) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
-| 23 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 24 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 25 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 26 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 27 | [Joma](http://twitter.com/search?q=Joma) | N/A |
-| 28 | [KIM LOAIZA](http://twitter.com/search?q=KIM+LOAIZA) | N/A |
-| 29 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 30 | [Debanhi](http://twitter.com/search?q=Debanhi) | N/A |
-| 31 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 32 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 33 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 34 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 36 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
-| 37 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 38 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 39 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 40 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 41 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 42 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
-| 43 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 44 | [Mauricio Culebro](http://twitter.com/search?q=Mauricio+Culebro) | N/A |
-| 45 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 46 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 47 | [Compra](http://twitter.com/search?q=Compra) | N/A |
-| 48 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 49 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 2 | [#CristianReyEnPlaydoit](http://twitter.com/search?q=%23CristianReyEnPlaydoit) | N/A |
+| 3 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 4 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 5 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 6 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 7 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
+| 8 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 9 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 10 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
+| 11 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 12 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 13 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 14 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 15 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
+| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 17 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 19 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
+| 20 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 21 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
+| 22 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 24 | [Ramón Urías](http://twitter.com/search?q=Ram%c3%b3n+Ur%c3%adas) | N/A |
+| 25 | [Camberos](http://twitter.com/search?q=Camberos) | N/A |
+| 26 | [Sayonara](http://twitter.com/search?q=Sayonara) | N/A |
+| 27 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
+| 28 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 29 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 30 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 31 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
+| 32 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 33 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
+| 34 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
+| 35 | [Joma](http://twitter.com/search?q=Joma) | N/A |
+| 36 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 37 | [Debanhi](http://twitter.com/search?q=Debanhi) | N/A |
+| 38 | [Jornada 6](http://twitter.com/search?q=Jornada+6) | N/A |
+| 39 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 40 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
+| 41 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 42 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 43 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 44 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
+| 45 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
+| 46 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 47 | [Luis Cárdenas Palomino](http://twitter.com/search?q=Luis+C%c3%a1rdenas+Palomino) | N/A |
+| 48 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 49 | [Compra](http://twitter.com/search?q=Compra) | N/A |
 
 
 

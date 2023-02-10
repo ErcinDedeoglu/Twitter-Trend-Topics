@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-10 01:44:44 UTC`
+📆 Last Updated: `2023-02-10 02:42:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 2 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 3 | [Morey](http://twitter.com/search?q=Morey) | N/A |
-| 4 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 6 | [Matisse](http://twitter.com/search?q=Matisse) | N/A |
-| 7 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
-| 10 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 11 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 12 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 13 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 14 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 15 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 16 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 17 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
-| 18 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 19 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
-| 20 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
-| 21 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 22 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 23 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 24 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
-| 25 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 26 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 27 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 28 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 29 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 30 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 31 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
-| 32 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
-| 33 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 34 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 35 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 38 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 39 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 40 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 41 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 42 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 43 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 44 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 45 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 46 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 47 | [Dougie Hamilton](http://twitter.com/search?q=Dougie+Hamilton) | N/A |
-| 48 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 49 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
-| 50 | [Turley](http://twitter.com/search?q=Turley) | N/A |
+| 2 | [#NBATradeDeadline](http://twitter.com/search?q=%23NBATradeDeadline) | N/A |
+| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 5 | [Thybulle](http://twitter.com/search?q=Thybulle) | N/A |
+| 6 | [Morey](http://twitter.com/search?q=Morey) | N/A |
+| 7 | [#Flyers](http://twitter.com/search?q=%23Flyers) | N/A |
+| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 9 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 10 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 11 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 12 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 13 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 15 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 16 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 17 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 18 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 19 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
+| 20 | [Sauce Gardner](http://twitter.com/search?q=Sauce+Gardner) | N/A |
+| 21 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 23 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 24 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
+| 25 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 26 | [Micah Parsons](http://twitter.com/search?q=Micah+Parsons) | N/A |
+| 27 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 28 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 29 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
+| 30 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 31 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 32 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 33 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
+| 34 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
+| 35 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 37 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 38 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
+| 39 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 40 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 41 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 42 | [Offensive Player of the Year](http://twitter.com/search?q=Offensive+Player+of+the+Year) | N/A |
+| 43 | [Dougie](http://twitter.com/search?q=Dougie) | N/A |
+| 44 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 45 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 46 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
+| 47 | [Woolen](http://twitter.com/search?q=Woolen) | N/A |
+| 48 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 49 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 50 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
 
 
 
