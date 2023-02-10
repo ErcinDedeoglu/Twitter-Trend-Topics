@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-10 05:16:16 UTC`
+📆 Last Updated: `2023-02-10 06:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,14 +38,14 @@ This is top 50 for Denmark
 | 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 22 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
 | 23 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 24 | [samsam](http://twitter.com/search?q=samsam) | N/A |
+| 24 | [Samsam](http://twitter.com/search?q=Samsam) | N/A |
 | 25 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 26 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 | 27 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
 | 28 | [Clem](http://twitter.com/search?q=Clem) | N/A |
 | 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Tyrkiet](http://twitter.com/search?q=Tyrkiet) | N/A |
+| 30 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
+| 31 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 32 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 33 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 | 34 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
@@ -56,15 +56,15 @@ This is top 50 for Denmark
 | 39 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 40 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
 | 41 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 42 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 44 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 46 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 47 | [Dansk](http://twitter.com/search?q=Dansk) | N/A |
-| 48 | [folketinget](http://twitter.com/search?q=folketinget) | N/A |
-| 49 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 50 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 44 | [West](http://twitter.com/search?q=West) | N/A |
+| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 46 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 48 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 49 | [dansk](http://twitter.com/search?q=dansk) | N/A |
+| 50 | [folketinget](http://twitter.com/search?q=folketinget) | N/A |
 
 
 

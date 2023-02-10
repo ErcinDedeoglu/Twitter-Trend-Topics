@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-10 05:15:54 UTC`
+📆 Last Updated: `2023-02-10 06:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,41 +21,41 @@ This is top 50 for [Algeria](</Algeria>)
 | 4 | [الانباء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 5 | [خليج الخنازير](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d8%ac+%d8%a7%d9%84%d8%ae%d9%86%d8%a7%d8%b2%d9%8a%d8%b1) | N/A |
 | 6 | [اميره بوراوي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%87+%d8%a8%d9%88%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 7 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 8 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 7 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 8 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 9 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
 | 10 | [وكالة الأنباء الجزائرية](http://twitter.com/search?q=%d9%88%d9%83%d8%a7%d9%84%d8%a9+%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9) | N/A |
 | 11 | [الحمايه المدنيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 12 | [سفير الجزاير](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
-| 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [التعبيه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 15 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 13 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 14 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 15 | [التعبيه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 16 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 17 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
 | 18 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 19 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
-| 20 | [المجموعه الاستشاريه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 21 | [#زلزال_شرق_المتوسط](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b4%d8%b1%d9%82_%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
-| 22 | [القطيعه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%8a%d8%b9%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 23 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 24 | [مصطفى غربال](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
-| 25 | [الخارجيه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
-| 26 | [السياده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [المصالح الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
-| 28 | [كوبا](http://twitter.com/search?q=%d9%83%d9%88%d8%a8%d8%a7) | N/A |
+| 19 | [المجموعه الاستشاريه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 20 | [#زلزال_شرق_المتوسط](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b4%d8%b1%d9%82_%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 21 | [القطيعه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%8a%d8%b9%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 22 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 23 | [مصطفى غربال](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
+| 24 | [الخارجيه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 25 | [السياده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 26 | [المصالح الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 27 | [كوبا](http://twitter.com/search?q=%d9%83%d9%88%d8%a8%d8%a7) | N/A |
+| 28 | [#الجزاير_دوله_ذات_سياده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%af%d9%88%d9%84%d9%87_%d8%b0%d8%a7%d8%aa_%d8%b3%d9%8a%d8%a7%d8%af%d9%87) | N/A |
 | 29 | [المرتبه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 30 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 31 | [amira bouraoui](http://twitter.com/search?q=amira+bouraoui) | N/A |
+| 30 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 31 | [Amira Bouraoui](http://twitter.com/search?q=Amira+Bouraoui) | N/A |
 | 32 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
-| 33 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 33 | [المعارضه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 34 | [وزير الاتصال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
 | 35 | [DGSE](http://twitter.com/search?q=DGSE) | N/A |
 | 36 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 37 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 38 | [علي الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
 | 39 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 40 | [الحكم الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 41 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 40 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 41 | [الحكم الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 42 | [النظام الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 43 | [سيدي يوسف](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 44 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 46 | [انور مالك](http://twitter.com/search?q=%d8%a7%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d9%84%d9%83) | N/A |
 | 47 | [مناطق المعارضه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87) | N/A |
 | 48 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
-| 49 | [المخابرات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 49 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 50 | [المخابرات الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

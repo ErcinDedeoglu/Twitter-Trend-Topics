@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-10 05:15:30 UTC`
+📆 Last Updated: `2023-02-10 06:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 2 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 3 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 4 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 5 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
-| 6 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 7 | [#AbsolutNights](http://twitter.com/search?q=%23AbsolutNights) | N/A |
-| 8 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
-| 9 | [Víctor Guzmán](http://twitter.com/search?q=V%c3%adctor+Guzm%c3%a1n) | N/A |
-| 10 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 11 | [#EsquizosDMC](http://twitter.com/search?q=%23EsquizosDMC) | N/A |
-| 12 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 13 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 14 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 15 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
-| 16 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 17 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 18 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 19 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 20 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 21 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 22 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
-| 23 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 24 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 25 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
-| 26 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 27 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 28 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
-| 29 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 30 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 31 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 32 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 33 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 34 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 35 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 36 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 37 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
-| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 39 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 40 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 41 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 43 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 44 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 45 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
-| 46 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 47 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
-| 48 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 49 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 50 | [INFIELES](http://twitter.com/search?q=INFIELES) | N/A |
+| 2 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 3 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 4 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 5 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 6 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
+| 7 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 8 | [#AbsolutNights](http://twitter.com/search?q=%23AbsolutNights) | N/A |
+| 9 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 10 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
+| 11 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 13 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 15 | [#Rayados](http://twitter.com/search?q=%23Rayados) | N/A |
+| 16 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 17 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 19 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 20 | [#EsquizosDMC](http://twitter.com/search?q=%23EsquizosDMC) | N/A |
+| 21 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 22 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 23 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 24 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 25 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 26 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 27 | [Vucetich](http://twitter.com/search?q=Vucetich) | N/A |
+| 28 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 29 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 30 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
+| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 32 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 33 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 34 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 35 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 36 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 37 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 38 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 39 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 40 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 41 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 42 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 43 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 44 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 45 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 46 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
+| 47 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 48 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 49 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 50 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 
 
 

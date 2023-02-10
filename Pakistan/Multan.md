@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-10 05:16:00 UTC`
+📆 Last Updated: `2023-02-10 06:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Saint Rampal Ji](http://twitter.com/search?q=Saint+Rampal+Ji) | N/A |
 | 7 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
 | 8 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 9 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 11 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
-| 12 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 13 | [adil raja](http://twitter.com/search?q=adil+raja) | N/A |
-| 14 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 15 | [sanam saeed](http://twitter.com/search?q=sanam+saeed) | N/A |
-| 16 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
-| 17 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 18 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 19 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 20 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
-| 21 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
-| 22 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 23 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 24 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 25 | [islamabad united](http://twitter.com/search?q=islamabad+united) | N/A |
-| 26 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 27 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 9 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 10 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
+| 11 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 13 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
+| 14 | [Adil raja](http://twitter.com/search?q=Adil+raja) | N/A |
+| 15 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 16 | [sanam saeed](http://twitter.com/search?q=sanam+saeed) | N/A |
+| 17 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
+| 18 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 19 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 20 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 21 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 22 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 23 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 24 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
+| 25 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 26 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 27 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
 | 28 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 29 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
-| 30 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
+| 29 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
+| 30 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
 | 31 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 32 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
-| 33 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
-| 34 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
-| 35 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 36 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 37 | [Awam](http://twitter.com/search?q=Awam) | N/A |
-| 38 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 39 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 40 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 41 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
-| 42 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 43 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 44 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 45 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
-| 46 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 49 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 32 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 33 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 34 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 38 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 39 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 40 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
+| 41 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 42 | [Cow Hug Day](http://twitter.com/search?q=Cow+Hug+Day) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 45 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 46 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 47 | [Awam](http://twitter.com/search?q=Awam) | N/A |
+| 48 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
+| 49 | [iPad](http://twitter.com/search?q=iPad) | N/A |
 
 
 

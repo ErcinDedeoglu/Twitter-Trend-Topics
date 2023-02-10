@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-10 05:15:28 UTC`
+📆 Last Updated: `2023-02-10 06:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,38 +30,38 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 13 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 14 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 16 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 17 | [Free Nickelodeon Mint](http://twitter.com/search?q=Free+Nickelodeon+Mint) | N/A |
-| 18 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 19 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 20 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 21 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 22 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 23 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 16 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 17 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 18 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 19 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 20 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 21 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 22 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 23 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
 | 24 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 25 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 28 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 29 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 30 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 31 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 32 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 34 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 36 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 39 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 40 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 41 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 42 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 43 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 44 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 45 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 46 | [Daily Quordle 381](http://twitter.com/search?q=Daily+Quordle+381) | N/A |
-| 47 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 25 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 27 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 28 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 29 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 30 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 31 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 32 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 34 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 35 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 37 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 38 | [Worcester warriors](http://twitter.com/search?q=Worcester+warriors) | N/A |
+| 39 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 40 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 42 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 44 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 45 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
 
 
 

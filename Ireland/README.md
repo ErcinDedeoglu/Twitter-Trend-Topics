@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-10 05:16:17 UTC`
+📆 Last Updated: `2023-02-10 06:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Ireland
 | 4 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
 | 5 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
 | 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 7 | [#firstdatesirl](http://twitter.com/search?q=%23firstdatesirl) | N/A |
+| 7 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
 | 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 9 | [fianna fáil](http://twitter.com/search?q=fianna+f%c3%a1il) | N/A |
 | 10 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for Ireland
 | 14 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
 | 15 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 16 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 17 | [Macdara](http://twitter.com/search?q=Macdara) | N/A |
+| 17 | [macdara](http://twitter.com/search?q=macdara) | N/A |
 | 18 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
 | 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
@@ -59,7 +59,7 @@ This is top 50 for Ireland
 | 42 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
 | 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 44 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 45 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 45 | [good friday agreement](http://twitter.com/search?q=good+friday+agreement) | N/A |
 | 46 | [President](http://twitter.com/search?q=President) | N/A |
 | 47 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 | 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |

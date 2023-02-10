@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-10 05:16:07 UTC`
+📆 Last Updated: `2023-02-10 06:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 2 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 3 | [Willie Anderson](http://twitter.com/search?q=Willie+Anderson) | N/A |
-| 4 | [Zac Taylor](http://twitter.com/search?q=Zac+Taylor) | Zac Taylor is the head coach of the Cincinnati Bengals, an American football team in the National Football League (NFL). He was hired in 2019 and is the youngest head coach in the NFL. The name Zac Taylor comes from his given name Zachary Taylor. |
-| 5 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 8 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 9 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 10 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 11 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 12 | [Devin Hester](http://twitter.com/search?q=Devin+Hester) | Devin Hester is a former American football player who played as a return specialist and wide receiver in the National Football League (NFL). He is widely considered to be one of the greatest return specialists in NFL history, having returned 20 kickoffs and 14 punts for touchdowns during his career. |
-| 13 | [Canton](http://twitter.com/search?q=Canton) | N/A |
-| 14 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
-| 15 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
-| 16 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 17 | [#EmrelerDeyiz](http://twitter.com/search?q=%23EmrelerDeyiz) | N/A |
-| 18 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
-| 19 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 20 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
-| 21 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
-| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 23 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 24 | [Brian Daboll](http://twitter.com/search?q=Brian+Daboll) | Brian Daboll is an American football coach who is currently the offensive coordinator for the Buffalo Bills of the National Football League (NFL). He has previously served as an offensive coordinator for the New England Patriots, Miami Dolphins, and Cleveland Browns. The name Brian Daboll is derived from his last name, which is pronounced "dah-bowl". |
-| 25 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 26 | [#MVPat](http://twitter.com/search?q=%23MVPat) | N/A |
-| 27 | [Joe Klecko](http://twitter.com/search?q=Joe+Klecko) | N/A |
-| 28 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
+| 1 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
+| 2 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
+| 3 | [Congrats Joe](http://twitter.com/search?q=Congrats+Joe) | N/A |
+| 4 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 5 | [Willie Anderson](http://twitter.com/search?q=Willie+Anderson) | N/A |
+| 6 | [Jim Brown](http://twitter.com/search?q=Jim+Brown) | N/A |
+| 7 | [#Buckeyes](http://twitter.com/search?q=%23Buckeyes) | N/A |
+| 8 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
+| 9 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 11 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 12 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 14 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 15 | [Devin Hester](http://twitter.com/search?q=Devin+Hester) | Devin Hester is a former American football player who played as a return specialist and wide receiver in the National Football League (NFL). He is widely considered to be one of the greatest return specialists in NFL history, having returned 20 kickoffs and 14 punts for touchdowns during his career. |
+| 16 | [#LavenderHazeRemix](http://twitter.com/search?q=%23LavenderHazeRemix) | N/A |
+| 17 | [Canton](http://twitter.com/search?q=Canton) | N/A |
+| 18 | [Ronde Barber](http://twitter.com/search?q=Ronde+Barber) | N/A |
+| 19 | [#EmrelerDeyiz](http://twitter.com/search?q=%23EmrelerDeyiz) | N/A |
+| 20 | [Walter Payton](http://twitter.com/search?q=Walter+Payton) | N/A |
+| 21 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 22 | [Patrick Willis](http://twitter.com/search?q=Patrick+Willis) | N/A |
+| 23 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 24 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 25 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
+| 26 | [Ken Riley](http://twitter.com/search?q=Ken+Riley) | N/A |
+| 27 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 28 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
 | 29 | [Don Coryell](http://twitter.com/search?q=Don+Coryell) | N/A |
-| 30 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 31 | [Coach of the Year](http://twitter.com/search?q=Coach+of+the+Year) | N/A |
-| 32 | [DeMarcus Ware](http://twitter.com/search?q=DeMarcus+Ware) | N/A |
-| 33 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
-| 34 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
-| 35 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 36 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
-| 37 | [NFL MVP](http://twitter.com/search?q=NFL+MVP) | N/A |
-| 38 | [Denny Kellington](http://twitter.com/search?q=Denny+Kellington) | N/A |
-| 39 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 40 | [COTY](http://twitter.com/search?q=COTY) | N/A |
-| 41 | [Chuck Howley](http://twitter.com/search?q=Chuck+Howley) | N/A |
-| 42 | [Andre Johnson](http://twitter.com/search?q=Andre+Johnson) | N/A |
-| 43 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
-| 44 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 45 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
-| 46 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 47 | [Torry Holt](http://twitter.com/search?q=Torry+Holt) | N/A |
-| 48 | [Sauce](http://twitter.com/search?q=Sauce) | N/A |
-| 49 | [Super Bowl MVP](http://twitter.com/search?q=Super+Bowl+MVP) | N/A |
-| 50 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 30 | [Brian Daboll](http://twitter.com/search?q=Brian+Daboll) | Brian Daboll is an American football coach who is currently the offensive coordinator for the Buffalo Bills of the National Football League (NFL). He has previously served as an offensive coordinator for the New England Patriots, Miami Dolphins, and Cleveland Browns. The name Brian Daboll is derived from his last name, which is pronounced "dah-bowl". |
+| 31 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
+| 32 | [Thick Skull](http://twitter.com/search?q=Thick+Skull) | N/A |
+| 33 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 34 | [Dak Prescott](http://twitter.com/search?q=Dak+Prescott) | Dak Prescott is an American football player who currently plays for the Dallas Cowboys of the National Football League (NFL). He is a quarterback and was drafted in the fourth round of the 2016 NFL Draft. The name "Dak" is short for his given name, Rayne Dakota Prescott. |
+| 35 | [Joe Klecko](http://twitter.com/search?q=Joe+Klecko) | N/A |
+| 36 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 37 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 38 | [Anytime AD](http://twitter.com/search?q=Anytime+AD) | N/A |
+| 39 | [Coach of the Year](http://twitter.com/search?q=Coach+of+the+Year) | N/A |
+| 40 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 41 | [DeMarcus Ware](http://twitter.com/search?q=DeMarcus+Ware) | N/A |
+| 42 | [Little Dignity](http://twitter.com/search?q=Little+Dignity) | N/A |
+| 43 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 44 | [Andre Johnson](http://twitter.com/search?q=Andre+Johnson) | N/A |
+| 45 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
+| 46 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 47 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 48 | [COTY](http://twitter.com/search?q=COTY) | N/A |
+| 49 | [NFL MVP](http://twitter.com/search?q=NFL+MVP) | N/A |
+| 50 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
 
 
 

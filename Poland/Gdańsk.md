@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-10 05:15:37 UTC`
+📆 Last Updated: `2023-02-10 06:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [sikorski](http://twitter.com/search?q=sikorski) | N/A |
+| 1 | [Sikorski](http://twitter.com/search?q=Sikorski) | N/A |
 | 2 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 3 | [#bestselleryempiku](http://twitter.com/search?q=%23bestselleryempiku) | N/A |
-| 4 | [kowalskiego](http://twitter.com/search?q=kowalskiego) | N/A |
+| 4 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
 | 5 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
 | 6 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 7 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
-| 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 8 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
 | 9 | [kantar](http://twitter.com/search?q=kantar) | N/A |
 | 10 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
 | 11 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
@@ -31,39 +31,39 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
 | 15 | [#hejteduUzi](http://twitter.com/search?q=%23hejteduUzi) | N/A |
 | 16 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
-| 17 | [bobrownikach](http://twitter.com/search?q=bobrownikach) | N/A |
-| 18 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 19 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 20 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 21 | [międzynarodowy dzień pizzy](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+pizzy) | N/A |
-| 22 | [mateusz murański](http://twitter.com/search?q=mateusz+mura%c5%84ski) | N/A |
-| 23 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
-| 24 | [glapińskiego](http://twitter.com/search?q=glapi%c5%84skiego) | N/A |
-| 25 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 26 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 27 | [andrzeja poczobuta](http://twitter.com/search?q=andrzeja+poczobuta) | N/A |
-| 28 | [białorusi](http://twitter.com/search?q=bia%c5%82orusi) | N/A |
-| 29 | [emiraty](http://twitter.com/search?q=emiraty) | N/A |
-| 30 | [arabami](http://twitter.com/search?q=arabami) | N/A |
-| 31 | [marcel jastrzębski](http://twitter.com/search?q=marcel+jastrz%c4%99bski) | N/A |
-| 32 | [kidawy](http://twitter.com/search?q=kidawy) | N/A |
-| 33 | [radzio](http://twitter.com/search?q=radzio) | N/A |
-| 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [7th Pic](http://twitter.com/search?q=7th+Pic) | N/A |
-| 36 | [parlamencie europejskim](http://twitter.com/search?q=parlamencie+europejskim) | N/A |
-| 37 | [Last Song](http://twitter.com/search?q=Last+Song) | N/A |
-| 38 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 39 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
-| 40 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 41 | [szymczyk](http://twitter.com/search?q=szymczyk) | N/A |
-| 42 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 43 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 44 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 45 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
-| 46 | [nauczyciel](http://twitter.com/search?q=nauczyciel) | N/A |
-| 47 | [syrii](http://twitter.com/search?q=syrii) | N/A |
-| 48 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
-| 49 | [parośli](http://twitter.com/search?q=paro%c5%9bli) | N/A |
+| 17 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 18 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 19 | [międzynarodowy dzień pizzy](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+pizzy) | N/A |
+| 20 | [mateusz murański](http://twitter.com/search?q=mateusz+mura%c5%84ski) | N/A |
+| 21 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
+| 22 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 23 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
+| 24 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 25 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 26 | [andrzeja poczobuta](http://twitter.com/search?q=andrzeja+poczobuta) | N/A |
+| 27 | [emiraty](http://twitter.com/search?q=emiraty) | N/A |
+| 28 | [arabami](http://twitter.com/search?q=arabami) | N/A |
+| 29 | [marcel jastrzębski](http://twitter.com/search?q=marcel+jastrz%c4%99bski) | N/A |
+| 30 | [kidawy](http://twitter.com/search?q=kidawy) | N/A |
+| 31 | [radzio](http://twitter.com/search?q=radzio) | N/A |
+| 32 | [7th Pic](http://twitter.com/search?q=7th+Pic) | N/A |
+| 33 | [parlamencie europejskim](http://twitter.com/search?q=parlamencie+europejskim) | N/A |
+| 34 | [Last Song](http://twitter.com/search?q=Last+Song) | N/A |
+| 35 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 36 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 37 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
+| 38 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 39 | [szymczyk](http://twitter.com/search?q=szymczyk) | N/A |
+| 40 | [dubaju](http://twitter.com/search?q=dubaju) | N/A |
+| 41 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 42 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 43 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 44 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
+| 45 | [nauczyciel](http://twitter.com/search?q=nauczyciel) | N/A |
+| 46 | [syrii](http://twitter.com/search?q=syrii) | N/A |
+| 47 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
+| 48 | [parośli](http://twitter.com/search?q=paro%c5%9bli) | N/A |
+| 49 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 
 
 

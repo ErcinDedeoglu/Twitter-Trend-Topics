@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-10 05:15:53 UTC`
+📆 Last Updated: `2023-02-10 06:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
 | 5 | [#NANON_UNIDWDMV](http://twitter.com/search?q=%23NANON_UNIDWDMV) | N/A |
 | 6 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 7 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 8 | [Unidentified Wonder](http://twitter.com/search?q=Unidentified+Wonder) | N/A |
-| 9 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 10 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
-| 11 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 12 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 13 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 14 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
-| 15 | [YÊN BÁI](http://twitter.com/search?q=Y%c3%8aN+B%c3%81I) | N/A |
-| 16 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 17 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
+| 7 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 8 | [UNIDENTIFIED WONDER](http://twitter.com/search?q=UNIDENTIFIED+WONDER) | N/A |
+| 9 | [DREW HELP OUR NUNS](http://twitter.com/search?q=DREW+HELP+OUR+NUNS) | N/A |
+| 10 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 11 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 12 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 13 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
+| 14 | [YÊN BÁI](http://twitter.com/search?q=Y%c3%8aN+B%c3%81I) | N/A |
+| 15 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 16 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
+| 17 | [The Year of DeFi](http://twitter.com/search?q=The+Year+of+DeFi) | N/A |
 | 18 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 19 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 20 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
 | 21 | [Thổ Nhĩ Kỳ](http://twitter.com/search?q=Th%e1%bb%95+Nh%c4%a9+K%e1%bb%b3) | N/A |
-| 22 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
-| 23 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 24 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 25 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
-| 26 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 29 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
-| 30 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
-| 31 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 32 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 33 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 34 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 35 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 36 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 37 | [West](http://twitter.com/search?q=West) | N/A |
-| 38 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 39 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 40 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 41 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 43 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 44 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 45 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 46 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 47 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 48 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 49 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 50 | [Tiếp](http://twitter.com/search?q=Ti%e1%ba%bfp) | N/A |
+| 22 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 23 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 24 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
+| 25 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 26 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
+| 27 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 30 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 31 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
+| 32 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 33 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 34 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 36 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 37 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 38 | [West](http://twitter.com/search?q=West) | N/A |
+| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 40 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 41 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 42 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 43 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 45 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 46 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 48 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 49 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
+| 50 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-02-10 05:16:02 UTC`
+📆 Last Updated: `2023-02-10 06:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
-| 2 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
-| 3 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
-| 4 | [Lowest Travel With EaseMyTrip](http://twitter.com/search?q=Lowest+Travel+With+EaseMyTrip) | N/A |
-| 5 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
-| 6 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
-| 7 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
+| 1 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
+| 2 | [#VashInCinemas](http://twitter.com/search?q=%23VashInCinemas) | N/A |
+| 3 | [#OPPOReno8TonFlipkart](http://twitter.com/search?q=%23OPPOReno8TonFlipkart) | N/A |
+| 4 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
+| 5 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
+| 6 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 7 | [Lowest Travel With EaseMyTrip](http://twitter.com/search?q=Lowest+Travel+With+EaseMyTrip) | N/A |
 | 8 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 9 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 10 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 11 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 12 | [Lithium](http://twitter.com/search?q=Lithium) | N/A |
-| 13 | [AzaadiSAT-2](http://twitter.com/search?q=AzaadiSAT-2) | N/A |
-| 14 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 15 | [Happy Wedding Anniversary](http://twitter.com/search?q=Happy+Wedding+Anniversary) | N/A |
-| 16 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 17 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 18 | [जैसी सामाजिक](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95) | N/A |
-| 19 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 20 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 21 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 22 | [MSCI](http://twitter.com/search?q=MSCI) | N/A |
-| 23 | [Adjusted](http://twitter.com/search?q=Adjusted) | N/A |
-| 24 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 25 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 26 | [Harami](http://twitter.com/search?q=Harami) | N/A |
-| 27 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
-| 28 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 29 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
-| 30 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
-| 31 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 32 | [#HazardsOfValentinesDay](http://twitter.com/search?q=%23HazardsOfValentinesDay) | N/A |
-| 33 | [#SaveLumbiniFromBrahmanisation](http://twitter.com/search?q=%23SaveLumbiniFromBrahmanisation) | N/A |
-| 34 | [#HealthyLiving](http://twitter.com/search?q=%23HealthyLiving) | N/A |
-| 35 | [#किसान_नेता_राजेश_पायलट](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8_%e0%a4%a8%e0%a5%87%e0%a4%a4%e0%a4%be_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6_%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 36 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 37 | [#teddyday](http://twitter.com/search?q=%23teddyday) | N/A |
-| 38 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 39 | [#HappyAnniversaryNamrataMahesh](http://twitter.com/search?q=%23HappyAnniversaryNamrataMahesh) | N/A |
-| 40 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 41 | [#RajeshPilot](http://twitter.com/search?q=%23RajeshPilot) | N/A |
-| 42 | [#KumarVishwas](http://twitter.com/search?q=%23KumarVishwas) | N/A |
-| 43 | [#Sriharikota](http://twitter.com/search?q=%23Sriharikota) | N/A |
-| 44 | [#D56Update](http://twitter.com/search?q=%23D56Update) | N/A |
-| 45 | [#NamrataShirodkar](http://twitter.com/search?q=%23NamrataShirodkar) | N/A |
-| 46 | [#GlobalInvestorsSummit](http://twitter.com/search?q=%23GlobalInvestorsSummit) | N/A |
-| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 49 | [#MaheshBabu](http://twitter.com/search?q=%23MaheshBabu) | N/A |
+| 9 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
+| 10 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 11 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
+| 12 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
+| 13 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 14 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 15 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 16 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 17 | [AzaadiSAT-2](http://twitter.com/search?q=AzaadiSAT-2) | N/A |
+| 18 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 19 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 20 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 21 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 22 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
+| 23 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 24 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 25 | [Small Satellite Launch Vehicle](http://twitter.com/search?q=Small+Satellite+Launch+Vehicle) | N/A |
+| 26 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 27 | [जैसी सामाजिक](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95) | N/A |
+| 28 | [UPGIS-2023](http://twitter.com/search?q=UPGIS-2023) | N/A |
+| 29 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 30 | [Happy Wedding Anniversary](http://twitter.com/search?q=Happy+Wedding+Anniversary) | N/A |
+| 31 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 32 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 33 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
+| 34 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 35 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 36 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 37 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
+| 38 | [Adjusted](http://twitter.com/search?q=Adjusted) | N/A |
+| 39 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 40 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 41 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
+| 42 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 43 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 44 | [Harami](http://twitter.com/search?q=Harami) | N/A |
+| 45 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
+| 46 | [Ash anna](http://twitter.com/search?q=Ash+anna) | Ash anna is a term used in the Indian state of Tamil Nadu to refer to an elder brother or a respected male figure. It is derived from the Tamil words "anna" (elder brother) and "ash" (respect). In English, it can be translated as "respected elder brother". |
+| 47 | [भारतीय संस्कृति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
+| 48 | [Gpay](http://twitter.com/search?q=Gpay) | N/A |
+| 49 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 50 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
 
 
 

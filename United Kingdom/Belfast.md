@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-10 05:15:28 UTC`
+📆 Last Updated: `2023-02-10 06:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BelfastHour](http://twitter.com/search?q=%23BelfastHour) | N/A |
+| 1 | [#belfasthour](http://twitter.com/search?q=%23belfasthour) | N/A |
 | 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 3 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
 | 4 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
@@ -31,39 +31,39 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 14 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
 | 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 16 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 17 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 18 | [Free Nickelodeon Mint](http://twitter.com/search?q=Free+Nickelodeon+Mint) | N/A |
-| 19 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 20 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 21 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 22 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 23 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 17 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 18 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 19 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 20 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
+| 21 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 22 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 24 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 25 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 26 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 27 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 25 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 26 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 27 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 29 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 30 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
-| 31 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 32 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 33 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 34 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 35 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 36 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 37 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
-| 41 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 42 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 43 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 44 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 45 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
-| 46 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 47 | [Daily Quordle 381](http://twitter.com/search?q=Daily+Quordle+381) | N/A |
-| 48 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 49 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 29 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 30 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 31 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 32 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 35 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 36 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Walk On](http://twitter.com/search?q=Walk+On) | N/A |
+| 39 | [Worcester warriors](http://twitter.com/search?q=Worcester+warriors) | N/A |
+| 40 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 41 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 43 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 44 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 45 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 46 | [Church of England](http://twitter.com/search?q=Church+of+England) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
+| 49 | [Ian Hislop](http://twitter.com/search?q=Ian+Hislop) | N/A |
 
 
 
