@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-10 16:15:47 UTC`
+📆 Last Updated: `2023-02-10 17:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Rayados](http://twitter.com/search?q=%23Rayados) | N/A |
-| 2 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 3 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 4 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 6 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 7 | [vuce](http://twitter.com/search?q=vuce) | N/A |
-| 8 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 9 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 10 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 11 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 12 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
-| 13 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 14 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 15 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 1 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 2 | [Victor Guzmán](http://twitter.com/search?q=Victor+Guzm%c3%a1n) | N/A |
+| 3 | [#Rayados](http://twitter.com/search?q=%23Rayados) | N/A |
+| 4 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 5 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
+| 6 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 7 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 8 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 9 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 10 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 11 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 12 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 13 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 14 | [#DíaDeLaFuerzaAéreaMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaFuerzaA%c3%a9reaMexicana) | N/A |
+| 15 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 16 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
 | 17 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 18 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 19 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 20 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 21 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 22 | [Arma de Aviación Militar](http://twitter.com/search?q=Arma+de+Aviaci%c3%b3n+Militar) | N/A |
-| 23 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 24 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 25 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 26 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
-| 27 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 28 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 29 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 30 | [Verdes](http://twitter.com/search?q=Verdes) | N/A |
-| 31 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 32 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 33 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 34 | [San José Sánchez del Río](http://twitter.com/search?q=San+Jos%c3%a9+S%c3%a1nchez+del+R%c3%ado) | N/A |
-| 35 | [SEVENTEEN DINO DAY](http://twitter.com/search?q=SEVENTEEN+DINO+DAY) | N/A |
-| 36 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 37 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 38 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 39 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 40 | [fuego en la oscuridad](http://twitter.com/search?q=fuego+en+la+oscuridad) | N/A |
-| 41 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 42 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 43 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 44 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 45 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 46 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 47 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 48 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 49 | [Rojos](http://twitter.com/search?q=Rojos) | N/A |
-| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 18 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 19 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
+| 20 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 21 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 22 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 24 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 25 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 26 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 27 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 29 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 30 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 31 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 32 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 33 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 34 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 35 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 36 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 37 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 38 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 39 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
+| 40 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
+| 41 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 42 | [#KornoEnApuros](http://twitter.com/search?q=%23KornoEnApuros) | N/A |
+| 43 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 44 | [#CoverMañanero](http://twitter.com/search?q=%23CoverMa%c3%b1anero) | N/A |
+| 45 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 46 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 47 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 48 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 49 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
 
 
 

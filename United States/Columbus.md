@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-10 16:16:24 UTC`
+📆 Last Updated: `2023-02-10 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 2 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 3 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
-| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 6 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 2 | [Joe Thomas](http://twitter.com/search?q=Joe+Thomas) | Joe Thomas is an English phrase that is used to describe someone who is reliable, dependable, and hardworking. It can also be used to describe someone who is a good friend or a loyal employee. |
+| 3 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 4 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 10 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 11 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 12 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 13 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 14 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 16 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 17 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 18 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 19 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 20 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
-| 21 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 22 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
-| 23 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 24 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 25 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 26 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 27 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 28 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 29 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 30 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 31 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 32 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 33 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 34 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 35 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
-| 36 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 37 | [Tweedle Dee](http://twitter.com/search?q=Tweedle+Dee) | N/A |
-| 38 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 39 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 40 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 41 | [HAPPY FRIDAY EVERYONE](http://twitter.com/search?q=HAPPY+FRIDAY+EVERYONE) | N/A |
-| 42 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 43 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 44 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 45 | [Collin Klein](http://twitter.com/search?q=Collin+Klein) | N/A |
-| 46 | [St. Scholastica](http://twitter.com/search?q=St.+Scholastica) | N/A |
-| 47 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
-| 48 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 49 | [Shy Glizzy](http://twitter.com/search?q=Shy+Glizzy) | Shy Glizzy is the stage name of American rapper Marquis Amonte King. The name is derived from his nickname, "Shy," and his hometown of Washington, D.C., which is known as "Glizzy." |
-| 50 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 9 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 12 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 13 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 17 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 18 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 23 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
+| 24 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 27 | [Chad Hall](http://twitter.com/search?q=Chad+Hall) | N/A |
+| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 29 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 30 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 31 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 32 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 34 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 35 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 36 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 37 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
+| 38 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 39 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
+| 40 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 41 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
+| 42 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 43 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
+| 44 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 45 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
+| 46 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
+| 47 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 48 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 49 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
 
 
 

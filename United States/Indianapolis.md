@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-10 16:16:25 UTC`
+📆 Last Updated: `2023-02-10 17:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,48 @@ This is top 50 for [United States](</United States>)
 | 1 | [Reggie Wayne](http://twitter.com/search?q=Reggie+Wayne) | N/A |
 | 2 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
 | 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 4 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 5 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 4 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 5 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 8 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 9 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 9 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
 | 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 12 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 13 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 14 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 15 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 16 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 12 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 13 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 18 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 19 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 20 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 21 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
-| 22 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 23 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 24 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 25 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 26 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 27 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 28 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 29 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 30 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 31 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 32 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 33 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 34 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
-| 35 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 36 | [Tweedle Dee](http://twitter.com/search?q=Tweedle+Dee) | N/A |
-| 37 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 38 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 39 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 40 | [HAPPY FRIDAY EVERYONE](http://twitter.com/search?q=HAPPY+FRIDAY+EVERYONE) | N/A |
-| 41 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 42 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 43 | [Collin Klein](http://twitter.com/search?q=Collin+Klein) | N/A |
-| 44 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 45 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 46 | [St. Scholastica](http://twitter.com/search?q=St.+Scholastica) | N/A |
-| 47 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 18 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 23 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
+| 24 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 27 | [Chad Hall](http://twitter.com/search?q=Chad+Hall) | N/A |
+| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 29 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 30 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 31 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 32 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 34 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 35 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 36 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 37 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
+| 38 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 39 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
+| 40 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 41 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
+| 42 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 43 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
+| 44 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 45 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
 
 
 

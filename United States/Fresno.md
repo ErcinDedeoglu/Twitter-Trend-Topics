@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-10 16:16:24 UTC`
+📆 Last Updated: `2023-02-10 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
-| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 7 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 8 | [blanca](http://twitter.com/search?q=blanca) | N/A |
-| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 10 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 11 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 12 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 13 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 14 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 15 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 16 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 17 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
-| 18 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 19 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
-| 20 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 21 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 22 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 23 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 24 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 25 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 26 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 27 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 28 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 29 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 30 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 31 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 32 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
-| 33 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 34 | [Tweedle Dee](http://twitter.com/search?q=Tweedle+Dee) | N/A |
-| 35 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 36 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 37 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 38 | [HAPPY FRIDAY EVERYONE](http://twitter.com/search?q=HAPPY+FRIDAY+EVERYONE) | N/A |
-| 39 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 40 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 41 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 42 | [Collin Klein](http://twitter.com/search?q=Collin+Klein) | N/A |
-| 43 | [St. Scholastica](http://twitter.com/search?q=St.+Scholastica) | N/A |
-| 44 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
-| 45 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
-| 46 | [Shy Glizzy](http://twitter.com/search?q=Shy+Glizzy) | Shy Glizzy is the stage name of American rapper Marquis Amonte King. The name is derived from his nickname, "Shy," and his hometown of Washington, D.C., which is known as "Glizzy." |
-| 47 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 48 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
-| 49 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
+| 1 | [#ApoxVogueInSukhothai](http://twitter.com/search?q=%23ApoxVogueInSukhothai) | N/A |
+| 2 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 3 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 4 | [Lyft](http://twitter.com/search?q=Lyft) | N/A |
+| 5 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 6 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 9 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 10 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 12 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 13 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [Steichen](http://twitter.com/search?q=Steichen) | N/A |
+| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 18 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 19 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 22 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 23 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
+| 24 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 25 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 26 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
+| 27 | [Chad Hall](http://twitter.com/search?q=Chad+Hall) | N/A |
+| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 29 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 30 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 31 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 32 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 34 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 35 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 36 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 37 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
+| 38 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 39 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 40 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
+| 41 | [Rita Moreno](http://twitter.com/search?q=Rita+Moreno) | N/A |
+| 42 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 43 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 44 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
+| 45 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 46 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
+| 47 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
+| 48 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 49 | [laura dern](http://twitter.com/search?q=laura+dern) | N/A |
 
 
 

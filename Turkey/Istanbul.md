@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-10 16:16:21 UTC`
+📆 Last Updated: `2023-02-10 17:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 2 | [Afat](http://twitter.com/search?q=Afat) | N/A |
-| 3 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 4 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 5 | [Depremin 5](http://twitter.com/search?q=Depremin+5) | N/A |
-| 6 | [Videoyu](http://twitter.com/search?q=Videoyu) | N/A |
-| 7 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
-| 8 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
-| 9 | [Bunca](http://twitter.com/search?q=Bunca) | N/A |
-| 10 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 11 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
-| 12 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
-| 13 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 14 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 15 | [#AfaddaBizimAhbapda](http://twitter.com/search?q=%23AfaddaBizimAhbapda) | N/A |
-| 16 | [#GünDayanışmaGünü](http://twitter.com/search?q=%23G%c3%bcnDayan%c4%b1%c5%9fmaG%c3%bcn%c3%bc) | N/A |
-| 17 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
-| 18 | [Beşiktaşlı](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
-| 19 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
-| 20 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
+| 2 | [#DEPREMYARDIM](http://twitter.com/search?q=%23DEPREMYARDIM) | N/A |
+| 3 | [Berk](http://twitter.com/search?q=Berk) | N/A |
+| 4 | [Fitne](http://twitter.com/search?q=Fitne) | N/A |
+| 5 | [Videoyu](http://twitter.com/search?q=Videoyu) | N/A |
+| 6 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 7 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
+| 8 | [Afat](http://twitter.com/search?q=Afat) | N/A |
+| 9 | [#BizBeraberiz](http://twitter.com/search?q=%23BizBeraberiz) | N/A |
+| 10 | [Tarkan](http://twitter.com/search?q=Tarkan) | N/A |
+| 11 | [Bunca](http://twitter.com/search?q=Bunca) | N/A |
+| 12 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
+| 13 | [Hırsız](http://twitter.com/search?q=H%c4%b1rs%c4%b1z) | N/A |
+| 14 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 15 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 16 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
+| 17 | [#AfaddaBizimAhbapda](http://twitter.com/search?q=%23AfaddaBizimAhbapda) | N/A |
+| 18 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 19 | [Beşiktaşlı](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
+| 20 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
 | 21 | [EN BÜYÜK BEŞİKTAŞ](http://twitter.com/search?q=EN+B%c3%9cY%c3%9cK+BE%c5%9e%c4%b0KTA%c5%9e) | N/A |
-| 22 | [Rönesans Rezidans](http://twitter.com/search?q=R%c3%b6nesans+Rezidans) | N/A |
+| 22 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
 | 23 | [Verin](http://twitter.com/search?q=Verin) | N/A |
-| 24 | [Özel Harekat](http://twitter.com/search?q=%c3%96zel+Harekat) | N/A |
-| 25 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 26 | [Ayağına](http://twitter.com/search?q=Aya%c4%9f%c4%b1na) | N/A |
-| 27 | [Mehmet Yaşar Coşkun](http://twitter.com/search?q=Mehmet+Ya%c5%9far+Co%c5%9fkun) | N/A |
-| 28 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 29 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 30 | [Yakalandı](http://twitter.com/search?q=Yakaland%c4%b1) | N/A |
-| 31 | [allahımbizi affet](http://twitter.com/search?q=allah%c4%b1mbizi+affet) | N/A |
-| 32 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 24 | [Rönesans Rezidans](http://twitter.com/search?q=R%c3%b6nesans+Rezidans) | N/A |
+| 25 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
+| 26 | [Özel Harekat](http://twitter.com/search?q=%c3%96zel+Harekat) | N/A |
+| 27 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 28 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
+| 29 | [Ayağına](http://twitter.com/search?q=Aya%c4%9f%c4%b1na) | N/A |
+| 30 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 31 | [Mehmet Yaşar Coşkun](http://twitter.com/search?q=Mehmet+Ya%c5%9far+Co%c5%9fkun) | N/A |
+| 32 | [Veli Göçer](http://twitter.com/search?q=Veli+G%c3%b6%c3%a7er) | N/A |
 | 33 | [Güney Koreli](http://twitter.com/search?q=G%c3%bcney+Koreli) | N/A |
-| 34 | [İstanbul Havalimanı'nda](http://twitter.com/search?q=%c4%b0stanbul+Havaliman%c4%b1%27nda) | N/A |
-| 35 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 36 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
-| 37 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 38 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
-| 39 | [Ayaklarına](http://twitter.com/search?q=Ayaklar%c4%b1na) | N/A |
-| 40 | [Seve](http://twitter.com/search?q=Seve) | N/A |
-| 41 | [Şaibe](http://twitter.com/search?q=%c5%9eaibe) | N/A |
-| 42 | [Aslanlar](http://twitter.com/search?q=Aslanlar) | N/A |
-| 43 | [Veli Göçer](http://twitter.com/search?q=Veli+G%c3%b6%c3%a7er) | N/A |
-| 44 | [Akşener Seçim](http://twitter.com/search?q=Ak%c5%9fener+Se%c3%a7im) | N/A |
-| 45 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 46 | [TUVALET KARAVANLARI](http://twitter.com/search?q=TUVALET+KARAVANLARI) | N/A |
-| 47 | [Ezin](http://twitter.com/search?q=Ezin) | N/A |
-| 48 | [Çocukları](http://twitter.com/search?q=%c3%87ocuklar%c4%b1) | N/A |
-| 49 | [SEÇİL APARTMANI](http://twitter.com/search?q=SE%c3%87%c4%b0L+APARTMANI) | N/A |
-| 50 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
+| 34 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
+| 35 | [Yakalandı](http://twitter.com/search?q=Yakaland%c4%b1) | N/A |
+| 36 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
+| 37 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 38 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 39 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
+| 40 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
+| 41 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 42 | [İstanbul Havalimanı'nda](http://twitter.com/search?q=%c4%b0stanbul+Havaliman%c4%b1%27nda) | N/A |
+| 43 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 44 | [Gecekondu](http://twitter.com/search?q=Gecekondu) | N/A |
+| 45 | [Çocukları](http://twitter.com/search?q=%c3%87ocuklar%c4%b1) | N/A |
+| 46 | [Aslanlar](http://twitter.com/search?q=Aslanlar) | N/A |
+| 47 | [Seve](http://twitter.com/search?q=Seve) | N/A |
+| 48 | [Cennetten](http://twitter.com/search?q=Cennetten) | N/A |
+| 49 | [Ayaklarına](http://twitter.com/search?q=Ayaklar%c4%b1na) | N/A |
+| 50 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
 
 
 

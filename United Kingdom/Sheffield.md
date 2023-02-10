@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-10 16:15:45 UTC`
+📆 Last Updated: `2023-02-10 17:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 2 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 3 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 4 | [#apprenticeship](http://twitter.com/search?q=%23apprenticeship) | N/A |
-| 5 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 6 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 7 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 8 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 9 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 10 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 11 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
-| 12 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 13 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 14 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 15 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 16 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 19 | [Bert](http://twitter.com/search?q=Bert) | N/A |
-| 20 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 21 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 22 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 23 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 24 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 25 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 26 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
-| 27 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 28 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 29 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 30 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 31 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
-| 32 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 33 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 34 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 35 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
-| 36 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 37 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 38 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 39 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
-| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 41 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 42 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 43 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 44 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
-| 45 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 46 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
+| 1 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 2 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
+| 3 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
+| 4 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 5 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 6 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 7 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 8 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 9 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 10 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
+| 11 | [Jay Jay Reilly](http://twitter.com/search?q=Jay+Jay+Reilly) | N/A |
+| 12 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 13 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 14 | [Methven](http://twitter.com/search?q=Methven) | N/A |
+| 15 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 16 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 17 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 18 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 20 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 21 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 22 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 23 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 24 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 25 | [Bert](http://twitter.com/search?q=Bert) | N/A |
+| 26 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 27 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
+| 28 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 29 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 30 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 31 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
+| 32 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
+| 33 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 35 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 36 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 37 | [#apprenticeship](http://twitter.com/search?q=%23apprenticeship) | N/A |
+| 38 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 39 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 40 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
+| 41 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 42 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 43 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 44 | [#soloBeatleEgyptology](http://twitter.com/search?q=%23soloBeatleEgyptology) | N/A |
+| 45 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
+| 46 | [#FridayFive](http://twitter.com/search?q=%23FridayFive) | N/A |
 
 
 

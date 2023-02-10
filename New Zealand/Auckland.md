@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-10 16:16:22 UTC`
+📆 Last Updated: `2023-02-10 17:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [#cyclonegabrielle](http://twitter.com/search?q=%23cyclonegabrielle) | N/A |
 | 2 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 4 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 4 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
 | 5 | [Willis](http://twitter.com/search?q=Willis) | N/A |
 | 6 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 7 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 46 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 47 | [Print B&N](http://twitter.com/search?q=Print+B%26N) | N/A |
 | 48 | [Streber](http://twitter.com/search?q=Streber) | N/A |
-| 49 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 49 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 
 
 

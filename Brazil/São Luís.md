@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-10 16:15:53 UTC`
+📆 Last Updated: `2023-02-10 17:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
 | 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 4 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 5 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
-| 6 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 7 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 8 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 10 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 11 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 13 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 14 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
-| 15 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 16 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 17 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 18 | [#MandsAnatomy](http://twitter.com/search?q=%23MandsAnatomy) | N/A |
-| 19 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 20 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 21 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 22 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 23 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
-| 24 | [Saint](http://twitter.com/search?q=Saint) | N/A |
-| 25 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 26 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 27 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 28 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
-| 29 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 30 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 33 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
-| 34 | [Velozes e Furiosos 10](http://twitter.com/search?q=Velozes+e+Furiosos+10) | N/A |
-| 35 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 36 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 37 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 38 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
-| 39 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
-| 40 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 41 | [Lucas Souza](http://twitter.com/search?q=Lucas+Souza) | N/A |
-| 42 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 43 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 44 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
-| 45 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 46 | [Ancelloti](http://twitter.com/search?q=Ancelloti) | N/A |
-| 47 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 48 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 5 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 6 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 7 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 9 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 10 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 11 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 13 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
+| 14 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 15 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 16 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 17 | [SIGAM CHOKEY](http://twitter.com/search?q=SIGAM+CHOKEY) | N/A |
+| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 19 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 20 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 21 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 22 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 23 | [Beatriz Haddad Maia](http://twitter.com/search?q=Beatriz+Haddad+Maia) | N/A |
+| 24 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 25 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 26 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 27 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 28 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 29 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 30 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 31 | [Bia Haddad Maia](http://twitter.com/search?q=Bia+Haddad+Maia) | N/A |
+| 32 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 33 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 34 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 35 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 36 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 37 | [Letty](http://twitter.com/search?q=Letty) | N/A |
+| 38 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
+| 39 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 40 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 41 | [Paul Walker](http://twitter.com/search?q=Paul+Walker) | N/A |
+| 42 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 43 | [Marins](http://twitter.com/search?q=Marins) | N/A |
+| 44 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 45 | [Ancelloti](http://twitter.com/search?q=Ancelloti) | N/A |
+| 46 | [Saint](http://twitter.com/search?q=Saint) | N/A |
+| 47 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 48 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
+| 49 | [Dunga](http://twitter.com/search?q=Dunga) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-10 16:15:48 UTC`
+📆 Last Updated: `2023-02-10 17:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,51 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 2 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 4 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 5 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
-| 6 | [#DíaDeLaFuerzaAéreaMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaFuerzaA%c3%a9reaMexicana) | N/A |
-| 7 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 8 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 9 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 12 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 15 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 16 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 17 | [Arma de Aviación Militar](http://twitter.com/search?q=Arma+de+Aviaci%c3%b3n+Militar) | N/A |
-| 18 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 20 | [Fuerza Armada](http://twitter.com/search?q=Fuerza+Armada) | N/A |
-| 21 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 22 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 23 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 24 | [Verdes](http://twitter.com/search?q=Verdes) | N/A |
-| 25 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 26 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 28 | [SEVENTEEN DINO DAY](http://twitter.com/search?q=SEVENTEEN+DINO+DAY) | N/A |
-| 29 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 30 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 31 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 32 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 33 | [fuego en la oscuridad](http://twitter.com/search?q=fuego+en+la+oscuridad) | N/A |
-| 34 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 35 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 36 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 37 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 38 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 39 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 42 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 43 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 44 | [Rojos](http://twitter.com/search?q=Rojos) | N/A |
-| 45 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
-| 46 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
-| 47 | [San Francisco Totimehuacan](http://twitter.com/search?q=San+Francisco+Totimehuacan) | N/A |
-| 48 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 49 | [San José Sánchez del Río](http://twitter.com/search?q=San+Jos%c3%a9+S%c3%a1nchez+del+R%c3%ado) | N/A |
-| 50 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 2 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 5 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 6 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
+| 7 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 8 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 9 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
+| 10 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 11 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 13 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 15 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 16 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 17 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 19 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 20 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 21 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 22 | [Zapopan](http://twitter.com/search?q=Zapopan) | N/A |
+| 23 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 24 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 25 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 26 | [CETES](http://twitter.com/search?q=CETES) | N/A |
+| 27 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 28 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 29 | [#DíaDeLaFuerzaAéreaMexicana](http://twitter.com/search?q=%23D%c3%adaDeLaFuerzaA%c3%a9reaMexicana) | N/A |
+| 30 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 31 | [#PoderosoPuroGozo](http://twitter.com/search?q=%23PoderosoPuroGozo) | N/A |
+| 32 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
+| 33 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 34 | [#KornoEnApuros](http://twitter.com/search?q=%23KornoEnApuros) | N/A |
+| 35 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 36 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 37 | [#CoverMañanero](http://twitter.com/search?q=%23CoverMa%c3%b1anero) | N/A |
+| 38 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 39 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 40 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 41 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 42 | [#buenosdías](http://twitter.com/search?q=%23buenosd%c3%adas) | N/A |
+| 43 | [#Cuba](http://twitter.com/search?q=%23Cuba) | N/A |
+| 44 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
+| 45 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
+| 46 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
 
 
 
