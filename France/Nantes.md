@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-10 09:15:49 UTC`
+📆 Last Updated: `2023-02-10 10:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 2 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
+| 1 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
+| 2 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
 | 3 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
 | 4 | [#FCLRCL](http://twitter.com/search?q=%23FCLRCL) | N/A |
 | 5 | [#FaceABFM](http://twitter.com/search?q=%23FaceABFM) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for [France](</France>)
 | 8 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
 | 9 | [Niro](http://twitter.com/search?q=Niro) | N/A |
 | 10 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 11 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 12 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 13 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 14 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 15 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 16 | [Totti](http://twitter.com/search?q=Totti) | N/A |
-| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 18 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 11 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 12 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 13 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 14 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 15 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 16 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 17 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 | 19 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 20 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 21 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 21 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 22 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 25 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 26 | [Matthieu Delaporte](http://twitter.com/search?q=Matthieu+Delaporte) | N/A |
-| 27 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 28 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 29 | [Leca](http://twitter.com/search?q=Leca) | N/A |
-| 30 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 31 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 32 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 33 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 34 | [PUBLIQUE](http://twitter.com/search?q=PUBLIQUE) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 39 | [Switek](http://twitter.com/search?q=Switek) | N/A |
-| 40 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 41 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 42 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 43 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 44 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 45 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 46 | [Riester](http://twitter.com/search?q=Riester) | N/A |
-| 47 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
-| 48 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 49 | [PUBLICS](http://twitter.com/search?q=PUBLICS) | N/A |
-| 50 | [amelie](http://twitter.com/search?q=amelie) | N/A |
+| 24 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [Cravity](http://twitter.com/search?q=Cravity) | N/A |
+| 28 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 30 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 31 | [Manigold](http://twitter.com/search?q=Manigold) | N/A |
+| 32 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 33 | [CUPIDON](http://twitter.com/search?q=CUPIDON) | N/A |
+| 34 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 35 | [Leca](http://twitter.com/search?q=Leca) | N/A |
+| 36 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
+| 37 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 38 | [Totti](http://twitter.com/search?q=Totti) | N/A |
+| 39 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 40 | [Alexandre Dumas](http://twitter.com/search?q=Alexandre+Dumas) | N/A |
+| 41 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 42 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
+| 43 | [Berbatov](http://twitter.com/search?q=Berbatov) | N/A |
+| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 48 | [PUBLICS](http://twitter.com/search?q=PUBLICS) | N/A |
+| 49 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 50 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-10 09:16:05 UTC`
+📆 Last Updated: `2023-02-10 10:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 5 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
-| 6 | [#DataAsseblief](http://twitter.com/search?q=%23DataAsseblief) | N/A |
-| 7 | [President](http://twitter.com/search?q=President) | N/A |
-| 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 3 | [#WeAreTheWingKing](http://twitter.com/search?q=%23WeAreTheWingKing) | N/A |
+| 4 | [#TelkomMadeOfValentines](http://twitter.com/search?q=%23TelkomMadeOfValentines) | N/A |
+| 5 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
+| 6 | [President](http://twitter.com/search?q=President) | N/A |
+| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 8 | [#SavannaNewcomerShowcase](http://twitter.com/search?q=%23SavannaNewcomerShowcase) | N/A |
 | 9 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 10 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
-| 11 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
-| 12 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 13 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 14 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 15 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 16 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 18 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 19 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
-| 20 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
-| 21 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 22 | [Property](http://twitter.com/search?q=Property) | N/A |
-| 23 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 24 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 25 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 26 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
-| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 28 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 30 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 31 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
-| 32 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 33 | [Curro](http://twitter.com/search?q=Curro) | N/A |
-| 34 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 35 | [Cape Town City Hall](http://twitter.com/search?q=Cape+Town+City+Hall) | N/A |
-| 36 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 37 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 38 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 40 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
-| 41 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 42 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 43 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 44 | [Donald](http://twitter.com/search?q=Donald) | N/A |
-| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 46 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
-| 47 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 49 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 50 | [Serves](http://twitter.com/search?q=Serves) | N/A |
+| 10 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 11 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
+| 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 13 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 14 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
+| 15 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
+| 16 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 17 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 18 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 19 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 20 | [Garlic](http://twitter.com/search?q=Garlic) | N/A |
+| 21 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
+| 22 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 23 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 24 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
+| 25 | [BEST LIFE](http://twitter.com/search?q=BEST+LIFE) | N/A |
+| 26 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
+| 27 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 28 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
+| 29 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 30 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 31 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 32 | [Property](http://twitter.com/search?q=Property) | N/A |
+| 33 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
+| 34 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 35 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 36 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 37 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 38 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 39 | [Herman](http://twitter.com/search?q=Herman) | N/A |
+| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 41 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
+| 42 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
+| 43 | [Vaal](http://twitter.com/search?q=Vaal) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
+| 46 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 47 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 48 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 49 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 50 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
 
 
 

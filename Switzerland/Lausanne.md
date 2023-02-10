@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-10 09:15:54 UTC`
+📆 Last Updated: `2023-02-10 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 4 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 5 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
+| 1 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 6 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
 | 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 8 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 9 | [dick marty](http://twitter.com/search?q=dick+marty) | N/A |
-| 10 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 11 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 12 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 13 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 14 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 15 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 16 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 17 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
-| 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 19 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 8 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 9 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
+| 10 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 11 | [dick marty](http://twitter.com/search?q=dick+marty) | N/A |
+| 12 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 13 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 14 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 15 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 16 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 17 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 18 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
+| 19 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
 | 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 21 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 22 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 23 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 21 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 22 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 23 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 24 | [Familien](http://twitter.com/search?q=Familien) | N/A |
-| 25 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 26 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 27 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
-| 28 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 29 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 32 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 35 | [Massnahmen](http://twitter.com/search?q=Massnahmen) | N/A |
-| 36 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 37 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 41 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 42 | [Riz Casimir](http://twitter.com/search?q=Riz+Casimir) | N/A |
-| 43 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 48 | [Fahrt](http://twitter.com/search?q=Fahrt) | N/A |
+| 25 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 26 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
+| 27 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 28 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 30 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
+| 31 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 32 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 33 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 35 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 36 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 37 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 38 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 39 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 40 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 41 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 44 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 45 | [Riz Casimir](http://twitter.com/search?q=Riz+Casimir) | N/A |
+| 46 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 
 
 

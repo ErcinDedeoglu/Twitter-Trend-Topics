@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-10 09:15:37 UTC`
+📆 Last Updated: `2023-02-10 10:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 3 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 7 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 8 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 6 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 7 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 8 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 11 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 12 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 13 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 10 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 11 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
+| 12 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 13 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
 | 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 19 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 22 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
-| 23 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 24 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 25 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 26 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 27 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 28 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 29 | [Ashley Dalton](http://twitter.com/search?q=Ashley+Dalton) | N/A |
-| 30 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
-| 31 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 32 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 33 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 17 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 20 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 21 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 22 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 23 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
+| 24 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 25 | [Luke Edwards](http://twitter.com/search?q=Luke+Edwards) | N/A |
+| 26 | [Hal David](http://twitter.com/search?q=Hal+David) | N/A |
+| 27 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
+| 28 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 29 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 30 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 31 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 32 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 33 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 34 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 35 | [BBC News - UK](http://twitter.com/search?q=BBC+News+-+UK) | N/A |
+| 35 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
 | 36 | [Jared O'Mara](http://twitter.com/search?q=Jared+O%27Mara) | N/A |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 39 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 40 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 41 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 42 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 43 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 37 | [Ashley Dalton](http://twitter.com/search?q=Ashley+Dalton) | N/A |
+| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Dennis Skinner](http://twitter.com/search?q=Dennis+Skinner) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [Henry Mauriss](http://twitter.com/search?q=Henry+Mauriss) | N/A |
+| 42 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 43 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 44 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 45 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 48 | [October and December](http://twitter.com/search?q=October+and+December) | N/A |
-| 49 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
-| 50 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 46 | [October and December](http://twitter.com/search?q=October+and+December) | N/A |
+| 47 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 48 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 50 | [Worcester Warriors](http://twitter.com/search?q=Worcester+Warriors) | N/A |
 
 
 

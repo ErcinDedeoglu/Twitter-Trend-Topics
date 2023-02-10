@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-10 09:15:47 UTC`
+📆 Last Updated: `2023-02-10 10:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
 | 2 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 4 | [#jedziemydalej](http://twitter.com/search?q=%23jedziemydalej) | N/A |
-| 5 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 6 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
-| 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 8 | [#WISRES](http://twitter.com/search?q=%23WISRES) | N/A |
-| 9 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
-| 10 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 12 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
+| 3 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 4 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 5 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 6 | [Mołdawią](http://twitter.com/search?q=Mo%c5%82dawi%c4%85) | N/A |
+| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 8 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 9 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
+| 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 11 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 12 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
 | 13 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 15 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 16 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 14 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
+| 15 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
+| 16 | [Borys](http://twitter.com/search?q=Borys) | N/A |
 | 17 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
 | 18 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 19 | [Syberię](http://twitter.com/search?q=Syberi%c4%99) | N/A |
-| 20 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 19 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
+| 20 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
 | 21 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 22 | [S-300](http://twitter.com/search?q=S-300) | N/A |
-| 23 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
+| 22 | [#hejteduUzi](http://twitter.com/search?q=%23hejteduUzi) | N/A |
+| 23 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
 | 24 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
-| 25 | [Andrzej Duda](http://twitter.com/search?q=Andrzej+Duda) | N/A |
+| 25 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
 | 26 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 27 | [międzynarodowy dzień pizzy](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+pizzy) | N/A |
-| 28 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 29 | [mateusz murański](http://twitter.com/search?q=mateusz+mura%c5%84ski) | N/A |
-| 30 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
-| 31 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 32 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
-| 33 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 34 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
-| 35 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 36 | [Glapy](http://twitter.com/search?q=Glapy) | N/A |
-| 37 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 38 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
-| 39 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 40 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
-| 41 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 42 | [Żywiec](http://twitter.com/search?q=%c5%bbywiec) | N/A |
-| 43 | [Emiraty](http://twitter.com/search?q=Emiraty) | N/A |
-| 44 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 45 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 46 | [PKP Cargo](http://twitter.com/search?q=PKP+Cargo) | N/A |
-| 47 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 48 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
+| 27 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 28 | [mateusz murański](http://twitter.com/search?q=mateusz+mura%c5%84ski) | N/A |
+| 29 | [#CMWYL](http://twitter.com/search?q=%23CMWYL) | N/A |
+| 30 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 31 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 32 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 33 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
+| 34 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 35 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 36 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 37 | [Syberię](http://twitter.com/search?q=Syberi%c4%99) | N/A |
+| 38 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 39 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 40 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 41 | [Emiraty](http://twitter.com/search?q=Emiraty) | N/A |
+| 42 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 43 | [Żywiec](http://twitter.com/search?q=%c5%bbywiec) | N/A |
+| 44 | [miażdży](http://twitter.com/search?q=mia%c5%bcd%c5%bcy) | N/A |
+| 45 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 46 | [Ławrow](http://twitter.com/search?q=%c5%81awrow) | N/A |
+| 47 | [Biedrze](http://twitter.com/search?q=Biedrze) | N/A |
+| 48 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 49 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-10 09:16:25 UTC`
+📆 Last Updated: `2023-02-10 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Italy
 | 9 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 10 | [#Maneskin](http://twitter.com/search?q=%23Maneskin) | N/A |
 | 11 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 12 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 13 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 12 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 13 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 14 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 15 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
 | 17 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
 | 18 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
 | 19 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 20 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 21 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 22 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 23 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 24 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 20 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 21 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 22 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 23 | [Istria](http://twitter.com/search?q=Istria) | N/A |
+| 24 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
 | 25 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 26 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 26 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
 | 27 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 29 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 30 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 32 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 33 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
-| 34 | [Istria](http://twitter.com/search?q=Istria) | N/A |
+| 28 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 29 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 30 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 31 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 32 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
+| 33 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 34 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
 | 35 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 36 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
-| 37 | [MASSIMO RANIERI](http://twitter.com/search?q=MASSIMO+RANIERI) | N/A |
-| 38 | [Siani](http://twitter.com/search?q=Siani) | N/A |
-| 39 | [Visegrad](http://twitter.com/search?q=Visegrad) | N/A |
-| 40 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 41 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 42 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
-| 43 | [18esima](http://twitter.com/search?q=18esima) | N/A |
-| 44 | [Razzisti](http://twitter.com/search?q=Razzisti) | N/A |
-| 45 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 46 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 47 | [Buongiorno Ari](http://twitter.com/search?q=Buongiorno+Ari) | N/A |
-| 48 | [codice 10](http://twitter.com/search?q=codice+10) | N/A |
-| 49 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 50 | [codice 06](http://twitter.com/search?q=codice+06) | N/A |
+| 36 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 37 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 38 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 39 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 40 | [Kyenge](http://twitter.com/search?q=Kyenge) | N/A |
+| 41 | [Siani](http://twitter.com/search?q=Siani) | N/A |
+| 42 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 43 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 45 | [18esima](http://twitter.com/search?q=18esima) | N/A |
+| 46 | [Facci](http://twitter.com/search?q=Facci) | N/A |
+| 47 | [Visegrad](http://twitter.com/search?q=Visegrad) | N/A |
+| 48 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 49 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 50 | [Razzisti](http://twitter.com/search?q=Razzisti) | N/A |
 
 
 
