@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-10 11:15:54 UTC`
+📆 Last Updated: `2023-02-10 12:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#UnaLeyendaEs](http://twitter.com/search?q=%23UnaLeyendaEs) | N/A |
 | 3 | [#DiaDelPeriodista](http://twitter.com/search?q=%23DiaDelPeriodista) | N/A |
 | 4 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
-| 5 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 6 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
-| 7 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 8 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 9 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 10 | [vladimir](http://twitter.com/search?q=vladimir) | N/A |
-| 11 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
+| 5 | [Luis Fernando Múnera](http://twitter.com/search?q=Luis+Fernando+M%c3%banera) | N/A |
+| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 7 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 8 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 9 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 10 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 11 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
 | 12 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 13 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
-| 14 | [jorge luis alfonso lópez](http://twitter.com/search?q=jorge+luis+alfonso+l%c3%b3pez) | N/A |
-| 15 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 16 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 17 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 18 | [gustavo puerta](http://twitter.com/search?q=gustavo+puerta) | N/A |
-| 19 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
-| 20 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 21 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 22 | [duquismo](http://twitter.com/search?q=duquismo) | N/A |
-| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 24 | [manyoma](http://twitter.com/search?q=manyoma) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Paola herrera](http://twitter.com/search?q=Paola+herrera) | N/A |
-| 27 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 28 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
-| 29 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 30 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 31 | [Caín](http://twitter.com/search?q=Ca%c3%adn) | N/A |
-| 32 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
-| 33 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 34 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 35 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
-| 36 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
-| 37 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 38 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 39 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
+| 14 | [ICBF](http://twitter.com/search?q=ICBF) | N/A |
+| 15 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 18 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 19 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 20 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 21 | [duquismo](http://twitter.com/search?q=duquismo) | N/A |
+| 22 | [manyoma](http://twitter.com/search?q=manyoma) | N/A |
+| 23 | [Gustavo Puerta](http://twitter.com/search?q=Gustavo+Puerta) | Gustavo Puerta is a Spanish name. It is composed of two words: "Gustavo" which is a male given name of Germanic origin meaning "staff of the gods" and "Puerta" which means "door" in Spanish. In English, the name Gustavo Puerta would translate to "God's Door". |
+| 24 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Jorge Luis Alfonso López](http://twitter.com/search?q=Jorge+Luis+Alfonso+L%c3%b3pez) | N/A |
+| 27 | [Paola herrera](http://twitter.com/search?q=Paola+herrera) | N/A |
+| 28 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
+| 29 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
+| 30 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 33 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
+| 34 | [Caín](http://twitter.com/search?q=Ca%c3%adn) | N/A |
+| 35 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
+| 36 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
+| 37 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 38 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 39 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 40 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 41 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 42 | [Gatico](http://twitter.com/search?q=Gatico) | N/A |
-| 43 | [enilce lópez](http://twitter.com/search?q=enilce+l%c3%b3pez) | N/A |
-| 44 | [Panamericanos](http://twitter.com/search?q=Panamericanos) | N/A |
-| 45 | [concepción baracaldo](http://twitter.com/search?q=concepci%c3%b3n+baracaldo) | N/A |
-| 46 | [FACILITADOR](http://twitter.com/search?q=FACILITADOR) | N/A |
-| 47 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 48 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 49 | [Gonzalo Guillén](http://twitter.com/search?q=Gonzalo+Guill%c3%a9n) | N/A |
+| 42 | [Panamericanos](http://twitter.com/search?q=Panamericanos) | N/A |
+| 43 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 44 | [Gonzalo Guillén](http://twitter.com/search?q=Gonzalo+Guill%c3%a9n) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [concepción baracaldo](http://twitter.com/search?q=concepci%c3%b3n+baracaldo) | N/A |
+| 47 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 48 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 49 | [Pacto de la Picota](http://twitter.com/search?q=Pacto+de+la+Picota) | N/A |
 
 
 

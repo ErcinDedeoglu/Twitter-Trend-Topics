@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-10 11:16:44 UTC`
+📆 Last Updated: `2023-02-10 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Switzerland
 | 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
 | 4 | [#Sauhaufen](http://twitter.com/search?q=%23Sauhaufen) | N/A |
-| 5 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 9 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 10 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 11 | [dick marty](http://twitter.com/search?q=dick+marty) | N/A |
-| 12 | [Amis](http://twitter.com/search?q=Amis) | N/A |
-| 13 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 8 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 9 | [Dick Marty](http://twitter.com/search?q=Dick+Marty) | N/A |
+| 10 | [amis](http://twitter.com/search?q=amis) | N/A |
+| 11 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 12 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 13 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 | 14 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 15 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 16 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 17 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 15 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 16 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 17 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 19 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 20 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
 | 21 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 22 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 23 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 24 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 25 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
-| 26 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 27 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 29 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 30 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 31 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 33 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 34 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 35 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 36 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 37 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 38 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 41 | [Bing](http://twitter.com/search?q=Bing) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Riz Casimir](http://twitter.com/search?q=Riz+Casimir) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 46 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
-| 47 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 49 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 50 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 22 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 23 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 24 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 25 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 26 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 27 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
+| 28 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 29 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 30 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 31 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [RIZ CASIMIR](http://twitter.com/search?q=RIZ+CASIMIR) | N/A |
+| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 39 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
+| 40 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 41 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 42 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
+| 43 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 45 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 46 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 47 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 48 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 49 | [verschwörungstheoretiker](http://twitter.com/search?q=verschw%c3%b6rungstheoretiker) | N/A |
+| 50 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
 
 
 

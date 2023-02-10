@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-10 11:16:05 UTC`
+📆 Last Updated: `2023-02-10 12:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [#DondeSeJuegaTodo](http://twitter.com/search?q=%23DondeSeJuegaTodo) | N/A |
 | 2 | [#KirbyEnGAME](http://twitter.com/search?q=%23KirbyEnGAME) | N/A |
 | 3 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 4 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 5 | [#DíaMundialdelasLegumbres](http://twitter.com/search?q=%23D%c3%adaMundialdelasLegumbres) | N/A |
-| 6 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 7 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 8 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 9 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
-| 10 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 11 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 13 | [Ana Morgade](http://twitter.com/search?q=Ana+Morgade) | N/A |
-| 14 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 4 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 5 | [#Solos10F](http://twitter.com/search?q=%23Solos10F) | N/A |
+| 6 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 7 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 8 | [#DíaMundialdelasLegumbres](http://twitter.com/search?q=%23D%c3%adaMundialdelasLegumbres) | N/A |
+| 9 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 10 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
+| 11 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
+| 12 | [Ana Morgade](http://twitter.com/search?q=Ana+Morgade) | N/A |
+| 13 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 14 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 15 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 16 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 17 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
-| 18 | [Broncano](http://twitter.com/search?q=Broncano) | N/A |
-| 19 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 20 | [Vicente Moreno](http://twitter.com/search?q=Vicente+Moreno) | N/A |
-| 21 | [Ribera](http://twitter.com/search?q=Ribera) | N/A |
-| 22 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 23 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
-| 24 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
-| 25 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
-| 26 | [Rumanía](http://twitter.com/search?q=Ruman%c3%ada) | N/A |
-| 27 | [Los Fabelman](http://twitter.com/search?q=Los+Fabelman) | N/A |
-| 28 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 29 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 30 | [Pacma](http://twitter.com/search?q=Pacma) | N/A |
-| 31 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 32 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
-| 33 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 34 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 35 | [Negre](http://twitter.com/search?q=Negre) | N/A |
-| 36 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 37 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 38 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 39 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 40 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 41 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 42 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 43 | [#DíaMujerYNiñaEnCiencia](http://twitter.com/search?q=%23D%c3%adaMujerYNi%c3%b1aEnCiencia) | N/A |
-| 44 | [#LaHora10F](http://twitter.com/search?q=%23LaHora10F) | N/A |
-| 45 | [#APOYOROCIO10F](http://twitter.com/search?q=%23APOYOROCIO10F) | N/A |
-| 46 | [#11F2023](http://twitter.com/search?q=%2311F2023) | N/A |
-| 47 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 48 | [#findesemana](http://twitter.com/search?q=%23findesemana) | N/A |
+| 16 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 17 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 18 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 19 | [Rumanía](http://twitter.com/search?q=Ruman%c3%ada) | N/A |
+| 20 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
+| 21 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 22 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 23 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
+| 24 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 25 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
+| 26 | [Broncano](http://twitter.com/search?q=Broncano) | N/A |
+| 27 | [Axel Torres](http://twitter.com/search?q=Axel+Torres) | N/A |
+| 28 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 29 | [Ribera](http://twitter.com/search?q=Ribera) | N/A |
+| 30 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
+| 31 | [Los Fabelman](http://twitter.com/search?q=Los+Fabelman) | N/A |
+| 32 | [Vicente Moreno](http://twitter.com/search?q=Vicente+Moreno) | N/A |
+| 33 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 34 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 35 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 36 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 37 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
+| 38 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 39 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 40 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 41 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 42 | [Negre](http://twitter.com/search?q=Negre) | N/A |
+| 43 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 44 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 45 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 46 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 47 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
+| 48 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 
 
 

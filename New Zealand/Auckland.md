@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-10 11:16:28 UTC`
+📆 Last Updated: `2023-02-10 12:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [#CycloneGabrielle](http://twitter.com/search?q=%23CycloneGabrielle) | N/A |
 | 2 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 3 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 4 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 5 | [police ten 7](http://twitter.com/search?q=police+ten+7) | N/A |
-| 6 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 4 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 5 | [Willis](http://twitter.com/search?q=Willis) | N/A |
+| 6 | [police ten 7](http://twitter.com/search?q=police+ten+7) | N/A |
 | 7 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 8 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
 | 9 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
@@ -29,40 +29,40 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 12 | [Luckily](http://twitter.com/search?q=Luckily) | N/A |
 | 13 | [Black Ferns](http://twitter.com/search?q=Black+Ferns) | N/A |
 | 14 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 16 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 17 | [#Auckland](http://twitter.com/search?q=%23Auckland) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 20 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 21 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 22 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 23 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 24 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 25 | [Monday and Tuesday](http://twitter.com/search?q=Monday+and+Tuesday) | N/A |
-| 26 | [East](http://twitter.com/search?q=East) | N/A |
-| 27 | [waititi](http://twitter.com/search?q=waititi) | N/A |
-| 28 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 30 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
-| 31 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 32 | [Buying](http://twitter.com/search?q=Buying) | N/A |
-| 33 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 34 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 36 | [Typical](http://twitter.com/search?q=Typical) | N/A |
-| 37 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 38 | [coromandel](http://twitter.com/search?q=coromandel) | N/A |
-| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 40 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 41 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 42 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
-| 43 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 44 | [WINZ](http://twitter.com/search?q=WINZ) | N/A |
-| 45 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
-| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 47 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
-| 48 | [#freereadku](http://twitter.com/search?q=%23freereadku) | N/A |
+| 15 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 18 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
+| 19 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 20 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 21 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 22 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 23 | [Monday and Tuesday](http://twitter.com/search?q=Monday+and+Tuesday) | N/A |
+| 24 | [East](http://twitter.com/search?q=East) | N/A |
+| 25 | [waititi](http://twitter.com/search?q=waititi) | N/A |
+| 26 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 28 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
+| 29 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 30 | [Buying](http://twitter.com/search?q=Buying) | N/A |
+| 31 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 32 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 33 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 34 | [Typical](http://twitter.com/search?q=Typical) | N/A |
+| 35 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 36 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 37 | [coromandel](http://twitter.com/search?q=coromandel) | N/A |
+| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 40 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 41 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
+| 42 | [southland](http://twitter.com/search?q=southland) | N/A |
+| 43 | [WINZ](http://twitter.com/search?q=WINZ) | N/A |
+| 44 | [Minimum](http://twitter.com/search?q=Minimum) | N/A |
+| 45 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 46 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
+| 47 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 48 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 
 

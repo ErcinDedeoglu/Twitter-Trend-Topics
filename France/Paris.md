@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-10 11:16:01 UTC`
+📆 Last Updated: `2023-02-10 12:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,42 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 2 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
-| 3 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 4 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 5 | [#OMPSG](http://twitter.com/search?q=%23OMPSG) | N/A |
-| 6 | [#FCLRCL](http://twitter.com/search?q=%23FCLRCL) | N/A |
-| 7 | [#FaceABFM](http://twitter.com/search?q=%23FaceABFM) | N/A |
-| 8 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 9 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 10 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 11 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 12 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 13 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 2 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 3 | [#greve11fevrier](http://twitter.com/search?q=%23greve11fevrier) | N/A |
+| 4 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 5 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 6 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
+| 7 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
+| 8 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 9 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 10 | [#JJK213](http://twitter.com/search?q=%23JJK213) | N/A |
+| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 12 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 13 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
 | 14 | [Totti](http://twitter.com/search?q=Totti) | N/A |
-| 15 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 16 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 17 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 18 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 19 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
-| 20 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 21 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 26 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 28 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 29 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 30 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 33 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 34 | [Cravity](http://twitter.com/search?q=Cravity) | N/A |
-| 35 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 36 | [Leca](http://twitter.com/search?q=Leca) | N/A |
-| 37 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
-| 38 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 39 | [CUPIDON](http://twitter.com/search?q=CUPIDON) | N/A |
-| 40 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 41 | [Manigold](http://twitter.com/search?q=Manigold) | N/A |
-| 42 | [Berbatov](http://twitter.com/search?q=Berbatov) | N/A |
-| 43 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 44 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 46 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
-| 47 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 49 | [Romain Gary](http://twitter.com/search?q=Romain+Gary) | N/A |
-| 50 | [PUBLICS](http://twitter.com/search?q=PUBLICS) | N/A |
+| 15 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 16 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 17 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 18 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 19 | [Micromania](http://twitter.com/search?q=Micromania) | N/A |
+| 20 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
+| 21 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 22 | [Switek](http://twitter.com/search?q=Switek) | N/A |
+| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 24 | [Riester](http://twitter.com/search?q=Riester) | N/A |
+| 25 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 27 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 28 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 29 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
+| 30 | [BFMTV](http://twitter.com/search?q=BFMTV) | N/A |
+| 31 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 32 | [Godwin](http://twitter.com/search?q=Godwin) | N/A |
+| 33 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 34 | [Samedi 11](http://twitter.com/search?q=Samedi+11) | N/A |
+| 35 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 36 | [#Repas1euro](http://twitter.com/search?q=%23Repas1euro) | N/A |
+| 37 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
 
 
 

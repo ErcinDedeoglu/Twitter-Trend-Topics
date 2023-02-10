@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-10 11:16:23 UTC`
+📆 Last Updated: `2023-02-10 12:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AmjadIslamAmjad](http://twitter.com/search?q=%23AmjadIslamAmjad) | N/A |
-| 2 | [#امجد_اسلام_امجد](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%ac%d8%af_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a7%d9%85%d8%ac%d8%af) | N/A |
+| 2 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
 | 3 | [#ApologizeToShahbazGill](http://twitter.com/search?q=%23ApologizeToShahbazGill) | N/A |
-| 4 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 4 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
 | 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 6 | [dowry free society](http://twitter.com/search?q=dowry+free+society) | N/A |
-| 7 | [Bloody Civilians](http://twitter.com/search?q=Bloody+Civilians) | N/A |
-| 8 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 9 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 10 | [Saint Rampal Ji](http://twitter.com/search?q=Saint+Rampal+Ji) | N/A |
+| 7 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 8 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 9 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
+| 10 | [saint rampal ji](http://twitter.com/search?q=saint+rampal+ji) | N/A |
 | 11 | [MEFP](http://twitter.com/search?q=MEFP) | N/A |
-| 12 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
-| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 14 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 15 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 16 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 17 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
-| 18 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 19 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 20 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 21 | [Javed](http://twitter.com/search?q=Javed) | N/A |
-| 22 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 23 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 24 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 25 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 26 | [Safdar](http://twitter.com/search?q=Safdar) | N/A |
-| 27 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 12 | [Bloody Civilians](http://twitter.com/search?q=Bloody+Civilians) | N/A |
+| 13 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 14 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [Lordships](http://twitter.com/search?q=Lordships) | N/A |
+| 17 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 18 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 19 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 20 | [Javed](http://twitter.com/search?q=Javed) | N/A |
+| 21 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 22 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 23 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 24 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 25 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
+| 26 | [Hazara](http://twitter.com/search?q=Hazara) | N/A |
+| 27 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
+| 28 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
 | 29 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 30 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
-| 31 | [pmln](http://twitter.com/search?q=pmln) | N/A |
-| 32 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 33 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 34 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 36 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 37 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 38 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 39 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 40 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 41 | [Sidharth](http://twitter.com/search?q=Sidharth) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [lanat](http://twitter.com/search?q=lanat) | N/A |
-| 44 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 46 | [Absolutely Right](http://twitter.com/search?q=Absolutely+Right) | N/A |
-| 47 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 31 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 32 | [Kahan](http://twitter.com/search?q=Kahan) | N/A |
+| 33 | [Safdar](http://twitter.com/search?q=Safdar) | N/A |
+| 34 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 35 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 36 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 37 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 38 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 39 | [Khan Sahab](http://twitter.com/search?q=Khan+Sahab) | N/A |
+| 40 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 41 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 42 | [Sidharth](http://twitter.com/search?q=Sidharth) | N/A |
+| 43 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 44 | [Constitutional](http://twitter.com/search?q=Constitutional) | N/A |
+| 45 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 46 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 48 | [Absolutely Right](http://twitter.com/search?q=Absolutely+Right) | N/A |
+| 49 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-10 11:15:49 UTC`
+📆 Last Updated: `2023-02-10 12:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 1 | [#FridayThoughts](http://twitter.com/search?q=%23FridayThoughts) | N/A |
 | 2 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 5 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 3 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 4 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
+| 5 | [#ToryShambles](http://twitter.com/search?q=%23ToryShambles) | N/A |
 | 6 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 8 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 9 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 10 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 11 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 12 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 13 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 14 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
-| 15 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
-| 16 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 17 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 18 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 19 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 20 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 21 | [Patel](http://twitter.com/search?q=Patel) | N/A |
-| 22 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
-| 23 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 24 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 25 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 26 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 27 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 7 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 9 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 10 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 11 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
+| 12 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 13 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 14 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 15 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 16 | [Peckham](http://twitter.com/search?q=Peckham) | N/A |
+| 17 | [West Lancs](http://twitter.com/search?q=West+Lancs) | N/A |
+| 18 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 19 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 20 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 21 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 22 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 23 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 24 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 25 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 26 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 27 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
 | 28 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
-| 29 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 30 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 31 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 32 | [#FridayThoughts](http://twitter.com/search?q=%23FridayThoughts) | N/A |
-| 33 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
-| 34 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 35 | [#FeelGoodFriday](http://twitter.com/search?q=%23FeelGoodFriday) | N/A |
-| 36 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 37 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 38 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
-| 39 | [#ToriesOut218](http://twitter.com/search?q=%23ToriesOut218) | N/A |
-| 40 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
-| 41 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
-| 42 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 43 | [#recession](http://twitter.com/search?q=%23recession) | N/A |
-| 44 | [#clarksonsfarm](http://twitter.com/search?q=%23clarksonsfarm) | N/A |
-| 45 | [#Wordle601](http://twitter.com/search?q=%23Wordle601) | N/A |
-| 46 | [#BurtBacarach](http://twitter.com/search?q=%23BurtBacarach) | N/A |
-| 47 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 48 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 49 | [#Apprenticeship](http://twitter.com/search?q=%23Apprenticeship) | N/A |
+| 29 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
+| 30 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 31 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 32 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 33 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 34 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 35 | [#TransformingPD](http://twitter.com/search?q=%23TransformingPD) | N/A |
+| 36 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 37 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
+| 38 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 39 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 40 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 41 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
+| 42 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 43 | [#FeelGoodFriday](http://twitter.com/search?q=%23FeelGoodFriday) | N/A |
+| 44 | [#ToriesOut218](http://twitter.com/search?q=%23ToriesOut218) | N/A |
+| 45 | [#FlowersOnFriday](http://twitter.com/search?q=%23FlowersOnFriday) | N/A |
+| 46 | [#fallfriday](http://twitter.com/search?q=%23fallfriday) | N/A |
+| 47 | [#ThisIsWhy](http://twitter.com/search?q=%23ThisIsWhy) | N/A |
+| 48 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
+| 49 | [#clarksonsfarm](http://twitter.com/search?q=%23clarksonsfarm) | N/A |
 
 
 
