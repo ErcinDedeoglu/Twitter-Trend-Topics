@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-10 15:15:58 UTC`
+📆 Last Updated: `2023-02-10 16:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#蓮ノ空お披露目](http://twitter.com/search?q=%23%e8%93%ae%e3%83%8e%e7%a9%ba%e3%81%8a%e6%8a%ab%e9%9c%b2%e7%9b%ae) | N/A |
-| 2 | [みっちー](http://twitter.com/search?q=%e3%81%bf%e3%81%a3%e3%81%a1%e3%83%bc) | みっちー is an informal way of saying "ミッチー" (Mickey) in Japanese. It is often used as a nickname for someone named Mickey or as an affectionate term for someone close to you. In English, it could be translated as "Micky" or "Mitch". |
-| 3 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
-| 4 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
-| 5 | [#ヘブバンAngelBeatsコラボ](http://twitter.com/search?q=%23%e3%83%98%e3%83%96%e3%83%90%e3%83%b3AngelBeats%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 6 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
-| 7 | [サクラコ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%82%b3) | N/A |
-| 8 | [マスク着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8) | N/A |
-| 9 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 10 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 11 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 12 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
-| 13 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
-| 14 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
-| 15 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
-| 16 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
-| 17 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 18 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
-| 19 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
-| 20 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
-| 21 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
-| 22 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 23 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 24 | [京本チャレンジ](http://twitter.com/search?q=%e4%ba%ac%e6%9c%ac%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
-| 25 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
-| 26 | [KAT-TUN](http://twitter.com/search?q=KAT-TUN) | KAT-TUN is a Japanese boy band formed in 2006 by Johnny & Associates. The name KAT-TUN is an acronym of the first letter of each member's family name: Kazuya Kamenashi, Akanishi Jin, Tanaka Koki, Taguchi Junnosuke, Ueda Tatsuya and Nakamaru Yuichi. The name can be translated to "Completely and Totally Unstoppable". |
-| 27 | [スタリ単独](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%aa%e5%8d%98%e7%8b%ac) | スタリ単独 (Sutari Tandoku) is a Japanese term that refers to a solo performance of the traditional Japanese string instrument, the shamisen. It literally translates to "solo shamisen performance". |
-| 28 | [セキスイハイムスーパーアリーナ](http://twitter.com/search?q=%e3%82%bb%e3%82%ad%e3%82%b9%e3%82%a4%e3%83%8f%e3%82%a4%e3%83%a0%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
-| 29 | [ホームズとワトソン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%ba%e3%81%a8%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
-| 30 | [茨センター](http://twitter.com/search?q=%e8%8c%a8%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 31 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
-| 32 | [忍田さん](http://twitter.com/search?q=%e5%bf%8d%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 33 | [AdamとEve](http://twitter.com/search?q=Adam%e3%81%a8Eve) | N/A |
-| 34 | [ジュンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%81%8f%e3%82%93) | ジュンくん is a nickname for the Japanese male name Jun. It is a term of endearment, similar to calling someone "Jun-kun" in English. |
-| 35 | [オリビア](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%93%e3%82%a2) | N/A |
-| 36 | [プッチモニ](http://twitter.com/search?q=%e3%83%97%e3%83%83%e3%83%81%e3%83%a2%e3%83%8b) | N/A |
-| 37 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
-| 38 | [シム・ウンギョンさん](http://twitter.com/search?q=%e3%82%b7%e3%83%a0%e3%83%bb%e3%82%a6%e3%83%b3%e3%82%ae%e3%83%a7%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 39 | [ルーラー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | ルーラー (Ruler) is a Japanese word that refers to a ruler or measuring device. In English, it can be used to refer to a ruler, a ruler-like object, or an authority figure. |
-| 40 | [チョコレート言葉](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e8%a8%80%e8%91%89) | N/A |
-| 41 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 42 | [フィーチャー2](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc2) | N/A |
-| 43 | [多井さん](http://twitter.com/search?q=%e5%a4%9a%e4%ba%95%e3%81%95%e3%82%93) | 多井さん is a Japanese honorific title used to refer to someone with a higher social status, such as a teacher, doctor, or businessperson. In English, it can be translated as "Mr./Ms. Tai." |
-| 44 | [奏章プロローグ](http://twitter.com/search?q=%e5%a5%8f%e7%ab%a0%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0) | N/A |
-| 45 | [藤くんのTシャツ](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e3%81%aeT%e3%82%b7%e3%83%a3%e3%83%84) | N/A |
-| 46 | [魔法属性](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b1%9e%e6%80%a7) | 魔法属性 (mahou shuzoku) is a term used in Japanese fantasy and role-playing games to refer to the magical elements or attributes of a character. It is usually associated with characters who possess magical powers, such as wizards, witches, and other supernatural beings. In English, it can be translated as "magical attribute" or "magical property". |
-| 47 | [フィーチャースカウト2](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%882) | N/A |
-| 48 | [魚住さん](http://twitter.com/search?q=%e9%ad%9a%e4%bd%8f%e3%81%95%e3%82%93) | N/A |
-| 49 | [グリッドマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 1 | [アルターエゴ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bf%e3%83%bc%e3%82%a8%e3%82%b4) | N/A |
+| 2 | [#櫻坂46桜月](http://twitter.com/search?q=%23%e6%ab%bb%e5%9d%8246%e6%a1%9c%e6%9c%88) | #櫻坂46桜月 is the official hashtag for the Japanese idol group Sakurazaka46. It translates to "Sakurazaka46 Cherry Blossom Moon". The hashtag is used to promote the group's activities and events. |
+| 3 | [奏章プロローグ](http://twitter.com/search?q=%e5%a5%8f%e7%ab%a0%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0) | N/A |
+| 4 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
+| 5 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
+| 6 | [#ハマダ歌謡祭](http://twitter.com/search?q=%23%e3%83%8f%e3%83%9e%e3%83%80%e6%ad%8c%e8%ac%a1%e7%a5%ad) | N/A |
+| 7 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
+| 8 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
+| 9 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
+| 10 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
+| 11 | [個人の判断](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%81%ae%e5%88%a4%e6%96%ad) | 個人の判断 is a Japanese phrase meaning "personal judgment". It refers to the process of making decisions based on one's own opinion or experience, rather than relying on external sources. |
+| 12 | [サクラコ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%82%b3) | N/A |
+| 13 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 14 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 16 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 17 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
+| 18 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
+| 19 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
+| 20 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
+| 21 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
+| 22 | [マイマイカブリ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%96%e3%83%aa) | N/A |
+| 23 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
+| 24 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
+| 25 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
+| 26 | [イラプション](http://twitter.com/search?q=%e3%82%a4%e3%83%a9%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 27 | [結成27周年](http://twitter.com/search?q=%e7%b5%90%e6%88%9027%e5%91%a8%e5%b9%b4) | N/A |
+| 28 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
+| 29 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 30 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
+| 31 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
+| 32 | [twinrail](http://twitter.com/search?q=twinrail) | N/A |
+| 33 | [ムルちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 34 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
+| 35 | [ホームズとワトソン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%ba%e3%81%a8%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
+| 36 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [京本チャレンジ](http://twitter.com/search?q=%e4%ba%ac%e6%9c%ac%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
+| 38 | [ヴェルサス](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%b5%e3%82%b9) | ヴェルサス (Verusu) is a Japanese fashion brand that specializes in casual streetwear. The brand is known for its bold and colorful designs, which often feature graphic prints and unique silhouettes. The name Verusu is derived from the Latin word "veritas," which means truth. In English, Verusu can be translated to mean "true style." |
+| 39 | [カタツムリ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%83%84%e3%83%a0%e3%83%aa) | N/A |
+| 40 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 41 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
+| 42 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 43 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
+| 44 | [Wordle 602](http://twitter.com/search?q=Wordle+602) | N/A |
+| 45 | [スタリ単独](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%aa%e5%8d%98%e7%8b%ac) | スタリ単独 (Sutari Tandoku) is a Japanese term that refers to a solo performance of the traditional Japanese string instrument, the shamisen. It literally translates to "solo shamisen performance". |
+| 46 | [バズリズム](http://twitter.com/search?q=%e3%83%90%e3%82%ba%e3%83%aa%e3%82%ba%e3%83%a0) | バズリズム is a Japanese media company that produces and distributes content related to music, fashion, and entertainment. The name is a combination of the words "buzz" and "rhythm," which reflects the company's mission to create content that resonates with its audience. In English, it can be translated as "Buzz Rhythm." |
+| 47 | [セキスイハイムスーパーアリーナ](http://twitter.com/search?q=%e3%82%bb%e3%82%ad%e3%82%b9%e3%82%a4%e3%83%8f%e3%82%a4%e3%83%a0%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
+| 48 | [AdamとEve](http://twitter.com/search?q=Adam%e3%81%a8Eve) | N/A |
+| 49 | [ジュンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%81%8f%e3%82%93) | ジュンくん is a nickname for the Japanese male name Jun. It is a term of endearment, similar to calling someone "Jun-kun" in English. |
 
 
 

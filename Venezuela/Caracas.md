@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-02-10 15:15:43 UTC`
+📆 Last Updated: `2023-02-10 16:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#10Feb](http://twitter.com/search?q=%2310Feb) | N/A |
 | 2 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
-| 3 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
-| 4 | [#9Feb](http://twitter.com/search?q=%239Feb) | N/A |
-| 5 | [#PuebloUnidoYVictorioso](http://twitter.com/search?q=%23PuebloUnidoYVictorioso) | N/A |
-| 6 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
-| 7 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
-| 8 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 9 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
-| 10 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
-| 11 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 13 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 14 | [Escudo Nacional de Venezuela](http://twitter.com/search?q=Escudo+Nacional+de+Venezuela) | N/A |
-| 15 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
-| 16 | [Batalla de Carabobo](http://twitter.com/search?q=Batalla+de+Carabobo) | N/A |
-| 17 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 18 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
-| 19 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
-| 20 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 21 | [Legumbres](http://twitter.com/search?q=Legumbres) | N/A |
-| 22 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
-| 23 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 24 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 25 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 26 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
-| 27 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
-| 28 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 29 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
-| 30 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
-| 31 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 32 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
-| 33 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 34 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 3 | [#9Feb](http://twitter.com/search?q=%239Feb) | N/A |
+| 4 | [#yosoyfanb](http://twitter.com/search?q=%23yosoyfanb) | N/A |
+| 5 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
+| 6 | [#SDCxTLT](http://twitter.com/search?q=%23SDCxTLT) | N/A |
+| 7 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
+| 8 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
+| 9 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
+| 10 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 11 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 12 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
+| 13 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
+| 14 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 15 | [Anthony Vizcaya](http://twitter.com/search?q=Anthony+Vizcaya) | N/A |
+| 16 | [Moscoso](http://twitter.com/search?q=Moscoso) | N/A |
+| 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 19 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 20 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 21 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 22 | [Escudo Nacional de Venezuela](http://twitter.com/search?q=Escudo+Nacional+de+Venezuela) | N/A |
+| 23 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
+| 24 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
+| 25 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
+| 26 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 27 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 28 | [Chivita](http://twitter.com/search?q=Chivita) | N/A |
+| 29 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 30 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 31 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
+| 32 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 34 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 35 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
-| 36 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 37 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 38 | [roster de venezuela](http://twitter.com/search?q=roster+de+venezuela) | N/A |
-| 39 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
-| 40 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 41 | [norwith gudiño](http://twitter.com/search?q=norwith+gudi%c3%b1o) | N/A |
-| 42 | [Ticketmundo](http://twitter.com/search?q=Ticketmundo) | N/A |
-| 43 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 44 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 45 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 46 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
-| 47 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 48 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 49 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 50 | [Chirinos](http://twitter.com/search?q=Chirinos) | N/A |
+| 36 | [Ticketmundo](http://twitter.com/search?q=Ticketmundo) | N/A |
+| 37 | [Academia Francesa](http://twitter.com/search?q=Academia+Francesa) | N/A |
+| 38 | [norwith gudiño](http://twitter.com/search?q=norwith+gudi%c3%b1o) | N/A |
+| 39 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 40 | [Venezuela y Curazao](http://twitter.com/search?q=Venezuela+y+Curazao) | N/A |
+| 41 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 42 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 43 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 44 | [Claritza Ron](http://twitter.com/search?q=Claritza+Ron) | N/A |
+| 45 | [Batalla de Carabobo](http://twitter.com/search?q=Batalla+de+Carabobo) | N/A |
+| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 47 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 48 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 49 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
+| 50 | [Graterol](http://twitter.com/search?q=Graterol) | N/A |
 
 
 

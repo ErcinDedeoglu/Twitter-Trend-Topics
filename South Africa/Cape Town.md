@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-10 15:16:07 UTC`
+📆 Last Updated: `2023-02-10 16:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 3 | [President](http://twitter.com/search?q=President) | N/A |
-| 4 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 3 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 4 | [President](http://twitter.com/search?q=President) | N/A |
 | 5 | [#StateofTheNationAddress2023](http://twitter.com/search?q=%23StateofTheNationAddress2023) | N/A |
-| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 7 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 8 | [#nedbankprivateclients](http://twitter.com/search?q=%23nedbankprivateclients) | N/A |
-| 9 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 10 | [Roses](http://twitter.com/search?q=Roses) | N/A |
-| 11 | [State of Disaster](http://twitter.com/search?q=State+of+Disaster) | N/A |
+| 6 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 8 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 9 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
+| 10 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 11 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
 | 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 13 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
 | 14 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 15 | [COMPETITIVE THABANG](http://twitter.com/search?q=COMPETITIVE+THABANG) | N/A |
-| 16 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
-| 17 | [Baroka](http://twitter.com/search?q=Baroka) | N/A |
-| 18 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
-| 19 | [Lepantiti la America](http://twitter.com/search?q=Lepantiti+la+America) | N/A |
-| 20 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
-| 21 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
-| 22 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 23 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
-| 24 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 25 | [Come Dine With Me](http://twitter.com/search?q=Come+Dine+With+Me) | N/A |
-| 26 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 27 | [Blue and Yemi](http://twitter.com/search?q=Blue+and+Yemi) | N/A |
+| 15 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 16 | [Black Crown](http://twitter.com/search?q=Black+Crown) | N/A |
+| 17 | [Roses](http://twitter.com/search?q=Roses) | N/A |
+| 18 | [uncle vinny](http://twitter.com/search?q=uncle+vinny) | N/A |
+| 19 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
+| 20 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 21 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
+| 22 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 23 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 24 | [Lepantiti la America](http://twitter.com/search?q=Lepantiti+la+America) | N/A |
+| 25 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 26 | [Come Dine With Me](http://twitter.com/search?q=Come+Dine+With+Me) | N/A |
+| 27 | [Baroka](http://twitter.com/search?q=Baroka) | N/A |
 | 28 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 29 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 31 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 32 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 33 | [dictatorship](http://twitter.com/search?q=dictatorship) | N/A |
+| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 30 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
+| 31 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
+| 32 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 33 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
 | 34 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 35 | [b. 20 wings](http://twitter.com/search?q=b.+20+wings) | N/A |
-| 36 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
-| 37 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
-| 38 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 39 | [30 WINGS & 50 WINGS](http://twitter.com/search?q=30+WINGS+%26+50+WINGS) | N/A |
-| 40 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 35 | [Mining](http://twitter.com/search?q=Mining) | N/A |
+| 36 | [b. 20 wings](http://twitter.com/search?q=b.+20+wings) | N/A |
+| 37 | [Bucket](http://twitter.com/search?q=Bucket) | N/A |
+| 38 | [smeg 1](http://twitter.com/search?q=smeg+1) | N/A |
+| 39 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 40 | [30 WINGS & 50 WINGS](http://twitter.com/search?q=30+WINGS+%26+50+WINGS) | N/A |
 | 41 | [Counter Assault Team](http://twitter.com/search?q=Counter+Assault+Team) | N/A |
-| 42 | [Block 10](http://twitter.com/search?q=Block+10) | N/A |
-| 43 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 44 | [Hungry Lion](http://twitter.com/search?q=Hungry+Lion) | N/A |
-| 45 | [pravin](http://twitter.com/search?q=pravin) | N/A |
-| 46 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 47 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 48 | [OPPO A57s](http://twitter.com/search?q=OPPO+A57s) | N/A |
-| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 42 | [block 10](http://twitter.com/search?q=block+10) | N/A |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [Limpopo](http://twitter.com/search?q=Limpopo) | N/A |
+| 45 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 46 | [oppo a57s](http://twitter.com/search?q=oppo+a57s) | N/A |
+| 47 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 48 | [National Shutdown](http://twitter.com/search?q=National+Shutdown) | N/A |
+| 49 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 50 | [Hungry Lion](http://twitter.com/search?q=Hungry+Lion) | N/A |
 
 
 

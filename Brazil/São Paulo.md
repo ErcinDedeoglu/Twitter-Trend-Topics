@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-10 15:15:45 UTC`
+📆 Last Updated: `2023-02-10 16:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
-| 2 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 3 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
-| 4 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 5 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 6 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 7 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
-| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 9 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 10 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 12 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 13 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 14 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 15 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 16 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 17 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 1 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
+| 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 3 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
+| 4 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 5 | [Leo Santana](http://twitter.com/search?q=Leo+Santana) | Leo Santana is a Brazilian singer, songwriter, and dancer. He is best known for his hit single "Tchu Tcha Tcha" and his collaborations with other artists such as Anitta, Ludmilla, and Ivete Sangalo. The name Leo Santana literally translates to "Lion of Santana" in English. |
+| 6 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
+| 7 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
+| 8 | [yesung](http://twitter.com/search?q=yesung) | N/A |
+| 9 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 10 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 11 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 12 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 13 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 14 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 15 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 16 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 18 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 19 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 20 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 21 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 22 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 23 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 24 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 25 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 26 | [Saint](http://twitter.com/search?q=Saint) | N/A |
-| 27 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 28 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 29 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 30 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 31 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
-| 32 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 33 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 34 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
-| 35 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
-| 38 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 39 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 40 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
-| 41 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 42 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 43 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 44 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 45 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 46 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 47 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
-| 48 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 49 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 50 | [Molho](http://twitter.com/search?q=Molho) | N/A |
+| 19 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 20 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 21 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 22 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 23 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 24 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
+| 25 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 26 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 27 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 28 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 29 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 30 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 31 | [Saint](http://twitter.com/search?q=Saint) | N/A |
+| 32 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 33 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 34 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 35 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
+| 36 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 37 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 40 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
+| 41 | [Velozes e Furiosos 10](http://twitter.com/search?q=Velozes+e+Furiosos+10) | N/A |
+| 42 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 43 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 44 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 45 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
+| 46 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
+| 47 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 48 | [Lucas Souza](http://twitter.com/search?q=Lucas+Souza) | N/A |
+| 49 | [Marins](http://twitter.com/search?q=Marins) | N/A |
+| 50 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
 
 
 

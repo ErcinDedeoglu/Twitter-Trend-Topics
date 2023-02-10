@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-02-10 15:16:13 UTC`
+📆 Last Updated: `2023-02-10 16:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [U20 Ahmedabad](http://twitter.com/search?q=U20+Ahmedabad) | N/A |
-| 2 | [#MahindraAndMahindra](http://twitter.com/search?q=%23MahindraAndMahindra) | N/A |
-| 3 | [#BeerSong](http://twitter.com/search?q=%23BeerSong) | N/A |
-| 4 | [#FreeElephantMalti](http://twitter.com/search?q=%23FreeElephantMalti) | N/A |
-| 5 | [#HaramiMahua](http://twitter.com/search?q=%23HaramiMahua) | N/A |
-| 6 | [#theundertrials](http://twitter.com/search?q=%23theundertrials) | N/A |
+| 1 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
+| 2 | [#AskMalavika](http://twitter.com/search?q=%23AskMalavika) | N/A |
+| 3 | [#PyaarHotaKayiBaarHaiSong](http://twitter.com/search?q=%23PyaarHotaKayiBaarHaiSong) | N/A |
+| 4 | [U20 Ahmedabad](http://twitter.com/search?q=U20+Ahmedabad) | N/A |
+| 5 | [#ChristyTrailerOut](http://twitter.com/search?q=%23ChristyTrailerOut) | N/A |
+| 6 | [#MahindraAndMahindra](http://twitter.com/search?q=%23MahindraAndMahindra) | N/A |
 | 7 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 8 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 9 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 10 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
-| 11 | [Comeback](http://twitter.com/search?q=Comeback) | N/A |
-| 12 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 13 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 16 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
-| 17 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 18 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
-| 19 | [बोहरा समुदाय](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8b%e0%a4%b9%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
-| 20 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 21 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
-| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 9 | [Casting Call](http://twitter.com/search?q=Casting+Call) | N/A |
+| 10 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 13 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 14 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
+| 15 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 16 | [Comeback](http://twitter.com/search?q=Comeback) | N/A |
+| 17 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 18 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 19 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 20 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 21 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
+| 22 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
 | 23 | [राजस्थान सरकार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 25 | [Animal Welfare Board](http://twitter.com/search?q=Animal+Welfare+Board) | N/A |
-| 26 | [Solapur](http://twitter.com/search?q=Solapur) | N/A |
-| 27 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 28 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 29 | [Sainagar Shirdi](http://twitter.com/search?q=Sainagar+Shirdi) | N/A |
-| 30 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 31 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 32 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 24 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 25 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 26 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 27 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 28 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 29 | [Reasi](http://twitter.com/search?q=Reasi) | N/A |
+| 30 | [राष्ट्रीय लोकदल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2) | N/A |
+| 31 | [Animal Welfare Board](http://twitter.com/search?q=Animal+Welfare+Board) | N/A |
+| 32 | [Solapur](http://twitter.com/search?q=Solapur) | N/A |
 | 33 | [CSMT](http://twitter.com/search?q=CSMT) | N/A |
-| 34 | [Reasi](http://twitter.com/search?q=Reasi) | N/A |
-| 35 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 36 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 34 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 35 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 36 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
 | 37 | [कोरोना काल](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%a8%e0%a4%be+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 38 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 39 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 40 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 41 | [#Vikramotsav2023](http://twitter.com/search?q=%23Vikramotsav2023) | N/A |
-| 42 | [#Asksumedh](http://twitter.com/search?q=%23Asksumedh) | N/A |
-| 43 | [#EWS_Demands_Age_Relaxation](http://twitter.com/search?q=%23EWS_Demands_Age_Relaxation) | N/A |
-| 44 | [#ThunivuOST](http://twitter.com/search?q=%23ThunivuOST) | N/A |
-| 45 | [#DBoss](http://twitter.com/search?q=%23DBoss) | N/A |
-| 46 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
-| 47 | [#MahaWithModi](http://twitter.com/search?q=%23MahaWithModi) | N/A |
-| 48 | [#BesharamBollywood](http://twitter.com/search?q=%23BesharamBollywood) | N/A |
-| 49 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
-| 50 | [#D56UncoversOnFeb16](http://twitter.com/search?q=%23D56UncoversOnFeb16) | N/A |
+| 38 | [फिरोज गांधी](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 39 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 40 | [#HaramiMahua](http://twitter.com/search?q=%23HaramiMahua) | N/A |
+| 41 | [#EWS_Demands_Age_Relaxation](http://twitter.com/search?q=%23EWS_Demands_Age_Relaxation) | N/A |
+| 42 | [#FreeElephantMalti](http://twitter.com/search?q=%23FreeElephantMalti) | N/A |
+| 43 | [#beersong](http://twitter.com/search?q=%23beersong) | N/A |
+| 44 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 45 | [#theundertrials](http://twitter.com/search?q=%23theundertrials) | N/A |
+| 46 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 47 | [#Vikramotsav2023](http://twitter.com/search?q=%23Vikramotsav2023) | N/A |
+| 48 | [#ThunivuOST](http://twitter.com/search?q=%23ThunivuOST) | N/A |
+| 49 | [#Asksumedh](http://twitter.com/search?q=%23Asksumedh) | N/A |
+| 50 | [#DBoss](http://twitter.com/search?q=%23DBoss) | N/A |
 
 
 

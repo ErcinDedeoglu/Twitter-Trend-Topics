@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-10 15:15:46 UTC`
+📆 Last Updated: `2023-02-10 16:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 2 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 3 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 4 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
-| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 6 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 7 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 9 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 11 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 12 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 13 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 14 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 15 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 16 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
+| 1 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 2 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 4 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 5 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
+| 6 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 7 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 8 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 10 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 11 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 13 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 14 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 15 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 16 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
 | 17 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
-| 18 | [Purê](http://twitter.com/search?q=Pur%c3%aa) | N/A |
-| 19 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 20 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 21 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 22 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 23 | [Saint](http://twitter.com/search?q=Saint) | N/A |
-| 24 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 25 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 26 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 27 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 18 | [#MandsAnatomy](http://twitter.com/search?q=%23MandsAnatomy) | N/A |
+| 19 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 20 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 21 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 22 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
+| 23 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
+| 24 | [Saint](http://twitter.com/search?q=Saint) | N/A |
+| 25 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 26 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 27 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
 | 28 | [Viva o PT](http://twitter.com/search?q=Viva+o+PT) | N/A |
-| 29 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 30 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 31 | [CAPYBARA ON TOP](http://twitter.com/search?q=CAPYBARA+ON+TOP) | N/A |
-| 32 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
-| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 34 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
-| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 36 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 37 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
-| 38 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 39 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 40 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 41 | [Marins](http://twitter.com/search?q=Marins) | N/A |
-| 42 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 43 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 44 | [L A C R A Ç Ã O](http://twitter.com/search?q=L+A+C+R+A+%c3%87+%c3%83+O) | N/A |
-| 45 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 46 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 29 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 30 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
+| 34 | [Velozes e Furiosos 10](http://twitter.com/search?q=Velozes+e+Furiosos+10) | N/A |
+| 35 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 36 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 37 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 38 | [Inpe](http://twitter.com/search?q=Inpe) | N/A |
+| 39 | [JENNIFFER CALVA](http://twitter.com/search?q=JENNIFFER+CALVA) | N/A |
+| 40 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 41 | [Lucas Souza](http://twitter.com/search?q=Lucas+Souza) | N/A |
+| 42 | [Marins](http://twitter.com/search?q=Marins) | N/A |
+| 43 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
+| 44 | [Há 43](http://twitter.com/search?q=H%c3%a1+43) | N/A |
+| 45 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 46 | [Ancelloti](http://twitter.com/search?q=Ancelloti) | N/A |
+| 47 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 48 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 
 
 

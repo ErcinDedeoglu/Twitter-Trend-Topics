@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-10 15:15:42 UTC`
+📆 Last Updated: `2023-02-10 16:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Argentina](</Argentina>)
 | 3 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
 | 4 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
 | 5 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 6 | [#QuieroLaDeInstituto](http://twitter.com/search?q=%23QuieroLaDeInstituto) | N/A |
-| 7 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 9 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 10 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 11 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 12 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
-| 13 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 14 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 15 | [marisa brel](http://twitter.com/search?q=marisa+brel) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 17 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 18 | [Juan Cruz Giacone](http://twitter.com/search?q=Juan+Cruz+Giacone) | N/A |
+| 6 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 7 | [#QuieroLaDeInstituto](http://twitter.com/search?q=%23QuieroLaDeInstituto) | N/A |
+| 8 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 9 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 10 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 11 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 12 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 13 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 14 | [marisa brel](http://twitter.com/search?q=marisa+brel) | N/A |
+| 15 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 16 | [Juan Cruz Giacone](http://twitter.com/search?q=Juan+Cruz+Giacone) | N/A |
+| 17 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 18 | [lorena maciel](http://twitter.com/search?q=lorena+maciel) | N/A |
 | 19 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 20 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 21 | [nancy pazos](http://twitter.com/search?q=nancy+pazos) | N/A |
-| 22 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 23 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 24 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 25 | [La Quemita](http://twitter.com/search?q=La+Quemita) | N/A |
-| 26 | [Pedro Velurtas](http://twitter.com/search?q=Pedro+Velurtas) | N/A |
-| 27 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 28 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 29 | [primo sos mi favorito](http://twitter.com/search?q=primo+sos+mi+favorito) | N/A |
-| 30 | [Felices 149](http://twitter.com/search?q=Felices+149) | N/A |
-| 31 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 32 | [barreto](http://twitter.com/search?q=barreto) | N/A |
+| 20 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 21 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
+| 22 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 23 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 24 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 25 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 26 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
+| 27 | [Pedro Velurtas](http://twitter.com/search?q=Pedro+Velurtas) | N/A |
+| 28 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 29 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 30 | [primo sos mi favorito](http://twitter.com/search?q=primo+sos+mi+favorito) | N/A |
+| 31 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 32 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 | 33 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 34 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 35 | [AFIP](http://twitter.com/search?q=AFIP) | N/A |
-| 36 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 37 | [Luifa](http://twitter.com/search?q=Luifa) | N/A |
-| 38 | [centro español](http://twitter.com/search?q=centro+espa%c3%b1ol) | N/A |
-| 39 | [LA SOLE EN LA CHAYA](http://twitter.com/search?q=LA+SOLE+EN+LA+CHAYA) | N/A |
-| 40 | [julieta nuestra lider](http://twitter.com/search?q=julieta+nuestra+lider) | N/A |
-| 41 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 42 | [Ley Sáenz Peña](http://twitter.com/search?q=Ley+S%c3%a1enz+Pe%c3%b1a) | N/A |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Si Julieta](http://twitter.com/search?q=Si+Julieta) | N/A |
-| 45 | [Sheraton](http://twitter.com/search?q=Sheraton) | N/A |
-| 46 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 47 | [bien julieta](http://twitter.com/search?q=bien+julieta) | N/A |
-| 48 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 49 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 50 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 34 | [braida](http://twitter.com/search?q=braida) | N/A |
+| 35 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 36 | [centro español](http://twitter.com/search?q=centro+espa%c3%b1ol) | N/A |
+| 37 | [vombergar](http://twitter.com/search?q=vombergar) | N/A |
+| 38 | [LA SOLE EN LA CHAYA](http://twitter.com/search?q=LA+SOLE+EN+LA+CHAYA) | N/A |
+| 39 | [julieta nuestra lider](http://twitter.com/search?q=julieta+nuestra+lider) | N/A |
+| 40 | [Felices 149](http://twitter.com/search?q=Felices+149) | N/A |
+| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 42 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 43 | [Inaudito](http://twitter.com/search?q=Inaudito) | N/A |
+| 44 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 45 | [si julieta](http://twitter.com/search?q=si+julieta) | N/A |
+| 46 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 47 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 48 | [bien julieta](http://twitter.com/search?q=bien+julieta) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
 
 
 

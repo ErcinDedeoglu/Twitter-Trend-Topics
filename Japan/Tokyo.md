@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-10 15:15:59 UTC`
+📆 Last Updated: `2023-02-10 16:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ブルエン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a8%e3%83%b3) | N/A |
-| 2 | [#リエゾン](http://twitter.com/search?q=%23%e3%83%aa%e3%82%a8%e3%82%be%e3%83%b3) | #リエゾン is a Japanese hashtag that translates to "re-edition" in English. It is used to refer to products or items that have been re-released or re-issued in some way. |
+| 2 | [多井さん](http://twitter.com/search?q=%e5%a4%9a%e4%ba%95%e3%81%95%e3%82%93) | 多井さん is a Japanese honorific title used to refer to someone with a higher social status, such as a teacher, doctor, or businessperson. In English, it can be translated as "Mr./Ms. Tai." |
 | 3 | [ONAKAMA最高](http://twitter.com/search?q=ONAKAMA%e6%9c%80%e9%ab%98) | N/A |
-| 4 | [#ねほりんぱほりん](http://twitter.com/search?q=%23%e3%81%ad%e3%81%bb%e3%82%8a%e3%82%93%e3%81%b1%e3%81%bb%e3%82%8a%e3%82%93) | N/A |
-| 5 | [おぱんちゅうさぎ](http://twitter.com/search?q=%e3%81%8a%e3%81%b1%e3%82%93%e3%81%a1%e3%82%85%e3%81%86%e3%81%95%e3%81%8e) | N/A |
-| 6 | [バビロン](http://twitter.com/search?q=%e3%83%90%e3%83%93%e3%83%ad%e3%83%b3) | N/A |
+| 4 | [新ウマ娘](http://twitter.com/search?q=%e6%96%b0%e3%82%a6%e3%83%9e%e5%a8%98) | N/A |
+| 5 | [カルデアス](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%87%e3%82%a2%e3%82%b9) | N/A |
+| 6 | [#酒のツマミになる話](http://twitter.com/search?q=%23%e9%85%92%e3%81%ae%e3%83%84%e3%83%9e%e3%83%9f%e3%81%ab%e3%81%aa%e3%82%8b%e8%a9%b1) | N/A |
 | 7 | [シャトルバス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%88%e3%83%ab%e3%83%90%e3%82%b9) | N/A |
-| 8 | [#WP847](http://twitter.com/search?q=%23WP847) | N/A |
-| 9 | [イベント形式](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e5%bd%a2%e5%bc%8f) | N/A |
-| 10 | [ワクチン業務100人のはず](http://twitter.com/search?q=%e3%83%af%e3%82%af%e3%83%81%e3%83%b3%e6%a5%ad%e5%8b%99100%e4%ba%ba%e3%81%ae%e3%81%af%e3%81%9a) | N/A |
-| 11 | [アヴェンジャー](http://twitter.com/search?q=%e3%82%a2%e3%83%b4%e3%82%a7%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | アヴェンジャー (Avenger) is a Japanese term for a superhero or vigilante who takes justice into their own hands. It is often used to refer to characters from Marvel Comics, such as Iron Man, Captain America, and Thor. In English, the term "avenger" can also be used to describe someone who seeks revenge for a wrong done to them or someone else. |
-| 12 | [夜空ノムコウ](http://twitter.com/search?q=%e5%a4%9c%e7%a9%ba%e3%83%8e%e3%83%a0%e3%82%b3%e3%82%a6) | 夜空ノムコウ is a Japanese song by the band Galileo Galilei. The title translates to "Night Sky, No Limit" in English. The song is about the beauty of the night sky and how it has no limits or boundaries. |
-| 13 | [置換魔術](http://twitter.com/search?q=%e7%bd%ae%e6%8f%9b%e9%ad%94%e8%a1%93) | N/A |
-| 14 | [ベルーナドーム](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%bc%e3%83%8a%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
-| 15 | [ゼニガメ](http://twitter.com/search?q=%e3%82%bc%e3%83%8b%e3%82%ac%e3%83%a1) | N/A |
-| 16 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 17 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 18 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 19 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
-| 20 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
-| 21 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
-| 22 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
-| 23 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
-| 24 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
-| 26 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
-| 27 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
-| 28 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
-| 29 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 30 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 31 | [京本チャレンジ](http://twitter.com/search?q=%e4%ba%ac%e6%9c%ac%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
-| 32 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
-| 33 | [KAT-TUN](http://twitter.com/search?q=KAT-TUN) | KAT-TUN is a Japanese boy band formed in 2006 by Johnny & Associates. The name KAT-TUN is an acronym of the first letter of each member's family name: Kazuya Kamenashi, Akanishi Jin, Tanaka Koki, Taguchi Junnosuke, Ueda Tatsuya and Nakamaru Yuichi. The name can be translated to "Completely and Totally Unstoppable". |
-| 34 | [スタリ単独](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%aa%e5%8d%98%e7%8b%ac) | スタリ単独 (Sutari Tandoku) is a Japanese term that refers to a solo performance of the traditional Japanese string instrument, the shamisen. It literally translates to "solo shamisen performance". |
-| 35 | [セキスイハイムスーパーアリーナ](http://twitter.com/search?q=%e3%82%bb%e3%82%ad%e3%82%b9%e3%82%a4%e3%83%8f%e3%82%a4%e3%83%a0%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
-| 36 | [ホームズとワトソン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%ba%e3%81%a8%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
-| 37 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
-| 38 | [茨センター](http://twitter.com/search?q=%e8%8c%a8%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 39 | [忍田さん](http://twitter.com/search?q=%e5%bf%8d%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 40 | [AdamとEve](http://twitter.com/search?q=Adam%e3%81%a8Eve) | N/A |
-| 41 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
-| 42 | [ジュンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%81%8f%e3%82%93) | ジュンくん is a nickname for the Japanese male name Jun. It is a term of endearment, similar to calling someone "Jun-kun" in English. |
-| 43 | [オリビア](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%93%e3%82%a2) | N/A |
-| 44 | [プッチモニ](http://twitter.com/search?q=%e3%83%97%e3%83%83%e3%83%81%e3%83%a2%e3%83%8b) | N/A |
-| 45 | [シム・ウンギョンさん](http://twitter.com/search?q=%e3%82%b7%e3%83%a0%e3%83%bb%e3%82%a6%e3%83%b3%e3%82%ae%e3%83%a7%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 46 | [ルーラー](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | ルーラー (Ruler) is a Japanese word that refers to a ruler or measuring device. In English, it can be used to refer to a ruler, a ruler-like object, or an authority figure. |
-| 47 | [チョコレート言葉](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e8%a8%80%e8%91%89) | N/A |
-| 48 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 49 | [フィーチャー2](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc2) | N/A |
-| 50 | [多井さん](http://twitter.com/search?q=%e5%a4%9a%e4%ba%95%e3%81%95%e3%82%93) | 多井さん is a Japanese honorific title used to refer to someone with a higher social status, such as a teacher, doctor, or businessperson. In English, it can be translated as "Mr./Ms. Tai." |
+| 8 | [グリッドマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 9 | [個人判断](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e5%88%a4%e6%96%ad) | N/A |
+| 10 | [奏章プロローグ](http://twitter.com/search?q=%e5%a5%8f%e7%ab%a0%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0) | N/A |
+| 11 | [立木さん](http://twitter.com/search?q=%e7%ab%8b%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 12 | [#櫻坂46桜月](http://twitter.com/search?q=%23%e6%ab%bb%e5%9d%8246%e6%a1%9c%e6%9c%88) | #櫻坂46桜月 is the official hashtag for the Japanese idol group Sakurazaka46. It translates to "Sakurazaka46 Cherry Blossom Moon". The hashtag is used to promote the group's activities and events. |
+| 13 | [オリビア](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%93%e3%82%a2) | N/A |
+| 14 | [置換魔術](http://twitter.com/search?q=%e7%bd%ae%e6%8f%9b%e9%ad%94%e8%a1%93) | N/A |
+| 15 | [イムジン河](http://twitter.com/search?q=%e3%82%a4%e3%83%a0%e3%82%b8%e3%83%b3%e6%b2%b3) | N/A |
+| 16 | [ワクチン業務100人のはず](http://twitter.com/search?q=%e3%83%af%e3%82%af%e3%83%81%e3%83%b3%e6%a5%ad%e5%8b%99100%e4%ba%ba%e3%81%ae%e3%81%af%e3%81%9a) | N/A |
+| 17 | [友也くん](http://twitter.com/search?q=%e5%8f%8b%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
+| 18 | [#ハマダ歌謡祭](http://twitter.com/search?q=%23%e3%83%8f%e3%83%9e%e3%83%80%e6%ad%8c%e8%ac%a1%e7%a5%ad) | N/A |
+| 19 | [ウリマンネ](http://twitter.com/search?q=%e3%82%a6%e3%83%aa%e3%83%9e%e3%83%b3%e3%83%8d) | N/A |
+| 20 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 21 | [ディノちゃん](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 23 | [ジェリー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 24 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
+| 25 | [フラフープ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%95%e3%83%bc%e3%83%97) | N/A |
+| 26 | [ドラマティカ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
+| 27 | [第386回](http://twitter.com/search?q=%e7%ac%ac386%e5%9b%9e) | N/A |
+| 28 | [テオくん](http://twitter.com/search?q=%e3%83%86%e3%82%aa%e3%81%8f%e3%82%93) | N/A |
+| 29 | [トムジェリ](http://twitter.com/search?q=%e3%83%88%e3%83%a0%e3%82%b8%e3%82%a7%e3%83%aa) | N/A |
+| 30 | [マイマイカブリ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%96%e3%83%aa) | N/A |
+| 31 | [ぶぎぼ解散](http://twitter.com/search?q=%e3%81%b6%e3%81%8e%e3%81%bc%e8%a7%a3%e6%95%a3) | N/A |
+| 32 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
+| 33 | [フィッティング機能](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%a9%9f%e8%83%bd) | N/A |
+| 34 | [イラプション](http://twitter.com/search?q=%e3%82%a4%e3%83%a9%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 35 | [結成27周年](http://twitter.com/search?q=%e7%b5%90%e6%88%9027%e5%91%a8%e5%b9%b4) | N/A |
+| 36 | [鉄道マニア34人](http://twitter.com/search?q=%e9%89%84%e9%81%93%e3%83%9e%e3%83%8b%e3%82%a234%e4%ba%ba) | N/A |
+| 37 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 38 | [ピザハット](http://twitter.com/search?q=%e3%83%94%e3%82%b6%e3%83%8f%e3%83%83%e3%83%88) | N/A |
+| 39 | [茨の高音](http://twitter.com/search?q=%e8%8c%a8%e3%81%ae%e9%ab%98%e9%9f%b3) | N/A |
+| 40 | [twinrail](http://twitter.com/search?q=twinrail) | N/A |
+| 41 | [ムルちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
+| 43 | [ホームズとワトソン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%ba%e3%81%a8%e3%83%af%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
+| 44 | [千佳ちゃん](http://twitter.com/search?q=%e5%8d%83%e4%bd%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 45 | [京本チャレンジ](http://twitter.com/search?q=%e4%ba%ac%e6%9c%ac%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8) | N/A |
+| 46 | [ヴェルサス](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%b5%e3%82%b9) | ヴェルサス (Verusu) is a Japanese fashion brand that specializes in casual streetwear. The brand is known for its bold and colorful designs, which often feature graphic prints and unique silhouettes. The name Verusu is derived from the Latin word "veritas," which means truth. In English, Verusu can be translated to mean "true style." |
+| 47 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 48 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
+| 49 | [カタツムリ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%83%84%e3%83%a0%e3%83%aa) | N/A |
+| 50 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
 
 
 

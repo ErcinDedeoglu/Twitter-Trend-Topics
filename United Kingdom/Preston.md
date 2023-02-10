@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-10 15:15:38 UTC`
+📆 Last Updated: `2023-02-10 16:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 2 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 3 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 4 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 5 | [#ASongOrMovieForAnythingWet](http://twitter.com/search?q=%23ASongOrMovieForAnythingWet) | N/A |
-| 6 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 8 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 1 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
+| 2 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 3 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
+| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 5 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 6 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
+| 7 | [#apprenticeship](http://twitter.com/search?q=%23apprenticeship) | N/A |
+| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 9 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
 | 10 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 11 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 12 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 13 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 14 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 15 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 16 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 17 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 18 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 20 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 21 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 22 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
-| 23 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 24 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
-| 25 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 26 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 27 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 28 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
-| 29 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 30 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 31 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 32 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 33 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 34 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | #NAW2023 is an acronym for the National Apprenticeship Week 2023, which is an annual event in the United Kingdom that celebrates apprenticeships and the benefits they bring to individuals, businesses, and the economy. |
-| 35 | [#apprenticeship](http://twitter.com/search?q=%23apprenticeship) | N/A |
-| 36 | [#SkillsForLife](http://twitter.com/search?q=%23SkillsForLife) | N/A |
-| 37 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 38 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 39 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 40 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 41 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
-| 42 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
-| 43 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 44 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 45 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
-| 46 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 47 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
-| 48 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 49 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 11 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 12 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 13 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 14 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 15 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 17 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 18 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 19 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 21 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 22 | [Bert](http://twitter.com/search?q=Bert) | N/A |
+| 23 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 24 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 25 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 26 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 27 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 28 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 29 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
+| 30 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 31 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 32 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 33 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 34 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
+| 35 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 36 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 37 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
+| 38 | [#SkillsForLife](http://twitter.com/search?q=%23SkillsForLife) | N/A |
+| 39 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 40 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
+| 41 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 42 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
+| 43 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 44 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 45 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 46 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 47 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 48 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
+| 49 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-10 15:16:03 UTC`
+📆 Last Updated: `2023-02-10 16:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 2 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 4 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
+| 1 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 2 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 3 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 5 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
 | 6 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 7 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 8 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 9 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 10 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 7 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
+| 8 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 9 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
 | 11 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
-| 12 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 15 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
-| 16 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
-| 17 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 18 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 12 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 13 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 14 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
+| 15 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 16 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 17 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 18 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
 | 19 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 20 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 21 | [SALAMAT PO MAAM](http://twitter.com/search?q=SALAMAT+PO+MAAM) | N/A |
-| 22 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 23 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 24 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 25 | [mingyu sunbaenim](http://twitter.com/search?q=mingyu+sunbaenim) | N/A |
-| 26 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 27 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 28 | [SINB](http://twitter.com/search?q=SINB) | N/A |
-| 29 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 30 | [Narda](http://twitter.com/search?q=Narda) | N/A |
-| 31 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 32 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 33 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 34 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 35 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 36 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 37 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 38 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 39 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 40 | [JayB](http://twitter.com/search?q=JayB) | N/A |
-| 41 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 42 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 43 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
-| 44 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
-| 45 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 46 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 47 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 48 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
-| 49 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 50 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 20 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
+| 21 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 22 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 23 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 24 | [Chaeng](http://twitter.com/search?q=Chaeng) | N/A |
+| 25 | [SALAMAT PO MAAM](http://twitter.com/search?q=SALAMAT+PO+MAAM) | N/A |
+| 26 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 27 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 28 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 29 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 30 | [mingyu sunbaenim](http://twitter.com/search?q=mingyu+sunbaenim) | N/A |
+| 31 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 32 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
+| 33 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 34 | [SINB](http://twitter.com/search?q=SINB) | N/A |
+| 35 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 36 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 37 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 38 | [juliever pagibignakayaep2](http://twitter.com/search?q=juliever+pagibignakayaep2) | N/A |
+| 39 | [Narda](http://twitter.com/search?q=Narda) | N/A |
+| 40 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 41 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 42 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 43 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 44 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 45 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 46 | [JayB](http://twitter.com/search?q=JayB) | N/A |
+| 47 | [Clarita](http://twitter.com/search?q=Clarita) | N/A |
+| 48 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 49 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 50 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
 
 
 

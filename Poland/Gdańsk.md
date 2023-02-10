@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-10 15:15:47 UTC`
+📆 Last Updated: `2023-02-10 16:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 2 | [#SzepnijCośMiłego](http://twitter.com/search?q=%23SzepnijCo%c5%9bMi%c5%82ego) | N/A |
-| 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 4 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 5 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 6 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
-| 7 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 8 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 9 | [rumunii](http://twitter.com/search?q=rumunii) | N/A |
-| 10 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 11 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 2 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 3 | [#SzepnijCośMiłego](http://twitter.com/search?q=%23SzepnijCo%c5%9bMi%c5%82ego) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 6 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 7 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 8 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
+| 9 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
+| 10 | [rumunii](http://twitter.com/search?q=rumunii) | N/A |
+| 11 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
 | 12 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 13 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 13 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
 | 14 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
-| 15 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
-| 16 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
-| 17 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 18 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 19 | [leżajsk](http://twitter.com/search?q=le%c5%bcajsk) | N/A |
-| 20 | [Kowalskiego](http://twitter.com/search?q=Kowalskiego) | N/A |
-| 21 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 22 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
-| 23 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 24 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
-| 25 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
-| 26 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
-| 27 | [Amarala](http://twitter.com/search?q=Amarala) | N/A |
-| 28 | [kopernik](http://twitter.com/search?q=kopernik) | N/A |
-| 29 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
-| 30 | [Marc Tarabella](http://twitter.com/search?q=Marc+Tarabella) | N/A |
-| 31 | [morza czarnego](http://twitter.com/search?q=morza+czarnego) | N/A |
-| 32 | [Sybir](http://twitter.com/search?q=Sybir) | N/A |
-| 33 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 15 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 16 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
+| 17 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 18 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
+| 19 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
+| 20 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 21 | [Czarneckiego](http://twitter.com/search?q=Czarneckiego) | N/A |
+| 22 | [Kowalski](http://twitter.com/search?q=Kowalski) | N/A |
+| 23 | [Emiratów](http://twitter.com/search?q=Emirat%c3%b3w) | N/A |
+| 24 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 25 | [Amarala](http://twitter.com/search?q=Amarala) | N/A |
+| 26 | [Marc Tarabella](http://twitter.com/search?q=Marc+Tarabella) | N/A |
+| 27 | [Lidla](http://twitter.com/search?q=Lidla) | N/A |
+| 28 | [Sybir](http://twitter.com/search?q=Sybir) | N/A |
+| 29 | [kopernik](http://twitter.com/search?q=kopernik) | N/A |
+| 30 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 31 | [Leżajsk](http://twitter.com/search?q=Le%c5%bcajsk) | N/A |
+| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 33 | [seicento](http://twitter.com/search?q=seicento) | N/A |
 | 34 | [pucku](http://twitter.com/search?q=pucku) | N/A |
-| 35 | [dubaju](http://twitter.com/search?q=dubaju) | N/A |
-| 36 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 37 | [józef haller](http://twitter.com/search?q=j%c3%b3zef+haller) | N/A |
-| 38 | [glapiński](http://twitter.com/search?q=glapi%c5%84ski) | N/A |
+| 35 | [józef haller](http://twitter.com/search?q=j%c3%b3zef+haller) | N/A |
+| 36 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 37 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 38 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
 | 39 | [Bałtykiem](http://twitter.com/search?q=Ba%c5%82tykiem) | N/A |
 | 40 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 41 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 41 | [Konfy](http://twitter.com/search?q=Konfy) | N/A |
 | 42 | [Białorusią](http://twitter.com/search?q=Bia%c5%82orusi%c4%85) | N/A |
-| 43 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 44 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 45 | [Ujazdowski](http://twitter.com/search?q=Ujazdowski) | N/A |
-| 46 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
-| 47 | [zjednoczone emiraty arabskie](http://twitter.com/search?q=zjednoczone+emiraty+arabskie) | N/A |
-| 48 | [Ławrow](http://twitter.com/search?q=%c5%81awrow) | N/A |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [Radzia](http://twitter.com/search?q=Radzia) | N/A |
+| 45 | [poręba](http://twitter.com/search?q=por%c4%99ba) | N/A |
+| 46 | [Becia](http://twitter.com/search?q=Becia) | N/A |
+| 47 | [Ujazdowski](http://twitter.com/search?q=Ujazdowski) | N/A |
+| 48 | [S-300](http://twitter.com/search?q=S-300) | N/A |
 
 
 

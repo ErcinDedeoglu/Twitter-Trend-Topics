@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-10 15:16:18 UTC`
+📆 Last Updated: `2023-02-10 16:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 2 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 2 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
+| 3 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 9 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 10 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 11 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 12 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
-| 13 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 14 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 15 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 16 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 19 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 20 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 21 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 23 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
-| 24 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 25 | [frye](http://twitter.com/search?q=frye) | N/A |
-| 26 | [St. Scholastica](http://twitter.com/search?q=St.+Scholastica) | N/A |
-| 27 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 28 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
-| 29 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
-| 30 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
-| 31 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
-| 32 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
-| 33 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 34 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 35 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 36 | [Shy Glizzy](http://twitter.com/search?q=Shy+Glizzy) | Shy Glizzy is the stage name of American rapper Marquis Amonte King. The name is derived from his nickname, "Shy," and his hometown of Washington, D.C., which is known as "Glizzy." |
-| 37 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 38 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 39 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 40 | [Ray J](http://twitter.com/search?q=Ray+J) | N/A |
-| 41 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 42 | [Idris](http://twitter.com/search?q=Idris) | N/A |
-| 43 | [You First](http://twitter.com/search?q=You+First) | N/A |
-| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 45 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 46 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 47 | [Figure 8](http://twitter.com/search?q=Figure+8) | N/A |
-| 48 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 49 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 7 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 8 | [blanca](http://twitter.com/search?q=blanca) | N/A |
+| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 10 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 11 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 12 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 13 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 14 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 15 | [Peppers](http://twitter.com/search?q=Peppers) | N/A |
+| 16 | [Andrew Luck](http://twitter.com/search?q=Andrew+Luck) | N/A |
+| 17 | [Kate Bedingfield](http://twitter.com/search?q=Kate+Bedingfield) | N/A |
+| 18 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 19 | [Ben LaBolt](http://twitter.com/search?q=Ben+LaBolt) | N/A |
+| 20 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 21 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 22 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 23 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 24 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 25 | [Himeka](http://twitter.com/search?q=Himeka) | N/A |
+| 26 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 27 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 28 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 29 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
+| 30 | [Kash Doll](http://twitter.com/search?q=Kash+Doll) | N/A |
+| 31 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
+| 32 | [Yo La Tengo](http://twitter.com/search?q=Yo+La+Tengo) | N/A |
+| 33 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 34 | [Tweedle Dee](http://twitter.com/search?q=Tweedle+Dee) | N/A |
+| 35 | [Congratulations Joe](http://twitter.com/search?q=Congratulations+Joe) | N/A |
+| 36 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 37 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 38 | [HAPPY FRIDAY EVERYONE](http://twitter.com/search?q=HAPPY+FRIDAY+EVERYONE) | N/A |
+| 39 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 40 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 41 | [Kelela](http://twitter.com/search?q=Kelela) | N/A |
+| 42 | [Collin Klein](http://twitter.com/search?q=Collin+Klein) | N/A |
+| 43 | [St. Scholastica](http://twitter.com/search?q=St.+Scholastica) | N/A |
+| 44 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 45 | [Rebecca Black](http://twitter.com/search?q=Rebecca+Black) | N/A |
+| 46 | [Shy Glizzy](http://twitter.com/search?q=Shy+Glizzy) | Shy Glizzy is the stage name of American rapper Marquis Amonte King. The name is derived from his nickname, "Shy," and his hometown of Washington, D.C., which is known as "Glizzy." |
+| 47 | [You First](http://twitter.com/search?q=You+First) | N/A |
+| 48 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
+| 49 | [Pennsylvania](http://twitter.com/search?q=Pennsylvania) | N/A |
 
 
 

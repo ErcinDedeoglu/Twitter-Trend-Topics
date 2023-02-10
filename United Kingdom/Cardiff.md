@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-10 15:15:36 UTC`
+📆 Last Updated: `2023-02-10 16:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 2 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 3 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
-| 4 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 5 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 1 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
+| 2 | [#GetUrGreekOn](http://twitter.com/search?q=%23GetUrGreekOn) | N/A |
+| 3 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 4 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 5 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
 | 6 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 7 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 8 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 9 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 10 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 11 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 12 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 13 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 7 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 8 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 9 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
+| 10 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 11 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 12 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 13 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
 | 14 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 15 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 16 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 17 | [Catterall](http://twitter.com/search?q=Catterall) | N/A |
-| 18 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 16 | [Bert](http://twitter.com/search?q=Bert) | N/A |
+| 17 | [Skubala](http://twitter.com/search?q=Skubala) | N/A |
+| 18 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
 | 19 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 20 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
-| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 22 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 23 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 24 | [David Brent](http://twitter.com/search?q=David+Brent) | N/A |
-| 25 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 26 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
-| 27 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 28 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
-| 29 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 30 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 31 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
-| 32 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
-| 33 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 34 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
-| 35 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
-| 36 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 37 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
-| 38 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 39 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 40 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
-| 41 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
-| 42 | [#WorldPulsesDay](http://twitter.com/search?q=%23WorldPulsesDay) | N/A |
-| 43 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 44 | [#PutNHSPayRight](http://twitter.com/search?q=%23PutNHSPayRight) | N/A |
-| 45 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
-| 46 | [#TransformingPD](http://twitter.com/search?q=%23TransformingPD) | N/A |
-| 47 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 48 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 20 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 21 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 22 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 23 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 24 | [Blue Jean](http://twitter.com/search?q=Blue+Jean) | N/A |
+| 25 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 26 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
+| 29 | [CMWYL](http://twitter.com/search?q=CMWYL) | N/A |
+| 30 | [Daily Quordle 382](http://twitter.com/search?q=Daily+Quordle+382) | N/A |
+| 31 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |
+| 32 | [#childrensmentalhealthweek2023](http://twitter.com/search?q=%23childrensmentalhealthweek2023) | N/A |
+| 33 | [#EmotionsInFilmOrSong](http://twitter.com/search?q=%23EmotionsInFilmOrSong) | N/A |
+| 34 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 35 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 36 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 37 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
+| 38 | [#DyddMiwsigCymru](http://twitter.com/search?q=%23DyddMiwsigCymru) | N/A |
+| 39 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
+| 40 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 41 | [#WinRowntrees](http://twitter.com/search?q=%23WinRowntrees) | N/A |
+| 42 | [#CelebrationFriday](http://twitter.com/search?q=%23CelebrationFriday) | N/A |
+| 43 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 44 | [#DressToExpress](http://twitter.com/search?q=%23DressToExpress) | N/A |
+| 45 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 46 | [#NAW23](http://twitter.com/search?q=%23NAW23) | N/A |
+| 47 | [#ClarksonsFarm](http://twitter.com/search?q=%23ClarksonsFarm) | N/A |
 
 
 
