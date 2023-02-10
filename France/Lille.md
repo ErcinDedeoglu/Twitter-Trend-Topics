@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-10 20:16:04 UTC`
+📆 Last Updated: `2023-02-10 21:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
-| 2 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 3 | [#SoutienThomasPortes](http://twitter.com/search?q=%23SoutienThomasPortes) | N/A |
+| 1 | [#VictoiresDeLaMusique](http://twitter.com/search?q=%23VictoiresDeLaMusique) | N/A |
+| 2 | [#SoutienThomasPortes](http://twitter.com/search?q=%23SoutienThomasPortes) | N/A |
+| 3 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
 | 4 | [#Europe2ExclusifManeskin](http://twitter.com/search?q=%23Europe2ExclusifManeskin) | N/A |
-| 5 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 6 | [#OGCNACA](http://twitter.com/search?q=%23OGCNACA) | N/A |
-| 7 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 8 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 9 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 10 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 11 | [De Fournas](http://twitter.com/search?q=De+Fournas) | N/A |
-| 12 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 13 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 14 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 17 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 18 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
-| 19 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 20 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 21 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 22 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 23 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 24 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 25 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 26 | [Papacito](http://twitter.com/search?q=Papacito) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
-| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 32 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 33 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 34 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 35 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 36 | [Julien Dray](http://twitter.com/search?q=Julien+Dray) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 40 | [Kaydop](http://twitter.com/search?q=Kaydop) | N/A |
-| 41 | [Rayane](http://twitter.com/search?q=Rayane) | N/A |
-| 42 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 43 | [Vacra](http://twitter.com/search?q=Vacra) | N/A |
-| 44 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 45 | [Riester](http://twitter.com/search?q=Riester) | N/A |
-| 46 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 47 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 48 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 50 | [Leca](http://twitter.com/search?q=Leca) | N/A |
+| 5 | [#OGCNACA](http://twitter.com/search?q=%23OGCNACA) | N/A |
+| 6 | [Halazia](http://twitter.com/search?q=Halazia) | N/A |
+| 7 | [Juliette Armanet](http://twitter.com/search?q=Juliette+Armanet) | N/A |
+| 8 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
+| 9 | [Calogero](http://twitter.com/search?q=Calogero) | N/A |
+| 10 | [Clara Luciani](http://twitter.com/search?q=Clara+Luciani) | N/A |
+| 11 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 12 | [Vaiana](http://twitter.com/search?q=Vaiana) | N/A |
+| 13 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
+| 14 | [De Fournas](http://twitter.com/search?q=De+Fournas) | N/A |
+| 15 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 16 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 17 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
+| 18 | [Papacito](http://twitter.com/search?q=Papacito) | N/A |
+| 19 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 20 | [Panot](http://twitter.com/search?q=Panot) | N/A |
+| 21 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 22 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
+| 23 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
+| 24 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
+| 25 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 26 | [Zizou](http://twitter.com/search?q=Zizou) | N/A |
+| 27 | [#ATEEZinAmsterdam](http://twitter.com/search?q=%23ATEEZinAmsterdam) | N/A |
+| 28 | [#Les12CoupsDeLAmour](http://twitter.com/search?q=%23Les12CoupsDeLAmour) | N/A |
+| 29 | [#XboxMicromania](http://twitter.com/search?q=%23XboxMicromania) | N/A |
+| 30 | [#LeCross](http://twitter.com/search?q=%23LeCross) | N/A |
+| 31 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 32 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
+| 33 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
+| 34 | [#FreebetPMU](http://twitter.com/search?q=%23FreebetPMU) | N/A |
+| 35 | [#AssembléeNationale](http://twitter.com/search?q=%23Assembl%c3%a9eNationale) | N/A |
+| 36 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 37 | [#SainBallotin](http://twitter.com/search?q=%23SainBallotin) | N/A |
+| 38 | [#ATEEZinEUROPE](http://twitter.com/search?q=%23ATEEZinEUROPE) | N/A |
+| 39 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 40 | [#DOFUS](http://twitter.com/search?q=%23DOFUS) | N/A |
+| 41 | [#VendrediPlaisir](http://twitter.com/search?q=%23VendrediPlaisir) | N/A |
+| 42 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 43 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 44 | [#ProD2](http://twitter.com/search?q=%23ProD2) | N/A |
+| 45 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 46 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 47 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
+| 48 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 49 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 
 
 

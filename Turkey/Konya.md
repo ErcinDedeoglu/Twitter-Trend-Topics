@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-10 20:16:31 UTC`
+📆 Last Updated: `2023-02-10 21:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 2 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
-| 3 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
-| 4 | [Asıl Kim](http://twitter.com/search?q=As%c4%b1l+Kim) | N/A |
-| 5 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 6 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
-| 7 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 8 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
-| 9 | [TahaDuymaza OperatorDestegi](http://twitter.com/search?q=TahaDuymaza+OperatorDestegi) | N/A |
-| 10 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 11 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
-| 12 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
-| 13 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
-| 14 | [Beşiktaşlı](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
-| 15 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 16 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 17 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 18 | [Meltem Ünsal](http://twitter.com/search?q=Meltem+%c3%9cnsal) | N/A |
-| 19 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 20 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 21 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 22 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
-| 23 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
-| 24 | [Güney Koreli](http://twitter.com/search?q=G%c3%bcney+Koreli) | N/A |
-| 25 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
-| 26 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
-| 27 | [DepremBölgelerine MaskeYardımı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MaskeYard%c4%b1m%c4%b1) | N/A |
-| 28 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
-| 29 | [Gecekondu](http://twitter.com/search?q=Gecekondu) | N/A |
-| 30 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
-| 31 | [EN BÜYÜK BEŞİKTAŞ](http://twitter.com/search?q=EN+B%c3%9cY%c3%9cK+BE%c5%9e%c4%b0KTA%c5%9e) | N/A |
-| 32 | [Koca](http://twitter.com/search?q=Koca) | N/A |
-| 33 | [Halime](http://twitter.com/search?q=Halime) | N/A |
-| 34 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 35 | [Mehmet Yaşar Coşkun](http://twitter.com/search?q=Mehmet+Ya%c5%9far+Co%c5%9fkun) | N/A |
-| 36 | [MALATYA'DA KÖYLERE ÇADIR LAZIM](http://twitter.com/search?q=MALATYA%27DA+K%c3%96YLERE+%c3%87ADIR+LAZIM) | N/A |
-| 37 | [Makyaj](http://twitter.com/search?q=Makyaj) | N/A |
-| 38 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
-| 39 | [TUVALET KARAVANLARI](http://twitter.com/search?q=TUVALET+KARAVANLARI) | N/A |
-| 40 | [Verin](http://twitter.com/search?q=Verin) | N/A |
-| 41 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
-| 42 | [Veli Göçer](http://twitter.com/search?q=Veli+G%c3%b6%c3%a7er) | N/A |
-| 43 | [Öldürün](http://twitter.com/search?q=%c3%96ld%c3%bcr%c3%bcn) | N/A |
-| 44 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
-| 45 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 46 | [Çocukları](http://twitter.com/search?q=%c3%87ocuklar%c4%b1) | N/A |
-| 47 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
-| 48 | [Acımayın](http://twitter.com/search?q=Ac%c4%b1may%c4%b1n) | N/A |
-| 49 | [Videoyu](http://twitter.com/search?q=Videoyu) | N/A |
-| 50 | [Öznur](http://twitter.com/search?q=%c3%96znur) | N/A |
+| 2 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
+| 3 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
+| 4 | [TahaDuymaza OperatorDestegi](http://twitter.com/search?q=TahaDuymaza+OperatorDestegi) | N/A |
+| 5 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
+| 6 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 7 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 8 | [Asıl Kim](http://twitter.com/search?q=As%c4%b1l+Kim) | N/A |
+| 9 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
+| 10 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 11 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 12 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 13 | [Ellerinize](http://twitter.com/search?q=Ellerinize) | N/A |
+| 14 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
+| 15 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
+| 16 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 17 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 18 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 19 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 20 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 21 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 22 | [Beşiktaşlı](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1) | N/A |
+| 23 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 24 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 25 | [Hollanda](http://twitter.com/search?q=Hollanda) | N/A |
+| 26 | [Kurtarılmış](http://twitter.com/search?q=Kurtar%c4%b1lm%c4%b1%c5%9f) | N/A |
+| 27 | [Şehitler](http://twitter.com/search?q=%c5%9eehitler) | N/A |
+| 28 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
+| 29 | [Güney Koreli](http://twitter.com/search?q=G%c3%bcney+Koreli) | N/A |
+| 30 | [DepremBölgelerine ÇadırYardımı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+%c3%87ad%c4%b1rYard%c4%b1m%c4%b1) | N/A |
+| 31 | [Meltem Ünsal](http://twitter.com/search?q=Meltem+%c3%9cnsal) | N/A |
+| 32 | [DepremBölgelerine MobilTuvalet](http://twitter.com/search?q=DepremB%c3%b6lgelerine+MobilTuvalet) | N/A |
+| 33 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 34 | [Gecekondu](http://twitter.com/search?q=Gecekondu) | N/A |
+| 35 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 36 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
+| 37 | [Koca](http://twitter.com/search?q=Koca) | N/A |
+| 38 | [Makyaj](http://twitter.com/search?q=Makyaj) | N/A |
+| 39 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 40 | [Çocukları](http://twitter.com/search?q=%c3%87ocuklar%c4%b1) | N/A |
+| 41 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
+| 42 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
+| 43 | [DEPREM BÖLGELERİNE ASTIM İLACI](http://twitter.com/search?q=DEPREM+B%c3%96LGELER%c4%b0NE+ASTIM+%c4%b0LACI) | N/A |
+| 44 | [Süleyman Seba](http://twitter.com/search?q=S%c3%bcleyman+Seba) | N/A |
+| 45 | [Allahınıza](http://twitter.com/search?q=Allah%c4%b1n%c4%b1za) | N/A |
+| 46 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 47 | [EN BÜYÜK BEŞİKTAŞ](http://twitter.com/search?q=EN+B%c3%9cY%c3%9cK+BE%c5%9e%c4%b0KTA%c5%9e) | N/A |
+| 48 | [İbret](http://twitter.com/search?q=%c4%b0bret) | N/A |
+| 49 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 50 | [TUVALET KARAVANLARI](http://twitter.com/search?q=TUVALET+KARAVANLARI) | N/A |
 
 
 

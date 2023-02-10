@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-10 20:16:02 UTC`
+📆 Last Updated: `2023-02-10 21:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,45 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
 | 2 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 3 | [#AgustinGuardisEnLuzu](http://twitter.com/search?q=%23AgustinGuardisEnLuzu) | N/A |
-| 4 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 3 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 4 | [#AgustinGuardisEnLuzu](http://twitter.com/search?q=%23AgustinGuardisEnLuzu) | N/A |
 | 5 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
-| 6 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 6 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
 | 7 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 8 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
-| 9 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 10 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 11 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 16 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 17 | [El 11](http://twitter.com/search?q=El+11) | N/A |
-| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 19 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 20 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Agustín Rossi](http://twitter.com/search?q=Agust%c3%adn+Rossi) | Agustín Rossi is a Spanish surname. It is derived from the given name Agustín, which is a Spanish form of the Latin name Augustinus, meaning "great, magnificent". |
-| 23 | [Pampito](http://twitter.com/search?q=Pampito) | N/A |
-| 24 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 25 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 28 | [Daniel Passarella](http://twitter.com/search?q=Daniel+Passarella) | N/A |
-| 29 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 31 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 32 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 10 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
+| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 12 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 13 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
+| 14 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 15 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 16 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 17 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
+| 18 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 19 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 20 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 21 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 22 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 24 | [Pampito](http://twitter.com/search?q=Pampito) | N/A |
+| 25 | [Daniel Passarella](http://twitter.com/search?q=Daniel+Passarella) | N/A |
+| 26 | [Agustín Rossi](http://twitter.com/search?q=Agust%c3%adn+Rossi) | Agustín Rossi is a Spanish surname. It is derived from the given name Agustín, which is a Spanish form of the Latin name Augustinus, meaning "great, magnificent". |
+| 27 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 28 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 29 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 30 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 31 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 32 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
 | 33 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 34 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 34 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
 | 35 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
 | 36 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 37 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 38 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
-| 39 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
+| 37 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
+| 38 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
+| 39 | [#MarDelPlata](http://twitter.com/search?q=%23MarDelPlata) | N/A |
 | 40 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
 | 41 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
-| 42 | [#MarDelPlata](http://twitter.com/search?q=%23MarDelPlata) | N/A |
 
 
 

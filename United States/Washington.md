@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-02-10 20:16:40 UTC`
+📆 Last Updated: `2023-02-10 21:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 1 | [White House](http://twitter.com/search?q=White+House) | N/A |
 | 2 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 3 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 3 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 4 | [#ChilisDateChallenge](http://twitter.com/search?q=%23ChilisDateChallenge) | N/A |
 | 5 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 6 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 8 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 11 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 12 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 6 | [#MySexTapeIsNamed](http://twitter.com/search?q=%23MySexTapeIsNamed) | N/A |
+| 7 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 8 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 9 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
+| 10 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 12 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 14 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
-| 15 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 16 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 17 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 18 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 20 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 21 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 22 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
-| 23 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 24 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
-| 25 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 26 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 27 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 28 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
-| 29 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 30 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 31 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 32 | [Fast Five](http://twitter.com/search?q=Fast+Five) | N/A |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
-| 35 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 36 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 37 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
-| 38 | [Tokyo Drift](http://twitter.com/search?q=Tokyo+Drift) | N/A |
-| 39 | [Notorious Thugs](http://twitter.com/search?q=Notorious+Thugs) | N/A |
-| 40 | [Object](http://twitter.com/search?q=Object) | N/A |
-| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 15 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 17 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 18 | [Jimmy Haslam](http://twitter.com/search?q=Jimmy+Haslam) | N/A |
+| 19 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 20 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 21 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 22 | [Michael Fulmer](http://twitter.com/search?q=Michael+Fulmer) | N/A |
+| 23 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 24 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 25 | [Object](http://twitter.com/search?q=Object) | N/A |
+| 26 | [Fast & Furious](http://twitter.com/search?q=Fast+%26+Furious) | N/A |
+| 27 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 28 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 29 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
+| 30 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
+| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 32 | [Prudhoe Bay](http://twitter.com/search?q=Prudhoe+Bay) | N/A |
+| 33 | [Ken Paxton](http://twitter.com/search?q=Ken+Paxton) | N/A |
+| 34 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 35 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 36 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 37 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 38 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 39 | [Anna Paulina Luna](http://twitter.com/search?q=Anna+Paulina+Luna) | N/A |
+| 40 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 41 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 42 | [National Security Council](http://twitter.com/search?q=National+Security+Council) | N/A |
-| 43 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 44 | [Laura Dern](http://twitter.com/search?q=Laura+Dern) | N/A |
-| 45 | [IBSA](http://twitter.com/search?q=IBSA) | N/A |
-| 46 | [yoojung](http://twitter.com/search?q=yoojung) | N/A |
-| 47 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 43 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 44 | [Fox Corp](http://twitter.com/search?q=Fox+Corp) | N/A |
+| 45 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 46 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 47 | [McNabb](http://twitter.com/search?q=McNabb) | N/A |
 | 48 | [Mark Spitz](http://twitter.com/search?q=Mark+Spitz) | N/A |
-| 49 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 50 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 49 | [Ponzi](http://twitter.com/search?q=Ponzi) | N/A |
+| 50 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 
 
 

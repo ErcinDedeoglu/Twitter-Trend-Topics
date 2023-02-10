@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-10 20:15:58 UTC`
+📆 Last Updated: `2023-02-10 21:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 3 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 4 | [#Ninhue](http://twitter.com/search?q=%23Ninhue) | N/A |
-| 5 | [#BoricEstaQuemandoChile](http://twitter.com/search?q=%23BoricEstaQuemandoChile) | N/A |
-| 6 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 7 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 2 | [#bettyenel13](http://twitter.com/search?q=%23bettyenel13) | N/A |
+| 3 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 4 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 5 | [#Ninhue](http://twitter.com/search?q=%23Ninhue) | N/A |
+| 6 | [#BoricEstaQuemandoChile](http://twitter.com/search?q=%23BoricEstaQuemandoChile) | N/A |
+| 7 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 8 | [#Dichato](http://twitter.com/search?q=%23Dichato) | N/A |
-| 9 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 9 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
 | 10 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
 | 11 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
 | 12 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
 | 13 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 14 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 15 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 16 | [carvallo](http://twitter.com/search?q=carvallo) | N/A |
-| 17 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 18 | [Atria](http://twitter.com/search?q=Atria) | N/A |
-| 19 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 20 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 21 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 22 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 15 | [carvallo](http://twitter.com/search?q=carvallo) | N/A |
+| 16 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 18 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 19 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 20 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 21 | [Paulina Saball](http://twitter.com/search?q=Paulina+Saball) | N/A |
+| 22 | [Cristián de la Fuente](http://twitter.com/search?q=Cristi%c3%a1n+de+la+Fuente) | N/A |
 | 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 24 | [Quillón](http://twitter.com/search?q=Quill%c3%b3n) | N/A |
-| 25 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 26 | [Cristián de la Fuente](http://twitter.com/search?q=Cristi%c3%a1n+de+la+Fuente) | N/A |
-| 27 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 28 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 29 | [Fuentealba](http://twitter.com/search?q=Fuentealba) | N/A |
-| 30 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 31 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
-| 32 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 24 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 25 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 26 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 27 | [Fuentealba](http://twitter.com/search?q=Fuentealba) | N/A |
+| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 29 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
+| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 31 | [Quellón](http://twitter.com/search?q=Quell%c3%b3n) | N/A |
+| 32 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
 | 33 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 34 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 35 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 36 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
-| 37 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
-| 38 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 39 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 40 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 41 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 42 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 43 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 44 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 45 | [Cansu Dere](http://twitter.com/search?q=Cansu+Dere) | N/A |
-| 46 | [Marcelo Díaz](http://twitter.com/search?q=Marcelo+D%c3%adaz) | N/A |
-| 47 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 48 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 49 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 50 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 34 | [Jaime Bassa](http://twitter.com/search?q=Jaime+Bassa) | N/A |
+| 35 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 36 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 37 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 38 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 39 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
+| 40 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 41 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 42 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 43 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 44 | [Astorga](http://twitter.com/search?q=Astorga) | N/A |
+| 45 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 47 | [Cansu Dere](http://twitter.com/search?q=Cansu+Dere) | N/A |
+| 48 | [Marcelo Díaz](http://twitter.com/search?q=Marcelo+D%c3%adaz) | N/A |
+| 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 50 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 
 
 

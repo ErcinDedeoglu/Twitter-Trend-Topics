@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-10 20:16:13 UTC`
+📆 Last Updated: `2023-02-10 21:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Australia](</Australia>)
 | 9 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
 | 10 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
 | 11 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 12 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 13 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 14 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
-| 15 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
-| 16 | [margaret court](http://twitter.com/search?q=margaret+court) | N/A |
-| 17 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 18 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 19 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 20 | [Atar](http://twitter.com/search?q=Atar) | N/A |
-| 21 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 22 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
-| 23 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 24 | [michelle rowland](http://twitter.com/search?q=michelle+rowland) | N/A |
-| 25 | [sportsbet](http://twitter.com/search?q=sportsbet) | N/A |
-| 26 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 27 | [Fite](http://twitter.com/search?q=Fite) | N/A |
-| 28 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 14 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 15 | [gina rinehart](http://twitter.com/search?q=gina+rinehart) | N/A |
+| 16 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
+| 17 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 18 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 19 | [Atar](http://twitter.com/search?q=Atar) | N/A |
+| 20 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 21 | [Rachelle](http://twitter.com/search?q=Rachelle) | N/A |
+| 22 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 23 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
+| 24 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 25 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 26 | [Fite](http://twitter.com/search?q=Fite) | N/A |
+| 27 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 28 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 29 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
 | 30 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 31 | [dr karl](http://twitter.com/search?q=dr+karl) | N/A |
-| 32 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
-| 33 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 34 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
-| 35 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 36 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
-| 37 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 38 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 39 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
-| 40 | [naplan](http://twitter.com/search?q=naplan) | N/A |
-| 41 | [sydney water](http://twitter.com/search?q=sydney+water) | N/A |
-| 42 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
-| 43 | [colac](http://twitter.com/search?q=colac) | N/A |
-| 44 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
+| 31 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 32 | [dr karl](http://twitter.com/search?q=dr+karl) | N/A |
+| 33 | [cooper johns](http://twitter.com/search?q=cooper+johns) | N/A |
+| 34 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 35 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 36 | [sydney mining club](http://twitter.com/search?q=sydney+mining+club) | N/A |
+| 37 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 38 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
+| 39 | [John Mulaney](http://twitter.com/search?q=John+Mulaney) | N/A |
+| 40 | [oleg markov](http://twitter.com/search?q=oleg+markov) | N/A |
+| 41 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 42 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 43 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 44 | [colac](http://twitter.com/search?q=colac) | N/A |
 | 45 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 46 | [World Heritage](http://twitter.com/search?q=World+Heritage) | N/A |
+| 46 | [world heritage](http://twitter.com/search?q=world+heritage) | N/A |
 | 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 48 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
-| 49 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 48 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 49 | [I Say a Little Prayer](http://twitter.com/search?q=I+Say+a+Little+Prayer) | N/A |
 
 
 

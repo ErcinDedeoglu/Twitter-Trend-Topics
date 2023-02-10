@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-10 20:16:06 UTC`
+📆 Last Updated: `2023-02-10 21:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,45 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
 | 2 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
-| 3 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
-| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 7 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
-| 8 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 9 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 10 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 11 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
-| 12 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 13 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
-| 14 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
-| 15 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 16 | [Schulsystem](http://twitter.com/search?q=Schulsystem) | N/A |
-| 17 | [Widerlich](http://twitter.com/search?q=Widerlich) | N/A |
-| 18 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 19 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 20 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 21 | [Tüte](http://twitter.com/search?q=T%c3%bcte) | N/A |
-| 22 | [Aufruf](http://twitter.com/search?q=Aufruf) | N/A |
-| 23 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 24 | [#DSCFCH](http://twitter.com/search?q=%23DSCFCH) | N/A |
-| 25 | [#KSCSGF](http://twitter.com/search?q=%23KSCSGF) | N/A |
-| 26 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 27 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
-| 28 | [#fif23](http://twitter.com/search?q=%23fif23) | N/A |
-| 29 | [#AUESVW](http://twitter.com/search?q=%23AUESVW) | N/A |
-| 30 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 31 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
-| 32 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 33 | [#FastX](http://twitter.com/search?q=%23FastX) | N/A |
-| 34 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 35 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
-| 36 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 37 | [#LauterbachRuecktrittJetzt](http://twitter.com/search?q=%23LauterbachRuecktrittJetzt) | N/A |
+| 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 4 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 5 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
+| 6 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 7 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 9 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 10 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 11 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 12 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 13 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 14 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
+| 15 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 16 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 17 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 18 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 19 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 20 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 21 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 22 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
+| 23 | [Widerlich](http://twitter.com/search?q=Widerlich) | N/A |
+| 24 | [Schulsystem](http://twitter.com/search?q=Schulsystem) | N/A |
+| 25 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 26 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 27 | [#Alaska](http://twitter.com/search?q=%23Alaska) | N/A |
+| 28 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
+| 29 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 30 | [#fif23](http://twitter.com/search?q=%23fif23) | N/A |
+| 31 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 32 | [#DSCFCH](http://twitter.com/search?q=%23DSCFCH) | N/A |
+| 33 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
+| 34 | [#KSCSGF](http://twitter.com/search?q=%23KSCSGF) | N/A |
+| 35 | [#AUESVW](http://twitter.com/search?q=%23AUESVW) | N/A |
+| 36 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 37 | [#arminia](http://twitter.com/search?q=%23arminia) | N/A |
+| 38 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 39 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
+| 40 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 41 | [#LauterbachRuecktrittJetzt](http://twitter.com/search?q=%23LauterbachRuecktrittJetzt) | N/A |
 
 
 

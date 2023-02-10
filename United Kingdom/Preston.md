@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-10 20:15:54 UTC`
+📆 Last Updated: `2023-02-10 21:15:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 2 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 3 | [#comedinewithme](http://twitter.com/search?q=%23comedinewithme) | N/A |
-| 4 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 5 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 6 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
-| 7 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 8 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 9 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 11 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
-| 12 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 13 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
-| 14 | [Primal Scream](http://twitter.com/search?q=Primal+Scream) | N/A |
-| 15 | [Inspiral Carpets](http://twitter.com/search?q=Inspiral+Carpets) | N/A |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 18 | [Morrissey](http://twitter.com/search?q=Morrissey) | N/A |
-| 19 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 21 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 22 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 23 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 24 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 25 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 26 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
-| 27 | [Top of the Pops](http://twitter.com/search?q=Top+of+the+Pops) | N/A |
-| 28 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 30 | [Ireland is in the EU](http://twitter.com/search?q=Ireland+is+in+the+EU) | N/A |
-| 31 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 32 | [Jacqui](http://twitter.com/search?q=Jacqui) | N/A |
-| 33 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 34 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
-| 35 | [Santorini](http://twitter.com/search?q=Santorini) | N/A |
-| 36 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 37 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 38 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 39 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 40 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 41 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 42 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 43 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 44 | [Republic of Ireland](http://twitter.com/search?q=Republic+of+Ireland) | N/A |
-| 45 | [Forest School](http://twitter.com/search?q=Forest+School) | N/A |
-| 46 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 47 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 48 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
-| 49 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 1 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 2 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 3 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 4 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 5 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 6 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 7 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 8 | [#YouSeason4](http://twitter.com/search?q=%23YouSeason4) | N/A |
+| 9 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 10 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 11 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 12 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 13 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 14 | [#WILTY](http://twitter.com/search?q=%23WILTY) | N/A |
+| 15 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
+| 16 | [#5albums07](http://twitter.com/search?q=%235albums07) | N/A |
+| 17 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 18 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 19 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
+| 20 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 21 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 22 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
+| 23 | [Primal Scream](http://twitter.com/search?q=Primal+Scream) | N/A |
+| 24 | [Doop](http://twitter.com/search?q=Doop) | N/A |
+| 25 | [Would I Lie To You](http://twitter.com/search?q=Would+I+Lie+To+You) | N/A |
+| 26 | [Inspiral Carpets](http://twitter.com/search?q=Inspiral+Carpets) | N/A |
+| 27 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
+| 28 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 29 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 31 | [Crick](http://twitter.com/search?q=Crick) | N/A |
+| 32 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 33 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 34 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 35 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 36 | [Morrissey](http://twitter.com/search?q=Morrissey) | N/A |
+| 37 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 38 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 39 | [Emma Thompson](http://twitter.com/search?q=Emma+Thompson) | N/A |
+| 40 | [Top of the Pops](http://twitter.com/search?q=Top+of+the+Pops) | N/A |
+| 41 | [Happy Half Term](http://twitter.com/search?q=Happy+Half+Term) | N/A |
+| 42 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 43 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 44 | [Ireland is in the EU](http://twitter.com/search?q=Ireland+is+in+the+EU) | N/A |
+| 45 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 46 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 47 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 48 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 49 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 
 
 
