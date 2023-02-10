@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-10 07:15:52 UTC`
+📆 Last Updated: `2023-02-10 08:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 3 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 4 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
 | 5 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 6 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 7 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 8 | [#pheelz](http://twitter.com/search?q=%23pheelz) | N/A |
-| 9 | [#accesspreneur](http://twitter.com/search?q=%23accesspreneur) | N/A |
+| 6 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 7 | [Jummah Mubarak](http://twitter.com/search?q=Jummah+Mubarak) | N/A |
+| 8 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 10 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [#cacobag](http://twitter.com/search?q=%23cacobag) | N/A |
 | 12 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 13 | [#TinubuInSokoto](http://twitter.com/search?q=%23TinubuInSokoto) | N/A |
-| 14 | [Edo State](http://twitter.com/search?q=Edo+State) | N/A |
-| 15 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 17 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 18 | [Emir of Aba](http://twitter.com/search?q=Emir+of+Aba) | N/A |
-| 19 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 20 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 21 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 22 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 23 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
-| 24 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 25 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 26 | [who is your guy](http://twitter.com/search?q=who+is+your+guy) | N/A |
-| 27 | [1da banton](http://twitter.com/search?q=1da+banton) | N/A |
-| 28 | [Brymo](http://twitter.com/search?q=Brymo) | Brymo is a stage name for Nigerian singer and songwriter Olawale Ashimi. The name is derived from the combination of his first name, Olawale, and his last name, Ashimi. The meaning of Brymo in English is "Olawale's music". |
-| 29 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 30 | [sheggz in london](http://twitter.com/search?q=sheggz+in+london) | N/A |
-| 31 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 13 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 15 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 16 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 17 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 18 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 19 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
+| 20 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 21 | [Emir of Aba](http://twitter.com/search?q=Emir+of+Aba) | N/A |
+| 22 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 23 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 24 | [sheggz in london](http://twitter.com/search?q=sheggz+in+london) | N/A |
+| 25 | [The Godfather](http://twitter.com/search?q=The+Godfather) | N/A |
+| 26 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
+| 27 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 28 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 29 | [Edo State](http://twitter.com/search?q=Edo+State) | N/A |
+| 30 | [Brymo](http://twitter.com/search?q=Brymo) | Brymo is a stage name for Nigerian singer and songwriter Olawale Ashimi. The name is derived from the combination of his first name, Olawale, and his last name, Ashimi. The meaning of Brymo in English is "Olawale's music". |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 32 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 33 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 34 | [phyna the screen goddess](http://twitter.com/search?q=phyna+the+screen+goddess) | N/A |
-| 35 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 36 | [vote kaniva](http://twitter.com/search?q=vote+kaniva) | N/A |
-| 37 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 38 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
-| 39 | [9th of February](http://twitter.com/search?q=9th+of+February) | N/A |
-| 40 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 41 | [Ororo](http://twitter.com/search?q=Ororo) | N/A |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Goge Africa](http://twitter.com/search?q=Goge+Africa) | N/A |
-| 44 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 45 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 33 | [Excel](http://twitter.com/search?q=Excel) | N/A |
+| 34 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 35 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 36 | [phyna the screen goddess](http://twitter.com/search?q=phyna+the+screen+goddess) | N/A |
+| 37 | [9th of February](http://twitter.com/search?q=9th+of+February) | N/A |
+| 38 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 39 | [vote kaniva](http://twitter.com/search?q=vote+kaniva) | N/A |
+| 40 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 41 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 42 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 43 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
+| 44 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 45 | [Ororo](http://twitter.com/search?q=Ororo) | N/A |
 | 46 | [Buhari in 2015](http://twitter.com/search?q=Buhari+in+2015) | N/A |
-| 47 | [Agbado](http://twitter.com/search?q=Agbado) | N/A |
-| 48 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 49 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 50 | [Bisola](http://twitter.com/search?q=Bisola) | N/A |
+| 47 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 48 | [Mr P](http://twitter.com/search?q=Mr+P) | N/A |
+| 49 | [Goge Africa](http://twitter.com/search?q=Goge+Africa) | N/A |
+| 50 | [Agbado](http://twitter.com/search?q=Agbado) | N/A |
 
 
 

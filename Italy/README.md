@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-10 07:16:15 UTC`
+📆 Last Updated: `2023-02-10 08:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 2 | [#10febbraio](http://twitter.com/search?q=%2310febbraio) | N/A |
-| 3 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 4 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 5 | [#èSoloCon](http://twitter.com/search?q=%23%c3%a8SoloCon) | N/A |
-| 6 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 7 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 8 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 9 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 10 | [#maneskin](http://twitter.com/search?q=%23maneskin) | N/A |
+| 3 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
+| 4 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 5 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
+| 6 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 7 | [#èSoloCon](http://twitter.com/search?q=%23%c3%a8SoloCon) | N/A |
+| 8 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 9 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 10 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
 | 11 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
 | 12 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 13 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 14 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 15 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 16 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 19 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 13 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
+| 14 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 17 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 18 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 19 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
 | 20 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 21 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 22 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 23 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 24 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 25 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 26 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 21 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 22 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 23 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
+| 24 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 25 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 26 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 27 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 28 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 28 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
 | 29 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
 | 30 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
-| 31 | [Siani](http://twitter.com/search?q=Siani) | N/A |
-| 32 | [MASSIMO RANIERI](http://twitter.com/search?q=MASSIMO+RANIERI) | N/A |
-| 33 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 34 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 35 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
-| 36 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 37 | [L'Italia](http://twitter.com/search?q=L%27Italia) | N/A |
-| 38 | [codice 10](http://twitter.com/search?q=codice+10) | N/A |
-| 39 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 40 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 41 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 42 | [codice 06](http://twitter.com/search?q=codice+06) | N/A |
-| 43 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 44 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 45 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 46 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 31 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 32 | [Siani](http://twitter.com/search?q=Siani) | N/A |
+| 33 | [MASSIMO RANIERI](http://twitter.com/search?q=MASSIMO+RANIERI) | N/A |
+| 34 | [Istria](http://twitter.com/search?q=Istria) | N/A |
+| 35 | [Articolo 31](http://twitter.com/search?q=Articolo+31) | N/A |
+| 36 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 37 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 38 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 39 | [Benigni](http://twitter.com/search?q=Benigni) | N/A |
+| 40 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 41 | [Enogu](http://twitter.com/search?q=Enogu) | N/A |
+| 42 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 43 | [codice 10](http://twitter.com/search?q=codice+10) | N/A |
+| 44 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
+| 45 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 46 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
 | 47 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
-| 48 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 49 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 50 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 48 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 49 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 50 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
 
 
 

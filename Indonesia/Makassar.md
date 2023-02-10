@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-10 07:15:43 UTC`
+📆 Last Updated: `2023-02-10 08:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KaderNUInspiratif](http://twitter.com/search?q=%23KaderNUInspiratif) | N/A |
-| 2 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
-| 3 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
-| 4 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 5 | [Rais Aam PBNU](http://twitter.com/search?q=Rais+Aam+PBNU) | N/A |
-| 6 | [#KiprahET](http://twitter.com/search?q=%23KiprahET) | N/A |
-| 7 | [Bukan Orang Baru](http://twitter.com/search?q=Bukan+Orang+Baru) | N/A |
-| 8 | [Kyai Miftachul Ahyar](http://twitter.com/search?q=Kyai+Miftachul+Ahyar) | N/A |
-| 9 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
+| 1 | [#TransformasiDanEfisiensi](http://twitter.com/search?q=%23TransformasiDanEfisiensi) | N/A |
+| 2 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
+| 3 | [#KaderNUInspiratif](http://twitter.com/search?q=%23KaderNUInspiratif) | N/A |
+| 4 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
+| 5 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
+| 6 | [Rais Aam PBNU](http://twitter.com/search?q=Rais+Aam+PBNU) | N/A |
+| 7 | [#KiprahET](http://twitter.com/search?q=%23KiprahET) | N/A |
+| 8 | [Bukan Orang Baru](http://twitter.com/search?q=Bukan+Orang+Baru) | N/A |
+| 9 | [Kyai Miftachul Ahyar](http://twitter.com/search?q=Kyai+Miftachul+Ahyar) | N/A |
 | 10 | [#ceritajumatan](http://twitter.com/search?q=%23ceritajumatan) | N/A |
 | 11 | [BUMN](http://twitter.com/search?q=BUMN) | N/A |
-| 12 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 13 | [Thanks to BTS](http://twitter.com/search?q=Thanks+to+BTS) | N/A |
-| 14 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 12 | [Thanks to BTS](http://twitter.com/search?q=Thanks+to+BTS) | N/A |
+| 13 | [Rp 51](http://twitter.com/search?q=Rp+51) | N/A |
+| 14 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
 | 15 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 16 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 17 | [Draco](http://twitter.com/search?q=Draco) | N/A |
-| 18 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
-| 19 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 20 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 16 | [Turut Berduka Cita](http://twitter.com/search?q=Turut+Berduka+Cita) | N/A |
+| 17 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
+| 18 | [Draco](http://twitter.com/search?q=Draco) | N/A |
+| 19 | [Cowok 2](http://twitter.com/search?q=Cowok+2) | N/A |
+| 20 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
 | 21 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 22 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
-| 23 | [Big 3](http://twitter.com/search?q=Big+3) | N/A |
-| 24 | [SMstan](http://twitter.com/search?q=SMstan) | N/A |
-| 25 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 26 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
-| 27 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 28 | [David](http://twitter.com/search?q=David) | N/A |
-| 29 | [Kota Jayapura](http://twitter.com/search?q=Kota+Jayapura) | N/A |
-| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 31 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 32 | [#JokowiBersamaPetani](http://twitter.com/search?q=%23JokowiBersamaPetani) | N/A |
-| 33 | [#PrayForPapua](http://twitter.com/search?q=%23PrayForPapua) | N/A |
-| 34 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
-| 35 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
+| 23 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 24 | [Bank BRI](http://twitter.com/search?q=Bank+BRI) | N/A |
+| 25 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 26 | [KDRT](http://twitter.com/search?q=KDRT) | N/A |
+| 27 | [SMstan](http://twitter.com/search?q=SMstan) | N/A |
+| 28 | [Big 3](http://twitter.com/search?q=Big+3) | N/A |
+| 29 | [HAPPY GRADUATION MINJI](http://twitter.com/search?q=HAPPY+GRADUATION+MINJI) | N/A |
+| 30 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
+| 31 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 33 | [David](http://twitter.com/search?q=David) | N/A |
+| 34 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 35 | [#PrayForPapua](http://twitter.com/search?q=%23PrayForPapua) | N/A |
 | 36 | [#GDRAGON](http://twitter.com/search?q=%23GDRAGON) | N/A |
-| 37 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 38 | [#HonkaiStarRailPreregistration](http://twitter.com/search?q=%23HonkaiStarRailPreregistration) | N/A |
-| 39 | [#OhmNanonReadyForSG](http://twitter.com/search?q=%23OhmNanonReadyForSG) | N/A |
-| 40 | [#Congraduation_MINJI](http://twitter.com/search?q=%23Congraduation_MINJI) | N/A |
-| 41 | [#민지_졸업_꾸민지생신지](http://twitter.com/search?q=%23%eb%af%bc%ec%a7%80_%ec%a1%b8%ec%97%85_%ea%be%b8%eb%af%bc%ec%a7%80%ec%83%9d%ec%8b%a0%ec%a7%80) | N/A |
-| 42 | [#BukaKembaliKM50](http://twitter.com/search?q=%23BukaKembaliKM50) | N/A |
-| 43 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 44 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
-| 45 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 46 | [#KissanAirdrop](http://twitter.com/search?q=%23KissanAirdrop) | N/A |
-| 47 | [#KSNToTheMoon](http://twitter.com/search?q=%23KSNToTheMoon) | N/A |
-| 48 | [#AirdropKingNews](http://twitter.com/search?q=%23AirdropKingNews) | N/A |
-| 49 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
+| 37 | [#JokowiBersamaPetani](http://twitter.com/search?q=%23JokowiBersamaPetani) | N/A |
+| 38 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
+| 39 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
+| 40 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 41 | [#HonkaiStarRailPreregistration](http://twitter.com/search?q=%23HonkaiStarRailPreregistration) | N/A |
+| 42 | [#OhmNanonReadyForSG](http://twitter.com/search?q=%23OhmNanonReadyForSG) | N/A |
+| 43 | [#JakartaSTINBINMain](http://twitter.com/search?q=%23JakartaSTINBINMain) | N/A |
+| 44 | [#KissanAirdrop](http://twitter.com/search?q=%23KissanAirdrop) | N/A |
+| 45 | [#KSNToTheMoon](http://twitter.com/search?q=%23KSNToTheMoon) | N/A |
+| 46 | [#AirdropKingNews](http://twitter.com/search?q=%23AirdropKingNews) | N/A |
+| 47 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 48 | [#Congraduation_MINJI](http://twitter.com/search?q=%23Congraduation_MINJI) | N/A |
+| 49 | [#민지_졸업_꾸민지생신지](http://twitter.com/search?q=%23%eb%af%bc%ec%a7%80_%ec%a1%b8%ec%97%85_%ea%be%b8%eb%af%bc%ec%a7%80%ec%83%9d%ec%8b%a0%ec%a7%80) | N/A |
 
 
 

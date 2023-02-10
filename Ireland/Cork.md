@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-10 07:15:35 UTC`
+📆 Last Updated: `2023-02-10 08:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
 | 2 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 3 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
-| 4 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
-| 5 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
-| 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 7 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
-| 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 9 | [fianna fáil](http://twitter.com/search?q=fianna+f%c3%a1il) | N/A |
-| 10 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
-| 11 | [#jnlr](http://twitter.com/search?q=%23jnlr) | N/A |
-| 12 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 14 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
-| 15 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 3 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 4 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 6 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
+| 7 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
+| 8 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
+| 9 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 10 | [#jnlr](http://twitter.com/search?q=%23jnlr) | N/A |
+| 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 12 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 13 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
+| 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 15 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
 | 16 | [macdara](http://twitter.com/search?q=macdara) | N/A |
-| 17 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 18 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
-| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 20 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 21 | [eco eye](http://twitter.com/search?q=eco+eye) | N/A |
-| 22 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 23 | [rob herring](http://twitter.com/search?q=rob+herring) | N/A |
-| 24 | [Santry](http://twitter.com/search?q=Santry) | N/A |
-| 25 | [dan sheehan](http://twitter.com/search?q=dan+sheehan) | N/A |
+| 17 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
+| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 19 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
+| 20 | [Santry](http://twitter.com/search?q=Santry) | N/A |
+| 21 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 22 | [eco eye](http://twitter.com/search?q=eco+eye) | N/A |
+| 23 | [Rob Herring](http://twitter.com/search?q=Rob+Herring) | N/A |
+| 24 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 25 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
 | 26 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 27 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 28 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 29 | [20% off club jackets](http://twitter.com/search?q=20%25+off+club+jackets) | N/A |
-| 30 | [conor murray](http://twitter.com/search?q=conor+murray) | N/A |
-| 31 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 32 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
-| 33 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 27 | [Dan Sheehan](http://twitter.com/search?q=Dan+Sheehan) | N/A |
+| 28 | [20% off club jackets](http://twitter.com/search?q=20%25+off+club+jackets) | N/A |
+| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 31 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
+| 32 | [conor murray](http://twitter.com/search?q=conor+murray) | N/A |
+| 33 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 34 | [mahon tribunal](http://twitter.com/search?q=mahon+tribunal) | N/A |
 | 35 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
-| 36 | [mahon tribunal](http://twitter.com/search?q=mahon+tribunal) | N/A |
-| 37 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 38 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 39 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 40 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 41 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 42 | [good friday agreement](http://twitter.com/search?q=good+friday+agreement) | N/A |
-| 43 | [President](http://twitter.com/search?q=President) | N/A |
-| 44 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 45 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [kilmacud crokes](http://twitter.com/search?q=kilmacud+crokes) | N/A |
-| 49 | [Alfie](http://twitter.com/search?q=Alfie) | Alfie is a British male name, derived from the Old English name Alfred. It is also used as a nickname for someone named Alfred. The meaning of Alfie in English is "wise counselor". |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Alison](http://twitter.com/search?q=Alison) | N/A |
+| 38 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 39 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 41 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 42 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 43 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 44 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 45 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 46 | [good friday agreement](http://twitter.com/search?q=good+friday+agreement) | N/A |
+| 47 | [Alfie](http://twitter.com/search?q=Alfie) | Alfie is a British male name, derived from the Old English name Alfred. It is also used as a nickname for someone named Alfred. The meaning of Alfie in English is "wise counselor". |
+| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 49 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 
 
 

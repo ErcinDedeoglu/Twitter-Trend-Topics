@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-10 07:15:50 UTC`
+📆 Last Updated: `2023-02-10 08:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 2 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 3 | [HAPPY BIRTHDAY DONNY](http://twitter.com/search?q=HAPPY+BIRTHDAY+DONNY) | N/A |
-| 4 | [#FELIP_COMPLEXonEatBulaga](http://twitter.com/search?q=%23FELIP_COMPLEXonEatBulaga) | N/A |
-| 5 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
-| 6 | [FELIPStraydogs D-DAY Release](http://twitter.com/search?q=FELIPStraydogs+D-DAY+Release) | N/A |
-| 7 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
-| 8 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 9 | [#OneConciertoPiyu](http://twitter.com/search?q=%23OneConciertoPiyu) | N/A |
-| 10 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
-| 11 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 12 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 13 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 14 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 16 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
-| 17 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 18 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 19 | [jype](http://twitter.com/search?q=jype) | N/A |
-| 20 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 21 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 22 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 23 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 24 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 25 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 26 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 27 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
-| 28 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
-| 29 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
-| 30 | [#VIBEchallenge](http://twitter.com/search?q=%23VIBEchallenge) | N/A |
-| 31 | [#GDRAGON](http://twitter.com/search?q=%23GDRAGON) | N/A |
-| 32 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
-| 33 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
-| 34 | [#DonBelle](http://twitter.com/search?q=%23DonBelle) | N/A |
-| 35 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
-| 36 | [#GAPtheseriesep12](http://twitter.com/search?q=%23GAPtheseriesep12) | N/A |
-| 37 | [#HonkaiStarRailPreregistration](http://twitter.com/search?q=%23HonkaiStarRailPreregistration) | N/A |
-| 38 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
-| 39 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
-| 40 | [#BOYCOTTTuloyTBADNLaban702](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban702) | N/A |
-| 41 | [#민지_졸업_꾸민지생신지](http://twitter.com/search?q=%23%eb%af%bc%ec%a7%80_%ec%a1%b8%ec%97%85_%ea%be%b8%eb%af%bc%ec%a7%80%ec%83%9d%ec%8b%a0%ec%a7%80) | N/A |
-| 42 | [#HELLO_TOUR_IN_MANILA](http://twitter.com/search?q=%23HELLO_TOUR_IN_MANILA) | N/A |
-| 43 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
+| 1 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 2 | [DONNY TURNS 25](http://twitter.com/search?q=DONNY+TURNS+25) | N/A |
+| 3 | [FELIPStraydogs D-DAY Release](http://twitter.com/search?q=FELIPStraydogs+D-DAY+Release) | N/A |
+| 4 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
+| 5 | [#CrownJewelSeulgiDay](http://twitter.com/search?q=%23CrownJewelSeulgiDay) | N/A |
+| 6 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 7 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 8 | [#MCISalvoNiSalvi](http://twitter.com/search?q=%23MCISalvoNiSalvi) | N/A |
+| 9 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
+| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 11 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 12 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
+| 13 | [DavidLicauco ForLAZADA](http://twitter.com/search?q=DavidLicauco+ForLAZADA) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [kdlex its showtime](http://twitter.com/search?q=kdlex+its+showtime) | N/A |
+| 16 | [MANSAE MC MANCHAE](http://twitter.com/search?q=MANSAE+MC+MANCHAE) | N/A |
+| 17 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 18 | [FRANSETH TheHowsOfLove](http://twitter.com/search?q=FRANSETH+TheHowsOfLove) | N/A |
+| 19 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 20 | [special mc huening kai](http://twitter.com/search?q=special+mc+huening+kai) | N/A |
+| 21 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 22 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 23 | [our baby yang is twentyoi](http://twitter.com/search?q=our+baby+yang+is+twentyoi) | N/A |
+| 24 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
+| 25 | [nang aiza](http://twitter.com/search?q=nang+aiza) | N/A |
+| 26 | [SOGIE](http://twitter.com/search?q=SOGIE) | N/A |
+| 27 | [welcome back cutiepie eian](http://twitter.com/search?q=welcome+back+cutiepie+eian) | N/A |
+| 28 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 29 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 30 | [JayB](http://twitter.com/search?q=JayB) | N/A |
+| 31 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 32 | [Go Up](http://twitter.com/search?q=Go+Up) | N/A |
+| 33 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
+| 34 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 35 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
+| 36 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 37 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 38 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 39 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 40 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 41 | [Happy 25th](http://twitter.com/search?q=Happy+25th) | N/A |
+| 42 | [Red Lights](http://twitter.com/search?q=Red+Lights) | N/A |
+| 43 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
+| 44 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 45 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 46 | [Cubao](http://twitter.com/search?q=Cubao) | N/A |
+| 47 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 48 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
+| 49 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 
 
 

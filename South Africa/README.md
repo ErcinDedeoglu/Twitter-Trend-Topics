@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-10 07:16:19 UTC`
+📆 Last Updated: `2023-02-10 08:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for South Africa
 | ------- | ------------ | ------------ |
 | 1 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 2 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 5 | [President](http://twitter.com/search?q=President) | N/A |
-| 6 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
-| 7 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 3 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
+| 4 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 5 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
+| 6 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 7 | [President](http://twitter.com/search?q=President) | N/A |
 | 8 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 9 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 10 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 11 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 10 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
+| 11 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
 | 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 13 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
-| 14 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 15 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 16 | [Cape Town City Hall](http://twitter.com/search?q=Cape+Town+City+Hall) | N/A |
-| 17 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 18 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 19 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 20 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
-| 21 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
-| 22 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 23 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 13 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 14 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 15 | [Cape Town City Hall](http://twitter.com/search?q=Cape+Town+City+Hall) | N/A |
+| 16 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 18 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 19 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
+| 20 | [Special Task Force](http://twitter.com/search?q=Special+Task+Force) | N/A |
+| 21 | [Property](http://twitter.com/search?q=Property) | N/A |
+| 22 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
+| 23 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
 | 24 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
 | 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 26 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 27 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
-| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 31 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
-| 32 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 26 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
+| 27 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 28 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 29 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 32 | [Mark Pilgrim](http://twitter.com/search?q=Mark+Pilgrim) | N/A |
 | 33 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
 | 34 | [Curro](http://twitter.com/search?q=Curro) | N/A |
-| 35 | [Counter Assault Team](http://twitter.com/search?q=Counter+Assault+Team) | N/A |
-| 36 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 37 | [Mantashe](http://twitter.com/search?q=Mantashe) | N/A |
-| 38 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 39 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
-| 40 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 41 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 42 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 43 | [Block 10](http://twitter.com/search?q=Block+10) | N/A |
-| 44 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
-| 45 | [Enhle](http://twitter.com/search?q=Enhle) | N/A |
-| 46 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 47 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 48 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 49 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
-| 50 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 35 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 36 | [Counter Assault Team](http://twitter.com/search?q=Counter+Assault+Team) | N/A |
+| 37 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 38 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 39 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
+| 40 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 41 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 42 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 43 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 44 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 45 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 46 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 47 | [Smeg 1](http://twitter.com/search?q=Smeg+1) | N/A |
+| 48 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 49 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 50 | [Enhle](http://twitter.com/search?q=Enhle) | N/A |
 
 
 

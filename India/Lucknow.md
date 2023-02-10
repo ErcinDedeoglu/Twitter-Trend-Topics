@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-10 07:15:59 UTC`
+📆 Last Updated: `2023-02-10 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 2 | [#OPPOReno8TonFlipkart](http://twitter.com/search?q=%23OPPOReno8TonFlipkart) | N/A |
-| 3 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
-| 4 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
-| 5 | [#VashInCinemas](http://twitter.com/search?q=%23VashInCinemas) | N/A |
-| 6 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 7 | [Lowest Travel With EaseMyTrip](http://twitter.com/search?q=Lowest+Travel+With+EaseMyTrip) | N/A |
-| 8 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 1 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
+| 2 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 3 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 4 | [#UPInvestorsSummit](http://twitter.com/search?q=%23UPInvestorsSummit) | N/A |
+| 5 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
+| 6 | [#RajasthanBudget2023](http://twitter.com/search?q=%23RajasthanBudget2023) | N/A |
+| 7 | [#VashInCinemas](http://twitter.com/search?q=%23VashInCinemas) | N/A |
+| 8 | [Zero Hour On Flipkart](http://twitter.com/search?q=Zero+Hour+On+Flipkart) | N/A |
 | 9 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 10 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 11 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 12 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 13 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 14 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 15 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 16 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 17 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 18 | [AzaadiSAT-2](http://twitter.com/search?q=AzaadiSAT-2) | N/A |
-| 19 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
-| 20 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
-| 21 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 22 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
-| 23 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 25 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 26 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 27 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
-| 28 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 29 | [Small Satellite Launch Vehicle](http://twitter.com/search?q=Small+Satellite+Launch+Vehicle) | N/A |
-| 30 | [UPGIS-2023](http://twitter.com/search?q=UPGIS-2023) | N/A |
-| 31 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
-| 32 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 34 | [Happy Wedding Anniversary](http://twitter.com/search?q=Happy+Wedding+Anniversary) | N/A |
-| 35 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 36 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 37 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 38 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 39 | [Adjusted](http://twitter.com/search?q=Adjusted) | N/A |
-| 40 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 41 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 42 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 43 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 44 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
-| 45 | [#rajasthanbudgetsession](http://twitter.com/search?q=%23rajasthanbudgetsession) | N/A |
-| 46 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
-| 47 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
-| 48 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
-| 49 | [#ViLoveTunes](http://twitter.com/search?q=%23ViLoveTunes) | N/A |
-| 50 | [#teddyday](http://twitter.com/search?q=%23teddyday) | N/A |
+| 10 | [Lowest Travel With EaseMyTrip](http://twitter.com/search?q=Lowest+Travel+With+EaseMyTrip) | N/A |
+| 11 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 12 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 13 | [बीमा राशि](http://twitter.com/search?q=%e0%a4%ac%e0%a5%80%e0%a4%ae%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf) | N/A |
+| 14 | [मुकेश अंबानी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 15 | [राजेश पायलट](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 16 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 17 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 18 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 19 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
+| 21 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 22 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
+| 23 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 24 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 25 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 26 | [Janus-1](http://twitter.com/search?q=Janus-1) | N/A |
+| 27 | [Varun Gandhi](http://twitter.com/search?q=Varun+Gandhi) | N/A |
+| 28 | [साधारण परिवार](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 29 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 31 | [Century](http://twitter.com/search?q=Century) | N/A |
+| 32 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 33 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
+| 34 | [UPGIS-2023](http://twitter.com/search?q=UPGIS-2023) | N/A |
+| 35 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
+| 36 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
+| 37 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
+| 38 | [उत्तम प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 39 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 40 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 41 | [#वरुणगांधी_NewBook](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_NewBook) | N/A |
+| 42 | [#राजस्थान_बजट_2023](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a4%9c%e0%a4%9f_2023) | N/A |
+| 43 | [#Hitman](http://twitter.com/search?q=%23Hitman) | N/A |
+| 44 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 45 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
+| 46 | [#गहलोत_का_झांसा](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4_%e0%a4%95%e0%a4%be_%e0%a4%9d%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%be) | N/A |
+| 47 | [#SSLVD2](http://twitter.com/search?q=%23SSLVD2) | N/A |
+| 48 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
+| 49 | [#teddyday](http://twitter.com/search?q=%23teddyday) | N/A |
+| 50 | [#CheersForReal](http://twitter.com/search?q=%23CheersForReal) | N/A |
 
 
 

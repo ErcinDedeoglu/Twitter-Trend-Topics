@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-10 07:15:34 UTC`
+📆 Last Updated: `2023-02-10 08:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,32 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 2 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 4 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 5 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 6 | [LA SOLE EN LA CHAYA](http://twitter.com/search?q=LA+SOLE+EN+LA+CHAYA) | N/A |
-| 7 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 8 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 9 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 11 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 12 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
-| 13 | [#EsquizosDMC](http://twitter.com/search?q=%23EsquizosDMC) | N/A |
-| 14 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 15 | [#WeGoDownTogether](http://twitter.com/search?q=%23WeGoDownTogether) | N/A |
+| 1 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 2 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 3 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 4 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
+| 5 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 6 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 7 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 8 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 9 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 10 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 11 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 12 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 13 | [LA SOLE EN LA CHAYA](http://twitter.com/search?q=LA+SOLE+EN+LA+CHAYA) | N/A |
+| 14 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 15 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
 | 16 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
-| 17 | [#GranHermanoArgentina2022](http://twitter.com/search?q=%23GranHermanoArgentina2022) | N/A |
-| 18 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
-| 19 | [Alario](http://twitter.com/search?q=Alario) | N/A |
-| 20 | [Sol Pérez](http://twitter.com/search?q=Sol+P%c3%a9rez) | N/A |
-| 21 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 22 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
-| 23 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 24 | [Si Julieta](http://twitter.com/search?q=Si+Julieta) | N/A |
-| 25 | [Juanma](http://twitter.com/search?q=Juanma) | N/A |
-| 26 | [Viviana](http://twitter.com/search?q=Viviana) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
+| 19 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 20 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 21 | [centro español](http://twitter.com/search?q=centro+espa%c3%b1ol) | N/A |
+| 22 | [#GH22](http://twitter.com/search?q=%23GH22) | #GH22 is a hashtag used to refer to the 22nd edition of the Ghana Music Awards, an annual music awards ceremony held in Ghana. |
+| 23 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 24 | [#THESOUND_MV公開](http://twitter.com/search?q=%23THESOUND_MV%e5%85%ac%e9%96%8b) | N/A |
+| 25 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 26 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 27 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [primo sos mi favorito](http://twitter.com/search?q=primo+sos+mi+favorito) | N/A |
+| 31 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 32 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 33 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 35 | [Toy Story 5](http://twitter.com/search?q=Toy+Story+5) | N/A |
+| 36 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 37 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 38 | [Luis Suarez](http://twitter.com/search?q=Luis+Suarez) | N/A |
+| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 40 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 42 | [el palomar](http://twitter.com/search?q=el+palomar) | N/A |
+| 43 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 44 | [Máxima](http://twitter.com/search?q=M%c3%a1xima) | N/A |
+| 45 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 46 | [Drean](http://twitter.com/search?q=Drean) | N/A |
+| 47 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 48 | [Burruchaga](http://twitter.com/search?q=Burruchaga) | N/A |
+| 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 50 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 
 
 
