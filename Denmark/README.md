@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-10 02:42:41 UTC`
+📆 Last Updated: `2023-02-10 03:22:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,24 +22,24 @@ This is top 50 for Denmark
 | 5 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 6 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 7 | [arla](http://twitter.com/search?q=arla) | N/A |
-| 8 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [#nfldk](http://twitter.com/search?q=%23nfldk) | N/A |
-| 11 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 12 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 13 | [Clara Tauson](http://twitter.com/search?q=Clara+Tauson) | N/A |
-| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 15 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 16 | [især](http://twitter.com/search?q=is%c3%a6r) | N/A |
-| 17 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 18 | [mads](http://twitter.com/search?q=mads) | N/A |
-| 19 | [Europas](http://twitter.com/search?q=Europas) | N/A |
-| 20 | [ESEA](http://twitter.com/search?q=ESEA) | N/A |
+| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 9 | [#nfldk](http://twitter.com/search?q=%23nfldk) | N/A |
+| 10 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 11 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 12 | [Clara Tauson](http://twitter.com/search?q=Clara+Tauson) | N/A |
+| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 14 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 15 | [især](http://twitter.com/search?q=is%c3%a6r) | N/A |
+| 16 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 17 | [mads](http://twitter.com/search?q=mads) | N/A |
+| 18 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 19 | [ESEA](http://twitter.com/search?q=ESEA) | N/A |
+| 20 | [#copenhagen](http://twitter.com/search?q=%23copenhagen) | N/A |
 | 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 22 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 23 | [samsam](http://twitter.com/search?q=samsam) | N/A |
-| 24 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 25 | [#copenhagen](http://twitter.com/search?q=%23copenhagen) | N/A |
+| 23 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 24 | [samsam](http://twitter.com/search?q=samsam) | N/A |
+| 25 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 | 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 27 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 28 | [Assad](http://twitter.com/search?q=Assad) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for Denmark
 | 37 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 38 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 39 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 40 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 41 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 42 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
+| 40 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 41 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
+| 42 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
 | 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 44 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 46 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 47 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
 | 48 | [Dansk](http://twitter.com/search?q=Dansk) | N/A |
-| 49 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
+| 49 | [folketinget](http://twitter.com/search?q=folketinget) | N/A |
 | 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 
 

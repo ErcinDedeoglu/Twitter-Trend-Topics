@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-10 02:42:12 UTC`
+📆 Last Updated: `2023-02-10 03:22:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 2 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
-| 3 | [#JUNGWON_SCHOOL_BOY_NO_MORE](http://twitter.com/search?q=%23JUNGWON_SCHOOL_BOY_NO_MORE) | N/A |
-| 4 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 2 | [#JUNGWON_GRADUATIONDAY](http://twitter.com/search?q=%23JUNGWON_GRADUATIONDAY) | N/A |
+| 3 | [#새로운시작_정원아_졸업축하해](http://twitter.com/search?q=%23%ec%83%88%eb%a1%9c%ec%9a%b4%ec%8b%9c%ec%9e%91_%ec%a0%95%ec%9b%90%ec%95%84_%ec%a1%b8%ec%97%85%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 4 | [#73TahunBankBTN](http://twitter.com/search?q=%2373TahunBankBTN) | N/A |
 | 5 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 6 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
 | 7 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
@@ -26,43 +26,43 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 9 | [Bupati Kendal](http://twitter.com/search?q=Bupati+Kendal) | N/A |
 | 10 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
 | 11 | [Selamat Hari Pers Nasional](http://twitter.com/search?q=Selamat+Hari+Pers+Nasional) | N/A |
-| 12 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 12 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
 | 13 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 14 | [Bang PD](http://twitter.com/search?q=Bang+PD) | N/A |
-| 15 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
-| 16 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
-| 17 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 18 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
-| 19 | [Khilafah Merawat Jagat](http://twitter.com/search?q=Khilafah+Merawat+Jagat) | N/A |
-| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 21 | [Big 3](http://twitter.com/search?q=Big+3) | N/A |
-| 22 | [Kembali Pada Hukum Allah](http://twitter.com/search?q=Kembali+Pada+Hukum+Allah) | N/A |
-| 23 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 26 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
-| 27 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 28 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
-| 29 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
-| 30 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 32 | [laba bri 51](http://twitter.com/search?q=laba+bri+51) | N/A |
-| 33 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 34 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 35 | [SMent](http://twitter.com/search?q=SMent) | N/A |
-| 36 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 37 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
-| 38 | [bengbeng](http://twitter.com/search?q=bengbeng) | N/A |
-| 39 | [Hanlim](http://twitter.com/search?q=Hanlim) | N/A |
-| 40 | [Pers Bebas](http://twitter.com/search?q=Pers+Bebas) | N/A |
-| 41 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 42 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 43 | [Masehi](http://twitter.com/search?q=Masehi) | N/A |
-| 44 | [Arah Coffee](http://twitter.com/search?q=Arah+Coffee) | N/A |
-| 45 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 46 | [SMstan](http://twitter.com/search?q=SMstan) | N/A |
-| 47 | [Roka](http://twitter.com/search?q=Roka) | N/A |
-| 48 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
+| 14 | [Demokrasi Bermartabat](http://twitter.com/search?q=Demokrasi+Bermartabat) | N/A |
+| 15 | [SPECIAL MC HUENING KAI](http://twitter.com/search?q=SPECIAL+MC+HUENING+KAI) | N/A |
+| 16 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 17 | [Big 3](http://twitter.com/search?q=Big+3) | N/A |
+| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 20 | [Jayapura](http://twitter.com/search?q=Jayapura) | N/A |
+| 21 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 22 | [Lee Soo Man](http://twitter.com/search?q=Lee+Soo+Man) | N/A |
+| 23 | [SEOJINS MAKNAE V](http://twitter.com/search?q=SEOJINS+MAKNAE+V) | N/A |
+| 24 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 25 | [Zootopia 2](http://twitter.com/search?q=Zootopia+2) | N/A |
+| 26 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 27 | [SULLYOON AND BAE GRADUATES](http://twitter.com/search?q=SULLYOON+AND+BAE+GRADUATES) | N/A |
+| 28 | [SMent](http://twitter.com/search?q=SMent) | N/A |
+| 29 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Reborn Rich](http://twitter.com/search?q=Reborn+Rich) | N/A |
+| 32 | [Hijriyah](http://twitter.com/search?q=Hijriyah) | N/A |
+| 33 | [Mas Gibran](http://twitter.com/search?q=Mas+Gibran) | N/A |
+| 34 | [bengbeng](http://twitter.com/search?q=bengbeng) | N/A |
+| 35 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 36 | [pers bebas](http://twitter.com/search?q=pers+bebas) | N/A |
+| 37 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 38 | [Hanlim](http://twitter.com/search?q=Hanlim) | N/A |
+| 39 | [SKZ THE SOUND MV OUT NOW](http://twitter.com/search?q=SKZ+THE+SOUND+MV+OUT+NOW) | N/A |
+| 40 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 41 | [Khilafah Merawat Jagat](http://twitter.com/search?q=Khilafah+Merawat+Jagat) | N/A |
+| 42 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 43 | [Arah Coffee](http://twitter.com/search?q=Arah+Coffee) | N/A |
+| 44 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 45 | [wonyoung is graduating too](http://twitter.com/search?q=wonyoung+is+graduating+too) | N/A |
+| 46 | [Childfree](http://twitter.com/search?q=Childfree) | N/A |
+| 47 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 48 | [51,4 T](http://twitter.com/search?q=51%2c4+T) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-10 02:42:33 UTC`
+📆 Last Updated: `2023-02-10 03:22:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 2 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 3 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 1 | [Zadina](http://twitter.com/search?q=Zadina) | N/A |
+| 2 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 3 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
 | 4 | [Duren](http://twitter.com/search?q=Duren) | N/A |
-| 5 | [Weaver](http://twitter.com/search?q=Weaver) | N/A |
-| 6 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
-| 7 | [Troy](http://twitter.com/search?q=Troy) | N/A |
-| 8 | [Cade](http://twitter.com/search?q=Cade) | N/A |
-| 9 | [#NFLHonors](http://twitter.com/search?q=%23NFLHonors) | N/A |
-| 10 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 11 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
-| 12 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 13 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 15 | [OROY](http://twitter.com/search?q=OROY) | N/A |
-| 16 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
-| 17 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 18 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 19 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
-| 20 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
-| 21 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
-| 22 | [Sauce Gardner](http://twitter.com/search?q=Sauce+Gardner) | N/A |
-| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 24 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 25 | [#HonkaiStarRailPreregistration](http://twitter.com/search?q=%23HonkaiStarRailPreregistration) | N/A |
-| 26 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
-| 27 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 28 | [Micah Parsons](http://twitter.com/search?q=Micah+Parsons) | N/A |
-| 29 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
-| 30 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
-| 31 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 32 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
-| 33 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 34 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
-| 35 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 37 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
-| 38 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
-| 39 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 40 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 41 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
-| 42 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 43 | [Offensive Player of the Year](http://twitter.com/search?q=Offensive+Player+of+the+Year) | N/A |
-| 44 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
-| 45 | [Dougie](http://twitter.com/search?q=Dougie) | N/A |
-| 46 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 47 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 48 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 49 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 50 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 5 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 6 | [Weaver](http://twitter.com/search?q=Weaver) | N/A |
+| 7 | [#NFLHonors2023](http://twitter.com/search?q=%23NFLHonors2023) | N/A |
+| 8 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 9 | [Brian Daboll](http://twitter.com/search?q=Brian+Daboll) | Brian Daboll is an American football coach who is currently the offensive coordinator for the Buffalo Bills of the National Football League (NFL). He has previously served as an offensive coordinator for the New England Patriots, Miami Dolphins, and Cleveland Browns. The name Brian Daboll is derived from his last name, which is pronounced "dah-bowl". |
+| 10 | [Damar Hamlin](http://twitter.com/search?q=Damar+Hamlin) | Damar Hamlin is a surname of African-American origin. It is derived from the combination of two names, Damar and Hamlin, which are both derived from Old English words. The name Damar means "of the sea" and Hamlin means "little home". Together, the name Damar Hamlin can be interpreted to mean "little home by the sea". |
+| 11 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 12 | [Coach of the Year](http://twitter.com/search?q=Coach+of+the+Year) | N/A |
+| 13 | [George Kittle](http://twitter.com/search?q=George+Kittle) | N/A |
+| 14 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
+| 15 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 17 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
+| 18 | [OROY](http://twitter.com/search?q=OROY) | N/A |
+| 19 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 20 | [COTY](http://twitter.com/search?q=COTY) | N/A |
+| 21 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
+| 22 | [Doug Pederson](http://twitter.com/search?q=Doug+Pederson) | Doug Pederson is an American football coach and former player. He is the head coach of the Philadelphia Eagles of the National Football League (NFL). He previously served as the offensive coordinator for the Kansas City Chiefs and was a quarterback in the NFL for 13 seasons. |
+| 23 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 25 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 26 | [#Jets](http://twitter.com/search?q=%23Jets) | N/A |
+| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 28 | [#HellsKitchen](http://twitter.com/search?q=%23HellsKitchen) | N/A |
+| 29 | [Sauce](http://twitter.com/search?q=Sauce) | N/A |
+| 30 | [Comeback Player of the Year](http://twitter.com/search?q=Comeback+Player+of+the+Year) | N/A |
+| 31 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 32 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 33 | [Justin Jefferson](http://twitter.com/search?q=Justin+Jefferson) | Justin Jefferson is a phrase used to describe someone who is a strong advocate for civil rights and social justice. It is derived from the name of the late civil rights leader, Dr. Martin Luther King Jr., who was known for his commitment to equality and justice for all people. |
+| 34 | [Kenneth Walker](http://twitter.com/search?q=Kenneth+Walker) | Kenneth Walker is a name. It is of English origin and means "handsome ruler". |
+| 35 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 36 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 37 | [OPOY](http://twitter.com/search?q=OPOY) | N/A |
+| 38 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
+| 39 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
+| 40 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 41 | [Offensive Rookie of the Year](http://twitter.com/search?q=Offensive+Rookie+of+the+Year) | N/A |
+| 42 | [CPOY](http://twitter.com/search?q=CPOY) | N/A |
+| 43 | [Woolen](http://twitter.com/search?q=Woolen) | N/A |
+| 44 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 45 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 46 | [Cam Jordan](http://twitter.com/search?q=Cam+Jordan) | N/A |
+| 47 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 48 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 49 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
+| 50 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
 
 
 

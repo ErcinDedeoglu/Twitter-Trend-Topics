@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-10 02:42:46 UTC`
+📆 Last Updated: `2023-02-10 03:22:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,17 +36,17 @@ This is top 50 for Qatar
 | 19 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
 | 20 | [الدفعه الثامنه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d9%87) | N/A |
 | 21 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 22 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 23 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 24 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 25 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 22 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
+| 23 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 24 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 25 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 26 | [الدفعه العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
 | 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 28 | [اليوم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
 | 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 30 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 31 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 32 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 31 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 32 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 33 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 34 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
 | 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-10 02:42:47 UTC`
+📆 Last Updated: `2023-02-10 03:22:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
-| 2 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
+| 2 | [riksbanken](http://twitter.com/search?q=riksbanken) | N/A |
 | 3 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
 | 4 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 5 | [#RallySweden](http://twitter.com/search?q=%23RallySweden) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Sweden
 | 30 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 31 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 32 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
-| 33 | [Ingves](http://twitter.com/search?q=Ingves) | N/A |
+| 33 | [ingves](http://twitter.com/search?q=ingves) | N/A |
 | 34 | [vrinnevisjukhuset](http://twitter.com/search?q=vrinnevisjukhuset) | N/A |
-| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 36 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 37 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 38 | [Egypten](http://twitter.com/search?q=Egypten) | N/A |
-| 39 | [Sanna](http://twitter.com/search?q=Sanna) | N/A |
-| 40 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 41 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 42 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 43 | [samuelsson](http://twitter.com/search?q=samuelsson) | N/A |
-| 44 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
-| 45 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 46 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 47 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
-| 48 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 49 | [tekie](http://twitter.com/search?q=tekie) | N/A |
-| 50 | [björn eriksson](http://twitter.com/search?q=bj%c3%b6rn+eriksson) | N/A |
+| 35 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 36 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 37 | [Egypten](http://twitter.com/search?q=Egypten) | N/A |
+| 38 | [Sanna](http://twitter.com/search?q=Sanna) | N/A |
+| 39 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 40 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 41 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 42 | [samuelsson](http://twitter.com/search?q=samuelsson) | N/A |
+| 43 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
+| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 45 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 46 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 48 | [tekie](http://twitter.com/search?q=tekie) | N/A |
+| 49 | [björn eriksson](http://twitter.com/search?q=bj%c3%b6rn+eriksson) | N/A |
+| 50 | [stort grattis](http://twitter.com/search?q=stort+grattis) | N/A |
 
 
 

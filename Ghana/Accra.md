@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-02-10 02:42:20 UTC`
+📆 Last Updated: `2023-02-10 03:22:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [Ghana](</Ghana>)
 | 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 5 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 6 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 7 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 6 | [#MUNLEE](http://twitter.com/search?q=%23MUNLEE) | N/A |
+| 7 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 8 | [mohammed alhassan](http://twitter.com/search?q=mohammed+alhassan) | N/A |
-| 9 | [#LoveInTheCiti](http://twitter.com/search?q=%23LoveInTheCiti) | N/A |
+| 9 | [#loveintheciti](http://twitter.com/search?q=%23loveintheciti) | N/A |
 | 10 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
 | 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 | 12 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
@@ -31,10 +31,10 @@ This is top 50 for [Ghana](</Ghana>)
 | 14 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
 | 15 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
 | 16 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 17 | [Haruna Iddrisu](http://twitter.com/search?q=Haruna+Iddrisu) | N/A |
-| 18 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 20 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 17 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 18 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 19 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 20 | [Haruna Iddrisu](http://twitter.com/search?q=Haruna+Iddrisu) | N/A |
 | 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 22 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
@@ -53,13 +53,13 @@ This is top 50 for [Ghana](</Ghana>)
 | 36 | [Wale](http://twitter.com/search?q=Wale) | N/A |
 | 37 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
 | 38 | [Nicki Minaj](http://twitter.com/search?q=Nicki+Minaj) | N/A |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 41 | [Bosom Pyung](http://twitter.com/search?q=Bosom+Pyung) | N/A |
-| 42 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [sugarcane remix ft](http://twitter.com/search?q=sugarcane+remix+ft) | N/A |
-| 45 | [king promise](http://twitter.com/search?q=king+promise) | N/A |
+| 39 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 40 | [Bosom Pyung](http://twitter.com/search?q=Bosom+Pyung) | N/A |
+| 41 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [sugarcane remix ft](http://twitter.com/search?q=sugarcane+remix+ft) | N/A |
+| 44 | [king promise](http://twitter.com/search?q=king+promise) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 46 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
 | 47 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 48 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |

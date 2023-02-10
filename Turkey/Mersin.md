@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-10 02:42:30 UTC`
+📆 Last Updated: `2023-02-10 03:22:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,43 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [TahaDuymaza MadenciDesteği](http://twitter.com/search?q=TahaDuymaza+MadenciDeste%c4%9fi) | N/A |
 | 3 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
 | 4 | [#AhbapDernegi](http://twitter.com/search?q=%23AhbapDernegi) | N/A |
-| 5 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
-| 6 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
-| 7 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 5 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 6 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 7 | [#mersinkyk](http://twitter.com/search?q=%23mersinkyk) | N/A |
 | 8 | [#MüteahhitlerYargılansın](http://twitter.com/search?q=%23M%c3%bcteahhitlerYarg%c4%b1lans%c4%b1n) | N/A |
 | 9 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
 | 10 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
 | 11 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
 | 12 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
 | 13 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 14 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 15 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 14 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 15 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
 | 16 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
 | 17 | [Hataya GazMaskesi](http://twitter.com/search?q=Hataya+GazMaskesi) | N/A |
 | 18 | [Coğrafya](http://twitter.com/search?q=Co%c4%9frafya) | N/A |
-| 19 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
-| 20 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 21 | [Kurtulmuşlar](http://twitter.com/search?q=Kurtulmu%c5%9flar) | N/A |
-| 22 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
-| 23 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 24 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 25 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
-| 26 | [İçimin](http://twitter.com/search?q=%c4%b0%c3%a7imin) | N/A |
-| 27 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 28 | [Birol](http://twitter.com/search?q=Birol) | N/A |
-| 29 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 30 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 31 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 32 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
-| 33 | [Elbistan Pınarbaşı](http://twitter.com/search?q=Elbistan+P%c4%b1narba%c5%9f%c4%b1) | N/A |
-| 34 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 35 | [Hayret](http://twitter.com/search?q=Hayret) | N/A |
-| 36 | [Bozuk](http://twitter.com/search?q=Bozuk) | N/A |
-| 37 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 38 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
-| 39 | [Kötülüğün](http://twitter.com/search?q=K%c3%b6t%c3%bcl%c3%bc%c4%9f%c3%bcn) | N/A |
-| 40 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
-| 41 | [Başına](http://twitter.com/search?q=Ba%c5%9f%c4%b1na) | N/A |
-| 42 | [misvak](http://twitter.com/search?q=misvak) | N/A |
-| 43 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
-| 44 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 45 | [Yiğit](http://twitter.com/search?q=Yi%c4%9fit) | N/A |
-| 46 | [Mucize](http://twitter.com/search?q=Mucize) | N/A |
-| 47 | [Hırsızlık](http://twitter.com/search?q=H%c4%b1rs%c4%b1zl%c4%b1k) | N/A |
-| 48 | [#UMUT120SAAT](http://twitter.com/search?q=%23UMUT120SAAT) | N/A |
-| 49 | [#starbucksbitti](http://twitter.com/search?q=%23starbucksbitti) | N/A |
-| 50 | [#celalsengor](http://twitter.com/search?q=%23celalsengor) | N/A |
+| 19 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 20 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 21 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
+| 22 | [Vuran](http://twitter.com/search?q=Vuran) | N/A |
+| 23 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 24 | [Birol](http://twitter.com/search?q=Birol) | N/A |
+| 25 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 26 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 27 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
+| 28 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 29 | [Hayret](http://twitter.com/search?q=Hayret) | N/A |
+| 30 | [Bozuk](http://twitter.com/search?q=Bozuk) | N/A |
+| 31 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 32 | [Ensar](http://twitter.com/search?q=Ensar) | N/A |
+| 33 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
+| 34 | [Parayı](http://twitter.com/search?q=Paray%c4%b1) | N/A |
+| 35 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
+| 36 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
+| 37 | [#DEPREMYARDIM](http://twitter.com/search?q=%23DEPREMYARDIM) | N/A |
+| 38 | [#celalsengor](http://twitter.com/search?q=%23celalsengor) | N/A |
+| 39 | [#yargıyıdurdurun](http://twitter.com/search?q=%23yarg%c4%b1y%c4%b1durdurun) | N/A |
+| 40 | [#Yağmacılar](http://twitter.com/search?q=%23Ya%c4%9fmac%c4%b1lar) | N/A |
+| 41 | [#PartilerinDeğil](http://twitter.com/search?q=%23PartilerinDe%c4%9fil) | N/A |
 
 
 

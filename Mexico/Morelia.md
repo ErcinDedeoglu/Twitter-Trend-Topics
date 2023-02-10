@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-10 02:41:58 UTC`
+📆 Last Updated: `2023-02-10 03:21:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
-| 2 | [#CristianReyEnPlaydoit](http://twitter.com/search?q=%23CristianReyEnPlaydoit) | N/A |
-| 3 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 4 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 5 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 6 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 7 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
-| 8 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
-| 9 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 1 | [#CristianReyEnPlaydoit](http://twitter.com/search?q=%23CristianReyEnPlaydoit) | N/A |
+| 2 | [#SupervivenciaAllStar](http://twitter.com/search?q=%23SupervivenciaAllStar) | N/A |
+| 3 | [MALAS DECISIONES](http://twitter.com/search?q=MALAS+DECISIONES) | N/A |
+| 4 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 5 | [ABSOLUT SMOKY SHOT](http://twitter.com/search?q=ABSOLUT+SMOKY+SHOT) | N/A |
+| 6 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 7 | [STREAM SANVALENTIN](http://twitter.com/search?q=STREAM+SANVALENTIN) | N/A |
+| 8 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 9 | [Nick Bosa](http://twitter.com/search?q=Nick+Bosa) | Nick Bosa is an American football defensive end for the San Francisco 49ers of the National Football League (NFL). He was drafted second overall by the 49ers in the 2019 NFL Draft. He played college football at Ohio State, where he was a two-time consensus All-American and won the Smith–Brown Defensive Lineman of the Year Award in 2018. |
 | 10 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 11 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 11 | [FUEGO EN LA OSCURIDAD](http://twitter.com/search?q=FUEGO+EN+LA+OSCURIDAD) | N/A |
 | 12 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 13 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
-| 14 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 15 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 16 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 17 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 18 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
-| 19 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
-| 20 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 21 | [CETES](http://twitter.com/search?q=CETES) | N/A |
-| 22 | [Ramón Urías](http://twitter.com/search?q=Ram%c3%b3n+Ur%c3%adas) | N/A |
-| 23 | [Camberos](http://twitter.com/search?q=Camberos) | N/A |
-| 24 | [Sayonara](http://twitter.com/search?q=Sayonara) | N/A |
-| 25 | [Lamborinis](http://twitter.com/search?q=Lamborinis) | N/A |
-| 26 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 27 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 28 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 29 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
-| 30 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 13 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 14 | [Pirma](http://twitter.com/search?q=Pirma) | N/A |
+| 15 | [Encendedor](http://twitter.com/search?q=Encendedor) | N/A |
+| 16 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 17 | [HAVE A SAFE FLIGHT SUGA](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+SUGA) | "HAVE A SAFE FLIGHT SUGA" is an expression of well-wishing to someone named Suga who is about to take a flight. It is a way of wishing them a safe journey. |
+| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 19 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 20 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 23 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 24 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 25 | [Osmariel](http://twitter.com/search?q=Osmariel) | N/A |
+| 26 | [SPOTIFY PONME INFIELES](http://twitter.com/search?q=SPOTIFY+PONME+INFIELES) | N/A |
+| 27 | [Ramón Urías](http://twitter.com/search?q=Ram%c3%b3n+Ur%c3%adas) | N/A |
+| 28 | [Camberos](http://twitter.com/search?q=Camberos) | N/A |
+| 29 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 30 | [CETES](http://twitter.com/search?q=CETES) | N/A |
 | 31 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 32 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
-| 33 | [Joma](http://twitter.com/search?q=Joma) | N/A |
-| 34 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 35 | [Debanhi](http://twitter.com/search?q=Debanhi) | N/A |
-| 36 | [Jornada 6](http://twitter.com/search?q=Jornada+6) | N/A |
-| 37 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 38 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 39 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 40 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 41 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 42 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
-| 43 | [Marcha de la Lealtad](http://twitter.com/search?q=Marcha+de+la+Lealtad) | N/A |
-| 44 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 45 | [Luis Cárdenas Palomino](http://twitter.com/search?q=Luis+C%c3%a1rdenas+Palomino) | N/A |
-| 46 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 47 | [Compra](http://twitter.com/search?q=Compra) | N/A |
+| 32 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 33 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 34 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
+| 35 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 36 | [Joma](http://twitter.com/search?q=Joma) | N/A |
+| 37 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 38 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 39 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
+| 40 | [Jornada 6](http://twitter.com/search?q=Jornada+6) | N/A |
+| 41 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 42 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
+| 43 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 44 | [Lealtad](http://twitter.com/search?q=Lealtad) | N/A |
+| 45 | [Compra](http://twitter.com/search?q=Compra) | N/A |
+| 46 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 47 | [ASMR](http://twitter.com/search?q=ASMR) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-10 02:42:05 UTC`
+📆 Last Updated: `2023-02-10 03:22:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
 | 7 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
 | 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 9 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
-| 10 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 9 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 10 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 12 | [#jnlr](http://twitter.com/search?q=%23jnlr) | N/A |
 | 13 | [Fitzgibbon Cup](http://twitter.com/search?q=Fitzgibbon+Cup) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for [Ireland](</Ireland>)
 | 20 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
 | 21 | [Eco Eye](http://twitter.com/search?q=Eco+Eye) | N/A |
 | 22 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 23 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 24 | [rob herring](http://twitter.com/search?q=rob+herring) | N/A |
-| 25 | [Santry](http://twitter.com/search?q=Santry) | N/A |
-| 26 | [dan sheehan](http://twitter.com/search?q=dan+sheehan) | N/A |
+| 23 | [rob herring](http://twitter.com/search?q=rob+herring) | N/A |
+| 24 | [Santry](http://twitter.com/search?q=Santry) | N/A |
+| 25 | [dan sheehan](http://twitter.com/search?q=dan+sheehan) | N/A |
+| 26 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 27 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 | 28 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 29 | [20% off club jackets](http://twitter.com/search?q=20%25+off+club+jackets) | N/A |
-| 30 | [Conor Murray](http://twitter.com/search?q=Conor+Murray) | N/A |
+| 30 | [conor murray](http://twitter.com/search?q=conor+murray) | N/A |
 | 31 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 32 | [Wordle 600 X](http://twitter.com/search?q=Wordle+600+X) | N/A |
 | 33 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |

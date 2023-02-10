@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-10 02:42:44 UTC`
+📆 Last Updated: `2023-02-10 03:22:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [zelenskis](http://twitter.com/search?q=zelenskis) | N/A |
+| 1 | [Zelenskis](http://twitter.com/search?q=Zelenskis) | N/A |
 | 2 | [lielbritānijas](http://twitter.com/search?q=lielbrit%c4%81nijas) | N/A |
 | 3 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 4 | [briselē](http://twitter.com/search?q=brisel%c4%93) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Latvia
 | 45 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 46 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 47 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 48 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 48 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 49 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
 | 50 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
 

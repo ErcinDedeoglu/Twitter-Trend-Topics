@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-10 02:42:46 UTC`
+📆 Last Updated: `2023-02-10 03:22:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for South Africa
 | 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 7 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 8 | [#LitenUp](http://twitter.com/search?q=%23LitenUp) | N/A |
-| 9 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 10 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
-| 11 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 9 | [#powerup](http://twitter.com/search?q=%23powerup) | N/A |
+| 10 | [Zungula](http://twitter.com/search?q=Zungula) | N/A |
+| 11 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
 | 12 | [State of the Nation Address](http://twitter.com/search?q=State+of+the+Nation+Address) | N/A |
 | 13 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 14 | [Block 10](http://twitter.com/search?q=Block+10) | N/A |
-| 15 | [sample 1](http://twitter.com/search?q=sample+1) | N/A |
-| 16 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 17 | [cape town city hall](http://twitter.com/search?q=cape+town+city+hall) | N/A |
-| 18 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 14 | [block 10](http://twitter.com/search?q=block+10) | N/A |
+| 15 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 16 | [cape town city hall](http://twitter.com/search?q=cape+town+city+hall) | N/A |
+| 17 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 18 | [Sample 1](http://twitter.com/search?q=Sample+1) | N/A |
 | 19 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
 | 20 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
 | 21 | [Sewing](http://twitter.com/search?q=Sewing) | N/A |
 | 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 23 | [eff mps](http://twitter.com/search?q=eff+mps) | N/A |
-| 24 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
-| 25 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
-| 26 | [markram](http://twitter.com/search?q=markram) | N/A |
-| 27 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 28 | [enhle](http://twitter.com/search?q=enhle) | N/A |
-| 29 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 30 | [Blaq](http://twitter.com/search?q=Blaq) | N/A |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Curro](http://twitter.com/search?q=Curro) | N/A |
-| 33 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 34 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 35 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
-| 36 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 37 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 23 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 24 | [Steenhuisen](http://twitter.com/search?q=Steenhuisen) | N/A |
+| 25 | [markram](http://twitter.com/search?q=markram) | N/A |
+| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 27 | [enhle](http://twitter.com/search?q=enhle) | N/A |
+| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 30 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 31 | [EFF MPs](http://twitter.com/search?q=EFF+MPs) | N/A |
+| 32 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
+| 33 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
+| 34 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 35 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 36 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
+| 37 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
 | 38 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 39 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 40 | [Circus](http://twitter.com/search?q=Circus) | N/A |
-| 41 | [Dictatorship](http://twitter.com/search?q=Dictatorship) | N/A |
-| 42 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 43 | [pritt](http://twitter.com/search?q=pritt) | N/A |
-| 44 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 46 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
-| 47 | [Juicy Jay and Yvonne](http://twitter.com/search?q=Juicy+Jay+and+Yvonne) | N/A |
-| 48 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 49 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Circus](http://twitter.com/search?q=Circus) | N/A |
+| 40 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 41 | [pritt](http://twitter.com/search?q=pritt) | N/A |
+| 42 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [Uncle Vinny](http://twitter.com/search?q=Uncle+Vinny) | N/A |
+| 45 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 46 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 48 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 49 | [Lord Jesus Christ](http://twitter.com/search?q=Lord+Jesus+Christ) | N/A |
+| 50 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
 
 
 

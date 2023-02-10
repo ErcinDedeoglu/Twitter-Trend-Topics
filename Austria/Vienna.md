@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-10 02:42:04 UTC`
+📆 Last Updated: `2023-02-10 03:22:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,31 +15,31 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 2 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 1 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 3 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 4 | [dissertation](http://twitter.com/search?q=dissertation) | N/A |
 | 5 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 6 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
-| 7 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 8 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 9 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 10 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
-| 11 | [#aschbacher](http://twitter.com/search?q=%23aschbacher) | N/A |
-| 12 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
-| 13 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 14 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 15 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 16 | [Clown](http://twitter.com/search?q=Clown) | N/A |
-| 17 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
-| 18 | [Belastung](http://twitter.com/search?q=Belastung) | N/A |
+| 6 | [Belastung](http://twitter.com/search?q=Belastung) | N/A |
+| 7 | [doktortitel](http://twitter.com/search?q=doktortitel) | N/A |
+| 8 | [plagiat](http://twitter.com/search?q=plagiat) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
+| 11 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
+| 12 | [#aschbacher](http://twitter.com/search?q=%23aschbacher) | N/A |
+| 13 | [Magazin](http://twitter.com/search?q=Magazin) | N/A |
+| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 15 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 16 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 17 | [Clown](http://twitter.com/search?q=Clown) | N/A |
+| 18 | [#bocbvb](http://twitter.com/search?q=%23bocbvb) | N/A |
 | 19 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
-| 20 | [Rosemarie](http://twitter.com/search?q=Rosemarie) | N/A |
+| 20 | [rosemarie](http://twitter.com/search?q=rosemarie) | N/A |
 | 21 | [#landbauer](http://twitter.com/search?q=%23landbauer) | N/A |
 | 22 | [doppelspitze](http://twitter.com/search?q=doppelspitze) | N/A |
 | 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 24 | [ende februar](http://twitter.com/search?q=ende+februar) | N/A |
-| 25 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
+| 25 | [seepocken](http://twitter.com/search?q=seepocken) | N/A |
 | 26 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
 | 27 | [Unis](http://twitter.com/search?q=Unis) | N/A |
 | 28 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |

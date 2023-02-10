@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-10 02:42:06 UTC`
+📆 Last Updated: `2023-02-10 03:22:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
 | 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 15 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 16 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
-| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 18 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 19 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 20 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [Limit](http://twitter.com/search?q=Limit) | N/A |
-| 23 | [Widder](http://twitter.com/search?q=Widder) | N/A |
-| 24 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 25 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 26 | [Kopf und Kragen](http://twitter.com/search?q=Kopf+und+Kragen) | N/A |
-| 27 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
-| 28 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 29 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [wahl-klau](http://twitter.com/search?q=wahl-klau) | N/A |
-| 32 | [Vulkan](http://twitter.com/search?q=Vulkan) | N/A |
-| 33 | [Herr Baum](http://twitter.com/search?q=Herr+Baum) | N/A |
-| 34 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
-| 35 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
-| 36 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 37 | [riemann](http://twitter.com/search?q=riemann) | N/A |
-| 38 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 39 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 40 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 41 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
-| 42 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
-| 43 | [chipkarte](http://twitter.com/search?q=chipkarte) | N/A |
-| 44 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
-| 45 | [Schütze](http://twitter.com/search?q=Sch%c3%bctze) | N/A |
-| 46 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 47 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
-| 48 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 16 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 17 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 19 | [amelie](http://twitter.com/search?q=amelie) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Limit](http://twitter.com/search?q=Limit) | N/A |
+| 22 | [widder](http://twitter.com/search?q=widder) | N/A |
+| 23 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 24 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 25 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
+| 26 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 27 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [wahl-klau](http://twitter.com/search?q=wahl-klau) | N/A |
+| 30 | [vulkan](http://twitter.com/search?q=vulkan) | N/A |
+| 31 | [Herr Baum](http://twitter.com/search?q=Herr+Baum) | N/A |
+| 32 | [Steinbock](http://twitter.com/search?q=Steinbock) | N/A |
+| 33 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 34 | [riemann](http://twitter.com/search?q=riemann) | N/A |
+| 35 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 36 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 37 | [FANTASY LIFE](http://twitter.com/search?q=FANTASY+LIFE) | N/A |
+| 38 | [Ghost Trick](http://twitter.com/search?q=Ghost+Trick) | N/A |
+| 39 | [chipkarte](http://twitter.com/search?q=chipkarte) | N/A |
+| 40 | [Wassermann](http://twitter.com/search?q=Wassermann) | N/A |
+| 41 | [Frozen 3](http://twitter.com/search?q=Frozen+3) | N/A |
+| 42 | [Schütze](http://twitter.com/search?q=Sch%c3%bctze) | N/A |
+| 43 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 44 | [Enthüllungen](http://twitter.com/search?q=Enth%c3%bcllungen) | N/A |
+| 45 | [NETFLIX EGGSPLAIN](http://twitter.com/search?q=NETFLIX+EGGSPLAIN) | N/A |
+| 46 | [Pikmin 4](http://twitter.com/search?q=Pikmin+4) | N/A |
+| 47 | [stieler](http://twitter.com/search?q=stieler) | N/A |
+| 48 | [Tilo Jung](http://twitter.com/search?q=Tilo+Jung) | N/A |
 
 
 

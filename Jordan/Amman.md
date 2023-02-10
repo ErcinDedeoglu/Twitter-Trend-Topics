@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-10 02:42:24 UTC`
+📆 Last Updated: `2023-02-10 03:22:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Jordan](</Jordan>)
 | ------- | ------------ | ------------ |
 | 1 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 2 | [#زلزال_شرق_المتوسط](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%b4%d8%b1%d9%82_%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
-| 3 | [الحالات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 4 | [#الزلزال_المدمر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1) | N/A |
-| 5 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 6 | [#النصر_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 3 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 4 | [الحالات الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 5 | [#الزلزال_المدمر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1) | N/A |
+| 6 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 7 | [#النصر_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
 | 8 | [#البزنس65](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b365) | N/A |
 | 9 | [الانقاذ الاردني الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 10 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Jordan](</Jordan>)
 | 30 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
 | 31 | [الخدمه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
 | 32 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 33 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 34 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 33 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 35 | [الاراضي الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 36 | [شاب سوري](http://twitter.com/search?q=%d8%b4%d8%a7%d8%a8+%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 37 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 38 | [تريند الطول](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%86%d8%af+%d8%a7%d9%84%d8%b7%d9%88%d9%84) | N/A |
-| 39 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
-| 40 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 41 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 42 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 43 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
-| 44 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 45 | [النايب العوايشه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%8a%d8%b4%d9%87) | N/A |
-| 46 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 47 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 50 | [اربد](http://twitter.com/search?q=%d8%a7%d8%b1%d8%a8%d8%af) | N/A |
+| 37 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 38 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
+| 39 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 40 | [بكاس العالم](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 41 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
+| 42 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
+| 43 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 44 | [النايب العوايشه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%8a%d8%b4%d9%87) | N/A |
+| 45 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 46 | [تريند الطول](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%86%d8%af+%d8%a7%d9%84%d8%b7%d9%88%d9%84) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 49 | [اربد](http://twitter.com/search?q=%d8%a7%d8%b1%d8%a8%d8%af) | N/A |
+| 50 | [علي العاملات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa) | N/A |
 
 
 

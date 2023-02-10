@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-10 02:42:01 UTC`
+📆 Last Updated: `2023-02-10 03:22:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 2 | [Curuzu](http://twitter.com/search?q=Curuzu) | N/A |
-| 3 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 4 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
-| 5 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 2 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 4 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 5 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
 | 6 | [kika](http://twitter.com/search?q=kika) | N/A |
 | 7 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 8 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 10 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 11 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 12 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
-| 13 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 14 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
-| 15 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 16 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 17 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 18 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 19 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 8 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 9 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 10 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 11 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 12 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 13 | [Grupo 4](http://twitter.com/search?q=Grupo+4) | N/A |
+| 14 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
+| 15 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 16 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 17 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
+| 18 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 19 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
 | 20 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
-| 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 22 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
-| 23 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 24 | [Grupo 4](http://twitter.com/search?q=Grupo+4) | N/A |
-| 25 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 26 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 27 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 28 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 29 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
-| 30 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 31 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 32 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 21 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 22 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 23 | [BORDA](http://twitter.com/search?q=BORDA) | N/A |
+| 24 | [#BBB3](http://twitter.com/search?q=%23BBB3) | N/A |
+| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 26 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 27 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 29 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 30 | [REALVERSO](http://twitter.com/search?q=REALVERSO) | N/A |
+| 31 | [AMELIE BY GRACIE ABRAMS](http://twitter.com/search?q=AMELIE+BY+GRACIE+ABRAMS) | N/A |
+| 32 | [Bruna e Aline](http://twitter.com/search?q=Bruna+e+Aline) | N/A |
 | 33 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 34 | [Bruna e Aline](http://twitter.com/search?q=Bruna+e+Aline) | N/A |
-| 35 | [BORDA](http://twitter.com/search?q=BORDA) | N/A |
-| 36 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 37 | [Inter de Limeira](http://twitter.com/search?q=Inter+de+Limeira) | Inter de Limeira is a Brazilian football club based in Limeira, São Paulo. The club was founded in 1920 and currently plays in the Campeonato Paulista Série A2, the second tier of the São Paulo state football league. The name Inter de Limeira translates to "Limeira Inter" in English. |
-| 38 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
-| 39 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
-| 40 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
-| 41 | [Famosos](http://twitter.com/search?q=Famosos) | N/A |
-| 42 | [MENTOS NA LOUD](http://twitter.com/search?q=MENTOS+NA+LOUD) | N/A |
-| 43 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 44 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 45 | [Tangram](http://twitter.com/search?q=Tangram) | N/A |
-| 46 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
-| 47 | [Junior Moraes](http://twitter.com/search?q=Junior+Moraes) | N/A |
-| 48 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 49 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 50 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 34 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 36 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
+| 37 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 38 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 39 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 40 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 41 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 42 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 43 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
+| 44 | [Fred e Aline](http://twitter.com/search?q=Fred+e+Aline) | N/A |
+| 45 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 46 | [Tangram](http://twitter.com/search?q=Tangram) | N/A |
+| 47 | [BURROS](http://twitter.com/search?q=BURROS) | N/A |
+| 48 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 49 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 50 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
 
 
 

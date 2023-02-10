@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-10 02:42:41 UTC`
+📆 Last Updated: `2023-02-10 03:22:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Belgium
 | 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 17 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 18 | [MEPs](http://twitter.com/search?q=MEPs) | N/A |
+| 18 | [meps](http://twitter.com/search?q=meps) | N/A |
 | 19 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 20 | [maurice dehousse](http://twitter.com/search?q=maurice+dehousse) | N/A |
 | 21 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
@@ -44,8 +44,8 @@ This is top 50 for Belgium
 | 27 | [Amerikanen](http://twitter.com/search?q=Amerikanen) | N/A |
 | 28 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
 | 29 | [Bouchez](http://twitter.com/search?q=Bouchez) | N/A |
-| 30 | [Desmet](http://twitter.com/search?q=Desmet) | N/A |
-| 31 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 30 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 31 | [desmet](http://twitter.com/search?q=desmet) | N/A |
 | 32 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
@@ -59,12 +59,12 @@ This is top 50 for Belgium
 | 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 43 | [Baten Kaitos](http://twitter.com/search?q=Baten+Kaitos) | N/A |
 | 44 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 45 | [FN Herstal](http://twitter.com/search?q=FN+Herstal) | N/A |
+| 45 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
 | 46 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 47 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 50 | [zwart](http://twitter.com/search?q=zwart) | N/A |
+| 48 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 49 | [zwart](http://twitter.com/search?q=zwart) | N/A |
+| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 
 
 

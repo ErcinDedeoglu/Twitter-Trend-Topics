@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-10 02:42:47 UTC`
+📆 Last Updated: `2023-02-10 03:22:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,8 +34,8 @@ This is top 50 for Switzerland
 | 17 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 18 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
 | 19 | [riz casimir](http://twitter.com/search?q=riz+casimir) | N/A |
-| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 20 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 22 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
 | 23 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
 | 24 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |

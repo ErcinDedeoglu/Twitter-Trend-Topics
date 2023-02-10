@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-10 02:42:03 UTC`
+📆 Last Updated: `2023-02-10 03:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 2 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
-| 3 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 3 | [#SS9inSaoPaulo](http://twitter.com/search?q=%23SS9inSaoPaulo) | N/A |
 | 4 | [Fábio Santos](http://twitter.com/search?q=F%c3%a1bio+Santos) | Fábio Santos is a Portuguese name. It is derived from the Latin name Fabius, which means "bean grower" or "bean farmer". In English, it can be translated to mean "Bean Farmer". |
-| 5 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 6 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 7 | [Fabiana](http://twitter.com/search?q=Fabiana) | N/A |
-| 8 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
-| 9 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 10 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
-| 11 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 12 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 13 | [#PALxINT](http://twitter.com/search?q=%23PALxINT) | N/A |
-| 14 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 15 | [O Gustavo](http://twitter.com/search?q=O+Gustavo) | N/A |
-| 16 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 17 | [Sérgio Cabral](http://twitter.com/search?q=S%c3%a9rgio+Cabral) | N/A |
-| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 19 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 20 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 21 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 22 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 23 | [Golaço](http://twitter.com/search?q=Gola%c3%a7o) | N/A |
-| 24 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 25 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 26 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 27 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 28 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
-| 29 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 30 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 32 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 33 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 34 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 35 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 36 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
-| 37 | [kika](http://twitter.com/search?q=kika) | N/A |
-| 38 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 39 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 40 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 41 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 42 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 43 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
-| 44 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 45 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 46 | [Grupo 4](http://twitter.com/search?q=Grupo+4) | N/A |
-| 47 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 48 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 49 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 50 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 5 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
+| 6 | [Fabiana](http://twitter.com/search?q=Fabiana) | N/A |
+| 7 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 8 | [Conjunto Nacional](http://twitter.com/search?q=Conjunto+Nacional) | N/A |
+| 9 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 10 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 11 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 12 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 13 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 14 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 15 | [#PALxINT](http://twitter.com/search?q=%23PALxINT) | N/A |
+| 16 | [Léo Vieira](http://twitter.com/search?q=L%c3%a9o+Vieira) | N/A |
+| 17 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 18 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 19 | [Anatel](http://twitter.com/search?q=Anatel) | N/A |
+| 20 | [MENTOS NA LOUD](http://twitter.com/search?q=MENTOS+NA+LOUD) | N/A |
+| 21 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 22 | [Felizes](http://twitter.com/search?q=Felizes) | N/A |
+| 23 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 24 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 25 | [Paredão](http://twitter.com/search?q=Pared%c3%a3o) | N/A |
+| 26 | [Sérgio Cabral](http://twitter.com/search?q=S%c3%a9rgio+Cabral) | N/A |
+| 27 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 28 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 29 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 30 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 31 | [kika](http://twitter.com/search?q=kika) | N/A |
+| 32 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 33 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 34 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 35 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 36 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 37 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 38 | [Grupo 4](http://twitter.com/search?q=Grupo+4) | N/A |
+| 39 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
+| 40 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 41 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
+| 42 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 43 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
+| 44 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
+| 45 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 46 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 47 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 48 | [BORDA](http://twitter.com/search?q=BORDA) | N/A |
+| 49 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 50 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
 
 
 
