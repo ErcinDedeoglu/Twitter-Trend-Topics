@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-10 00:28:35 UTC`
+📆 Last Updated: `2023-02-10 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 4 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 5 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 6 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 7 | [#PaolaEgonu](http://twitter.com/search?q=%23PaolaEgonu) | N/A |
-| 8 | [#Maneskin](http://twitter.com/search?q=%23Maneskin) | N/A |
-| 9 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 10 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 11 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
-| 12 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 13 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 14 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 15 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 16 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
-| 17 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 2 | [#Sanreno2023](http://twitter.com/search?q=%23Sanreno2023) | N/A |
+| 3 | [Siani](http://twitter.com/search?q=Siani) | N/A |
+| 4 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 5 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 6 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 7 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 8 | [#PaolaEgonu](http://twitter.com/search?q=%23PaolaEgonu) | N/A |
+| 9 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 10 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 11 | [#Maneskin](http://twitter.com/search?q=%23Maneskin) | N/A |
+| 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 13 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 14 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 15 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 16 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
+| 17 | [Leo Gassman](http://twitter.com/search?q=Leo+Gassman) | N/A |
 | 18 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 19 | [Forza Milan](http://twitter.com/search?q=Forza+Milan) | N/A |
-| 20 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 21 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 22 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 23 | [Cugini](http://twitter.com/search?q=Cugini) | N/A |
-| 24 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
-| 25 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [I Colla Zio](http://twitter.com/search?q=I+Colla+Zio) | N/A |
-| 28 | [STANDING OVATION](http://twitter.com/search?q=STANDING+OVATION) | N/A |
-| 29 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
-| 30 | [CODICE 06](http://twitter.com/search?q=CODICE+06) | N/A |
-| 31 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 32 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 33 | [CODICE 10](http://twitter.com/search?q=CODICE+10) | N/A |
-| 34 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 19 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 20 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 21 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 22 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
+| 23 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 25 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 26 | [Cugini](http://twitter.com/search?q=Cugini) | N/A |
+| 27 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 28 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 29 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 30 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 31 | [STANDING OVATION](http://twitter.com/search?q=STANDING+OVATION) | N/A |
+| 32 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
+| 33 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 34 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
 | 35 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 36 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 37 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
-| 38 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 39 | [NO WAR](http://twitter.com/search?q=NO+WAR) | N/A |
-| 40 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
-| 41 | [Rosa Chemical](http://twitter.com/search?q=Rosa+Chemical) | N/A |
-| 42 | [Zitti e Buoni](http://twitter.com/search?q=Zitti+e+Buoni) | N/A |
-| 43 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 44 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 45 | [Zerocalcare](http://twitter.com/search?q=Zerocalcare) | N/A |
-| 46 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
-| 47 | [#comacose](http://twitter.com/search?q=%23comacose) | N/A |
-| 48 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
-| 49 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 50 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 36 | [Lettera 22](http://twitter.com/search?q=Lettera+22) | N/A |
+| 37 | [Massimo Ranieri](http://twitter.com/search?q=Massimo+Ranieri) | N/A |
+| 38 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 39 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 40 | [#UltimoSanremo2023](http://twitter.com/search?q=%23UltimoSanremo2023) | N/A |
+| 41 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
+| 42 | [#comacose](http://twitter.com/search?q=%23comacose) | N/A |
+| 43 | [#VivaRai2VivaSanremo](http://twitter.com/search?q=%23VivaRai2VivaSanremo) | N/A |
+| 44 | [#fantasanremo2023](http://twitter.com/search?q=%23fantasanremo2023) | N/A |
+| 45 | [#DueVite](http://twitter.com/search?q=%23DueVite) | N/A |
+| 46 | [#FestivalDiSanremo2023](http://twitter.com/search?q=%23FestivalDiSanremo2023) | N/A |
+| 47 | [#iostoconantonella](http://twitter.com/search?q=%23iostoconantonella) | N/A |
+| 48 | [#CollaZio](http://twitter.com/search?q=%23CollaZio) | N/A |
+| 49 | [#iostocontavassi](http://twitter.com/search?q=%23iostocontavassi) | N/A |
+| 50 | [#Bellissima](http://twitter.com/search?q=%23Bellissima) | N/A |
 
 
 

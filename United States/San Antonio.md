@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-10 00:29:05 UTC`
+📆 Last Updated: `2023-02-10 01:44:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
-| 2 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
-| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 8 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 9 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 10 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 11 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 12 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 13 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 14 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 15 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 16 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 17 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 18 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 20 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 22 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 23 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 24 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 25 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 26 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 27 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 28 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 29 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 30 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 31 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 32 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 33 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 34 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
-| 35 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 36 | [Turley](http://twitter.com/search?q=Turley) | N/A |
-| 37 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 38 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 40 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 41 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 42 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 43 | [Tinsley](http://twitter.com/search?q=Tinsley) | N/A |
-| 44 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 45 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 46 | [71% of Americans](http://twitter.com/search?q=71%25+of+Americans) | N/A |
-| 47 | [Ian Cole](http://twitter.com/search?q=Ian+Cole) | N/A |
-| 48 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
-| 49 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 50 | [Pepperoni](http://twitter.com/search?q=Pepperoni) | N/A |
+| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 3 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 4 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 5 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 6 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 7 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 8 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 9 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 10 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 11 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 12 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 13 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 14 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 15 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
+| 16 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 17 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 18 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 19 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 20 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 21 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
+| 22 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 23 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 24 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 25 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 26 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 27 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
+| 28 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 29 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 30 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 32 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 33 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 34 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 35 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 36 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
+| 37 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 38 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 39 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 40 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 41 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 42 | [Dougie Hamilton](http://twitter.com/search?q=Dougie+Hamilton) | N/A |
+| 43 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
+| 44 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
+| 45 | [Turley](http://twitter.com/search?q=Turley) | N/A |
+| 46 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 47 | [Sicnarf Loopstok](http://twitter.com/search?q=Sicnarf+Loopstok) | N/A |
+| 48 | [OU and Texas](http://twitter.com/search?q=OU+and+Texas) | N/A |
+| 49 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
+| 50 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
 
 
 

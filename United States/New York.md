@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-10 00:29:03 UTC`
+📆 Last Updated: `2023-02-10 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 2 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 3 | [Meier](http://twitter.com/search?q=Meier) | N/A |
-| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 5 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 6 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 7 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 8 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 9 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 10 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 11 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 12 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 13 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 14 | [#GetWakandaForever](http://twitter.com/search?q=%23GetWakandaForever) | N/A |
-| 15 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 16 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 18 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 19 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 20 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 22 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 23 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 24 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 25 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 26 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 27 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 28 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 29 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 30 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 32 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 33 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 34 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 35 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 36 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
-| 37 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 38 | [Turley](http://twitter.com/search?q=Turley) | N/A |
-| 39 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 40 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 42 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 43 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 44 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
-| 45 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 46 | [Tinsley](http://twitter.com/search?q=Tinsley) | N/A |
-| 47 | [71% of Americans](http://twitter.com/search?q=71%25+of+Americans) | N/A |
-| 48 | [Ian Cole](http://twitter.com/search?q=Ian+Cole) | N/A |
-| 49 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
-| 50 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 1 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
+| 2 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 3 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 4 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 5 | [Blais](http://twitter.com/search?q=Blais) | N/A |
+| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 7 | [Meier](http://twitter.com/search?q=Meier) | N/A |
+| 8 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 11 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 12 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 13 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 14 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 15 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 16 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 17 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 18 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 19 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 20 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
+| 21 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 22 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 23 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 24 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 25 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 26 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 27 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
+| 28 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
+| 29 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 30 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 31 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 32 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 33 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 34 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
+| 35 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 36 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 37 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 39 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 40 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 41 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 42 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 43 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
+| 44 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 45 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 46 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 47 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 48 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 49 | [Dougie Hamilton](http://twitter.com/search?q=Dougie+Hamilton) | N/A |
+| 50 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-10 00:29:02 UTC`
+📆 Last Updated: `2023-02-10 01:44:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
 | 2 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 3 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 4 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 3 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 4 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
 | 5 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 6 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 7 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 8 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 9 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 10 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 11 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 12 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
-| 13 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 14 | [Bob Myers](http://twitter.com/search?q=Bob+Myers) | N/A |
-| 15 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 16 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 17 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 18 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 19 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 20 | [Dray](http://twitter.com/search?q=Dray) | N/A |
-| 21 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 22 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 6 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 7 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 8 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 9 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 10 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 13 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 14 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 15 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 16 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 17 | [Kennard](http://twitter.com/search?q=Kennard) | N/A |
+| 18 | [Bryant](http://twitter.com/search?q=Bryant) | N/A |
+| 19 | [#SMFM23](http://twitter.com/search?q=%23SMFM23) | N/A |
+| 20 | [The Warriors](http://twitter.com/search?q=The+Warriors) | N/A |
+| 21 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 22 | [Clips](http://twitter.com/search?q=Clips) | N/A |
 | 23 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
-| 24 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 25 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 24 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 25 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
 | 26 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 27 | [#NationalPizzaDay](http://twitter.com/search?q=%23NationalPizzaDay) | N/A |
-| 28 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 27 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 29 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 31 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 32 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
-| 33 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 35 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 38 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 39 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 40 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
-| 41 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 42 | [Amish](http://twitter.com/search?q=Amish) | N/A |
-| 43 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 45 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 46 | [Verizon](http://twitter.com/search?q=Verizon) | N/A |
-| 47 | [Jake Tapper](http://twitter.com/search?q=Jake+Tapper) | N/A |
-| 48 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 49 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 30 | [SEC in 2024](http://twitter.com/search?q=SEC+in+2024) | N/A |
+| 31 | [Texas and Oklahoma](http://twitter.com/search?q=Texas+and+Oklahoma) | N/A |
+| 32 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 33 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 34 | [Oklahoma and Texas](http://twitter.com/search?q=Oklahoma+and+Texas) | N/A |
+| 35 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 36 | [Hosting](http://twitter.com/search?q=Hosting) | N/A |
+| 37 | [Braden Smith](http://twitter.com/search?q=Braden+Smith) | N/A |
+| 38 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 39 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 40 | [Zach Thomas](http://twitter.com/search?q=Zach+Thomas) | Zach Thomas is a name, likely derived from the Hebrew name Zachariah, meaning “God remembers”. |
+| 41 | [Bagg](http://twitter.com/search?q=Bagg) | N/A |
+| 42 | [Texas and OU](http://twitter.com/search?q=Texas+and+OU) | N/A |
+| 43 | [Amish](http://twitter.com/search?q=Amish) | N/A |
+| 44 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 45 | [Hollywood Video](http://twitter.com/search?q=Hollywood+Video) | N/A |
+| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 47 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 48 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 49 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 
 
 

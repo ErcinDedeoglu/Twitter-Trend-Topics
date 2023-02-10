@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-10 00:28:38 UTC`
+📆 Last Updated: `2023-02-10 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Sweden](</Sweden>)
 | 7 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 8 | [#NintendoDirect](http://twitter.com/search?q=%23NintendoDirect) | N/A |
 | 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 11 | [Milad Safi](http://twitter.com/search?q=Milad+Safi) | N/A |
-| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 14 | [Erik Thedéen](http://twitter.com/search?q=Erik+Thed%c3%a9en) | N/A |
-| 15 | [finansinspektionen](http://twitter.com/search?q=finansinspektionen) | N/A |
-| 16 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 17 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 18 | [Tjeckien](http://twitter.com/search?q=Tjeckien) | N/A |
-| 19 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 20 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
-| 21 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 22 | [fastpartner](http://twitter.com/search?q=fastpartner) | N/A |
-| 23 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
-| 24 | [MIPS](http://twitter.com/search?q=MIPS) | N/A |
+| 10 | [Milad Safi](http://twitter.com/search?q=Milad+Safi) | N/A |
+| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 12 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 13 | [Erik Thedéen](http://twitter.com/search?q=Erik+Thed%c3%a9en) | N/A |
+| 14 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 15 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [finansinspektionen](http://twitter.com/search?q=finansinspektionen) | N/A |
+| 18 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 19 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 20 | [fastpartner](http://twitter.com/search?q=fastpartner) | N/A |
+| 21 | [Tjeckien](http://twitter.com/search?q=Tjeckien) | N/A |
+| 22 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 23 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 24 | [mips](http://twitter.com/search?q=mips) | N/A |
 | 25 | [Gisslén](http://twitter.com/search?q=Gissl%c3%a9n) | N/A |
-| 26 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 27 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 28 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 29 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 30 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 31 | [Egypten](http://twitter.com/search?q=Egypten) | N/A |
-| 32 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 33 | [Ingves](http://twitter.com/search?q=Ingves) | N/A |
-| 34 | [vrinnevisjukhuset](http://twitter.com/search?q=vrinnevisjukhuset) | N/A |
-| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 27 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 28 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 29 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 30 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
+| 31 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 32 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 33 | [egypten](http://twitter.com/search?q=egypten) | N/A |
+| 34 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 35 | [vrinnevisjukhuset](http://twitter.com/search?q=vrinnevisjukhuset) | N/A |
 | 36 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 37 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
-| 38 | [Sanna](http://twitter.com/search?q=Sanna) | N/A |
-| 39 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 40 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 41 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 42 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 43 | [Samuelsson](http://twitter.com/search?q=Samuelsson) | N/A |
-| 44 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 46 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 47 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
-| 48 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Ingves](http://twitter.com/search?q=Ingves) | N/A |
+| 38 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 39 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 41 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 42 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 43 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 44 | [Sanna](http://twitter.com/search?q=Sanna) | N/A |
+| 45 | [björn eriksson](http://twitter.com/search?q=bj%c3%b6rn+eriksson) | N/A |
+| 46 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 47 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 48 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 49 | [sebastian samuelsson](http://twitter.com/search?q=sebastian+samuelsson) | N/A |
 
 
 

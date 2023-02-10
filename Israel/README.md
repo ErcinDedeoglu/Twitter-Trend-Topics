@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-10 00:29:10 UTC`
+📆 Last Updated: `2023-02-10 01:44:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Israel
 | 1 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
 | 2 | [חוק הכותל](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
 | 3 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
-| 4 | [מחוז ירושלים](http://twitter.com/search?q=%d7%9e%d7%97%d7%95%d7%96+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 5 | [של ש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9) | N/A |
-| 6 | [חצי שנת מאסר](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%a9%d7%a0%d7%aa+%d7%9e%d7%90%d7%a1%d7%a8) | N/A |
+| 4 | [של ש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9) | N/A |
+| 5 | [חצי שנת מאסר](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%a9%d7%a0%d7%aa+%d7%9e%d7%90%d7%a1%d7%a8) | N/A |
+| 6 | [מפקד מחוז ירושלים](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 | 7 | [של מנדלבליט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%93%d7%9c%d7%91%d7%9c%d7%99%d7%98) | N/A |
 | 8 | [דן חלוץ](http://twitter.com/search?q=%d7%93%d7%9f+%d7%97%d7%9c%d7%95%d7%a5) | N/A |
-| 9 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 10 | [רב הכותל](http://twitter.com/search?q=%d7%a8%d7%91+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
-| 11 | [רכבת ישראל](http://twitter.com/search?q=%d7%a8%d7%9b%d7%91%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 12 | [Kotel](http://twitter.com/search?q=Kotel) | N/A |
-| 13 | [לבוש הולם](http://twitter.com/search?q=%d7%9c%d7%91%d7%95%d7%a9+%d7%94%d7%95%d7%9c%d7%9d) | N/A |
-| 14 | [של הכותל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
+| 9 | [רב הכותל](http://twitter.com/search?q=%d7%a8%d7%91+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
+| 10 | [Kotel](http://twitter.com/search?q=Kotel) | N/A |
+| 11 | [לבוש הולם](http://twitter.com/search?q=%d7%9c%d7%91%d7%95%d7%a9+%d7%94%d7%95%d7%9c%d7%9d) | N/A |
+| 12 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 13 | [של הכותל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
+| 14 | [מקום קדוש](http://twitter.com/search?q=%d7%9e%d7%a7%d7%95%d7%9d+%d7%a7%d7%93%d7%95%d7%a9) | N/A |
 | 15 | [#TurkeySyriaEarthquake](http://twitter.com/search?q=%23TurkeySyriaEarthquake) | N/A |
-| 16 | [הרכבת הקלה](http://twitter.com/search?q=%d7%94%d7%a8%d7%9b%d7%91%d7%aa+%d7%94%d7%a7%d7%9c%d7%94) | N/A |
-| 17 | [מקום קדוש](http://twitter.com/search?q=%d7%9e%d7%a7%d7%95%d7%9d+%d7%a7%d7%93%d7%95%d7%a9) | N/A |
-| 18 | [Western Wall](http://twitter.com/search?q=Western+Wall) | N/A |
-| 19 | [של איגי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%99%d7%92%d7%99) | N/A |
-| 20 | [מתן וילנאי](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%95%d7%99%d7%9c%d7%a0%d7%90%d7%99) | N/A |
-| 21 | [כלי נגינה](http://twitter.com/search?q=%d7%9b%d7%9c%d7%99+%d7%a0%d7%92%d7%99%d7%a0%d7%94) | N/A |
-| 22 | [קירוב לבבות](http://twitter.com/search?q=%d7%a7%d7%99%d7%a8%d7%95%d7%91+%d7%9c%d7%91%d7%91%d7%95%d7%aa) | N/A |
-| 23 | [לכל עם ישראל](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 24 | [קוד לבוש](http://twitter.com/search?q=%d7%a7%d7%95%d7%93+%d7%9c%d7%91%d7%95%d7%a9) | N/A |
+| 16 | [Western Wall](http://twitter.com/search?q=Western+Wall) | N/A |
+| 17 | [של איגי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%99%d7%92%d7%99) | N/A |
+| 18 | [מתן וילנאי](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%95%d7%99%d7%9c%d7%a0%d7%90%d7%99) | N/A |
+| 19 | [כלי נגינה](http://twitter.com/search?q=%d7%9b%d7%9c%d7%99+%d7%a0%d7%92%d7%99%d7%a0%d7%94) | N/A |
+| 20 | [קירוב לבבות](http://twitter.com/search?q=%d7%a7%d7%99%d7%a8%d7%95%d7%91+%d7%9c%d7%91%d7%91%d7%95%d7%aa) | N/A |
+| 21 | [לכל עם ישראל](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 22 | [קוד לבוש](http://twitter.com/search?q=%d7%a7%d7%95%d7%93+%d7%9c%d7%91%d7%95%d7%a9) | N/A |
+| 23 | [סכסוך עבודה](http://twitter.com/search?q=%d7%a1%d7%9b%d7%a1%d7%95%d7%9a+%d7%a2%d7%91%d7%95%d7%93%d7%94) | N/A |
+| 24 | [גד עמוס](http://twitter.com/search?q=%d7%92%d7%93+%d7%a2%d7%9e%d7%95%d7%a1) | N/A |
 | 25 | [עזה בירושלים](http://twitter.com/search?q=%d7%a2%d7%96%d7%94+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 26 | [גד עמוס](http://twitter.com/search?q=%d7%92%d7%93+%d7%a2%d7%9e%d7%95%d7%a1) | N/A |
-| 27 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
-| 28 | [רז מאיר](http://twitter.com/search?q=%d7%a8%d7%96+%d7%9e%d7%90%d7%99%d7%a8) | N/A |
-| 29 | [עמוד שדרה](http://twitter.com/search?q=%d7%a2%d7%9e%d7%95%d7%93+%d7%a9%d7%93%d7%a8%d7%94) | N/A |
-| 30 | [מסדר היום](http://twitter.com/search?q=%d7%9e%d7%a1%d7%93%d7%a8+%d7%94%d7%99%d7%95%d7%9d) | N/A |
-| 31 | [בית כנסת](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 32 | [אבי אבן](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%90%d7%91%d7%9f) | N/A |
-| 33 | [בוני הארץ](http://twitter.com/search?q=%d7%91%d7%95%d7%a0%d7%99+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
-| 34 | [עם הכותל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
-| 35 | [מח״ש](http://twitter.com/search?q=%d7%9e%d7%97%d7%b4%d7%a9) | N/A |
+| 26 | [מסדר היום](http://twitter.com/search?q=%d7%9e%d7%a1%d7%93%d7%a8+%d7%94%d7%99%d7%95%d7%9d) | N/A |
+| 27 | [רז מאיר](http://twitter.com/search?q=%d7%a8%d7%96+%d7%9e%d7%90%d7%99%d7%a8) | N/A |
+| 28 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
+| 29 | [רכבת ישראל](http://twitter.com/search?q=%d7%a8%d7%9b%d7%91%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 30 | [אבי אבן](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%90%d7%91%d7%9f) | N/A |
+| 31 | [עם הכותל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
+| 32 | [בוני הארץ](http://twitter.com/search?q=%d7%91%d7%95%d7%a0%d7%99+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
+| 33 | [בית כנסת](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 34 | [מח״ש](http://twitter.com/search?q=%d7%9e%d7%97%d7%b4%d7%a9) | N/A |
+| 35 | [עלי מוחמד](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%97%d7%9e%d7%93) | N/A |
 | 36 | [בהר הרצל](http://twitter.com/search?q=%d7%91%d7%94%d7%a8+%d7%94%d7%a8%d7%a6%d7%9c) | N/A |
 | 37 | [ון וול](http://twitter.com/search?q=%d7%95%d7%9f+%d7%95%d7%95%d7%9c) | N/A |
-| 38 | [עלי מוחמד](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%97%d7%9e%d7%93) | N/A |
-| 39 | [של דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 40 | [שרוול קצר](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%95%d7%9c+%d7%a7%d7%a6%d7%a8) | N/A |
-| 41 | [משה מירון](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%9e%d7%99%d7%a8%d7%95%d7%9f) | N/A |
+| 38 | [הרב אליהו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 39 | [שרוול קצר](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%95%d7%9c+%d7%a7%d7%a6%d7%a8) | N/A |
+| 40 | [של דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
+| 41 | [הרכבת הקלה](http://twitter.com/search?q=%d7%94%d7%a8%d7%9b%d7%91%d7%aa+%d7%94%d7%a7%d7%9c%d7%94) | N/A |
 | 42 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 43 | [מתן כהנא](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%9b%d7%94%d7%a0%d7%90) | N/A |
-| 44 | [חיים ביטון](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
-| 45 | [הרב אליהו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 44 | [של דוראנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%95%d7%a8%d7%90%d7%a0%d7%98) | N/A |
+| 45 | [סיבה טובה](http://twitter.com/search?q=%d7%a1%d7%99%d7%91%d7%94+%d7%98%d7%95%d7%91%d7%94) | N/A |
 | 46 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 | 47 | [גיא לרר](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9c%d7%a8%d7%a8) | N/A |
-| 48 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
-| 49 | [של דוראנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%95%d7%a8%d7%90%d7%a0%d7%98) | N/A |
-| 50 | [עם פנסיה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a4%d7%a0%d7%a1%d7%99%d7%94) | N/A |
+| 48 | [חיים ביטון](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
+| 49 | [איש רע](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%a8%d7%a2) | N/A |
+| 50 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
 
 
 
