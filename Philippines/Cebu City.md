@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-11 13:18:44 UTC`
+📆 Last Updated: `2023-02-11 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
 | 2 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
 | 3 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 5 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 6 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 7 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
-| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 9 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 10 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
-| 11 | [NewsToKoYan VIVOREE](http://twitter.com/search?q=NewsToKoYan+VIVOREE) | N/A |
-| 12 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 13 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 14 | [Madrigal](http://twitter.com/search?q=Madrigal) | N/A |
-| 15 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
-| 16 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 17 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 18 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 19 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 20 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
-| 21 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
-| 22 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
-| 23 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 24 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 25 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 26 | [lee seokmin](http://twitter.com/search?q=lee+seokmin) | N/A |
-| 27 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 28 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
-| 29 | [HAPPY 2M SUBS FRANCINE](http://twitter.com/search?q=HAPPY+2M+SUBS+FRANCINE) | N/A |
-| 30 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 31 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 33 | [So-e](http://twitter.com/search?q=So-e) | N/A |
-| 34 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
-| 35 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 36 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
-| 37 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 38 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 39 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 40 | [#HanteoMusicAwards](http://twitter.com/search?q=%23HanteoMusicAwards) | N/A |
-| 41 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
-| 42 | [#TCOBARKADALABYUMORE](http://twitter.com/search?q=%23TCOBARKADALABYUMORE) | N/A |
-| 43 | [#darren](http://twitter.com/search?q=%23darren) | N/A |
-| 44 | [#Dreamcatcher_atHMA2022](http://twitter.com/search?q=%23Dreamcatcher_atHMA2022) | N/A |
-| 45 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 46 | [#드림캐쳐_HMAs_2022](http://twitter.com/search?q=%23%eb%93%9c%eb%a6%bc%ec%ba%90%ec%b3%90_HMAs_2022) | N/A |
+| 4 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 5 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 6 | [NewsToKoYan VIVOREE](http://twitter.com/search?q=NewsToKoYan+VIVOREE) | N/A |
+| 7 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 8 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
+| 9 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 10 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 11 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 12 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 13 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
+| 14 | [madrigal](http://twitter.com/search?q=madrigal) | N/A |
+| 15 | [Win in Jakarta](http://twitter.com/search?q=Win+in+Jakarta) | N/A |
+| 16 | [GLOBAL ARTIST JIN](http://twitter.com/search?q=GLOBAL+ARTIST+JIN) | N/A |
+| 17 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 18 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 19 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
+| 20 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
+| 21 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 22 | [MANU RIOS](http://twitter.com/search?q=MANU+RIOS) | N/A |
+| 23 | [KAIA TURN UP DANCE PRACTICE](http://twitter.com/search?q=KAIA+TURN+UP+DANCE+PRACTICE) | N/A |
+| 24 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
+| 25 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 26 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 27 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 28 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
+| 29 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 30 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 31 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 33 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
+| 34 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
+| 35 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 36 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 38 | [sooyoung](http://twitter.com/search?q=sooyoung) | N/A |
+| 39 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
+| 40 | [#FELIP_ROCKSTAonWishBus](http://twitter.com/search?q=%23FELIP_ROCKSTAonWishBus) | N/A |
+| 41 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 42 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 43 | [#HeartToHeartWithYPA](http://twitter.com/search?q=%23HeartToHeartWithYPA) | N/A |
+| 44 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
+| 45 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
+| 46 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
 
 
 

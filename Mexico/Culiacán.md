@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-11 13:18:21 UTC`
+📆 Last Updated: `2023-02-11 14:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 4 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 3 | [#salariorosaesunarealidad](http://twitter.com/search?q=%23salariorosaesunarealidad) | N/A |
+| 4 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
 | 5 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 6 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 7 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 8 | [yuridia](http://twitter.com/search?q=yuridia) | N/A |
-| 9 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 11 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 13 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 14 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 15 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 16 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 17 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 18 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 20 | [canel](http://twitter.com/search?q=canel) | N/A |
-| 21 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 22 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 23 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 25 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 26 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 27 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 28 | [ferral](http://twitter.com/search?q=ferral) | N/A |
-| 29 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 30 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 31 | [Henry y Sam](http://twitter.com/search?q=Henry+y+Sam) | N/A |
-| 32 | [un año wow](http://twitter.com/search?q=un+a%c3%b1o+wow) | N/A |
-| 33 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 34 | [paty chapoy](http://twitter.com/search?q=paty+chapoy) | N/A |
-| 35 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 36 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 37 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 38 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 39 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 40 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 41 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 42 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 43 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 44 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 45 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 46 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 47 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 48 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
-| 49 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 6 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 7 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 8 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 10 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 11 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 12 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 13 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
+| 17 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
+| 18 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 19 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 20 | [ventaneando](http://twitter.com/search?q=ventaneando) | N/A |
+| 21 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 22 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 26 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 27 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 28 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 29 | [ferral](http://twitter.com/search?q=ferral) | N/A |
+| 30 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 31 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 32 | [Henry y Sam](http://twitter.com/search?q=Henry+y+Sam) | N/A |
+| 33 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 34 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 35 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
+| 36 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 37 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 38 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
+| 39 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 40 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 41 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 42 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
+| 43 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 44 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 45 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 46 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 47 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 48 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 49 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 
 
 

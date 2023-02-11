@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-11 13:18:33 UTC`
+📆 Last Updated: `2023-02-11 14:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
 | 6 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
 | 7 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 8 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 9 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 10 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 8 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 9 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 10 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
 | 11 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
 | 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
 | 13 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
 | 14 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
-| 15 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
-| 16 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
-| 17 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
+| 15 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
+| 16 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 17 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 18 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 20 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
-| 21 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 22 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
-| 23 | [Horata](http://twitter.com/search?q=Horata) | N/A |
-| 24 | [Biagio Antonacci](http://twitter.com/search?q=Biagio+Antonacci) | N/A |
-| 25 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
-| 26 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 27 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 28 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 29 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 30 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
-| 31 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 21 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
+| 22 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 23 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
+| 24 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
+| 25 | [Horata](http://twitter.com/search?q=Horata) | N/A |
+| 26 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 27 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 28 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 29 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 30 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 31 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
 | 32 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 33 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
 | 34 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 35 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 35 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
 | 36 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
-| 37 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
-| 38 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 40 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 41 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
+| 37 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 38 | [nesli](http://twitter.com/search?q=nesli) | N/A |
+| 39 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 40 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 42 | [Ariete e SanGiovanni](http://twitter.com/search?q=Ariete+e+SanGiovanni) | N/A |
-| 43 | [uscire](http://twitter.com/search?q=uscire) | N/A |
-| 44 | [italiana](http://twitter.com/search?q=italiana) | N/A |
-| 45 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 46 | [noemi](http://twitter.com/search?q=noemi) | N/A |
-| 47 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
-| 48 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 49 | [del piero](http://twitter.com/search?q=del+piero) | N/A |
+| 43 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
+| 44 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
+| 45 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 46 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
+| 47 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 48 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 49 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
 | 50 | [Olly](http://twitter.com/search?q=Olly) | N/A |
 
 

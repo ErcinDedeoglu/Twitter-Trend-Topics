@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-02-11 13:19:03 UTC`
+📆 Last Updated: `2023-02-11 14:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 2 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
 | 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 4 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
-| 5 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 6 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 7 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
+| 4 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 5 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 6 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 8 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 10 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
-| 11 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 13 | [20 ETH](http://twitter.com/search?q=20+ETH) | N/A |
-| 14 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 9 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 11 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 12 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 13 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 14 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
 | 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 17 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 18 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 19 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 20 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 16 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 17 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 18 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 19 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
+| 20 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
 | 21 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 22 | [ethereum](http://twitter.com/search?q=ethereum) | N/A |
-| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 24 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 25 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 26 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 27 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 28 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 29 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 30 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 31 | [Roseanne Barr](http://twitter.com/search?q=Roseanne+Barr) | N/A |
-| 32 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 33 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 34 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 35 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 36 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 37 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 38 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 39 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 40 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 41 | [#ChelseaFC](http://twitter.com/search?q=%23ChelseaFC) | N/A |
-| 42 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 43 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
-| 44 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
-| 45 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
-| 46 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
-| 47 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
-| 48 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
+| 22 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 23 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 24 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 25 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 26 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 27 | [20 ETH](http://twitter.com/search?q=20+ETH) | N/A |
+| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 29 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 30 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 31 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 33 | [Roseanne Barr](http://twitter.com/search?q=Roseanne+Barr) | N/A |
+| 34 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 35 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 36 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 37 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 38 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
+| 39 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 40 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 41 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
+| 42 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
+| 43 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 44 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 45 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 46 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 47 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
+| 48 | [#ChelseaFC](http://twitter.com/search?q=%23ChelseaFC) | N/A |
 
 
 

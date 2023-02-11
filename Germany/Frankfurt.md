@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-11 13:18:32 UTC`
+📆 Last Updated: `2023-02-11 14:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 2 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 3 | [#H96SCP](http://twitter.com/search?q=%23H96SCP) | N/A |
-| 4 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
-| 5 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
-| 6 | [#rtlturmspringen](http://twitter.com/search?q=%23rtlturmspringen) | N/A |
-| 7 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [Börner](http://twitter.com/search?q=B%c3%b6rner) | N/A |
-| 11 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 15 | [gesamtschule](http://twitter.com/search?q=gesamtschule) | N/A |
-| 16 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 17 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 18 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 21 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 22 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 23 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 24 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 25 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 26 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 27 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 28 | ['ÖPNV'](http://twitter.com/search?q=%27%c3%96PNV%27) | N/A |
-| 29 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
-| 30 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 31 | [Werder](http://twitter.com/search?q=Werder) | N/A |
-| 32 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 33 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 34 | [Bestürzend](http://twitter.com/search?q=Best%c3%bcrzend) | N/A |
-| 35 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 36 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
-| 37 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 38 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 39 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 40 | [Hannover](http://twitter.com/search?q=Hannover) | N/A |
-| 41 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 42 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 43 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 44 | [blackfacing](http://twitter.com/search?q=blackfacing) | N/A |
-| 45 | [Tilo Jung](http://twitter.com/search?q=Tilo+Jung) | N/A |
-| 46 | [Frau Käßmann](http://twitter.com/search?q=Frau+K%c3%a4%c3%9fmann) | N/A |
-| 47 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 48 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
-| 49 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 50 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 1 | [#H96SCP](http://twitter.com/search?q=%23H96SCP) | N/A |
+| 2 | [#KSVFCM](http://twitter.com/search?q=%23KSVFCM) | N/A |
+| 3 | [#FCNSSV](http://twitter.com/search?q=%23FCNSSV) | N/A |
+| 4 | [#dd1102](http://twitter.com/search?q=%23dd1102) | N/A |
+| 5 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
+| 6 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 8 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 10 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 11 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 12 | [Werder](http://twitter.com/search?q=Werder) | N/A |
+| 13 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 14 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 15 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 16 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 17 | [Manifest](http://twitter.com/search?q=Manifest) | N/A |
+| 18 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
+| 19 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 20 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 21 | [Briefe](http://twitter.com/search?q=Briefe) | N/A |
+| 22 | [Gedankengut](http://twitter.com/search?q=Gedankengut) | N/A |
+| 23 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 24 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 25 | [Ukrainern](http://twitter.com/search?q=Ukrainern) | N/A |
+| 26 | [#SCFVfB](http://twitter.com/search?q=%23SCFVfB) | N/A |
+| 27 | [#SVWBVB](http://twitter.com/search?q=%23SVWBVB) | N/A |
+| 28 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
+| 29 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 30 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 31 | [#FCBBOC](http://twitter.com/search?q=%23FCBBOC) | N/A |
+| 32 | [#SVMM60](http://twitter.com/search?q=%23SVMM60) | N/A |
+| 33 | [#Modrow](http://twitter.com/search?q=%23Modrow) | N/A |
+| 34 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 35 | [#Twittergewitter2023](http://twitter.com/search?q=%23Twittergewitter2023) | N/A |
+| 36 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 37 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
+| 38 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
+| 39 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 40 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 41 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 42 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
 
 
 
