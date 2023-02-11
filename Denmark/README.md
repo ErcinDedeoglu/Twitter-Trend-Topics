@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-11 03:16:42 UTC`
+📆 Last Updated: `2023-02-11 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,13 +20,13 @@ This is top 50 for Denmark
 | 3 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 4 | [Corner](http://twitter.com/search?q=Corner) | N/A |
 | 5 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 6 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
+| 6 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | N/A |
 | 7 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
 | 8 | [Hedlund](http://twitter.com/search?q=Hedlund) | N/A |
 | 9 | [Inflationen](http://twitter.com/search?q=Inflationen) | N/A |
 | 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 11 | [#FIFA23](http://twitter.com/search?q=%23FIFA23) | N/A |
-| 12 | [#EPIKHIGHTOUR2023](http://twitter.com/search?q=%23EPIKHIGHTOUR2023) | N/A |
+| 12 | [#epikhightour2023](http://twitter.com/search?q=%23epikhightour2023) | N/A |
 | 13 | [superligaen](http://twitter.com/search?q=superligaen) | N/A |
 | 14 | [mads](http://twitter.com/search?q=mads) | N/A |
 | 15 | [Musk](http://twitter.com/search?q=Musk) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Denmark
 | 41 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
 | 42 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 43 | [Ruzzia](http://twitter.com/search?q=Ruzzia) | N/A |
-| 44 | [Clara Tauson](http://twitter.com/search?q=Clara+Tauson) | N/A |
+| 44 | [clara tauson](http://twitter.com/search?q=clara+tauson) | N/A |
 | 45 | [Amber](http://twitter.com/search?q=Amber) | N/A |
 | 46 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 47 | [Klasse](http://twitter.com/search?q=Klasse) | N/A |
 | 48 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 49 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 50 | [Novo Nordisk](http://twitter.com/search?q=Novo+Nordisk) | N/A |
+| 49 | [Novo Nordisk](http://twitter.com/search?q=Novo+Nordisk) | N/A |
+| 50 | [maersk](http://twitter.com/search?q=maersk) | N/A |
 
 
 

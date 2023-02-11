@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-11 03:15:43 UTC`
+📆 Last Updated: `2023-02-11 04:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
-| 3 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 4 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 5 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 6 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 7 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 8 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 9 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 10 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 11 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
+| 4 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 5 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 6 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 8 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 10 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 12 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 13 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 14 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
-| 15 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 16 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 17 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 18 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 19 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 20 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 21 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 22 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 23 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 24 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 25 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 27 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 28 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 29 | [#bcfc](http://twitter.com/search?q=%23bcfc) | N/A |
-| 30 | [#RIPAKA](http://twitter.com/search?q=%23RIPAKA) | N/A |
-| 31 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
-| 32 | [#clarksonsfarm2](http://twitter.com/search?q=%23clarksonsfarm2) | N/A |
-| 33 | [#DeathInParadise](http://twitter.com/search?q=%23DeathInParadise) | N/A |
-| 34 | [#vanished](http://twitter.com/search?q=%23vanished) | N/A |
-| 35 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 36 | [#thelastleg](http://twitter.com/search?q=%23thelastleg) | N/A |
-| 37 | [#5albums07](http://twitter.com/search?q=%235albums07) | N/A |
-| 38 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
-| 39 | [#WILTY](http://twitter.com/search?q=%23WILTY) | N/A |
-| 40 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 41 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
-| 42 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 43 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 44 | [#SamSmith](http://twitter.com/search?q=%23SamSmith) | N/A |
+| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 15 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 16 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 17 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 19 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 22 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 23 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 24 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 25 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 26 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 27 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 28 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 29 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 30 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 34 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 35 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 36 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 37 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
+| 38 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 39 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 40 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 41 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 42 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 43 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 45 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 46 | [natalya](http://twitter.com/search?q=natalya) | N/A |
+| 47 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
+| 48 | [Ireland is in the EU](http://twitter.com/search?q=Ireland+is+in+the+EU) | N/A |
 
 
 

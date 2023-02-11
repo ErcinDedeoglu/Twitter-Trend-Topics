@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-11 03:16:41 UTC`
+📆 Last Updated: `2023-02-11 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 1 | [#themaskedsinger](http://twitter.com/search?q=%23themaskedsinger) | N/A |
 | 2 | [#cluusg](http://twitter.com/search?q=%23cluusg) | N/A |
 | 3 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
 | 4 | [#VictoiresDeLaMusique](http://twitter.com/search?q=%23VictoiresDeLaMusique) | N/A |
@@ -23,17 +23,17 @@ This is top 50 for Belgium
 | 6 | [#eupkvm](http://twitter.com/search?q=%23eupkvm) | N/A |
 | 7 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 9 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 10 | [les engagés](http://twitter.com/search?q=les+engag%c3%a9s) | N/A |
-| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 12 | [ben weyts](http://twitter.com/search?q=ben+weyts) | N/A |
+| 9 | [les engagés](http://twitter.com/search?q=les+engag%c3%a9s) | N/A |
+| 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 11 | [ben weyts](http://twitter.com/search?q=ben+weyts) | N/A |
+| 12 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
 | 13 | [Niro](http://twitter.com/search?q=Niro) | N/A |
 | 14 | [Marc Tarabella](http://twitter.com/search?q=Marc+Tarabella) | N/A |
 | 15 | [jean-luc crucke](http://twitter.com/search?q=jean-luc+crucke) | N/A |
 | 16 | [alex agnew](http://twitter.com/search?q=alex+agnew) | N/A |
 | 17 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
 | 18 | [annemans](http://twitter.com/search?q=annemans) | N/A |
-| 19 | [Amerikanen](http://twitter.com/search?q=Amerikanen) | N/A |
+| 19 | [amerikanen](http://twitter.com/search?q=amerikanen) | N/A |
 | 20 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
 | 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 22 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Belgium
 | 39 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 40 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
 | 41 | [hln onderzoek](http://twitter.com/search?q=hln+onderzoek) | N/A |
-| 42 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 43 | [schols](http://twitter.com/search?q=schols) | N/A |
-| 44 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 45 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 46 | [Vertel](http://twitter.com/search?q=Vertel) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [Schwab](http://twitter.com/search?q=Schwab) | N/A |
-| 49 | [Onnozelaar](http://twitter.com/search?q=Onnozelaar) | N/A |
-| 50 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 42 | [schols](http://twitter.com/search?q=schols) | N/A |
+| 43 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 44 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
+| 45 | [Vertel](http://twitter.com/search?q=Vertel) | N/A |
+| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 47 | [onnozelaar](http://twitter.com/search?q=onnozelaar) | N/A |
+| 48 | [europees parlement](http://twitter.com/search?q=europees+parlement) | N/A |
+| 49 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
+| 50 | [europese](http://twitter.com/search?q=europese) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-11 03:16:41 UTC`
+📆 Last Updated: `2023-02-11 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 1 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
 | 2 | [твиттер](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
 | 3 | [гомельской](http://twitter.com/search?q=%d0%b3%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 4 | [#футбол](http://twitter.com/search?q=%23%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb) | N/A |
-| 5 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 5 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
 | 6 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
 | 7 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | N/A |
 | 8 | [с днём](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc) | N/A |
@@ -29,20 +29,19 @@ This is top 50 for Belarus
 | 12 | [Турции и Сирии](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8+%d0%b8+%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
 | 13 | [маск](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
 | 14 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 15 | [Дотторе](http://twitter.com/search?q=%d0%94%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
-| 16 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 17 | [тигнари](http://twitter.com/search?q=%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 18 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 19 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 20 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 23 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 24 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
-| 25 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 26 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 27 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 28 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 15 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 16 | [тигнари](http://twitter.com/search?q=%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
+| 17 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 18 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
+| 19 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 21 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 22 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 23 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
+| 24 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 25 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
+| 26 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 27 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 
 
 

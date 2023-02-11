@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-11 03:16:00 UTC`
+📆 Last Updated: `2023-02-11 04:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
 | 5 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
 | 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 7 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 8 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
-| 9 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 10 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 11 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 7 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 8 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 9 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 10 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 12 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 13 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 16 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 17 | [prantl](http://twitter.com/search?q=prantl) | N/A |
-| 18 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 19 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 20 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
-| 21 | [blackfacing](http://twitter.com/search?q=blackfacing) | N/A |
+| 16 | [prantl](http://twitter.com/search?q=prantl) | N/A |
+| 17 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 18 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 19 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
+| 20 | [blackfacing](http://twitter.com/search?q=blackfacing) | N/A |
+| 21 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
 | 22 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
 | 23 | [Timon](http://twitter.com/search?q=Timon) | N/A |
 | 24 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 25 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 26 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 27 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 28 | ['Fenster'](http://twitter.com/search?q=%27Fenster%27) | N/A |
-| 29 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 30 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 31 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 32 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 33 | [gymnasien](http://twitter.com/search?q=gymnasien) | N/A |
-| 34 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 35 | [helge schneider](http://twitter.com/search?q=helge+schneider) | N/A |
-| 36 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 37 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 38 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
-| 39 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
-| 40 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
-| 41 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 42 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 43 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 44 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 45 | [Schaf](http://twitter.com/search?q=Schaf) | N/A |
-| 46 | [Schleck](http://twitter.com/search?q=Schleck) | N/A |
-| 47 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 48 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 49 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
+| 25 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 26 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 27 | ['fenster'](http://twitter.com/search?q=%27fenster%27) | N/A |
+| 28 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 29 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 30 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 31 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 32 | [helge schneider](http://twitter.com/search?q=helge+schneider) | N/A |
+| 33 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 34 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 35 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
+| 36 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
+| 37 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
+| 38 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 39 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 41 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
+| 42 | [Schaf](http://twitter.com/search?q=Schaf) | N/A |
+| 43 | [Schleck](http://twitter.com/search?q=Schleck) | N/A |
+| 44 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 45 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 46 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
+| 47 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 48 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 49 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 
 
 

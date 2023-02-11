@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-11 03:16:42 UTC`
+📆 Last Updated: `2023-02-11 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pita](http://twitter.com/search?q=Pita) | N/A |
-| 2 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
+| 1 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
+| 2 | [Pita](http://twitter.com/search?q=Pita) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
+| 4 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
 | 5 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 6 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 6 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
 | 7 | [Pablo Celi](http://twitter.com/search?q=Pablo+Celi) | N/A |
-| 8 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
-| 9 | [#lassorespetalademocracia](http://twitter.com/search?q=%23lassorespetalademocracia) | N/A |
-| 10 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
-| 11 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 12 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 13 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 14 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 15 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 16 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
-| 17 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
-| 18 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 19 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 20 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
-| 21 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
-| 22 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 23 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
-| 24 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
-| 25 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 8 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 9 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
+| 10 | [#lassorespetalademocracia](http://twitter.com/search?q=%23lassorespetalademocracia) | N/A |
+| 11 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 12 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
+| 13 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 14 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 15 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
+| 16 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 17 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 18 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
+| 19 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 20 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 21 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
+| 22 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 23 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 24 | [alborada](http://twitter.com/search?q=alborada) | N/A |
+| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 26 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
-| 27 | [Las Torres](http://twitter.com/search?q=Las+Torres) | N/A |
-| 28 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 29 | [Sebastián Corral](http://twitter.com/search?q=Sebasti%c3%a1n+Corral) | N/A |
-| 30 | [gerencia](http://twitter.com/search?q=gerencia) | N/A |
-| 31 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
-| 32 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
-| 33 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 34 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
-| 35 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
-| 36 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 37 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 38 | [Correista](http://twitter.com/search?q=Correista) | N/A |
-| 39 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
-| 40 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 41 | [Emilio Gómez](http://twitter.com/search?q=Emilio+G%c3%b3mez) | N/A |
-| 42 | [John Isner](http://twitter.com/search?q=John+Isner) | N/A |
-| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 45 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
-| 46 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 47 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
-| 48 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
-| 49 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
-| 50 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 27 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
+| 28 | [Las Torres](http://twitter.com/search?q=Las+Torres) | N/A |
+| 29 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 30 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 31 | [Sebastián Corral](http://twitter.com/search?q=Sebasti%c3%a1n+Corral) | N/A |
+| 32 | [Gerencia](http://twitter.com/search?q=Gerencia) | N/A |
+| 33 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
+| 34 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
+| 35 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 36 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 37 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
+| 38 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 39 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 40 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
+| 41 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
+| 42 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 43 | [emilio gómez](http://twitter.com/search?q=emilio+g%c3%b3mez) | N/A |
+| 44 | [John Isner](http://twitter.com/search?q=John+Isner) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
+| 47 | [Correista](http://twitter.com/search?q=Correista) | N/A |
+| 48 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
+| 49 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 50 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 
 
 

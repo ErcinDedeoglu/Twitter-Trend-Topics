@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-11 03:16:28 UTC`
+📆 Last Updated: `2023-02-11 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#baraj](http://twitter.com/search?q=%23baraj) | N/A |
+| 1 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
 | 2 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
-| 3 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
-| 4 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 5 | [#kaos](http://twitter.com/search?q=%23kaos) | N/A |
-| 6 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
-| 7 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 8 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 9 | [Parfüm](http://twitter.com/search?q=Parf%c3%bcm) | N/A |
-| 10 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 11 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 12 | [Hollanda](http://twitter.com/search?q=Hollanda) | N/A |
-| 13 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 14 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 15 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
-| 16 | [DepremBölgelerine Astımİlacı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+Ast%c4%b1m%c4%b0lac%c4%b1) | N/A |
-| 17 | [DepremBölgelerine TemizSu](http://twitter.com/search?q=DepremB%c3%b6lgelerine+TemizSu) | N/A |
-| 18 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
-| 19 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
-| 20 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 21 | [Videoyu](http://twitter.com/search?q=Videoyu) | N/A |
-| 22 | [Günlerdir](http://twitter.com/search?q=G%c3%bcnlerdir) | N/A |
-| 23 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 24 | [DASK](http://twitter.com/search?q=DASK) | N/A |
-| 25 | [Kurtarıldı](http://twitter.com/search?q=Kurtar%c4%b1ld%c4%b1) | N/A |
-| 26 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
-| 27 | [#ülkemdemülteciistemiyorum](http://twitter.com/search?q=%23%c3%bclkemdem%c3%bclteciistemiyorum) | N/A |
-| 28 | [#hayvanlarıbırakmayın](http://twitter.com/search?q=%23hayvanlar%c4%b1b%c4%b1rakmay%c4%b1n) | N/A |
-| 29 | [#asker](http://twitter.com/search?q=%23asker) | N/A |
-| 30 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
-| 31 | [#carsi](http://twitter.com/search?q=%23carsi) | N/A |
-| 32 | [#suriyeliistemiyoruz](http://twitter.com/search?q=%23suriyeliistemiyoruz) | N/A |
-| 33 | [#tahaduymazaacilyardım](http://twitter.com/search?q=%23tahaduymazaacilyard%c4%b1m) | N/A |
-| 34 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
-| 35 | [#HaddiniBilLubeAyar](http://twitter.com/search?q=%23HaddiniBilLubeAyar) | N/A |
-| 36 | [#ahmethakan](http://twitter.com/search?q=%23ahmethakan) | N/A |
-| 37 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 38 | [#earthquaketurkey](http://twitter.com/search?q=%23earthquaketurkey) | N/A |
-| 39 | [#Katar](http://twitter.com/search?q=%23Katar) | N/A |
+| 3 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 4 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 5 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 6 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
+| 7 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
+| 8 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 9 | [#istifa](http://twitter.com/search?q=%23istifa) | N/A |
+| 10 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 11 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
+| 12 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 13 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 14 | [Helal](http://twitter.com/search?q=Helal) | N/A |
+| 15 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 16 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 17 | [Ohal](http://twitter.com/search?q=Ohal) | N/A |
+| 18 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 19 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 20 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 21 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 22 | [allahımbizi affet](http://twitter.com/search?q=allah%c4%b1mbizi+affet) | N/A |
+| 23 | [asıl kim](http://twitter.com/search?q=as%c4%b1l+kim) | N/A |
+| 24 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 25 | [TahaDuymaza OperatorDestegi](http://twitter.com/search?q=TahaDuymaza+OperatorDestegi) | N/A |
+| 26 | [Berk](http://twitter.com/search?q=Berk) | N/A |
+| 27 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 28 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 29 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 30 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
+| 31 | [en büyük beşiktaş](http://twitter.com/search?q=en+b%c3%bcy%c3%bck+be%c5%9fikta%c5%9f) | N/A |
+| 32 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 33 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 34 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 35 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 36 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 37 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 38 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 39 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 40 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 41 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
+| 42 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
+| 43 | [yağız](http://twitter.com/search?q=ya%c4%9f%c4%b1z) | N/A |
+| 44 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
+| 45 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
+| 46 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 47 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 48 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 49 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 50 | [Menekşe](http://twitter.com/search?q=Menek%c5%9fe) | N/A |
 
 
 

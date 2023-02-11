@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-11 03:16:04 UTC`
+📆 Last Updated: `2023-02-11 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 2 | [darba](http://twitter.com/search?q=darba) | N/A |
 | 3 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 4 | [Kučinskis](http://twitter.com/search?q=Ku%c4%8dinskis) | N/A |
+| 4 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
 | 5 | [francijas](http://twitter.com/search?q=francijas) | N/A |
 | 6 | [origo](http://twitter.com/search?q=origo) | N/A |
 | 7 | [briselē](http://twitter.com/search?q=brisel%c4%93) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 33 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
 | 34 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 35 | [avens](http://twitter.com/search?q=avens) | N/A |
-| 36 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 36 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
 | 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 38 | [Depo](http://twitter.com/search?q=Depo) | N/A |
 | 39 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |

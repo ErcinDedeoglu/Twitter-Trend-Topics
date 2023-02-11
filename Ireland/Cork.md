@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-11 03:15:57 UTC`
+📆 Last Updated: `2023-02-11 04:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
 | 2 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
-| 3 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 4 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 7 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 3 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 6 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 7 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 8 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
-| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 10 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 9 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 11 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
 | 12 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 13 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
-| 14 | [Maura Higgins](http://twitter.com/search?q=Maura+Higgins) | N/A |
+| 14 | [maura higgins](http://twitter.com/search?q=maura+higgins) | N/A |
 | 15 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 16 | [President's Cup](http://twitter.com/search?q=President%27s+Cup) | N/A |
 | 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 24 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 26 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 27 | [David Horgan](http://twitter.com/search?q=David+Horgan) | N/A |
+| 27 | [david horgan](http://twitter.com/search?q=david+horgan) | N/A |
 | 28 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
 | 29 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 30 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
@@ -50,21 +50,21 @@ This is top 50 for [Ireland](</Ireland>)
 | 33 | [naas cbs](http://twitter.com/search?q=naas+cbs) | N/A |
 | 34 | [The Liberal](http://twitter.com/search?q=The+Liberal) | N/A |
 | 35 | [Ammi](http://twitter.com/search?q=Ammi) | N/A |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Donie](http://twitter.com/search?q=Donie) | N/A |
-| 38 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 40 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 41 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 42 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
-| 43 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
-| 44 | [Rights of the Child](http://twitter.com/search?q=Rights+of+the+Child) | N/A |
-| 45 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 46 | [fianna fail](http://twitter.com/search?q=fianna+fail) | N/A |
-| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 48 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 49 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 50 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
+| 36 | [Donie](http://twitter.com/search?q=Donie) | N/A |
+| 37 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 39 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 40 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 41 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
+| 42 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
+| 43 | [Rights of the Child](http://twitter.com/search?q=Rights+of+the+Child) | N/A |
+| 44 | [fianna fail](http://twitter.com/search?q=fianna+fail) | N/A |
+| 45 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 46 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 47 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 48 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
+| 49 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
+| 50 | [ballymun](http://twitter.com/search?q=ballymun) | N/A |
 
 
 

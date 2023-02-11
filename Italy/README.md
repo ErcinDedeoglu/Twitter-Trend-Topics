@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-11 03:16:44 UTC`
+📆 Last Updated: `2023-02-11 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 2 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 3 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
-| 4 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 5 | [#FestivalDiSanremo2023](http://twitter.com/search?q=%23FestivalDiSanremo2023) | N/A |
-| 6 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
-| 7 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
-| 8 | [#letitbe](http://twitter.com/search?q=%23letitbe) | N/A |
-| 9 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
-| 10 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 11 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 12 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
-| 13 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 14 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 15 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 16 | [Cremonini](http://twitter.com/search?q=Cremonini) | N/A |
-| 17 | [#Articolo31](http://twitter.com/search?q=%23Articolo31) | N/A |
-| 18 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
-| 19 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 20 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 21 | [MATTEO PAOLILLO](http://twitter.com/search?q=MATTEO+PAOLILLO) | N/A |
-| 22 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 23 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 24 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
-| 25 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 26 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 27 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
-| 28 | [Lorella Cuccarini](http://twitter.com/search?q=Lorella+Cuccarini) | N/A |
-| 29 | [Bravissimi](http://twitter.com/search?q=Bravissimi) | N/A |
-| 30 | [Luce](http://twitter.com/search?q=Luce) | N/A |
-| 31 | [La Fine](http://twitter.com/search?q=La+Fine) | N/A |
-| 32 | [#VivaRai2VivaSanremo](http://twitter.com/search?q=%23VivaRai2VivaSanremo) | N/A |
-| 33 | [#Levante](http://twitter.com/search?q=%23Levante) | N/A |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 4 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
+| 5 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 6 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 7 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
+| 8 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 9 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 10 | [#10febbraio](http://twitter.com/search?q=%2310febbraio) | N/A |
+| 11 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 12 | [#foibe](http://twitter.com/search?q=%23foibe) | N/A |
+| 13 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
+| 14 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 15 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
+| 16 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
+| 17 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 18 | [destinazione paradiso](http://twitter.com/search?q=destinazione+paradiso) | N/A |
+| 19 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 20 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 23 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
+| 24 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
+| 25 | [vessicchio](http://twitter.com/search?q=vessicchio) | N/A |
+| 26 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 27 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
+| 28 | [tom morello](http://twitter.com/search?q=tom+morello) | N/A |
+| 29 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
+| 30 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
+| 31 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 32 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
+| 33 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 34 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
+| 35 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 36 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 37 | [de andré](http://twitter.com/search?q=de+andr%c3%a9) | N/A |
+| 38 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 39 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 40 | [Cremonini](http://twitter.com/search?q=Cremonini) | N/A |
+| 41 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 42 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 43 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 44 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 45 | [Crescentini](http://twitter.com/search?q=Crescentini) | N/A |
+| 46 | [Luce](http://twitter.com/search?q=Luce) | N/A |
+| 47 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 48 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 49 | [Ma Mr Rain](http://twitter.com/search?q=Ma+Mr+Rain) | N/A |
+| 50 | [Sethu](http://twitter.com/search?q=Sethu) | N/A |
 
 
 

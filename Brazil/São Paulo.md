@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-11 03:15:54 UTC`
+📆 Last Updated: `2023-02-11 04:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 2 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 3 | [velozes](http://twitter.com/search?q=velozes) | N/A |
-| 4 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 5 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 6 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 7 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
-| 10 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 11 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 12 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 14 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 15 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
-| 16 | [Xand](http://twitter.com/search?q=Xand) | N/A |
-| 17 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
-| 18 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 19 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
-| 20 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
-| 21 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 22 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
-| 23 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 24 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
-| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 27 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 28 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
-| 29 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 30 | [Sapanda](http://twitter.com/search?q=Sapanda) | N/A |
-| 31 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 32 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 33 | [Piseiro](http://twitter.com/search?q=Piseiro) | N/A |
-| 34 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 35 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 36 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
-| 37 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
-| 38 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
-| 39 | [Laried](http://twitter.com/search?q=Laried) | N/A |
-| 40 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 41 | [Baiacu](http://twitter.com/search?q=Baiacu) | N/A |
-| 42 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 43 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
-| 44 | [dorothy helena](http://twitter.com/search?q=dorothy+helena) | N/A |
-| 45 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 46 | [Downy](http://twitter.com/search?q=Downy) | N/A |
-| 47 | [barbie ferreira](http://twitter.com/search?q=barbie+ferreira) | N/A |
-| 48 | [Várzea](http://twitter.com/search?q=V%c3%a1rzea) | N/A |
-| 49 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
-| 50 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 2 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 3 | [#DocShoe](http://twitter.com/search?q=%23DocShoe) | N/A |
+| 4 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
+| 5 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 6 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 7 | [Velozes](http://twitter.com/search?q=Velozes) | N/A |
+| 8 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 9 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 10 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 11 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
+| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 15 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 16 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 17 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
+| 18 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
+| 19 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 20 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 21 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 22 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
+| 23 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
+| 24 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 25 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 26 | [Baiacu](http://twitter.com/search?q=Baiacu) | N/A |
+| 27 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 28 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 29 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
+| 30 | [Karaokê](http://twitter.com/search?q=Karaok%c3%aa) | N/A |
+| 31 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
+| 32 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 33 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 34 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 35 | [Sapanda](http://twitter.com/search?q=Sapanda) | N/A |
+| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 37 | [QUE EPISÓDIO](http://twitter.com/search?q=QUE+EPIS%c3%93DIO) | N/A |
+| 38 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 39 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 40 | [barbie ferreira](http://twitter.com/search?q=barbie+ferreira) | N/A |
+| 41 | [Episódio 5](http://twitter.com/search?q=Epis%c3%b3dio+5) | N/A |
+| 42 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 43 | [Billie Jean](http://twitter.com/search?q=Billie+Jean) | N/A |
+| 44 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 45 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
+| 46 | [Piseiro](http://twitter.com/search?q=Piseiro) | N/A |
+| 47 | [Laried](http://twitter.com/search?q=Laried) | N/A |
+| 48 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
+| 49 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 50 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 
 
 

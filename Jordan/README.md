@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-02-11 03:16:44 UTC`
+📆 Last Updated: `2023-02-11 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Jordan
 | 5 | [#البزنس66](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b366) | N/A |
 | 6 | [الاغوار الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 7 | [ميداني عسكري](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a+%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
-| 8 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 9 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 8 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 9 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
 | 10 | [احمد ابو علي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d9%88+%d8%b9%d9%84%d9%8a) | N/A |
 | 11 | [حسين قراقع](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%82%d8%b1%d8%a7%d9%82%d8%b9) | N/A |
 | 12 | [الانقاذ الاردني الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
@@ -40,23 +40,23 @@ This is top 50 for Jordan
 | 23 | [ديوان الخدمه](http://twitter.com/search?q=%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87) | N/A |
 | 24 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
 | 25 | [علي محل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%84) | N/A |
-| 26 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 27 | [العلامه الزرقاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7%d8%a1) | N/A |
+| 26 | [العلامه الزرقاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7%d8%a1) | N/A |
+| 27 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 28 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
 | 29 | [فريق الانقاذ الاردني](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
 | 30 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 31 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 32 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 33 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 34 | [لميسي](http://twitter.com/search?q=%d9%84%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 35 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
-| 36 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 37 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 38 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
-| 39 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 40 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 41 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 42 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 32 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 33 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 34 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
+| 35 | [لميسي](http://twitter.com/search?q=%d9%84%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 36 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
+| 37 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 38 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 39 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
+| 40 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 41 | [نظام الاسد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 42 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 43 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 44 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 45 | [معبر باب الهوي](http://twitter.com/search?q=%d9%85%d8%b9%d8%a8%d8%b1+%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%87%d9%88%d9%8a) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Jordan
 | 47 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
 | 48 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 49 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 50 | [النظام المجرم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d9%85) | N/A |
+| 50 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
 
 
 

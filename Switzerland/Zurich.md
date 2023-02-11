@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-11 03:16:04 UTC`
+📆 Last Updated: `2023-02-11 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,12 +27,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
 | 11 | [Teile](http://twitter.com/search?q=Teile) | N/A |
 | 12 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 13 | [Seich](http://twitter.com/search?q=Seich) | N/A |
+| 13 | [seich](http://twitter.com/search?q=seich) | N/A |
 | 14 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
 | 15 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
 | 16 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
 | 17 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 18 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 18 | [franken](http://twitter.com/search?q=franken) | N/A |
 | 19 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 21 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Position](http://twitter.com/search?q=Position) | N/A |
 | 24 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 | 25 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 26 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 27 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 28 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 29 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 30 | [Generationen](http://twitter.com/search?q=Generationen) | N/A |
-| 31 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 32 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 33 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 34 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 35 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 36 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
-| 37 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
-| 38 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 39 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 40 | [Orte](http://twitter.com/search?q=Orte) | N/A |
-| 41 | [Fahne](http://twitter.com/search?q=Fahne) | N/A |
-| 42 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 43 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 44 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 45 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 46 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 47 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 48 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 49 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 50 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 26 | [fahrzeuge](http://twitter.com/search?q=fahrzeuge) | N/A |
+| 27 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 28 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 29 | [Generationen](http://twitter.com/search?q=Generationen) | N/A |
+| 30 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 31 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 32 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 33 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 34 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 35 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
+| 36 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
+| 37 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 38 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 39 | [Orte](http://twitter.com/search?q=Orte) | N/A |
+| 40 | [Fahne](http://twitter.com/search?q=Fahne) | N/A |
+| 41 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 42 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 43 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 44 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 45 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 46 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 47 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 48 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 49 | [aufarbeitung](http://twitter.com/search?q=aufarbeitung) | N/A |
+| 50 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 
 
 
