@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-11 04:16:25 UTC`
+📆 Last Updated: `2023-02-11 05:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giske](http://twitter.com/search?q=Giske) | N/A |
+| 1 | [giske](http://twitter.com/search?q=giske) | N/A |
 | 2 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 3 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
 | 4 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 5 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 6 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
 | 7 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
-| 8 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
+| 8 | [nytt](http://twitter.com/search?q=nytt) | N/A |
 | 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [Barth Eide](http://twitter.com/search?q=Barth+Eide) | N/A |
+| 10 | [barth eide](http://twitter.com/search?q=barth+eide) | N/A |
 | 11 | [vinmonopolet](http://twitter.com/search?q=vinmonopolet) | N/A |
 | 12 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
 | 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
@@ -34,7 +34,7 @@ This is top 50 for [Norway](</Norway>)
 | 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 19 | [takker](http://twitter.com/search?q=takker) | N/A |
-| 20 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 20 | [hovland](http://twitter.com/search?q=hovland) | N/A |
 | 21 | [rygge](http://twitter.com/search?q=rygge) | N/A |
 | 22 | [evenes](http://twitter.com/search?q=evenes) | N/A |
 | 23 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Norway](</Norway>)
 | 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 29 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 30 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
-| 31 | [Finnmark](http://twitter.com/search?q=Finnmark) | N/A |
+| 31 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
 | 32 | [trenger](http://twitter.com/search?q=trenger) | N/A |
 | 33 | [Putler](http://twitter.com/search?q=Putler) | N/A |
 | 34 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
@@ -53,13 +53,13 @@ This is top 50 for [Norway](</Norway>)
 | 36 | [nordsjøen](http://twitter.com/search?q=nordsj%c3%b8en) | N/A |
 | 37 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
 | 38 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 39 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 40 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 41 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 42 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 43 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 44 | [lite](http://twitter.com/search?q=lite) | N/A |
-| 45 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 39 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 40 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 41 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 42 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 43 | [Lite](http://twitter.com/search?q=Lite) | N/A |
+| 44 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 47 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 48 | [Sony](http://twitter.com/search?q=Sony) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-11 04:17:00 UTC`
+📆 Last Updated: `2023-02-11 05:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Latvia
 | 24 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 25 | [ukrainu](http://twitter.com/search?q=ukrainu) | N/A |
 | 26 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
-| 27 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 28 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 30 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 31 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 32 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 33 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 34 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 35 | [avens](http://twitter.com/search?q=avens) | N/A |
-| 36 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 38 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 39 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 40 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 41 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 42 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
-| 43 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
-| 44 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 45 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 46 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 47 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
-| 48 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
-| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 50 | [tiešām](http://twitter.com/search?q=tie%c5%a1%c4%81m) | N/A |
+| 27 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 28 | [#latvia](http://twitter.com/search?q=%23latvia) | N/A |
+| 29 | [visu](http://twitter.com/search?q=visu) | N/A |
+| 30 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 31 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 32 | [avens](http://twitter.com/search?q=avens) | N/A |
+| 33 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 35 | [Depo](http://twitter.com/search?q=Depo) | N/A |
+| 36 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 37 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 38 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
+| 39 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 40 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 41 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 42 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 43 | [egils levits](http://twitter.com/search?q=egils+levits) | N/A |
+| 44 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
+| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 46 | [tiešām](http://twitter.com/search?q=tie%c5%a1%c4%81m) | N/A |
+| 47 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 48 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
 
 
 

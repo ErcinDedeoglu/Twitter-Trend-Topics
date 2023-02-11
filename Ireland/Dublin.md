@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-11 04:16:19 UTC`
+📆 Last Updated: `2023-02-11 05:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
 | 2 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
 | 3 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 6 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
-| 7 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 8 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 4 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 5 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 6 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 7 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 9 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 11 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 13 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
 | 14 | [maura higgins](http://twitter.com/search?q=maura+higgins) | N/A |
 | 15 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 16 | [President's Cup](http://twitter.com/search?q=President%27s+Cup) | N/A |
+| 16 | [president's cup](http://twitter.com/search?q=president%27s+cup) | N/A |
 | 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 18 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
 | 19 | [Santry](http://twitter.com/search?q=Santry) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 26 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
 | 27 | [david horgan](http://twitter.com/search?q=david+horgan) | N/A |
-| 28 | [Brendan Behan](http://twitter.com/search?q=Brendan+Behan) | N/A |
+| 28 | [brendan behan](http://twitter.com/search?q=brendan+behan) | N/A |
 | 29 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 30 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 31 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 47 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 48 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
 | 49 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
-| 50 | [ballymun](http://twitter.com/search?q=ballymun) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-11 04:17:00 UTC`
+📆 Last Updated: `2023-02-11 05:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,42 +26,42 @@ This is top 50 for Lebanon
 | 9 | [الانقاذ اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 10 | [الاقفال التام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%85) | N/A |
 | 11 | [الجمهوريه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 12 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 13 | [انتصار الثوره الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 14 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 15 | [سوق الاحد](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 16 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
-| 17 | [حقوق المسيحيين](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
-| 18 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
-| 19 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
-| 20 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 21 | [حسين قراقع](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%82%d8%b1%d8%a7%d9%82%d8%b9) | N/A |
-| 22 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 23 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 24 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 25 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
-| 26 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 27 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 28 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 29 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 30 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 31 | [حسن نصر](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%86%d8%b5%d8%b1) | N/A |
-| 32 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 33 | [فتحي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
-| 34 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 35 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 36 | [اللحظات الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ad%d8%b8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
-| 38 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
-| 39 | [التبرعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 40 | [بو حبيب](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 41 | [١٤ شباط](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 42 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 43 | [الحكومه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 44 | [الذكري السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
-| 45 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 47 | [الاخبار الكاذبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%83%d8%a7%d8%b0%d8%a8%d9%87) | N/A |
+| 12 | [انتصار الثوره الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 13 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 14 | [سوق الاحد](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 15 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 16 | [حقوق المسيحيين](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
+| 17 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
+| 18 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
+| 19 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 20 | [حسين قراقع](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%82%d8%b1%d8%a7%d9%82%d8%b9) | N/A |
+| 21 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
+| 22 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 23 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 24 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
+| 25 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 26 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 27 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 28 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 29 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 30 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 31 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 32 | [حسن نصر](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%86%d8%b5%d8%b1) | N/A |
+| 33 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 34 | [فتحي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
+| 35 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 36 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 37 | [اللحظات الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ad%d8%b8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 38 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
+| 39 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 40 | [التبرعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 41 | [بو حبيب](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 42 | [١٤ شباط](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
+| 43 | [كهرباء لبنان](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 44 | [الحكومه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 45 | [الذكري السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
+| 46 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 48 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
 | 49 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
 | 50 | [ايلي لحود](http://twitter.com/search?q=%d8%a7%d9%8a%d9%84%d9%8a+%d9%84%d8%ad%d9%88%d8%af) | N/A |

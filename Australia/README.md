@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-11 04:16:56 UTC`
+📆 Last Updated: `2023-02-11 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
-| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 3 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 10 | [Rich Fortune](http://twitter.com/search?q=Rich+Fortune) | N/A |
-| 11 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 12 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 13 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
-| 14 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
-| 15 | [Glint Of Silver](http://twitter.com/search?q=Glint+Of+Silver) | N/A |
-| 16 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 17 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 18 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
-| 19 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 20 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
-| 21 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
-| 22 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 23 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 24 | [Blue Diamond](http://twitter.com/search?q=Blue+Diamond) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 4 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 5 | [Lofty Strike](http://twitter.com/search?q=Lofty+Strike) | N/A |
+| 6 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 7 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#DubZone](http://twitter.com/search?q=%23DubZone) | N/A |
+| 10 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 11 | [Chain Of Lightning](http://twitter.com/search?q=Chain+Of+Lightning) | N/A |
+| 12 | [Rich Fortune](http://twitter.com/search?q=Rich+Fortune) | N/A |
+| 13 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 14 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 15 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
+| 16 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 17 | [Glint Of Silver](http://twitter.com/search?q=Glint+Of+Silver) | N/A |
+| 18 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 19 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
+| 20 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 21 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 22 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
+| 23 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
+| 24 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
 | 25 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
-| 26 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 27 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 29 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 30 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 31 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 32 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
-| 33 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
-| 34 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 35 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 36 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
-| 37 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 26 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 28 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 29 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 30 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 31 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
+| 32 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 33 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 34 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 35 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 36 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
+| 37 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
 | 38 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 39 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 40 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 41 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 42 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 43 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 44 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 45 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 46 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
-| 47 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 48 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
-| 49 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 50 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 40 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 41 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 42 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 43 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
+| 44 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 45 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 46 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 47 | [Crows](http://twitter.com/search?q=Crows) | N/A |
+| 48 | [Norfolk Island](http://twitter.com/search?q=Norfolk+Island) | N/A |
+| 49 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
+| 50 | [Wired](http://twitter.com/search?q=Wired) | N/A |
 
 
 

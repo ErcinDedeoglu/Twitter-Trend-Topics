@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-11 04:16:54 UTC`
+📆 Last Updated: `2023-02-11 05:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 2 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 3 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 4 | [C Wood](http://twitter.com/search?q=C+Wood) | N/A |
-| 5 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 6 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 7 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
-| 8 | [Dana Brown](http://twitter.com/search?q=Dana+Brown) | Dana Brown is a name, and it does not have any particular meaning in English. |
-| 9 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 10 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 11 | [#Astros](http://twitter.com/search?q=%23Astros) | N/A |
-| 12 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 14 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 15 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [#Rockets](http://twitter.com/search?q=%23Rockets) | N/A |
+| 5 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 6 | [C Wood](http://twitter.com/search?q=C+Wood) | N/A |
+| 7 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 8 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 9 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 10 | [Senior Night](http://twitter.com/search?q=Senior+Night) | N/A |
+| 11 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 12 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 13 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
+| 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 15 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 | 16 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 17 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 18 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 19 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 20 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
-| 23 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 24 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 25 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 26 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 27 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 28 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 29 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 18 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 19 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 20 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 21 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 23 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 24 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 25 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 26 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 27 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 28 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 29 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
 | 30 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 31 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
-| 32 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 33 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 31 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 32 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 33 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
 | 34 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 35 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
+| 35 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
 | 36 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 37 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 38 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 39 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 40 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 41 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 42 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 43 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
-| 44 | [Jalen Green](http://twitter.com/search?q=Jalen+Green) | Jalen Green is an American basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He is considered one of the top prospects in the 2021 NBA Draft. The name Jalen is derived from the Hebrew name “Ya’el”, which means “God will ascend”. |
-| 45 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
-| 46 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 47 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
-| 48 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
-| 49 | [Devonte Graham](http://twitter.com/search?q=Devonte+Graham) | N/A |
-| 50 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 37 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 38 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 39 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 40 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 41 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
+| 42 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 43 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 44 | [Madcap](http://twitter.com/search?q=Madcap) | N/A |
+| 45 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
+| 46 | [Caleb Jones](http://twitter.com/search?q=Caleb+Jones) | N/A |
+| 47 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 48 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 49 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 50 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-11 04:17:01 UTC`
+📆 Last Updated: `2023-02-11 05:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Panama
 | 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 9 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 10 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 11 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
-| 12 | [Waked](http://twitter.com/search?q=Waked) | N/A |
-| 13 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
-| 14 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 10 | [Waked](http://twitter.com/search?q=Waked) | N/A |
+| 11 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
+| 12 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
+| 13 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 14 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 15 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
 | 16 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 18 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 19 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 20 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 21 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 22 | [Clásico Mundial](http://twitter.com/search?q=Cl%c3%a1sico+Mundial) | N/A |
-| 23 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 19 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 20 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 21 | [Clásico Mundial](http://twitter.com/search?q=Cl%c3%a1sico+Mundial) | N/A |
+| 22 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 23 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 24 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 25 | [Albrook](http://twitter.com/search?q=Albrook) | N/A |
+| 25 | [albrook](http://twitter.com/search?q=albrook) | N/A |
 | 26 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Siii](http://twitter.com/search?q=Siii) | N/A |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 31 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 32 | [lista clinton](http://twitter.com/search?q=lista+clinton) | N/A |
-| 33 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
-| 34 | [Movin](http://twitter.com/search?q=Movin) | N/A |
-| 35 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 36 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 37 | [Sinaproc](http://twitter.com/search?q=Sinaproc) | N/A |
-| 38 | [Armas](http://twitter.com/search?q=Armas) | N/A |
-| 39 | [josé luis fábrega](http://twitter.com/search?q=jos%c3%a9+luis+f%c3%a1brega) | N/A |
-| 40 | [libertad de expresión](http://twitter.com/search?q=libertad+de+expresi%c3%b3n) | N/A |
-| 41 | [caja de ahorros](http://twitter.com/search?q=caja+de+ahorros) | N/A |
-| 42 | [despierta panamá](http://twitter.com/search?q=despierta+panam%c3%a1) | N/A |
-| 43 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 44 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 45 | [Alanje](http://twitter.com/search?q=Alanje) | N/A |
-| 46 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 47 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
-| 48 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
+| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 29 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 30 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 31 | [lista clinton](http://twitter.com/search?q=lista+clinton) | N/A |
+| 32 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 33 | [Movin](http://twitter.com/search?q=Movin) | N/A |
+| 34 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
+| 36 | [Sinaproc](http://twitter.com/search?q=Sinaproc) | N/A |
+| 37 | [Armas](http://twitter.com/search?q=Armas) | N/A |
+| 38 | [josé luis fábrega](http://twitter.com/search?q=jos%c3%a9+luis+f%c3%a1brega) | N/A |
+| 39 | [caja de ahorros](http://twitter.com/search?q=caja+de+ahorros) | N/A |
+| 40 | [despierta panamá](http://twitter.com/search?q=despierta+panam%c3%a1) | N/A |
+| 41 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 42 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 43 | [alanje](http://twitter.com/search?q=alanje) | N/A |
+| 44 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 45 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
+| 46 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
+| 47 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 48 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
 | 49 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 50 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
+| 50 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
 
 
 
