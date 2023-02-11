@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-11 06:16:03 UTC`
+📆 Last Updated: `2023-02-11 07:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,38 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 2 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 3 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 4 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
-| 7 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
-| 8 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 1 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
+| 2 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 4 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 5 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
+| 8 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
 | 9 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 | 10 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 12 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 13 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 14 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
+| 11 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 12 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
+| 13 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 14 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
 | 15 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 16 | [Jennifer McKelvie](http://twitter.com/search?q=Jennifer+McKelvie) | N/A |
-| 17 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 18 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 20 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 21 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
-| 22 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 23 | [Crave](http://twitter.com/search?q=Crave) | N/A |
-| 24 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 25 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 26 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 27 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 28 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 29 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 30 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 31 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 32 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 33 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
-| 34 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
-| 35 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
-| 36 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 37 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
-| 38 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 39 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 40 | [#4ContsFigure](http://twitter.com/search?q=%234ContsFigure) | N/A |
-| 41 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
-| 42 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
-| 43 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 44 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
-| 45 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 16 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 18 | [Crave](http://twitter.com/search?q=Crave) | N/A |
+| 19 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
+| 20 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 21 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 22 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 23 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 24 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
+| 25 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 26 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
+| 27 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 28 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
+| 29 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
+| 30 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
+| 31 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 32 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
 
 
 

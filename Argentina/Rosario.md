@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-11 06:16:16 UTC`
+📆 Last Updated: `2023-02-11 07:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 4 | [Flor](http://twitter.com/search?q=Flor) | N/A |
-| 5 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 6 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 7 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 8 | [pablo vegetti](http://twitter.com/search?q=pablo+vegetti) | N/A |
-| 9 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 10 | [Trava](http://twitter.com/search?q=Trava) | N/A |
-| 11 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
-| 12 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
-| 13 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 14 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 15 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 16 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 18 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
-| 19 | [Vignatti](http://twitter.com/search?q=Vignatti) | N/A |
-| 20 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 21 | [#VillaMaria2023](http://twitter.com/search?q=%23VillaMaria2023) | N/A |
-| 22 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 25 | [#Sarmiento](http://twitter.com/search?q=%23Sarmiento) | N/A |
-| 26 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 27 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 28 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
-| 29 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 31 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 32 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 35 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
-| 36 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 37 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
-| 38 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
-| 39 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
+| 3 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 4 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 5 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 6 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 7 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 8 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 9 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 10 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 11 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 12 | [#antisvslarries2023](http://twitter.com/search?q=%23antisvslarries2023) | N/A |
+| 13 | [Flor de la V](http://twitter.com/search?q=Flor+de+la+V) | N/A |
+| 14 | [Lourdes Sanchez](http://twitter.com/search?q=Lourdes+Sanchez) | N/A |
+| 15 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 17 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 18 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 19 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
+| 20 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 23 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 24 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 25 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 27 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 28 | [Vegetti](http://twitter.com/search?q=Vegetti) | Vegetti is a type of kitchen tool used to make spaghetti-like strands out of vegetables such as zucchini, carrots, and squash. It is also known as a spiralizer or a vegetable slicer. The name comes from the Italian word for "vegetable spaghetti." |
+| 29 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 30 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 31 | [Trava](http://twitter.com/search?q=Trava) | N/A |
+| 32 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 33 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 34 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 35 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 36 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 37 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 38 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 39 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
+| 40 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 41 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 42 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 43 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
+| 44 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 45 | [la sole en la chaya](http://twitter.com/search?q=la+sole+en+la+chaya) | N/A |
+| 46 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
+| 47 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
+| 48 | [Blas Cinalli](http://twitter.com/search?q=Blas+Cinalli) | Blas Cinalli is a Spanish phrase that translates to "good luck" in English. It is often used as a way to wish someone good luck or success in a particular endeavor. |
+| 49 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 50 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
 
 
 

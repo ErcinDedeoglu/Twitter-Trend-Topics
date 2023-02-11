@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-11 06:16:17 UTC`
+📆 Last Updated: `2023-02-11 07:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 3 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
 | 4 | [#nehammer](http://twitter.com/search?q=%23nehammer) | N/A |
-| 5 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
+| 5 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
 | 6 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 7 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 8 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 10 | [Diss](http://twitter.com/search?q=Diss) | N/A |
-| 11 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
-| 12 | [#skrapid](http://twitter.com/search?q=%23skrapid) | N/A |
-| 13 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 14 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
-| 15 | [$NUGGET](http://twitter.com/search?q=%24NUGGET) | N/A |
+| 8 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 9 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 10 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 11 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 12 | [Diss](http://twitter.com/search?q=Diss) | N/A |
+| 13 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
+| 14 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 15 | [#skrapid](http://twitter.com/search?q=%23skrapid) | N/A |
 | 16 | [Doktorarbeit](http://twitter.com/search?q=Doktorarbeit) | N/A |
-| 17 | [Tanner](http://twitter.com/search?q=Tanner) | N/A |
-| 18 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 19 | [Herr Thür](http://twitter.com/search?q=Herr+Th%c3%bcr) | N/A |
-| 20 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 21 | [Hedl](http://twitter.com/search?q=Hedl) | N/A |
-| 22 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 23 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 24 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 25 | [belastung](http://twitter.com/search?q=belastung) | N/A |
-| 26 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 17 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
+| 18 | [Herr Thür](http://twitter.com/search?q=Herr+Th%c3%bcr) | N/A |
+| 19 | [Hedl](http://twitter.com/search?q=Hedl) | N/A |
+| 20 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 21 | [$nugget](http://twitter.com/search?q=%24nugget) | N/A |
+| 22 | [tanner](http://twitter.com/search?q=tanner) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
+| 25 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 26 | [belastung](http://twitter.com/search?q=belastung) | N/A |
 | 27 | [Selenskyj](http://twitter.com/search?q=Selenskyj) | N/A |
-| 28 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 29 | [Maßnahme](http://twitter.com/search?q=Ma%c3%9fnahme) | N/A |
-| 30 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 31 | [Knast](http://twitter.com/search?q=Knast) | N/A |
-| 32 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 33 | [Wohnzimmer](http://twitter.com/search?q=Wohnzimmer) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [anzeigen](http://twitter.com/search?q=anzeigen) | N/A |
-| 36 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 38 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 39 | [geschlechter](http://twitter.com/search?q=geschlechter) | N/A |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Clown](http://twitter.com/search?q=Clown) | N/A |
-| 42 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 43 | [in österreich](http://twitter.com/search?q=in+%c3%b6sterreich) | N/A |
-| 44 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 45 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
-| 46 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 47 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 28 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 29 | [maßnahme](http://twitter.com/search?q=ma%c3%9fnahme) | N/A |
+| 30 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 31 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 32 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 33 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 34 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 35 | [Wohnzimmer](http://twitter.com/search?q=Wohnzimmer) | N/A |
+| 36 | [Knast](http://twitter.com/search?q=Knast) | N/A |
+| 37 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 38 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 39 | [anzeigen](http://twitter.com/search?q=anzeigen) | N/A |
+| 40 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 41 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
+| 42 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 43 | [Clown](http://twitter.com/search?q=Clown) | N/A |
+| 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 45 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 46 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 47 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
 | 48 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 49 | [zumutung](http://twitter.com/search?q=zumutung) | N/A |
-| 50 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 49 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 50 | [in österreich](http://twitter.com/search?q=in+%c3%b6sterreich) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-11 06:17:02 UTC`
+📆 Last Updated: `2023-02-11 07:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [#lgdwid](http://twitter.com/search?q=%23lgdwid) | N/A |
 | 3 | [#stmrcz](http://twitter.com/search?q=%23stmrcz) | N/A |
 | 4 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 5 | [#wisres](http://twitter.com/search?q=%23wisres) | N/A |
-| 6 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 5 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 6 | [#WISRES](http://twitter.com/search?q=%23WISRES) | N/A |
 | 7 | [#szepnijcośmiłego](http://twitter.com/search?q=%23szepnijco%c5%9bmi%c5%82ego) | N/A |
 | 8 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 9 | [#evenhellpoland](http://twitter.com/search?q=%23evenhellpoland) | N/A |
-| 10 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 9 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 10 | [#EvenHellPoland](http://twitter.com/search?q=%23EvenHellPoland) | N/A |
 | 11 | [stefański](http://twitter.com/search?q=stefa%c5%84ski) | N/A |
-| 12 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
+| 12 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
 | 13 | [Junca](http://twitter.com/search?q=Junca) | N/A |
 | 14 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
-| 15 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
+| 15 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
 | 16 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 17 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 17 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
 | 18 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 19 | [rumunii](http://twitter.com/search?q=rumunii) | N/A |
-| 20 | [mołdawii](http://twitter.com/search?q=mo%c5%82dawii) | N/A |
-| 21 | [Brzezinach](http://twitter.com/search?q=Brzezinach) | N/A |
-| 22 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
-| 23 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 24 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 25 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
-| 26 | [pani premier](http://twitter.com/search?q=pani+premier) | N/A |
-| 27 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 28 | [Basha](http://twitter.com/search?q=Basha) | N/A |
-| 29 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 19 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 20 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
+| 21 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 22 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 23 | [mołdawii](http://twitter.com/search?q=mo%c5%82dawii) | N/A |
+| 24 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
+| 25 | [Brzezinach](http://twitter.com/search?q=Brzezinach) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 28 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 29 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
 | 30 | [Lotos](http://twitter.com/search?q=Lotos) | N/A |
-| 31 | [piotr wiśnicki](http://twitter.com/search?q=piotr+wi%c5%9bnicki) | N/A |
-| 32 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 33 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
-| 34 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 35 | [mentzen](http://twitter.com/search?q=mentzen) | N/A |
-| 36 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
-| 37 | [bobrownikach](http://twitter.com/search?q=bobrownikach) | N/A |
-| 38 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
-| 39 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
-| 40 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 41 | [fiałek](http://twitter.com/search?q=fia%c5%82ek) | N/A |
-| 42 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 31 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 32 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
+| 33 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
+| 34 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 35 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
+| 36 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 37 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
+| 38 | [bashy](http://twitter.com/search?q=bashy) | N/A |
+| 39 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 40 | [fiałek](http://twitter.com/search?q=fia%c5%82ek) | N/A |
+| 41 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 42 | [bobrownikach](http://twitter.com/search?q=bobrownikach) | N/A |
 | 43 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 44 | [Żenujący](http://twitter.com/search?q=%c5%bbenuj%c4%85cy) | N/A |
-| 45 | [becia](http://twitter.com/search?q=becia) | N/A |
-| 46 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
-| 47 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 48 | [ławrow](http://twitter.com/search?q=%c5%82awrow) | N/A |
-| 49 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 50 | [emiratów](http://twitter.com/search?q=emirat%c3%b3w) | N/A |
+| 44 | [becia](http://twitter.com/search?q=becia) | N/A |
+| 45 | [ustawa o sn](http://twitter.com/search?q=ustawa+o+sn) | N/A |
+| 46 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 47 | [ławrow](http://twitter.com/search?q=%c5%82awrow) | N/A |
+| 48 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 49 | [Arabii Saudyjskiej](http://twitter.com/search?q=Arabii+Saudyjskiej) | N/A |
+| 50 | [sapała](http://twitter.com/search?q=sapa%c5%82a) | N/A |
 
 
 

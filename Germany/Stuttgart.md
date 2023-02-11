@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-11 06:16:21 UTC`
+📆 Last Updated: `2023-02-11 07:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
-| 2 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 1 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 2 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
 | 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 4 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
-| 5 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
+| 4 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
+| 5 | [#rtlturmspringen](http://twitter.com/search?q=%23rtlturmspringen) | N/A |
 | 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 7 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 9 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
-| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 11 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 14 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 15 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 16 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 17 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 18 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 19 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
-| 20 | [blackfacing](http://twitter.com/search?q=blackfacing) | N/A |
-| 21 | [reinhard mey](http://twitter.com/search?q=reinhard+mey) | N/A |
-| 22 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 23 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 24 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 25 | ['fenster'](http://twitter.com/search?q=%27fenster%27) | N/A |
-| 26 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 27 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 28 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 29 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 30 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 31 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 32 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 33 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 34 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 35 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
-| 36 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
-| 37 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 38 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 39 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
-| 40 | [Solidarisch Opfer](http://twitter.com/search?q=Solidarisch+Opfer) | N/A |
-| 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 42 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 43 | [schaf](http://twitter.com/search?q=schaf) | N/A |
-| 44 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
-| 45 | [Herr Trittin](http://twitter.com/search?q=Herr+Trittin) | N/A |
-| 46 | [Erbärmlich](http://twitter.com/search?q=Erb%c3%a4rmlich) | N/A |
-| 47 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 48 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 49 | [Schleck](http://twitter.com/search?q=Schleck) | N/A |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 11 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 12 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 13 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 14 | [Fähre](http://twitter.com/search?q=F%c3%a4hre) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 17 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 18 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 19 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
+| 20 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 21 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 22 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 23 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 24 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
+| 25 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 26 | [blackfacing](http://twitter.com/search?q=blackfacing) | N/A |
+| 27 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 28 | ['fenster'](http://twitter.com/search?q=%27fenster%27) | N/A |
+| 29 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 30 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 31 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 32 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
+| 33 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 34 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
+| 35 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 36 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 38 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 39 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 40 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 41 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 42 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 43 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
+| 44 | [Schlafrhythmus](http://twitter.com/search?q=Schlafrhythmus) | N/A |
+| 45 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 46 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 47 | [Solidarisch Opfer](http://twitter.com/search?q=Solidarisch+Opfer) | N/A |
+| 48 | [Endsieg](http://twitter.com/search?q=Endsieg) | N/A |
+| 49 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 
 
 

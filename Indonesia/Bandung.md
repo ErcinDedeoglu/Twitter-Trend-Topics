@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-11 06:16:26 UTC`
+📆 Last Updated: `2023-02-11 07:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GalaxyBuds2Pro](http://twitter.com/search?q=%23GalaxyBuds2Pro) | N/A |
-| 2 | [#EpicEveryday](http://twitter.com/search?q=%23EpicEveryday) | N/A |
-| 3 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 4 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 5 | [#DukungTerusJakartaBIN](http://twitter.com/search?q=%23DukungTerusJakartaBIN) | N/A |
-| 6 | [Tongkat Ajaib](http://twitter.com/search?q=Tongkat+Ajaib) | N/A |
-| 7 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 8 | [Harmoni PKB-NU](http://twitter.com/search?q=Harmoni+PKB-NU) | N/A |
-| 9 | [Dany Amrul Ichdan](http://twitter.com/search?q=Dany+Amrul+Ichdan) | N/A |
-| 10 | [ET Apresiasi BRI](http://twitter.com/search?q=ET+Apresiasi+BRI) | N/A |
-| 11 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 12 | [Dear David](http://twitter.com/search?q=Dear+David) | N/A |
-| 13 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 14 | [Galaxy Tab A7 Lite](http://twitter.com/search?q=Galaxy+Tab+A7+Lite) | N/A |
-| 15 | [Kursi](http://twitter.com/search?q=Kursi) | N/A |
-| 16 | [Batalin](http://twitter.com/search?q=Batalin) | N/A |
-| 17 | [Pisah](http://twitter.com/search?q=Pisah) | N/A |
-| 18 | [Singa](http://twitter.com/search?q=Singa) | N/A |
-| 19 | [Alhaitham Jaya](http://twitter.com/search?q=Alhaitham+Jaya) | N/A |
-| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 21 | [Proplan](http://twitter.com/search?q=Proplan) | N/A |
-| 22 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 23 | [erick thohir apresiasi bri](http://twitter.com/search?q=erick+thohir+apresiasi+bri) | N/A |
-| 24 | [Win x JKT](http://twitter.com/search?q=Win+x+JKT) | N/A |
-| 25 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 26 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 27 | [Setip](http://twitter.com/search?q=Setip) | N/A |
-| 28 | [bukan orang baru](http://twitter.com/search?q=bukan+orang+baru) | N/A |
-| 29 | [Laras](http://twitter.com/search?q=Laras) | N/A |
-| 30 | [cowok 2](http://twitter.com/search?q=cowok+2) | N/A |
-| 31 | [EXO Next Door](http://twitter.com/search?q=EXO+Next+Door) | N/A |
-| 32 | [congratulations nct 127](http://twitter.com/search?q=congratulations+nct+127) | N/A |
-| 33 | [Hari Sabtu](http://twitter.com/search?q=Hari+Sabtu) | N/A |
-| 34 | [miftachul ahyar](http://twitter.com/search?q=miftachul+ahyar) | N/A |
-| 35 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 36 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 37 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 38 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 39 | [tongkat angin](http://twitter.com/search?q=tongkat+angin) | N/A |
-| 40 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 41 | [Sejarah PKB](http://twitter.com/search?q=Sejarah+PKB) | N/A |
-| 42 | [Label SJ](http://twitter.com/search?q=Label+SJ) | N/A |
-| 43 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 44 | [OUR SOPASTAR JEONGWOO](http://twitter.com/search?q=OUR+SOPASTAR+JEONGWOO) | N/A |
-| 45 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 46 | [MIND ID](http://twitter.com/search?q=MIND+ID) | N/A |
-| 47 | [PMMMRMN](http://twitter.com/search?q=PMMMRMN) | N/A |
-| 48 | [Spooky](http://twitter.com/search?q=Spooky) | N/A |
-| 49 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 50 | [West Ham United](http://twitter.com/search?q=West+Ham+United) | N/A |
+| 1 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 2 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 4 | [#GalaxyBuds2Pro](http://twitter.com/search?q=%23GalaxyBuds2Pro) | N/A |
+| 5 | [#EpicEveryday](http://twitter.com/search?q=%23EpicEveryday) | N/A |
+| 6 | [Canggih](http://twitter.com/search?q=Canggih) | N/A |
+| 7 | [Kursi](http://twitter.com/search?q=Kursi) | N/A |
+| 8 | [Singa](http://twitter.com/search?q=Singa) | N/A |
+| 9 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 10 | [Hari Sabtu](http://twitter.com/search?q=Hari+Sabtu) | N/A |
+| 11 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
+| 12 | [PMMMRMN](http://twitter.com/search?q=PMMMRMN) | N/A |
+| 13 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
+| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 15 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 16 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 17 | [Mendung](http://twitter.com/search?q=Mendung) | N/A |
+| 18 | [EXO Next Door](http://twitter.com/search?q=EXO+Next+Door) | N/A |
+| 19 | [Batalin](http://twitter.com/search?q=Batalin) | N/A |
+| 20 | [Batak](http://twitter.com/search?q=Batak) | N/A |
+| 21 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 22 | [rosie](http://twitter.com/search?q=rosie) | N/A |
+| 23 | [Setip](http://twitter.com/search?q=Setip) | N/A |
+| 24 | [#GalaxyWatch5](http://twitter.com/search?q=%23GalaxyWatch5) | N/A |
+| 25 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
+| 26 | [#BNISirnas2023](http://twitter.com/search?q=%23BNISirnas2023) | N/A |
+| 27 | [#Badmintondidetikcom](http://twitter.com/search?q=%23Badmintondidetikcom) | N/A |
+| 28 | [#DukungTerusJakartaBIN](http://twitter.com/search?q=%23DukungTerusJakartaBIN) | N/A |
+| 29 | [#MakinManTAB](http://twitter.com/search?q=%23MakinManTAB) | N/A |
+| 30 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
+| 31 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 32 | [#OhmNanon1stFMSG](http://twitter.com/search?q=%23OhmNanon1stFMSG) | N/A |
+| 33 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 34 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 35 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
+| 36 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 37 | [#PaguyubanEditorProject](http://twitter.com/search?q=%23PaguyubanEditorProject) | N/A |
+| 38 | [#Mew2023BDGifts](http://twitter.com/search?q=%23Mew2023BDGifts) | N/A |
+| 39 | [#Mew2023BDProjects](http://twitter.com/search?q=%23Mew2023BDProjects) | N/A |
+| 40 | [#IDGARSvsBRE](http://twitter.com/search?q=%23IDGARSvsBRE) | N/A |
+| 41 | [#GalaxyS23xShopee](http://twitter.com/search?q=%23GalaxyS23xShopee) | N/A |
+| 42 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 43 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
+| 44 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 45 | [#MewSuppasit](http://twitter.com/search?q=%23MewSuppasit) | N/A |
 
 
 

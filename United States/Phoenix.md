@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-11 06:16:53 UTC`
+📆 Last Updated: `2023-02-11 07:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 4 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
 | 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 6 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
 | 7 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
 | 8 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
 | 9 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 10 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 11 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 12 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 13 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 14 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 15 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 16 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 17 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 18 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
-| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 20 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 21 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 22 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 23 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 24 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 25 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 26 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 10 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 11 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 12 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 13 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 14 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 15 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 16 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 17 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 18 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 19 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 20 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 21 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 22 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 23 | [Pinson](http://twitter.com/search?q=Pinson) | N/A |
+| 24 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 25 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 26 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
 | 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 28 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 29 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 30 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 31 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 32 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 33 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 34 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 35 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 36 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 37 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 38 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 39 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
-| 40 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 41 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
-| 42 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
-| 43 | [Isabeau](http://twitter.com/search?q=Isabeau) | N/A |
-| 44 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
-| 45 | [Caleb Jones](http://twitter.com/search?q=Caleb+Jones) | N/A |
-| 46 | [Anfernee](http://twitter.com/search?q=Anfernee) | N/A |
-| 47 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
-| 48 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 49 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
-| 50 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 28 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 29 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 30 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 31 | [Anfernee](http://twitter.com/search?q=Anfernee) | N/A |
+| 32 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 33 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 34 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 35 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
+| 36 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 37 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 38 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 39 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 40 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 41 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 42 | [Isabeau](http://twitter.com/search?q=Isabeau) | N/A |
+| 43 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 44 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 45 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
+| 46 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 47 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 48 | [JIMMY BUCKETS](http://twitter.com/search?q=JIMMY+BUCKETS) | N/A |
+| 49 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 50 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
 
 
 

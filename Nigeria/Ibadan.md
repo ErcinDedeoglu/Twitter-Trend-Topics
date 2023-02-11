@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-11 06:16:35 UTC`
+📆 Last Updated: `2023-02-11 07:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [RIP AKA](http://twitter.com/search?q=RIP+AKA) | N/A |
 | 2 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
-| 3 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
-| 4 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 3 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 4 | [Durban](http://twitter.com/search?q=Durban) | N/A |
 | 5 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
-| 6 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 7 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 8 | [#gssomethingforyou](http://twitter.com/search?q=%23gssomethingforyou) | N/A |
+| 6 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
+| 7 | [#gssomethingforyou](http://twitter.com/search?q=%23gssomethingforyou) | N/A |
+| 8 | [#abijenaeempire](http://twitter.com/search?q=%23abijenaeempire) | N/A |
 | 9 | [Blaqbonez Crusade](http://twitter.com/search?q=Blaqbonez+Crusade) | N/A |
-| 10 | [#abijenaeempire](http://twitter.com/search?q=%23abijenaeempire) | N/A |
-| 11 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
-| 12 | [Kiernan Jarryd Forbes](http://twitter.com/search?q=Kiernan+Jarryd+Forbes) | N/A |
-| 13 | [Big Louie](http://twitter.com/search?q=Big+Louie) | N/A |
-| 14 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 15 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 16 | [odogwu yemi cregx](http://twitter.com/search?q=odogwu+yemi+cregx) | N/A |
-| 17 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 18 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 19 | [king perryy](http://twitter.com/search?q=king+perryy) | N/A |
-| 20 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 21 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
+| 10 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 11 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
+| 12 | [king perryy](http://twitter.com/search?q=king+perryy) | N/A |
+| 13 | [Nasty C](http://twitter.com/search?q=Nasty+C) | N/A |
+| 14 | [odogwu yemi cregx](http://twitter.com/search?q=odogwu+yemi+cregx) | N/A |
+| 15 | [Corn](http://twitter.com/search?q=Corn) | N/A |
+| 16 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 17 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 18 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 19 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 20 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 21 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
 | 22 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 23 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 24 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
-| 25 | [Sability](http://twitter.com/search?q=Sability) | N/A |
-| 26 | [Council of State](http://twitter.com/search?q=Council+of+State) | N/A |
-| 27 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 28 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 29 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 30 | [Not AKA](http://twitter.com/search?q=Not+AKA) | N/A |
-| 31 | [So AKA](http://twitter.com/search?q=So+AKA) | N/A |
-| 32 | [pheelz good](http://twitter.com/search?q=pheelz+good) | N/A |
-| 33 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
+| 23 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 24 | [Kigali](http://twitter.com/search?q=Kigali) | N/A |
+| 25 | [Council of State](http://twitter.com/search?q=Council+of+State) | N/A |
+| 26 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 27 | [Not AKA](http://twitter.com/search?q=Not+AKA) | N/A |
+| 28 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 29 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
+| 30 | [Sability](http://twitter.com/search?q=Sability) | N/A |
+| 31 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
+| 32 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 33 | [Matchday](http://twitter.com/search?q=Matchday) | N/A |
 | 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 35 | [Rest in Peace AKA](http://twitter.com/search?q=Rest+in+Peace+AKA) | N/A |
+| 35 | [Kiernan Jarryd](http://twitter.com/search?q=Kiernan+Jarryd) | N/A |
 | 36 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 37 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
-| 38 | [Nasty C](http://twitter.com/search?q=Nasty+C) | N/A |
-| 39 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 40 | [dele alake](http://twitter.com/search?q=dele+alake) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [shinji kagawa](http://twitter.com/search?q=shinji+kagawa) | N/A |
-| 43 | [Chimaroke Nnamani](http://twitter.com/search?q=Chimaroke+Nnamani) | N/A |
-| 44 | [VIDEO OF THE YEAR](http://twitter.com/search?q=VIDEO+OF+THE+YEAR) | N/A |
-| 45 | [Young Jonn](http://twitter.com/search?q=Young+Jonn) | N/A |
+| 37 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 38 | [Qudus](http://twitter.com/search?q=Qudus) | N/A |
+| 39 | [dele alake](http://twitter.com/search?q=dele+alake) | N/A |
+| 40 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
+| 41 | [So AKA](http://twitter.com/search?q=So+AKA) | N/A |
+| 42 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 43 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 44 | [Chimaroke Nnamani](http://twitter.com/search?q=Chimaroke+Nnamani) | N/A |
+| 45 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
 | 46 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 47 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 48 | [UNSTOPPABLE PHYNA](http://twitter.com/search?q=UNSTOPPABLE+PHYNA) | N/A |
-| 49 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 47 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Young Jonn](http://twitter.com/search?q=Young+Jonn) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-11 06:16:58 UTC`
+📆 Last Updated: `2023-02-11 07:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,44 +18,53 @@ This is top 50 for Canada
 | 1 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
-| 4 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
-| 5 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 4 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 5 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 6 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
 | 7 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 10 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 11 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
-| 12 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 13 | [Jennifer McKelvie](http://twitter.com/search?q=Jennifer+McKelvie) | N/A |
-| 14 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
-| 18 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 19 | [Crave](http://twitter.com/search?q=Crave) | N/A |
-| 20 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 21 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 22 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 23 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 24 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 25 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 26 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 27 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 28 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 29 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
-| 30 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
-| 31 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
-| 32 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 33 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
-| 34 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 35 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 36 | [#4ContsFigure](http://twitter.com/search?q=%234ContsFigure) | N/A |
-| 37 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
-| 38 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
-| 39 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 40 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
-| 41 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 8 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
+| 9 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 10 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 11 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 12 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 13 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 14 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 16 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 18 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 19 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 20 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 22 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 23 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 24 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 25 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 27 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 28 | [Jennifer McKelvie](http://twitter.com/search?q=Jennifer+McKelvie) | N/A |
+| 29 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 30 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
+| 31 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 32 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
+| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 34 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 35 | [David Miller](http://twitter.com/search?q=David+Miller) | N/A |
+| 36 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 37 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 38 | [Stag and Doe](http://twitter.com/search?q=Stag+and+Doe) | N/A |
+| 39 | [SmartTrack](http://twitter.com/search?q=SmartTrack) | N/A |
+| 40 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 41 | [Sean Farrell](http://twitter.com/search?q=Sean+Farrell) | N/A |
+| 42 | [Barb](http://twitter.com/search?q=Barb) | N/A |
+| 43 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 46 | [Billings Bridge](http://twitter.com/search?q=Billings+Bridge) | N/A |
+| 47 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 48 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 49 | [CHRIS BOUCHER](http://twitter.com/search?q=CHRIS+BOUCHER) | N/A |
+| 50 | [congratulations tammie](http://twitter.com/search?q=congratulations+tammie) | N/A |
 
 
 
