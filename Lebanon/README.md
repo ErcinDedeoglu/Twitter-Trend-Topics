@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-11 14:16:31 UTC`
+📆 Last Updated: `2023-02-11 15:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,24 +24,24 @@ This is top 50 for Lebanon
 | 7 | [علي صفي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%81%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
 | 8 | [ضهر البيدر](http://twitter.com/search?q=%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
 | 9 | [القدس المحتله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d9%87) | N/A |
-| 10 | [الجمهوريه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 11 | [١١ شباط](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
+| 10 | [١١ شباط](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
+| 11 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
 | 12 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 13 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 14 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 15 | [11 شباط](http://twitter.com/search?q=11+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 16 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
-| 17 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 18 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
-| 19 | [لقاء باريس](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 20 | [القايد الملهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%84%d9%87%d9%85) | N/A |
-| 21 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
-| 22 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 23 | [سامر حنا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%b1+%d8%ad%d9%86%d8%a7) | N/A |
-| 24 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 14 | [11 شباط](http://twitter.com/search?q=11+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
+| 15 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
+| 16 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
+| 17 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
+| 18 | [لقاء باريس](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 19 | [القايد الملهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%84%d9%87%d9%85) | N/A |
+| 20 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
+| 21 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 22 | [سامر حنا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%b1+%d8%ad%d9%86%d8%a7) | N/A |
+| 23 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 24 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
 | 25 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
 | 26 | [10 شباط 2023](http://twitter.com/search?q=10+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 27 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 27 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
 | 28 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 | 29 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 30 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Lebanon
 | 34 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 35 | [فتحي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
 | 36 | [نوف الجويه الاسراييليه](http://twitter.com/search?q=%d9%86%d9%88%d9%81+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 37 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 38 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 39 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
-| 40 | [الاقفال التام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%85) | N/A |
-| 41 | [الانقاذ اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 37 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 38 | [الانقاذ اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 39 | [مقتل ميشيل](http://twitter.com/search?q=%d9%85%d9%82%d8%aa%d9%84+%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | N/A |
+| 40 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 41 | [الاقفال التام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%85) | N/A |
 | 42 | [اللحظات الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ad%d8%b8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 43 | [الذكري السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
-| 44 | [التبرعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 45 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 43 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 44 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 45 | [التبرعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 46 | [West](http://twitter.com/search?q=West) | N/A |
-| 47 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
+| 47 | [الذكري السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
 | 48 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [منظمة الصحة العالمية](http://twitter.com/search?q=%d9%85%d9%86%d8%b8%d9%85%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9) | N/A |
-| 50 | [الحمله الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 49 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
+| 50 | [حسن نصر](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%86%d8%b5%d8%b1) | N/A |
 
 
 

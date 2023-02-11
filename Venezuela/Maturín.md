@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-02-11 14:15:51 UTC`
+📆 Last Updated: `2023-02-11 15:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#SomosPasiónCaribe](http://twitter.com/search?q=%23SomosPasi%c3%b3nCaribe) | N/A |
 | 3 | [#SDCxTLT](http://twitter.com/search?q=%23SDCxTLT) | N/A |
 | 4 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
-| 5 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 6 | [#SiSePuedeVzla](http://twitter.com/search?q=%23SiSePuedeVzla) | N/A |
-| 7 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 8 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 9 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 5 | [#SiSePuedeVzla](http://twitter.com/search?q=%23SiSePuedeVzla) | N/A |
+| 6 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 7 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 8 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 10 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
-| 11 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 11 | [Día del Sociólogo](http://twitter.com/search?q=D%c3%ada+del+Soci%c3%b3logo) | N/A |
 | 12 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 13 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
-| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 15 | [Día del Sociólogo](http://twitter.com/search?q=D%c3%ada+del+Soci%c3%b3logo) | N/A |
-| 16 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 17 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [savoy](http://twitter.com/search?q=savoy) | N/A |
-| 20 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 21 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 22 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 24 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
-| 25 | [El 11](http://twitter.com/search?q=El+11) | N/A |
-| 26 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 27 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 28 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 13 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 14 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 15 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
+| 16 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
+| 17 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 18 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 19 | [El 11](http://twitter.com/search?q=El+11) | N/A |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 23 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 25 | [Carlos Soublette](http://twitter.com/search?q=Carlos+Soublette) | N/A |
+| 26 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 27 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 28 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
 | 29 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 30 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 31 | [josé rondón](http://twitter.com/search?q=jos%c3%a9+rond%c3%b3n) | N/A |
-| 32 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 33 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
-| 34 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
-| 35 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 36 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 38 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 40 | [Rolando Álvarez](http://twitter.com/search?q=Rolando+%c3%81lvarez) | N/A |
-| 41 | [Carla Angola](http://twitter.com/search?q=Carla+Angola) | N/A |
-| 42 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
-| 43 | [Abuelo](http://twitter.com/search?q=Abuelo) | N/A |
-| 44 | [costello](http://twitter.com/search?q=costello) | N/A |
-| 45 | [Indignante](http://twitter.com/search?q=Indignante) | N/A |
-| 46 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
-| 47 | [escalimetro](http://twitter.com/search?q=escalimetro) | N/A |
-| 48 | [Araque](http://twitter.com/search?q=Araque) | N/A |
-| 49 | [Caraquista](http://twitter.com/search?q=Caraquista) | N/A |
-| 50 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 30 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 31 | [antropólogo](http://twitter.com/search?q=antrop%c3%b3logo) | N/A |
+| 32 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 33 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 34 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
+| 35 | [Sudáfrica](http://twitter.com/search?q=Sud%c3%a1frica) | N/A |
+| 36 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
+| 37 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 38 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 39 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 40 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 42 | [Carla Angola](http://twitter.com/search?q=Carla+Angola) | N/A |
+| 43 | [Rolando Álvarez](http://twitter.com/search?q=Rolando+%c3%81lvarez) | N/A |
+| 44 | [Indignante](http://twitter.com/search?q=Indignante) | N/A |
+| 45 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
+| 46 | [Perdieron](http://twitter.com/search?q=Perdieron) | N/A |
+| 47 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
+| 48 | [escalimetro](http://twitter.com/search?q=escalimetro) | N/A |
+| 49 | [Araque](http://twitter.com/search?q=Araque) | N/A |
+| 50 | [Costello](http://twitter.com/search?q=Costello) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-11 14:15:42 UTC`
+📆 Last Updated: `2023-02-11 15:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LEITOT](http://twitter.com/search?q=%23LEITOT) | N/A |
-| 2 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 3 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 4 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 5 | [#awaydays](http://twitter.com/search?q=%23awaydays) | N/A |
-| 6 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 7 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 8 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
-| 9 | [#CatsOfTwitter](http://twitter.com/search?q=%23CatsOfTwitter) | N/A |
-| 10 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 11 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 12 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 13 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 14 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 15 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 18 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 21 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 23 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 24 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 25 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 27 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 30 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 31 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 32 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
-| 33 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 34 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 35 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
-| 36 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 37 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 38 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
-| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 40 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 41 | [Ben Mitchell](http://twitter.com/search?q=Ben+Mitchell) | N/A |
-| 42 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
-| 43 | [Downes](http://twitter.com/search?q=Downes) | N/A |
-| 44 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 45 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 46 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 47 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 48 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 49 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
-| 50 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 1 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 2 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 3 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 4 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 5 | [#TwitterModelTrainShow](http://twitter.com/search?q=%23TwitterModelTrainShow) | N/A |
+| 6 | [#secondhandprog](http://twitter.com/search?q=%23secondhandprog) | N/A |
+| 7 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 8 | [#TandLSummit](http://twitter.com/search?q=%23TandLSummit) | N/A |
+| 9 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 10 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 11 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 12 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 13 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
+| 14 | [#NonLeague](http://twitter.com/search?q=%23NonLeague) | N/A |
+| 15 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
+| 16 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 17 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 21 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 22 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
+| 25 | [Wayne Barnes](http://twitter.com/search?q=Wayne+Barnes) | N/A |
+| 26 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [James Lowe](http://twitter.com/search?q=James+Lowe) | N/A |
+| 29 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 30 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 31 | [Peter Walton](http://twitter.com/search?q=Peter+Walton) | N/A |
+| 32 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 33 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 34 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 35 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 36 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 37 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 38 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
+| 39 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 40 | [Craig Pawson](http://twitter.com/search?q=Craig+Pawson) | N/A |
+| 41 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 42 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
+| 43 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 44 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
+| 45 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
+| 46 | [Ben Mitchell](http://twitter.com/search?q=Ben+Mitchell) | N/A |
+| 47 | [Ireland v France](http://twitter.com/search?q=Ireland+v+France) | N/A |
+| 48 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 49 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
 
 
 

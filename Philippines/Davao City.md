@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-11 14:16:06 UTC`
+📆 Last Updated: `2023-02-11 15:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
-| 2 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
-| 3 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 2 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
+| 3 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
 | 4 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 5 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 6 | [NewsToKoYan VIVOREE](http://twitter.com/search?q=NewsToKoYan+VIVOREE) | N/A |
-| 7 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 8 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
-| 9 | [#FELIP_ROCKSTAonWishBus](http://twitter.com/search?q=%23FELIP_ROCKSTAonWishBus) | N/A |
-| 10 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 11 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 12 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 6 | [newstokoyan vivoree](http://twitter.com/search?q=newstokoyan+vivoree) | N/A |
+| 7 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 9 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 10 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
+| 11 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 12 | [ara galang](http://twitter.com/search?q=ara+galang) | N/A |
 | 13 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 14 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 15 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
-| 16 | [madrigal](http://twitter.com/search?q=madrigal) | N/A |
-| 17 | [Win in Jakarta](http://twitter.com/search?q=Win+in+Jakarta) | N/A |
-| 18 | [GLOBAL ARTIST JIN](http://twitter.com/search?q=GLOBAL+ARTIST+JIN) | N/A |
-| 19 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 20 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 21 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
-| 22 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
-| 23 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 24 | [MANU RIOS](http://twitter.com/search?q=MANU+RIOS) | N/A |
+| 14 | [CONGRATULATIONS DREAMIES](http://twitter.com/search?q=CONGRATULATIONS+DREAMIES) | N/A |
+| 15 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 16 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 17 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 18 | [4 YEARS WITH KARINA](http://twitter.com/search?q=4+YEARS+WITH+KARINA) | N/A |
+| 19 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 20 | [GLOBAL ARTIST JIN](http://twitter.com/search?q=GLOBAL+ARTIST+JIN) | N/A |
+| 21 | [Win in Jakarta](http://twitter.com/search?q=Win+in+Jakarta) | N/A |
+| 22 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
+| 23 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 24 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
 | 25 | [KAIA TURN UP DANCE PRACTICE](http://twitter.com/search?q=KAIA+TURN+UP+DANCE+PRACTICE) | N/A |
-| 26 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
-| 27 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 28 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 29 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
-| 30 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
-| 31 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 32 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 33 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 34 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
-| 35 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
-| 36 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 37 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 39 | [sooyoung](http://twitter.com/search?q=sooyoung) | N/A |
-| 40 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
-| 41 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 42 | [#HeartToHeartWithYPA](http://twitter.com/search?q=%23HeartToHeartWithYPA) | N/A |
-| 43 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
-| 44 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
-| 45 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 46 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 47 | [#KARINA](http://twitter.com/search?q=%23KARINA) | N/A |
+| 26 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
+| 27 | [marcus](http://twitter.com/search?q=marcus) | N/A |
+| 28 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
+| 29 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 30 | [MANU RIOS](http://twitter.com/search?q=MANU+RIOS) | N/A |
+| 31 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 32 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 33 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 34 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 35 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
+| 36 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 37 | [Reyster](http://twitter.com/search?q=Reyster) | N/A |
+| 38 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
+| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 40 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 41 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 42 | [Sooyoung](http://twitter.com/search?q=Sooyoung) | N/A |
+| 43 | [#FELIP_ROCKSTAonWishBus](http://twitter.com/search?q=%23FELIP_ROCKSTAonWishBus) | N/A |
+| 44 | [#hearttoheartwithypa](http://twitter.com/search?q=%23hearttoheartwithypa) | N/A |
+| 45 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 46 | [#CrashCourseInRomanceEp9](http://twitter.com/search?q=%23CrashCourseInRomanceEp9) | N/A |
+| 47 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
+| 48 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 
 
 

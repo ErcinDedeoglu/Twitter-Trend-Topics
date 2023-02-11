@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-02-11 14:15:58 UTC`
+📆 Last Updated: `2023-02-11 15:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Greece](</Greece>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
-| 2 | [#FosStoTounel](http://twitter.com/search?q=%23FosStoTounel) | N/A |
-| 3 | [#paobc](http://twitter.com/search?q=%23paobc) | N/A |
-| 4 | [#geiasou](http://twitter.com/search?q=%23geiasou) | N/A |
-| 5 | [Καλο Σαββατοκυριακο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 6 | [#πλειστηριασμοι](http://twitter.com/search?q=%23%cf%80%ce%bb%ce%b5%ce%b9%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%b1%cf%83%ce%bc%ce%bf%ce%b9) | N/A |
+| 2 | [#fosstotounel](http://twitter.com/search?q=%23fosstotounel) | #Fosstotounel is a hashtag used to promote the FOSS (Free and Open Source Software) movement. It stands for "Free and Open Source Software To The People". It is used to encourage people to use open source software, which is software that can be freely shared, modified, and distributed. |
+| 3 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
+| 4 | [#paobc](http://twitter.com/search?q=%23paobc) | N/A |
+| 5 | [#πλειστηριασμοι](http://twitter.com/search?q=%23%cf%80%ce%bb%ce%b5%ce%b9%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%b1%cf%83%ce%bc%ce%bf%ce%b9) | N/A |
+| 6 | [Καλο Σαββατοκυριακο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
 | 7 | [Αρειου Παγου](http://twitter.com/search?q=%ce%91%cf%81%ce%b5%ce%b9%ce%bf%cf%85+%ce%a0%ce%b1%ce%b3%ce%bf%cf%85) | N/A |
-| 8 | [Deree](http://twitter.com/search?q=Deree) | N/A |
-| 9 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
-| 10 | [Κατσελη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
-| 11 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
-| 12 | [Ειδικο Δικαστηριο](http://twitter.com/search?q=%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%94%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
-| 13 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
-| 14 | [Τανια](http://twitter.com/search?q=%ce%a4%ce%b1%ce%bd%ce%b9%ce%b1) | N/A |
-| 15 | [σεβα](http://twitter.com/search?q=%cf%83%ce%b5%ce%b2%ce%b1) | N/A |
-| 16 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
-| 17 | [Τζοουνς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
-| 18 | [Ραντονιτς](http://twitter.com/search?q=%ce%a1%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
-| 19 | [Αγραβανη](http://twitter.com/search?q=%ce%91%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
-| 20 | [σαμασεκου](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%b1%cf%83%ce%b5%ce%ba%ce%bf%cf%85) | N/A |
-| 21 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 22 | [νικο παππα](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf+%cf%80%ce%b1%cf%80%cf%80%ce%b1) | N/A |
+| 8 | [Κατσελη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
+| 9 | [Deree](http://twitter.com/search?q=Deree) | N/A |
+| 10 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
+| 11 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
+| 14 | [ειδικο δικαστηριο](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
+| 15 | [Τανια](http://twitter.com/search?q=%ce%a4%ce%b1%ce%bd%ce%b9%ce%b1) | N/A |
+| 16 | [σεβα](http://twitter.com/search?q=%cf%83%ce%b5%ce%b2%ce%b1) | N/A |
+| 17 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
+| 18 | [τζοουνς](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
+| 19 | [Ραντονιτς](http://twitter.com/search?q=%ce%a1%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
+| 20 | [Αγραβανη](http://twitter.com/search?q=%ce%91%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
+| 21 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 22 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
 | 23 | [C-130J](http://twitter.com/search?q=C-130J) | N/A |
 | 24 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
-| 25 | [Τομας](http://twitter.com/search?q=%ce%a4%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
-| 26 | [11 Φεβρουαριου](http://twitter.com/search?q=11+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 25 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
+| 26 | [νικου παππα](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%85+%cf%80%ce%b1%cf%80%cf%80%ce%b1) | N/A |
 | 27 | [Γκουνταιτις](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
-| 28 | [Πατσηδες](http://twitter.com/search?q=%ce%a0%ce%b1%cf%84%cf%83%ce%b7%ce%b4%ce%b5%cf%82) | N/A |
-| 29 | [ρωμαιος](http://twitter.com/search?q=%cf%81%cf%89%ce%bc%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
-| 30 | [Γουιλιαμς](http://twitter.com/search?q=%ce%93%ce%bf%cf%85%ce%b9%ce%bb%ce%b9%ce%b1%ce%bc%cf%82) | N/A |
-| 31 | [βρουσαι](http://twitter.com/search?q=%ce%b2%cf%81%ce%bf%cf%85%cf%83%ce%b1%ce%b9) | N/A |
-| 32 | [Αγγελω](http://twitter.com/search?q=%ce%91%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
-| 33 | [Επισης](http://twitter.com/search?q=%ce%95%cf%80%ce%b9%cf%83%ce%b7%cf%82) | N/A |
-| 34 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
+| 28 | [ρωμαιος](http://twitter.com/search?q=%cf%81%cf%89%ce%bc%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
+| 29 | [Πατσηδες](http://twitter.com/search?q=%ce%a0%ce%b1%cf%84%cf%83%ce%b7%ce%b4%ce%b5%cf%82) | N/A |
+| 30 | [11 φεβρουαριου](http://twitter.com/search?q=11+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 31 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
+| 32 | [Γουιλιαμς](http://twitter.com/search?q=%ce%93%ce%bf%cf%85%ce%b9%ce%bb%ce%b9%ce%b1%ce%bc%cf%82) | N/A |
+| 33 | [βρουσαι](http://twitter.com/search?q=%ce%b2%cf%81%ce%bf%cf%85%cf%83%ce%b1%ce%b9) | N/A |
+| 34 | [Αγγελω](http://twitter.com/search?q=%ce%91%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
 | 35 | [Μπεικον](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
 | 36 | [πολυχρονος](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%bf%cf%82) | N/A |
-| 37 | [Λαφαζανη](http://twitter.com/search?q=%ce%9b%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
-| 38 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
-| 39 | [Μαρτινς](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bd%cf%82) | N/A |
-| 40 | [Γκριγκονις](http://twitter.com/search?q=%ce%93%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
-| 41 | [πορφυρης](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7%cf%82) | N/A |
-| 42 | [νικος καββαδιας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%ba%ce%b1%ce%b2%ce%b2%ce%b1%ce%b4%ce%b9%ce%b1%cf%82) | N/A |
-| 43 | [ζερομ](http://twitter.com/search?q=%ce%b6%ce%b5%cf%81%ce%bf%ce%bc) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Μιτσελ](http://twitter.com/search?q=%ce%9c%ce%b9%cf%84%cf%83%ce%b5%ce%bb) | N/A |
-| 46 | [ηθοποιος](http://twitter.com/search?q=%ce%b7%ce%b8%ce%bf%cf%80%ce%bf%ce%b9%ce%bf%cf%82) | N/A |
+| 37 | [λαφαζανη](http://twitter.com/search?q=%ce%bb%ce%b1%cf%86%ce%b1%ce%b6%ce%b1%ce%bd%ce%b7) | N/A |
+| 38 | [Μαρτινς](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bd%cf%82) | N/A |
+| 39 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
+| 40 | [πορφυρης](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7%cf%82) | N/A |
+| 41 | [νικος καββαδιας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%ba%ce%b1%ce%b2%ce%b2%ce%b1%ce%b4%ce%b9%ce%b1%cf%82) | N/A |
+| 42 | [ζερομ](http://twitter.com/search?q=%ce%b6%ce%b5%cf%81%ce%bf%ce%bc) | N/A |
+| 43 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
+| 44 | [Μιτσελ](http://twitter.com/search?q=%ce%9c%ce%b9%cf%84%cf%83%ce%b5%ce%bb) | N/A |
+| 45 | [Αντριους](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
+| 46 | [Πιλοτος](http://twitter.com/search?q=%ce%a0%ce%b9%ce%bb%ce%bf%cf%84%ce%bf%cf%82) | N/A |
 | 47 | [μποχωριδη](http://twitter.com/search?q=%ce%bc%cf%80%ce%bf%cf%87%cf%89%cf%81%ce%b9%ce%b4%ce%b7) | N/A |
 | 48 | [φιλαδελφεια](http://twitter.com/search?q=%cf%86%ce%b9%ce%bb%ce%b1%ce%b4%ce%b5%ce%bb%cf%86%ce%b5%ce%b9%ce%b1) | N/A |
-| 49 | [Μουσειο](http://twitter.com/search?q=%ce%9c%ce%bf%cf%85%cf%83%ce%b5%ce%b9%ce%bf) | N/A |
-| 50 | [Αντριους](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
+| 49 | [Ηθοποιος](http://twitter.com/search?q=%ce%97%ce%b8%ce%bf%cf%80%ce%bf%ce%b9%ce%bf%cf%82) | N/A |
+| 50 | [Αντιοχεια](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%ce%b9%ce%bf%cf%87%ce%b5%ce%b9%ce%b1) | N/A |
 
 
 

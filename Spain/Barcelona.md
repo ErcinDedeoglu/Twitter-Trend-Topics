@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-11 14:15:56 UTC`
+📆 Last Updated: `2023-02-11 15:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 5 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 6 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 3 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 4 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 6 | [Diana](http://twitter.com/search?q=Diana) | N/A |
 | 7 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 8 | [Moderación](http://twitter.com/search?q=Moderaci%c3%b3n) | N/A |
-| 9 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 10 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [#Solos11F](http://twitter.com/search?q=%23Solos11F) | N/A |
-| 13 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 14 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 15 | [#APOYOROCIO11F](http://twitter.com/search?q=%23APOYOROCIO11F) | N/A |
-| 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 17 | [Espeon](http://twitter.com/search?q=Espeon) | N/A |
-| 18 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 19 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 20 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 21 | [#N1CanalFiesta6](http://twitter.com/search?q=%23N1CanalFiesta6) | N/A |
-| 22 | [TEST HOT](http://twitter.com/search?q=TEST+HOT) | N/A |
-| 23 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 24 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 25 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 26 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 27 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 28 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 29 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 8 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 9 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 10 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 11 | [Moderación](http://twitter.com/search?q=Moderaci%c3%b3n) | N/A |
+| 12 | [#DiaMujerYNinaEnCiencia](http://twitter.com/search?q=%23DiaMujerYNinaEnCiencia) | N/A |
+| 13 | [#APOYOROCIO11F](http://twitter.com/search?q=%23APOYOROCIO11F) | N/A |
+| 14 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 15 | [#Solos11F](http://twitter.com/search?q=%23Solos11F) | N/A |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 18 | [TEST HOT](http://twitter.com/search?q=TEST+HOT) | N/A |
+| 19 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 20 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 21 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 22 | [Espeon](http://twitter.com/search?q=Espeon) | N/A |
+| 23 | [rui silva](http://twitter.com/search?q=rui+silva) | N/A |
+| 24 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 25 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 26 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 30 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 31 | [Amadeo de Saboya](http://twitter.com/search?q=Amadeo+de+Saboya) | N/A |
+| 31 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
 | 32 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 33 | [Jennifer Aniston](http://twitter.com/search?q=Jennifer+Aniston) | Jennifer Aniston is an American actress, film producer, and businesswoman. She is best known for her role as Rachel Green on the television sitcom Friends (1994–2004). Aniston has also starred in films such as Bruce Almighty (2003), The Break-Up (2006), Marley & Me (2008), Just Go with It (2011), Horrible Bosses (2011) and We're the Millers (2013). |
+| 33 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 34 | [Virgen de Lourdes](http://twitter.com/search?q=Virgen+de+Lourdes) | N/A |
 | 35 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 36 | [Sanidad Pública](http://twitter.com/search?q=Sanidad+P%c3%bablica) | N/A |
-| 37 | [Hoy 11](http://twitter.com/search?q=Hoy+11) | N/A |
-| 38 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
-| 39 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 40 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 41 | [Muguruza](http://twitter.com/search?q=Muguruza) | N/A |
-| 42 | [Primera República](http://twitter.com/search?q=Primera+Rep%c3%bablica) | N/A |
-| 43 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 44 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 45 | [Sobran](http://twitter.com/search?q=Sobran) | N/A |
-| 46 | [Día de la Mujer y la Niña](http://twitter.com/search?q=D%c3%ada+de+la+Mujer+y+la+Ni%c3%b1a) | N/A |
-| 47 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 49 | [El 11](http://twitter.com/search?q=El+11) | N/A |
+| 36 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 37 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 38 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 39 | [Isabel Pantoja](http://twitter.com/search?q=Isabel+Pantoja) | N/A |
+| 40 | [Sanidad Pública](http://twitter.com/search?q=Sanidad+P%c3%bablica) | N/A |
+| 41 | [Hoy 11](http://twitter.com/search?q=Hoy+11) | N/A |
+| 42 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 43 | [En Valencia](http://twitter.com/search?q=En+Valencia) | N/A |
+| 44 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
+| 45 | [Muguruza](http://twitter.com/search?q=Muguruza) | N/A |
+| 46 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
+| 47 | [Sobran](http://twitter.com/search?q=Sobran) | N/A |
+| 48 | [El 11](http://twitter.com/search?q=El+11) | N/A |
+| 49 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 50 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
 
 
 
