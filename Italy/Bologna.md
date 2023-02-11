@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-11 16:16:23 UTC`
+📆 Last Updated: `2023-02-11 17:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
 | 2 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 3 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [#11febbraio](http://twitter.com/search?q=%2311febbraio) | N/A |
 | 5 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
-| 6 | [#EmpoliSpezia](http://twitter.com/search?q=%23EmpoliSpezia) | N/A |
-| 7 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 6 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 7 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
 | 8 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
-| 9 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
-| 10 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
-| 11 | [eros](http://twitter.com/search?q=eros) | N/A |
-| 12 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 13 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 14 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 9 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
+| 10 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 11 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 12 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 13 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 14 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
 | 15 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 16 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 17 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
+| 16 | [carla bruni](http://twitter.com/search?q=carla+bruni) | N/A |
+| 17 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 18 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
 | 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 20 | [peppino di capri](http://twitter.com/search?q=peppino+di+capri) | N/A |
-| 21 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
+| 20 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
+| 21 | [Peppino Di Capri](http://twitter.com/search?q=Peppino+Di+Capri) | N/A |
 | 22 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
-| 23 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 23 | [Vittorio Emanuele II](http://twitter.com/search?q=Vittorio+Emanuele+II) | N/A |
 | 24 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 25 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
-| 26 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
-| 27 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 28 | [Fils](http://twitter.com/search?q=Fils) | N/A |
-| 29 | [Horata](http://twitter.com/search?q=Horata) | N/A |
-| 30 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 33 | [bennato](http://twitter.com/search?q=bennato) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 36 | [Parisi](http://twitter.com/search?q=Parisi) | N/A |
-| 37 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 25 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 26 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
+| 29 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 30 | [Biagio Antonacci](http://twitter.com/search?q=Biagio+Antonacci) | N/A |
+| 31 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 32 | [Fils](http://twitter.com/search?q=Fils) | N/A |
+| 33 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 34 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 35 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 36 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 37 | [Parisi](http://twitter.com/search?q=Parisi) | N/A |
 | 38 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 39 | [Verde](http://twitter.com/search?q=Verde) | N/A |
-| 40 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
-| 41 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
-| 42 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 43 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
-| 44 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 39 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
+| 40 | [Verde](http://twitter.com/search?q=Verde) | N/A |
+| 41 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 42 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
+| 43 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 44 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
 | 45 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
-| 46 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
-| 47 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 47 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
 | 48 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 49 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 50 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 49 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 50 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
 
 
 

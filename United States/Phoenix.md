@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-02-11 16:16:53 UTC`
+📆 Last Updated: `2023-02-11 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 8 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 11 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 14 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
-| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 18 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 22 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 23 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 24 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 25 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 26 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 4 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
+| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 8 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 9 | [#TrumpLaptop](http://twitter.com/search?q=%23TrumpLaptop) | N/A |
+| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
+| 15 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 20 | [Kelly Rowland](http://twitter.com/search?q=Kelly+Rowland) | N/A |
+| 21 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 24 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 25 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 26 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
 | 27 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
-| 28 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 29 | [MOVE THE CHAIR](http://twitter.com/search?q=MOVE+THE+CHAIR) | N/A |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 32 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 33 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 34 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 35 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 36 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
-| 37 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 38 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 39 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 40 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
-| 41 | [Sana](http://twitter.com/search?q=Sana) | N/A |
-| 42 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 43 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 44 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 45 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 46 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 47 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 49 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 50 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 28 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 29 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 30 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 31 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 32 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
+| 33 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 34 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 35 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 36 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 37 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 38 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 39 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 40 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 41 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 43 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 44 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
+| 45 | [MOVE THE CHAIR](http://twitter.com/search?q=MOVE+THE+CHAIR) | N/A |
+| 46 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 47 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 48 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 49 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 50 | [Leandro](http://twitter.com/search?q=Leandro) | N/A |
 
 
 

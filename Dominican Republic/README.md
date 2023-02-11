@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-11 16:16:58 UTC`
+📆 Last Updated: `2023-02-11 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 3 | [#cadaquienensulao](http://twitter.com/search?q=%23cadaquienensulao) | N/A |
-| 4 | [cesar valdez](http://twitter.com/search?q=cesar+valdez) | N/A |
+| 2 | [#cadaquienensulao](http://twitter.com/search?q=%23cadaquienensulao) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Cesar Valdez](http://twitter.com/search?q=Cesar+Valdez) | N/A |
 | 5 | [Asencio](http://twitter.com/search?q=Asencio) | N/A |
 | 6 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 7 | [Glorioso](http://twitter.com/search?q=Glorioso) | N/A |
 | 8 | [Cap Cana](http://twitter.com/search?q=Cap+Cana) | N/A |
-| 9 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
-| 10 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 9 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 10 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
 | 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 12 | [Arriba RD](http://twitter.com/search?q=Arriba+RD) | N/A |
 | 13 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 14 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
 | 15 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 16 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 16 | [Leal](http://twitter.com/search?q=Leal) | N/A |
 | 17 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 18 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 19 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
-| 20 | [somos soberanos](http://twitter.com/search?q=somos+soberanos) | N/A |
+| 18 | [somos soberanos](http://twitter.com/search?q=somos+soberanos) | N/A |
+| 19 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 20 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
 | 21 | [#vamosporla22](http://twitter.com/search?q=%23vamosporla22) | N/A |
-| 22 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 23 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 24 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 25 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
-| 26 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
-| 27 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 28 | [Mel rojas](http://twitter.com/search?q=Mel+rojas) | N/A |
-| 29 | [Azul](http://twitter.com/search?q=Azul) | N/A |
-| 30 | [Jonathan Aro](http://twitter.com/search?q=Jonathan+Aro) | N/A |
-| 31 | [Moca](http://twitter.com/search?q=Moca) | N/A |
-| 32 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 33 | [Liceistas](http://twitter.com/search?q=Liceistas) | N/A |
-| 34 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 35 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
-| 36 | [proyecto de ley integral](http://twitter.com/search?q=proyecto+de+ley+integral) | N/A |
-| 37 | [Servio Tulio](http://twitter.com/search?q=Servio+Tulio) | N/A |
-| 38 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 39 | [Round Robin](http://twitter.com/search?q=Round+Robin) | N/A |
-| 40 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
-| 41 | [sánchez ramírez](http://twitter.com/search?q=s%c3%a1nchez+ram%c3%adrez) | N/A |
-| 42 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 43 | [Traidor](http://twitter.com/search?q=Traidor) | N/A |
-| 44 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
-| 45 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 46 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 47 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
-| 48 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
-| 49 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
-| 50 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 22 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
+| 23 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
+| 24 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
+| 25 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
+| 26 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 27 | [Liceistas](http://twitter.com/search?q=Liceistas) | N/A |
+| 28 | [Jonathan Aro](http://twitter.com/search?q=Jonathan+Aro) | N/A |
+| 29 | [proyecto de ley integral](http://twitter.com/search?q=proyecto+de+ley+integral) | N/A |
+| 30 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 31 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 32 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
+| 33 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 34 | [Azul](http://twitter.com/search?q=Azul) | N/A |
+| 35 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 36 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 37 | [mel rojas](http://twitter.com/search?q=mel+rojas) | N/A |
+| 38 | [Servio Tulio](http://twitter.com/search?q=Servio+Tulio) | N/A |
+| 39 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
+| 40 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 41 | [Traidor](http://twitter.com/search?q=Traidor) | N/A |
+| 42 | [sánchez ramírez](http://twitter.com/search?q=s%c3%a1nchez+ram%c3%adrez) | N/A |
+| 43 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
+| 44 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
+| 45 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
+| 46 | [Round Robin](http://twitter.com/search?q=Round+Robin) | N/A |
+| 47 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 48 | [Romana](http://twitter.com/search?q=Romana) | N/A |
+| 49 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 50 | [Aguiluchos](http://twitter.com/search?q=Aguiluchos) | N/A |
 
 
 

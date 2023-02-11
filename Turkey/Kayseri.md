@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-11 16:16:47 UTC`
+📆 Last Updated: `2023-02-11 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#yurtlar](http://twitter.com/search?q=%23yurtlar) | N/A |
 | 3 | [#DonateToTurkey](http://twitter.com/search?q=%23DonateToTurkey) | N/A |
 | 4 | [#BirlikteGüçlüyüz](http://twitter.com/search?q=%23BirlikteG%c3%bc%c3%a7l%c3%bcy%c3%bcz) | N/A |
-| 5 | [Hedil](http://twitter.com/search?q=Hedil) | N/A |
-| 6 | [#KöylerYardımİstiyor](http://twitter.com/search?q=%23K%c3%b6ylerYard%c4%b1m%c4%b0stiyor) | N/A |
-| 7 | [Hatay Soruşturma](http://twitter.com/search?q=Hatay+Soru%c5%9fturma) | N/A |
-| 8 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 9 | [Şengül](http://twitter.com/search?q=%c5%9eeng%c3%bcl) | N/A |
-| 10 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 11 | [Okullar](http://twitter.com/search?q=Okullar) | N/A |
-| 12 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 13 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
-| 14 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
-| 15 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
-| 16 | [Sana Güveniyoruz](http://twitter.com/search?q=Sana+G%c3%bcveniyoruz) | N/A |
-| 17 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
-| 18 | [Gizli Kahramanlar](http://twitter.com/search?q=Gizli+Kahramanlar) | N/A |
-| 19 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 20 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 21 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
-| 22 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 23 | [Hasan Alpargün](http://twitter.com/search?q=Hasan+Alparg%c3%bcn) | N/A |
-| 24 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 25 | [Süre](http://twitter.com/search?q=S%c3%bcre) | N/A |
-| 26 | [CALLING GLOBAL HELP & SUPPORT](http://twitter.com/search?q=CALLING+GLOBAL+HELP+%26+SUPPORT) | N/A |
-| 27 | [Adanaspor](http://twitter.com/search?q=Adanaspor) | N/A |
-| 28 | [HATAY'DA KÖYLERE ÇADIR LAZIM](http://twitter.com/search?q=HATAY%27DA+K%c3%96YLERE+%c3%87ADIR+LAZIM) | N/A |
-| 29 | [Saray](http://twitter.com/search?q=Saray) | N/A |
-| 30 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
-| 31 | [Tügva](http://twitter.com/search?q=T%c3%bcgva) | N/A |
-| 32 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 33 | [Turizm](http://twitter.com/search?q=Turizm) | N/A |
-| 34 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 35 | [Gülben Ergen](http://twitter.com/search?q=G%c3%bclben+Ergen) | N/A |
-| 36 | [Bekir Bozdağ](http://twitter.com/search?q=Bekir+Bozda%c4%9f) | N/A |
-| 37 | [Erzin](http://twitter.com/search?q=Erzin) | N/A |
-| 38 | [15 Şubat](http://twitter.com/search?q=15+%c5%9eubat) | N/A |
-| 39 | [Ülkü](http://twitter.com/search?q=%c3%9clk%c3%bc) | N/A |
-| 40 | [Mehmet Yaşar Coşkun](http://twitter.com/search?q=Mehmet+Ya%c5%9far+Co%c5%9fkun) | N/A |
-| 41 | [İrem](http://twitter.com/search?q=%c4%b0rem) | N/A |
-| 42 | [merve tokaz](http://twitter.com/search?q=merve+tokaz) | N/A |
-| 43 | [Oyyy](http://twitter.com/search?q=Oyyy) | N/A |
-| 44 | [Yahudiye](http://twitter.com/search?q=Yahudiye) | N/A |
-| 45 | [Ökkeş Elmasoğlu](http://twitter.com/search?q=%c3%96kke%c5%9f+Elmaso%c4%9flu) | N/A |
-| 46 | [Veysel Dinçer](http://twitter.com/search?q=Veysel+Din%c3%a7er) | N/A |
-| 47 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 48 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 49 | [Canımızı Hristiyana](http://twitter.com/search?q=Can%c4%b1m%c4%b1z%c4%b1+Hristiyana) | N/A |
-| 50 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 5 | [#ueniversite](http://twitter.com/search?q=%23ueniversite) | N/A |
+| 6 | [Hedil](http://twitter.com/search?q=Hedil) | N/A |
+| 7 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 8 | [Hatay Soruşturma](http://twitter.com/search?q=Hatay+Soru%c5%9fturma) | N/A |
+| 9 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
+| 10 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 11 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 12 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 13 | [Selçuk Yaşar](http://twitter.com/search?q=Sel%c3%a7uk+Ya%c5%9far) | N/A |
+| 14 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 15 | [Asmolen](http://twitter.com/search?q=Asmolen) | N/A |
+| 16 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
+| 17 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 18 | [Şengül](http://twitter.com/search?q=%c5%9eeng%c3%bcl) | N/A |
+| 19 | [Saray](http://twitter.com/search?q=Saray) | N/A |
+| 20 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
+| 21 | [Hasan Alpargün](http://twitter.com/search?q=Hasan+Alparg%c3%bcn) | N/A |
+| 22 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
+| 23 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 24 | [Süre](http://twitter.com/search?q=S%c3%bcre) | N/A |
+| 25 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 26 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 27 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
+| 28 | [Gizli Kahramanlar](http://twitter.com/search?q=Gizli+Kahramanlar) | N/A |
+| 29 | [Turizm](http://twitter.com/search?q=Turizm) | N/A |
+| 30 | [Tügva](http://twitter.com/search?q=T%c3%bcgva) | N/A |
+| 31 | [Sağlık Bakanı Koca](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k+Bakan%c4%b1+Koca) | N/A |
+| 32 | [HATAY'DA KÖYLERE ÇADIR LAZIM](http://twitter.com/search?q=HATAY%27DA+K%c3%96YLERE+%c3%87ADIR+LAZIM) | N/A |
+| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 34 | [Adanaspor](http://twitter.com/search?q=Adanaspor) | N/A |
+| 35 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 36 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 37 | [Ökkeş Elmasoğlu](http://twitter.com/search?q=%c3%96kke%c5%9f+Elmaso%c4%9flu) | N/A |
+| 38 | [Yahudiye](http://twitter.com/search?q=Yahudiye) | N/A |
+| 39 | [Erzin](http://twitter.com/search?q=Erzin) | N/A |
+| 40 | [Canımızı Hristiyana](http://twitter.com/search?q=Can%c4%b1m%c4%b1z%c4%b1+Hristiyana) | N/A |
+| 41 | [15 Şubat](http://twitter.com/search?q=15+%c5%9eubat) | N/A |
+| 42 | [avusturya](http://twitter.com/search?q=avusturya) | N/A |
+| 43 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 44 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 45 | [Mehmet Yaşar Coşkun](http://twitter.com/search?q=Mehmet+Ya%c5%9far+Co%c5%9fkun) | N/A |
+| 46 | [Pandemi](http://twitter.com/search?q=Pandemi) | N/A |
+| 47 | [Bekir Bozdağ](http://twitter.com/search?q=Bekir+Bozda%c4%9f) | N/A |
+| 48 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 49 | [İrem](http://twitter.com/search?q=%c4%b0rem) | N/A |
+| 50 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-11 16:16:59 UTC`
+📆 Last Updated: `2023-02-11 17:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Germany
 | 1 | [#SCFVfB](http://twitter.com/search?q=%23SCFVfB) | N/A |
 | 2 | [#SVWBVB](http://twitter.com/search?q=%23SVWBVB) | N/A |
 | 3 | [#FCBBOC](http://twitter.com/search?q=%23FCBBOC) | N/A |
-| 4 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 5 | [#M05FCA](http://twitter.com/search?q=%23M05FCA) | N/A |
-| 6 | [#TSGB04](http://twitter.com/search?q=%23TSGB04) | N/A |
-| 7 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
-| 10 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 11 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 14 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 15 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 16 | [Nachbarin](http://twitter.com/search?q=Nachbarin) | N/A |
-| 17 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 19 | [Werder](http://twitter.com/search?q=Werder) | N/A |
-| 20 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 21 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 22 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 23 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 24 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 25 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 26 | [Wagenknecht und Schwarzer](http://twitter.com/search?q=Wagenknecht+und+Schwarzer) | N/A |
-| 27 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
-| 28 | [Ukrainern](http://twitter.com/search?q=Ukrainern) | N/A |
-| 29 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 30 | [#dd1102](http://twitter.com/search?q=%23dd1102) | N/A |
-| 31 | [#H96SCP](http://twitter.com/search?q=%23H96SCP) | N/A |
-| 32 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
-| 33 | [#SVMM60](http://twitter.com/search?q=%23SVMM60) | N/A |
-| 34 | [#KSVFCM](http://twitter.com/search?q=%23KSVFCM) | N/A |
-| 35 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 36 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
-| 37 | [#scvsgd](http://twitter.com/search?q=%23scvsgd) | N/A |
-| 38 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
+| 6 | [#M05FCA](http://twitter.com/search?q=%23M05FCA) | N/A |
+| 7 | [#dd1102](http://twitter.com/search?q=%23dd1102) | N/A |
+| 8 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 9 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 10 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 11 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 12 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 13 | [Weiser](http://twitter.com/search?q=Weiser) | N/A |
+| 14 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 15 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 18 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 21 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 22 | [Nachbarin](http://twitter.com/search?q=Nachbarin) | N/A |
+| 23 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 24 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 25 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
+| 26 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 27 | [ansätze](http://twitter.com/search?q=ans%c3%a4tze) | N/A |
+| 28 | [Wagenknecht und Schwarzer](http://twitter.com/search?q=Wagenknecht+und+Schwarzer) | N/A |
+| 29 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 30 | [#TSGB04](http://twitter.com/search?q=%23TSGB04) | N/A |
+| 31 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 32 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
+| 33 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
+| 34 | [#H96SCP](http://twitter.com/search?q=%23H96SCP) | N/A |
+| 35 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
+| 36 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 37 | [#SVMM60](http://twitter.com/search?q=%23SVMM60) | N/A |
+| 38 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
 | 39 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
-| 40 | [#FCNSSV](http://twitter.com/search?q=%23FCNSSV) | N/A |
-| 41 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
-| 42 | [#Bayer04](http://twitter.com/search?q=%23Bayer04) | N/A |
-| 43 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
-| 44 | [#MSVFSV](http://twitter.com/search?q=%23MSVFSV) | N/A |
-| 45 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 46 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
-| 47 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
-| 48 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
-| 49 | [#Frieden](http://twitter.com/search?q=%23Frieden) | N/A |
-| 50 | [#Modrow](http://twitter.com/search?q=%23Modrow) | N/A |
+| 40 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
+| 41 | [#FCNSSV](http://twitter.com/search?q=%23FCNSSV) | N/A |
+| 42 | [#KSVFCM](http://twitter.com/search?q=%23KSVFCM) | N/A |
+| 43 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 44 | [#twittergewitter](http://twitter.com/search?q=%23twittergewitter) | N/A |
+| 45 | [#Modrow](http://twitter.com/search?q=%23Modrow) | N/A |
+| 46 | [#Frieden](http://twitter.com/search?q=%23Frieden) | N/A |
+| 47 | [#Sonneborn](http://twitter.com/search?q=%23Sonneborn) | N/A |
+| 48 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 49 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 50 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
 
 
 
