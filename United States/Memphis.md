@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-11 22:16:29 UTC`
+📆 Last Updated: `2023-02-11 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 2 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 3 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 7 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 8 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
-| 9 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 10 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 11 | [#JerseyJCup](http://twitter.com/search?q=%23JerseyJCup) | N/A |
-| 12 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 13 | [#RollTide](http://twitter.com/search?q=%23RollTide) | N/A |
-| 14 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 16 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 17 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 18 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
-| 19 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 20 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 21 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
-| 22 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 24 | [Rylan Griffen](http://twitter.com/search?q=Rylan+Griffen) | N/A |
-| 25 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 26 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 27 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
-| 28 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 29 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 30 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 32 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 33 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
-| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 35 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 36 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
-| 37 | [Chafin](http://twitter.com/search?q=Chafin) | N/A |
-| 38 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 39 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 40 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 42 | [Trey Alexander](http://twitter.com/search?q=Trey+Alexander) | N/A |
-| 43 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 44 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
-| 45 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
-| 46 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 47 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 48 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 1 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 2 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 3 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 4 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 5 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 6 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 7 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 9 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 10 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 11 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 12 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 13 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
+| 14 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 15 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 16 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 17 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 18 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 19 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
+| 20 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 21 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 22 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
+| 23 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 24 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 25 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 26 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 27 | [#SamsungxDIVE](http://twitter.com/search?q=%23SamsungxDIVE) | N/A |
+| 28 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 29 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 30 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 33 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
+| 34 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
+| 35 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
+| 36 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 37 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 38 | [Dariq](http://twitter.com/search?q=Dariq) | N/A |
+| 39 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 40 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
+| 41 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 42 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
+| 43 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
+| 44 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 45 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 46 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 47 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
+| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 
 
 

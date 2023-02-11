@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-11 22:16:32 UTC`
+📆 Last Updated: `2023-02-11 23:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [UNLV](http://twitter.com/search?q=UNLV) | UNLV stands for the University of Nevada, Las Vegas. It is a public research university located in Las Vegas, Nevada. |
-| 2 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 3 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 4 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 6 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 7 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 12 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
-| 13 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 15 | [#JerseyJCup](http://twitter.com/search?q=%23JerseyJCup) | N/A |
-| 16 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 19 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
-| 20 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 21 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 22 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 23 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
-| 24 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 25 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 26 | [Rylan Griffen](http://twitter.com/search?q=Rylan+Griffen) | N/A |
-| 27 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 28 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 29 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
-| 30 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 31 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 32 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 34 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 35 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
-| 36 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 37 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 38 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
-| 39 | [Chafin](http://twitter.com/search?q=Chafin) | N/A |
-| 40 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 41 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 42 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 44 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 45 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
-| 46 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
-| 47 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 48 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 49 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 2 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 4 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 9 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 11 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 13 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 14 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 15 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 16 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 17 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 18 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
+| 19 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 20 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 21 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 22 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 23 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 24 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
+| 25 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 26 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 27 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
+| 28 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 29 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 30 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 31 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 32 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 33 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 34 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
+| 37 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
+| 38 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 39 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
+| 40 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 41 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 42 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 43 | [Dariq](http://twitter.com/search?q=Dariq) | N/A |
+| 44 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 45 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
+| 46 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 47 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
+| 48 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 49 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
 
 
 

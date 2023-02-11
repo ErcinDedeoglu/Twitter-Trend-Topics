@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-11 22:16:41 UTC`
+📆 Last Updated: `2023-02-11 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Thailand
 | 16 | [3rd snb's day](http://twitter.com/search?q=3rd+snb%27s+day) | N/A |
 | 17 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
 | 18 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 21 | [#จัสตินขิต](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b4%e0%b8%95) | N/A |
-| 22 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
-| 23 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 24 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 25 | [#SafeFlightGULFtoJP](http://twitter.com/search?q=%23SafeFlightGULFtoJP) | N/A |
-| 26 | [#KAZZTalKxNUNEW](http://twitter.com/search?q=%23KAZZTalKxNUNEW) | N/A |
-| 27 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 28 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
-| 29 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
-| 30 | [#lorealhohxgeminifourth](http://twitter.com/search?q=%23lorealhohxgeminifourth) | N/A |
-| 31 | [#JungKook](http://twitter.com/search?q=%23JungKook) | N/A |
-| 32 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 33 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
-| 34 | [#คิมซอนโฮ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a1%e0%b8%8b%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%ae) | N/A |
-| 35 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
-| 36 | [#4EVExริมผา10](http://twitter.com/search?q=%234EVEx%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%9c%e0%b8%b210) | N/A |
-| 37 | [#Mew2023BDFM2nd](http://twitter.com/search?q=%23Mew2023BDFM2nd) | N/A |
-| 38 | [#เป็นต่อ2023xnook_thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xnook_thanadon) | N/A |
-| 39 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
-| 40 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
-| 41 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
-| 42 | [#500Kตัวท็อปชากแง้ว](http://twitter.com/search?q=%23500K%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%97%e0%b9%87%e0%b8%ad%e0%b8%9b%e0%b8%8a%e0%b8%b2%e0%b8%81%e0%b9%81%e0%b8%87%e0%b9%89%e0%b8%a7) | N/A |
-| 43 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 44 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
-| 45 | [#ppkrit_celine](http://twitter.com/search?q=%23ppkrit_celine) | N/A |
-| 46 | [#englotxrapidlife](http://twitter.com/search?q=%23englotxrapidlife) | N/A |
-| 47 | [#LOrealHOHxJimmySea](http://twitter.com/search?q=%23LOrealHOHxJimmySea) | N/A |
-| 48 | [#หมูกระทะปาร์ตี้กับเก้า](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%b0%e0%b8%9b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2) | N/A |
-| 49 | [#หมูกะเทอเจอร์กะป๊าก](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%81%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%ad%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b0%e0%b8%9b%e0%b9%8a%e0%b8%b2%e0%b8%81) | N/A |
-| 50 | [#ยุ่นต้นxสบู่ทับทิมno1](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%99x%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%97%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b4%e0%b8%a1no1) | N/A |
+| 19 | [SAINT X LAKAFIRSTERX](http://twitter.com/search?q=SAINT+X+LAKAFIRSTERX) | N/A |
+| 20 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 23 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 24 | [#จัสตินขิต](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b4%e0%b8%95) | N/A |
+| 25 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
+| 26 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
+| 27 | [#SafeFlightGULFtoJP](http://twitter.com/search?q=%23SafeFlightGULFtoJP) | N/A |
+| 28 | [#KAZZTalKxNUNEW](http://twitter.com/search?q=%23KAZZTalKxNUNEW) | N/A |
+| 29 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
+| 30 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 31 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
+| 32 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
+| 33 | [#lorealhohxgeminifourth](http://twitter.com/search?q=%23lorealhohxgeminifourth) | N/A |
+| 34 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 35 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
+| 36 | [#คิมซอนโฮ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a1%e0%b8%8b%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%ae) | N/A |
+| 37 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
+| 38 | [#JungKook](http://twitter.com/search?q=%23JungKook) | N/A |
+| 39 | [#4EVExริมผา10](http://twitter.com/search?q=%234EVEx%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%9c%e0%b8%b210) | N/A |
+| 40 | [#Mew2023BDFM2nd](http://twitter.com/search?q=%23Mew2023BDFM2nd) | N/A |
+| 41 | [#เป็นต่อ2023xnook_thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xnook_thanadon) | N/A |
+| 42 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
+| 43 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
+| 44 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 45 | [#500Kตัวท็อปชากแง้ว](http://twitter.com/search?q=%23500K%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%97%e0%b9%87%e0%b8%ad%e0%b8%9b%e0%b8%8a%e0%b8%b2%e0%b8%81%e0%b9%81%e0%b8%87%e0%b9%89%e0%b8%a7) | N/A |
+| 46 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 47 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
+| 48 | [#ppkrit_celine](http://twitter.com/search?q=%23ppkrit_celine) | N/A |
+| 49 | [#englotxrapidlife](http://twitter.com/search?q=%23englotxrapidlife) | N/A |
+| 50 | [#LOrealHOHxJimmySea](http://twitter.com/search?q=%23LOrealHOHxJimmySea) | N/A |
 
 
 

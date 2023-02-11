@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-11 22:16:03 UTC`
+📆 Last Updated: `2023-02-11 23:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Goyas2023](http://twitter.com/search?q=%23Goyas2023) | N/A |
-| 2 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
-| 3 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
-| 4 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 5 | [#COAC2023C6](http://twitter.com/search?q=%23COAC2023C6) | N/A |
-| 6 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 7 | [Telmo Irureta](http://twitter.com/search?q=Telmo+Irureta) | N/A |
-| 8 | [Unai Simón](http://twitter.com/search?q=Unai+Sim%c3%b3n) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 11 | [Carmen Maura](http://twitter.com/search?q=Carmen+Maura) | N/A |
-| 12 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 13 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
-| 14 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 15 | [Manuel Carrasco](http://twitter.com/search?q=Manuel+Carrasco) | N/A |
-| 16 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 17 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
-| 18 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
-| 19 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
-| 20 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
-| 21 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 22 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 23 | [El Valencia](http://twitter.com/search?q=El+Valencia) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 26 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
-| 27 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
-| 28 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 29 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
-| 30 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 31 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 32 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 33 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 34 | [Yolanda Piña](http://twitter.com/search?q=Yolanda+Pi%c3%b1a) | N/A |
-| 35 | [Julio Pardo](http://twitter.com/search?q=Julio+Pardo) | N/A |
-| 36 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 37 | [Belén Cuesta](http://twitter.com/search?q=Bel%c3%a9n+Cuesta) | N/A |
-| 38 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 39 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
-| 40 | [Comert](http://twitter.com/search?q=Comert) | Comert is a Turkish word meaning "commerce" or "trade". It is used to refer to the buying and selling of goods and services. |
-| 41 | [Eulalia Ramón](http://twitter.com/search?q=Eulalia+Ram%c3%b3n) | N/A |
-| 42 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 43 | [Castillejo](http://twitter.com/search?q=Castillejo) | Castillejo is a Spanish surname derived from the place name Castillejo, which is a small village in the province of Burgos, Spain. In English, it can be translated to mean "little castle". |
-| 44 | [Penélope Cruz](http://twitter.com/search?q=Pen%c3%a9lope+Cruz) | N/A |
-| 45 | [Amaia Salamanca](http://twitter.com/search?q=Amaia+Salamanca) | N/A |
-| 46 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
-| 47 | [Mejor Actriz de Reparto](http://twitter.com/search?q=Mejor+Actriz+de+Reparto) | N/A |
-| 48 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 1 | [#LasPalmasLugo](http://twitter.com/search?q=%23LasPalmasLugo) | N/A |
+| 2 | [#Goyas2023](http://twitter.com/search?q=%23Goyas2023) | N/A |
+| 3 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 4 | [#COAC2023C6](http://twitter.com/search?q=%23COAC2023C6) | N/A |
+| 5 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
+| 6 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
+| 7 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
+| 8 | [Laura Galán](http://twitter.com/search?q=Laura+Gal%c3%a1n) | N/A |
+| 9 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
+| 10 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [#FMSEspana](http://twitter.com/search?q=%23FMSEspana) | N/A |
+| 13 | [Telmo Irureta](http://twitter.com/search?q=Telmo+Irureta) | N/A |
+| 14 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 15 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
+| 16 | [Unai Simón](http://twitter.com/search?q=Unai+Sim%c3%b3n) | N/A |
+| 17 | [Fernando Esteso](http://twitter.com/search?q=Fernando+Esteso) | N/A |
+| 18 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 19 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 20 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 21 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
+| 22 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 23 | [Cerdita](http://twitter.com/search?q=Cerdita) | N/A |
+| 24 | [Israel Fernández](http://twitter.com/search?q=Israel+Fern%c3%a1ndez) | N/A |
+| 25 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 26 | [Lola Flores](http://twitter.com/search?q=Lola+Flores) | N/A |
+| 27 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
+| 28 | [Carmen Maura](http://twitter.com/search?q=Carmen+Maura) | N/A |
+| 29 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 30 | [Isabel Coixet](http://twitter.com/search?q=Isabel+Coixet) | N/A |
+| 31 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
+| 32 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 33 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 34 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
+| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 36 | [Manuel Carrasco](http://twitter.com/search?q=Manuel+Carrasco) | N/A |
+| 37 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
+| 38 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 39 | [Carlos del Amor](http://twitter.com/search?q=Carlos+del+Amor) | N/A |
+| 40 | [Clara Lago](http://twitter.com/search?q=Clara+Lago) | N/A |
+| 41 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 42 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
+| 43 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 44 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 45 | [Alberto del Campo](http://twitter.com/search?q=Alberto+del+Campo) | N/A |
+| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 47 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 48 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-11 22:16:37 UTC`
+📆 Last Updated: `2023-02-11 23:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 2 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
 | 3 | [#RosaChemical](http://twitter.com/search?q=%23RosaChemical) | N/A |
 | 4 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
 | 5 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 6 | [#LazioAtalanta](http://twitter.com/search?q=%23LazioAtalanta) | N/A |
-| 7 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
-| 8 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
-| 9 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
-| 10 | [#fantasanremo23](http://twitter.com/search?q=%23fantasanremo23) | N/A |
+| 6 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 7 | [#LazioAtalanta](http://twitter.com/search?q=%23LazioAtalanta) | N/A |
+| 8 | [#Madame](http://twitter.com/search?q=%23Madame) | N/A |
+| 9 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
+| 10 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
 | 11 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 12 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 13 | [Vanoni](http://twitter.com/search?q=Vanoni) | N/A |
-| 14 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 15 | [ELODIE MI VUOI SPOSARE](http://twitter.com/search?q=ELODIE+MI+VUOI+SPOSARE) | N/A |
-| 16 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 17 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 18 | [CODICE 04](http://twitter.com/search?q=CODICE+04) | N/A |
-| 19 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 20 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 21 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
-| 22 | [Schiaparelli](http://twitter.com/search?q=Schiaparelli) | Schiaparelli is an Italian fashion house founded by Elsa Schiaparelli in 1927. The brand is known for its bold and innovative designs, often featuring surrealist elements. The name Schiaparelli is derived from the Italian word for "skyscraper," which reflects the designer's love of architecture and her desire to create clothing that was as iconic as a skyscraper. In English, the name Schiaparelli means "sky-high fashion." |
-| 23 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
-| 24 | [Kekko](http://twitter.com/search?q=Kekko) | N/A |
-| 25 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 26 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 27 | [IL SESSO](http://twitter.com/search?q=IL+SESSO) | N/A |
-| 28 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
-| 29 | [Cenere](http://twitter.com/search?q=Cenere) | N/A |
-| 30 | [CODICE 10](http://twitter.com/search?q=CODICE+10) | N/A |
-| 31 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 32 | [Lettera 22](http://twitter.com/search?q=Lettera+22) | N/A |
-| 33 | [MA IO LAVORO](http://twitter.com/search?q=MA+IO+LAVORO) | N/A |
-| 34 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 35 | [Baschirotto](http://twitter.com/search?q=Baschirotto) | N/A |
-| 36 | [Strefezza](http://twitter.com/search?q=Strefezza) | N/A |
-| 37 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 38 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 39 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 40 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 41 | [Red Ronnie](http://twitter.com/search?q=Red+Ronnie) | N/A |
-| 42 | [Vittorio Emanuele](http://twitter.com/search?q=Vittorio+Emanuele) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [#Tananai](http://twitter.com/search?q=%23Tananai) | N/A |
-| 46 | [#Hojlund](http://twitter.com/search?q=%23Hojlund) | N/A |
-| 47 | [#cuginidicampagna](http://twitter.com/search?q=%23cuginidicampagna) | N/A |
+| 12 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 13 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 14 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 15 | [Personal Jesus](http://twitter.com/search?q=Personal+Jesus) | N/A |
+| 16 | [ELODIE MI VUOI SPOSARE](http://twitter.com/search?q=ELODIE+MI+VUOI+SPOSARE) | N/A |
+| 17 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 18 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 19 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 20 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 21 | [CODICE 04](http://twitter.com/search?q=CODICE+04) | N/A |
+| 22 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
+| 23 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
+| 24 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
+| 25 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 26 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 27 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 28 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 29 | [Schiaparelli](http://twitter.com/search?q=Schiaparelli) | Schiaparelli is an Italian fashion house founded by Elsa Schiaparelli in 1927. The brand is known for its bold and innovative designs, often featuring surrealist elements. The name Schiaparelli is derived from the Italian word for "skyscraper," which reflects the designer's love of architecture and her desire to create clothing that was as iconic as a skyscraper. In English, the name Schiaparelli means "sky-high fashion." |
+| 30 | [IL SESSO](http://twitter.com/search?q=IL+SESSO) | N/A |
+| 31 | [Lettera 22](http://twitter.com/search?q=Lettera+22) | N/A |
+| 32 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 33 | [Kekko](http://twitter.com/search?q=Kekko) | N/A |
+| 34 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 35 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
+| 36 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
+| 37 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 38 | [Coletta](http://twitter.com/search?q=Coletta) | N/A |
+| 39 | [Ferragnez](http://twitter.com/search?q=Ferragnez) | N/A |
+| 40 | [Mr Rain](http://twitter.com/search?q=Mr+Rain) | N/A |
+| 41 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 42 | [#fantasanremo23](http://twitter.com/search?q=%23fantasanremo23) | N/A |
+| 43 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
+| 44 | [#Hojlund](http://twitter.com/search?q=%23Hojlund) | N/A |
+| 45 | [#cuginidicampagna](http://twitter.com/search?q=%23cuginidicampagna) | N/A |
+| 46 | [#Tananai](http://twitter.com/search?q=%23Tananai) | N/A |
+| 47 | [#SanremoSpotify](http://twitter.com/search?q=%23SanremoSpotify) | N/A |
 | 48 | [#LecceRoma](http://twitter.com/search?q=%23LecceRoma) | N/A |
-| 49 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 50 | [#Mengoni](http://twitter.com/search?q=%23Mengoni) | N/A |
+| 49 | [#Sarri](http://twitter.com/search?q=%23Sarri) | N/A |
+| 50 | [#Codice10](http://twitter.com/search?q=%23Codice10) | N/A |
 
 
 

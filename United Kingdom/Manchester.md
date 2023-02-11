@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-11 22:15:48 UTC`
+📆 Last Updated: `2023-02-11 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 3 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 4 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 5 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 6 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 7 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 8 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 9 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
-| 13 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 14 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
+| 2 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 3 | [#michaelmcintyresbigshow](http://twitter.com/search?q=%23michaelmcintyresbigshow) | N/A |
+| 4 | [Nova Twins](http://twitter.com/search?q=Nova+Twins) | N/A |
+| 5 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
+| 6 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
+| 7 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 8 | [#BOUNEW](http://twitter.com/search?q=%23BOUNEW) | N/A |
+| 9 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 10 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 12 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 13 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 14 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
 | 15 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 16 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
-| 17 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 21 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 22 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 23 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 16 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 19 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
+| 20 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 22 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 24 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 27 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 28 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
-| 29 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
-| 30 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 31 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 32 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 33 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 34 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
-| 35 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
-| 36 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 37 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
-| 38 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
-| 39 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 40 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 41 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 42 | [Roman Kemp](http://twitter.com/search?q=Roman+Kemp) | N/A |
-| 43 | [MNEK](http://twitter.com/search?q=MNEK) | N/A |
-| 44 | [Richie Sambora](http://twitter.com/search?q=Richie+Sambora) | N/A |
-| 45 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
-| 46 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
-| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 48 | [Maya Jama](http://twitter.com/search?q=Maya+Jama) | Maya Jama is a British television presenter, radio presenter, and model. Her name is a combination of her mother's name, Maya, and her father's name, Jama. The name has no particular meaning in English. |
-| 49 | [Alex Turner](http://twitter.com/search?q=Alex+Turner) | N/A |
-| 50 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 25 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 26 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
+| 27 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
+| 28 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 29 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 30 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 31 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 32 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
+| 33 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 34 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
+| 35 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
+| 36 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
+| 37 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 38 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 39 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
+| 40 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 41 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 42 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 43 | [Sims](http://twitter.com/search?q=Sims) | N/A |
+| 44 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
+| 45 | [matty](http://twitter.com/search?q=matty) | N/A |
+| 46 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 47 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
+| 48 | [MNEK](http://twitter.com/search?q=MNEK) | N/A |
+| 49 | [Roman Kemp](http://twitter.com/search?q=Roman+Kemp) | N/A |
+| 50 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
 
 
 

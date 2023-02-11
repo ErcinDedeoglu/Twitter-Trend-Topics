@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-11 22:16:13 UTC`
+📆 Last Updated: `2023-02-11 23:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 2 | [#TEMPESTatHMA2022](http://twitter.com/search?q=%23TEMPESTatHMA2022) | N/A |
-| 3 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 4 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 5 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 2 | [#tempestathma2022](http://twitter.com/search?q=%23tempestathma2022) | N/A |
+| 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 4 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 5 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 6 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
 | 7 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
@@ -63,8 +63,6 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 46 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 48 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 49 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 50 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
 
 
 

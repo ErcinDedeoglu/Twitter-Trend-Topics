@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-11 22:15:57 UTC`
+📆 Last Updated: `2023-02-11 23:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 2 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 3 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
-| 4 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 5 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 6 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 7 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 8 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 9 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 10 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 11 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
-| 12 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 13 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 14 | [#Newells](http://twitter.com/search?q=%23Newells) | N/A |
-| 15 | [Irala](http://twitter.com/search?q=Irala) | N/A |
-| 16 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 17 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 19 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 20 | [Kevin Gutiérrez](http://twitter.com/search?q=Kevin+Guti%c3%a9rrez) | N/A |
-| 21 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
-| 22 | [Gustavo López](http://twitter.com/search?q=Gustavo+L%c3%b3pez) | N/A |
-| 23 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
-| 24 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
-| 27 | [Carlos Bianchi](http://twitter.com/search?q=Carlos+Bianchi) | N/A |
-| 28 | [#DefensayJusticia](http://twitter.com/search?q=%23DefensayJusticia) | N/A |
-| 29 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
-| 30 | [Nuevo Gasómetro](http://twitter.com/search?q=Nuevo+Gas%c3%b3metro) | N/A |
-| 31 | [#TCenViedma](http://twitter.com/search?q=%23TCenViedma) | N/A |
-| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 33 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 34 | [Agus Gandolfo](http://twitter.com/search?q=Agus+Gandolfo) | N/A |
-| 35 | [Florencio Varela](http://twitter.com/search?q=Florencio+Varela) | N/A |
-| 36 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
-| 37 | [Villa Devoto](http://twitter.com/search?q=Villa+Devoto) | N/A |
-| 38 | [Fede Coria](http://twitter.com/search?q=Fede+Coria) | N/A |
-| 39 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 40 | [Lautaro Martinez](http://twitter.com/search?q=Lautaro+Martinez) | N/A |
-| 41 | [EL PELO](http://twitter.com/search?q=EL+PELO) | N/A |
-| 42 | [Federico Coria](http://twitter.com/search?q=Federico+Coria) | N/A |
-| 43 | [CALIENTE](http://twitter.com/search?q=CALIENTE) | N/A |
-| 44 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
-| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 46 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 47 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
-| 48 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 49 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 50 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 1 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 4 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 5 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 6 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 7 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 8 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 9 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 10 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 12 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 13 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 14 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
+| 15 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 16 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 17 | [Irala](http://twitter.com/search?q=Irala) | N/A |
+| 18 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
+| 19 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 20 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 21 | [Kevin Gutiérrez](http://twitter.com/search?q=Kevin+Guti%c3%a9rrez) | N/A |
+| 22 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 23 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
+| 24 | [#Newells](http://twitter.com/search?q=%23Newells) | N/A |
+| 25 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
+| 26 | [#IntegracionSC](http://twitter.com/search?q=%23IntegracionSC) | N/A |
+| 27 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 28 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
+| 29 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 30 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 31 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 33 | [Pereyra](http://twitter.com/search?q=Pereyra) | N/A |
+| 34 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 35 | [Gustavo López](http://twitter.com/search?q=Gustavo+L%c3%b3pez) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Nuevo Gasómetro](http://twitter.com/search?q=Nuevo+Gas%c3%b3metro) | N/A |
+| 38 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 39 | [Temperley](http://twitter.com/search?q=Temperley) | N/A |
+| 40 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 41 | [Carlos Bianchi](http://twitter.com/search?q=Carlos+Bianchi) | N/A |
+| 42 | [Villa Devoto](http://twitter.com/search?q=Villa+Devoto) | N/A |
+| 43 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 44 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 45 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 46 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
+| 47 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 48 | [Florencio Varela](http://twitter.com/search?q=Florencio+Varela) | N/A |
+| 49 | [CALIENTE](http://twitter.com/search?q=CALIENTE) | N/A |
+| 50 | [Puerto Madero](http://twitter.com/search?q=Puerto+Madero) | N/A |
 
 
 
