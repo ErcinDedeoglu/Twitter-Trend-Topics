@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-11 05:16:44 UTC`
+📆 Last Updated: `2023-02-11 06:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,43 @@ This is top 50 for Canada
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
 | 4 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
-| 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 5 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
 | 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 7 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 9 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 10 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
-| 11 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 12 | [Jennifer McKelvie](http://twitter.com/search?q=Jennifer+McKelvie) | N/A |
-| 13 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 10 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 11 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
+| 12 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 13 | [Jennifer McKelvie](http://twitter.com/search?q=Jennifer+McKelvie) | N/A |
 | 14 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 16 | [Crave](http://twitter.com/search?q=Crave) | N/A |
-| 17 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 18 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
-| 19 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 20 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 17 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
+| 18 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 19 | [Crave](http://twitter.com/search?q=Crave) | N/A |
+| 20 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 21 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 22 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 23 | [city hall](http://twitter.com/search?q=city+hall) | N/A |
-| 24 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 25 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 26 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 27 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 28 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 29 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 30 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 31 | [CP24](http://twitter.com/search?q=CP24) | N/A |
-| 32 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 33 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 34 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
-| 35 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 36 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 37 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 38 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 39 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 40 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 41 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 42 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
-| 43 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 44 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
-| 45 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 46 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
-| 47 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
-| 48 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 49 | [#4ContsFigure](http://twitter.com/search?q=%234ContsFigure) | N/A |
-| 50 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 23 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 24 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 25 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 26 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 27 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 28 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
+| 29 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
+| 30 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
+| 31 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
+| 32 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 33 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
+| 34 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 35 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 36 | [#4ContsFigure](http://twitter.com/search?q=%234ContsFigure) | N/A |
+| 37 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
+| 38 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
+| 39 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 40 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 41 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-11 05:16:07 UTC`
+📆 Last Updated: `2023-02-11 06:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
 | 3 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
 | 4 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 5 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 5 | [sam prendergast](http://twitter.com/search?q=sam+prendergast) | N/A |
 | 6 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 7 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
 | 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
@@ -33,8 +33,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 16 | [president's cup](http://twitter.com/search?q=president%27s+cup) | N/A |
 | 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 18 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 19 | [Santry](http://twitter.com/search?q=Santry) | N/A |
-| 20 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 19 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 20 | [Santry](http://twitter.com/search?q=Santry) | N/A |
 | 21 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 22 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 23 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Ireland](</Ireland>)
 | 39 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 40 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 41 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
-| 42 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
-| 43 | [Rights of the Child](http://twitter.com/search?q=Rights+of+the+Child) | N/A |
-| 44 | [fianna fail](http://twitter.com/search?q=fianna+fail) | N/A |
-| 45 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 46 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 47 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 48 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
-| 49 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 43 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
+| 44 | [rights of the child](http://twitter.com/search?q=rights+of+the+child) | N/A |
+| 45 | [fianna fail](http://twitter.com/search?q=fianna+fail) | N/A |
+| 46 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 47 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 48 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 49 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
+| 50 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
 
 
 

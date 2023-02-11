@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-11 05:16:45 UTC`
+📆 Last Updated: `2023-02-11 06:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,14 +33,14 @@ This is top 50 for Ireland
 | 16 | [president's cup](http://twitter.com/search?q=president%27s+cup) | N/A |
 | 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 18 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 19 | [Santry](http://twitter.com/search?q=Santry) | N/A |
-| 20 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 19 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 20 | [Santry](http://twitter.com/search?q=Santry) | N/A |
 | 21 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 22 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 23 | [Valentines](http://twitter.com/search?q=Valentines) | N/A |
 | 24 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 26 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 26 | [rovers](http://twitter.com/search?q=rovers) | N/A |
 | 27 | [david horgan](http://twitter.com/search?q=david+horgan) | N/A |
 | 28 | [brendan behan](http://twitter.com/search?q=brendan+behan) | N/A |
 | 29 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Ireland
 | 41 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
 | 42 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 43 | [fitzgibbon cup](http://twitter.com/search?q=fitzgibbon+cup) | N/A |
-| 44 | [Rights of the Child](http://twitter.com/search?q=Rights+of+the+Child) | N/A |
+| 44 | [rights of the child](http://twitter.com/search?q=rights+of+the+child) | N/A |
 | 45 | [fianna fail](http://twitter.com/search?q=fianna+fail) | N/A |
 | 46 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
 | 47 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |

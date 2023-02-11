@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-11 05:16:39 UTC`
+📆 Last Updated: `2023-02-11 06:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
 | 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 3 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 4 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 5 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 8 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 3 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 4 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 7 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 8 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
 | 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 11 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 12 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 11 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 12 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
 | 13 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 14 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 15 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 18 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 20 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 21 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 22 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 23 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 24 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 25 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 26 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 27 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 28 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 29 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 30 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 31 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 32 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 33 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 34 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 35 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
-| 36 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 37 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 38 | [Madcap](http://twitter.com/search?q=Madcap) | N/A |
-| 39 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
-| 40 | [Caleb Jones](http://twitter.com/search?q=Caleb+Jones) | N/A |
-| 41 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 42 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 43 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 44 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 45 | [Nekromantik](http://twitter.com/search?q=Nekromantik) | N/A |
-| 46 | [Isabeau](http://twitter.com/search?q=Isabeau) | N/A |
-| 47 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
-| 48 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 14 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 16 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 17 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 18 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 19 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 20 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 21 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 22 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 23 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 24 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 25 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 26 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 27 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 28 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 29 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 30 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 31 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 32 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 33 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
+| 34 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 35 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 36 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 37 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 38 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 39 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 40 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 41 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 42 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 43 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 44 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 45 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
+| 46 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
+| 47 | [Isabeau](http://twitter.com/search?q=Isabeau) | N/A |
+| 48 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
 
 
 

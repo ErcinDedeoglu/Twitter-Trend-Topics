@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-11 05:16:48 UTC`
+📆 Last Updated: `2023-02-11 06:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [giske](http://twitter.com/search?q=giske) | N/A |
-| 2 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 3 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
+| 1 | [Giske](http://twitter.com/search?q=Giske) | N/A |
+| 2 | [lågendeltaet](http://twitter.com/search?q=l%c3%a5gendeltaet) | N/A |
+| 3 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 4 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 5 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 6 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
@@ -29,7 +29,7 @@ This is top 50 for Norway
 | 12 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
 | 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 14 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 15 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
+| 15 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
 | 16 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
 | 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
@@ -44,7 +44,7 @@ This is top 50 for Norway
 | 27 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
 | 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 29 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 30 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
+| 30 | [bornholm](http://twitter.com/search?q=bornholm) | N/A |
 | 31 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
 | 32 | [trenger](http://twitter.com/search?q=trenger) | N/A |
 | 33 | [Putler](http://twitter.com/search?q=Putler) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Norway
 | 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 47 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 48 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 49 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

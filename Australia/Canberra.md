@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-11 05:16:16 UTC`
+📆 Last Updated: `2023-02-11 06:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Lofty Strike](http://twitter.com/search?q=Lofty+Strike) | N/A |
-| 4 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 5 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 6 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 9 | [Chain Of Lightning](http://twitter.com/search?q=Chain+Of+Lightning) | N/A |
-| 10 | [Rich Fortune](http://twitter.com/search?q=Rich+Fortune) | N/A |
-| 11 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 12 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
-| 13 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 15 | [Glint Of Silver](http://twitter.com/search?q=Glint+Of+Silver) | N/A |
-| 16 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
-| 17 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 18 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 19 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
-| 20 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
-| 21 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 22 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
-| 23 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 24 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 26 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 27 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 28 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
-| 29 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 2 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
+| 3 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 4 | [Jacquinot](http://twitter.com/search?q=Jacquinot) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 7 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 8 | [#Bound4Bendigo](http://twitter.com/search?q=%23Bound4Bendigo) | N/A |
+| 9 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
+| 10 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 11 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 12 | [Lofty Strike](http://twitter.com/search?q=Lofty+Strike) | N/A |
+| 13 | [Rich Fortune](http://twitter.com/search?q=Rich+Fortune) | N/A |
+| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 15 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 16 | [Chain Of Lightning](http://twitter.com/search?q=Chain+Of+Lightning) | N/A |
+| 17 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 18 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 19 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 20 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 21 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 22 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
+| 23 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
+| 24 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
+| 25 | [C.F. Orr Stakes](http://twitter.com/search?q=C.F.+Orr+Stakes) | N/A |
+| 26 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
+| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 28 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
+| 29 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
 | 30 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 31 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
-| 32 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 33 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
-| 34 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 35 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 36 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 37 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 39 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
-| 40 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
-| 41 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 42 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 43 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 44 | [norfolk island](http://twitter.com/search?q=norfolk+island) | N/A |
-| 45 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
-| 46 | [Crows](http://twitter.com/search?q=Crows) | N/A |
-| 47 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 49 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 33 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 34 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
+| 35 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 36 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 37 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
+| 38 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
+| 39 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 40 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 41 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 42 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 43 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 44 | [Crows](http://twitter.com/search?q=Crows) | N/A |
+| 45 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 46 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 47 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
+| 48 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 49 | [Glint Of Silver](http://twitter.com/search?q=Glint+Of+Silver) | N/A |
 
 
 

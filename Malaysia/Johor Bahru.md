@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-02-11 05:16:21 UTC`
+📆 Last Updated: `2023-02-11 06:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 2 | [#MAMAMOOinKL](http://twitter.com/search?q=%23MAMAMOOinKL) | N/A |
 | 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 4 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 4 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
 | 5 | [#MYCONinKL](http://twitter.com/search?q=%23MYCONinKL) | N/A |
 | 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 8 | [MyJPJ](http://twitter.com/search?q=MyJPJ) | N/A |
-| 9 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 8 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 9 | [MyJPJ](http://twitter.com/search?q=MyJPJ) | N/A |
 | 10 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
 | 11 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 12 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
 | 13 | [heechul](http://twitter.com/search?q=heechul) | N/A |
 | 14 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
-| 15 | [Alhaitham](http://twitter.com/search?q=Alhaitham) | Alhaitham is an Arabic name that means "the one who is truthful". |
-| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 17 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 18 | [CRAVITY IS COMING BACK](http://twitter.com/search?q=CRAVITY+IS+COMING+BACK) | N/A |
-| 19 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 20 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 22 | [Rasa Sayang](http://twitter.com/search?q=Rasa+Sayang) | N/A |
+| 15 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 16 | [CRAVITY IS COMING BACK](http://twitter.com/search?q=CRAVITY+IS+COMING+BACK) | N/A |
+| 17 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 18 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 19 | [BDAY MEW SUPPASIT 2023](http://twitter.com/search?q=BDAY+MEW+SUPPASIT+2023) | N/A |
+| 20 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 21 | [Rasa Sayang](http://twitter.com/search?q=Rasa+Sayang) | N/A |
+| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 23 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 24 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 25 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 26 | [Kahar](http://twitter.com/search?q=Kahar) | N/A |
-| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 28 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 29 | [MUDA](http://twitter.com/search?q=MUDA) | N/A |
-| 30 | [hoh 2.0](http://twitter.com/search?q=hoh+2.0) | N/A |
-| 31 | [Captain Planet](http://twitter.com/search?q=Captain+Planet) | N/A |
-| 32 | [Nazri](http://twitter.com/search?q=Nazri) | N/A |
-| 33 | [Adib](http://twitter.com/search?q=Adib) | N/A |
-| 34 | [MyEG](http://twitter.com/search?q=MyEG) | N/A |
-| 35 | [Dr M](http://twitter.com/search?q=Dr+M) | N/A |
-| 36 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 37 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 38 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 39 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 40 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
-| 41 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
-| 42 | [mysejahtera](http://twitter.com/search?q=mysejahtera) | N/A |
-| 43 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 44 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
-| 45 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 46 | [everglow](http://twitter.com/search?q=everglow) | N/A |
-| 47 | [mubank](http://twitter.com/search?q=mubank) | N/A |
-| 48 | [Samsung dex](http://twitter.com/search?q=Samsung+dex) | N/A |
-| 49 | [Mark Zuckerberg](http://twitter.com/search?q=Mark+Zuckerberg) | N/A |
+| 24 | [KAHAR](http://twitter.com/search?q=KAHAR) | N/A |
+| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 26 | [MUDA](http://twitter.com/search?q=MUDA) | N/A |
+| 27 | [Dr M](http://twitter.com/search?q=Dr+M) | N/A |
+| 28 | [Captain Planet](http://twitter.com/search?q=Captain+Planet) | N/A |
+| 29 | [Adib](http://twitter.com/search?q=Adib) | N/A |
+| 30 | [MyEG](http://twitter.com/search?q=MyEG) | N/A |
+| 31 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 32 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
+| 33 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
+| 34 | [mysejahtera](http://twitter.com/search?q=mysejahtera) | N/A |
+| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 36 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 37 | [STAYC](http://twitter.com/search?q=STAYC) | N/A |
+| 38 | [Everglow](http://twitter.com/search?q=Everglow) | N/A |
+| 39 | [mubank](http://twitter.com/search?q=mubank) | N/A |
+| 40 | [Samsung dex](http://twitter.com/search?q=Samsung+dex) | N/A |
+| 41 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 42 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 43 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
+| 44 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 45 | [sara ludy](http://twitter.com/search?q=sara+ludy) | N/A |
+| 46 | [ana maria caballero](http://twitter.com/search?q=ana+maria+caballero) | N/A |
+| 47 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 48 | [Kang Daniel](http://twitter.com/search?q=Kang+Daniel) | N/A |
+| 49 | [Edge](http://twitter.com/search?q=Edge) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-11 05:16:34 UTC`
+📆 Last Updated: `2023-02-11 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
-| 2 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
+| 1 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
+| 2 | [Ahbap](http://twitter.com/search?q=Ahbap) | N/A |
 | 3 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
 | 4 | [#yagma](http://twitter.com/search?q=%23yagma) | N/A |
 | 5 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
 | 11 | [Elleriniz](http://twitter.com/search?q=Elleriniz) | N/A |
 | 12 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 13 | [Helal](http://twitter.com/search?q=Helal) | N/A |
-| 14 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
-| 15 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
-| 16 | [Ohal](http://twitter.com/search?q=Ohal) | N/A |
-| 17 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 18 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 19 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 20 | [allahımbizi affet](http://twitter.com/search?q=allah%c4%b1mbizi+affet) | N/A |
-| 21 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
-| 22 | [asıl kim](http://twitter.com/search?q=as%c4%b1l+kim) | N/A |
-| 23 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 24 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
-| 25 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 26 | [tahaduymaza operatordestegi](http://twitter.com/search?q=tahaduymaza+operatordestegi) | N/A |
-| 27 | [Berk](http://twitter.com/search?q=Berk) | N/A |
-| 28 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
-| 29 | [Eline](http://twitter.com/search?q=Eline) | N/A |
-| 30 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
-| 31 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
-| 32 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 33 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 34 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 35 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 36 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
-| 37 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 38 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
-| 39 | [En Büyük Beşiktaş](http://twitter.com/search?q=En+B%c3%bcy%c3%bck+Be%c5%9fikta%c5%9f) | N/A |
-| 40 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
-| 41 | [Sıkın](http://twitter.com/search?q=S%c4%b1k%c4%b1n) | N/A |
-| 42 | [yağız](http://twitter.com/search?q=ya%c4%9f%c4%b1z) | N/A |
-| 43 | [Gönüldaşlar Sahada](http://twitter.com/search?q=G%c3%b6n%c3%bclda%c5%9flar+Sahada) | N/A |
-| 44 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
-| 45 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
-| 46 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 47 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 48 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
-| 49 | [Menekşe](http://twitter.com/search?q=Menek%c5%9fe) | N/A |
-| 50 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 13 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 14 | [Hakkımı](http://twitter.com/search?q=Hakk%c4%b1m%c4%b1) | N/A |
+| 15 | [#HaddiniBilLûbeAyar](http://twitter.com/search?q=%23HaddiniBilL%c3%bbbeAyar) | N/A |
+| 16 | [ölünün](http://twitter.com/search?q=%c3%b6l%c3%bcn%c3%bcn) | N/A |
+| 17 | [Üzülmedim](http://twitter.com/search?q=%c3%9cz%c3%bclmedim) | N/A |
+| 18 | [Devlet](http://twitter.com/search?q=Devlet) | N/A |
+| 19 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
+| 20 | [Şafak Aydın](http://twitter.com/search?q=%c5%9eafak+Ayd%c4%b1n) | N/A |
+| 21 | [Ohal](http://twitter.com/search?q=Ohal) | N/A |
+| 22 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 23 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 24 | [Genel Başkanı](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1) | N/A |
+| 25 | [Kendisine Allah'tan](http://twitter.com/search?q=Kendisine+Allah%27tan) | N/A |
+| 26 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
+| 27 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
+| 28 | [allahımbizi affet](http://twitter.com/search?q=allah%c4%b1mbizi+affet) | N/A |
+| 29 | [Turgay Güler](http://twitter.com/search?q=Turgay+G%c3%bcler) | N/A |
+| 30 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 31 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 32 | [Berk](http://twitter.com/search?q=Berk) | N/A |
+| 33 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 34 | [Asıl Kim](http://twitter.com/search?q=As%c4%b1l+Kim) | N/A |
+| 35 | [Teyitli](http://twitter.com/search?q=Teyitli) | N/A |
+| 36 | [Gamze Özçelik](http://twitter.com/search?q=Gamze+%c3%96z%c3%a7elik) | N/A |
+| 37 | [Eline](http://twitter.com/search?q=Eline) | N/A |
+| 38 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 39 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 40 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 41 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 42 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 43 | [Kızlarİçin PedGönderin](http://twitter.com/search?q=K%c4%b1zlar%c4%b0%c3%a7in+PedG%c3%b6nderin) | N/A |
+| 44 | [Dünya Bankası](http://twitter.com/search?q=D%c3%bcnya+Bankas%c4%b1) | N/A |
+| 45 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 46 | [En Büyük Beşiktaş](http://twitter.com/search?q=En+B%c3%bcy%c3%bck+Be%c5%9fikta%c5%9f) | N/A |
+| 47 | [sıkın](http://twitter.com/search?q=s%c4%b1k%c4%b1n) | N/A |
+| 48 | [Nihat Hatipoğlu](http://twitter.com/search?q=Nihat+Hatipo%c4%9flu) | N/A |
+| 49 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
+| 50 | [Paranın](http://twitter.com/search?q=Paran%c4%b1n) | N/A |
 
 
 

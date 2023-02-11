@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-11 05:16:49 UTC`
+📆 Last Updated: `2023-02-11 06:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,15 +26,15 @@ This is top 50 for Portugal
 | 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 10 | [Rui Santos](http://twitter.com/search?q=Rui+Santos) | N/A |
 | 11 | [Vlachodimos](http://twitter.com/search?q=Vlachodimos) | N/A |
-| 12 | [Pizzi](http://twitter.com/search?q=Pizzi) | N/A |
-| 13 | [APAF](http://twitter.com/search?q=APAF) | N/A |
+| 12 | [pizzi](http://twitter.com/search?q=pizzi) | N/A |
+| 13 | [Apaf](http://twitter.com/search?q=Apaf) | N/A |
 | 14 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 15 | [Racic](http://twitter.com/search?q=Racic) | N/A |
 | 16 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 17 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
-| 18 | [#JanelaDaBru](http://twitter.com/search?q=%23JanelaDaBru) | N/A |
+| 18 | [#janeladabru](http://twitter.com/search?q=%23janeladabru) | N/A |
 | 19 | [NUNCA VAI SER UM ADEUS](http://twitter.com/search?q=NUNCA+VAI+SER+UM+ADEUS) | N/A |
-| 20 | [morato](http://twitter.com/search?q=morato) | N/A |
+| 20 | [Morato](http://twitter.com/search?q=Morato) | N/A |
 | 21 | [al musrati](http://twitter.com/search?q=al+musrati) | N/A |
 | 22 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
 | 23 | [taça de portugal](http://twitter.com/search?q=ta%c3%a7a+de+portugal) | N/A |
@@ -42,18 +42,18 @@ This is top 50 for Portugal
 | 25 | [#scbslb](http://twitter.com/search?q=%23scbslb) | N/A |
 | 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 27 | [#FASTX](http://twitter.com/search?q=%23FASTX) | N/A |
-| 28 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 29 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
+| 28 | [OUÇA EP IDENTIDADE 2](http://twitter.com/search?q=OU%c3%87A+EP+IDENTIDADE+2) | N/A |
+| 29 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 30 | [Santana](http://twitter.com/search?q=Santana) | N/A |
-| 31 | [Túneis](http://twitter.com/search?q=T%c3%baneis) | N/A |
+| 31 | [túneis](http://twitter.com/search?q=t%c3%baneis) | N/A |
 | 32 | [taremi](http://twitter.com/search?q=taremi) | N/A |
 | 33 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
 | 34 | [Moedas](http://twitter.com/search?q=Moedas) | N/A |
 | 35 | [o roger](http://twitter.com/search?q=o+roger) | N/A |
 | 36 | [odysseas](http://twitter.com/search?q=odysseas) | N/A |
-| 37 | [gonçalo ramos](http://twitter.com/search?q=gon%c3%a7alo+ramos) | N/A |
-| 38 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 39 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 38 | [gonçalo ramos](http://twitter.com/search?q=gon%c3%a7alo+ramos) | N/A |
+| 39 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
 | 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 41 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 | 42 | [O Bah](http://twitter.com/search?q=O+Bah) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-11 05:16:43 UTC`
+📆 Last Updated: `2023-02-11 06:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
-| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 4 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 5 | [Flor](http://twitter.com/search?q=Flor) | N/A |
-| 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 7 | [pablo vegetti](http://twitter.com/search?q=pablo+vegetti) | N/A |
-| 8 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 9 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 10 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
-| 11 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
-| 12 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 13 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 14 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 15 | [Trava](http://twitter.com/search?q=Trava) | N/A |
-| 16 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 17 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
-| 18 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 19 | [Vignatti](http://twitter.com/search?q=Vignatti) | N/A |
-| 20 | [vamos belgrano](http://twitter.com/search?q=vamos+belgrano) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 23 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 24 | [#VillaMaria2023](http://twitter.com/search?q=%23VillaMaria2023) | N/A |
-| 25 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 28 | [#Sarmiento](http://twitter.com/search?q=%23Sarmiento) | N/A |
-| 29 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 30 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
-| 31 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 32 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 33 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 34 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 35 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 36 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 37 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
-| 38 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 41 | [Ferro](http://twitter.com/search?q=Ferro) | N/A |
-| 42 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
-| 43 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
-| 44 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 45 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
-| 46 | [Con Macri](http://twitter.com/search?q=Con+Macri) | N/A |
-| 47 | [#CentralCórdoba](http://twitter.com/search?q=%23CentralC%c3%b3rdoba) | N/A |
-| 48 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
-| 49 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 50 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 1 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 4 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 5 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 6 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 7 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 8 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 9 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 10 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 11 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 12 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 13 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 14 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 15 | [Flor](http://twitter.com/search?q=Flor) | N/A |
+| 16 | [pablo vegetti](http://twitter.com/search?q=pablo+vegetti) | N/A |
+| 17 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 18 | [Lourdes Sanchez](http://twitter.com/search?q=Lourdes+Sanchez) | N/A |
+| 19 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
+| 20 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 21 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 22 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 23 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 24 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 27 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 28 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 29 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
+| 30 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
+| 31 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 32 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 33 | [Trava](http://twitter.com/search?q=Trava) | N/A |
+| 34 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 35 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 36 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 37 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 38 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 39 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
+| 40 | [Vignatti](http://twitter.com/search?q=Vignatti) | N/A |
+| 41 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 42 | [SARMIENTO](http://twitter.com/search?q=SARMIENTO) | N/A |
+| 43 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 44 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
+| 45 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 46 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 47 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 48 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
+| 49 | [la sole en la chaya](http://twitter.com/search?q=la+sole+en+la+chaya) | N/A |
+| 50 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
 
 
 

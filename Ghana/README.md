@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-11 05:16:45 UTC`
+📆 Last Updated: `2023-02-11 06:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,16 +22,16 @@ This is top 50 for Ghana
 | 5 | [#loveintheciti](http://twitter.com/search?q=%23loveintheciti) | N/A |
 | 6 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 7 | [sophia akuffo](http://twitter.com/search?q=sophia+akuffo) | N/A |
-| 8 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
-| 9 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 10 | [#Cum2Papa](http://twitter.com/search?q=%23Cum2Papa) | N/A |
-| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 12 | [frema](http://twitter.com/search?q=frema) | N/A |
-| 13 | [#ChristianAtsu](http://twitter.com/search?q=%23ChristianAtsu) | N/A |
-| 14 | [#thelibrary](http://twitter.com/search?q=%23thelibrary) | N/A |
-| 15 | [Former Chief Justice](http://twitter.com/search?q=Former+Chief+Justice) | N/A |
-| 16 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 17 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 8 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 9 | [#Cum2Papa](http://twitter.com/search?q=%23Cum2Papa) | N/A |
+| 10 | [frema](http://twitter.com/search?q=frema) | N/A |
+| 11 | [#ChristianAtsu](http://twitter.com/search?q=%23ChristianAtsu) | N/A |
+| 12 | [#thelibrary](http://twitter.com/search?q=%23thelibrary) | N/A |
+| 13 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
+| 14 | [former chief justice](http://twitter.com/search?q=former+chief+justice) | N/A |
+| 15 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 18 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 | 19 | [DDEP](http://twitter.com/search?q=DDEP) | N/A |
 | 20 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
@@ -39,32 +39,32 @@ This is top 50 for Ghana
 | 22 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
 | 23 | [mohammed kudus](http://twitter.com/search?q=mohammed+kudus) | N/A |
 | 24 | [Run Jozi](http://twitter.com/search?q=Run+Jozi) | N/A |
-| 25 | [finance ministry](http://twitter.com/search?q=finance+ministry) | N/A |
-| 26 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 27 | [godfred dame](http://twitter.com/search?q=godfred+dame) | N/A |
-| 28 | [Fear Women](http://twitter.com/search?q=Fear+Women) | N/A |
-| 29 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 30 | [Rapper AKA](http://twitter.com/search?q=Rapper+AKA) | N/A |
-| 31 | [Manifest](http://twitter.com/search?q=Manifest) | N/A |
-| 32 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 33 | [naasei](http://twitter.com/search?q=naasei) | N/A |
-| 34 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 35 | [bechem united](http://twitter.com/search?q=bechem+united) | N/A |
-| 36 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 37 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
-| 38 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 39 | [Edem](http://twitter.com/search?q=Edem) | N/A |
-| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 41 | [Collins Dauda](http://twitter.com/search?q=Collins+Dauda) | N/A |
-| 42 | [mohammed alhassan](http://twitter.com/search?q=mohammed+alhassan) | N/A |
-| 43 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 47 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 48 | [haruna iddrisu](http://twitter.com/search?q=haruna+iddrisu) | N/A |
-| 49 | [bank of ghana](http://twitter.com/search?q=bank+of+ghana) | N/A |
-| 50 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 26 | [godfred dame](http://twitter.com/search?q=godfred+dame) | N/A |
+| 27 | [Rapper AKA](http://twitter.com/search?q=Rapper+AKA) | N/A |
+| 28 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 29 | [Manifest](http://twitter.com/search?q=Manifest) | N/A |
+| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 31 | [naasei](http://twitter.com/search?q=naasei) | N/A |
+| 32 | [Fear Women](http://twitter.com/search?q=Fear+Women) | N/A |
+| 33 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 34 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 35 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
+| 36 | [Finance Ministry](http://twitter.com/search?q=Finance+Ministry) | N/A |
+| 37 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 39 | [Collins Dauda](http://twitter.com/search?q=Collins+Dauda) | N/A |
+| 40 | [Edem](http://twitter.com/search?q=Edem) | N/A |
+| 41 | [mohammed alhassan](http://twitter.com/search?q=mohammed+alhassan) | N/A |
+| 42 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 45 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 47 | [haruna iddrisu](http://twitter.com/search?q=haruna+iddrisu) | N/A |
+| 48 | [bank of ghana](http://twitter.com/search?q=bank+of+ghana) | N/A |
+| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 50 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
 
 
 

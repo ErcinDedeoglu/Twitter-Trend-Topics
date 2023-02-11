@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-02-11 05:16:26 UTC`
+📆 Last Updated: `2023-02-11 06:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 2 | [#جسور_الخير](http://twitter.com/search?q=%23%d8%ac%d8%b3%d9%88%d8%b1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 3 | [#MaqboolButtShaheed](http://twitter.com/search?q=%23MaqboolButtShaheed) | N/A |
+| 2 | [#MaqboolButtShaheed](http://twitter.com/search?q=%23MaqboolButtShaheed) | N/A |
+| 3 | [#جسور_الخير](http://twitter.com/search?q=%23%d8%ac%d8%b3%d9%88%d8%b1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 6 | [عبدالله حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d9%85%d8%af) | N/A |
-| 7 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
-| 8 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 9 | [علاء](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
-| 10 | [جمعه جبر](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%ac%d8%a8%d8%b1) | N/A |
-| 11 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 12 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 13 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
-| 14 | [اللواء الركن](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d9%83%d9%86) | N/A |
+| 7 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 8 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 10 | [علاء](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
+| 11 | [جمعه جبر](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%ac%d8%a8%d8%b1) | N/A |
+| 12 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 13 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 14 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
 | 15 | [بدر ناصر](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 17 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 18 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 19 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 20 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 21 | [Blessed Friday](http://twitter.com/search?q=Blessed+Friday) | N/A |
-| 22 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 23 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 24 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 25 | [مريم الفلاسي](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%b3%d9%8a) | N/A |
-| 26 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 27 | [الانقاذ الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
+| 17 | [اللواء الركن](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d9%83%d9%86) | N/A |
+| 18 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 19 | [الانقاذ الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
+| 20 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 21 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 22 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 23 | [Blessed Friday](http://twitter.com/search?q=Blessed+Friday) | N/A |
+| 24 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 25 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 26 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 27 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
 | 28 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
-| 29 | [مركز ابوظبي الوطني](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 30 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
-| 31 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 32 | [الزلازل المدمره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1%d9%87) | N/A |
-| 33 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 34 | [VXON DULO OUT NOW](http://twitter.com/search?q=VXON+DULO+OUT+NOW) | N/A |
-| 35 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 36 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 37 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 38 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 39 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 40 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 41 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 42 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 43 | [xposure](http://twitter.com/search?q=xposure) | N/A |
-| 44 | [لابا كودجو](http://twitter.com/search?q=%d9%84%d8%a7%d8%a8%d8%a7+%d9%83%d9%88%d8%af%d8%ac%d9%88) | N/A |
-| 45 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 46 | [عادل](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 47 | [الشعبين السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 48 | [الواجب الانساني](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d8%ac%d8%a8+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [فريق عمل](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%b9%d9%85%d9%84) | N/A |
-| 50 | [وزارة الخارجية والتعاون الدولي](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 29 | [مريم الفلاسي](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%81%d9%84%d8%a7%d8%b3%d9%8a) | N/A |
+| 30 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [مركز ابوظبي الوطني](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 33 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
+| 34 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 35 | [الزلازل المدمره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%a7%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1%d9%87) | N/A |
+| 36 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 37 | [vxon dulo out now](http://twitter.com/search?q=vxon+dulo+out+now) | N/A |
+| 38 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 39 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 40 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 41 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 43 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 44 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 45 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 46 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 47 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 48 | [xposure](http://twitter.com/search?q=xposure) | N/A |
+| 49 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 50 | [لابا كودجو](http://twitter.com/search?q=%d9%84%d8%a7%d8%a8%d8%a7+%d9%83%d9%88%d8%af%d8%ac%d9%88) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-11 05:16:49 UTC`
+📆 Last Updated: `2023-02-11 06:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for Panama
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
 | 3 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 4 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 5 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 6 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 4 | [Foco](http://twitter.com/search?q=Foco) | N/A |
+| 5 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 6 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 7 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 9 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 10 | [Waked](http://twitter.com/search?q=Waked) | N/A |
+| 10 | [waked](http://twitter.com/search?q=waked) | N/A |
 | 11 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
 | 12 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
 | 13 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
@@ -36,21 +36,21 @@ This is top 50 for Panama
 | 19 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 20 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 | 21 | [Clásico Mundial](http://twitter.com/search?q=Cl%c3%a1sico+Mundial) | N/A |
-| 22 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 23 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 24 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 25 | [albrook](http://twitter.com/search?q=albrook) | N/A |
-| 26 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 22 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 23 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 24 | [albrook](http://twitter.com/search?q=albrook) | N/A |
+| 25 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 26 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 29 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 30 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 28 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 30 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 31 | [lista clinton](http://twitter.com/search?q=lista+clinton) | N/A |
-| 32 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 32 | [Ministro de Seguridad](http://twitter.com/search?q=Ministro+de+Seguridad) | N/A |
 | 33 | [Movin](http://twitter.com/search?q=Movin) | N/A |
 | 34 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 35 | [FIRST JOB](http://twitter.com/search?q=FIRST+JOB) | N/A |
-| 36 | [Sinaproc](http://twitter.com/search?q=Sinaproc) | N/A |
+| 35 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 36 | [sinaproc](http://twitter.com/search?q=sinaproc) | N/A |
 | 37 | [Armas](http://twitter.com/search?q=Armas) | N/A |
 | 38 | [josé luis fábrega](http://twitter.com/search?q=jos%c3%a9+luis+f%c3%a1brega) | N/A |
 | 39 | [caja de ahorros](http://twitter.com/search?q=caja+de+ahorros) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Panama
 | 44 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
 | 45 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
 | 46 | [Chitre](http://twitter.com/search?q=Chitre) | N/A |
-| 47 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
+| 47 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
 | 48 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
 | 49 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
 | 50 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
