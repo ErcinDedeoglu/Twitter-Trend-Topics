@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-11 15:15:57 UTC`
+📆 Last Updated: `2023-02-11 16:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 2 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 6 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 7 | [#ElProfeEnTVN](http://twitter.com/search?q=%23ElProfeEnTVN) | N/A |
-| 8 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 9 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 10 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 11 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 13 | [Hualqui](http://twitter.com/search?q=Hualqui) | N/A |
-| 14 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [cobreloa](http://twitter.com/search?q=cobreloa) | N/A |
-| 17 | [Nissan](http://twitter.com/search?q=Nissan) | N/A |
-| 18 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 19 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 22 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 23 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
-| 24 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 25 | [Sofofa](http://twitter.com/search?q=Sofofa) | N/A |
-| 26 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 27 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 28 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 29 | [La Portada](http://twitter.com/search?q=La+Portada) | N/A |
-| 30 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 31 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 32 | [Atria](http://twitter.com/search?q=Atria) | N/A |
-| 33 | [Aero Tanker](http://twitter.com/search?q=Aero+Tanker) | N/A |
-| 34 | [Andia](http://twitter.com/search?q=Andia) | N/A |
-| 35 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 36 | [Calera](http://twitter.com/search?q=Calera) | N/A |
-| 37 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 39 | [Gaete](http://twitter.com/search?q=Gaete) | N/A |
-| 40 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 41 | [Copiapó](http://twitter.com/search?q=Copiap%c3%b3) | Copiapó is a city and commune in the Atacama Region of northern Chile. It is the capital of the Copiapó Province and the Atacama Region. The name Copiapó comes from the language of the indigenous Diaguita people, and it means "place of red earth". |
-| 42 | [Unidad de Educación Militar](http://twitter.com/search?q=Unidad+de+Educaci%c3%b3n+Militar) | N/A |
-| 43 | [Fito Paez](http://twitter.com/search?q=Fito+Paez) | N/A |
-| 44 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 45 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 46 | [Esteban Valenzuela](http://twitter.com/search?q=Esteban+Valenzuela) | N/A |
-| 47 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 48 | [Lucho Plátano](http://twitter.com/search?q=Lucho+Pl%c3%a1tano) | N/A |
-| 49 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 3 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 4 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 7 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 8 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 9 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 10 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 11 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 12 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 13 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 14 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
+| 15 | [#UCHvsMAGxTNTSports](http://twitter.com/search?q=%23UCHvsMAGxTNTSports) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 18 | [Fuentealba](http://twitter.com/search?q=Fuentealba) | N/A |
+| 19 | [#ElProfeEnTVN](http://twitter.com/search?q=%23ElProfeEnTVN) | N/A |
+| 20 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 21 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 22 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
+| 23 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 24 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 25 | [Andía](http://twitter.com/search?q=And%c3%ada) | N/A |
+| 26 | [Hualqui](http://twitter.com/search?q=Hualqui) | N/A |
+| 27 | [Toselli](http://twitter.com/search?q=Toselli) | Toselli is a surname of Italian origin. It is derived from the Latin name Tullius, which means "peaceful". In English, it can be translated to mean "peaceful one". |
+| 28 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 29 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 30 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 31 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 32 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 33 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Sofofa](http://twitter.com/search?q=Sofofa) | N/A |
+| 36 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
+| 37 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 38 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 39 | [Director de Arte](http://twitter.com/search?q=Director+de+Arte) | N/A |
+| 40 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 41 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 43 | [La Portada](http://twitter.com/search?q=La+Portada) | N/A |
+| 44 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
+| 45 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 46 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 47 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 48 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 49 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
 
 
 

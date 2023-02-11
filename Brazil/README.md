@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-11 15:16:39 UTC`
+📆 Last Updated: `2023-02-11 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
 | 2 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 3 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 4 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 5 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 6 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
-| 7 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
-| 10 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
-| 11 | [#MulheresEMeninasNaCiência](http://twitter.com/search?q=%23MulheresEMeninasNaCi%c3%aancia) | N/A |
-| 12 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 13 | [JUIZ CORRUPTO](http://twitter.com/search?q=JUIZ+CORRUPTO) | N/A |
-| 14 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 15 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 16 | [Cavs 2.0](http://twitter.com/search?q=Cavs+2.0) | N/A |
-| 17 | [Malévola](http://twitter.com/search?q=Mal%c3%a9vola) | N/A |
-| 18 | [Nossa Senhora de Lourdes](http://twitter.com/search?q=Nossa+Senhora+de+Lourdes) | N/A |
-| 19 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Luisa Stefani](http://twitter.com/search?q=Luisa+Stefani) | Luisa Stefani is a female Italian given name. It is derived from the Latin name Louise, which means "famous warrior". In English, it can be translated to mean "Famous Warrior of God". |
-| 22 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 23 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 24 | [Glenn Greenwald](http://twitter.com/search?q=Glenn+Greenwald) | N/A |
-| 25 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 27 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 28 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 30 | [Cruel](http://twitter.com/search?q=Cruel) | N/A |
-| 31 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 32 | [Boechat](http://twitter.com/search?q=Boechat) | N/A |
-| 33 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 34 | [Mirou](http://twitter.com/search?q=Mirou) | N/A |
-| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [Flamengo e Real Madrid](http://twitter.com/search?q=Flamengo+e+Real+Madrid) | N/A |
-| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 38 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 39 | [barbie ferreira](http://twitter.com/search?q=barbie+ferreira) | N/A |
-| 40 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 41 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 42 | [Alexandre Nero](http://twitter.com/search?q=Alexandre+Nero) | N/A |
-| 43 | [Mártir](http://twitter.com/search?q=M%c3%a1rtir) | N/A |
-| 44 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 45 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
-| 46 | [Rota](http://twitter.com/search?q=Rota) | N/A |
-| 47 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 48 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 49 | [BLOCO](http://twitter.com/search?q=BLOCO) | N/A |
-| 50 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 3 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 5 | [REVISEM ESSA PROVA](http://twitter.com/search?q=REVISEM+ESSA+PROVA) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 8 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
+| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 10 | [#FLAxALH](http://twitter.com/search?q=%23FLAxALH) | N/A |
+| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 12 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 13 | [Bruno e Guimê](http://twitter.com/search?q=Bruno+e+Guim%c3%aa) | N/A |
+| 14 | [#ChevroletNoBBB](http://twitter.com/search?q=%23ChevroletNoBBB) | N/A |
+| 15 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 16 | [Esse Santos](http://twitter.com/search?q=Esse+Santos) | N/A |
+| 17 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
+| 18 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
+| 19 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
+| 20 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 21 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 22 | [JUIZ CORRUPTO](http://twitter.com/search?q=JUIZ+CORRUPTO) | N/A |
+| 23 | [Encostou](http://twitter.com/search?q=Encostou) | N/A |
+| 24 | [Bencic](http://twitter.com/search?q=Bencic) | N/A |
+| 25 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 26 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 27 | [Cavs 2.0](http://twitter.com/search?q=Cavs+2.0) | N/A |
+| 28 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 29 | [Everaldo Marques](http://twitter.com/search?q=Everaldo+Marques) | N/A |
+| 30 | [Fred e Aline](http://twitter.com/search?q=Fred+e+Aline) | N/A |
+| 31 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 32 | [Malévola](http://twitter.com/search?q=Mal%c3%a9vola) | N/A |
+| 33 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Fiat Toro](http://twitter.com/search?q=Fiat+Toro) | N/A |
+| 36 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 37 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 38 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 40 | [No Corinthians](http://twitter.com/search?q=No+Corinthians) | N/A |
+| 41 | [Sana](http://twitter.com/search?q=Sana) | N/A |
+| 42 | [Flamengo e Real Madrid](http://twitter.com/search?q=Flamengo+e+Real+Madrid) | N/A |
+| 43 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
+| 44 | [Lari e Bruna](http://twitter.com/search?q=Lari+e+Bruna) | N/A |
+| 45 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Glenn Greenwald](http://twitter.com/search?q=Glenn+Greenwald) | N/A |
+| 48 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 49 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 50 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
 
 
 

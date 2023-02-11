@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-11 15:16:24 UTC`
+📆 Last Updated: `2023-02-11 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#اسلام_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
-| 2 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 3 | [#LahoreHighCourt](http://twitter.com/search?q=%23LahoreHighCourt) | N/A |
-| 4 | [#AmjadIslamAmjad](http://twitter.com/search?q=%23AmjadIslamAmjad) | N/A |
-| 5 | [#الیکشن_کی_تاریخ_دو](http://twitter.com/search?q=%23%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86_%da%a9%db%8c_%d8%aa%d8%a7%d8%b1%db%8c%d8%ae_%d8%af%d9%88) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 8 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
+| 1 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 2 | [#اسلام_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
+| 3 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 4 | [#LahoreHighCourt](http://twitter.com/search?q=%23LahoreHighCourt) | N/A |
+| 5 | [#AmjadIslamAmjad](http://twitter.com/search?q=%23AmjadIslamAmjad) | N/A |
+| 6 | [#الیکشن_کی_تاریخ_دو](http://twitter.com/search?q=%23%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86_%da%a9%db%8c_%d8%aa%d8%a7%d8%b1%db%8c%d8%ae_%d8%af%d9%88) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 9 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 10 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 11 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 12 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 13 | [Legends](http://twitter.com/search?q=Legends) | N/A |
-| 14 | [Uswah](http://twitter.com/search?q=Uswah) | N/A |
-| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 16 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 18 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 19 | [Justice Jawad Hassan](http://twitter.com/search?q=Justice+Jawad+Hassan) | N/A |
-| 20 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 21 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 22 | [BLOODY CIVILIANS](http://twitter.com/search?q=BLOODY+CIVILIANS) | N/A |
-| 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 24 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
-| 25 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 27 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
-| 28 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 29 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 31 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 33 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 34 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 35 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 36 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 37 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
+| 10 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
+| 11 | [Daughter Of Hussain](http://twitter.com/search?q=Daughter+Of+Hussain) | N/A |
+| 12 | [Fatahay Shaam](http://twitter.com/search?q=Fatahay+Shaam) | N/A |
+| 13 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 14 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 15 | [Legends](http://twitter.com/search?q=Legends) | N/A |
+| 16 | [Uswah](http://twitter.com/search?q=Uswah) | N/A |
+| 17 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 18 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 19 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
+| 23 | [Justice Jawad Hassan](http://twitter.com/search?q=Justice+Jawad+Hassan) | N/A |
+| 24 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 25 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 26 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 27 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 28 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
+| 31 | [Capt Safdar](http://twitter.com/search?q=Capt+Safdar) | N/A |
+| 32 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 33 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 34 | [Legit](http://twitter.com/search?q=Legit) | N/A |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
+| 37 | [Khair](http://twitter.com/search?q=Khair) | N/A |
 | 38 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Noice](http://twitter.com/search?q=Noice) | N/A |
-| 41 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 42 | [Mere](http://twitter.com/search?q=Mere) | N/A |
-| 43 | [Khair](http://twitter.com/search?q=Khair) | N/A |
-| 44 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 45 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
-| 46 | [Pleasure](http://twitter.com/search?q=Pleasure) | N/A |
-| 47 | [Sameee](http://twitter.com/search?q=Sameee) | N/A |
+| 39 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 40 | [THANKYOUUU](http://twitter.com/search?q=THANKYOUUU) | N/A |
+| 41 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 42 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 43 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
+| 44 | [Shaheen Afridi](http://twitter.com/search?q=Shaheen+Afridi) | N/A |
+| 45 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 46 | [Choor](http://twitter.com/search?q=Choor) | N/A |
+| 47 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 48 | [David](http://twitter.com/search?q=David) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
-| 50 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 49 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

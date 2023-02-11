@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-11 15:16:08 UTC`
+📆 Last Updated: `2023-02-11 16:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
-| 3 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 6 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
-| 7 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 8 | [#swifcob23](http://twitter.com/search?q=%23swifcob23) | N/A |
-| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 10 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 1 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 2 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 3 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
+| 4 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 5 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 8 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 9 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 11 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
 | 12 | [Damen](http://twitter.com/search?q=Damen) | N/A |
 | 13 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 14 | [Teile](http://twitter.com/search?q=Teile) | N/A |
-| 15 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 16 | [seich](http://twitter.com/search?q=seich) | N/A |
+| 14 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 15 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 16 | [Teile](http://twitter.com/search?q=Teile) | N/A |
 | 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 19 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 18 | [seich](http://twitter.com/search?q=seich) | N/A |
+| 19 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 | 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 21 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 22 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 21 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 22 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 23 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 | 24 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
 | 25 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 27 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 28 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 29 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 30 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
-| 33 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 34 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 35 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 36 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 37 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 38 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 41 | [Orte](http://twitter.com/search?q=Orte) | N/A |
-| 42 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 43 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 44 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 45 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 46 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 47 | [Rechnung](http://twitter.com/search?q=Rechnung) | N/A |
+| 28 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
+| 29 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 30 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 31 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 32 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 33 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 34 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 35 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 36 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 37 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 38 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 40 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Orte](http://twitter.com/search?q=Orte) | N/A |
+| 44 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 45 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 46 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 47 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 
 
 

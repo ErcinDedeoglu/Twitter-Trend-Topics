@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-02-11 15:16:20 UTC`
+📆 Last Updated: `2023-02-11 16:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,45 +19,46 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 3 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
 | 4 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
-| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 6 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 8 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 9 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 10 | [Maldives](http://twitter.com/search?q=Maldives) | N/A |
-| 11 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 12 | [Team Hotel](http://twitter.com/search?q=Team+Hotel) | N/A |
-| 13 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
-| 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 15 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 16 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
-| 17 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 18 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 19 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 20 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 21 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 24 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 25 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
-| 26 | [NO SWEAT THABANG](http://twitter.com/search?q=NO+SWEAT+THABANG) | N/A |
-| 27 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 28 | [Lefa](http://twitter.com/search?q=Lefa) | N/A |
-| 29 | [Mongezi](http://twitter.com/search?q=Mongezi) | N/A |
-| 30 | [Zulus](http://twitter.com/search?q=Zulus) | N/A |
-| 31 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 32 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 33 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 34 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 35 | [Anele](http://twitter.com/search?q=Anele) | N/A |
-| 36 | [SupaMega](http://twitter.com/search?q=SupaMega) | N/A |
-| 37 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 38 | [#RIPAAKA](http://twitter.com/search?q=%23RIPAAKA) | N/A |
-| 39 | [#Nadia](http://twitter.com/search?q=%23Nadia) | N/A |
-| 40 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 41 | [#supermega](http://twitter.com/search?q=%23supermega) | N/A |
-| 42 | [#RIPTibz](http://twitter.com/search?q=%23RIPTibz) | N/A |
-| 43 | [#NotAKA](http://twitter.com/search?q=%23NotAKA) | N/A |
+| 5 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
+| 6 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 7 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 8 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 9 | [Maldives](http://twitter.com/search?q=Maldives) | N/A |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 12 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 14 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 15 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 16 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [Team Hotel](http://twitter.com/search?q=Team+Hotel) | N/A |
+| 19 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
+| 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 23 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 24 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 25 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 26 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 29 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 30 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 31 | [NO SWEAT THABANG](http://twitter.com/search?q=NO+SWEAT+THABANG) | N/A |
+| 32 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 33 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 34 | [Lefa](http://twitter.com/search?q=Lefa) | N/A |
+| 35 | [Zulus](http://twitter.com/search?q=Zulus) | N/A |
+| 36 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 37 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
+| 38 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
+| 39 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 40 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
+| 41 | [#Nadia](http://twitter.com/search?q=%23Nadia) | N/A |
+| 42 | [#supermega](http://twitter.com/search?q=%23supermega) | N/A |
+| 43 | [#SupaMega](http://twitter.com/search?q=%23SupaMega) | N/A |
+| 44 | [#NotAKA](http://twitter.com/search?q=%23NotAKA) | N/A |
 
 
 
