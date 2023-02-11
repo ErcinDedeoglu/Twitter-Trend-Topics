@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-02-11 12:17:47 UTC`
+📆 Last Updated: `2023-02-11 13:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Venezuela
 | ------- | ------------ | ------------ |
 | 1 | [#11Feb](http://twitter.com/search?q=%2311Feb) | N/A |
 | 2 | [#SDCxTLT](http://twitter.com/search?q=%23SDCxTLT) | N/A |
-| 3 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
-| 4 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 5 | [#beisbolxteleven](http://twitter.com/search?q=%23beisbolxteleven) | N/A |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 3 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 4 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
+| 5 | [#SerieDelCaribeGranCaracas](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas) | N/A |
+| 6 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 7 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 8 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 9 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
-| 10 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 11 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
-| 12 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 13 | [martín tovar](http://twitter.com/search?q=mart%c3%adn+tovar) | N/A |
+| 8 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
+| 9 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 10 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 11 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 12 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 13 | [Pablo Alborán](http://twitter.com/search?q=Pablo+Albor%c3%a1n) | N/A |
 | 14 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
-| 15 | [#9febrero](http://twitter.com/search?q=%239febrero) | N/A |
-| 16 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 17 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
-| 18 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 19 | [altuve](http://twitter.com/search?q=altuve) | N/A |
-| 20 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 21 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
-| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 23 | [jesús silva](http://twitter.com/search?q=jes%c3%bas+silva) | N/A |
-| 24 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 25 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 26 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 27 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 29 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 15 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 16 | [SAVOY](http://twitter.com/search?q=SAVOY) | N/A |
+| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 18 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 20 | [jesús silva](http://twitter.com/search?q=jes%c3%bas+silva) | N/A |
+| 21 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 22 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 23 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 24 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 25 | [josé rondón](http://twitter.com/search?q=jos%c3%a9+rond%c3%b3n) | N/A |
+| 26 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 27 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 28 | [Martín Tovar](http://twitter.com/search?q=Mart%c3%adn+Tovar) | N/A |
+| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
 | 30 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 31 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 32 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 33 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 34 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 35 | [Carla Angola](http://twitter.com/search?q=Carla+Angola) | N/A |
+| 31 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 32 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 34 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 36 | [Rolando Álvarez](http://twitter.com/search?q=Rolando+%c3%81lvarez) | N/A |
-| 37 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
-| 38 | [escalimetro](http://twitter.com/search?q=escalimetro) | N/A |
-| 39 | [Araque](http://twitter.com/search?q=Araque) | N/A |
-| 40 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
-| 41 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 42 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 43 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 44 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
-| 45 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 46 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 47 | [Perdieron](http://twitter.com/search?q=Perdieron) | N/A |
-| 48 | [Robar](http://twitter.com/search?q=Robar) | N/A |
-| 49 | [Indignante](http://twitter.com/search?q=Indignante) | N/A |
-| 50 | [Carlos Vecchio](http://twitter.com/search?q=Carlos+Vecchio) | N/A |
+| 37 | [Carla angola](http://twitter.com/search?q=Carla+angola) | N/A |
+| 38 | [Abuelo](http://twitter.com/search?q=Abuelo) | N/A |
+| 39 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
+| 40 | [escalimetro](http://twitter.com/search?q=escalimetro) | N/A |
+| 41 | [araque](http://twitter.com/search?q=araque) | N/A |
+| 42 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
+| 43 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 44 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 45 | [Indignante](http://twitter.com/search?q=Indignante) | N/A |
+| 46 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 47 | [Caraquista](http://twitter.com/search?q=Caraquista) | N/A |
+| 48 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Robar](http://twitter.com/search?q=Robar) | N/A |
 
 
 

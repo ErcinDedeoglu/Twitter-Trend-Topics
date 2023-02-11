@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-11 12:17:05 UTC`
+📆 Last Updated: `2023-02-11 13:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,47 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
-| 2 | [#VictoiresDeLaMusique](http://twitter.com/search?q=%23VictoiresDeLaMusique) | N/A |
-| 3 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
-| 4 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
+| 2 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 3 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 4 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
 | 5 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
+| 6 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 7 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 8 | [Robert Hébras](http://twitter.com/search?q=Robert+H%c3%a9bras) | N/A |
-| 9 | [Portes](http://twitter.com/search?q=Portes) | N/A |
-| 10 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 13 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 14 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 15 | [Serge Lama](http://twitter.com/search?q=Serge+Lama) | N/A |
-| 16 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 17 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 18 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 19 | [Halazia](http://twitter.com/search?q=Halazia) | N/A |
-| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 21 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 22 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 23 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 25 | [Chef-d](http://twitter.com/search?q=Chef-d) | N/A |
-| 26 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
-| 27 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 28 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 29 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
-| 30 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 31 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
-| 32 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 33 | [Ndicka](http://twitter.com/search?q=Ndicka) | N/A |
-| 34 | [Fariba Adelkhah](http://twitter.com/search?q=Fariba+Adelkhah) | N/A |
-| 35 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 36 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 37 | [Orge](http://twitter.com/search?q=Orge) | N/A |
-| 38 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 39 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
-| 40 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 41 | [Omega X](http://twitter.com/search?q=Omega+X) | N/A |
-| 42 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 43 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 44 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 45 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 46 | [Papacito](http://twitter.com/search?q=Papacito) | N/A |
-| 47 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 48 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 49 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [palmade](http://twitter.com/search?q=palmade) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 12 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 13 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
+| 14 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
+| 15 | [L'épisode 5](http://twitter.com/search?q=L%27%c3%a9pisode+5) | N/A |
+| 16 | [Chef-d](http://twitter.com/search?q=Chef-d) | N/A |
+| 17 | [Voltaire](http://twitter.com/search?q=Voltaire) | N/A |
+| 18 | [Portes](http://twitter.com/search?q=Portes) | N/A |
+| 19 | [Kaguya](http://twitter.com/search?q=Kaguya) | N/A |
+| 20 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 21 | [Le 11](http://twitter.com/search?q=Le+11) | N/A |
+| 22 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 23 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 24 | [Victoires](http://twitter.com/search?q=Victoires) | N/A |
+| 25 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 26 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 27 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 28 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 29 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 30 | [panot](http://twitter.com/search?q=panot) | N/A |
+| 31 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 32 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
+| 33 | [#Oradour](http://twitter.com/search?q=%23Oradour) | N/A |
+| 34 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 35 | [#ToujoursPlusAvecPOCO](http://twitter.com/search?q=%23ToujoursPlusAvecPOCO) | N/A |
+| 36 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
+| 37 | [#ASSEDFCO](http://twitter.com/search?q=%23ASSEDFCO) | N/A |
+| 38 | [#CF63OM](http://twitter.com/search?q=%23CF63OM) | N/A |
+| 39 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 40 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
+| 41 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 42 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-02-11 12:17:27 UTC`
+📆 Last Updated: `2023-02-11 13:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
-| 2 | [#YouthWithDhami](http://twitter.com/search?q=%23YouthWithDhami) | N/A |
+| 2 | [#AbhishekShivaleeka](http://twitter.com/search?q=%23AbhishekShivaleeka) | N/A |
 | 3 | [#BageshwarSarkarInAapKiAdalat](http://twitter.com/search?q=%23BageshwarSarkarInAapKiAdalat) | N/A |
-| 4 | [PATHAAN 900 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+900+CRORES+WORLDWIDE) | N/A |
-| 5 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 6 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 7 | [BB16 WINNER SHALIN BHANOT](http://twitter.com/search?q=BB16+WINNER+SHALIN+BHANOT) | N/A |
-| 8 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 9 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
-| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 11 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 12 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 13 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
-| 14 | [Harpic](http://twitter.com/search?q=Harpic) | N/A |
-| 15 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
-| 16 | [UNSTOPPABLE AYESHA SINGH](http://twitter.com/search?q=UNSTOPPABLE+AYESHA+SINGH) | N/A |
-| 17 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
-| 18 | [चित्रकूट जेल](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a5%82%e0%a4%9f+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 19 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
-| 20 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 21 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 22 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 23 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
-| 24 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
-| 25 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 26 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 27 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 28 | [पुष्प अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
-| 29 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
-| 30 | [1st Test](http://twitter.com/search?q=1st+Test) | N/A |
-| 31 | [पुष्पांजलि अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
-| 32 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 33 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 34 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
-| 35 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 36 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 37 | [भारतीय टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
-| 38 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 39 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 40 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
-| 41 | [#OneBillionCheers](http://twitter.com/search?q=%23OneBillionCheers) | N/A |
-| 42 | [#CheerForTeamMahindra](http://twitter.com/search?q=%23CheerForTeamMahindra) | N/A |
-| 43 | [#FutureIsUP](http://twitter.com/search?q=%23FutureIsUP) | N/A |
-| 44 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
-| 45 | [#Ashwin](http://twitter.com/search?q=%23Ashwin) | N/A |
-| 46 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
-| 47 | [#ModirSatheTripura](http://twitter.com/search?q=%23ModirSatheTripura) | N/A |
-| 48 | [#promiseday](http://twitter.com/search?q=%23promiseday) | N/A |
-| 49 | [#PanIndianJAILER](http://twitter.com/search?q=%23PanIndianJAILER) | N/A |
+| 4 | [#YouthWithDhami](http://twitter.com/search?q=%23YouthWithDhami) | N/A |
+| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 6 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 7 | [PATHAAN 900 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+900+CRORES+WORLDWIDE) | N/A |
+| 8 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 9 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 13 | [BB16 WINNER SHALIN BHANOT](http://twitter.com/search?q=BB16+WINNER+SHALIN+BHANOT) | N/A |
+| 14 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 15 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
+| 16 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 17 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
+| 18 | [Harpic](http://twitter.com/search?q=Harpic) | N/A |
+| 19 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
+| 20 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 21 | [पुष्पांजलि अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
+| 22 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
+| 23 | [UNSTOPPABLE AYESHA SINGH](http://twitter.com/search?q=UNSTOPPABLE+AYESHA+SINGH) | N/A |
+| 24 | [चित्रकूट जेल](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a5%82%e0%a4%9f+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 25 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
+| 26 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 27 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 28 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 29 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 30 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
+| 31 | [पुष्प अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
+| 32 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 33 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
+| 34 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 35 | [1st test](http://twitter.com/search?q=1st+test) | N/A |
+| 36 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 37 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 38 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
+| 39 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 40 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 41 | [#ನಾಡವಿರೋಧಿಸರ್ಕಾರ](http://twitter.com/search?q=%23%e0%b2%a8%e0%b2%be%e0%b2%a1%e0%b2%b5%e0%b2%bf%e0%b2%b0%e0%b3%8b%e0%b2%a7%e0%b2%bf%e0%b2%b8%e0%b2%b0%e0%b3%8d%e0%b2%95%e0%b2%be%e0%b2%b0) | N/A |
+| 42 | [#Antikannadagovt](http://twitter.com/search?q=%23Antikannadagovt) | N/A |
+| 43 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 44 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 45 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
+| 46 | [#FutureIsUP](http://twitter.com/search?q=%23FutureIsUP) | N/A |
+| 47 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
+| 48 | [#PanIndianJAILER](http://twitter.com/search?q=%23PanIndianJAILER) | N/A |
+| 49 | [#promiseday](http://twitter.com/search?q=%23promiseday) | N/A |
 
 
 

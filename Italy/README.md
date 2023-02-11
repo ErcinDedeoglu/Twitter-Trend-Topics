@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-11 12:17:43 UTC`
+📆 Last Updated: `2023-02-11 13:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 1 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
 | 2 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
 | 3 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
 | 4 | [#11febbraio](http://twitter.com/search?q=%2311febbraio) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for Italy
 | 12 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
 | 13 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
 | 14 | [#Foibe](http://twitter.com/search?q=%23Foibe) | N/A |
-| 15 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
-| 16 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
-| 17 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
+| 15 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
+| 16 | [#GiornoDelRicordo](http://twitter.com/search?q=%23GiornoDelRicordo) | N/A |
+| 17 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
 | 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
-| 20 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
+| 19 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
+| 20 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
 | 21 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 22 | [Biagio Antonacci](http://twitter.com/search?q=Biagio+Antonacci) | N/A |
+| 22 | [Horata](http://twitter.com/search?q=Horata) | N/A |
 | 23 | [Destinazione Paradiso](http://twitter.com/search?q=Destinazione+Paradiso) | N/A |
-| 24 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
-| 25 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 26 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 27 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
+| 24 | [Biagio Antonacci](http://twitter.com/search?q=Biagio+Antonacci) | N/A |
+| 25 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 26 | [Madame](http://twitter.com/search?q=Madame) | N/A |
+| 27 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
 | 28 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 29 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
-| 30 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
-| 31 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 29 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 30 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 31 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
 | 32 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 33 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 34 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 35 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
-| 36 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
-| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 38 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 39 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
-| 40 | [Italiana](http://twitter.com/search?q=Italiana) | N/A |
-| 41 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
-| 42 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
-| 43 | [Uscire](http://twitter.com/search?q=Uscire) | N/A |
-| 44 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 45 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 46 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 47 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 48 | [Tom Morello](http://twitter.com/search?q=Tom+Morello) | N/A |
-| 49 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 50 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 33 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
+| 34 | [Francia e Germania](http://twitter.com/search?q=Francia+e+Germania) | N/A |
+| 35 | [Shari](http://twitter.com/search?q=Shari) | N/A |
+| 36 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
+| 37 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
+| 38 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 40 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 41 | [Baustelle](http://twitter.com/search?q=Baustelle) | N/A |
+| 42 | [Ariete e SanGiovanni](http://twitter.com/search?q=Ariete+e+SanGiovanni) | N/A |
+| 43 | [uscire](http://twitter.com/search?q=uscire) | N/A |
+| 44 | [italiana](http://twitter.com/search?q=italiana) | N/A |
+| 45 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 46 | [noemi](http://twitter.com/search?q=noemi) | N/A |
+| 47 | [Cittadella](http://twitter.com/search?q=Cittadella) | N/A |
+| 48 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 49 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 50 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-11 12:16:52 UTC`
+📆 Last Updated: `2023-02-11 13:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
-| 2 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 3 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
-| 6 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 7 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 8 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
+| 1 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 2 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 3 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 4 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 5 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 6 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
 | 9 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 10 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 11 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 12 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 13 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 14 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 15 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 16 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 17 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 18 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
-| 19 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
-| 22 | [Up the Chels](http://twitter.com/search?q=Up+the+Chels) | N/A |
-| 23 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 24 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 25 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
-| 26 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
-| 27 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 28 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 29 | [Alex Jones](http://twitter.com/search?q=Alex+Jones) | N/A |
-| 30 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
-| 31 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 32 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
-| 33 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 34 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 35 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 36 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 37 | [Scotland v Wales](http://twitter.com/search?q=Scotland+v+Wales) | N/A |
-| 38 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
-| 39 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 40 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 41 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 42 | [FA Vase](http://twitter.com/search?q=FA+Vase) | N/A |
-| 43 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 44 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 45 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 10 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 13 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
+| 14 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
+| 15 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 16 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
+| 17 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 18 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 19 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 20 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 21 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
+| 22 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 24 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 25 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 26 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 27 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 28 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 29 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 30 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 31 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 32 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 33 | [Hemp](http://twitter.com/search?q=Hemp) | N/A |
+| 34 | [COME ON YOU IRONS](http://twitter.com/search?q=COME+ON+YOU+IRONS) | N/A |
+| 35 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
+| 36 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 37 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
+| 40 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
+| 41 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 42 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 43 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
+| 44 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 45 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 46 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
+| 47 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 48 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
+| 49 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
 
 
 

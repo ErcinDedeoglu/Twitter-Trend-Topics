@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-11 12:17:19 UTC`
+📆 Last Updated: `2023-02-11 13:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 2 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
-| 3 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 4 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
-| 5 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 1 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
+| 2 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
+| 3 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 5 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
 | 6 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 7 | [Madrigal](http://twitter.com/search?q=Madrigal) | N/A |
-| 8 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 9 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 10 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 11 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
-| 12 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 13 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 14 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 15 | [HAPPY 2M SUBS FRANCINE](http://twitter.com/search?q=HAPPY+2M+SUBS+FRANCINE) | N/A |
-| 16 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 17 | [lee seokmin](http://twitter.com/search?q=lee+seokmin) | N/A |
-| 18 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
-| 19 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
-| 20 | [So-e](http://twitter.com/search?q=So-e) | N/A |
-| 21 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 23 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 24 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
-| 25 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
-| 26 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 27 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 28 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
-| 29 | [#HanteoMusicAwards](http://twitter.com/search?q=%23HanteoMusicAwards) | N/A |
-| 30 | [#드림캐쳐_HMAs_2022](http://twitter.com/search?q=%23%eb%93%9c%eb%a6%bc%ec%ba%90%ec%b3%90_HMAs_2022) | N/A |
-| 31 | [#Dreamcatcher_atHMA2022](http://twitter.com/search?q=%23Dreamcatcher_atHMA2022) | N/A |
-| 32 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
-| 33 | [#TCOBARKADALABYUMORE](http://twitter.com/search?q=%23TCOBARKADALABYUMORE) | N/A |
-| 34 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 35 | [#IVEPromQueens_D1](http://twitter.com/search?q=%23IVEPromQueens_D1) | N/A |
-| 36 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 37 | [#해찬이와시즈니](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%ec%9d%b4%ec%99%80%ec%8b%9c%ec%a6%88%eb%8b%88) | #해찬이와시즈니 is a hashtag used by fans of the South Korean singer and actor Haechan, who is a member of the K-pop group NCT. The hashtag translates to "Haechan and Cisney," which is a combination of Haechan's name and the English word "cisney," which is a portmanteau of "cute" and "Disney." |
-| 38 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
-| 39 | [#FreenBeck](http://twitter.com/search?q=%23FreenBeck) | N/A |
-| 40 | [#환영해아이브첫팬콘](http://twitter.com/search?q=%23%ed%99%98%ec%98%81%ed%95%b4%ec%95%84%ec%9d%b4%eb%b8%8c%ec%b2%ab%ed%8c%ac%ec%bd%98) | N/A |
-| 41 | [#AyYo3rdWin](http://twitter.com/search?q=%23AyYo3rdWin) | N/A |
-| 42 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 43 | [#ALAMATxVivaTours](http://twitter.com/search?q=%23ALAMATxVivaTours) | N/A |
-| 44 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 45 | [#에이요_세번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%ec%84%b8%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
-| 47 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 48 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 49 | [#SantaEarthGalaNightInMANILA](http://twitter.com/search?q=%23SantaEarthGalaNightInMANILA) | N/A |
+| 7 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
+| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 9 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
+| 10 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 11 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 12 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
+| 13 | [NewsToKoYan VIVOREE](http://twitter.com/search?q=NewsToKoYan+VIVOREE) | N/A |
+| 14 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 15 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 16 | [madrigal](http://twitter.com/search?q=madrigal) | N/A |
+| 17 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
+| 18 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 19 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 20 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 21 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 22 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
+| 23 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 24 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
+| 25 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
+| 26 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 27 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 28 | [lee seokmin](http://twitter.com/search?q=lee+seokmin) | N/A |
+| 29 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 30 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
+| 31 | [HAPPY 2M SUBS FRANCINE](http://twitter.com/search?q=HAPPY+2M+SUBS+FRANCINE) | N/A |
+| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 33 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 34 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 35 | [So-e](http://twitter.com/search?q=So-e) | N/A |
+| 36 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
+| 37 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 38 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
+| 39 | [#HanteoMusicAwards](http://twitter.com/search?q=%23HanteoMusicAwards) | N/A |
+| 40 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
+| 41 | [#TCOBARKADALABYUMORE](http://twitter.com/search?q=%23TCOBARKADALABYUMORE) | N/A |
+| 42 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
+| 43 | [#Dreamcatcher_atHMA2022](http://twitter.com/search?q=%23Dreamcatcher_atHMA2022) | N/A |
+| 44 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 45 | [#드림캐쳐_HMAs_2022](http://twitter.com/search?q=%23%eb%93%9c%eb%a6%bc%ec%ba%90%ec%b3%90_HMAs_2022) | N/A |
+| 46 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
+| 47 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 48 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
+| 49 | [#해찬이와시즈니](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%ec%9d%b4%ec%99%80%ec%8b%9c%ec%a6%88%eb%8b%88) | #해찬이와시즈니 is a hashtag used by fans of the South Korean singer and actor Haechan, who is a member of the K-pop group NCT. The hashtag translates to "Haechan and Cisney," which is a combination of Haechan's name and the English word "cisney," which is a portmanteau of "cute" and "Disney." |
 
 
 

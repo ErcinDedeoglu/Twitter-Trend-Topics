@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-11 12:17:44 UTC`
+📆 Last Updated: `2023-02-11 13:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ATEEZinAmsterdam](http://twitter.com/search?q=%23ATEEZinAmsterdam) | N/A |
-| 2 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
-| 3 | [#ATEEZinEUROPE](http://twitter.com/search?q=%23ATEEZinEUROPE) | N/A |
-| 4 | [#azexc](http://twitter.com/search?q=%23azexc) | N/A |
-| 5 | [#tomaat](http://twitter.com/search?q=%23tomaat) | N/A |
+| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 3 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 4 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
+| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 6 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 7 | [Gecondoleerd Martijn](http://twitter.com/search?q=Gecondoleerd+Martijn) | N/A |
-| 8 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 9 | [Oud-minister Hoogervorst](http://twitter.com/search?q=Oud-minister+Hoogervorst) | N/A |
-| 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 12 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 13 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 14 | [Mats](http://twitter.com/search?q=Mats) | N/A |
-| 15 | [Dag 11](http://twitter.com/search?q=Dag+11) | N/A |
-| 16 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 17 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 18 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 21 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 22 | [Anne Frank](http://twitter.com/search?q=Anne+Frank) | N/A |
-| 23 | [Nicol](http://twitter.com/search?q=Nicol) | N/A |
-| 24 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 25 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 26 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 27 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 28 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 29 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 30 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
-| 31 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 32 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 33 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 34 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 35 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 36 | [Peter Gillis](http://twitter.com/search?q=Peter+Gillis) | N/A |
-| 37 | [Water Natuurlijk](http://twitter.com/search?q=Water+Natuurlijk) | N/A |
-| 38 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 39 | [fenny](http://twitter.com/search?q=fenny) | N/A |
-| 40 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 7 | [#tomaat](http://twitter.com/search?q=%23tomaat) | N/A |
+| 8 | [#azexc](http://twitter.com/search?q=%23azexc) | N/A |
+| 9 | [Gecondoleerd Martijn](http://twitter.com/search?q=Gecondoleerd+Martijn) | N/A |
+| 10 | [Oud-minister Hoogervorst](http://twitter.com/search?q=Oud-minister+Hoogervorst) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 13 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 14 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 15 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 16 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 17 | [Dag 11](http://twitter.com/search?q=Dag+11) | N/A |
+| 18 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 19 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 20 | [jolien](http://twitter.com/search?q=jolien) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 23 | [Anne Frank Huis](http://twitter.com/search?q=Anne+Frank+Huis) | N/A |
+| 24 | [nicol](http://twitter.com/search?q=nicol) | N/A |
+| 25 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 28 | [Turken](http://twitter.com/search?q=Turken) | N/A |
+| 29 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 30 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
+| 31 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 32 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 33 | [Mats](http://twitter.com/search?q=Mats) | N/A |
+| 34 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 35 | [leo driessen](http://twitter.com/search?q=leo+driessen) | N/A |
+| 36 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 37 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 38 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 39 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 40 | [Geert](http://twitter.com/search?q=Geert) | N/A |
 | 41 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 42 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 43 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 44 | [Anneke](http://twitter.com/search?q=Anneke) | N/A |
-| 45 | [bernhard](http://twitter.com/search?q=bernhard) | N/A |
-| 46 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
-| 47 | [Ellemeet](http://twitter.com/search?q=Ellemeet) | N/A |
-| 48 | [Onteigenen](http://twitter.com/search?q=Onteigenen) | N/A |
-| 49 | [Glennis Grace](http://twitter.com/search?q=Glennis+Grace) | N/A |
-| 50 | [Moldavië](http://twitter.com/search?q=Moldavi%c3%ab) | N/A |
+| 42 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 43 | [Fenny](http://twitter.com/search?q=Fenny) | N/A |
+| 44 | [Peter Gillis](http://twitter.com/search?q=Peter+Gillis) | N/A |
+| 45 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 46 | [Anneke](http://twitter.com/search?q=Anneke) | N/A |
+| 47 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 48 | [bernhard](http://twitter.com/search?q=bernhard) | N/A |
+| 49 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 50 | [Wooyoung](http://twitter.com/search?q=Wooyoung) | N/A |
 
 
 

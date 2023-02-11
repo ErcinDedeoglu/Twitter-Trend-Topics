@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-11 12:17:03 UTC`
+📆 Last Updated: `2023-02-11 13:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 2 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 3 | [#LGDWID](http://twitter.com/search?q=%23LGDWID) | N/A |
-| 4 | [#yousoftenmewatt](http://twitter.com/search?q=%23yousoftenmewatt) | N/A |
-| 5 | [#EvenHellPoland](http://twitter.com/search?q=%23EvenHellPoland) | N/A |
-| 6 | [#STMRCZ](http://twitter.com/search?q=%23STMRCZ) | N/A |
-| 7 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 8 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 9 | [trybunału konstytucyjnego](http://twitter.com/search?q=trybuna%c5%82u+konstytucyjnego) | N/A |
-| 10 | [morwa](http://twitter.com/search?q=morwa) | N/A |
-| 11 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 2 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 3 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 6 | [#LGDWID](http://twitter.com/search?q=%23LGDWID) | N/A |
+| 7 | [#evenhellpoland](http://twitter.com/search?q=%23evenhellpoland) | N/A |
+| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 9 | [#stmrcz](http://twitter.com/search?q=%23stmrcz) | N/A |
+| 10 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 11 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 12 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 | 13 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
-| 14 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 15 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
-| 16 | [Dziewcząt](http://twitter.com/search?q=Dziewcz%c4%85t) | N/A |
-| 17 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
-| 18 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
+| 14 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 15 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
+| 18 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
 | 19 | [Nauce](http://twitter.com/search?q=Nauce) | N/A |
-| 20 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 21 | [Światowy Dzień Chorego](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Chorego) | N/A |
-| 22 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [junca](http://twitter.com/search?q=junca) | N/A |
-| 25 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
-| 26 | [Fiałek](http://twitter.com/search?q=Fia%c5%82ek) | N/A |
-| 27 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
-| 28 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 29 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
-| 30 | [Międzynarodowy Dzień Kobiet](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Dzie%c5%84+Kobiet) | N/A |
-| 31 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 32 | [Panie Januszu](http://twitter.com/search?q=Panie+Januszu) | N/A |
-| 33 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
-| 34 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
-| 35 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 36 | [Brzezinach](http://twitter.com/search?q=Brzezinach) | N/A |
-| 37 | [Pyzy](http://twitter.com/search?q=Pyzy) | N/A |
-| 38 | [Konfy](http://twitter.com/search?q=Konfy) | N/A |
-| 39 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
-| 40 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 41 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
-| 42 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
-| 43 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 20 | [Dziewcząt](http://twitter.com/search?q=Dziewcz%c4%85t) | N/A |
+| 21 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
+| 22 | [Morwa](http://twitter.com/search?q=Morwa) | N/A |
+| 23 | [Światowy Dzień Chorego](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Chorego) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
+| 26 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 27 | [fiałek](http://twitter.com/search?q=fia%c5%82ek) | N/A |
+| 28 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
+| 29 | [holendrzy](http://twitter.com/search?q=holendrzy) | N/A |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 32 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 33 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
+| 34 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 35 | [Janusz](http://twitter.com/search?q=Janusz) | N/A |
+| 36 | [pyzy](http://twitter.com/search?q=pyzy) | N/A |
+| 37 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 38 | [Radek](http://twitter.com/search?q=Radek) | N/A |
+| 39 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 40 | [Marcin Oleksy](http://twitter.com/search?q=Marcin+Oleksy) | N/A |
+| 41 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
+| 42 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 43 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
 | 44 | [Basha](http://twitter.com/search?q=Basha) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 46 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
-| 47 | [Anżej](http://twitter.com/search?q=An%c5%bcej) | N/A |
-| 48 | [Przyłębskiej](http://twitter.com/search?q=Przy%c5%82%c4%99bskiej) | N/A |
-| 49 | [Kobieta](http://twitter.com/search?q=Kobieta) | N/A |
+| 45 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
+| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 47 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
+| 48 | [Anżej](http://twitter.com/search?q=An%c5%bcej) | N/A |
+| 49 | [Wolnościowców](http://twitter.com/search?q=Wolno%c5%9bciowc%c3%b3w) | N/A |
 
 
 

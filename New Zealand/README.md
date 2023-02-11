@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-11 12:17:45 UTC`
+📆 Last Updated: `2023-02-11 13:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for New Zealand
 | 23 | [Super Smash](http://twitter.com/search?q=Super+Smash) | N/A |
 | 24 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 25 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 26 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 27 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 28 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 29 | [Janet](http://twitter.com/search?q=Janet) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 32 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
-| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 34 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
-| 35 | [Bola](http://twitter.com/search?q=Bola) | N/A |
-| 36 | [Epsom](http://twitter.com/search?q=Epsom) | N/A |
-| 37 | [lincoln russ](http://twitter.com/search?q=lincoln+russ) | N/A |
-| 38 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 39 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 40 | [Luckily](http://twitter.com/search?q=Luckily) | N/A |
-| 41 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 42 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 43 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 26 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 27 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 28 | [Janet](http://twitter.com/search?q=Janet) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 31 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 32 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 33 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
+| 34 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 35 | [Epsom](http://twitter.com/search?q=Epsom) | N/A |
+| 36 | [lincoln russ](http://twitter.com/search?q=lincoln+russ) | N/A |
+| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 38 | [Luckily](http://twitter.com/search?q=Luckily) | N/A |
+| 39 | [Willis](http://twitter.com/search?q=Willis) | N/A |
+| 40 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 41 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 42 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 43 | [Rose](http://twitter.com/search?q=Rose) | N/A |
 | 44 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 45 | [Here in NZ](http://twitter.com/search?q=Here+in+NZ) | N/A |
-| 46 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 47 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
-| 48 | [police ten 7](http://twitter.com/search?q=police+ten+7) | N/A |
-| 49 | [Hawke's Bay](http://twitter.com/search?q=Hawke%27s+Bay) | N/A |
-| 50 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 46 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
+| 47 | [police ten 7](http://twitter.com/search?q=police+ten+7) | N/A |
+| 48 | [hawke's bay](http://twitter.com/search?q=hawke%27s+bay) | N/A |
+| 49 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 50 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
 
 
 

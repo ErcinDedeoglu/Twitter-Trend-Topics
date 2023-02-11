@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-11 12:16:52 UTC`
+📆 Last Updated: `2023-02-11 13:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 2 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
-| 3 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 4 | [#HalfTerm](http://twitter.com/search?q=%23HalfTerm) | N/A |
-| 5 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
-| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 9 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 10 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
-| 11 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 14 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 15 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 16 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 17 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 18 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 19 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 20 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
-| 21 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
-| 24 | [West Ham v Chelsea](http://twitter.com/search?q=West+Ham+v+Chelsea) | N/A |
-| 25 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 26 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 27 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 28 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
-| 29 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
-| 30 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 31 | [Alex Jones](http://twitter.com/search?q=Alex+Jones) | N/A |
-| 32 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
-| 33 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 34 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
-| 35 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 36 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 37 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 38 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 39 | [Scotland v Wales](http://twitter.com/search?q=Scotland+v+Wales) | N/A |
-| 40 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
-| 41 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 42 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 44 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 45 | [FA Vase](http://twitter.com/search?q=FA+Vase) | N/A |
-| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 1 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 2 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 3 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 4 | [#CatsOfTwitter](http://twitter.com/search?q=%23CatsOfTwitter) | N/A |
+| 5 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 6 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 7 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 8 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 9 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 10 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 11 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 12 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
+| 13 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 14 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 15 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 16 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 17 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 19 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 20 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 21 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 24 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 25 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 26 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 27 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
+| 28 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
+| 29 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 30 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 32 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
+| 33 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 34 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 35 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 36 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 37 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 38 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 39 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 40 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 41 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 42 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 43 | [Hemp](http://twitter.com/search?q=Hemp) | N/A |
+| 44 | [COME ON YOU IRONS](http://twitter.com/search?q=COME+ON+YOU+IRONS) | N/A |
+| 45 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
+| 46 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 47 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
 
 
 

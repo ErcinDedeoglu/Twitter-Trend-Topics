@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-11 12:17:33 UTC`
+📆 Last Updated: `2023-02-11 13:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 2 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
-| 5 | [20 ETH](http://twitter.com/search?q=20+ETH) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 8 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 9 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
-| 10 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 11 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 12 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 13 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 14 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 15 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 16 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 17 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 18 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 19 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 20 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 21 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 22 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 23 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 24 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 26 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 27 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 28 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 29 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 30 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
-| 31 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
-| 32 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
-| 33 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
-| 34 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
-| 35 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
-| 36 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 37 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
-| 38 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 39 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
-| 40 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
-| 41 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 42 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 43 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 44 | [#mutantfam](http://twitter.com/search?q=%23mutantfam) | N/A |
-| 45 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 46 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
-| 47 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 48 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 49 | [#MoonGirlAndDevilDinosaur](http://twitter.com/search?q=%23MoonGirlAndDevilDinosaur) | N/A |
+| 1 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 2 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 3 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 4 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
+| 5 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
+| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 11 | [20 ETH](http://twitter.com/search?q=20+ETH) | N/A |
+| 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 13 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 14 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 15 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 16 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 17 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 18 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 19 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 20 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 21 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 22 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 23 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 24 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 25 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 26 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 27 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 28 | [Roseanne Barr](http://twitter.com/search?q=Roseanne+Barr) | N/A |
+| 29 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 30 | [endure and survive](http://twitter.com/search?q=endure+and+survive) | N/A |
+| 31 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 32 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 33 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 34 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 35 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 36 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 37 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 38 | [#ChelseaFC](http://twitter.com/search?q=%23ChelseaFC) | N/A |
+| 39 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
+| 40 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
+| 41 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
+| 42 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
+| 43 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
+| 44 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
+| 45 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
+| 46 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
+| 47 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
+| 48 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
+| 49 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 
 
 

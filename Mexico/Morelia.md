@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-11 12:16:56 UTC`
+📆 Last Updated: `2023-02-11 13:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#salariorosaesunarealidad](http://twitter.com/search?q=%23salariorosaesunarealidad) | N/A |
-| 3 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 4 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 5 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 6 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 7 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 8 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 11 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 12 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 13 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 14 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 15 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 17 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 18 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 19 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 4 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 5 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 7 | [yuridia](http://twitter.com/search?q=yuridia) | N/A |
+| 8 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 9 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 10 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 12 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 13 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
+| 14 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 15 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 16 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 17 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 19 | [Canel](http://twitter.com/search?q=Canel) | N/A |
 | 20 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 21 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 23 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 24 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 25 | [ferral](http://twitter.com/search?q=ferral) | N/A |
-| 26 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 27 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 28 | [Henry y Sam](http://twitter.com/search?q=Henry+y+Sam) | N/A |
-| 29 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 30 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
-| 31 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 21 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 24 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 25 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 26 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 27 | [ferral](http://twitter.com/search?q=ferral) | N/A |
+| 28 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 29 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 30 | [Henry y Sam](http://twitter.com/search?q=Henry+y+Sam) | N/A |
+| 31 | [un año wow](http://twitter.com/search?q=un+a%c3%b1o+wow) | N/A |
 | 32 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 33 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 34 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 35 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 36 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 37 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 38 | [malas decisiones](http://twitter.com/search?q=malas+decisiones) | N/A |
-| 39 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 33 | [paty chapoy](http://twitter.com/search?q=paty+chapoy) | N/A |
+| 34 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 35 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 36 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
+| 37 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 38 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 | 40 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 41 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 42 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 41 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 42 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
 | 43 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
-| 44 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 44 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 45 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 46 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 47 | [carmelina](http://twitter.com/search?q=carmelina) | N/A |
+| 46 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 47 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
 
 
 

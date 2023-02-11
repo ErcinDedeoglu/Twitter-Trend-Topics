@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-11 12:17:10 UTC`
+📆 Last Updated: `2023-02-11 13:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giske](http://twitter.com/search?q=Giske) | N/A |
-| 2 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 3 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
-| 4 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 5 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
-| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
-| 13 | [Barth Eide](http://twitter.com/search?q=Barth+Eide) | N/A |
-| 14 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
-| 15 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 16 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 17 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
-| 18 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
-| 19 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 20 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 21 | [Alta](http://twitter.com/search?q=Alta) | N/A |
-| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 23 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 24 | [takker](http://twitter.com/search?q=takker) | N/A |
-| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 27 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 28 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 29 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
-| 30 | [hovland](http://twitter.com/search?q=hovland) | N/A |
-| 31 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 32 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 33 | [Putler](http://twitter.com/search?q=Putler) | N/A |
-| 34 | [Jens Stoltenberg](http://twitter.com/search?q=Jens+Stoltenberg) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 40 | [Lite](http://twitter.com/search?q=Lite) | N/A |
-| 41 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Evenes](http://twitter.com/search?q=Evenes) | N/A |
-| 44 | [Kari](http://twitter.com/search?q=Kari) | N/A |
-| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 46 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
-| 47 | [vinmonopolet](http://twitter.com/search?q=vinmonopolet) | N/A |
-| 48 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 1 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Giske](http://twitter.com/search?q=Giske) | N/A |
+| 5 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 8 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 9 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
+| 10 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
+| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 13 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 14 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 15 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
+| 16 | [barth eide](http://twitter.com/search?q=barth+eide) | N/A |
+| 17 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
+| 18 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 19 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 20 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 21 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
+| 22 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 24 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 25 | [Alta](http://twitter.com/search?q=Alta) | N/A |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Velkommen](http://twitter.com/search?q=Velkommen) | N/A |
+| 28 | [takker](http://twitter.com/search?q=takker) | N/A |
+| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 30 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 31 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 32 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 33 | [hovland](http://twitter.com/search?q=hovland) | N/A |
+| 34 | [Absolutt](http://twitter.com/search?q=Absolutt) | N/A |
+| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 36 | [brann](http://twitter.com/search?q=brann) | N/A |
+| 37 | [Putler](http://twitter.com/search?q=Putler) | N/A |
+| 38 | [jens stoltenberg](http://twitter.com/search?q=jens+stoltenberg) | N/A |
+| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 40 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 42 | [Lite](http://twitter.com/search?q=Lite) | N/A |
+| 43 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 44 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
+| 45 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 46 | [Evenes](http://twitter.com/search?q=Evenes) | N/A |
+| 47 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 48 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 
 
 
