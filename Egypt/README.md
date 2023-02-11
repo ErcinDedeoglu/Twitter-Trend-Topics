@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-02-11 18:17:10 UTC`
+📆 Last Updated: `2023-02-11 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,51 @@ This is top 50 for Egypt
 | 3 | [#الاهلي_فلامنجو](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%81%d9%84%d8%a7%d9%85%d9%86%d8%ac%d9%88) | N/A |
 | 4 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 5 | [معلول](http://twitter.com/search?q=%d9%85%d8%b9%d9%84%d9%88%d9%84) | N/A |
-| 6 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 7 | [يابن اللعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
-| 8 | [خالد عبد الفتاح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
+| 6 | [خالد عبد الفتاح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
+| 7 | [رابع العالم](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 8 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
 | 9 | [فتحي حمدي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d8%ad%d9%85%d8%af%d9%8a) | N/A |
 | 10 | [مصطفى غربال](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
-| 11 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 12 | [فيدال](http://twitter.com/search?q=%d9%81%d9%8a%d8%af%d8%a7%d9%84) | N/A |
-| 13 | [امير توفيق](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
-| 14 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
-| 15 | [الخطيب](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 16 | [محمد رغيف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%ba%d9%8a%d9%81) | N/A |
-| 17 | [رابع العالم](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 18 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 19 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
-| 20 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 21 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 22 | [ديانج](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d9%86%d8%ac) | N/A |
-| 23 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 24 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 25 | [فريقي المفضل](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
-| 26 | [مروان عطية](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d8%a9) | N/A |
-| 27 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 28 | [مركز رابع](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 29 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 30 | [امريكا الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 31 | [مستر كولر](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d9%88%d9%84%d8%b1) | N/A |
-| 32 | [ابن ستين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b3%d8%aa%d9%8a%d9%86) | N/A |
-| 33 | [لاعبي الاهلي](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 34 | [بره النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 35 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 36 | [الميداليه البرونزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d9%87) | N/A |
-| 37 | [تاريخ الاهلي](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 38 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 39 | [المركز التالت](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d8%aa) | N/A |
-| 40 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 43 | [صانع العاب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8) | N/A |
+| 11 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 12 | [محمد رغيف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%ba%d9%8a%d9%81) | N/A |
+| 13 | [الاخطاء الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
+| 14 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 15 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
+| 16 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 17 | [امير توفيق](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
+| 18 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
+| 19 | [يابن اللاعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
+| 20 | [فيدال](http://twitter.com/search?q=%d9%81%d9%8a%d8%af%d8%a7%d9%84) | N/A |
+| 21 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
+| 22 | [علي كولر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 23 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 24 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
+| 25 | [برا النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
+| 26 | [فريقي المفضل](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
+| 27 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 28 | [كوره شريف](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 29 | [مستر كولر](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 30 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 31 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
+| 32 | [ديانج](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d9%86%d8%ac) | N/A |
+| 33 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 34 | [علي الاهلي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 35 | [علي الاداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 36 | [مركز رابع](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 37 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 38 | [لاعبي الاهلي](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 39 | [المدير الفني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 40 | [علي الحلوه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 41 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 42 | [امريكا الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 43 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 44 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 45 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 46 | [فوز الريال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | N/A |
-| 47 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
-| 48 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 45 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 46 | [الهلال السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
+| 47 | [ابن ستين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b3%d8%aa%d9%8a%d9%86) | N/A |
+| 48 | [الفرص الضايعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b5+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9%d9%87) | N/A |
+| 49 | [علي الفريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82) | N/A |
+| 50 | [المركز التالت](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d8%aa) | N/A |
 
 
 

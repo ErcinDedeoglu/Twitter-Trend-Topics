@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-11 18:16:33 UTC`
+📆 Last Updated: `2023-02-11 19:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 2 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 1 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
+| 2 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
-| 8 | [#sanremo23](http://twitter.com/search?q=%23sanremo23) | N/A |
+| 4 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
+| 7 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 10 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
 | 11 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 12 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 12 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
 | 13 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 15 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 16 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 17 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 18 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 19 | [Serie](http://twitter.com/search?q=Serie) | N/A |
 | 20 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
-| 21 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 22 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 23 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 27 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 28 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 29 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 30 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 31 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 32 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 36 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 37 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 38 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 39 | [Erinnert](http://twitter.com/search?q=Erinnert) | N/A |
-| 40 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
-| 41 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 42 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 43 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 44 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 45 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 46 | [Hals](http://twitter.com/search?q=Hals) | N/A |
-| 47 | [Ausland](http://twitter.com/search?q=Ausland) | N/A |
+| 21 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 24 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 25 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 26 | [Reich](http://twitter.com/search?q=Reich) | N/A |
+| 27 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 28 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 29 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 31 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 32 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 33 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 34 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 35 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
+| 36 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 37 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
+| 38 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 39 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 41 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 42 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 44 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 45 | [Hals](http://twitter.com/search?q=Hals) | N/A |
+| 46 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 47 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-11 18:16:11 UTC`
+📆 Last Updated: `2023-02-11 19:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 2 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 3 | [Tella](http://twitter.com/search?q=Tella) | Tella is a slang term used to describe someone who is very talkative or chatty. It is derived from the Spanish word “tella” which means “to talk”. |
-| 4 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 5 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 6 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
-| 7 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 8 | [#SCOvWAL](http://twitter.com/search?q=%23SCOvWAL) | N/A |
-| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [#IREvFRA](http://twitter.com/search?q=%23IREvFRA) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
-| 13 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 14 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 19 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 20 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
-| 26 | [Dyer](http://twitter.com/search?q=Dyer) | N/A |
-| 27 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 30 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
-| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 32 | [Joao Gomes](http://twitter.com/search?q=Joao+Gomes) | N/A |
-| 33 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 34 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 35 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 36 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 3 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 4 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 5 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 6 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 7 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
+| 8 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
+| 9 | [Patrick Roberts](http://twitter.com/search?q=Patrick+Roberts) | N/A |
+| 10 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 11 | [#SCOvWAL](http://twitter.com/search?q=%23SCOvWAL) | N/A |
+| 12 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
+| 13 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 15 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 16 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 17 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 22 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
+| 23 | [Dyer](http://twitter.com/search?q=Dyer) | N/A |
+| 24 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 26 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 29 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 32 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 33 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 34 | [Gatland](http://twitter.com/search?q=Gatland) | N/A |
+| 35 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 36 | [Joao Gomes](http://twitter.com/search?q=Joao+Gomes) | N/A |
 | 37 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 38 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 39 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
-| 40 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 41 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 42 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 43 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 44 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 45 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 46 | [George North](http://twitter.com/search?q=George+North) | N/A |
-| 47 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 49 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 50 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 38 | [Biggar](http://twitter.com/search?q=Biggar) | N/A |
+| 39 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 40 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
+| 41 | [Pivac](http://twitter.com/search?q=Pivac) | N/A |
+| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 44 | [Dobra](http://twitter.com/search?q=Dobra) | N/A |
+| 45 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 46 | [Green Brigade](http://twitter.com/search?q=Green+Brigade) | N/A |
+| 47 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 49 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 50 | [George North](http://twitter.com/search?q=George+North) | N/A |
 
 
 

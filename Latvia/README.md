@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-11 18:17:12 UTC`
+📆 Last Updated: `2023-02-11 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,50 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ltvsupernova](http://twitter.com/search?q=%23ltvsupernova) | N/A |
-| 2 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 3 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
-| 4 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
-| 5 | [darba](http://twitter.com/search?q=darba) | N/A |
-| 6 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 7 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 2 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 3 | [Lāčplēša](http://twitter.com/search?q=L%c4%81%c4%8dpl%c4%93%c5%a1a) | N/A |
+| 4 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 5 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 6 | [kučinskis](http://twitter.com/search?q=ku%c4%8dinskis) | N/A |
+| 7 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 9 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 10 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
-| 11 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 12 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 13 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
-| 14 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 15 | [turcija](http://twitter.com/search?q=turcija) | N/A |
-| 16 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 17 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 18 | [eiropas](http://twitter.com/search?q=eiropas) | N/A |
-| 19 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 20 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
-| 21 | [Francijas](http://twitter.com/search?q=Francijas) | N/A |
-| 22 | [Igaunijas](http://twitter.com/search?q=Igaunijas) | N/A |
-| 23 | [gribu](http://twitter.com/search?q=gribu) | N/A |
-| 24 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
-| 25 | [#latvia](http://twitter.com/search?q=%23latvia) | N/A |
+| 10 | [rail baltica](http://twitter.com/search?q=rail+baltica) | N/A |
+| 11 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 12 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 13 | [Darba](http://twitter.com/search?q=Darba) | N/A |
+| 14 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 15 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 16 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
+| 17 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 18 | [Francijas](http://twitter.com/search?q=Francijas) | N/A |
+| 19 | [Igaunijas](http://twitter.com/search?q=Igaunijas) | N/A |
+| 20 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 21 | [gribu](http://twitter.com/search?q=gribu) | N/A |
+| 22 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 23 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 24 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 25 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
 | 26 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 27 | [nesen](http://twitter.com/search?q=nesen) | N/A |
-| 28 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 29 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 30 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 31 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 32 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 33 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 34 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
-| 35 | [grūti](http://twitter.com/search?q=gr%c5%abti) | N/A |
-| 36 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 38 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 39 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 40 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
-| 41 | [lielbritānijas](http://twitter.com/search?q=lielbrit%c4%81nijas) | N/A |
-| 42 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 43 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | ["Vairāk"](http://twitter.com/search?q=%22Vair%c4%81k%22) | N/A |
-| 46 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 47 | [briselē](http://twitter.com/search?q=brisel%c4%93) | N/A |
-| 48 | [Ja Tu](http://twitter.com/search?q=Ja+Tu) | N/A |
-| 49 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
-| 50 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
+| 27 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 28 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 29 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
+| 30 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 31 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 32 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 33 | [Grūti](http://twitter.com/search?q=Gr%c5%abti) | N/A |
+| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 35 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 36 | [lielbritānijas](http://twitter.com/search?q=lielbrit%c4%81nijas) | N/A |
+| 37 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
+| 38 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 39 | [Turcijā](http://twitter.com/search?q=Turcij%c4%81) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 42 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 43 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 44 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
+| 45 | [Depo](http://twitter.com/search?q=Depo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-11 18:16:57 UTC`
+📆 Last Updated: `2023-02-11 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
-| 2 | [#yurtlar](http://twitter.com/search?q=%23yurtlar) | N/A |
-| 3 | [#DonateToTurkey](http://twitter.com/search?q=%23DonateToTurkey) | N/A |
-| 4 | [#ueniversitemedokunma](http://twitter.com/search?q=%23ueniversitemedokunma) | N/A |
-| 5 | [#yapmayın](http://twitter.com/search?q=%23yapmay%c4%b1n) | N/A |
-| 6 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 7 | [Necati](http://twitter.com/search?q=Necati) | N/A |
-| 8 | [Hasan Alpargün](http://twitter.com/search?q=Hasan+Alparg%c3%bcn) | N/A |
-| 9 | [Hedil](http://twitter.com/search?q=Hedil) | N/A |
-| 10 | [Asmolen](http://twitter.com/search?q=Asmolen) | N/A |
-| 11 | [Selçuk Yaşar](http://twitter.com/search?q=Sel%c3%a7uk+Ya%c5%9far) | N/A |
-| 12 | [Kemer](http://twitter.com/search?q=Kemer) | N/A |
-| 13 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 14 | [Hatay Soruşturma](http://twitter.com/search?q=Hatay+Soru%c5%9fturma) | N/A |
-| 15 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
-| 16 | [Delil](http://twitter.com/search?q=Delil) | N/A |
-| 17 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
-| 18 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 19 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 20 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 21 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
-| 22 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 23 | [Iris](http://twitter.com/search?q=Iris) | N/A |
-| 24 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 25 | [Saray](http://twitter.com/search?q=Saray) | N/A |
-| 26 | [İstanbulİçin YapıDenetimi](http://twitter.com/search?q=%c4%b0stanbul%c4%b0%c3%a7in+Yap%c4%b1Denetimi) | N/A |
-| 27 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
-| 28 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 29 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 30 | [Binali](http://twitter.com/search?q=Binali) | N/A |
-| 31 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
-| 32 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 33 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 34 | [Turizm](http://twitter.com/search?q=Turizm) | N/A |
-| 35 | [Süre](http://twitter.com/search?q=S%c3%bcre) | N/A |
-| 36 | [Tügva](http://twitter.com/search?q=T%c3%bcgva) | N/A |
-| 37 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 38 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 39 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 40 | [Pandemide](http://twitter.com/search?q=Pandemide) | N/A |
-| 41 | [Sağlık Bakanı Koca](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k+Bakan%c4%b1+Koca) | N/A |
-| 42 | [Şengül](http://twitter.com/search?q=%c5%9eeng%c3%bcl) | N/A |
-| 43 | [Gizli Kahramanlar](http://twitter.com/search?q=Gizli+Kahramanlar) | N/A |
-| 44 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 45 | [Erzin](http://twitter.com/search?q=Erzin) | N/A |
-| 46 | [15 Şubat](http://twitter.com/search?q=15+%c5%9eubat) | N/A |
-| 47 | [Rönesans Rezidans](http://twitter.com/search?q=R%c3%b6nesans+Rezidans) | N/A |
-| 48 | [Barzani](http://twitter.com/search?q=Barzani) | N/A |
-| 49 | [Avusturya](http://twitter.com/search?q=Avusturya) | N/A |
-| 50 | [Ökkeş Elmasoğlu](http://twitter.com/search?q=%c3%96kke%c5%9f+Elmaso%c4%9flu) | N/A |
+| 1 | [#TürkiyeİçinİyilikVakti](http://twitter.com/search?q=%23T%c3%bcrkiye%c4%b0%c3%a7in%c4%b0yilikVakti) | N/A |
+| 2 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
+| 3 | [#yurtlar](http://twitter.com/search?q=%23yurtlar) | N/A |
+| 4 | [#yapmayın](http://twitter.com/search?q=%23yapmay%c4%b1n) | N/A |
+| 5 | [#DonateToTurkey](http://twitter.com/search?q=%23DonateToTurkey) | N/A |
+| 6 | [MobilTuvalet HijyenÜrünleri](http://twitter.com/search?q=MobilTuvalet+Hijyen%c3%9cr%c3%bcnleri) | N/A |
+| 7 | [PişikKremi BebekBezi](http://twitter.com/search?q=Pi%c5%9fikKremi+BebekBezi) | N/A |
+| 8 | [Türkcell Boykot](http://twitter.com/search?q=T%c3%bcrkcell+Boykot) | N/A |
+| 9 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 10 | [Necati](http://twitter.com/search?q=Necati) | N/A |
+| 11 | [Abdülkerim](http://twitter.com/search?q=Abd%c3%bclkerim) | Abdülkerim is a Turkish name, derived from the Arabic name Abdul Karim. It means "servant of the Generous One". |
+| 12 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 13 | [Trafik](http://twitter.com/search?q=Trafik) | N/A |
+| 14 | [Hasan Alpargün](http://twitter.com/search?q=Hasan+Alparg%c3%bcn) | N/A |
+| 15 | [DepremBölgelerine Astımİlacı](http://twitter.com/search?q=DepremB%c3%b6lgelerine+Ast%c4%b1m%c4%b0lac%c4%b1) | N/A |
+| 16 | [Kemer](http://twitter.com/search?q=Kemer) | N/A |
+| 17 | [Selçuk Yaşar](http://twitter.com/search?q=Sel%c3%a7uk+Ya%c5%9far) | N/A |
+| 18 | [Asmolen](http://twitter.com/search?q=Asmolen) | N/A |
+| 19 | [PROVOKATÖR OĞUZHAN](http://twitter.com/search?q=PROVOKAT%c3%96R+O%c4%9eUZHAN) | N/A |
+| 20 | [Delilleri](http://twitter.com/search?q=Delilleri) | N/A |
+| 21 | [Yıkmışlar](http://twitter.com/search?q=Y%c4%b1km%c4%b1%c5%9flar) | N/A |
+| 22 | [Saray](http://twitter.com/search?q=Saray) | N/A |
+| 23 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 24 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
+| 25 | [Ökkeş Elmasoğlu](http://twitter.com/search?q=%c3%96kke%c5%9f+Elmaso%c4%9flu) | N/A |
+| 26 | [Hatay Soruşturma](http://twitter.com/search?q=Hatay+Soru%c5%9fturma) | N/A |
+| 27 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
+| 28 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 29 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 30 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 31 | [Hedil](http://twitter.com/search?q=Hedil) | N/A |
+| 32 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 33 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 34 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 35 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
+| 36 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 37 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 38 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 39 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 40 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 41 | [İstanbulİçin YapıDenetimi](http://twitter.com/search?q=%c4%b0stanbul%c4%b0%c3%a7in+Yap%c4%b1Denetimi) | N/A |
+| 42 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 43 | [Tencere](http://twitter.com/search?q=Tencere) | N/A |
+| 44 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
+| 45 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 46 | [Uygulamalı](http://twitter.com/search?q=Uygulamal%c4%b1) | N/A |
+| 47 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 48 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 49 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 50 | [Beşir Derneği](http://twitter.com/search?q=Be%c5%9fir+Derne%c4%9fi) | N/A |
 
 
 

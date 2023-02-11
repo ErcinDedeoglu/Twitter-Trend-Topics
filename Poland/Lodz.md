@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-11 18:16:25 UTC`
+📆 Last Updated: `2023-02-11 19:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [#WPŁLPO](http://twitter.com/search?q=%23WP%c5%81LPO) | N/A |
-| 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 4 | [Andreas Wellinger](http://twitter.com/search?q=Andreas+Wellinger) | N/A |
+| 1 | [#WPŁLPO](http://twitter.com/search?q=%23WP%c5%81LPO) | N/A |
+| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 4 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 5 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 6 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
-| 9 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 10 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
-| 11 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 12 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 13 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
-| 14 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 6 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 7 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
+| 8 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 9 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
+| 10 | [Andreas Wellinger](http://twitter.com/search?q=Andreas+Wellinger) | N/A |
+| 11 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 12 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 13 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 14 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
 | 15 | [Murawski](http://twitter.com/search?q=Murawski) | N/A |
-| 16 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
-| 17 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 18 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 19 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 20 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 21 | [Czerwiński](http://twitter.com/search?q=Czerwi%c5%84ski) | N/A |
-| 22 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 24 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 25 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 26 | [Graneruda](http://twitter.com/search?q=Graneruda) | N/A |
-| 27 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 28 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 29 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 30 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 31 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 32 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 33 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
-| 34 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
-| 35 | [Morwa](http://twitter.com/search?q=Morwa) | N/A |
-| 36 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
-| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 38 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 39 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
-| 40 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
-| 41 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
-| 42 | [Nauce](http://twitter.com/search?q=Nauce) | N/A |
-| 43 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 44 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 45 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 46 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 47 | [Dziewcząt](http://twitter.com/search?q=Dziewcz%c4%85t) | N/A |
-| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 49 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 16 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Czerwiński](http://twitter.com/search?q=Czerwi%c5%84ski) | N/A |
+| 19 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 20 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 21 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 22 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 23 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 24 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 25 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 26 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 27 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 28 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 29 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
+| 30 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 33 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 34 | [Nauce](http://twitter.com/search?q=Nauce) | N/A |
+| 35 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
+| 36 | [Morwa](http://twitter.com/search?q=Morwa) | N/A |
+| 37 | [Dziewcząt](http://twitter.com/search?q=Dziewcz%c4%85t) | N/A |
+| 38 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 39 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 40 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
+| 41 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 42 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
+| 43 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 44 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 45 | [Światowy Dzień Chorego](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Chorego) | N/A |
+| 46 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 47 | [zawiasy](http://twitter.com/search?q=zawiasy) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Korony](http://twitter.com/search?q=Korony) | N/A |
 
 
 
