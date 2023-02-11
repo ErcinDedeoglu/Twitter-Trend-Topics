@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-02-11 09:16:51 UTC`
+📆 Last Updated: `2023-02-11 10:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
-| 3 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 4 | [#Ashwin](http://twitter.com/search?q=%23Ashwin) | N/A |
-| 5 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
+| 1 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [#CheerForTeamMahindra](http://twitter.com/search?q=%23CheerForTeamMahindra) | N/A |
+| 4 | [#FutureIsUP](http://twitter.com/search?q=%23FutureIsUP) | N/A |
+| 5 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 6 | [#OneBillionCheers](http://twitter.com/search?q=%23OneBillionCheers) | N/A |
-| 7 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 8 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 9 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
-| 10 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 7 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
+| 8 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 9 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 10 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
 | 11 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 13 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 12 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 13 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
 | 14 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 15 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
-| 16 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 17 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 18 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 19 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
-| 20 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 21 | [UNSTOPPABLE AYESHA SINGH](http://twitter.com/search?q=UNSTOPPABLE+AYESHA+SINGH) | N/A |
-| 22 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 23 | [10 Pro 5G Coca Cola](http://twitter.com/search?q=10+Pro+5G+Coca+Cola) | N/A |
-| 24 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 25 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
-| 26 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 27 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
-| 28 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
-| 29 | [1st Test](http://twitter.com/search?q=1st+Test) | N/A |
+| 15 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 16 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
+| 17 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
+| 18 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
+| 19 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 20 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 21 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 22 | [UNSTOPPABLE AYESHA SINGH](http://twitter.com/search?q=UNSTOPPABLE+AYESHA+SINGH) | N/A |
+| 23 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
+| 24 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 25 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 26 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 27 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
+| 28 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 29 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
 | 30 | [Fifer](http://twitter.com/search?q=Fifer) | N/A |
-| 31 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 32 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 33 | [DrJaishankar](http://twitter.com/search?q=DrJaishankar) | N/A |
-| 34 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 35 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 36 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
-| 37 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 38 | [पुष्पांजलि अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
-| 39 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 40 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
-| 42 | [अली अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%80+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 43 | [संथाल विद्रोह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a5%e0%a4%be%e0%a4%b2+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%b9) | N/A |
-| 44 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 45 | [#CheersToRealLove](http://twitter.com/search?q=%23CheersToRealLove) | N/A |
-| 46 | [#CheerForTeamMahindra](http://twitter.com/search?q=%23CheerForTeamMahindra) | N/A |
-| 47 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 48 | [#FutureIsUP](http://twitter.com/search?q=%23FutureIsUP) | N/A |
-| 49 | [#MyIncredibleIndia](http://twitter.com/search?q=%23MyIncredibleIndia) | N/A |
-| 50 | [#promiseday](http://twitter.com/search?q=%23promiseday) | N/A |
+| 31 | [1st Test](http://twitter.com/search?q=1st+Test) | N/A |
+| 32 | [पुष्पांजलि अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
+| 33 | [Uttar Pradesh](http://twitter.com/search?q=Uttar+Pradesh) | N/A |
+| 34 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
+| 35 | [DrJaishankar](http://twitter.com/search?q=DrJaishankar) | N/A |
+| 36 | [चित्रकूट जेल](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a5%82%e0%a4%9f+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 37 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
+| 38 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 39 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 40 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 41 | [#Ashwin](http://twitter.com/search?q=%23Ashwin) | N/A |
+| 42 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
+| 43 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 44 | [#CheersToRealLove](http://twitter.com/search?q=%23CheersToRealLove) | N/A |
+| 45 | [#MyIncredibleIndia](http://twitter.com/search?q=%23MyIncredibleIndia) | N/A |
+| 46 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
+| 47 | [#promiseday](http://twitter.com/search?q=%23promiseday) | N/A |
+| 48 | [#आरक्षण_बचाने_भोपाल_चलो](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%a8%e0%a5%87_%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2_%e0%a4%9a%e0%a4%b2%e0%a5%8b) | N/A |
+| 49 | [#AskKapil](http://twitter.com/search?q=%23AskKapil) | N/A |
+| 50 | [#ModirSatheTripura](http://twitter.com/search?q=%23ModirSatheTripura) | N/A |
 
 
 

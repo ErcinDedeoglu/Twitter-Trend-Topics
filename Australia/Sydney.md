@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-02-11 09:16:32 UTC`
+📆 Last Updated: `2023-02-11 10:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 2 | [#SydneyDerby](http://twitter.com/search?q=%23SydneyDerby) | N/A |
 | 3 | [#WSWvSYD](http://twitter.com/search?q=%23WSWvSYD) | N/A |
-| 4 | [#WUNvADL](http://twitter.com/search?q=%23WUNvADL) | N/A |
-| 5 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
+| 4 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
+| 5 | [Langer](http://twitter.com/search?q=Langer) | N/A |
 | 6 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
 | 7 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 8 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 8 | [#NRLPanthersEels](http://twitter.com/search?q=%23NRLPanthersEels) | N/A |
 | 9 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 10 | [Max Burgess](http://twitter.com/search?q=Max+Burgess) | N/A |
-| 11 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 12 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 13 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 14 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
-| 15 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
-| 16 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
-| 17 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 18 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 19 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 20 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 21 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 22 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 23 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
-| 24 | [Jacquinot](http://twitter.com/search?q=Jacquinot) | N/A |
-| 25 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 26 | [Lofty Strike](http://twitter.com/search?q=Lofty+Strike) | N/A |
-| 27 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 28 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 29 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 30 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 31 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 32 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 33 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
-| 34 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
-| 35 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 36 | [Nagpur](http://twitter.com/search?q=Nagpur) | N/A |
-| 37 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 38 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 39 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
-| 40 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
-| 41 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
-| 42 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 43 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 44 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 45 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
-| 46 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
+| 10 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 11 | [Max Burgess](http://twitter.com/search?q=Max+Burgess) | N/A |
+| 12 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 13 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 14 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 15 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 16 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
+| 17 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 18 | [Dragons](http://twitter.com/search?q=Dragons) | N/A |
+| 19 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 20 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 21 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 22 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
+| 23 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 24 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 25 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
+| 26 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 27 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 28 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 29 | [Lofty Strike](http://twitter.com/search?q=Lofty+Strike) | N/A |
+| 30 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 31 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 32 | [Jacquinot](http://twitter.com/search?q=Jacquinot) | N/A |
+| 33 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 34 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 35 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 36 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
+| 37 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
+| 38 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 39 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 40 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
+| 41 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 42 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
+| 43 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
+| 44 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
+| 45 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
+| 46 | [charm stone](http://twitter.com/search?q=charm+stone) | N/A |
 | 47 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
 | 48 | [Rich Fortune](http://twitter.com/search?q=Rich+Fortune) | N/A |
-| 49 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 49 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
 | 50 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-02-11 09:16:22 UTC`
+📆 Last Updated: `2023-02-11 10:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VictoiresDeLaMusique](http://twitter.com/search?q=%23VictoiresDeLaMusique) | N/A |
-| 2 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
-| 3 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
-| 4 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
-| 5 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
-| 6 | [Thomas Portes](http://twitter.com/search?q=Thomas+Portes) | N/A |
-| 7 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 8 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
+| 1 | [#manif11fevrier](http://twitter.com/search?q=%23manif11fevrier) | N/A |
+| 2 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 3 | [#VictoiresDeLaMusique](http://twitter.com/search?q=%23VictoiresDeLaMusique) | N/A |
+| 4 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 5 | [CROUS](http://twitter.com/search?q=CROUS) | N/A |
+| 6 | [Portes](http://twitter.com/search?q=Portes) | N/A |
+| 7 | [Tiakola](http://twitter.com/search?q=Tiakola) | N/A |
+| 8 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
 | 9 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 10 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 10 | [Robert Hébras](http://twitter.com/search?q=Robert+H%c3%a9bras) | N/A |
 | 11 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 12 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 13 | [Serge Lama](http://twitter.com/search?q=Serge+Lama) | N/A |
-| 14 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 15 | [Notre Dame de Lourdes](http://twitter.com/search?q=Notre+Dame+de+Lourdes) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Halazia](http://twitter.com/search?q=Halazia) | N/A |
-| 18 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 19 | [L'épisode 5](http://twitter.com/search?q=L%27%c3%a9pisode+5) | N/A |
-| 20 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 21 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
-| 22 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 23 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 24 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 25 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
-| 26 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 12 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 13 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 14 | [Serge Lama](http://twitter.com/search?q=Serge+Lama) | N/A |
+| 15 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 16 | [Halazia](http://twitter.com/search?q=Halazia) | N/A |
+| 17 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 18 | [Notre Dame de Lourdes](http://twitter.com/search?q=Notre+Dame+de+Lourdes) | N/A |
+| 19 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 20 | [Paul François](http://twitter.com/search?q=Paul+Fran%c3%a7ois) | N/A |
+| 21 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
+| 22 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
+| 23 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 24 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 25 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 26 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
 | 27 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 28 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
 | 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 31 | [Panot](http://twitter.com/search?q=Panot) | N/A |
-| 32 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 33 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 34 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 35 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 36 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 37 | [Fariba Adelkhah](http://twitter.com/search?q=Fariba+Adelkhah) | N/A |
-| 38 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 39 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
-| 40 | [Leca](http://twitter.com/search?q=Leca) | N/A |
-| 41 | [Xavier Bertrand](http://twitter.com/search?q=Xavier+Bertrand) | N/A |
-| 42 | [Bonjour Isabelle](http://twitter.com/search?q=Bonjour+Isabelle) | N/A |
-| 43 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
-| 44 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 45 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 46 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 30 | [Fariba Adelkhah](http://twitter.com/search?q=Fariba+Adelkhah) | N/A |
+| 31 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 32 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 33 | [Irlande - France](http://twitter.com/search?q=Irlande+-+France) | N/A |
+| 34 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 35 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 36 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 37 | [L'épisode 5](http://twitter.com/search?q=L%27%c3%a9pisode+5) | N/A |
+| 38 | [Roumanie](http://twitter.com/search?q=Roumanie) | N/A |
+| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 40 | [LREM](http://twitter.com/search?q=LREM) | N/A |
+| 41 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 42 | [Madame Panot](http://twitter.com/search?q=Madame+Panot) | N/A |
+| 43 | [Papacito](http://twitter.com/search?q=Papacito) | N/A |
+| 44 | [Monsanto](http://twitter.com/search?q=Monsanto) | N/A |
+| 45 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 46 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
 
 
 

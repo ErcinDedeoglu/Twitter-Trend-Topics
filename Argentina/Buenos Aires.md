@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-11 09:16:20 UTC`
+📆 Last Updated: `2023-02-11 10:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
 | 2 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 3 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 3 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
 | 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
-| 6 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 5 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 6 | [#PalermoWuhan](http://twitter.com/search?q=%23PalermoWuhan) | N/A |
 | 7 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 8 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 9 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
 | 10 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
 | 11 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
 | 12 | [Flor de la V](http://twitter.com/search?q=Flor+de+la+V) | N/A |
-| 13 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 14 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 15 | [Lourdes Sanchez](http://twitter.com/search?q=Lourdes+Sanchez) | N/A |
+| 13 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 14 | [lourdes sanchez](http://twitter.com/search?q=lourdes+sanchez) | N/A |
+| 15 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 16 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 17 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 17 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
 | 18 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 19 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 22 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 24 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 25 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 28 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
-| 29 | [Pablo Vegetti](http://twitter.com/search?q=Pablo+Vegetti) | N/A |
-| 30 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 31 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 32 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 33 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 34 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
-| 35 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 36 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 37 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 38 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 39 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 40 | [la sole en la chaya](http://twitter.com/search?q=la+sole+en+la+chaya) | N/A |
-| 41 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 42 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 43 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 44 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 45 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 46 | [migraciones](http://twitter.com/search?q=migraciones) | N/A |
-| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 48 | [Blas Cinalli](http://twitter.com/search?q=Blas+Cinalli) | Blas Cinalli is a Spanish phrase that translates to "good luck" in English. It is often used as a way to wish someone good luck or success in a particular endeavor. |
-| 49 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
-| 50 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 21 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 22 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 23 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 24 | [pablo vegetti](http://twitter.com/search?q=pablo+vegetti) | N/A |
+| 25 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 26 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 27 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 28 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 29 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 30 | [abecasis](http://twitter.com/search?q=abecasis) | N/A |
+| 31 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 32 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 33 | [Trava](http://twitter.com/search?q=Trava) | N/A |
+| 34 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 35 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 36 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 37 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 38 | [la sole en la chaya](http://twitter.com/search?q=la+sole+en+la+chaya) | N/A |
+| 39 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
+| 40 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 41 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 42 | [Blas Cinalli](http://twitter.com/search?q=Blas+Cinalli) | Blas Cinalli is a Spanish phrase that translates to "good luck" in English. It is often used as a way to wish someone good luck or success in a particular endeavor. |
+| 43 | [Gondou](http://twitter.com/search?q=Gondou) | N/A |
+| 44 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 45 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 46 | [Airbag](http://twitter.com/search?q=Airbag) | N/A |
+| 47 | [solo china](http://twitter.com/search?q=solo+china) | N/A |
+| 48 | [MIGRACIONES](http://twitter.com/search?q=MIGRACIONES) | N/A |
+| 49 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 50 | [Agustín Rossi](http://twitter.com/search?q=Agust%c3%adn+Rossi) | Agustín Rossi is a Spanish surname. It is derived from the given name Agustín, which is a Spanish form of the Latin name Augustinus, meaning "great, magnificent". |
 
 
 

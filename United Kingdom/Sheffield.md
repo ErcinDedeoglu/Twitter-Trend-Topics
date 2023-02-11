@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-11 09:16:09 UTC`
+📆 Last Updated: `2023-02-11 10:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 6 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 8 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 9 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 1 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 2 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 3 | [#NotOurCrimes](http://twitter.com/search?q=%23NotOurCrimes) | N/A |
+| 4 | [#JDxAJ4Seafoam](http://twitter.com/search?q=%23JDxAJ4Seafoam) | N/A |
+| 5 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 6 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 7 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 8 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 10 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
 | 11 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 13 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 14 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 15 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 16 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 17 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 19 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
-| 20 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 23 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
-| 24 | [Frankel](http://twitter.com/search?q=Frankel) | N/A |
-| 25 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 26 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 27 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 28 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 31 | [Far Left](http://twitter.com/search?q=Far+Left) | N/A |
-| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 33 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 34 | [Care4Calais](http://twitter.com/search?q=Care4Calais) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 37 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
-| 38 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 39 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 40 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
-| 41 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 43 | [DAVID JONES](http://twitter.com/search?q=DAVID+JONES) | N/A |
-| 44 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 45 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 46 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 12 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 13 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 16 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 17 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 18 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 19 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 20 | [COYI](http://twitter.com/search?q=COYI) | N/A |
+| 21 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 22 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 23 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 24 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 26 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 27 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 28 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 29 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 30 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
+| 31 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
+| 32 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 33 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 34 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 35 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 37 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 38 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
+| 39 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 40 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 41 | [#ASongOrMovieForWeekends](http://twitter.com/search?q=%23ASongOrMovieForWeekends) | N/A |
+| 42 | [#FormulaE](http://twitter.com/search?q=%23FormulaE) | N/A |
+| 43 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
+| 44 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
+| 45 | [#TwitterModelTrainShow](http://twitter.com/search?q=%23TwitterModelTrainShow) | N/A |
+| 46 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
 
 
 
