@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-11 02:36:22 UTC`
+📆 Last Updated: `2023-02-11 03:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 3 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
 | 4 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 5 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
-| 6 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
-| 7 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
-| 8 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 9 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
-| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 11 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
-| 12 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 13 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
-| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 15 | [Crows](http://twitter.com/search?q=Crows) | N/A |
-| 16 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 17 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 18 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 20 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 21 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 5 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
+| 6 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 7 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 8 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
+| 9 | [Glint Of Silver](http://twitter.com/search?q=Glint+Of+Silver) | N/A |
+| 10 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 12 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
+| 13 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
+| 14 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 15 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
+| 16 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 17 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 18 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
+| 19 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 20 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 21 | [Boland](http://twitter.com/search?q=Boland) | N/A |
 | 22 | [Sloane](http://twitter.com/search?q=Sloane) | N/A |
 | 23 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 24 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 25 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 28 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
-| 29 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
-| 30 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 31 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 24 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 25 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 26 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 29 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 30 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
+| 31 | [Wally](http://twitter.com/search?q=Wally) | N/A |
 | 32 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 33 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 34 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
-| 35 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 37 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 38 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 39 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
-| 40 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 41 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
-| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 43 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
-| 44 | [Atar](http://twitter.com/search?q=Atar) | N/A |
-| 45 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 46 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 47 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 48 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 49 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
+| 33 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
+| 34 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 35 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 36 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
+| 37 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 38 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 39 | [Crows](http://twitter.com/search?q=Crows) | N/A |
+| 40 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 41 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 42 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
+| 43 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
+| 44 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 45 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
+| 46 | [michelle rowland](http://twitter.com/search?q=michelle+rowland) | N/A |
+| 47 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 48 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 49 | [Atar](http://twitter.com/search?q=Atar) | N/A |
 
 
 

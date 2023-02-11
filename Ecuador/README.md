@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-11 02:36:51 UTC`
+📆 Last Updated: `2023-02-11 03:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ecuador
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pita](http://twitter.com/search?q=Pita) | N/A |
-| 2 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
-| 3 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 4 | [ANDREINA EN LATIDO PILSENER](http://twitter.com/search?q=ANDREINA+EN+LATIDO+PILSENER) | N/A |
-| 5 | [Pablo Celi](http://twitter.com/search?q=Pablo+Celi) | N/A |
-| 6 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
-| 7 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
-| 8 | [#LassoRespetaLaDemocracia](http://twitter.com/search?q=%23LassoRespetaLaDemocracia) | N/A |
-| 9 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 10 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 11 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 12 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 13 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
-| 14 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
-| 15 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
-| 16 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 17 | [Las Torres](http://twitter.com/search?q=Las+Torres) | N/A |
-| 18 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
-| 19 | [#LassoEsCorrupto](http://twitter.com/search?q=%23LassoEsCorrupto) | N/A |
-| 20 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
-| 21 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 22 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 23 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
-| 24 | [gerencia](http://twitter.com/search?q=gerencia) | N/A |
-| 25 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
-| 26 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 27 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 28 | [sebastián corral](http://twitter.com/search?q=sebasti%c3%a1n+corral) | N/A |
-| 29 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
-| 30 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
-| 31 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
-| 32 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
-| 33 | [Correista](http://twitter.com/search?q=Correista) | N/A |
-| 34 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 35 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 36 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
-| 37 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 38 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 40 | [Emilio Gómez](http://twitter.com/search?q=Emilio+G%c3%b3mez) | N/A |
-| 41 | [John Isner](http://twitter.com/search?q=John+Isner) | N/A |
-| 42 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
-| 43 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 44 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 46 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 47 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 48 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
-| 49 | [José Delgado](http://twitter.com/search?q=Jos%c3%a9+Delgado) | N/A |
-| 50 | [Aparicio Caicedo](http://twitter.com/search?q=Aparicio+Caicedo) | N/A |
+| 2 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
+| 5 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 6 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 7 | [Pablo Celi](http://twitter.com/search?q=Pablo+Celi) | N/A |
+| 8 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
+| 9 | [#lassorespetalademocracia](http://twitter.com/search?q=%23lassorespetalademocracia) | N/A |
+| 10 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
+| 11 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 12 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 13 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 14 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 15 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 16 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
+| 17 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
+| 18 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 19 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 20 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
+| 21 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
+| 22 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 23 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
+| 24 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
+| 25 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 26 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
+| 27 | [Las Torres](http://twitter.com/search?q=Las+Torres) | N/A |
+| 28 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 29 | [Sebastián Corral](http://twitter.com/search?q=Sebasti%c3%a1n+Corral) | N/A |
+| 30 | [gerencia](http://twitter.com/search?q=gerencia) | N/A |
+| 31 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
+| 32 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
+| 33 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 34 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
+| 35 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
+| 36 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 37 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 38 | [Correista](http://twitter.com/search?q=Correista) | N/A |
+| 39 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
+| 40 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 41 | [Emilio Gómez](http://twitter.com/search?q=Emilio+G%c3%b3mez) | N/A |
+| 42 | [John Isner](http://twitter.com/search?q=John+Isner) | N/A |
+| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 45 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
+| 46 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 47 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
+| 48 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
+| 49 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
+| 50 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
 
 
 

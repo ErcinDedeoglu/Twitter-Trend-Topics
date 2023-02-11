@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-02-11 02:36:48 UTC`
+📆 Last Updated: `2023-02-11 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 3 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 1 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
 | 4 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 5 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 6 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 8 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 9 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 10 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 11 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 12 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 13 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 14 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 15 | [sheamus](http://twitter.com/search?q=sheamus) | N/A |
-| 16 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 17 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 18 | [Eric's Revenge](http://twitter.com/search?q=Eric%27s+Revenge) | N/A |
-| 19 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 20 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 21 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 22 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 23 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
-| 24 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 25 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 26 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
-| 27 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
-| 28 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 29 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
-| 30 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 32 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 33 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 34 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
-| 35 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 36 | [Josh McCown](http://twitter.com/search?q=Josh+McCown) | N/A |
-| 37 | [Chopping Mall](http://twitter.com/search?q=Chopping+Mall) | N/A |
-| 38 | [Aura](http://twitter.com/search?q=Aura) | N/A |
-| 39 | [Toradol](http://twitter.com/search?q=Toradol) | N/A |
-| 40 | [Suni](http://twitter.com/search?q=Suni) | N/A |
-| 41 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
-| 42 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
-| 43 | [Sam and Henry](http://twitter.com/search?q=Sam+and+Henry) | N/A |
-| 44 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 45 | [Top Dolla](http://twitter.com/search?q=Top+Dolla) | Top Dolla is a slang term used to refer to someone who is wealthy or has a lot of money. It can also be used to describe something that is of high quality or value. |
+| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 7 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 8 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 10 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 12 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 13 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
+| 14 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 15 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 16 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 17 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
+| 18 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 19 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 20 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
+| 21 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 22 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 23 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 24 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 25 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 26 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 27 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
+| 28 | [Eric's Revenge](http://twitter.com/search?q=Eric%27s+Revenge) | N/A |
+| 29 | [Skylar](http://twitter.com/search?q=Skylar) | N/A |
+| 30 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 31 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 32 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 33 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 34 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 35 | [Devonte Graham](http://twitter.com/search?q=Devonte+Graham) | N/A |
+| 36 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 37 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 38 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 39 | [Suni](http://twitter.com/search?q=Suni) | N/A |
+| 40 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 41 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
+| 42 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
+| 43 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 44 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 45 | [Kross](http://twitter.com/search?q=Kross) | N/A |
 | 46 | [End 3Q](http://twitter.com/search?q=End+3Q) | N/A |
-| 47 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 48 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 49 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
+| 47 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
+| 48 | [New Mexico State](http://twitter.com/search?q=New+Mexico+State) | N/A |
+| 49 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
 
 
 

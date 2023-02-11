@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-11 02:36:12 UTC`
+📆 Last Updated: `2023-02-11 03:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#EvenHellPoland](http://twitter.com/search?q=%23EvenHellPoland) | N/A |
 | 2 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 3 | [#LGDWID](http://twitter.com/search?q=%23LGDWID) | N/A |
+| 3 | [#lgdwid](http://twitter.com/search?q=%23lgdwid) | N/A |
 | 4 | [#stmrcz](http://twitter.com/search?q=%23stmrcz) | N/A |
 | 5 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 6 | [#WISRES](http://twitter.com/search?q=%23WISRES) | N/A |
@@ -28,42 +28,42 @@ This is top 50 for [Poland](</Poland>)
 | 11 | [Chobielina](http://twitter.com/search?q=Chobielina) | N/A |
 | 12 | [Holendrzy](http://twitter.com/search?q=Holendrzy) | N/A |
 | 13 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
-| 14 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 14 | [Junca](http://twitter.com/search?q=Junca) | N/A |
 | 15 | [Arabów](http://twitter.com/search?q=Arab%c3%b3w) | N/A |
-| 16 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
-| 17 | [Junca](http://twitter.com/search?q=Junca) | N/A |
-| 18 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
-| 19 | [brzezinach](http://twitter.com/search?q=brzezinach) | N/A |
-| 20 | [lotos](http://twitter.com/search?q=lotos) | N/A |
-| 21 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 22 | [arabii saudyjskiej](http://twitter.com/search?q=arabii+saudyjskiej) | N/A |
-| 23 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
-| 24 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 16 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 17 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 18 | [brzezinach](http://twitter.com/search?q=brzezinach) | N/A |
+| 19 | [lotos](http://twitter.com/search?q=lotos) | N/A |
+| 20 | [arabii saudyjskiej](http://twitter.com/search?q=arabii+saudyjskiej) | N/A |
+| 21 | [Alaską](http://twitter.com/search?q=Alask%c4%85) | N/A |
+| 22 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 23 | [rumunii](http://twitter.com/search?q=rumunii) | N/A |
+| 24 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
 | 25 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 26 | [Rumunii](http://twitter.com/search?q=Rumunii) | N/A |
-| 27 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 28 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 28 | [Biały Dom](http://twitter.com/search?q=Bia%c5%82y+Dom) | N/A |
 | 29 | [Pani Premier](http://twitter.com/search?q=Pani+Premier) | N/A |
-| 30 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
-| 31 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
-| 32 | [Basha](http://twitter.com/search?q=Basha) | N/A |
-| 33 | [piotr wiśnicki](http://twitter.com/search?q=piotr+wi%c5%9bnicki) | N/A |
-| 34 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
-| 35 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 30 | [Obajtka](http://twitter.com/search?q=Obajtka) | N/A |
+| 31 | [basha](http://twitter.com/search?q=basha) | N/A |
+| 32 | [piotr wiśnicki](http://twitter.com/search?q=piotr+wi%c5%9bnicki) | N/A |
+| 33 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
+| 34 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 35 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 36 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 37 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
-| 38 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 39 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 40 | [fiałek](http://twitter.com/search?q=fia%c5%82ek) | N/A |
-| 41 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
-| 42 | [Przyłębskiej](http://twitter.com/search?q=Przy%c5%82%c4%99bskiej) | N/A |
-| 43 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
-| 44 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 45 | [Becia](http://twitter.com/search?q=Becia) | N/A |
-| 46 | [wolnościowców](http://twitter.com/search?q=wolno%c5%9bciowc%c3%b3w) | N/A |
-| 47 | [ustawa o sn](http://twitter.com/search?q=ustawa+o+sn) | N/A |
-| 48 | [radzia](http://twitter.com/search?q=radzia) | N/A |
-| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 37 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
+| 38 | [Zawiasy](http://twitter.com/search?q=Zawiasy) | N/A |
+| 39 | [Bobrownikach](http://twitter.com/search?q=Bobrownikach) | N/A |
+| 40 | [Klamka](http://twitter.com/search?q=Klamka) | N/A |
+| 41 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 42 | [Fiałek](http://twitter.com/search?q=Fia%c5%82ek) | N/A |
+| 43 | [wolnościowców](http://twitter.com/search?q=wolno%c5%9bciowc%c3%b3w) | N/A |
+| 44 | [przyłębskiej](http://twitter.com/search?q=przy%c5%82%c4%99bskiej) | N/A |
+| 45 | [radzia](http://twitter.com/search?q=radzia) | N/A |
+| 46 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 47 | [Becia](http://twitter.com/search?q=Becia) | N/A |
+| 48 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 49 | [ławrow](http://twitter.com/search?q=%c5%82awrow) | N/A |
 
 
 

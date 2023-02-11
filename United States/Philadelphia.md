@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-11 02:36:46 UTC`
+📆 Last Updated: `2023-02-11 03:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [#Sixers](http://twitter.com/search?q=%23Sixers) | N/A |
 | 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 4 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 5 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 6 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 7 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 5 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 6 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 7 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
 | 8 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 9 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 10 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
-| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 12 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 14 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 15 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 16 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 17 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 18 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 19 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 20 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 21 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 22 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 23 | [sheamus](http://twitter.com/search?q=sheamus) | N/A |
-| 24 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 25 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 26 | [Eric's Revenge](http://twitter.com/search?q=Eric%27s+Revenge) | N/A |
-| 27 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 28 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 29 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 30 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 31 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
-| 32 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 33 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
-| 34 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
-| 35 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
-| 36 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 37 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
-| 38 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 39 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 40 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 41 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 42 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
-| 43 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 44 | [Josh McCown](http://twitter.com/search?q=Josh+McCown) | N/A |
-| 45 | [Chopping Mall](http://twitter.com/search?q=Chopping+Mall) | N/A |
-| 46 | [Aura](http://twitter.com/search?q=Aura) | N/A |
-| 47 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
-| 48 | [Toradol](http://twitter.com/search?q=Toradol) | N/A |
-| 49 | [Suni](http://twitter.com/search?q=Suni) | N/A |
-| 50 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
+| 9 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 10 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 11 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
+| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 13 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 15 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 16 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 17 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 18 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 20 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 21 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
+| 22 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 23 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 24 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 25 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
+| 26 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 27 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 28 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
+| 29 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 30 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 31 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 32 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 33 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 34 | [Eric's Revenge](http://twitter.com/search?q=Eric%27s+Revenge) | N/A |
+| 35 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 36 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
+| 37 | [Skylar](http://twitter.com/search?q=Skylar) | N/A |
+| 38 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 39 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 40 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 41 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 42 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 43 | [Devonte Graham](http://twitter.com/search?q=Devonte+Graham) | N/A |
+| 44 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 45 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 46 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 47 | [Suni](http://twitter.com/search?q=Suni) | N/A |
+| 48 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 49 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
+| 50 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
 
 
 

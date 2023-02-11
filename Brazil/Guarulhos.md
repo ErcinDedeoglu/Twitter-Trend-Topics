@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-11 02:36:11 UTC`
+📆 Last Updated: `2023-02-11 03:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 4 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 5 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 6 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 7 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
-| 8 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
-| 9 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
-| 10 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 11 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
-| 12 | [Xand](http://twitter.com/search?q=Xand) | N/A |
-| 13 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
-| 14 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
-| 15 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
-| 16 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 19 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 21 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
-| 22 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 23 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 24 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 25 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 26 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 27 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 28 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
-| 29 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 30 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 31 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 32 | [SENTO PRA BEBER](http://twitter.com/search?q=SENTO+PRA+BEBER) | N/A |
-| 33 | [Downy](http://twitter.com/search?q=Downy) | N/A |
-| 34 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
-| 35 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 37 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
-| 38 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
-| 39 | [Alok](http://twitter.com/search?q=Alok) | N/A |
-| 40 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 41 | [fafa](http://twitter.com/search?q=fafa) | N/A |
-| 42 | [figurinista](http://twitter.com/search?q=figurinista) | N/A |
-| 43 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
-| 44 | [boateng](http://twitter.com/search?q=boateng) | N/A |
-| 45 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 1 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 2 | [velozes](http://twitter.com/search?q=velozes) | N/A |
+| 3 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 4 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 5 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 6 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [#HogwartLegacy](http://twitter.com/search?q=%23HogwartLegacy) | N/A |
+| 9 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 10 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 11 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 14 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
+| 15 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
+| 16 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 17 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 18 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
+| 19 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
+| 20 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 21 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
+| 22 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 23 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 26 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 27 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 28 | [Sapanda](http://twitter.com/search?q=Sapanda) | N/A |
+| 29 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 30 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 31 | [Piseiro](http://twitter.com/search?q=Piseiro) | N/A |
+| 32 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 33 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 34 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 35 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
+| 36 | [WE LOVE YOU JIMIN](http://twitter.com/search?q=WE+LOVE+YOU+JIMIN) | N/A |
+| 37 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
+| 38 | [Laried](http://twitter.com/search?q=Laried) | N/A |
+| 39 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
+| 40 | [Baiacu](http://twitter.com/search?q=Baiacu) | N/A |
+| 41 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 42 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
+| 43 | [dorothy helena](http://twitter.com/search?q=dorothy+helena) | N/A |
+| 44 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
+| 45 | [Downy](http://twitter.com/search?q=Downy) | N/A |
 | 46 | [Várzea](http://twitter.com/search?q=V%c3%a1rzea) | N/A |
-| 47 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 47 | [barbie ferreira](http://twitter.com/search?q=barbie+ferreira) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-11 02:36:16 UTC`
+📆 Last Updated: `2023-02-11 03:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,43 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 3 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 4 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
-| 5 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 6 | [Alex Britti](http://twitter.com/search?q=Alex+Britti) | N/A |
-| 7 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
-| 8 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 9 | [#MilanTorino](http://twitter.com/search?q=%23MilanTorino) | #MilanTorino is a hashtag used to refer to the Italian football derby between AC Milan and Torino FC. The two teams are based in the cities of Milan and Turin, respectively, and have been playing each other since 1906. The hashtag is used to refer to the rivalry between the two teams, as well as any matches they play against each other. |
-| 10 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
-| 11 | [#letitbe](http://twitter.com/search?q=%23letitbe) | N/A |
-| 12 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
-| 13 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 14 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 15 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
-| 16 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 17 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 18 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
-| 19 | [#Articolo31](http://twitter.com/search?q=%23Articolo31) | N/A |
-| 20 | [Cremonini](http://twitter.com/search?q=Cremonini) | N/A |
-| 21 | [Ditonellapiaga](http://twitter.com/search?q=Ditonellapiaga) | N/A |
-| 22 | [Fasma](http://twitter.com/search?q=Fasma) | N/A |
+| 2 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 3 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
+| 4 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
+| 5 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 6 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
+| 7 | [Chiara Francini](http://twitter.com/search?q=Chiara+Francini) | Chiara Francini is an Italian actress and television presenter. Her name is derived from the Italian word for "light" or "clear". In English, her name translates to "bright and clear". |
+| 8 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 9 | [Carla Bruni](http://twitter.com/search?q=Carla+Bruni) | N/A |
+| 10 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 11 | [Noemi](http://twitter.com/search?q=Noemi) | N/A |
+| 12 | [#letitbe](http://twitter.com/search?q=%23letitbe) | N/A |
+| 13 | [#MareFuori](http://twitter.com/search?q=%23MareFuori) | N/A |
+| 14 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 15 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 16 | [Manuel Agnelli](http://twitter.com/search?q=Manuel+Agnelli) | N/A |
+| 17 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 18 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 19 | [Cremonini](http://twitter.com/search?q=Cremonini) | N/A |
+| 20 | [#Articolo31](http://twitter.com/search?q=%23Articolo31) | N/A |
+| 21 | [Bennato](http://twitter.com/search?q=Bennato) | N/A |
+| 22 | [#VivaRai2VivaSanremo](http://twitter.com/search?q=%23VivaRai2VivaSanremo) | N/A |
 | 23 | [Via del Campo](http://twitter.com/search?q=Via+del+Campo) | N/A |
 | 24 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 25 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
-| 26 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 27 | [MATTEO PAOLILLO](http://twitter.com/search?q=MATTEO+PAOLILLO) | N/A |
-| 28 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
-| 29 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
-| 30 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 31 | [Vivere](http://twitter.com/search?q=Vivere) | N/A |
-| 32 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
-| 33 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 34 | [Peppino di Capri](http://twitter.com/search?q=Peppino+di+Capri) | N/A |
-| 35 | [Lorella Cuccarini](http://twitter.com/search?q=Lorella+Cuccarini) | N/A |
-| 36 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 37 | [Salmo](http://twitter.com/search?q=Salmo) | N/A |
-| 38 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 39 | [Zarrillo](http://twitter.com/search?q=Zarrillo) | N/A |
-| 40 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
-| 41 | [Ariston](http://twitter.com/search?q=Ariston) | N/A |
-| 42 | [Bravissimi](http://twitter.com/search?q=Bravissimi) | N/A |
-| 43 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
-| 44 | [Luce](http://twitter.com/search?q=Luce) | N/A |
-| 45 | [La Fine](http://twitter.com/search?q=La+Fine) | N/A |
-| 46 | [Shari](http://twitter.com/search?q=Shari) | N/A |
-| 47 | [#VivaRai2VivaSanremo](http://twitter.com/search?q=%23VivaRai2VivaSanremo) | N/A |
-| 48 | [#cuginidicampagna](http://twitter.com/search?q=%23cuginidicampagna) | N/A |
-| 49 | [#Levante](http://twitter.com/search?q=%23Levante) | N/A |
+| 25 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 26 | [MATTEO PAOLILLO](http://twitter.com/search?q=MATTEO+PAOLILLO) | N/A |
+| 27 | [Modà](http://twitter.com/search?q=Mod%c3%a0) | N/A |
+| 28 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 29 | [Beppe Vessicchio](http://twitter.com/search?q=Beppe+Vessicchio) | N/A |
+| 30 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 31 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 32 | [Battiato](http://twitter.com/search?q=Battiato) | N/A |
+| 33 | [Lorella Cuccarini](http://twitter.com/search?q=Lorella+Cuccarini) | N/A |
+| 34 | [Bravissimi](http://twitter.com/search?q=Bravissimi) | N/A |
+| 35 | [Nesli](http://twitter.com/search?q=Nesli) | N/A |
+| 36 | [Luce](http://twitter.com/search?q=Luce) | N/A |
+| 37 | [La Fine](http://twitter.com/search?q=La+Fine) | N/A |
+| 38 | [#Levante](http://twitter.com/search?q=%23Levante) | N/A |
 
 
 

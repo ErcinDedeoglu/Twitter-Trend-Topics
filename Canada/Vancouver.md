@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-02-11 02:36:00 UTC`
+📆 Last Updated: `2023-02-11 03:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,38 +20,47 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
 | 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 5 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 6 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
-| 7 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 6 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 7 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
 | 8 | [Rogers](http://twitter.com/search?q=Rogers) | N/A |
-| 9 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
-| 10 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 12 | [Crave](http://twitter.com/search?q=Crave) | N/A |
-| 13 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
-| 14 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 15 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 16 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 17 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 18 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 19 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 20 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 21 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 22 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 23 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 9 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
+| 10 | [Tyler Myers](http://twitter.com/search?q=Tyler+Myers) | N/A |
+| 11 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 12 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 13 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 14 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 15 | [Crave](http://twitter.com/search?q=Crave) | N/A |
+| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 17 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 18 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 19 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 21 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 22 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
+| 23 | [DoFo](http://twitter.com/search?q=DoFo) | N/A |
 | 24 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 25 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
-| 26 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 27 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
-| 28 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 29 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 30 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 31 | [#onpoli](http://twitter.com/search?q=%23onpoli) | N/A |
-| 32 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 33 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 34 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
-| 35 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
-| 36 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 37 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 25 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 26 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 27 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 28 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 29 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 30 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 31 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
+| 32 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 33 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 34 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 35 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 36 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
+| 37 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 38 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 39 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 40 | [#MutantFam](http://twitter.com/search?q=%23MutantFam) | N/A |
+| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 42 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
+| 43 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 44 | [#CancelNetflix](http://twitter.com/search?q=%23CancelNetflix) | N/A |
+| 45 | [#Netflixcanada](http://twitter.com/search?q=%23Netflixcanada) | N/A |
+| 46 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 
 
 

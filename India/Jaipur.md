@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-11 02:36:37 UTC`
+📆 Last Updated: `2023-02-11 03:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 2 | [#LifeChangingTips](http://twitter.com/search?q=%23LifeChangingTips) | N/A |
-| 3 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
-| 4 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 5 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
-| 6 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 1 | [#CHA_की_नोकरी_बहाल_करें](http://twitter.com/search?q=%23CHA_%e0%a4%95%e0%a5%80_%e0%a4%a8%e0%a5%8b%e0%a4%95%e0%a4%b0%e0%a5%80_%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%b2_%e0%a4%95%e0%a4%b0%e0%a5%87%e0%a4%82) | N/A |
+| 2 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 3 | [#LifeChangingTips](http://twitter.com/search?q=%23LifeChangingTips) | N/A |
+| 4 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
+| 5 | [#14फरवरी_मातृ_पितृ_पूजन_दिवस](http://twitter.com/search?q=%2314%e0%a4%ab%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a4%bf%e0%a4%a4%e0%a5%83_%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 6 | [Parent Child Relationship](http://twitter.com/search?q=Parent+Child+Relationship) | N/A |
+| 7 | [Unconditional Love](http://twitter.com/search?q=Unconditional+Love) | N/A |
+| 8 | [#DeendayalUpadhyay](http://twitter.com/search?q=%23DeendayalUpadhyay) | N/A |
 | 9 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 10 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [Unconditional Love](http://twitter.com/search?q=Unconditional+Love) | N/A |
-| 14 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
+| 10 | [#17Feb_SantRampalJi_BodhDiwas](http://twitter.com/search?q=%2317Feb_SantRampalJi_BodhDiwas) | N/A |
+| 11 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 13 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
+| 14 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
 | 15 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
-| 16 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 17 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
-| 18 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 19 | [zero hour on flipkart](http://twitter.com/search?q=zero+hour+on+flipkart) | N/A |
-| 20 | [lowest travel with easemytrip](http://twitter.com/search?q=lowest+travel+with+easemytrip) | N/A |
-| 21 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
-| 22 | [श्री राजेश पायलट](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 23 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 24 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 25 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 26 | [u20 ahmedabad](http://twitter.com/search?q=u20+ahmedabad) | N/A |
-| 27 | [सुखमय जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a4%ae%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 28 | [no old age homes](http://twitter.com/search?q=no+old+age+homes) | N/A |
-| 29 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 16 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 17 | [UNSTOPPABLE AYESHA SINGH](http://twitter.com/search?q=UNSTOPPABLE+AYESHA+SINGH) | N/A |
+| 18 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
+| 19 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 20 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 21 | [zero hour on flipkart](http://twitter.com/search?q=zero+hour+on+flipkart) | N/A |
+| 22 | [lowest travel with easemytrip](http://twitter.com/search?q=lowest+travel+with+easemytrip) | N/A |
+| 23 | [Nehru](http://twitter.com/search?q=Nehru) | N/A |
+| 24 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 25 | [श्री राजेश पायलट](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 26 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 27 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 28 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 29 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
 | 30 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 31 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
-| 32 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 33 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
-| 34 | [इच्छा शक्ति](http://twitter.com/search?q=%e0%a4%87%e0%a4%9a%e0%a5%8d%e0%a4%9b%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 35 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 36 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
-| 37 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
-| 38 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 39 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 40 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 41 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 42 | [सम्पूर्ण जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 43 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 44 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 45 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 46 | [उत्तर प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | उत्तर प्रदेश (Uttar Pradesh) is a state in northern India. It is the most populous state in the country and has a population of over 200 million people. The name literally translates to "Northern Province" in English. |
-| 47 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
-| 48 | [श्री बालाजी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
-| 49 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 50 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 31 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 32 | [u20 ahmedabad](http://twitter.com/search?q=u20+ahmedabad) | N/A |
+| 33 | [सुखमय जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a4%ae%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 34 | [Parents Worship Day](http://twitter.com/search?q=Parents+Worship+Day) | N/A |
+| 35 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 36 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 37 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 38 | [No Old Age Homes](http://twitter.com/search?q=No+Old+Age+Homes) | N/A |
+| 39 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 40 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 41 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 42 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 43 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 44 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
+| 45 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 46 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 47 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 48 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
 
 
 
