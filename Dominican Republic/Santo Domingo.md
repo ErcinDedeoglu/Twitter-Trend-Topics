@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-11 17:16:12 UTC`
+📆 Last Updated: `2023-02-11 18:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 12 | [Arriba RD](http://twitter.com/search?q=Arriba+RD) | N/A |
 | 13 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 14 | [Barrera](http://twitter.com/search?q=Barrera) | N/A |
-| 15 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 16 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 17 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 15 | [#SerieDelCaribeGranCaracas2023](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas2023) | N/A |
+| 16 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 17 | [Leal](http://twitter.com/search?q=Leal) | N/A |
 | 18 | [somos soberanos](http://twitter.com/search?q=somos+soberanos) | N/A |
 | 19 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
 | 20 | [Trata de Personas](http://twitter.com/search?q=Trata+de+Personas) | N/A |
-| 21 | [#vamosporla22](http://twitter.com/search?q=%23vamosporla22) | N/A |
+| 21 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
 | 22 | [Ganamos](http://twitter.com/search?q=Ganamos) | N/A |
 | 23 | [Urrutia](http://twitter.com/search?q=Urrutia) | N/A |
 | 24 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
-| 25 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 26 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 27 | [Liceistas](http://twitter.com/search?q=Liceistas) | N/A |
-| 28 | [Jonathan Aro](http://twitter.com/search?q=Jonathan+Aro) | N/A |
-| 29 | [proyecto de ley integral](http://twitter.com/search?q=proyecto+de+ley+integral) | N/A |
-| 30 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 25 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 26 | [Jonathan Aro](http://twitter.com/search?q=Jonathan+Aro) | N/A |
+| 27 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 28 | [proyecto de ley integral](http://twitter.com/search?q=proyecto+de+ley+integral) | N/A |
+| 29 | [Liceistas](http://twitter.com/search?q=Liceistas) | N/A |
+| 30 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 31 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 32 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
-| 33 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 34 | [Azul](http://twitter.com/search?q=Azul) | N/A |
-| 35 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 36 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 37 | [mel rojas](http://twitter.com/search?q=mel+rojas) | N/A |
-| 38 | [Servio Tulio](http://twitter.com/search?q=Servio+Tulio) | N/A |
-| 39 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
-| 40 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 33 | [Azul](http://twitter.com/search?q=Azul) | N/A |
+| 34 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 35 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 36 | [Mel Rojas](http://twitter.com/search?q=Mel+Rojas) | N/A |
+| 37 | [servio tulio](http://twitter.com/search?q=servio+tulio) | N/A |
+| 38 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
+| 39 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 40 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
 | 41 | [Traidor](http://twitter.com/search?q=Traidor) | N/A |
-| 42 | [Sánchez Ramírez](http://twitter.com/search?q=S%c3%a1nchez+Ram%c3%adrez) | N/A |
-| 43 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
-| 44 | [boni](http://twitter.com/search?q=boni) | N/A |
-| 45 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
-| 46 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
-| 47 | [Round Robin](http://twitter.com/search?q=Round+Robin) | N/A |
+| 42 | [Santiago Matías](http://twitter.com/search?q=Santiago+Mat%c3%adas) | N/A |
+| 43 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
+| 44 | [Round Robin](http://twitter.com/search?q=Round+Robin) | N/A |
+| 45 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 46 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
+| 47 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
 | 48 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 49 | [Romana](http://twitter.com/search?q=Romana) | N/A |
-| 50 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 49 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 50 | [Romana](http://twitter.com/search?q=Romana) | N/A |
 
 
 

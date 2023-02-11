@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-11 17:17:01 UTC`
+📆 Last Updated: `2023-02-11 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Lebanon
 | 3 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 4 | [#انتصار_الثوره_الاسلاميه](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%87_%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 5 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [علي صفي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%81%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [ضهر البيدر](http://twitter.com/search?q=%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
-| 10 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 6 | [علي صفي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%81%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [الجلسه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [ضهر البيدر](http://twitter.com/search?q=%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
 | 11 | [شارل مالك](http://twitter.com/search?q=%d8%b4%d8%a7%d8%b1%d9%84+%d9%85%d8%a7%d9%84%d9%83) | N/A |
 | 12 | [الجمهوريه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 13 | [١١ شباط](http://twitter.com/search?q=%d9%a1%d9%a1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 14 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 15 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
-| 16 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 17 | [لقاء باريس](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 18 | [القايد الملهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%84%d9%87%d9%85) | N/A |
-| 19 | [11 شباط](http://twitter.com/search?q=11+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 20 | [نجوى](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89) | نجوى (Najwa) is an Arabic female name meaning "secret" or "whisper". |
-| 21 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [ملحم بركات](http://twitter.com/search?q=%d9%85%d9%84%d8%ad%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
+| 16 | [عائشة بكار](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9+%d8%a8%d9%83%d8%a7%d8%b1) | N/A |
+| 17 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 18 | [لقاء باريس](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 19 | [القايد الملهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%84%d9%87%d9%85) | N/A |
+| 20 | [11 شباط](http://twitter.com/search?q=11+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
+| 21 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 22 | [الفراغ الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ba+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
 | 23 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 24 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
+| 24 | [ماسي الاخرين](http://twitter.com/search?q=%d9%85%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a%d9%86) | N/A |
 | 25 | [سامر حنا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%b1+%d8%ad%d9%86%d8%a7) | N/A |
-| 26 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
-| 27 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 28 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 29 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 30 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 31 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 32 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 33 | [حقوق المسيحيين](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
-| 34 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 35 | [ابو فدك](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d8%af%d9%83) | N/A |
-| 36 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 37 | [ماسي الاخرين](http://twitter.com/search?q=%d9%85%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a%d9%86) | N/A |
+| 26 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
+| 27 | [نجوى](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89) | نجوى (Najwa) is an Arabic female name meaning "secret" or "whisper". |
+| 28 | [مار مارون](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%85%d8%a7%d8%b1%d9%88%d9%86) | N/A |
+| 29 | [ابو فدك](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d8%af%d9%83) | N/A |
+| 30 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 31 | [احمد الاسير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 32 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 33 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 34 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 35 | [حقوق المسيحيين](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
+| 36 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 37 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
 | 38 | [فتحي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
-| 39 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 40 | [الانقاذ اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 41 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 39 | [قادر علي](http://twitter.com/search?q=%d9%82%d8%a7%d8%af%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
+| 40 | [سرايا المقاومه](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 41 | [الانقاذ اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 42 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
 | 43 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
 | 44 | [الاقفال التام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%85) | N/A |
 | 45 | [طوني بولس](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d8%a8%d9%88%d9%84%d8%b3) | N/A |
 | 46 | [اللحظات الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ad%d8%b8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 47 | [التبرعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 48 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
-| 50 | [West](http://twitter.com/search?q=West) | N/A |
+| 47 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
+| 48 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
+| 49 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 50 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
 
 
 

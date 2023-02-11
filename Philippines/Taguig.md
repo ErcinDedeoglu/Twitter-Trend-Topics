@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-02-11 17:16:35 UTC`
+📆 Last Updated: `2023-02-11 18:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#JoshCullen](http://twitter.com/search?q=%23JoshCullen) | N/A |
-| 4 | [#ITZY_4th_Anniversary](http://twitter.com/search?q=%23ITZY_4th_Anniversary) | N/A |
-| 5 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
-| 6 | [#ทฤษฎีสีชมพูEP12](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP12) | N/A |
-| 7 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 8 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#JoshCullen](http://twitter.com/search?q=%23JoshCullen) | N/A |
+| 3 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
+| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 5 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 6 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 7 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
+| 8 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
 | 9 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
-| 10 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 11 | [Sana](http://twitter.com/search?q=Sana) | N/A |
-| 12 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 13 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 15 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
-| 16 | [hanni](http://twitter.com/search?q=hanni) | N/A |
-| 17 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 18 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
-| 19 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 20 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 21 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 22 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 23 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 24 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 25 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 26 | [ALAMAT MUSUGOD SA DAVAO](http://twitter.com/search?q=ALAMAT+MUSUGOD+SA+DAVAO) | N/A |
-| 27 | [#CrashCourseInRomanceEp9](http://twitter.com/search?q=%23CrashCourseInRomanceEp9) | N/A |
-| 28 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 29 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 30 | [#FELIP_ROCKSTAonWishBus](http://twitter.com/search?q=%23FELIP_ROCKSTAonWishBus) | N/A |
-| 31 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 32 | [#HeartToHeartWithYPA](http://twitter.com/search?q=%23HeartToHeartWithYPA) | N/A |
-| 33 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 34 | [#SKZ2023Queuetie](http://twitter.com/search?q=%23SKZ2023Queuetie) | N/A |
-| 35 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 36 | [#DADDYSGURLMahal](http://twitter.com/search?q=%23DADDYSGURLMahal) | N/A |
-| 37 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 38 | [#EverybodySingSmile](http://twitter.com/search?q=%23EverybodySingSmile) | N/A |
-| 39 | [#HanteoMusicAwards](http://twitter.com/search?q=%23HanteoMusicAwards) | N/A |
-| 40 | [#FreenBeck](http://twitter.com/search?q=%23FreenBeck) | N/A |
-| 41 | [#SantaEarthGalaNightInMANILA](http://twitter.com/search?q=%23SantaEarthGalaNightInMANILA) | N/A |
-| 42 | [#ALAMATxVivaTours](http://twitter.com/search?q=%23ALAMATxVivaTours) | N/A |
-| 43 | [#darren](http://twitter.com/search?q=%23darren) | N/A |
+| 10 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
+| 11 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 12 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 13 | [felipstraydogs d-day release](http://twitter.com/search?q=felipstraydogs+d-day+release) | N/A |
+| 14 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 15 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 16 | [ALAMAT MUSUGOD SA DAVAO](http://twitter.com/search?q=ALAMAT+MUSUGOD+SA+DAVAO) | N/A |
+| 17 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 20 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 21 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 22 | [NewsToKoYan VIVOREE](http://twitter.com/search?q=NewsToKoYan+VIVOREE) | N/A |
+| 23 | [franseth chico deeptalk](http://twitter.com/search?q=franseth+chico+deeptalk) | N/A |
+| 24 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
+| 25 | [THE CHAIR](http://twitter.com/search?q=THE+CHAIR) | N/A |
+| 26 | [JK IS LIVE](http://twitter.com/search?q=JK+IS+LIVE) | N/A |
+| 27 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 28 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
+| 29 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
+| 30 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 31 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 32 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
+| 33 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 34 | [HAISEAN 2NDANNIVERSARY](http://twitter.com/search?q=HAISEAN+2NDANNIVERSARY) | N/A |
+| 35 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 36 | [YUNG UPUAN](http://twitter.com/search?q=YUNG+UPUAN) | N/A |
+| 37 | [GULF TO JAPAN](http://twitter.com/search?q=GULF+TO+JAPAN) | N/A |
+| 38 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 39 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 40 | [bgyo on feu ocp2023](http://twitter.com/search?q=bgyo+on+feu+ocp2023) | N/A |
+| 41 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
+| 42 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
+| 43 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 44 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 45 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 46 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 47 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 48 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
+| 49 | [KAIA TURN UP DANCE PRACTICE](http://twitter.com/search?q=KAIA+TURN+UP+DANCE+PRACTICE) | N/A |
 
 
 
