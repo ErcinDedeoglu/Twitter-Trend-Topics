@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-10 23:16:00 UTC`
+📆 Last Updated: `2023-02-11 00:26:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
-| 2 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 3 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 4 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
-| 5 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 6 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 7 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 8 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 2 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 3 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 4 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 5 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
+| 6 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 7 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 8 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
 | 9 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 10 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 11 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 12 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 13 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 14 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 15 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 16 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 17 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
-| 18 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 19 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 20 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
-| 21 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 22 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 23 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
-| 24 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 25 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 26 | [Phil Taylor](http://twitter.com/search?q=Phil+Taylor) | N/A |
-| 27 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 28 | [Crick](http://twitter.com/search?q=Crick) | N/A |
-| 29 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 30 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 31 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
-| 32 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 33 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 34 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 35 | [Grady](http://twitter.com/search?q=Grady) | N/A |
-| 36 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
-| 37 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 38 | [Mark E Smith](http://twitter.com/search?q=Mark+E+Smith) | N/A |
-| 39 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 40 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 41 | [Primal Scream](http://twitter.com/search?q=Primal+Scream) | N/A |
-| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 43 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 44 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 45 | [Would I Lie To You](http://twitter.com/search?q=Would+I+Lie+To+You) | N/A |
-| 46 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 47 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 11 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
+| 12 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 13 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 14 | [Salma Hayek](http://twitter.com/search?q=Salma+Hayek) | N/A |
+| 15 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
+| 16 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 17 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 18 | [Con Air](http://twitter.com/search?q=Con+Air) | N/A |
+| 19 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 20 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 21 | [Channel 5](http://twitter.com/search?q=Channel+5) | N/A |
+| 22 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 23 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 24 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 25 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 26 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 27 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 28 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 29 | [Crick](http://twitter.com/search?q=Crick) | N/A |
+| 30 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
+| 31 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 32 | [Brigid](http://twitter.com/search?q=Brigid) | N/A |
+| 33 | [Baggies](http://twitter.com/search?q=Baggies) | N/A |
+| 34 | [Phil Taylor](http://twitter.com/search?q=Phil+Taylor) | N/A |
+| 35 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 36 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 37 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 38 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
+| 39 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 40 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 41 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 42 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
+| 43 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 44 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 45 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 46 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 47 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-02-10 23:16:31 UTC`
+📆 Last Updated: `2023-02-11 00:26:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 6 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
 | 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 8 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 9 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 10 | [MyJPJ](http://twitter.com/search?q=MyJPJ) | N/A |
-| 11 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
-| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 13 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
-| 14 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 17 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 18 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 9 | [MyJPJ](http://twitter.com/search?q=MyJPJ) | N/A |
+| 10 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
+| 11 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
+| 12 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 14 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 15 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 16 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 17 | [Fast X](http://twitter.com/search?q=Fast+X) | N/A |
+| 18 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
 | 19 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
-| 20 | [CRAVITY IS COMING BACK](http://twitter.com/search?q=CRAVITY+IS+COMING+BACK) | N/A |
-| 21 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 22 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 23 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 24 | [siwon](http://twitter.com/search?q=siwon) | N/A |
-| 25 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 26 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 27 | [adib](http://twitter.com/search?q=adib) | N/A |
-| 28 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
-| 29 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 30 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 31 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 32 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 33 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 34 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 35 | [Starry Night](http://twitter.com/search?q=Starry+Night) | N/A |
-| 36 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
-| 37 | [HOH 2.0](http://twitter.com/search?q=HOH+2.0) | N/A |
+| 20 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 21 | [siwon](http://twitter.com/search?q=siwon) | N/A |
+| 22 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 23 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 24 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 25 | [lee sooman](http://twitter.com/search?q=lee+sooman) | N/A |
+| 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 27 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 28 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 29 | [OUR SEULGI DAY](http://twitter.com/search?q=OUR+SEULGI+DAY) | N/A |
+| 30 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 31 | [MySejahtera](http://twitter.com/search?q=MySejahtera) | N/A |
+| 32 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 33 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 34 | [Nazri](http://twitter.com/search?q=Nazri) | N/A |
+| 35 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 36 | [MyEG](http://twitter.com/search?q=MyEG) | N/A |
+| 37 | [Starry Night](http://twitter.com/search?q=Starry+Night) | N/A |
 | 38 | [You S4](http://twitter.com/search?q=You+S4) | N/A |
-| 39 | [MyEG](http://twitter.com/search?q=MyEG) | N/A |
-| 40 | [Nazri](http://twitter.com/search?q=Nazri) | N/A |
-| 41 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 42 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 43 | [MySejahtera](http://twitter.com/search?q=MySejahtera) | N/A |
-| 44 | [dokyeom](http://twitter.com/search?q=dokyeom) | N/A |
-| 45 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 39 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 40 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 41 | [Adib](http://twitter.com/search?q=Adib) | N/A |
+| 42 | [Tinn](http://twitter.com/search?q=Tinn) | N/A |
+| 43 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 44 | [rasa sayang](http://twitter.com/search?q=rasa+sayang) | N/A |
+| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 46 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 48 | [Rasa Sayang](http://twitter.com/search?q=Rasa+Sayang) | N/A |
-| 49 | [Kang Daniel](http://twitter.com/search?q=Kang+Daniel) | N/A |
+| 47 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 48 | [Kang Daniel](http://twitter.com/search?q=Kang+Daniel) | N/A |
+| 49 | [hoh 2.0](http://twitter.com/search?q=hoh+2.0) | N/A |
 
 
 

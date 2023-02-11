@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-10 23:16:06 UTC`
+📆 Last Updated: `2023-02-11 00:26:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#viernespalomero](http://twitter.com/search?q=%23viernespalomero) | N/A |
-| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 3 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 4 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 5 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 6 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 1 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 2 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 3 | [#viernespalomero](http://twitter.com/search?q=%23viernespalomero) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 6 | [HBD JOELITO](http://twitter.com/search?q=HBD+JOELITO) | N/A |
 | 7 | [Baboso](http://twitter.com/search?q=Baboso) | N/A |
-| 8 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 9 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 10 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 11 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 12 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 13 | [Díaz Canel](http://twitter.com/search?q=D%c3%adaz+Canel) | N/A |
-| 14 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 15 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
-| 16 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 17 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 18 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 8 | [#ExaAirlinesSuperJunior](http://twitter.com/search?q=%23ExaAirlinesSuperJunior) | N/A |
+| 9 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 10 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 11 | [Díaz Canel](http://twitter.com/search?q=D%c3%adaz+Canel) | N/A |
+| 12 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 13 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 14 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 15 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 16 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
+| 17 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 18 | [Profeco](http://twitter.com/search?q=Profeco) | N/A |
 | 19 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 20 | [Profeco](http://twitter.com/search?q=Profeco) | N/A |
-| 21 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 22 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 23 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 24 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 20 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 21 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 22 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 23 | [Jaime Ordiales](http://twitter.com/search?q=Jaime+Ordiales) | N/A |
+| 24 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 25 | [Chinguen](http://twitter.com/search?q=Chinguen) | N/A |
-| 26 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 27 | [Unidad Deportiva](http://twitter.com/search?q=Unidad+Deportiva) | N/A |
-| 28 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 29 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 30 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 31 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 32 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 33 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 34 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 35 | [Guillermo Almada](http://twitter.com/search?q=Guillermo+Almada) | N/A |
-| 36 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
-| 37 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 39 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 40 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 41 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 42 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 43 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 44 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
-| 45 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
-| 46 | [#LeoEnConvoy](http://twitter.com/search?q=%23LeoEnConvoy) | N/A |
-| 47 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 26 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 27 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
+| 28 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 29 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
+| 30 | [Guillermo Almada](http://twitter.com/search?q=Guillermo+Almada) | N/A |
+| 31 | [Michael B. Jordan](http://twitter.com/search?q=Michael+B.+Jordan) | N/A |
+| 32 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 33 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 34 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 35 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 36 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
+| 37 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 38 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
+| 39 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
+| 40 | [#Chicoloapan](http://twitter.com/search?q=%23Chicoloapan) | N/A |
+| 41 | [#FASTX](http://twitter.com/search?q=%23FASTX) | N/A |
+| 42 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 43 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
+| 44 | [#FueraCocca](http://twitter.com/search?q=%23FueraCocca) | N/A |
+| 45 | [#ViernesDeRiesgo](http://twitter.com/search?q=%23ViernesDeRiesgo) | N/A |
+| 46 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-02-10 23:16:44 UTC`
+📆 Last Updated: `2023-02-11 00:26:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [India](</India>)
 | 9 | [श्री राजेश पायलट](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
 | 10 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
 | 11 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 12 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 13 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 14 | [parents worship day](http://twitter.com/search?q=parents+worship+day) | N/A |
-| 15 | [no old age homes](http://twitter.com/search?q=no+old+age+homes) | N/A |
-| 16 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 17 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 18 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 19 | [u20 ahmedabad](http://twitter.com/search?q=u20+ahmedabad) | N/A |
-| 20 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 12 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 13 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 14 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 15 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
+| 16 | [u20 ahmedabad](http://twitter.com/search?q=u20+ahmedabad) | N/A |
+| 17 | [parents worship day](http://twitter.com/search?q=parents+worship+day) | N/A |
+| 18 | [no old age homes](http://twitter.com/search?q=no+old+age+homes) | N/A |
+| 19 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 20 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 21 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
-| 23 | [EOS-07](http://twitter.com/search?q=EOS-07) | N/A |
-| 24 | [PhonePe](http://twitter.com/search?q=PhonePe) | N/A |
-| 25 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
-| 26 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [उत्तर प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | उत्तर प्रदेश (Uttar Pradesh) is a state in northern India. It is the most populous state in the country and has a population of over 200 million people. The name literally translates to "Northern Province" in English. |
-| 28 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 29 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 30 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 31 | [SHALIN FOR THE WIN](http://twitter.com/search?q=SHALIN+FOR+THE+WIN) | N/A |
-| 32 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 33 | [Chamari Athapaththu](http://twitter.com/search?q=Chamari+Athapaththu) | N/A |
-| 34 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
-| 35 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 36 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 22 | [Kesariya Tera Ishq Hai Piya](http://twitter.com/search?q=Kesariya+Tera+Ishq+Hai+Piya) | N/A |
+| 23 | [phonepe](http://twitter.com/search?q=phonepe) | N/A |
+| 24 | [eos-07](http://twitter.com/search?q=eos-07) | N/A |
+| 25 | [SSR Fought BW Evil Ecosystem](http://twitter.com/search?q=SSR+Fought+BW+Evil+Ecosystem) | N/A |
+| 26 | [FAHMAAN HITS 50 AS RAVI](http://twitter.com/search?q=FAHMAAN+HITS+50+AS+RAVI) | N/A |
+| 27 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 28 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 29 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 30 | [उत्तर प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | उत्तर प्रदेश (Uttar Pradesh) is a state in northern India. It is the most populous state in the country and has a population of over 200 million people. The name literally translates to "Northern Province" in English. |
+| 31 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 32 | [चिरंजीवी योजना](http://twitter.com/search?q=%e0%a4%9a%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 33 | [फिरोज गांधी](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 34 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 35 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 36 | [Chamari Athapaththu](http://twitter.com/search?q=Chamari+Athapaththu) | N/A |
 | 37 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 38 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 39 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 41 | [Journey](http://twitter.com/search?q=Journey) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [ALWAYS BY JUNGKOOK'S SIDE](http://twitter.com/search?q=ALWAYS+BY+JUNGKOOK%27S+SIDE) | N/A |
-| 44 | [Raj & DK](http://twitter.com/search?q=Raj+%26+DK) | N/A |
-| 45 | [Raj and DK](http://twitter.com/search?q=Raj+and+DK) | N/A |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 38 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 40 | [Raj & DK](http://twitter.com/search?q=Raj+%26+DK) | N/A |
+| 41 | [Raj and DK](http://twitter.com/search?q=Raj+and+DK) | N/A |
+| 42 | [Abdu](http://twitter.com/search?q=Abdu) | N/A |
+| 43 | [Hanuman](http://twitter.com/search?q=Hanuman) | N/A |
+| 44 | [Rs 500](http://twitter.com/search?q=Rs+500) | N/A |
+| 45 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 46 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 48 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
+| 49 | [Neend](http://twitter.com/search?q=Neend) | N/A |
+| 50 | [Britishers](http://twitter.com/search?q=Britishers) | N/A |
 
 
 

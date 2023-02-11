@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-10 23:16:21 UTC`
+📆 Last Updated: `2023-02-11 00:26:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 4 | [#swifcob23](http://twitter.com/search?q=%23swifcob23) | N/A |
 | 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 6 | [#sauhaufen](http://twitter.com/search?q=%23sauhaufen) | N/A |
-| 7 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [dick marty](http://twitter.com/search?q=dick+marty) | N/A |
-| 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 12 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 13 | [Teile](http://twitter.com/search?q=Teile) | N/A |
-| 14 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 15 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 16 | [seich](http://twitter.com/search?q=seich) | N/A |
-| 17 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 18 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 19 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 20 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 21 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 22 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 23 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
-| 26 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 27 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 28 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
-| 29 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 30 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 31 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 32 | [Generationen](http://twitter.com/search?q=Generationen) | N/A |
-| 33 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 34 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 35 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 36 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 37 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 39 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 40 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
-| 41 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
-| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 43 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 44 | [Orte](http://twitter.com/search?q=Orte) | N/A |
-| 45 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 46 | [Fahne](http://twitter.com/search?q=Fahne) | N/A |
-| 47 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 7 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 8 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 9 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 10 | [dick marty](http://twitter.com/search?q=dick+marty) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 12 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 13 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 14 | [Teile](http://twitter.com/search?q=Teile) | N/A |
+| 15 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
+| 16 | [Seich](http://twitter.com/search?q=Seich) | N/A |
+| 17 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 18 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [Arbeitsbedingungen](http://twitter.com/search?q=Arbeitsbedingungen) | N/A |
+| 21 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 22 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 23 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 24 | [Position](http://twitter.com/search?q=Position) | N/A |
+| 25 | [Fahrzeuge](http://twitter.com/search?q=Fahrzeuge) | N/A |
+| 26 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 27 | [Niro](http://twitter.com/search?q=Niro) | N/A |
+| 28 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 29 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 30 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 31 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 32 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 33 | [Prinzip](http://twitter.com/search?q=Prinzip) | N/A |
+| 34 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 35 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 36 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
+| 37 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 38 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 39 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 40 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 41 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 44 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 45 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 46 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 47 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 48 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
 
 
 

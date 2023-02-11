@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-10 23:17:02 UTC`
+📆 Last Updated: `2023-02-11 00:26:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Israel
 | 2 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
 | 3 | [ילד בן](http://twitter.com/search?q=%d7%99%d7%9c%d7%93+%d7%91%d7%9f) | N/A |
 | 4 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
-| 5 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 6 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
-| 7 | [הפיגוע בירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 8 | [רמות בירושלים](http://twitter.com/search?q=%d7%a8%d7%9e%d7%95%d7%aa+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 9 | [Ramot](http://twitter.com/search?q=Ramot) | N/A |
-| 10 | [בר לב](http://twitter.com/search?q=%d7%91%d7%a8+%d7%9c%d7%91) | N/A |
-| 11 | [דן חלוץ](http://twitter.com/search?q=%d7%93%d7%9f+%d7%97%d7%9c%d7%95%d7%a5) | N/A |
+| 5 | [מזרח ירושלים](http://twitter.com/search?q=%d7%9e%d7%96%d7%a8%d7%97+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 6 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
+| 7 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
+| 8 | [הפיגוע בירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 9 | [בר לב](http://twitter.com/search?q=%d7%91%d7%a8+%d7%9c%d7%91) | N/A |
+| 10 | [Ramot](http://twitter.com/search?q=Ramot) | N/A |
+| 11 | [רמות בירושלים](http://twitter.com/search?q=%d7%a8%d7%9e%d7%95%d7%aa+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 | 12 | [גוש נתניהו](http://twitter.com/search?q=%d7%92%d7%95%d7%a9+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 13 | [ביום ראשון](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
-| 14 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 15 | [מזרח ירושלים](http://twitter.com/search?q=%d7%9e%d7%96%d7%a8%d7%97+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 16 | [רק גירוש](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%92%d7%99%d7%a8%d7%95%d7%a9) | N/A |
+| 14 | [רק גירוש](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%92%d7%99%d7%a8%d7%95%d7%a9) | N/A |
+| 15 | [עוד פיגוע](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 16 | [דן חלוץ](http://twitter.com/search?q=%d7%93%d7%9f+%d7%97%d7%9c%d7%95%d7%a5) | N/A |
 | 17 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
-| 18 | [עוד פיגוע](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 19 | [של מנדלבליט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%93%d7%9c%d7%91%d7%9c%d7%99%d7%98) | N/A |
+| 18 | [של מנדלבליט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%93%d7%9c%d7%91%d7%9c%d7%99%d7%98) | N/A |
+| 19 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
 | 20 | [פיגוע רודף פיגוע](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%a8%d7%95%d7%93%d7%a3+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
 | 21 | [חוק הכותל](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
-| 22 | [אחרי הפיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%94%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 22 | [יום חופש](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
 | 23 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 24 | [יום חופש](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
+| 24 | [אחרי הפיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%94%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
 | 25 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
 | 26 | [נגד הטרור](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
 | 27 | [מחוז ירושלים](http://twitter.com/search?q=%d7%9e%d7%97%d7%95%d7%96+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 28 | [דפנה ברק ארז](http://twitter.com/search?q=%d7%93%d7%a4%d7%a0%d7%94+%d7%91%d7%a8%d7%a7+%d7%90%d7%a8%d7%96) | N/A |
-| 29 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 30 | [מגה פיגוע](http://twitter.com/search?q=%d7%9e%d7%92%d7%94+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 31 | [שולחן השבת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a9%d7%91%d7%aa) | N/A |
-| 32 | [השם יקום דמו](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%99%d7%a7%d7%95%d7%9d+%d7%93%d7%9e%d7%95) | N/A |
-| 33 | [ערב שבת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a9%d7%91%d7%aa) | N/A |
-| 34 | [דם יהודי](http://twitter.com/search?q=%d7%93%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
-| 35 | [רב הכותל](http://twitter.com/search?q=%d7%a8%d7%91+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
-| 36 | [שבת קודש](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a7%d7%95%d7%93%d7%a9) | N/A |
+| 28 | [מגה פיגוע](http://twitter.com/search?q=%d7%9e%d7%92%d7%94+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 29 | [דפנה ברק ארז](http://twitter.com/search?q=%d7%93%d7%a4%d7%a0%d7%94+%d7%91%d7%a8%d7%a7+%d7%90%d7%a8%d7%96) | N/A |
+| 30 | [השם יקום דמו](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%99%d7%a7%d7%95%d7%9d+%d7%93%d7%9e%d7%95) | N/A |
+| 31 | [ערב שבת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a9%d7%91%d7%aa) | N/A |
+| 32 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 33 | [דם יהודי](http://twitter.com/search?q=%d7%93%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
+| 34 | [רב הכותל](http://twitter.com/search?q=%d7%a8%d7%91+%d7%94%d7%9b%d7%95%d7%aa%d7%9c) | N/A |
+| 35 | [נבצרות עכשיו](http://twitter.com/search?q=%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa+%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
+| 36 | [שולחן השבת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a9%d7%91%d7%aa) | N/A |
 | 37 | [קובי שבתאי](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a9%d7%91%d7%aa%d7%90%d7%99) | N/A |
-| 38 | [ביום שישי](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 39 | [רצח יהודים](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
-| 40 | [חיות אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%95%d7%aa+%d7%90%d7%93%d7%9d) | N/A |
-| 41 | [בג״ץ](http://twitter.com/search?q=%d7%91%d7%92%d7%b4%d7%a5) | N/A |
+| 38 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 39 | [שבת קודש](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a7%d7%95%d7%93%d7%a9) | N/A |
+| 40 | [בג״ץ](http://twitter.com/search?q=%d7%91%d7%92%d7%b4%d7%a5) | N/A |
+| 41 | [רצח יהודים](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
 | 42 | [תוך חודש](http://twitter.com/search?q=%d7%aa%d7%95%d7%9a+%d7%97%d7%95%d7%93%d7%a9) | N/A |
-| 43 | [שבת היא](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%94%d7%99%d7%90) | N/A |
-| 44 | [קירוב לבבות](http://twitter.com/search?q=%d7%a7%d7%99%d7%a8%d7%95%d7%91+%d7%9c%d7%91%d7%91%d7%95%d7%aa) | N/A |
-| 45 | [מול הטרור](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
-| 46 | [בן גיגי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%99%d7%92%d7%99) | N/A |
-| 47 | [חצי שנת מאסר](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%a9%d7%a0%d7%aa+%d7%9e%d7%90%d7%a1%d7%a8) | N/A |
+| 43 | [חיות אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%95%d7%aa+%d7%90%d7%93%d7%9d) | N/A |
+| 44 | [שבת היא](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%94%d7%99%d7%90) | N/A |
+| 45 | [טייס קרב](http://twitter.com/search?q=%d7%98%d7%99%d7%99%d7%a1+%d7%a7%d7%a8%d7%91) | N/A |
+| 46 | [קירוב לבבות](http://twitter.com/search?q=%d7%a7%d7%99%d7%a8%d7%95%d7%91+%d7%9c%d7%91%d7%91%d7%95%d7%aa) | N/A |
+| 47 | [בן גיגי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%99%d7%92%d7%99) | N/A |
 | 48 | [ילדים יהודים](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%99%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d) | N/A |
-| 49 | [טייס קרב](http://twitter.com/search?q=%d7%98%d7%99%d7%99%d7%a1+%d7%a7%d7%a8%d7%91) | N/A |
-| 50 | [מר ביטחון](http://twitter.com/search?q=%d7%9e%d7%a8+%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f) | N/A |
+| 49 | [חצי שנת מאסר](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%a9%d7%a0%d7%aa+%d7%9e%d7%90%d7%a1%d7%a8) | N/A |
+| 50 | [בני יהודה](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
 
 
 

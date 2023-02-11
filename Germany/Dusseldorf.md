@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-10 23:16:17 UTC`
+📆 Last Updated: `2023-02-11 00:26:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 2 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
-| 3 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
+| 1 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
+| 2 | [#RTLTurmspringen](http://twitter.com/search?q=%23RTLTurmspringen) | N/A |
+| 3 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
 | 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [#sexygeburt](http://twitter.com/search?q=%23sexygeburt) | N/A |
-| 6 | [#Alaska](http://twitter.com/search?q=%23Alaska) | N/A |
-| 7 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 8 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 9 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 10 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 11 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 12 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 13 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 14 | [Sprung](http://twitter.com/search?q=Sprung) | N/A |
-| 15 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 16 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 17 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 18 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 19 | [Wehrmacht](http://twitter.com/search?q=Wehrmacht) | N/A |
-| 20 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 21 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 22 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 23 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 24 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
-| 25 | [Widerlich](http://twitter.com/search?q=Widerlich) | N/A |
-| 26 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
-| 27 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 28 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
-| 29 | [#fif23](http://twitter.com/search?q=%23fif23) | N/A |
-| 30 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
-| 31 | [#DSCFCH](http://twitter.com/search?q=%23DSCFCH) | N/A |
-| 32 | [#KSCSGF](http://twitter.com/search?q=%23KSCSGF) | N/A |
-| 33 | [#AUESVW](http://twitter.com/search?q=%23AUESVW) | N/A |
-| 34 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
-| 35 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
-| 36 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 37 | [#frivolerFreitag](http://twitter.com/search?q=%23frivolerFreitag) | N/A |
-| 38 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [#FastnachtinFranken](http://twitter.com/search?q=%23FastnachtinFranken) | N/A |
+| 6 | [#sexygeburt](http://twitter.com/search?q=%23sexygeburt) | N/A |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 9 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 10 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 12 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 13 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 14 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 15 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 16 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 17 | [Terodde](http://twitter.com/search?q=Terodde) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 20 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 21 | [Sprung](http://twitter.com/search?q=Sprung) | N/A |
+| 22 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 23 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
+| 24 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 25 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 26 | [Blackfacing](http://twitter.com/search?q=Blackfacing) | N/A |
+| 27 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
+| 28 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 29 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 30 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
+| 31 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 32 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 33 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 34 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 35 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 36 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 38 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 39 | ['Fenster'](http://twitter.com/search?q=%27Fenster%27) | N/A |
+| 40 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 41 | [Wehrmacht](http://twitter.com/search?q=Wehrmacht) | N/A |
+| 42 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 43 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 44 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 45 | [Gymnasien](http://twitter.com/search?q=Gymnasien) | N/A |
+| 46 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 47 | [Benjamin Brand](http://twitter.com/search?q=Benjamin+Brand) | N/A |
+| 48 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
+| 49 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
 
 
 

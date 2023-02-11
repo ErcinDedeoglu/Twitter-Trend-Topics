@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-10 23:17:02 UTC`
+📆 Last Updated: `2023-02-11 00:26:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Estadio Carlos Salazar](http://twitter.com/search?q=Estadio+Carlos+Salazar) | N/A |
-| 2 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 3 | [4 de mixco](http://twitter.com/search?q=4+de+mixco) | N/A |
-| 4 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
-| 5 | [DENNIS ARANA](http://twitter.com/search?q=DENNIS+ARANA) | N/A |
-| 6 | [bulevar el naranjo](http://twitter.com/search?q=bulevar+el+naranjo) | N/A |
-| 7 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 8 | [Xelapan](http://twitter.com/search?q=Xelapan) | Xelapan is a Mayan word meaning “to be brave” or “to have courage.” It is often used as a reminder to stay strong and courageous in the face of adversity. |
-| 9 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 12 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
-| 13 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
-| 14 | [#FASTX](http://twitter.com/search?q=%23FASTX) | N/A |
-| 15 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 16 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
-| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 18 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 19 | [HAVE A SAFE FLIGHT YOONGI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+YOONGI) | "HAVE A SAFE FLIGHT YOONGI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be used for anyone, but in this case it is specifically directed at someone named Yoongi. |
+| 1 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 2 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 3 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
+| 4 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
+| 5 | [Estadio Carlos Salazar](http://twitter.com/search?q=Estadio+Carlos+Salazar) | N/A |
+| 6 | [4 de mixco](http://twitter.com/search?q=4+de+mixco) | N/A |
+| 7 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 8 | [bulevar el naranjo](http://twitter.com/search?q=bulevar+el+naranjo) | N/A |
+| 9 | [DENNIS ARANA](http://twitter.com/search?q=DENNIS+ARANA) | N/A |
+| 10 | [Mazatenango](http://twitter.com/search?q=Mazatenango) | N/A |
+| 11 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 12 | [Xelapan](http://twitter.com/search?q=Xelapan) | Xelapan is a Mayan word meaning “to be brave” or “to have courage.” It is often used as a reminder to stay strong and courageous in the face of adversity. |
+| 13 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [#FASTX](http://twitter.com/search?q=%23FASTX) | N/A |
+| 16 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 17 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 18 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 19 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
 | 20 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 21 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
-| 25 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 26 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 27 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 21 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 22 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 23 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 24 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 26 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
+| 27 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 | 28 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
 | 29 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 30 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 31 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 32 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 33 | [San Mateo](http://twitter.com/search?q=San+Mateo) | N/A |
-| 34 | [rodrigo saravia](http://twitter.com/search?q=rodrigo+saravia) | N/A |
-| 35 | [Tribunal Supremo Electoral](http://twitter.com/search?q=Tribunal+Supremo+Electoral) | N/A |
-| 36 | [Gaby Asturias](http://twitter.com/search?q=Gaby+Asturias) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 30 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 31 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 32 | [rodrigo saravia](http://twitter.com/search?q=rodrigo+saravia) | N/A |
+| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 35 | [Gaby Asturias](http://twitter.com/search?q=Gaby+Asturias) | N/A |
+| 36 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 37 | [San Mateo](http://twitter.com/search?q=San+Mateo) | N/A |
 | 38 | [carlos ruano](http://twitter.com/search?q=carlos+ruano) | N/A |
-| 39 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 40 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 41 | [blanca stalling](http://twitter.com/search?q=blanca+stalling) | N/A |
-| 42 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
-| 43 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 44 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
+| 39 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 40 | [Cremas](http://twitter.com/search?q=Cremas) | N/A |
+| 41 | [Aldo Dávila](http://twitter.com/search?q=Aldo+D%c3%a1vila) | N/A |
+| 42 | [blanca stalling](http://twitter.com/search?q=blanca+stalling) | N/A |
+| 43 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 45 | [erick melgar padilla](http://twitter.com/search?q=erick+melgar+padilla) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 48 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 49 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 50 | [Cremas](http://twitter.com/search?q=Cremas) | N/A |
+| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 47 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 48 | [Corte Suprema de Justicia](http://twitter.com/search?q=Corte+Suprema+de+Justicia) | N/A |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 50 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 
 
 

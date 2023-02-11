@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-10 23:15:59 UTC`
+📆 Last Updated: `2023-02-11 00:26:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 2 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 3 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
-| 4 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
-| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 6 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 8 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 9 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 11 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
-| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 13 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 14 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 15 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 17 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 1 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 2 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 5 | [#BoycottNetflix](http://twitter.com/search?q=%23BoycottNetflix) | N/A |
+| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 7 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 8 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 9 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 12 | [Triple Pizza Box](http://twitter.com/search?q=Triple+Pizza+Box) | N/A |
+| 13 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 14 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 15 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 16 | [Bontis](http://twitter.com/search?q=Bontis) | N/A |
+| 17 | [Masai](http://twitter.com/search?q=Masai) | N/A |
 | 18 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
 | 19 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [Laval](http://twitter.com/search?q=Laval) | N/A |
+| 20 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 22 | [wordle 600 x](http://twitter.com/search?q=wordle+600+x) | N/A |
-| 23 | [Rex Murphy](http://twitter.com/search?q=Rex+Murphy) | N/A |
+| 23 | [Laval](http://twitter.com/search?q=Laval) | N/A |
 | 24 | [Wired](http://twitter.com/search?q=Wired) | N/A |
 | 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 26 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 27 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 26 | [Jordan Peterson and Rex Murphy](http://twitter.com/search?q=Jordan+Peterson+and+Rex+Murphy) | N/A |
+| 27 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
 | 28 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
 | 29 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 31 | [Billings Bridge](http://twitter.com/search?q=Billings+Bridge) | N/A |
+| 30 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 31 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 32 | [Haroun Bouazzi](http://twitter.com/search?q=Haroun+Bouazzi) | N/A |
-| 33 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 36 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
-| 37 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 38 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 39 | [Congratulations Tammie](http://twitter.com/search?q=Congratulations+Tammie) | N/A |
-| 40 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 41 | [Sharbot Lake](http://twitter.com/search?q=Sharbot+Lake) | N/A |
-| 42 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 43 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 44 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 45 | [L'Heureux](http://twitter.com/search?q=L%27Heureux) | N/A |
-| 46 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 47 | [Jordan Harris](http://twitter.com/search?q=Jordan+Harris) | N/A |
-| 48 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 33 | [Billings Bridge](http://twitter.com/search?q=Billings+Bridge) | N/A |
+| 34 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 35 | [Fast and Furious](http://twitter.com/search?q=Fast+and+Furious) | N/A |
+| 36 | [Congratulations Tammie](http://twitter.com/search?q=Congratulations+Tammie) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 39 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 40 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 41 | [Stag and Doe](http://twitter.com/search?q=Stag+and+Doe) | N/A |
+| 42 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 43 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
+| 44 | [Pitre](http://twitter.com/search?q=Pitre) | N/A |
+| 45 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 46 | [Metroid Prime](http://twitter.com/search?q=Metroid+Prime) | N/A |
+| 47 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 
 
 
