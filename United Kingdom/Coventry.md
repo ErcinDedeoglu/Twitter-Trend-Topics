@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-11 07:15:25 UTC`
+📆 Last Updated: `2023-02-11 08:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 2 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 3 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
-| 4 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 8 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 9 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 12 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 13 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 16 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 18 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 19 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 22 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 24 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 25 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
-| 30 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
-| 31 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 32 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 33 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 34 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 35 | [rip ron](http://twitter.com/search?q=rip+ron) | N/A |
-| 36 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 37 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 38 | [Care4Calais](http://twitter.com/search?q=Care4Calais) | N/A |
-| 39 | [Radiohead - In Rainbows](http://twitter.com/search?q=Radiohead+-+In+Rainbows) | N/A |
-| 40 | [Lee Rigby](http://twitter.com/search?q=Lee+Rigby) | N/A |
-| 41 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 42 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
-| 43 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 44 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
-| 45 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 46 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 47 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 5 | [#rubbishnames](http://twitter.com/search?q=%23rubbishnames) | N/A |
+| 6 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 7 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 9 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 12 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 13 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 14 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 16 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 17 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 18 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 19 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 21 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
+| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 23 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 24 | [Happy Birthday Ben](http://twitter.com/search?q=Happy+Birthday+Ben) | N/A |
+| 25 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 26 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 27 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 28 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 29 | [Care4Calais](http://twitter.com/search?q=Care4Calais) | N/A |
+| 30 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 32 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [RIP AKA](http://twitter.com/search?q=RIP+AKA) | N/A |
+| 35 | [West Lancashire](http://twitter.com/search?q=West+Lancashire) | N/A |
+| 36 | [Bob Mortimer](http://twitter.com/search?q=Bob+Mortimer) | N/A |
+| 37 | [DAVID JONES](http://twitter.com/search?q=DAVID+JONES) | N/A |
+| 38 | [Far Left](http://twitter.com/search?q=Far+Left) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 40 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 41 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 42 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 43 | [Ellie and Jordan](http://twitter.com/search?q=Ellie+and+Jordan) | N/A |
+| 44 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 45 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 46 | [Ron Lewis](http://twitter.com/search?q=Ron+Lewis) | N/A |
+| 47 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 48 | [Great Yarmouth](http://twitter.com/search?q=Great+Yarmouth) | N/A |
 
 
 

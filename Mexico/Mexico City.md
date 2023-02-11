@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-11 07:15:28 UTC`
+📆 Last Updated: `2023-02-11 08:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OneusInMexico](http://twitter.com/search?q=%23OneusInMexico) | N/A |
-| 2 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 1 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 2 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#Roier24horas](http://twitter.com/search?q=%23Roier24horas) | N/A |
-| 5 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
-| 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 7 | [LUCERO CASTAÑA](http://twitter.com/search?q=LUCERO+CASTA%c3%91A) | N/A |
-| 8 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 10 | [#BatallaAllStar](http://twitter.com/search?q=%23BatallaAllStar) | N/A |
-| 11 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 12 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 13 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 14 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 15 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
-| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 17 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 4 | [#1MillonDeTripitas](http://twitter.com/search?q=%231MillonDeTripitas) | N/A |
+| 5 | [#Roier24horas](http://twitter.com/search?q=%23Roier24horas) | N/A |
+| 6 | [#1Millonoier](http://twitter.com/search?q=%231Millonoier) | N/A |
+| 7 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
+| 8 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 9 | [LUCERO CASTAÑA](http://twitter.com/search?q=LUCERO+CASTA%c3%91A) | N/A |
+| 10 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 11 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 12 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 13 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
+| 14 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 15 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 16 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
+| 17 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
 | 18 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 19 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 20 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
+| 19 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 20 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
 | 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 23 | [Moni](http://twitter.com/search?q=Moni) | N/A |
+| 22 | [Moni](http://twitter.com/search?q=Moni) | N/A |
+| 23 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 24 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 25 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 26 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 27 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
-| 30 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
-| 31 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 32 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 25 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 26 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 27 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 28 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 29 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 30 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
+| 31 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 32 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
 | 33 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
-| 34 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
-| 35 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 37 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 34 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 35 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
+| 36 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 38 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 39 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
-| 40 | [Rubén Omar Romano](http://twitter.com/search?q=Rub%c3%a9n+Omar+Romano) | N/A |
-| 41 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 42 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 43 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 44 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 45 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 46 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 47 | [Auron y Biyin](http://twitter.com/search?q=Auron+y+Biyin) | N/A |
-| 48 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 49 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 50 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
+| 39 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 40 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 41 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 42 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 43 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 44 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 45 | [Auron y Biyin](http://twitter.com/search?q=Auron+y+Biyin) | N/A |
+| 46 | [Díaz Canel](http://twitter.com/search?q=D%c3%adaz+Canel) | N/A |
+| 47 | [Astroboy](http://twitter.com/search?q=Astroboy) | N/A |
+| 48 | [#BatallaAllStar](http://twitter.com/search?q=%23BatallaAllStar) | N/A |
+| 49 | [#OneusInMexico](http://twitter.com/search?q=%23OneusInMexico) | N/A |
+| 50 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
 
 
 

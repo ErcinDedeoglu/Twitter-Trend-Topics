@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-11 07:15:41 UTC`
+📆 Last Updated: `2023-02-11 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023C5](http://twitter.com/search?q=%23COAC2023C5) | N/A |
-| 2 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 3 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
-| 4 | [#DondeSeJuegaTodo](http://twitter.com/search?q=%23DondeSeJuegaTodo) | N/A |
-| 5 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 6 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
-| 7 | [#KirbyEnGAME](http://twitter.com/search?q=%23KirbyEnGAME) | N/A |
+| 1 | [#AgropopularElEmbocador](http://twitter.com/search?q=%23AgropopularElEmbocador) | N/A |
+| 2 | [Manuel Godoy](http://twitter.com/search?q=Manuel+Godoy) | N/A |
+| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 4 | [#COAC2023C5](http://twitter.com/search?q=%23COAC2023C5) | N/A |
+| 5 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 6 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 7 | [#DondeSeJuegaTodo](http://twitter.com/search?q=%23DondeSeJuegaTodo) | N/A |
 | 8 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 9 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 10 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 12 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
-| 13 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
-| 14 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
-| 15 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 16 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 17 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 9 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 10 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 11 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 12 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 13 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 15 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
+| 16 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
+| 17 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 | 18 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
 | 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 20 | [Escalante](http://twitter.com/search?q=Escalante) | N/A |
-| 21 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 22 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
-| 23 | [Elady](http://twitter.com/search?q=Elady) | N/A |
-| 24 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 25 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 26 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 27 | [Sergi Guardiola](http://twitter.com/search?q=Sergi+Guardiola) | N/A |
-| 28 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 29 | [La Caza](http://twitter.com/search?q=La+Caza) | N/A |
-| 30 | [Cría Cuervos](http://twitter.com/search?q=Cr%c3%ada+Cuervos) | N/A |
-| 31 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 32 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 33 | [Macarena Olona](http://twitter.com/search?q=Macarena+Olona) | N/A |
-| 34 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
+| 21 | [Elady](http://twitter.com/search?q=Elady) | N/A |
+| 22 | [sergio gonzález](http://twitter.com/search?q=sergio+gonz%c3%a1lez) | N/A |
+| 23 | [Sergi Guardiola](http://twitter.com/search?q=Sergi+Guardiola) | N/A |
+| 24 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 25 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
+| 26 | [la caza](http://twitter.com/search?q=la+caza) | N/A |
+| 27 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 28 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 29 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 30 | [CHRIS JONES](http://twitter.com/search?q=CHRIS+JONES) | N/A |
+| 31 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 32 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
+| 33 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 34 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
 | 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 36 | [ana morgade](http://twitter.com/search?q=ana+morgade) | N/A |
-| 37 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 38 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 40 | [HANDER](http://twitter.com/search?q=HANDER) | N/A |
-| 41 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 42 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 43 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 38 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 39 | [Maléfica](http://twitter.com/search?q=Mal%c3%a9fica) | N/A |
+| 40 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 41 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 42 | [Lluis](http://twitter.com/search?q=Lluis) | N/A |
+| 43 | [La UME](http://twitter.com/search?q=La+UME) | N/A |
 | 44 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 45 | [Bongonda](http://twitter.com/search?q=Bongonda) | N/A |
-| 46 | [La UME](http://twitter.com/search?q=La+UME) | N/A |
-| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 48 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 49 | [paloma lago](http://twitter.com/search?q=paloma+lago) | N/A |
+| 45 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 47 | [Ana Morgade](http://twitter.com/search?q=Ana+Morgade) | N/A |
+| 48 | [paloma lago](http://twitter.com/search?q=paloma+lago) | N/A |
+| 49 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 
 
 

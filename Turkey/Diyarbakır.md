@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-11 07:16:01 UTC`
+📆 Last Updated: `2023-02-11 08:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,41 +18,52 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#depremzede](http://twitter.com/search?q=%23depremzede) | N/A |
 | 2 | [#ahbab](http://twitter.com/search?q=%23ahbab) | N/A |
 | 3 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
-| 4 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 5 | [Hakkımı](http://twitter.com/search?q=Hakk%c4%b1m%c4%b1) | N/A |
-| 6 | [Kendisine Allah'tan](http://twitter.com/search?q=Kendisine+Allah%27tan) | N/A |
-| 7 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
-| 8 | [Genel Başkanı](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1) | N/A |
-| 9 | [Şafak Aydın](http://twitter.com/search?q=%c5%9eafak+Ayd%c4%b1n) | N/A |
-| 10 | [Üzülmedim](http://twitter.com/search?q=%c3%9cz%c3%bclmedim) | N/A |
-| 11 | [Ölünün](http://twitter.com/search?q=%c3%96l%c3%bcn%c3%bcn) | N/A |
-| 12 | [#kaos](http://twitter.com/search?q=%23kaos) | N/A |
-| 13 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 5 | [yetmişyaşındaki dede](http://twitter.com/search?q=yetmi%c5%9fya%c5%9f%c4%b1ndaki+dede) | N/A |
+| 6 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 7 | [Hakkımı](http://twitter.com/search?q=Hakk%c4%b1m%c4%b1) | N/A |
+| 8 | [#kaos](http://twitter.com/search?q=%23kaos) | N/A |
+| 9 | [Kendisine Allah'tan](http://twitter.com/search?q=Kendisine+Allah%27tan) | N/A |
+| 10 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
+| 11 | [Genel Başkanı](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1) | N/A |
+| 12 | [Şafak Aydın](http://twitter.com/search?q=%c5%9eafak+Ayd%c4%b1n) | N/A |
+| 13 | [#128MilyarDolarNerede](http://twitter.com/search?q=%23128MilyarDolarNerede) | N/A |
 | 14 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 15 | [Kamilcan](http://twitter.com/search?q=Kamilcan) | N/A |
-| 16 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 17 | [Gram](http://twitter.com/search?q=Gram) | N/A |
-| 18 | [Başımıza](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1za) | N/A |
-| 19 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 20 | [Zerre](http://twitter.com/search?q=Zerre) | N/A |
-| 21 | [Allah Rahmet](http://twitter.com/search?q=Allah+Rahmet) | N/A |
-| 22 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 23 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
-| 24 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 25 | [Cennet](http://twitter.com/search?q=Cennet) | N/A |
-| 26 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 27 | [Hırsızlık](http://twitter.com/search?q=H%c4%b1rs%c4%b1zl%c4%b1k) | N/A |
-| 28 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
-| 29 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
-| 30 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
-| 31 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
-| 32 | [#baraj](http://twitter.com/search?q=%23baraj) | N/A |
-| 33 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
-| 34 | [#carsi](http://twitter.com/search?q=%23carsi) | N/A |
-| 35 | [#YAGMACILAR](http://twitter.com/search?q=%23YAGMACILAR) | N/A |
-| 36 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 37 | [#asker](http://twitter.com/search?q=%23asker) | N/A |
-| 38 | [#HaddiniBilLubeAyar](http://twitter.com/search?q=%23HaddiniBilLubeAyar) | N/A |
+| 15 | [Erzin](http://twitter.com/search?q=Erzin) | N/A |
+| 16 | [Üzülmedim](http://twitter.com/search?q=%c3%9cz%c3%bclmedim) | N/A |
+| 17 | [Antalya Milletvekilimiz](http://twitter.com/search?q=Antalya+Milletvekilimiz) | N/A |
+| 18 | [Ölünün](http://twitter.com/search?q=%c3%96l%c3%bcn%c3%bcn) | N/A |
+| 19 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 20 | [Kamilcan](http://twitter.com/search?q=Kamilcan) | N/A |
+| 21 | [Kasetle](http://twitter.com/search?q=Kasetle) | N/A |
+| 22 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
+| 23 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 24 | [Adamı](http://twitter.com/search?q=Adam%c4%b1) | N/A |
+| 25 | [Başımıza](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1za) | N/A |
+| 26 | [Parfüm](http://twitter.com/search?q=Parf%c3%bcm) | N/A |
+| 27 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 28 | [Gram](http://twitter.com/search?q=Gram) | N/A |
+| 29 | [Ölmüş](http://twitter.com/search?q=%c3%96lm%c3%bc%c5%9f) | N/A |
+| 30 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 31 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
+| 32 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 33 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
+| 34 | [Allah Rahmet Eylesin](http://twitter.com/search?q=Allah+Rahmet+Eylesin) | N/A |
+| 35 | [Zerre](http://twitter.com/search?q=Zerre) | N/A |
+| 36 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
+| 37 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 38 | [Cennet](http://twitter.com/search?q=Cennet) | N/A |
+| 39 | [Sayıştay](http://twitter.com/search?q=Say%c4%b1%c5%9ftay) | N/A |
+| 40 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 41 | [Günlerdir](http://twitter.com/search?q=G%c3%bcnlerdir) | N/A |
+| 42 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
+| 43 | [Arapça](http://twitter.com/search?q=Arap%c3%a7a) | N/A |
+| 44 | [Hırsızlık](http://twitter.com/search?q=H%c4%b1rs%c4%b1zl%c4%b1k) | N/A |
+| 45 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
+| 46 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 47 | [#asker](http://twitter.com/search?q=%23asker) | N/A |
+| 48 | [#Baraj](http://twitter.com/search?q=%23Baraj) | N/A |
+| 49 | [#polis](http://twitter.com/search?q=%23polis) | N/A |
 
 
 

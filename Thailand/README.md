@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-11 07:16:17 UTC`
+📆 Last Updated: `2023-02-11 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,51 @@ This is top 50 for Thailand
 | ------- | ------------ | ------------ |
 | 1 | [#NCTDREAM_THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_BKK) | #NCTDREAM_THEDREAMSHOW2_in_BKK is a hashtag used to promote the second edition of NCT Dream's The Dream Show concert series, which was held in Bangkok, Thailand. The hashtag is used to share news and updates about the event. |
 | 2 | [#SMTrue_MEMBERSHIP](http://twitter.com/search?q=%23SMTrue_MEMBERSHIP) | N/A |
-| 3 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 4 | [#BI_LOLTheHiddenStageinBKK](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinBKK) | N/A |
-| 5 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 6 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 7 | [PAIPAI GAMER](http://twitter.com/search?q=PAIPAI+GAMER) | N/A |
-| 8 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 9 | [BIRTHDAY FAN MEETING](http://twitter.com/search?q=BIRTHDAY+FAN+MEETING) | N/A |
-| 10 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
-| 11 | [Win x JKT](http://twitter.com/search?q=Win+x+JKT) | N/A |
-| 12 | [BAMBAM GM 11FEBRUARY](http://twitter.com/search?q=BAMBAM+GM+11FEBRUARY) | N/A |
-| 13 | [KEYU SHU UEMURA](http://twitter.com/search?q=KEYU+SHU+UEMURA) | N/A |
-| 14 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 15 | [BAMBAM HOME WITH YENA](http://twitter.com/search?q=BAMBAM+HOME+WITH+YENA) | N/A |
-| 16 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 17 | [cl x l'oréal paris th](http://twitter.com/search?q=cl+x+l%27or%c3%a9al+paris+th) | N/A |
-| 18 | [love collection x jamfilm](http://twitter.com/search?q=love+collection+x+jamfilm) | N/A |
-| 19 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 20 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 21 | [DATA NOT FOUND](http://twitter.com/search?q=DATA+NOT+FOUND) | N/A |
-| 22 | [Until I Found You](http://twitter.com/search?q=Until+I+Found+You) | N/A |
-| 23 | [Stephen Sanchez](http://twitter.com/search?q=Stephen+Sanchez) | N/A |
-| 24 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 25 | [Purchase History](http://twitter.com/search?q=Purchase+History) | N/A |
-| 26 | [702 Menu Challenge](http://twitter.com/search?q=702+Menu+Challenge) | N/A |
-| 27 | [SPECIAL DAY11 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY11+OF+ENGFA) | N/A |
-| 28 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
-| 29 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 30 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
-| 31 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
-| 32 | [#YEvolutionisComing](http://twitter.com/search?q=%23YEvolutionisComing) | N/A |
-| 33 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
-| 34 | [#englotxrapidlife](http://twitter.com/search?q=%23englotxrapidlife) | N/A |
-| 35 | [#ประเทศไทยมีมินยุนกิแล้ว](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a1%e0%b8%b5%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%a2%e0%b8%b8%e0%b8%99%e0%b8%81%e0%b8%b4%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 36 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
-| 37 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 38 | [#ทฤษฎีสีชมพูTheDebutante](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9TheDebutante) | N/A |
-| 39 | [#ใครๆก็โหวต127](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b9%86%e0%b8%81%e0%b9%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b8%95127) | N/A |
-| 40 | [#คนถ่ายภาพนี้ก็หล่อฉดใฉ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%89%e0%b8%94%e0%b9%83%e0%b8%89) | N/A |
-| 41 | [#ลังเลใจเซเพราะเธอ](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%83%e0%b8%88%e0%b9%80%e0%b8%8b%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 42 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
-| 43 | [#PPKrit_CELINE](http://twitter.com/search?q=%23PPKrit_CELINE) | N/A |
-| 44 | [#ATLASแกล้งลืม_Junior](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1_Junior) | N/A |
-| 45 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
-| 46 | [#ApoxVogueInSukhothai](http://twitter.com/search?q=%23ApoxVogueInSukhothai) | N/A |
-| 47 | [#เป็นต่อ2023xNook_Thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xNook_Thanadon) | N/A |
-| 48 | [#Mew2023BDGifts](http://twitter.com/search?q=%23Mew2023BDGifts) | N/A |
-| 49 | [#รถโรงเรียนSchoolRangers](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%96%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99SchoolRangers) | N/A |
-| 50 | [#Mew2023BDProjects](http://twitter.com/search?q=%23Mew2023BDProjects) | N/A |
+| 3 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
+| 4 | [#AyYo3rdWin](http://twitter.com/search?q=%23AyYo3rdWin) | N/A |
+| 5 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
+| 6 | [PAIPAI GAMER](http://twitter.com/search?q=PAIPAI+GAMER) | N/A |
+| 7 | [BIRTHDAY FAN MEETING](http://twitter.com/search?q=BIRTHDAY+FAN+MEETING) | N/A |
+| 8 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
+| 9 | [KEYU SHU UEMURA](http://twitter.com/search?q=KEYU+SHU+UEMURA) | N/A |
+| 10 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
+| 11 | [#BI_LOLTheHiddenStageinBKK](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinBKK) | N/A |
+| 12 | [#YEvolutionisComing](http://twitter.com/search?q=%23YEvolutionisComing) | N/A |
+| 13 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 14 | [#LOrealHOHxJimmySea](http://twitter.com/search?q=%23LOrealHOHxJimmySea) | N/A |
+| 15 | [#LOrealHOHxGeminiFourth](http://twitter.com/search?q=%23LOrealHOHxGeminiFourth) | N/A |
+| 16 | [#에이요_세번째_1위_축하해](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ec%9a%94_%ec%84%b8%eb%b2%88%ec%a7%b8_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 17 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
+| 18 | [#รถโรงเรียนSchoolRangers](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%96%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99SchoolRangers) | N/A |
+| 19 | [#OhmNanon1stFMSG](http://twitter.com/search?q=%23OhmNanon1stFMSG) | N/A |
+| 20 | [#ZKYx植村秀](http://twitter.com/search?q=%23ZKYx%e6%a4%8d%e6%9d%91%e7%a7%80) | N/A |
+| 21 | [#ATLASแกล้งลืม_Junior](http://twitter.com/search?q=%23ATLAS%e0%b9%81%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b8%b7%e0%b8%a1_Junior) | N/A |
+| 22 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
+| 23 | [#MyHeavenOnEarth_Jungwon](http://twitter.com/search?q=%23MyHeavenOnEarth_Jungwon) | N/A |
+| 24 | [#Mew2023BDProjects](http://twitter.com/search?q=%23Mew2023BDProjects) | N/A |
+| 25 | [#Mew2023BDGifts](http://twitter.com/search?q=%23Mew2023BDGifts) | N/A |
+| 26 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 27 | [#PPKritลังเล_MVKeyVisual01](http://twitter.com/search?q=%23PPKrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_MVKeyVisual01) | N/A |
+| 28 | [#1YSpecialBossNoeul](http://twitter.com/search?q=%231YSpecialBossNoeul) | N/A |
+| 29 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
+| 30 | [#พูดได้ไหมMV](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b9%e0%b8%94%e0%b9%84%e0%b8%94%e0%b9%89%e0%b9%84%e0%b8%ab%e0%b8%a1MV) | N/A |
+| 31 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
+| 32 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
+| 33 | [#JuniorATLAS](http://twitter.com/search?q=%23JuniorATLAS) | N/A |
+| 34 | [#HomeSchoolSeries](http://twitter.com/search?q=%23HomeSchoolSeries) | N/A |
+| 35 | [#เติมฝันกับเจมส์ศุ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%a1%e0%b8%9d%e0%b8%b1%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c%e0%b8%a8%e0%b8%b8) | N/A |
+| 36 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
+| 37 | [#HorwangsistersXGun](http://twitter.com/search?q=%23HorwangsistersXGun) | N/A |
+| 38 | [#พี่จักรกับแว่นสุดเท่](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%a7%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%97%e0%b9%88) | N/A |
+| 39 | [#MOBYeหวานใจFreeFire](http://twitter.com/search?q=%23MOBYe%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b9%83%e0%b8%88FreeFire) | N/A |
+| 40 | [#ลออจันทร์](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
+| 41 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
+| 42 | [#JamesSu](http://twitter.com/search?q=%23JamesSu) | N/A |
+| 43 | [#17องศาหรือจะสู้มีนปิง](http://twitter.com/search?q=%2317%e0%b8%ad%e0%b8%87%e0%b8%a8%e0%b8%b2%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad%e0%b8%88%e0%b8%b0%e0%b8%aa%e0%b8%b9%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 44 | [#โอมนนน](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b8%a1%e0%b8%99%e0%b8%99%e0%b8%99) | N/A |
+| 45 | [#FreeFireTH](http://twitter.com/search?q=%23FreeFireTH) | N/A |
+| 46 | [#OneTwoThreeSmile](http://twitter.com/search?q=%23OneTwoThreeSmile) | N/A |
+| 47 | [#FreeFireXMOBYe](http://twitter.com/search?q=%23FreeFireXMOBYe) | N/A |
 
 
 

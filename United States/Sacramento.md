@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-11 07:16:08 UTC`
+📆 Last Updated: `2023-02-11 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 1 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 2 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 3 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 4 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 5 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 6 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 7 | [The Kings](http://twitter.com/search?q=The+Kings) | The Kings is a term used to refer to the ruling family of a country or region. It is often used to refer to the ruling family of a monarchy, such as the British Royal Family. The term can also be used to refer to any powerful family or group that holds political power in a given area. |
-| 8 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 4 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 5 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 6 | [The Kings](http://twitter.com/search?q=The+Kings) | The Kings is a term used to refer to the ruling family of a country or region. It is often used to refer to the ruling family of a monarchy, such as the British Royal Family. The term can also be used to refer to any powerful family or group that holds political power in a given area. |
+| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 9 | [Raven](http://twitter.com/search?q=Raven) | N/A |
-| 10 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 11 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
-| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 13 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 10 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 12 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 14 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
 | 15 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
 | 16 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 17 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 18 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 17 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 18 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
 | 19 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 23 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 24 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 20 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 21 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
+| 22 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 23 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 24 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
 | 25 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 26 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 27 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
-| 28 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 26 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 27 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 28 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
 | 29 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 30 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 31 | [Pinson](http://twitter.com/search?q=Pinson) | N/A |
-| 32 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 33 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 34 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 30 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 31 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 32 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 33 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 34 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
 | 35 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
 | 36 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
 | 37 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 38 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 39 | [Anfernee](http://twitter.com/search?q=Anfernee) | N/A |
-| 40 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 41 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 42 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 38 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 39 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 40 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 41 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 42 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
 | 43 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 44 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 45 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 46 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 47 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 48 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 49 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 50 | [Isabeau](http://twitter.com/search?q=Isabeau) | N/A |
+| 44 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 45 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 46 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 47 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
+| 48 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 49 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 50 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
 
 
 
