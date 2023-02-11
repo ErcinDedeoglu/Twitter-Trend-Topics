@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-02-11 11:16:56 UTC`
+📆 Last Updated: `2023-02-11 12:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ازاي_تخنق_جارك](http://twitter.com/search?q=%23%d8%a7%d8%b2%d8%a7%d9%8a_%d8%aa%d8%ae%d9%86%d9%82_%d8%ac%d8%a7%d8%b1%d9%83) | N/A |
+| 1 | [#ارجع_بالبرونزيه_يا_اهلي](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%ac%d8%b9_%d8%a8%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d9%87_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 | 2 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 | 3 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 6 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 5 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 6 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
 | 7 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 8 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 8 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 9 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 10 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 10 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
 | 11 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
 | 12 | [دور المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
-| 13 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 14 | [١١ فبراير](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 15 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
-| 16 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 17 | [6 اكتوبر](http://twitter.com/search?q=6+%d8%a7%d9%83%d8%aa%d9%88%d8%a8%d8%b1) | N/A |
-| 18 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 19 | [سيف الجزيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a) | سيف الجزيري (Sayf al-Jazīrī) is an Arabic phrase meaning "Sword of the Peninsula". It is a term used to refer to the traditional weapon of the Arabian Peninsula, which was a curved sword with a single-edged blade. |
-| 20 | [الترم التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 21 | [11 فبراير](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 22 | [الاله الحاسبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
-| 23 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
-| 24 | [الاجازه الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 25 | [توني ستارك](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d9%8a+%d8%b3%d8%aa%d8%a7%d8%b1%d9%83) | N/A |
-| 26 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
+| 13 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
+| 14 | [البرلمانات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 15 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 16 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 17 | [الترم التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [المتحف المصري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 19 | [١١ فبراير](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 20 | [الاله الحاسبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
+| 21 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 22 | [6 اكتوبر](http://twitter.com/search?q=6+%d8%a7%d9%83%d8%aa%d9%88%d8%a8%d8%b1) | N/A |
+| 23 | [سيف الجزيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a) | سيف الجزيري (Sayf al-Jazīrī) is an Arabic phrase meaning "Sword of the Peninsula". It is a term used to refer to the traditional weapon of the Arabian Peninsula, which was a curved sword with a single-edged blade. |
+| 24 | [توني ستارك](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d9%8a+%d8%b3%d8%aa%d8%a7%d8%b1%d9%83) | N/A |
+| 25 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
+| 26 | [الاجازه الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
 | 27 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
 | 28 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
-| 29 | [يوسف اسامه](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d8%b3%d8%a7%d9%85%d9%87) | N/A |
-| 30 | [البرلمانات العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 29 | [11 فبراير](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 30 | [يوسف اسامه](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d8%b3%d8%a7%d9%85%d9%87) | N/A |
 | 31 | [البنات الطويله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d9%87) | N/A |
-| 32 | [المتحف المصري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 33 | [المقاولون العرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 34 | [احمد زويل](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b2%d9%88%d9%8a%d9%84) | N/A |
-| 35 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 36 | [علي المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
-| 37 | [علي غزل المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
-| 38 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 39 | [ريال بلوزداد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 40 | [الفريق الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 41 | [القايمه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 42 | [البرونزيه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 43 | [فيريرا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | N/A |
-| 44 | [عفاف راضي](http://twitter.com/search?q=%d8%b9%d9%81%d8%a7%d9%81+%d8%b1%d8%a7%d8%b6%d9%8a) | N/A |
-| 45 | [فريق مصري](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 46 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 47 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 48 | [ستاد القاهره](http://twitter.com/search?q=%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
-| 49 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 50 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
+| 32 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 33 | [احمد زويل](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b2%d9%88%d9%8a%d9%84) | N/A |
+| 34 | [علي المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
+| 35 | [علي غزل المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
+| 36 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 37 | [ريال بلوزداد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 38 | [القايمه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 39 | [الفريق الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 40 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 41 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 42 | [فيريرا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | N/A |
+| 43 | [عفاف راضي](http://twitter.com/search?q=%d8%b9%d9%81%d8%a7%d9%81+%d8%b1%d8%a7%d8%b6%d9%8a) | N/A |
+| 44 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 45 | [المنصوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%87) | N/A |
+| 46 | [جون سينا](http://twitter.com/search?q=%d8%ac%d9%88%d9%86+%d8%b3%d9%8a%d9%86%d8%a7) | N/A |
+| 47 | [ستاد القاهره](http://twitter.com/search?q=%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 48 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 49 | [علي الاراضي المصريه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 50 | [عمر سليمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
 
 
 

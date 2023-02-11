@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-11 11:16:54 UTC`
+📆 Last Updated: `2023-02-11 12:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 2 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 3 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 4 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 5 | [#TEMPESTatHMA2022](http://twitter.com/search?q=%23TEMPESTatHMA2022) | N/A |
-| 6 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 7 | [$PIT](http://twitter.com/search?q=%24PIT) | N/A |
-| 8 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 9 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 10 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 11 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 12 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 13 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
-| 14 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
-| 15 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
-| 16 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
-| 17 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 18 | [Chess](http://twitter.com/search?q=Chess) | N/A |
-| 19 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 20 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 21 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 22 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 23 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 24 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 25 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 26 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
-| 27 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
-| 28 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 1 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
+| 2 | [#TEMPESTatHMA2022](http://twitter.com/search?q=%23TEMPESTatHMA2022) | N/A |
+| 3 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 4 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
+| 5 | [#テンペスト](http://twitter.com/search?q=%23%e3%83%86%e3%83%b3%e3%83%9a%e3%82%b9%e3%83%88) | N/A |
+| 6 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 7 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 8 | [$PIT](http://twitter.com/search?q=%24PIT) | N/A |
+| 9 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 11 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
+| 12 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
+| 13 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
+| 14 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
+| 15 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 16 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
+| 17 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
+| 18 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 19 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
+| 20 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 21 | [Chess](http://twitter.com/search?q=Chess) | N/A |
+| 22 | [Bang](http://twitter.com/search?q=Bang) | N/A |
+| 23 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 24 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 25 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 26 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 28 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
-| 32 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
-| 33 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
-| 34 | [5 xcapx](http://twitter.com/search?q=5+xcapx) | N/A |
-| 35 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 36 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 38 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 39 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 40 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
-| 41 | [The Year of DeFi](http://twitter.com/search?q=The+Year+of+DeFi) | N/A |
-| 42 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 43 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 44 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Trong](http://twitter.com/search?q=Trong) | N/A |
-| 47 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 49 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 50 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 31 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 32 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 33 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
+| 34 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
+| 35 | [5 xcapx](http://twitter.com/search?q=5+xcapx) | N/A |
+| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 37 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
+| 38 | [The Year of DeFi](http://twitter.com/search?q=The+Year+of+DeFi) | N/A |
+| 39 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 40 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 41 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 42 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
+| 43 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 44 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
+| 45 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 47 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
+| 48 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 49 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 50 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
 
 
 

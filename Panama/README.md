@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-11 11:17:27 UTC`
+📆 Last Updated: `2023-02-11 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Panama
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
 | 3 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 4 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 5 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 6 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 4 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 5 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 6 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
 | 7 | [waked](http://twitter.com/search?q=waked) | N/A |
 | 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 9 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Panama
 | 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 45 | [chitre](http://twitter.com/search?q=chitre) | N/A |
 | 46 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 47 | [WORST JOB](http://twitter.com/search?q=WORST+JOB) | N/A |
-| 48 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 49 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 50 | [mauricio valenzuela](http://twitter.com/search?q=mauricio+valenzuela) | N/A |
+| 47 | [worst job](http://twitter.com/search?q=worst+job) | N/A |
+| 48 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 49 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 50 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 
 
 

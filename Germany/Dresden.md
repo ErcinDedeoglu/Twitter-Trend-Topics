@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-11 11:16:37 UTC`
+📆 Last Updated: `2023-02-11 12:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
 | 2 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 3 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
-| 4 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
-| 5 | [#Modrow](http://twitter.com/search?q=%23Modrow) | N/A |
+| 3 | [#H96SCP](http://twitter.com/search?q=%23H96SCP) | N/A |
+| 4 | [#S04WOB](http://twitter.com/search?q=%23S04WOB) | N/A |
+| 5 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
 | 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 9 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 10 | ['ÖPNV'](http://twitter.com/search?q=%27%c3%96PNV%27) | N/A |
+| 8 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 9 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 10 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
 | 11 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
 | 12 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 13 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 14 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 15 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
-| 16 | [Irma Stern](http://twitter.com/search?q=Irma+Stern) | N/A |
-| 17 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 18 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 19 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 20 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 21 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
-| 22 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 23 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 24 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 25 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 26 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
-| 27 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
-| 28 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 29 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 30 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 31 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 32 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 33 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 34 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
-| 35 | [Gedankengut](http://twitter.com/search?q=Gedankengut) | N/A |
-| 36 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 13 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 14 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 16 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 17 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 18 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 19 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 20 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 21 | ['ÖPNV'](http://twitter.com/search?q=%27%c3%96PNV%27) | N/A |
+| 22 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 23 | [Brauner Bär](http://twitter.com/search?q=Brauner+B%c3%a4r) | N/A |
+| 24 | [Spaltung](http://twitter.com/search?q=Spaltung) | N/A |
+| 25 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 26 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 27 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 28 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 29 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 30 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 31 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
+| 32 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 33 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 34 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 35 | [Blackfacing](http://twitter.com/search?q=Blackfacing) | N/A |
+| 36 | [Wehrmacht](http://twitter.com/search?q=Wehrmacht) | N/A |
 | 37 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
-| 38 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 39 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 40 | [Wehrmacht](http://twitter.com/search?q=Wehrmacht) | N/A |
-| 41 | [Prantl](http://twitter.com/search?q=Prantl) | N/A |
-| 42 | [Blackfacing](http://twitter.com/search?q=Blackfacing) | N/A |
-| 43 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
-| 44 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 45 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
-| 46 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
-| 47 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 48 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 38 | [Bertolt Brecht](http://twitter.com/search?q=Bertolt+Brecht) | N/A |
+| 39 | [Chrupalla](http://twitter.com/search?q=Chrupalla) | N/A |
+| 40 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 41 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 42 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 43 | [moin andy](http://twitter.com/search?q=moin+andy) | N/A |
+| 44 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
+| 45 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 46 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 47 | [Frau Käßmann](http://twitter.com/search?q=Frau+K%c3%a4%c3%9fmann) | N/A |
+| 48 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
 
 
 

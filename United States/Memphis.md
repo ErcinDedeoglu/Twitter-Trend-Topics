@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-02-11 11:17:14 UTC`
+📆 Last Updated: `2023-02-11 12:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
-| 3 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 4 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 5 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
-| 6 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
-| 7 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 8 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 9 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 10 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 11 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 12 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 13 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 14 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 15 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
-| 16 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 17 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 18 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 19 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 20 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 21 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 22 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 23 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 24 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 1 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
+| 4 | [20 ETH](http://twitter.com/search?q=20+ETH) | N/A |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 8 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
+| 9 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
+| 10 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 11 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 12 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 13 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 14 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 15 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 16 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 17 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 18 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 19 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 20 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 21 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 22 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 23 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 24 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
 | 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 26 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 26 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
 | 27 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 28 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 29 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 30 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 31 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 32 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 33 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 34 | [Brennon](http://twitter.com/search?q=Brennon) | N/A |
-| 35 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 36 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
-| 37 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
-| 38 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
-| 39 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
-| 40 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 41 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
-| 42 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
-| 43 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 44 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 45 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 46 | [#Nekromantik](http://twitter.com/search?q=%23Nekromantik) | N/A |
-| 47 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 48 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 28 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 29 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
+| 30 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
+| 31 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
+| 32 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
+| 33 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
+| 34 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 35 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
+| 36 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 37 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
+| 38 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
+| 39 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 40 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 42 | [#mutantfam](http://twitter.com/search?q=%23mutantfam) | N/A |
+| 43 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 44 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 45 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
+| 46 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 47 | [#MoonGirlAndDevilDinosaur](http://twitter.com/search?q=%23MoonGirlAndDevilDinosaur) | N/A |
 
 
 

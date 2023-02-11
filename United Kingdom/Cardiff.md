@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-11 11:16:19 UTC`
+📆 Last Updated: `2023-02-11 12:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 2 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 3 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 4 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 5 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 8 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
-| 11 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 12 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
-| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 14 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 15 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
-| 16 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 17 | [COYI](http://twitter.com/search?q=COYI) | N/A |
-| 18 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 19 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
-| 20 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 21 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 22 | [Alex Jones](http://twitter.com/search?q=Alex+Jones) | N/A |
-| 23 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
-| 24 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 25 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
-| 26 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 27 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 28 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 29 | [Botman](http://twitter.com/search?q=Botman) | N/A |
-| 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 31 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 32 | [FA Vase](http://twitter.com/search?q=FA+Vase) | N/A |
-| 33 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
-| 34 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 35 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 36 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 37 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 38 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 39 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 40 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 41 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 42 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
-| 43 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 44 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [Scottish Cup](http://twitter.com/search?q=Scottish+Cup) | N/A |
-| 47 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 1 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
+| 4 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 5 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 6 | [Mount and Gallagher](http://twitter.com/search?q=Mount+and+Gallagher) | Mount and Gallagher is a phrase used to describe a situation in which two people are in disagreement or competing for something. It comes from the story of two Irishmen, Patrick Mount and John Gallagher, who were rivals for the same piece of land. The phrase is often used to describe any situation where two people are in competition or conflict. |
+| 7 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 11 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 12 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 13 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 14 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 15 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 16 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
+| 17 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 20 | [West Ham v Chelsea](http://twitter.com/search?q=West+Ham+v+Chelsea) | N/A |
+| 21 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 22 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 23 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 24 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
+| 25 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
+| 26 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 27 | [Alex Jones](http://twitter.com/search?q=Alex+Jones) | N/A |
+| 28 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
+| 29 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 30 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
+| 31 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 32 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 33 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 34 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 35 | [Scotland v Wales](http://twitter.com/search?q=Scotland+v+Wales) | N/A |
+| 36 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
+| 37 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 38 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 40 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 41 | [FA Vase](http://twitter.com/search?q=FA+Vase) | N/A |
+| 42 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 43 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 44 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 45 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 46 | [Botman](http://twitter.com/search?q=Botman) | N/A |
+| 47 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
 
 
 

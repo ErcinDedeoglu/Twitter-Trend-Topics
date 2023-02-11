@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-11 11:17:27 UTC`
+📆 Last Updated: `2023-02-11 12:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giske](http://twitter.com/search?q=Giske) | N/A |
-| 2 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 3 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 4 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 5 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
-| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 7 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 8 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
+| 1 | [giske](http://twitter.com/search?q=giske) | N/A |
+| 2 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 3 | [Lågendeltaet](http://twitter.com/search?q=L%c3%a5gendeltaet) | N/A |
+| 4 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 5 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 6 | [robert steen](http://twitter.com/search?q=robert+steen) | N/A |
+| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 10 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 11 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
-| 12 | [Barth Eide](http://twitter.com/search?q=Barth+Eide) | N/A |
-| 13 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
-| 14 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 15 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
-| 16 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Alta](http://twitter.com/search?q=Alta) | N/A |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 21 | [takker](http://twitter.com/search?q=takker) | N/A |
-| 22 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 25 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 26 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 27 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
-| 28 | [hovland](http://twitter.com/search?q=hovland) | N/A |
-| 29 | [ALDRI](http://twitter.com/search?q=ALDRI) | N/A |
-| 30 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
+| 13 | [Barth Eide](http://twitter.com/search?q=Barth+Eide) | N/A |
+| 14 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
+| 15 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 16 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 17 | [Nidaros](http://twitter.com/search?q=Nidaros) | N/A |
+| 18 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 19 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 20 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 21 | [Alta](http://twitter.com/search?q=Alta) | N/A |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
+| 24 | [takker](http://twitter.com/search?q=takker) | N/A |
+| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 27 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 28 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 29 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
+| 30 | [hovland](http://twitter.com/search?q=hovland) | N/A |
 | 31 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 32 | [Putler](http://twitter.com/search?q=Putler) | N/A |
-| 33 | [Elden Ring](http://twitter.com/search?q=Elden+Ring) | N/A |
-| 34 | [Absolutt](http://twitter.com/search?q=Absolutt) | N/A |
-| 35 | [Jens Stoltenberg](http://twitter.com/search?q=Jens+Stoltenberg) | N/A |
-| 36 | [Helt](http://twitter.com/search?q=Helt) | N/A |
-| 37 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
-| 38 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 39 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 40 | [Lite](http://twitter.com/search?q=Lite) | N/A |
-| 41 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 44 | [Evenes](http://twitter.com/search?q=Evenes) | N/A |
-| 45 | [Kari](http://twitter.com/search?q=Kari) | N/A |
-| 46 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
-| 47 | [vinmonopolet](http://twitter.com/search?q=vinmonopolet) | N/A |
-| 48 | [Kanskje](http://twitter.com/search?q=Kanskje) | N/A |
-| 49 | [noreg](http://twitter.com/search?q=noreg) | N/A |
-| 50 | [Rygge](http://twitter.com/search?q=Rygge) | N/A |
+| 32 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 33 | [Putler](http://twitter.com/search?q=Putler) | N/A |
+| 34 | [Jens Stoltenberg](http://twitter.com/search?q=Jens+Stoltenberg) | N/A |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 36 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
+| 37 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 38 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 39 | [Lite](http://twitter.com/search?q=Lite) | N/A |
+| 40 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Evenes](http://twitter.com/search?q=Evenes) | N/A |
+| 43 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 44 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 45 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
+| 46 | [vinmonopolet](http://twitter.com/search?q=vinmonopolet) | N/A |
+| 47 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 48 | [noreg](http://twitter.com/search?q=noreg) | N/A |
+| 49 | [Rygge](http://twitter.com/search?q=Rygge) | N/A |
+| 50 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 
 
 
