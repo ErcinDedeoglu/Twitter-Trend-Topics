@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-02-11 08:17:21 UTC`
+📆 Last Updated: `2023-02-11 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [United States](</United States>)
 | 4 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 | 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 6 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 7 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 7 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
 | 8 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 9 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 10 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 11 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 12 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 13 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
+| 9 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 10 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 11 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 12 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 13 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
 | 14 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 15 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
-| 16 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 15 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
+| 16 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
 | 17 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 18 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 19 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 20 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 21 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 22 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 23 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 24 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 25 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
-| 26 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 28 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 29 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 30 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 31 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 32 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 33 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 34 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 35 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
+| 18 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 19 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 20 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 23 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 24 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 26 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 27 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 28 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 29 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 30 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 31 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 32 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 33 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 34 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 35 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
 | 36 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 37 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 38 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 39 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
-| 40 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 41 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 37 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 38 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 39 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 40 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 41 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
 | 42 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 43 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 44 | [Anfernee](http://twitter.com/search?q=Anfernee) | N/A |
-| 45 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 46 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 47 | [Mintzy](http://twitter.com/search?q=Mintzy) | N/A |
-| 48 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
+| 43 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 44 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 45 | [Mintzy](http://twitter.com/search?q=Mintzy) | N/A |
+| 46 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
+| 47 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 48 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
 
 
 

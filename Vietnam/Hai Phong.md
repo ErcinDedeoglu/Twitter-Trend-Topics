@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-11 08:17:04 UTC`
+📆 Last Updated: `2023-02-11 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,24 +15,24 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 2 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 3 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 4 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 5 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 6 | [#LoveinTheAirinVietnam](http://twitter.com/search?q=%23LoveinTheAirinVietnam) | N/A |
-| 7 | [#OhmNanon1stFMSG](http://twitter.com/search?q=%23OhmNanon1stFMSG) | N/A |
-| 8 | [$pit](http://twitter.com/search?q=%24pit) | N/A |
-| 9 | [OUR SEULGI DAY](http://twitter.com/search?q=OUR+SEULGI+DAY) | N/A |
-| 10 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 11 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 12 | [ủa my hope](http://twitter.com/search?q=%e1%bb%a7a+my+hope) | N/A |
-| 13 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 14 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 15 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
-| 16 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
-| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 18 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
+| 1 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
+| 2 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 3 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
+| 4 | [#TEMPESTatHMA2022](http://twitter.com/search?q=%23TEMPESTatHMA2022) | N/A |
+| 5 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 6 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 7 | [$pit](http://twitter.com/search?q=%24pit) | N/A |
+| 8 | [OUR SEULGI DAY](http://twitter.com/search?q=OUR+SEULGI+DAY) | N/A |
+| 9 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 10 | [ủa my hope](http://twitter.com/search?q=%e1%bb%a7a+my+hope) | N/A |
+| 11 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 12 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
+| 13 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 14 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 15 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 16 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
+| 17 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
+| 18 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
 | 19 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
 | 20 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
 | 21 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 27 | [HCMC](http://twitter.com/search?q=HCMC) | N/A |
 | 28 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
 | 29 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 30 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 31 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 32 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 33 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 34 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 35 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
-| 38 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
-| 39 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
+| 30 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 32 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
+| 33 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 37 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 38 | [yên bái](http://twitter.com/search?q=y%c3%aan+b%c3%a1i) | N/A |
+| 39 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
 | 40 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
 | 41 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
-| 42 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 44 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 45 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
-| 46 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 47 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 48 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
-| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 50 | [trong](http://twitter.com/search?q=trong) | N/A |
+| 44 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 45 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
+| 46 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 49 | [trong](http://twitter.com/search?q=trong) | N/A |
+| 50 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
 
 
 

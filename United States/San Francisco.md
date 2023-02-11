@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-11 08:17:23 UTC`
+📆 Last Updated: `2023-02-11 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
 | 3 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 4 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 5 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 6 | [The Kings](http://twitter.com/search?q=The+Kings) | The Kings is a term used to refer to the ruling family of a country or region. It is often used to refer to the ruling family of a monarchy, such as the British Royal Family. The term can also be used to refer to any powerful family or group that holds political power in a given area. |
-| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 9 | [Raven](http://twitter.com/search?q=Raven) | N/A |
-| 10 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 12 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 14 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 15 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 16 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 17 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 18 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 19 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 20 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
-| 21 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 22 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
-| 23 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 24 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 5 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 10 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 11 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 12 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 13 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 14 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 15 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 16 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 17 | [Nekromantik](http://twitter.com/search?q=Nekromantik) | N/A |
+| 18 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 19 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
+| 20 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 21 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 22 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 23 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 24 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
 | 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 26 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 27 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 28 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 29 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 30 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 31 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 32 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 27 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 28 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 29 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 30 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 31 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 32 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
 | 33 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 34 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 34 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
 | 35 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 36 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 37 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 38 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 39 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 40 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 41 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 42 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 43 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 44 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 45 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 46 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
-| 47 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 48 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 49 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 36 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 37 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 38 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 39 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 40 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 41 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 42 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 43 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 44 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 45 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 46 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 47 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 48 | [Mintzy](http://twitter.com/search?q=Mintzy) | N/A |
+| 49 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
 
 
 

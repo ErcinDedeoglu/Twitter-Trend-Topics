@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-11 08:17:30 UTC`
+📆 Last Updated: `2023-02-11 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,26 +19,26 @@ This is top 50 for Panama
 | 2 | [la joya](http://twitter.com/search?q=la+joya) | N/A |
 | 3 | [Foco](http://twitter.com/search?q=Foco) | N/A |
 | 4 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 5 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 5 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
 | 6 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
 | 7 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
 | 8 | [waked](http://twitter.com/search?q=waked) | N/A |
 | 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 10 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
-| 11 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
-| 12 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 10 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
+| 11 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 12 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
 | 13 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 14 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
 | 15 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 17 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 18 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 17 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 18 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 19 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 | 20 | [Clásico Mundial](http://twitter.com/search?q=Cl%c3%a1sico+Mundial) | N/A |
-| 21 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 22 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 23 | [albrook](http://twitter.com/search?q=albrook) | N/A |
-| 24 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 21 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 22 | [albrook](http://twitter.com/search?q=albrook) | N/A |
+| 23 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 24 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 25 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 26 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 27 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
@@ -60,10 +60,10 @@ This is top 50 for Panama
 | 43 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
 | 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 45 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
-| 46 | [chitre](http://twitter.com/search?q=chitre) | N/A |
-| 47 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 48 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
-| 49 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 46 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 47 | [chitre](http://twitter.com/search?q=chitre) | N/A |
+| 48 | [worst job](http://twitter.com/search?q=worst+job) | N/A |
+| 49 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
 | 50 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
 
 

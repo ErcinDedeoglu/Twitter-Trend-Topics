@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-11 08:17:06 UTC`
+📆 Last Updated: `2023-02-11 09:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,42 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RIPAKA](http://twitter.com/search?q=%23RIPAKA) | N/A |
+| 1 | [#RIPAAKA](http://twitter.com/search?q=%23RIPAAKA) | N/A |
 | 2 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
 | 3 | [#RIPTibz](http://twitter.com/search?q=%23RIPTibz) | N/A |
-| 4 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 5 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 6 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 7 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 8 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 9 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
-| 10 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 11 | [Anele](http://twitter.com/search?q=Anele) | N/A |
-| 12 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 13 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 14 | [Dj Sumbody](http://twitter.com/search?q=Dj+Sumbody) | N/A |
-| 15 | [Bhova](http://twitter.com/search?q=Bhova) | N/A |
-| 16 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
-| 17 | [Florida Road](http://twitter.com/search?q=Florida+Road) | N/A |
+| 4 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
+| 5 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
+| 6 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 7 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 8 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
+| 9 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 10 | [Anele](http://twitter.com/search?q=Anele) | N/A |
+| 11 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 12 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
+| 13 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 14 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 15 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
+| 16 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
+| 17 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
 | 18 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 19 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
-| 20 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 21 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
-| 22 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
-| 23 | [RIP King](http://twitter.com/search?q=RIP+King) | N/A |
-| 24 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 19 | [Dj Sumbody](http://twitter.com/search?q=Dj+Sumbody) | N/A |
+| 20 | [Inkabi](http://twitter.com/search?q=Inkabi) | N/A |
+| 21 | [Bhova](http://twitter.com/search?q=Bhova) | N/A |
+| 22 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 23 | [Zulus](http://twitter.com/search?q=Zulus) | N/A |
+| 24 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
 | 25 | [Senzo Meyiwa](http://twitter.com/search?q=Senzo+Meyiwa) | N/A |
-| 26 | [Zulus](http://twitter.com/search?q=Zulus) | N/A |
-| 27 | [Live Long](http://twitter.com/search?q=Live+Long) | N/A |
-| 28 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
-| 29 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
-| 30 | [Not AKA](http://twitter.com/search?q=Not+AKA) | N/A |
-| 31 | [Dawg](http://twitter.com/search?q=Dawg) | N/A |
-| 32 | [#RIPKiernan](http://twitter.com/search?q=%23RIPKiernan) | N/A |
+| 26 | [RIP King](http://twitter.com/search?q=RIP+King) | N/A |
+| 27 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
+| 28 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
+| 29 | [Live Long](http://twitter.com/search?q=Live+Long) | N/A |
+| 30 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 31 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
+| 32 | [Dawg](http://twitter.com/search?q=Dawg) | N/A |
 | 33 | [#Nadia](http://twitter.com/search?q=%23Nadia) | N/A |
-| 34 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
+| 34 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 35 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
+| 36 | [#NotAKA](http://twitter.com/search?q=%23NotAKA) | N/A |
 
 
 

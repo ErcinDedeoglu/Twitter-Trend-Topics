@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-11 08:17:18 UTC`
+📆 Last Updated: `2023-02-11 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 3 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 4 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 5 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 8 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 9 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
-| 10 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 11 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 12 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 2 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 7 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 8 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 9 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
+| 10 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 11 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 12 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
 | 13 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
 | 14 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
 | 15 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 16 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
-| 17 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 18 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
-| 19 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 20 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 23 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 24 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 25 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 26 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 27 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 28 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
-| 29 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 30 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 31 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 32 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 33 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 34 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 35 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 36 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
-| 37 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 38 | [Jeff Charles](http://twitter.com/search?q=Jeff+Charles) | N/A |
-| 39 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 40 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 41 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 42 | [OPEN YOUR EYES](http://twitter.com/search?q=OPEN+YOUR+EYES) | N/A |
-| 43 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 44 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 45 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 46 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 47 | [Anfernee](http://twitter.com/search?q=Anfernee) | N/A |
-| 48 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 49 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 16 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 17 | [South Gate](http://twitter.com/search?q=South+Gate) | N/A |
+| 18 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 19 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 20 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 21 | [TechCrunch](http://twitter.com/search?q=TechCrunch) | N/A |
+| 22 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 24 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 25 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 26 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 28 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 29 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 30 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
+| 31 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 32 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 33 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 34 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
+| 35 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 36 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 37 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
+| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 39 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 40 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 41 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 42 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 43 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 44 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 45 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 46 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 47 | [Mintzy](http://twitter.com/search?q=Mintzy) | N/A |
+| 48 | [NMSU](http://twitter.com/search?q=NMSU) | N/A |
+| 49 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
 
 
 

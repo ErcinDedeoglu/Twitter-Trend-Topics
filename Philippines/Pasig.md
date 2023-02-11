@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-02-11 08:17:02 UTC`
+📆 Last Updated: `2023-02-11 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
 | 4 | [#AyYo3rdWin](http://twitter.com/search?q=%23AyYo3rdWin) | N/A |
 | 5 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 6 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 7 | [HAPPY 2M SUBS FRANCINE](http://twitter.com/search?q=HAPPY+2M+SUBS+FRANCINE) | N/A |
-| 8 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
+| 6 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
+| 7 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
+| 8 | [HAPPY 2M SUBS FRANCINE](http://twitter.com/search?q=HAPPY+2M+SUBS+FRANCINE) | N/A |
 | 9 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 11 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 12 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
-| 13 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 14 | [WAYV FANMEETING SEOUL](http://twitter.com/search?q=WAYV+FANMEETING+SEOUL) | N/A |
-| 15 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 16 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 17 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
-| 18 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 19 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 21 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
-| 22 | [franseth chico deeptalk](http://twitter.com/search?q=franseth+chico+deeptalk) | N/A |
-| 23 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 24 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 25 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 26 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 27 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 28 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 29 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
-| 30 | [KB FEBibig](http://twitter.com/search?q=KB+FEBibig) | N/A |
-| 31 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 32 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 33 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 34 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
-| 35 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 36 | [EXO is EXOing](http://twitter.com/search?q=EXO+is+EXOing) | N/A |
-| 37 | [juliever pagibignakayaep2](http://twitter.com/search?q=juliever+pagibignakayaep2) | N/A |
-| 38 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 39 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 40 | [MAKNAES](http://twitter.com/search?q=MAKNAES) | N/A |
-| 41 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 42 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 43 | [BDAY MEW SUPPASIT 2023](http://twitter.com/search?q=BDAY+MEW+SUPPASIT+2023) | N/A |
-| 44 | [So-e](http://twitter.com/search?q=So-e) | N/A |
-| 45 | [Sunoo Fancy](http://twitter.com/search?q=Sunoo+Fancy) | N/A |
-| 46 | [Sunoo Fantastic](http://twitter.com/search?q=Sunoo+Fantastic) | N/A |
-| 47 | [Sunoo Fabulous](http://twitter.com/search?q=Sunoo+Fabulous) | N/A |
-| 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 49 | [Win x JKT](http://twitter.com/search?q=Win+x+JKT) | N/A |
+| 10 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
+| 11 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 12 | [KATROPIE WITH ANJI](http://twitter.com/search?q=KATROPIE+WITH+ANJI) | N/A |
+| 13 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 14 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
+| 15 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 16 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 17 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 19 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 20 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 21 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is a South Korean entertainment company formerly known as Big Hit Entertainment. It was founded in 2005 and is best known for managing the K-pop boy band BTS. The name HYBE is an acronym for “Hit Yeonbeon”, which translates to “Hit Everywhere” in English. |
+| 22 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
+| 23 | [salamat po maam](http://twitter.com/search?q=salamat+po+maam) | N/A |
+| 24 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
+| 25 | [franseth chico deeptalk](http://twitter.com/search?q=franseth+chico+deeptalk) | N/A |
+| 26 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 27 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 28 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 29 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 30 | [Bicar](http://twitter.com/search?q=Bicar) | N/A |
+| 31 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 32 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 33 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 34 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 35 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 36 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 37 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
+| 40 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
+| 41 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 42 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 43 | [EXO is EXOing](http://twitter.com/search?q=EXO+is+EXOing) | N/A |
+| 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 45 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 46 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
+| 47 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 48 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 
 
 

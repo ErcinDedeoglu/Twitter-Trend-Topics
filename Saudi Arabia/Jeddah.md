@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-11 08:17:07 UTC`
+📆 Last Updated: `2023-02-11 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 8 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
 | 9 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
 | 10 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 11 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 12 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 13 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
-| 14 | [علي الوحده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 11 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 12 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 13 | [علي الوحده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 14 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 15 | [المدارس الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 16 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 16 | [الاجازات المطوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d9%84%d9%87) | N/A |
 | 17 | [عبدالرزاق حمدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 18 | [حارس الوحده](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 19 | [الاجازات المطوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d9%84%d9%87) | N/A |
-| 20 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
-| 21 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
-| 22 | [كمارا الخامس](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 19 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
+| 20 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
+| 21 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
+| 22 | [الفصول الثلاثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%87) | N/A |
 | 23 | [ولي امره](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%85%d8%b1%d9%87) | N/A |
-| 24 | [الفصول الثلاثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%87) | N/A |
-| 25 | [الهلال الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 26 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 27 | [النمر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 28 | [علي طفل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d9%81%d9%84) | N/A |
+| 24 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 25 | [علي طفل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d9%81%d9%84) | N/A |
+| 26 | [11 فبراير](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 27 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
+| 28 | [النمر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 29 | [فريق البحث](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%ab) | N/A |
-| 30 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 31 | [الانقاذ السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 32 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 30 | [علي الطالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 31 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 32 | [الانقاذ السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%a7%d8%b0+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 33 | [برونو هنريكي](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88+%d9%87%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 34 | [علي الطالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 35 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 36 | [الكويكبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d9%83%d8%a8%d9%8a) | N/A |
-| 37 | [11 فبراير](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 38 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 39 | [هارون كمارا](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%88%d9%86+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
-| 40 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 41 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 42 | [مشاري القرني](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
-| 43 | [علي المعلم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 44 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 34 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 35 | [الكويكبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d9%83%d8%a8%d9%8a) | N/A |
+| 36 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 37 | [هارون كمارا](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%88%d9%86+%d9%83%d9%85%d8%a7%d8%b1%d8%a7) | N/A |
+| 38 | [علي المعلم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
+| 39 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 40 | [الحياه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 41 | [مشاري القرني](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
+| 42 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 43 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 44 | [الزعيم الليله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
 | 45 | [لبث ميار](http://twitter.com/search?q=%d9%84%d8%a8%d8%ab+%d9%85%d9%8a%d8%a7%d8%b1) | N/A |
-| 46 | [شنوان](http://twitter.com/search?q=%d8%b4%d9%86%d9%88%d8%a7%d9%86) | N/A |
-| 47 | [جسر التيك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d8%aa%d9%8a%d9%83) | N/A |
-| 48 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
-| 49 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 50 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
+| 46 | [جسر التيك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d8%aa%d9%8a%d9%83) | N/A |
+| 47 | [فايز المالكي](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d9%8a) | N/A |
+| 48 | [علي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 49 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [سجل سوبر](http://twitter.com/search?q=%d8%b3%d8%ac%d9%84+%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
 
 
 

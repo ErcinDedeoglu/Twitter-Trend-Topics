@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-11 08:16:44 UTC`
+📆 Last Updated: `2023-02-11 09:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
 | 3 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 4 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 6 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 7 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
-| 8 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 9 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 4 | [kika](http://twitter.com/search?q=kika) | N/A |
+| 5 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 6 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
+| 7 | [Santana](http://twitter.com/search?q=Santana) | N/A |
+| 8 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 9 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 10 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 11 | [Xand](http://twitter.com/search?q=Xand) | N/A |
-| 12 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
-| 13 | [Baiacu](http://twitter.com/search?q=Baiacu) | N/A |
-| 14 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 15 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 16 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
-| 17 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 18 | [Karaokê](http://twitter.com/search?q=Karaok%c3%aa) | N/A |
-| 19 | [Barbie Ferreira](http://twitter.com/search?q=Barbie+Ferreira) | N/A |
-| 20 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
-| 21 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 22 | [Paula e Alface](http://twitter.com/search?q=Paula+e+Alface) | N/A |
-| 23 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
-| 24 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 25 | [#DocShoe](http://twitter.com/search?q=%23DocShoe) | N/A |
-| 26 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 27 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
-| 28 | [SABRINA SATO](http://twitter.com/search?q=SABRINA+SATO) | N/A |
-| 29 | [Episódio 5](http://twitter.com/search?q=Epis%c3%b3dio+5) | N/A |
-| 30 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 31 | [Paulo André](http://twitter.com/search?q=Paulo+Andr%c3%a9) | N/A |
-| 32 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 33 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 34 | [GABRIEL FOP](http://twitter.com/search?q=GABRIEL+FOP) | N/A |
-| 35 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 36 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
-| 37 | [Laried](http://twitter.com/search?q=Laried) | N/A |
-| 38 | [Bell Marques](http://twitter.com/search?q=Bell+Marques) | N/A |
-| 39 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 40 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 41 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 42 | [Jaraguá](http://twitter.com/search?q=Jaragu%c3%a1) | N/A |
-| 43 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
-| 44 | [Ashton Kutcher](http://twitter.com/search?q=Ashton+Kutcher) | N/A |
-| 45 | [bob esponja](http://twitter.com/search?q=bob+esponja) | N/A |
-| 46 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 47 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 48 | [#StoneNoBBB](http://twitter.com/search?q=%23StoneNoBBB) | N/A |
-| 49 | [#Sapanda](http://twitter.com/search?q=%23Sapanda) | N/A |
-| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 12 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 13 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 17 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 20 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 21 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 22 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 23 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 24 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 25 | [balbuena](http://twitter.com/search?q=balbuena) | N/A |
+| 26 | [mari fernandez](http://twitter.com/search?q=mari+fernandez) | N/A |
+| 27 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 28 | [Livraria Cultura](http://twitter.com/search?q=Livraria+Cultura) | N/A |
+| 29 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 30 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 31 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 32 | [jade no bdv](http://twitter.com/search?q=jade+no+bdv) | N/A |
+| 33 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 34 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 35 | [Nunca Vai Ser Um Adeus](http://twitter.com/search?q=Nunca+Vai+Ser+Um+Adeus) | N/A |
+| 36 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
+| 37 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 38 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
+| 39 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
+| 40 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 41 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 42 | [dudu](http://twitter.com/search?q=dudu) | N/A |
+| 43 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 44 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 45 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 46 | [Trabalhadores](http://twitter.com/search?q=Trabalhadores) | N/A |
+| 47 | [volta gabriel fop](http://twitter.com/search?q=volta+gabriel+fop) | N/A |
+| 48 | [Dandan](http://twitter.com/search?q=Dandan) | N/A |
+| 49 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
+| 50 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 
 
 
