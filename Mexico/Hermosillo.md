@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-02-11 10:16:30 UTC`
+📆 Last Updated: `2023-02-11 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#salariorosaesunarealidad](http://twitter.com/search?q=%23salariorosaesunarealidad) | N/A |
 | 3 | [#1MillonDeTripitas](http://twitter.com/search?q=%231MillonDeTripitas) | N/A |
 | 4 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 5 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 7 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 6 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 7 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
 | 8 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 9 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
 | 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
-| 12 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 13 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 14 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 15 | [LUCERO CASTAÑA](http://twitter.com/search?q=LUCERO+CASTA%c3%91A) | N/A |
-| 16 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 18 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 19 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 20 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 22 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 23 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 24 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 25 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 26 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 27 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 28 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 29 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 31 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 33 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 34 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
-| 35 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 36 | [ferral](http://twitter.com/search?q=ferral) | N/A |
-| 37 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 38 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 39 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 40 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 41 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 42 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
-| 43 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 44 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 45 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 11 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
+| 12 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 13 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 14 | [LUCERO CASTAÑA](http://twitter.com/search?q=LUCERO+CASTA%c3%91A) | N/A |
+| 15 | [pablo Gómez](http://twitter.com/search?q=pablo+G%c3%b3mez) | N/A |
+| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 17 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 18 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 19 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 20 | [fuerza aérea mexicana](http://twitter.com/search?q=fuerza+a%c3%a9rea+mexicana) | N/A |
+| 21 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 22 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 23 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 24 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 25 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 26 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 29 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 30 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 32 | [ferral](http://twitter.com/search?q=ferral) | N/A |
+| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 34 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 35 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 36 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 37 | [UN AÑO WOW](http://twitter.com/search?q=UN+A%c3%91O+WOW) | N/A |
+| 38 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 39 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 40 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 41 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
+| 42 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 43 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 44 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 45 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
 | 46 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 47 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 48 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 47 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 48 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
 
 
 

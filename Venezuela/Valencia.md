@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-11 10:16:34 UTC`
+📆 Last Updated: `2023-02-11 11:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
 | 9 | [Gran Final](http://twitter.com/search?q=Gran+Final) | N/A |
 | 10 | [martín tovar](http://twitter.com/search?q=mart%c3%adn+tovar) | N/A |
-| 11 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
+| 11 | [savoy](http://twitter.com/search?q=savoy) | N/A |
 | 12 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 13 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 14 | [bachilleres](http://twitter.com/search?q=bachilleres) | N/A |
-| 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 16 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 15 | [Bachilleres](http://twitter.com/search?q=Bachilleres) | N/A |
+| 16 | [altuve](http://twitter.com/search?q=altuve) | N/A |
 | 17 | [Jesús Silva](http://twitter.com/search?q=Jes%c3%bas+Silva) | N/A |
 | 18 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 19 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 20 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 21 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 22 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 23 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 24 | [josé rondón](http://twitter.com/search?q=jos%c3%a9+rond%c3%b3n) | N/A |
-| 25 | [carla angola](http://twitter.com/search?q=carla+angola) | N/A |
+| 19 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 20 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 21 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 22 | [josé rondón](http://twitter.com/search?q=jos%c3%a9+rond%c3%b3n) | N/A |
+| 23 | [carla angola](http://twitter.com/search?q=carla+angola) | N/A |
+| 24 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 25 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
 | 26 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 27 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 | 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 29 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
-| 30 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 31 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 32 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
-| 33 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
-| 34 | [Escalimetro](http://twitter.com/search?q=Escalimetro) | N/A |
-| 35 | [araque](http://twitter.com/search?q=araque) | N/A |
+| 29 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 30 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 31 | [Curt Schilling](http://twitter.com/search?q=Curt+Schilling) | N/A |
+| 32 | [rengifo](http://twitter.com/search?q=rengifo) | N/A |
+| 33 | [escalimetro](http://twitter.com/search?q=escalimetro) | N/A |
+| 34 | [araque](http://twitter.com/search?q=araque) | N/A |
+| 35 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
 | 36 | [LVBP](http://twitter.com/search?q=LVBP) | N/A |
-| 37 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 37 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
 | 38 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
 | 39 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
-| 40 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 40 | [Condorito](http://twitter.com/search?q=Condorito) | N/A |
+| 41 | [perdieron](http://twitter.com/search?q=perdieron) | N/A |
+| 42 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
 | 43 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 44 | [Carlos Vecchio](http://twitter.com/search?q=Carlos+Vecchio) | N/A |
-| 45 | [Perdieron](http://twitter.com/search?q=Perdieron) | N/A |
-| 46 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 47 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 48 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 49 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 44 | [Bendiga](http://twitter.com/search?q=Bendiga) | N/A |
+| 45 | [Subsistema de Educación Básica](http://twitter.com/search?q=Subsistema+de+Educaci%c3%b3n+B%c3%a1sica) | N/A |
+| 46 | [Carlos Vecchio](http://twitter.com/search?q=Carlos+Vecchio) | N/A |
+| 47 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 48 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 49 | [Indignante](http://twitter.com/search?q=Indignante) | N/A |
 
 
 

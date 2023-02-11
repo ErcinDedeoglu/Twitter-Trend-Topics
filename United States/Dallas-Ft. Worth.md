@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-11 10:17:13 UTC`
+📆 Last Updated: `2023-02-11 11:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 2 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 6 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
-| 7 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
-| 8 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
-| 9 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 10 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 11 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 12 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 13 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
-| 14 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 15 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
-| 16 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 17 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 18 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 19 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 20 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 4 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
+| 5 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 6 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
+| 7 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
+| 8 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 9 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 10 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 11 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 12 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 13 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 14 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 15 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 16 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
+| 17 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 18 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 19 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 20 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 21 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 22 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
 | 23 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 24 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 25 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
-| 26 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 27 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 28 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 29 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 30 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 31 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 32 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 24 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
+| 25 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 26 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 27 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 28 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 29 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 30 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 31 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 32 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
 | 33 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 34 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 35 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 36 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 37 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 38 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 39 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 40 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 41 | [Melanie Lynskey](http://twitter.com/search?q=Melanie+Lynskey) | N/A |
-| 42 | [Brennon](http://twitter.com/search?q=Brennon) | N/A |
-| 43 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 44 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
-| 45 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 47 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 48 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 49 | [The Cavs](http://twitter.com/search?q=The+Cavs) | N/A |
-| 50 | [Zanab](http://twitter.com/search?q=Zanab) | N/A |
+| 34 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 35 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 36 | [Brennon](http://twitter.com/search?q=Brennon) | N/A |
+| 37 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 38 | [Zanab](http://twitter.com/search?q=Zanab) | N/A |
+| 39 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
+| 40 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 41 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
+| 42 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 43 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
+| 44 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
+| 45 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
+| 46 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 47 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 49 | [#Nekromantik](http://twitter.com/search?q=%23Nekromantik) | N/A |
+| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 
 
 

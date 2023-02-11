@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-11 10:16:25 UTC`
+📆 Last Updated: `2023-02-11 11:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#RubbishNames](http://twitter.com/search?q=%23RubbishNames) | N/A |
 | 2 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 3 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 4 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 5 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
 | 6 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 7 | [Knowsley](http://twitter.com/search?q=Knowsley) | N/A |
-| 8 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 9 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 11 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
-| 12 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
-| 13 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 14 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 8 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [Merseyside](http://twitter.com/search?q=Merseyside) | N/A |
+| 11 | [Kirkby](http://twitter.com/search?q=Kirkby) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 14 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
+| 15 | [Morris Marina](http://twitter.com/search?q=Morris+Marina) | N/A |
 | 16 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 17 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 18 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
-| 19 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 20 | [Concerned](http://twitter.com/search?q=Concerned) | N/A |
-| 21 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
-| 22 | [COYI](http://twitter.com/search?q=COYI) | N/A |
-| 23 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 24 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 25 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 26 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 27 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 29 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 30 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 31 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 32 | [Patel](http://twitter.com/search?q=Patel) | N/A |
-| 33 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 34 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 35 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 36 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 37 | [#HyderabadEPrix](http://twitter.com/search?q=%23HyderabadEPrix) | N/A |
-| 38 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 39 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 40 | [#ASongOrMovieForWeekends](http://twitter.com/search?q=%23ASongOrMovieForWeekends) | N/A |
-| 41 | [#FormulaE](http://twitter.com/search?q=%23FormulaE) | N/A |
-| 42 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
-| 43 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 44 | [#TwitterModelTrainShow](http://twitter.com/search?q=%23TwitterModelTrainShow) | N/A |
-| 45 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 46 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 47 | [#NoMenInWomensPrisons](http://twitter.com/search?q=%23NoMenInWomensPrisons) | N/A |
-| 48 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
+| 17 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 18 | [All Londoners](http://twitter.com/search?q=All+Londoners) | N/A |
+| 19 | [Scousers](http://twitter.com/search?q=Scousers) | N/A |
+| 20 | [COYI](http://twitter.com/search?q=COYI) | N/A |
+| 21 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [The Daily Mail](http://twitter.com/search?q=The+Daily+Mail) | N/A |
+| 23 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 24 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 25 | [Alex Jones](http://twitter.com/search?q=Alex+Jones) | N/A |
+| 26 | [Liverpudlians](http://twitter.com/search?q=Liverpudlians) | N/A |
+| 27 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 28 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 29 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 30 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 31 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 32 | [Botman](http://twitter.com/search?q=Botman) | N/A |
+| 33 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 34 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 35 | [FA Vase](http://twitter.com/search?q=FA+Vase) | N/A |
+| 36 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 37 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 38 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 39 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 40 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 41 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 42 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 43 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 44 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 45 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
+| 46 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 47 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 
 
 

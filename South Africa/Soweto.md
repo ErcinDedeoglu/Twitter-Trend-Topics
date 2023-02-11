@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-11 10:17:00 UTC`
+📆 Last Updated: `2023-02-11 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,39 +16,39 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [SA Hip Hop](http://twitter.com/search?q=SA+Hip+Hop) | N/A |
-| 2 | [#RIPAAKA](http://twitter.com/search?q=%23RIPAAKA) | N/A |
+| 2 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
 | 3 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
-| 4 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
-| 5 | [#Nadia](http://twitter.com/search?q=%23Nadia) | N/A |
-| 6 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 7 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 8 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 9 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 10 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 11 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 12 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 13 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 14 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
-| 15 | [Victory Lap](http://twitter.com/search?q=Victory+Lap) | N/A |
-| 16 | [Senzo Meyiwa](http://twitter.com/search?q=Senzo+Meyiwa) | N/A |
-| 17 | [Anele](http://twitter.com/search?q=Anele) | N/A |
-| 18 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 19 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 20 | [Dj Sumbody](http://twitter.com/search?q=Dj+Sumbody) | N/A |
-| 21 | [Inkabi](http://twitter.com/search?q=Inkabi) | N/A |
-| 22 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 23 | [Zulus](http://twitter.com/search?q=Zulus) | N/A |
-| 24 | [Bhova](http://twitter.com/search?q=Bhova) | N/A |
-| 25 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
-| 26 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 27 | [2pac](http://twitter.com/search?q=2pac) | N/A |
-| 28 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 4 | [#RIPAAKA](http://twitter.com/search?q=%23RIPAAKA) | N/A |
+| 5 | [#CCTV](http://twitter.com/search?q=%23CCTV) | N/A |
+| 6 | [#Nadia](http://twitter.com/search?q=%23Nadia) | N/A |
+| 7 | [Lefa](http://twitter.com/search?q=Lefa) | N/A |
+| 8 | [Mongezi](http://twitter.com/search?q=Mongezi) | N/A |
+| 9 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 10 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 11 | [Senzo Meyiwa](http://twitter.com/search?q=Senzo+Meyiwa) | N/A |
+| 12 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 13 | [Anele](http://twitter.com/search?q=Anele) | N/A |
+| 14 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 15 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
+| 16 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 17 | [Lucky Dube](http://twitter.com/search?q=Lucky+Dube) | N/A |
+| 18 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
+| 19 | [Inkabi](http://twitter.com/search?q=Inkabi) | N/A |
+| 20 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
+| 21 | [VICTORY LAP](http://twitter.com/search?q=VICTORY+LAP) | N/A |
+| 22 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 23 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 24 | [Florida Road](http://twitter.com/search?q=Florida+Road) | N/A |
+| 25 | [Dj Sumbody](http://twitter.com/search?q=Dj+Sumbody) | N/A |
+| 26 | [ZULUs](http://twitter.com/search?q=ZULUs) | N/A |
+| 27 | [AKAs](http://twitter.com/search?q=AKAs) | N/A |
+| 28 | [2pac](http://twitter.com/search?q=2pac) | N/A |
 | 29 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
 | 30 | [#RIPTibz](http://twitter.com/search?q=%23RIPTibz) | N/A |
 | 31 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 32 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 33 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
-| 34 | [#NotAKA](http://twitter.com/search?q=%23NotAKA) | N/A |
+| 32 | [#NotAKA](http://twitter.com/search?q=%23NotAKA) | N/A |
+| 33 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 34 | [#14DaysOfLove](http://twitter.com/search?q=%2314DaysOfLove) | N/A |
 
 
 

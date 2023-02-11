@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-11 10:17:19 UTC`
+📆 Last Updated: `2023-02-11 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 4 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 1 | [#RipCity](http://twitter.com/search?q=%23RipCity) | N/A |
+| 2 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 3 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 5 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
-| 6 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
-| 7 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
-| 8 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 9 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
-| 10 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 11 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
-| 12 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
-| 13 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 14 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
-| 15 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 16 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
-| 17 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 18 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
-| 19 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 22 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
-| 23 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 24 | [John Gibson](http://twitter.com/search?q=John+Gibson) | N/A |
+| 6 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 7 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 8 | [#OMEGAXatHMA](http://twitter.com/search?q=%23OMEGAXatHMA) | N/A |
+| 9 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 10 | [Episode 5](http://twitter.com/search?q=Episode+5) | N/A |
+| 11 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 12 | [Kathleen](http://twitter.com/search?q=Kathleen) | N/A |
+| 13 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
+| 14 | [Endure and Survive](http://twitter.com/search?q=Endure+and+Survive) | N/A |
+| 15 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 16 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 17 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
+| 18 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 19 | [Dick Tracy](http://twitter.com/search?q=Dick+Tracy) | N/A |
+| 20 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 21 | [Warren Beatty](http://twitter.com/search?q=Warren+Beatty) | N/A |
+| 22 | [Sowell](http://twitter.com/search?q=Sowell) | N/A |
+| 23 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
+| 24 | [Lamar Johnson](http://twitter.com/search?q=Lamar+Johnson) | N/A |
 | 25 | [Bloater](http://twitter.com/search?q=Bloater) | N/A |
-| 26 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 27 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
-| 28 | [Ellie and Sam](http://twitter.com/search?q=Ellie+and+Sam) | N/A |
-| 29 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
-| 30 | [George Lopez](http://twitter.com/search?q=George+Lopez) | N/A |
-| 31 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
-| 32 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 33 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 34 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 35 | [Adam West](http://twitter.com/search?q=Adam+West) | N/A |
-| 36 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
-| 37 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 38 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
-| 39 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
-| 40 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 41 | [Melanie Lynskey](http://twitter.com/search?q=Melanie+Lynskey) | N/A |
-| 42 | [Brennon](http://twitter.com/search?q=Brennon) | N/A |
-| 43 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 44 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
-| 45 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
-| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 47 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 48 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
-| 49 | [The Cavs](http://twitter.com/search?q=The+Cavs) | N/A |
-| 50 | [Zanab](http://twitter.com/search?q=Zanab) | N/A |
+| 26 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 28 | [Mark Briscoe](http://twitter.com/search?q=Mark+Briscoe) | Mark Briscoe is the ring name of American professional wrestler Mark Pugh. He is best known for his work in Ring of Honor (ROH) and Total Nonstop Action Wrestling (TNA). He is a former ROH World Tag Team Champion and a two-time TNA World Tag Team Champion. |
+| 29 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 30 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 31 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
+| 32 | [Jalen Duren](http://twitter.com/search?q=Jalen+Duren) | N/A |
+| 33 | [Donuts](http://twitter.com/search?q=Donuts) | N/A |
+| 34 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 35 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 36 | [Roseanne](http://twitter.com/search?q=Roseanne) | N/A |
+| 37 | [Brennon](http://twitter.com/search?q=Brennon) | N/A |
+| 38 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 39 | [#OMEGA_X](http://twitter.com/search?q=%23OMEGA_X) | N/A |
+| 40 | [#오메가엑스](http://twitter.com/search?q=%23%ec%98%a4%eb%a9%94%ea%b0%80%ec%97%91%ec%8a%a4) | N/A |
+| 41 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
+| 42 | [#Welcome_Back_OMEGAX](http://twitter.com/search?q=%23Welcome_Back_OMEGAX) | N/A |
+| 43 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 44 | [#Aqoursとバレンタイン_Day1](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day1) | N/A |
+| 45 | [#Wordle602](http://twitter.com/search?q=%23Wordle602) | N/A |
+| 46 | [#杭州按摩](http://twitter.com/search?q=%23%e6%9d%ad%e5%b7%9e%e6%8c%89%e6%91%a9) | N/A |
+| 47 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 48 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 50 | [#Nekromantik](http://twitter.com/search?q=%23Nekromantik) | N/A |
 
 
 
