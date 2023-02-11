@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-11 01:42:50 UTC`
+📆 Last Updated: `2023-02-11 02:36:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 2 | [JULIETTE NO BAILE DA VOGUE](http://twitter.com/search?q=JULIETTE+NO+BAILE+DA+VOGUE) | N/A |
-| 3 | [NATTAN NO BBB](http://twitter.com/search?q=NATTAN+NO+BBB) | N/A |
-| 4 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
-| 5 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 8 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 9 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
-| 10 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 11 | [SENTO PRA BEBER](http://twitter.com/search?q=SENTO+PRA+BEBER) | N/A |
-| 12 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 13 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 14 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 15 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 16 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 17 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 18 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
-| 19 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 20 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 21 | [OUÇA REALVERSO](http://twitter.com/search?q=OU%c3%87A+REALVERSO) | N/A |
-| 22 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 2 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 3 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
+| 4 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
+| 5 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 6 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 7 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
+| 8 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
+| 9 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
+| 10 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 11 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 14 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 15 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
+| 16 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 17 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 18 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 19 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 20 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 21 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 22 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
 | 23 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
-| 24 | [Alok](http://twitter.com/search?q=Alok) | N/A |
-| 25 | [figurinista](http://twitter.com/search?q=figurinista) | N/A |
-| 26 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 27 | [#RebecaNaTwitch](http://twitter.com/search?q=%23RebecaNaTwitch) | N/A |
-| 28 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 29 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 30 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
-| 31 | [raffa](http://twitter.com/search?q=raffa) | N/A |
-| 32 | [Vasco x Botafogo](http://twitter.com/search?q=Vasco+x+Botafogo) | N/A |
-| 33 | [Comics](http://twitter.com/search?q=Comics) | N/A |
-| 34 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 35 | [#VencerODesamor095](http://twitter.com/search?q=%23VencerODesamor095) | N/A |
-| 36 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 37 | [Demétrio](http://twitter.com/search?q=Dem%c3%a9trio) | Demétrio is a Portuguese name derived from the Greek name Demetrius, which means “lover of the earth” or “follower of Demeter” (the Greek goddess of agriculture). In English, it is sometimes spelled Demetrius. |
-| 38 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 39 | [Divinópolis](http://twitter.com/search?q=Divin%c3%b3polis) | N/A |
-| 40 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
-| 41 | [velozes](http://twitter.com/search?q=velozes) | N/A |
-| 42 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 43 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 44 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 45 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
-| 46 | [Ashton Kutcher](http://twitter.com/search?q=Ashton+Kutcher) | N/A |
-| 47 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 48 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 49 | [the good place](http://twitter.com/search?q=the+good+place) | N/A |
-| 50 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 24 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
+| 25 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 26 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 27 | [SENTO PRA BEBER](http://twitter.com/search?q=SENTO+PRA+BEBER) | N/A |
+| 28 | [Downy](http://twitter.com/search?q=Downy) | N/A |
+| 29 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
+| 30 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 31 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 32 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
+| 33 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
+| 34 | [Alok](http://twitter.com/search?q=Alok) | N/A |
+| 35 | [fafa](http://twitter.com/search?q=fafa) | N/A |
+| 36 | [figurinista](http://twitter.com/search?q=figurinista) | N/A |
+| 37 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 38 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
+| 39 | [boateng](http://twitter.com/search?q=boateng) | N/A |
+| 40 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
+| 41 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 42 | [Várzea](http://twitter.com/search?q=V%c3%a1rzea) | N/A |
+| 43 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 44 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 45 | [OUÇA REALVERSO](http://twitter.com/search?q=OU%c3%87A+REALVERSO) | N/A |
+| 46 | [Vasco x Botafogo](http://twitter.com/search?q=Vasco+x+Botafogo) | N/A |
+| 47 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
+| 48 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 49 | [Comics](http://twitter.com/search?q=Comics) | N/A |
+| 50 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 
 
 

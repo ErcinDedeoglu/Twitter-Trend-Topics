@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-11 01:43:30 UTC`
+📆 Last Updated: `2023-02-11 02:36:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 2 | [Saddiq](http://twitter.com/search?q=Saddiq) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 6 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 7 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 8 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
-| 9 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 12 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 13 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 14 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 15 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
-| 16 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 17 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
-| 18 | [Top Dolla](http://twitter.com/search?q=Top+Dolla) | Top Dolla is a slang term used to refer to someone who is wealthy or has a lot of money. It can also be used to describe something that is of high quality or value. |
-| 19 | [Josh McCown](http://twitter.com/search?q=Josh+McCown) | N/A |
-| 20 | [D White](http://twitter.com/search?q=D+White) | N/A |
-| 21 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 22 | [Viking Raiders](http://twitter.com/search?q=Viking+Raiders) | Viking Raiders is a professional wrestling tag team consisting of Erik and Ivar, two brothers from Norway. The team is currently signed to WWE and competes on the Raw brand. The name Viking Raiders is a reference to the historical Norse warriors known as Vikings, who were renowned for their raiding and pillaging of other lands. |
-| 23 | [Toradol](http://twitter.com/search?q=Toradol) | N/A |
-| 24 | [Dana Brown](http://twitter.com/search?q=Dana+Brown) | Dana Brown is a name, and it does not have any particular meaning in English. |
-| 25 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 26 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
-| 27 | [HIPPA](http://twitter.com/search?q=HIPPA) | N/A |
-| 28 | [No Purpose Flour](http://twitter.com/search?q=No+Purpose+Flour) | N/A |
-| 29 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
-| 30 | [Friday Night](http://twitter.com/search?q=Friday+Night) | N/A |
-| 31 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 32 | [Carlos Correa](http://twitter.com/search?q=Carlos+Correa) | Carlos Correa is a professional baseball player from Puerto Rico who currently plays for the Houston Astros. He is a shortstop and was the first overall pick in the 2012 MLB Draft. The meaning of his name in English is "free man". |
-| 33 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 34 | [Rasheed Wallace](http://twitter.com/search?q=Rasheed+Wallace) | N/A |
-| 35 | [Manny Bates](http://twitter.com/search?q=Manny+Bates) | N/A |
-| 36 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 37 | [END 1](http://twitter.com/search?q=END+1) | N/A |
-| 38 | [Sour Cream Citizen](http://twitter.com/search?q=Sour+Cream+Citizen) | N/A |
-| 39 | [Mike Muscala](http://twitter.com/search?q=Mike+Muscala) | N/A |
-| 40 | [God Only Knows](http://twitter.com/search?q=God+Only+Knows) | N/A |
-| 41 | [Gary Payton II](http://twitter.com/search?q=Gary+Payton+II) | N/A |
-| 42 | [Joey Spallina](http://twitter.com/search?q=Joey+Spallina) | N/A |
-| 43 | [Colleen](http://twitter.com/search?q=Colleen) | N/A |
-| 44 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
-| 45 | [February is Fruitful](http://twitter.com/search?q=February+is+Fruitful) | N/A |
-| 46 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 47 | [Kelis](http://twitter.com/search?q=Kelis) | N/A |
-| 48 | [Fox Soul](http://twitter.com/search?q=Fox+Soul) | N/A |
-| 49 | [Keaton](http://twitter.com/search?q=Keaton) | N/A |
+| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
+| 3 | [Saddiq](http://twitter.com/search?q=Saddiq) | N/A |
+| 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [#TheLastDriveIn](http://twitter.com/search?q=%23TheLastDriveIn) | N/A |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 10 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 12 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
+| 13 | [Phantom of the Mall](http://twitter.com/search?q=Phantom+of+the+Mall) | N/A |
+| 14 | [Hit Row](http://twitter.com/search?q=Hit+Row) | Hit Row is a term used in baseball to refer to the area of the batting order that consists of the team's best hitters. It is usually composed of the first three or four batters in the lineup, and it is designed to maximize the number of runs scored by having the most powerful hitters at the top of the order. |
+| 15 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 16 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 17 | [sheamus](http://twitter.com/search?q=sheamus) | N/A |
+| 18 | [Danny Trejo](http://twitter.com/search?q=Danny+Trejo) | N/A |
+| 19 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 20 | [Eric's Revenge](http://twitter.com/search?q=Eric%27s+Revenge) | N/A |
+| 21 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 22 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 23 | [Cumtown](http://twitter.com/search?q=Cumtown) | N/A |
+| 24 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 25 | [Big Ma](http://twitter.com/search?q=Big+Ma) | N/A |
+| 26 | [Pauly Shore](http://twitter.com/search?q=Pauly+Shore) | N/A |
+| 27 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 28 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
+| 29 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
+| 30 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 31 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
+| 32 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 33 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 34 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 35 | [John Tory](http://twitter.com/search?q=John+Tory) | N/A |
+| 36 | [Riddick](http://twitter.com/search?q=Riddick) | N/A |
+| 37 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 38 | [Josh McCown](http://twitter.com/search?q=Josh+McCown) | N/A |
+| 39 | [Chopping Mall](http://twitter.com/search?q=Chopping+Mall) | N/A |
+| 40 | [Aura](http://twitter.com/search?q=Aura) | N/A |
+| 41 | [Toradol](http://twitter.com/search?q=Toradol) | N/A |
+| 42 | [Suni](http://twitter.com/search?q=Suni) | N/A |
+| 43 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
+| 44 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
+| 45 | [Sam and Henry](http://twitter.com/search?q=Sam+and+Henry) | N/A |
+| 46 | [Caillou](http://twitter.com/search?q=Caillou) | N/A |
+| 47 | [Top Dolla](http://twitter.com/search?q=Top+Dolla) | Top Dolla is a slang term used to refer to someone who is wealthy or has a lot of money. It can also be used to describe something that is of high quality or value. |
+| 48 | [End 3Q](http://twitter.com/search?q=End+3Q) | N/A |
+| 49 | [Muscala](http://twitter.com/search?q=Muscala) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-11 01:43:01 UTC`
+📆 Last Updated: `2023-02-11 02:36:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023C5](http://twitter.com/search?q=%23COAC2023C5) | N/A |
 | 2 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 3 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 4 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 5 | [#ElDesafio5](http://twitter.com/search?q=%23ElDesafio5) | N/A |
-| 6 | [#poliomar](http://twitter.com/search?q=%23poliomar) | N/A |
-| 7 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 8 | [Elady](http://twitter.com/search?q=Elady) | N/A |
-| 9 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 10 | [Auron y Biyin](http://twitter.com/search?q=Auron+y+Biyin) | N/A |
-| 11 | [Escalante](http://twitter.com/search?q=Escalante) | N/A |
-| 12 | [#LaReunionSecreta](http://twitter.com/search?q=%23LaReunionSecreta) | N/A |
-| 13 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
-| 14 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 15 | [Sergi Guardiola](http://twitter.com/search?q=Sergi+Guardiola) | N/A |
-| 16 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 17 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 18 | [Sergio González](http://twitter.com/search?q=Sergio+Gonz%c3%a1lez) | N/A |
-| 19 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
-| 20 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 21 | [Hander](http://twitter.com/search?q=Hander) | N/A |
-| 22 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 23 | [Pol Lozano](http://twitter.com/search?q=Pol+Lozano) | N/A |
-| 24 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 25 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 26 | [Los Cármenes](http://twitter.com/search?q=Los+C%c3%a1rmenes) | N/A |
-| 27 | [Uzuni](http://twitter.com/search?q=Uzuni) | N/A |
-| 28 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 29 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 30 | [Ramis](http://twitter.com/search?q=Ramis) | N/A |
-| 31 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 32 | [Bongonda](http://twitter.com/search?q=Bongonda) | N/A |
-| 33 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 34 | [La UME](http://twitter.com/search?q=La+UME) | N/A |
-| 35 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 36 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 37 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 38 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 39 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
-| 40 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 41 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 42 | [En Valencia](http://twitter.com/search?q=En+Valencia) | N/A |
-| 43 | [Urgencias](http://twitter.com/search?q=Urgencias) | N/A |
-| 44 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 45 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
-| 46 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 47 | [#GranadaTenerife](http://twitter.com/search?q=%23GranadaTenerife) | N/A |
-| 48 | [#COACMLG](http://twitter.com/search?q=%23COACMLG) | N/A |
-| 49 | [#losesclavos](http://twitter.com/search?q=%23losesclavos) | N/A |
-| 50 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
+| 3 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 4 | [Como 33](http://twitter.com/search?q=Como+33) | N/A |
+| 5 | [#DondeSeJuegaTodo](http://twitter.com/search?q=%23DondeSeJuegaTodo) | N/A |
+| 6 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
+| 7 | [#AdiosNetflix](http://twitter.com/search?q=%23AdiosNetflix) | N/A |
+| 8 | [#poliomar](http://twitter.com/search?q=%23poliomar) | N/A |
+| 9 | [#KirbyEnGAME](http://twitter.com/search?q=%23KirbyEnGAME) | N/A |
+| 10 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 11 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 12 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 13 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 14 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 15 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 16 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 17 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 18 | [COMO QUE 33](http://twitter.com/search?q=COMO+QUE+33) | N/A |
+| 19 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 20 | [Sergi Guardiola](http://twitter.com/search?q=Sergi+Guardiola) | N/A |
+| 21 | [Elady](http://twitter.com/search?q=Elady) | N/A |
+| 22 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 23 | [Escalante](http://twitter.com/search?q=Escalante) | N/A |
+| 24 | [Ana Botella](http://twitter.com/search?q=Ana+Botella) | N/A |
+| 25 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 26 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Lo de Netflix](http://twitter.com/search?q=Lo+de+Netflix) | N/A |
+| 29 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
+| 30 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 31 | [Estela Domínguez](http://twitter.com/search?q=Estela+Dom%c3%adnguez) | N/A |
+| 32 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 33 | [Ana Morgade](http://twitter.com/search?q=Ana+Morgade) | N/A |
+| 34 | [Maite Galdeano](http://twitter.com/search?q=Maite+Galdeano) | N/A |
+| 35 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 36 | [Garamendi](http://twitter.com/search?q=Garamendi) | N/A |
+| 37 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 38 | [Hander](http://twitter.com/search?q=Hander) | N/A |
+| 39 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 40 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 41 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
+| 42 | [La Caza](http://twitter.com/search?q=La+Caza) | N/A |
+| 43 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 44 | [Cría Cuervos](http://twitter.com/search?q=Cr%c3%ada+Cuervos) | N/A |
+| 45 | [Ramis](http://twitter.com/search?q=Ramis) | N/A |
+| 46 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 47 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 48 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 49 | [La UME](http://twitter.com/search?q=La+UME) | N/A |
+| 50 | [Siria](http://twitter.com/search?q=Siria) | N/A |
 
 
 

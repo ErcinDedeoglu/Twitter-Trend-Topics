@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-11 01:42:51 UTC`
+📆 Last Updated: `2023-02-11 02:36:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 4 | [#PT43Anos](http://twitter.com/search?q=%23PT43Anos) | N/A |
-| 5 | [JULIETTE NO BAILE DA VOGUE](http://twitter.com/search?q=JULIETTE+NO+BAILE+DA+VOGUE) | N/A |
-| 6 | [NATTAN NO BBB](http://twitter.com/search?q=NATTAN+NO+BBB) | N/A |
-| 7 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
-| 8 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 11 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 12 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
-| 13 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 14 | [SENTO PRA BEBER](http://twitter.com/search?q=SENTO+PRA+BEBER) | N/A |
-| 15 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
-| 16 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 17 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 18 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 19 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 20 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 21 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
-| 22 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
-| 23 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 24 | [OUÇA REALVERSO](http://twitter.com/search?q=OU%c3%87A+REALVERSO) | N/A |
-| 25 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 26 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
-| 27 | [Alok](http://twitter.com/search?q=Alok) | N/A |
-| 28 | [figurinista](http://twitter.com/search?q=figurinista) | N/A |
-| 29 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 30 | [#RebecaNaTwitch](http://twitter.com/search?q=%23RebecaNaTwitch) | N/A |
-| 31 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 32 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 33 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
-| 34 | [raffa](http://twitter.com/search?q=raffa) | N/A |
-| 35 | [Vasco x Botafogo](http://twitter.com/search?q=Vasco+x+Botafogo) | N/A |
-| 36 | [Comics](http://twitter.com/search?q=Comics) | N/A |
-| 37 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
-| 38 | [GPII](http://twitter.com/search?q=GPII) | N/A |
-| 39 | [Demétrio](http://twitter.com/search?q=Dem%c3%a9trio) | Demétrio is a Portuguese name derived from the Greek name Demetrius, which means “lover of the earth” or “follower of Demeter” (the Greek goddess of agriculture). In English, it is sometimes spelled Demetrius. |
-| 40 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 41 | [Divinópolis](http://twitter.com/search?q=Divin%c3%b3polis) | N/A |
-| 42 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
-| 43 | [velozes](http://twitter.com/search?q=velozes) | N/A |
-| 44 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 45 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 46 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 47 | [Ashton Kutcher](http://twitter.com/search?q=Ashton+Kutcher) | N/A |
-| 48 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 49 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 50 | [the good place](http://twitter.com/search?q=the+good+place) | N/A |
+| 1 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 2 | [Dagoberto](http://twitter.com/search?q=Dagoberto) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 5 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 6 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 7 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 8 | [Parabéns PT](http://twitter.com/search?q=Parab%c3%a9ns+PT) | N/A |
+| 9 | [#SuperFesTON](http://twitter.com/search?q=%23SuperFesTON) | N/A |
+| 10 | [#BaileDaVogue2023](http://twitter.com/search?q=%23BaileDaVogue2023) | N/A |
+| 11 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 12 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 13 | [Mari Fernandez](http://twitter.com/search?q=Mari+Fernandez) | N/A |
+| 14 | [Nattan](http://twitter.com/search?q=Nattan) | N/A |
+| 15 | [VOLTA GABRIEL FOP](http://twitter.com/search?q=VOLTA+GABRIEL+FOP) | N/A |
+| 16 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 17 | [JADE NO BDV](http://twitter.com/search?q=JADE+NO+BDV) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [Adélia Prado](http://twitter.com/search?q=Ad%c3%a9lia+Prado) | N/A |
+| 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 21 | [Deborah Secco](http://twitter.com/search?q=Deborah+Secco) | N/A |
+| 22 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 23 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 24 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 25 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 26 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 27 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 28 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 29 | [keroppi](http://twitter.com/search?q=keroppi) | N/A |
+| 30 | [Faria Lima](http://twitter.com/search?q=Faria+Lima) | N/A |
+| 31 | [Galo da Madrugada](http://twitter.com/search?q=Galo+da+Madrugada) | N/A |
+| 32 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 33 | [SENTO PRA BEBER](http://twitter.com/search?q=SENTO+PRA+BEBER) | N/A |
+| 34 | [Downy](http://twitter.com/search?q=Downy) | N/A |
+| 35 | [BEBO PRA SENTAR](http://twitter.com/search?q=BEBO+PRA+SENTAR) | N/A |
+| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 37 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 38 | [Thelminha](http://twitter.com/search?q=Thelminha) | N/A |
+| 39 | [Casa Branca](http://twitter.com/search?q=Casa+Branca) | N/A |
+| 40 | [Alok](http://twitter.com/search?q=Alok) | N/A |
+| 41 | [fafa](http://twitter.com/search?q=fafa) | N/A |
+| 42 | [figurinista](http://twitter.com/search?q=figurinista) | N/A |
+| 43 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 44 | [Raffa](http://twitter.com/search?q=Raffa) | N/A |
+| 45 | [boateng](http://twitter.com/search?q=boateng) | N/A |
+| 46 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 47 | [Várzea](http://twitter.com/search?q=V%c3%a1rzea) | N/A |
+| 48 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 49 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 50 | [OUÇA REALVERSO](http://twitter.com/search?q=OU%c3%87A+REALVERSO) | N/A |
 
 
 

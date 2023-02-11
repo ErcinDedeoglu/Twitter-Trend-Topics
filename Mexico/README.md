@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-11 01:43:44 UTC`
+📆 Last Updated: `2023-02-11 02:36:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 2 | [#fmsmexico](http://twitter.com/search?q=%23fmsmexico) | N/A |
-| 3 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
-| 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 5 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 6 | [#ViernesDePrecopeo](http://twitter.com/search?q=%23ViernesDePrecopeo) | N/A |
-| 7 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 8 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 9 | [#iHeartMonstaX](http://twitter.com/search?q=%23iHeartMonstaX) | N/A |
-| 10 | [Zticma](http://twitter.com/search?q=Zticma) | N/A |
-| 11 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 12 | [Auron y Biyin](http://twitter.com/search?q=Auron+y+Biyin) | N/A |
-| 13 | [HBD JOELITO](http://twitter.com/search?q=HBD+JOELITO) | N/A |
-| 14 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 15 | [Díaz Canel](http://twitter.com/search?q=D%c3%adaz+Canel) | N/A |
-| 16 | [Baboso](http://twitter.com/search?q=Baboso) | N/A |
-| 17 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 18 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 20 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
-| 21 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 22 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 23 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 24 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 25 | [Profeco](http://twitter.com/search?q=Profeco) | N/A |
-| 26 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 27 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 28 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
-| 29 | [Selección Nacional](http://twitter.com/search?q=Selecci%c3%b3n+Nacional) | N/A |
-| 30 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
-| 31 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 32 | [Argentino](http://twitter.com/search?q=Argentino) | N/A |
-| 33 | [Chinguen](http://twitter.com/search?q=Chinguen) | N/A |
-| 34 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 35 | [#ExaAirlinesSuperJunior](http://twitter.com/search?q=%23ExaAirlinesSuperJunior) | N/A |
-| 36 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 37 | [#viernespalomero](http://twitter.com/search?q=%23viernespalomero) | N/A |
-| 38 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 39 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 40 | [#FueraCocca](http://twitter.com/search?q=%23FueraCocca) | N/A |
-| 41 | [#Ventaneando](http://twitter.com/search?q=%23Ventaneando) | N/A |
-| 42 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
-| 43 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 44 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 45 | [#FastAndFurious](http://twitter.com/search?q=%23FastAndFurious) | N/A |
+| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 2 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 4 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 5 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 8 | [#poderosopurogozo](http://twitter.com/search?q=%23poderosopurogozo) | N/A |
+| 9 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 10 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 11 | [Vikonis](http://twitter.com/search?q=Vikonis) | N/A |
+| 12 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 13 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 16 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
+| 17 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 19 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 20 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 21 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 22 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 23 | [Fuerza Aérea Mexicana](http://twitter.com/search?q=Fuerza+A%c3%a9rea+Mexicana) | N/A |
+| 24 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 25 | [CUATRO Y TRES](http://twitter.com/search?q=CUATRO+Y+TRES) | N/A |
+| 26 | [Selección Mexicana](http://twitter.com/search?q=Selecci%c3%b3n+Mexicana) | N/A |
+| 27 | [Ares de Parga](http://twitter.com/search?q=Ares+de+Parga) | N/A |
+| 28 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 29 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
+| 30 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 31 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 32 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 33 | [Malas Decisiones](http://twitter.com/search?q=Malas+Decisiones) | N/A |
+| 34 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 35 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 36 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 37 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
+| 38 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
+| 39 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 40 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 41 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 42 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
+| 43 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 44 | [Zticma](http://twitter.com/search?q=Zticma) | N/A |
+| 45 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 46 | [absolut smoky shot](http://twitter.com/search?q=absolut+smoky+shot) | N/A |
+| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 48 | [Cetes](http://twitter.com/search?q=Cetes) | N/A |
+| 49 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 50 | [This Is Why](http://twitter.com/search?q=This+Is+Why) | N/A |
 
 
 

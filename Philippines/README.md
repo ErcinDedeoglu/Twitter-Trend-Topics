@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-11 01:43:46 UTC`
+📆 Last Updated: `2023-02-11 02:36:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Philippines
 | 4 | [#MCIHulingHalik](http://twitter.com/search?q=%23MCIHulingHalik) | N/A |
 | 5 | [#DarnaSuperFinale](http://twitter.com/search?q=%23DarnaSuperFinale) | N/A |
 | 6 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 7 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 8 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
-| 9 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 10 | [Win x JKT](http://twitter.com/search?q=Win+x+JKT) | N/A |
-| 11 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
-| 12 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 13 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 14 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
-| 15 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 16 | [salamat po maam](http://twitter.com/search?q=salamat+po+maam) | N/A |
-| 17 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
-| 18 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 7 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 8 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
+| 9 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
+| 10 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
+| 11 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 12 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
+| 13 | [salamat po maam](http://twitter.com/search?q=salamat+po+maam) | N/A |
+| 14 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 15 | [HAPPY GRADUATION JUNGWON](http://twitter.com/search?q=HAPPY+GRADUATION+JUNGWON) | N/A |
+| 16 | [Win x JKT](http://twitter.com/search?q=Win+x+JKT) | N/A |
+| 17 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 18 | [3rd SNB's Day](http://twitter.com/search?q=3rd+SNB%27s+Day) | N/A |
 | 19 | [mc soobin](http://twitter.com/search?q=mc+soobin) | N/A |
 | 20 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 21 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 23 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
-| 24 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 21 | [PITONG ARAW NA LANG](http://twitter.com/search?q=PITONG+ARAW+NA+LANG) | N/A |
+| 22 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 25 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
 | 26 | [BGYO ON FEU OCP2023](http://twitter.com/search?q=BGYO+ON+FEU+OCP2023) | N/A |
-| 27 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
-| 28 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 29 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
-| 30 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
-| 31 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
-| 32 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 33 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 34 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
-| 35 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 36 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 27 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 28 | [janella iconic valentina](http://twitter.com/search?q=janella+iconic+valentina) | N/A |
+| 29 | [DRUNK-DAZED HITS 100M](http://twitter.com/search?q=DRUNK-DAZED+HITS+100M) | N/A |
+| 30 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 31 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 32 | [ALABADO SEA ADRIEL](http://twitter.com/search?q=ALABADO+SEA+ADRIEL) | N/A |
+| 33 | [FRANSETH ChiCo DeepTalk](http://twitter.com/search?q=FRANSETH+ChiCo+DeepTalk) | N/A |
+| 34 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 35 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 36 | [AY-YO in Shopee](http://twitter.com/search?q=AY-YO+in+Shopee) | N/A |
 | 37 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 38 | [Donato](http://twitter.com/search?q=Donato) | N/A |
-| 39 | [franseth thehowsoflove](http://twitter.com/search?q=franseth+thehowsoflove) | N/A |
+| 39 | [Portland](http://twitter.com/search?q=Portland) | N/A |
 | 40 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 41 | [juliever pagibignakayaep2](http://twitter.com/search?q=juliever+pagibignakayaep2) | N/A |
 | 42 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 43 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 43 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
 | 44 | [Jaebeom](http://twitter.com/search?q=Jaebeom) | N/A |
-| 45 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
-| 46 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 47 | [heechul](http://twitter.com/search?q=heechul) | N/A |
-| 48 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 49 | [JayB](http://twitter.com/search?q=JayB) | N/A |
-| 50 | [DavidLicauco ForLAZADA](http://twitter.com/search?q=DavidLicauco+ForLAZADA) | N/A |
+| 45 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 46 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 47 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 48 | [Love Shot](http://twitter.com/search?q=Love+Shot) | Love Shot is a song by South Korean boy band EXO. The song is about how love can be a powerful force that can help you overcome any obstacle. The title of the song is a metaphor for how love can be like a shot of adrenaline that gives you the strength to keep going. |
+| 49 | [heechul](http://twitter.com/search?q=heechul) | N/A |
+| 50 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 
 
 

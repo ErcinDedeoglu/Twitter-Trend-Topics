@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-11 01:43:05 UTC`
+📆 Last Updated: `2023-02-11 02:36:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 2 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
-| 5 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
-| 6 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
-| 7 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [Cafe Millennium](http://twitter.com/search?q=Cafe+Millennium) | N/A |
+| 4 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 5 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 6 | [Jordan Dawson](http://twitter.com/search?q=Jordan+Dawson) | N/A |
+| 7 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
 | 8 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
+| 9 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 10 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 11 | [#BRIvCCM](http://twitter.com/search?q=%23BRIvCCM) | N/A |
 | 12 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 13 | [Crows](http://twitter.com/search?q=Crows) | N/A |
-| 14 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 15 | [La Niña](http://twitter.com/search?q=La+Ni%c3%b1a) | N/A |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [Sloane](http://twitter.com/search?q=Sloane) | N/A |
-| 18 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
-| 19 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 20 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 13 | [Doedee](http://twitter.com/search?q=Doedee) | N/A |
+| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 15 | [Crows](http://twitter.com/search?q=Crows) | N/A |
+| 16 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 17 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 18 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 20 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
 | 21 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 22 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 23 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 24 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 25 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 22 | [Sloane](http://twitter.com/search?q=Sloane) | N/A |
+| 23 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
+| 24 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 25 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
 | 26 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 27 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 28 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 29 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 30 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 31 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
-| 32 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 27 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 28 | [Sahar](http://twitter.com/search?q=Sahar) | N/A |
+| 29 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
+| 30 | [Wally](http://twitter.com/search?q=Wally) | N/A |
+| 31 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 32 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
 | 33 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 34 | [Wally](http://twitter.com/search?q=Wally) | N/A |
-| 35 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 36 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 37 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
-| 38 | [Daily Quordle 383](http://twitter.com/search?q=Daily+Quordle+383) | N/A |
-| 39 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 34 | [News Corp](http://twitter.com/search?q=News+Corp) | N/A |
+| 35 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
+| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 37 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 38 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
+| 39 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
+| 40 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
 | 41 | [Michelle Rowland](http://twitter.com/search?q=Michelle+Rowland) | N/A |
-| 42 | [Ralphie](http://twitter.com/search?q=Ralphie) | N/A |
-| 43 | [Sportsbet](http://twitter.com/search?q=Sportsbet) | N/A |
-| 44 | [handscomb](http://twitter.com/search?q=handscomb) | N/A |
-| 45 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 46 | [Margaret Court](http://twitter.com/search?q=Margaret+Court) | N/A |
-| 47 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 48 | [Doomben](http://twitter.com/search?q=Doomben) | N/A |
-| 49 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 43 | [Charm Stone](http://twitter.com/search?q=Charm+Stone) | N/A |
+| 44 | [Atar](http://twitter.com/search?q=Atar) | N/A |
+| 45 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 46 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 47 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 48 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 49 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
 
 
 
