@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-11 00:26:55 UTC`
+📆 Last Updated: `2023-02-11 01:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ecuador
 | 2 | [Pablo Celi](http://twitter.com/search?q=Pablo+Celi) | N/A |
 | 3 | [#CasoEncuentro](http://twitter.com/search?q=%23CasoEncuentro) | N/A |
 | 4 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 5 | [CNE Guayas](http://twitter.com/search?q=CNE+Guayas) | N/A |
-| 6 | [#LassoRespetaLaDemocracia](http://twitter.com/search?q=%23LassoRespetaLaDemocracia) | N/A |
-| 7 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
-| 8 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
-| 9 | [#LasTorres](http://twitter.com/search?q=%23LasTorres) | N/A |
-| 10 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 5 | [ANDREINA X FESTIVAL PILSENER](http://twitter.com/search?q=ANDREINA+X+FESTIVAL+PILSENER) | N/A |
+| 6 | [CNE GUAYAS](http://twitter.com/search?q=CNE+GUAYAS) | N/A |
+| 7 | [#LassoRespetaLaDemocracia](http://twitter.com/search?q=%23LassoRespetaLaDemocracia) | N/A |
+| 8 | [Petroecuador](http://twitter.com/search?q=Petroecuador) | N/A |
+| 9 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 10 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
 | 11 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 12 | [Isner](http://twitter.com/search?q=Isner) | N/A |
-| 13 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
-| 14 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
-| 15 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 16 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
-| 17 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 18 | [centro de cómputo](http://twitter.com/search?q=centro+de+c%c3%b3mputo) | N/A |
-| 19 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
-| 20 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 21 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
-| 22 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
-| 23 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 24 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
-| 25 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
-| 26 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
-| 27 | [Jimmy Bran](http://twitter.com/search?q=Jimmy+Bran) | N/A |
-| 28 | [Gerencia](http://twitter.com/search?q=Gerencia) | N/A |
+| 12 | [Hugo Aguiar](http://twitter.com/search?q=Hugo+Aguiar) | N/A |
+| 13 | [#LassoEsUnFracaso](http://twitter.com/search?q=%23LassoEsUnFracaso) | N/A |
+| 14 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 15 | [John Gamboa](http://twitter.com/search?q=John+Gamboa) | N/A |
+| 16 | [#MIVOTOSERESPETA](http://twitter.com/search?q=%23MIVOTOSERESPETA) | N/A |
+| 17 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
+| 18 | [Juan José Pérez](http://twitter.com/search?q=Juan+Jos%c3%a9+P%c3%a9rez) | N/A |
+| 19 | [Las Torres](http://twitter.com/search?q=Las+Torres) | N/A |
+| 20 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
+| 21 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 22 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 23 | [francesco tabacchi](http://twitter.com/search?q=francesco+tabacchi) | N/A |
+| 24 | [John Isner](http://twitter.com/search?q=John+Isner) | N/A |
+| 25 | [sebastián corral](http://twitter.com/search?q=sebasti%c3%a1n+corral) | N/A |
+| 26 | [Ministro de Gobierno](http://twitter.com/search?q=Ministro+de+Gobierno) | N/A |
+| 27 | [Gerencia](http://twitter.com/search?q=Gerencia) | N/A |
+| 28 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
 | 29 | [Correista](http://twitter.com/search?q=Correista) | N/A |
-| 30 | [Víctor Figueroa](http://twitter.com/search?q=V%c3%adctor+Figueroa) | N/A |
-| 31 | [sebastián corral](http://twitter.com/search?q=sebasti%c3%a1n+corral) | N/A |
-| 32 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
-| 33 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 34 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
-| 35 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
-| 36 | [Aparicio](http://twitter.com/search?q=Aparicio) | N/A |
-| 37 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 38 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 39 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 40 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 41 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
-| 42 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
-| 43 | [tania vásquez](http://twitter.com/search?q=tania+v%c3%a1squez) | N/A |
-| 44 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 45 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
-| 48 | [Malecón](http://twitter.com/search?q=Malec%c3%b3n) | N/A |
-| 49 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 50 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 30 | [Toacazo](http://twitter.com/search?q=Toacazo) | N/A |
+| 31 | [have a safe flight yoongi](http://twitter.com/search?q=have+a+safe+flight+yoongi) | N/A |
+| 32 | [Carlo Ancelotti](http://twitter.com/search?q=Carlo+Ancelotti) | N/A |
+| 33 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 34 | [Atamaint](http://twitter.com/search?q=Atamaint) | N/A |
+| 35 | [Centro de Cómputo](http://twitter.com/search?q=Centro+de+C%c3%b3mputo) | N/A |
+| 36 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [Henry Cucalón](http://twitter.com/search?q=Henry+Cucal%c3%b3n) | N/A |
+| 39 | [Aparicio Caicedo](http://twitter.com/search?q=Aparicio+Caicedo) | N/A |
+| 40 | [Ayrton Preciado](http://twitter.com/search?q=Ayrton+Preciado) | N/A |
+| 41 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 42 | [Emilio Gómez](http://twitter.com/search?q=Emilio+G%c3%b3mez) | N/A |
+| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 44 | [Mauricio Guim](http://twitter.com/search?q=Mauricio+Guim) | N/A |
+| 45 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 46 | [MAR EN LOS PREMIOS HEAT](http://twitter.com/search?q=MAR+EN+LOS+PREMIOS+HEAT) | N/A |
+| 47 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 48 | [Urdesa](http://twitter.com/search?q=Urdesa) | N/A |
+| 49 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 50 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 
 
 

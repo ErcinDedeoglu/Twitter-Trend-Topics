@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-11 00:26:15 UTC`
+📆 Last Updated: `2023-02-11 01:42:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,49 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fede Bal](http://twitter.com/search?q=Fede+Bal) | N/A |
-| 2 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
-| 3 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
-| 4 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 5 | [#integracionswiftiee](http://twitter.com/search?q=%23integracionswiftiee) | N/A |
-| 6 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
-| 7 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 8 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [Independiente Rivadavia](http://twitter.com/search?q=Independiente+Rivadavia) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 13 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 14 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 15 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
-| 16 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
-| 17 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 18 | [Jaminton Campaz](http://twitter.com/search?q=Jaminton+Campaz) | N/A |
-| 19 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 20 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 21 | [Solo China](http://twitter.com/search?q=Solo+China) | N/A |
-| 22 | [Ezeiza](http://twitter.com/search?q=Ezeiza) | N/A |
-| 23 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
-| 24 | [Agustín Rossi](http://twitter.com/search?q=Agust%c3%adn+Rossi) | Agustín Rossi is a Spanish surname. It is derived from the given name Agustín, which is a Spanish form of the Latin name Augustinus, meaning "great, magnificent". |
-| 25 | [Con Macri](http://twitter.com/search?q=Con+Macri) | N/A |
-| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 27 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 28 | [L-Gante](http://twitter.com/search?q=L-Gante) | N/A |
-| 29 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 31 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
-| 32 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 33 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 34 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 35 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 36 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 37 | [Berazategui](http://twitter.com/search?q=Berazategui) | N/A |
-| 38 | [Grondona](http://twitter.com/search?q=Grondona) | N/A |
-| 39 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
-| 40 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 41 | [#TeamVerano](http://twitter.com/search?q=%23TeamVerano) | N/A |
-| 42 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 1 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
+| 2 | [fede bal](http://twitter.com/search?q=fede+bal) | N/A |
+| 3 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 4 | [Flor](http://twitter.com/search?q=Flor) | N/A |
+| 5 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 6 | [Abecasis](http://twitter.com/search?q=Abecasis) | N/A |
+| 7 | [Estefi](http://twitter.com/search?q=Estefi) | N/A |
+| 8 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 9 | [Lourdes Sanchez](http://twitter.com/search?q=Lourdes+Sanchez) | N/A |
+| 10 | [#integracionswiftiee](http://twitter.com/search?q=%23integracionswiftiee) | N/A |
+| 11 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
+| 12 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 13 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 14 | [Conti](http://twitter.com/search?q=Conti) | N/A |
+| 15 | [Independiente Rivadavia](http://twitter.com/search?q=Independiente+Rivadavia) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 18 | [Rusas](http://twitter.com/search?q=Rusas) | N/A |
+| 19 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 20 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 21 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
+| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 23 | [#JuegaFerro](http://twitter.com/search?q=%23JuegaFerro) | N/A |
+| 24 | [Lepra](http://twitter.com/search?q=Lepra) | N/A |
+| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 26 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 27 | [Migraciones](http://twitter.com/search?q=Migraciones) | N/A |
+| 28 | [Jaminton Campaz](http://twitter.com/search?q=Jaminton+Campaz) | N/A |
+| 29 | [Con Macri](http://twitter.com/search?q=Con+Macri) | N/A |
+| 30 | [Ezeiza](http://twitter.com/search?q=Ezeiza) | N/A |
+| 31 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 32 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 33 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 34 | [Juanma](http://twitter.com/search?q=Juanma) | N/A |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 37 | [Agustín Rossi](http://twitter.com/search?q=Agust%c3%adn+Rossi) | Agustín Rossi is a Spanish surname. It is derived from the given name Agustín, which is a Spanish form of the Latin name Augustinus, meaning "great, magnificent". |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [Villa María](http://twitter.com/search?q=Villa+Mar%c3%ada) | N/A |
+| 40 | [Guille](http://twitter.com/search?q=Guille) | N/A |
+| 41 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
+| 42 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
+| 43 | [#TeamInvierno](http://twitter.com/search?q=%23TeamInvierno) | N/A |
 
 
 
