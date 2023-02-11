@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-11 20:16:39 UTC`
+📆 Last Updated: `2023-02-11 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 3 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 7 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 10 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 11 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 12 | [#TrumpLaptop](http://twitter.com/search?q=%23TrumpLaptop) | N/A |
-| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 11 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 12 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 13 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 15 | [#JerseyJCup](http://twitter.com/search?q=%23JerseyJCup) | N/A |
-| 16 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 17 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
-| 18 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 19 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 20 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 21 | [Kelly Rowland](http://twitter.com/search?q=Kelly+Rowland) | N/A |
-| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 24 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 25 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
-| 26 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 27 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 28 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 29 | [PJ Hall](http://twitter.com/search?q=PJ+Hall) | N/A |
-| 30 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 31 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 32 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 33 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 34 | [Into the Spider-Verse](http://twitter.com/search?q=Into+the+Spider-Verse) | N/A |
-| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 36 | [Forsberg](http://twitter.com/search?q=Forsberg) | N/A |
-| 37 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 38 | [Hakim Hart](http://twitter.com/search?q=Hakim+Hart) | N/A |
-| 39 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 40 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 43 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
-| 44 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 45 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 46 | [Coach Cal](http://twitter.com/search?q=Coach+Cal) | N/A |
-| 47 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 48 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 49 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 50 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 16 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 17 | [#GlobalMovieDay](http://twitter.com/search?q=%23GlobalMovieDay) | N/A |
+| 18 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
+| 19 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
+| 20 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
+| 23 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 24 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 25 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
+| 26 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 27 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 28 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 29 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 30 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 31 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
+| 32 | [Trey Alexander](http://twitter.com/search?q=Trey+Alexander) | N/A |
+| 33 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
+| 34 | [PJ Hall](http://twitter.com/search?q=PJ+Hall) | N/A |
+| 35 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
+| 36 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
+| 37 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 38 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 39 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [Kelly Rowland](http://twitter.com/search?q=Kelly+Rowland) | N/A |
+| 42 | [Wedgewood](http://twitter.com/search?q=Wedgewood) | N/A |
+| 43 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
+| 44 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
+| 45 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 46 | [Lambert](http://twitter.com/search?q=Lambert) | N/A |
+| 47 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
+| 48 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 49 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 50 | [Andrew Chafin](http://twitter.com/search?q=Andrew+Chafin) | N/A |
 
 
 

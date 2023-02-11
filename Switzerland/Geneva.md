@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-11 20:16:17 UTC`
+📆 Last Updated: `2023-02-11 21:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 2 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 2 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 3 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
 | 4 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
 | 5 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
-| 9 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 11 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
-| 12 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 13 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 14 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 8 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 9 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
+| 10 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 11 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 14 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
 | 15 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 18 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
-| 19 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
-| 20 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 23 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 24 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 25 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 16 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 17 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
+| 20 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
+| 21 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 24 | [Reich](http://twitter.com/search?q=Reich) | N/A |
+| 25 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 26 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 28 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 27 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 28 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
 | 29 | [Niro](http://twitter.com/search?q=Niro) | N/A |
-| 30 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
-| 31 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 32 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
-| 33 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 34 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 35 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
-| 38 | [Hals](http://twitter.com/search?q=Hals) | N/A |
-| 39 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 40 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 41 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 42 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 43 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 44 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 45 | [Rechnung](http://twitter.com/search?q=Rechnung) | N/A |
-| 46 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 47 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 30 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 31 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
+| 32 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 33 | [Luzern](http://twitter.com/search?q=Luzern) | N/A |
+| 34 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 35 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 36 | [Hals](http://twitter.com/search?q=Hals) | N/A |
+| 37 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 38 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 39 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
+| 40 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 41 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 42 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 43 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 44 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 45 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
+| 46 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 47 | [Fahne](http://twitter.com/search?q=Fahne) | N/A |
 
 
 

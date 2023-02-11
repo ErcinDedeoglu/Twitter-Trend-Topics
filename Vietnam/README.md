@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-11 20:16:54 UTC`
+📆 Last Updated: `2023-02-11 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,15 +43,15 @@ This is top 50 for Vietnam
 | 26 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
 | 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 28 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 29 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 29 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
 | 30 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 31 | [Welcome to Vietnam](http://twitter.com/search?q=Welcome+to+Vietnam) | N/A |
-| 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 33 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
-| 34 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 35 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
+| 31 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 32 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
+| 33 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 34 | [Welcome to VietNam](http://twitter.com/search?q=Welcome+to+VietNam) | N/A |
+| 35 | [herrscher of origin](http://twitter.com/search?q=herrscher+of+origin) | N/A |
 | 36 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 37 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
+| 37 | [herrscher of finality](http://twitter.com/search?q=herrscher+of+finality) | N/A |
 | 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 39 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 40 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Vietnam
 | 45 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
 | 46 | [Chess](http://twitter.com/search?q=Chess) | N/A |
 | 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 48 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 50 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-02-11 20:16:36 UTC`
+📆 Last Updated: `2023-02-11 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#VoteForShivThakare](http://twitter.com/search?q=%23VoteForShivThakare) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#AzeemApologizing2Aandavar](http://twitter.com/search?q=%23AzeemApologizing2Aandavar) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 3 | [#AzeemApologizing2Aandavar](http://twitter.com/search?q=%23AzeemApologizing2Aandavar) | N/A |
+| 4 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 5 | [#AUSvNZ](http://twitter.com/search?q=%23AUSvNZ) | N/A |
-| 6 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 7 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
-| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 9 | [#PriyAnkit](http://twitter.com/search?q=%23PriyAnkit) | N/A |
-| 10 | [Sushant A Multifaceted Talent](http://twitter.com/search?q=Sushant+A+Multifaceted+Talent) | N/A |
-| 11 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 12 | [Valentines Week with Piya Re](http://twitter.com/search?q=Valentines+Week+with+Piya+Re) | N/A |
-| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 15 | [Piya Re Ruling Hearts](http://twitter.com/search?q=Piya+Re+Ruling+Hearts) | N/A |
-| 16 | [ANNOUNCE NEXT MOVIE AAMIR](http://twitter.com/search?q=ANNOUNCE+NEXT+MOVIE+AAMIR) | N/A |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Mere Desh Ki Jawani](http://twitter.com/search?q=Mere+Desh+Ki+Jawani) | N/A |
-| 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 20 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 6 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 7 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 8 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
+| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [#PriyAnkit](http://twitter.com/search?q=%23PriyAnkit) | N/A |
+| 11 | [Sushant A Multifaceted Talent](http://twitter.com/search?q=Sushant+A+Multifaceted+Talent) | N/A |
+| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 13 | [Valentines Week with Piya Re](http://twitter.com/search?q=Valentines+Week+with+Piya+Re) | N/A |
+| 14 | [Piya Re Ruling Hearts](http://twitter.com/search?q=Piya+Re+Ruling+Hearts) | N/A |
+| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 25 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 26 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 27 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 29 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 31 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 32 | [पुष्पांजलि अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
-| 33 | [Shahid](http://twitter.com/search?q=Shahid) | N/A |
-| 34 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
-| 35 | [#BageshwarSarkarInAapKiAdalat](http://twitter.com/search?q=%23BageshwarSarkarInAapKiAdalat) | N/A |
-| 36 | [#BiggBoss16Finale](http://twitter.com/search?q=%23BiggBoss16Finale) | N/A |
-| 37 | [#CrashCourseInRomanceEp9](http://twitter.com/search?q=%23CrashCourseInRomanceEp9) | N/A |
-| 38 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 39 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 40 | [#AnkitGupta](http://twitter.com/search?q=%23AnkitGupta) | N/A |
-| 41 | [#PatroiticAnthem](http://twitter.com/search?q=%23PatroiticAnthem) | N/A |
-| 42 | [#BFCKBFC](http://twitter.com/search?q=%23BFCKBFC) | N/A |
-| 43 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
-| 44 | [#WeAreBFC](http://twitter.com/search?q=%23WeAreBFC) | N/A |
-| 45 | [#SharkTankIndiaSeason2](http://twitter.com/search?q=%23SharkTankIndiaSeason2) | N/A |
-| 46 | [#AskAnupam](http://twitter.com/search?q=%23AskAnupam) | N/A |
-| 47 | [#ShiBdu](http://twitter.com/search?q=%23ShiBdu) | N/A |
-| 48 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
-| 49 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 50 | [#BengaluruFC](http://twitter.com/search?q=%23BengaluruFC) | N/A |
+| 22 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 23 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 25 | [#BageshwarSarkarInAapKiAdalat](http://twitter.com/search?q=%23BageshwarSarkarInAapKiAdalat) | N/A |
+| 26 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 27 | [#BiggBoss16Finale](http://twitter.com/search?q=%23BiggBoss16Finale) | N/A |
+| 28 | [#CrashCourseInRomanceEp9](http://twitter.com/search?q=%23CrashCourseInRomanceEp9) | N/A |
+| 29 | [#AnkitGupta](http://twitter.com/search?q=%23AnkitGupta) | N/A |
+| 30 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 31 | [#BFCKBFC](http://twitter.com/search?q=%23BFCKBFC) | N/A |
+| 32 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 33 | [#WeAreBFC](http://twitter.com/search?q=%23WeAreBFC) | N/A |
+| 34 | [#SharkTankIndiaSeason2](http://twitter.com/search?q=%23SharkTankIndiaSeason2) | N/A |
+| 35 | [#ShiBdu](http://twitter.com/search?q=%23ShiBdu) | N/A |
+| 36 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 37 | [#BengaluruFC](http://twitter.com/search?q=%23BengaluruFC) | N/A |
+| 38 | [#AskAnupam](http://twitter.com/search?q=%23AskAnupam) | N/A |
+| 39 | [#ShivThakareForTheWin](http://twitter.com/search?q=%23ShivThakareForTheWin) | N/A |
+| 40 | [#HBDAari](http://twitter.com/search?q=%23HBDAari) | N/A |
+| 41 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
+| 42 | [#AbduRozik](http://twitter.com/search?q=%23AbduRozik) | N/A |
+| 43 | [#Antikannadagovt](http://twitter.com/search?q=%23Antikannadagovt) | N/A |
+| 44 | [#ನಾಡವಿರೋಧಿಸರ್ಕಾರ](http://twitter.com/search?q=%23%e0%b2%a8%e0%b2%be%e0%b2%a1%e0%b2%b5%e0%b2%bf%e0%b2%b0%e0%b3%8b%e0%b2%a7%e0%b2%bf%e0%b2%b8%e0%b2%b0%e0%b3%8d%e0%b2%95%e0%b2%be%e0%b2%b0) | N/A |
+| 45 | [#KeralaBlasters](http://twitter.com/search?q=%23KeralaBlasters) | N/A |
+| 46 | [#WHUCHE](http://twitter.com/search?q=%23WHUCHE) | N/A |
+| 47 | [#ShivThakre](http://twitter.com/search?q=%23ShivThakre) | N/A |
+| 48 | [#VoteForPriyanka](http://twitter.com/search?q=%23VoteForPriyanka) | N/A |
+| 49 | [#MumbaiCity](http://twitter.com/search?q=%23MumbaiCity) | N/A |
+| 50 | [#HeroISL](http://twitter.com/search?q=%23HeroISL) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-11 20:16:54 UTC`
+📆 Last Updated: `2023-02-11 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Thailand
 | 15 | [bambam home with yena](http://twitter.com/search?q=bambam+home+with+yena) | N/A |
 | 16 | [3rd snb's day](http://twitter.com/search?q=3rd+snb%27s+day) | N/A |
 | 17 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
-| 18 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 19 | [#จัสตินขิต](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b4%e0%b8%95) | N/A |
-| 20 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
-| 21 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
-| 22 | [#JungKook](http://twitter.com/search?q=%23JungKook) | N/A |
-| 23 | [#SafeFlightGULFtoJP](http://twitter.com/search?q=%23SafeFlightGULFtoJP) | N/A |
+| 18 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [4 YEARS WITH ITZY](http://twitter.com/search?q=4+YEARS+WITH+ITZY) | N/A |
+| 21 | [#จัสตินขิต](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b4%e0%b8%95) | N/A |
+| 22 | [#KIMSEONHOinBKK2023](http://twitter.com/search?q=%23KIMSEONHOinBKK2023) | N/A |
+| 23 | [#MySchoolPresidentEP10](http://twitter.com/search?q=%23MySchoolPresidentEP10) | N/A |
 | 24 | [#LISAxCelineWinter23](http://twitter.com/search?q=%23LISAxCelineWinter23) | N/A |
-| 25 | [#KAZZTalKxNUNEW](http://twitter.com/search?q=%23KAZZTalKxNUNEW) | N/A |
-| 26 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
-| 27 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
+| 25 | [#SafeFlightGULFtoJP](http://twitter.com/search?q=%23SafeFlightGULFtoJP) | N/A |
+| 26 | [#KAZZTalKxNUNEW](http://twitter.com/search?q=%23KAZZTalKxNUNEW) | N/A |
+| 27 | [#Win1stFMJKT](http://twitter.com/search?q=%23Win1stFMJKT) | N/A |
 | 28 | [#WINreadyforJKT](http://twitter.com/search?q=%23WINreadyforJKT) | N/A |
-| 29 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
-| 30 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
-| 31 | [#LOrealHOHxGeminiFourth](http://twitter.com/search?q=%23LOrealHOHxGeminiFourth) | N/A |
+| 29 | [#Mew2023BDFM1st](http://twitter.com/search?q=%23Mew2023BDFM1st) | N/A |
+| 30 | [#LOrealHOHxGeminiFourth](http://twitter.com/search?q=%23LOrealHOHxGeminiFourth) | N/A |
+| 31 | [#JungKook](http://twitter.com/search?q=%23JungKook) | N/A |
 | 32 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 33 | [#คิมซอนโฮ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a1%e0%b8%8b%e0%b8%ad%e0%b8%99%e0%b9%82%e0%b8%ae) | N/A |
-| 34 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
-| 35 | [#olulove](http://twitter.com/search?q=%23olulove) | N/A |
-| 36 | [#4EVExริมผา10](http://twitter.com/search?q=%234EVEx%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%9c%e0%b8%b210) | N/A |
-| 37 | [#คนถ่ายภาพนี้ก็หล่อฉดใฉ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%87%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%89%e0%b8%94%e0%b9%83%e0%b8%89) | N/A |
-| 38 | [#Mew2023BDFM2nd](http://twitter.com/search?q=%23Mew2023BDFM2nd) | N/A |
-| 39 | [#เป็นต่อ2023xnook_thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xnook_thanadon) | N/A |
-| 40 | [#ก้อนขายขํา](http://twitter.com/search?q=%23%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%8d%e0%b8%b2) | N/A |
-| 41 | [#อิงฟ้ามหาชน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99) | N/A |
-| 42 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
-| 43 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
-| 44 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
-| 45 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
-| 46 | [#ต้าห์อู๋ออฟโรด](http://twitter.com/search?q=%23%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%ad%e0%b8%b9%e0%b9%8b%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b9%82%e0%b8%a3%e0%b8%94) | N/A |
-| 47 | [#500Kตัวท็อปชากแง้ว](http://twitter.com/search?q=%23500K%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%97%e0%b9%87%e0%b8%ad%e0%b8%9b%e0%b8%8a%e0%b8%b2%e0%b8%81%e0%b9%81%e0%b8%87%e0%b9%89%e0%b8%a7) | N/A |
-| 48 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
-| 49 | [#ใส่เสื้อหน่อย](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%aa%e0%b9%88%e0%b9%80%e0%b8%aa%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
-| 50 | [#PPKrit_CELINE](http://twitter.com/search?q=%23PPKrit_CELINE) | N/A |
+| 34 | [#TFSSunkissedDatexZeeNuNew](http://twitter.com/search?q=%23TFSSunkissedDatexZeeNuNew) | N/A |
+| 35 | [#JS24thBD](http://twitter.com/search?q=%23JS24thBD) | N/A |
+| 36 | [#olulove](http://twitter.com/search?q=%23olulove) | N/A |
+| 37 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
+| 38 | [#4EVExริมผา10](http://twitter.com/search?q=%234EVEx%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%9c%e0%b8%b210) | N/A |
+| 39 | [#Mew2023BDFM2nd](http://twitter.com/search?q=%23Mew2023BDFM2nd) | N/A |
+| 40 | [#เป็นต่อ2023xnook_thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xnook_thanadon) | N/A |
+| 41 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
+| 42 | [#NeverLetMeGoSeriesFinalEP](http://twitter.com/search?q=%23NeverLetMeGoSeriesFinalEP) | N/A |
+| 43 | [#TEN_PhantomFM_SEOUL](http://twitter.com/search?q=%23TEN_PhantomFM_SEOUL) | N/A |
+| 44 | [#แพทริคเกมเมอร์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b9%80%e0%b8%a1%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 45 | [#500Kตัวท็อปชากแง้ว](http://twitter.com/search?q=%23500K%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%97%e0%b9%87%e0%b8%ad%e0%b8%9b%e0%b8%8a%e0%b8%b2%e0%b8%81%e0%b9%81%e0%b8%87%e0%b9%89%e0%b8%a7) | N/A |
+| 46 | [#WayV_Phantom_in_SEOUL](http://twitter.com/search?q=%23WayV_Phantom_in_SEOUL) | N/A |
+| 47 | [#ใส่เสื้อหน่อย](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%aa%e0%b9%88%e0%b9%80%e0%b8%aa%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
+| 48 | [#PPKrit_CELINE](http://twitter.com/search?q=%23PPKrit_CELINE) | N/A |
+| 49 | [#englotxrapidlife](http://twitter.com/search?q=%23englotxrapidlife) | N/A |
+| 50 | [#LOrealHOHxJimmySea](http://twitter.com/search?q=%23LOrealHOHxJimmySea) | N/A |
 
 
 

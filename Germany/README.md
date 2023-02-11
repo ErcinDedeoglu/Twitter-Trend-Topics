@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-11 20:16:49 UTC`
+📆 Last Updated: `2023-02-11 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
-| 2 | [#FCHHSV](http://twitter.com/search?q=%23FCHHSV) | N/A |
+| 1 | [#FCHHSV](http://twitter.com/search?q=%23FCHHSV) | N/A |
+| 2 | [#RBLFCU](http://twitter.com/search?q=%23RBLFCU) | N/A |
 | 3 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
-| 4 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 5 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 6 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 7 | [#SCFVfB](http://twitter.com/search?q=%23SCFVfB) | N/A |
-| 8 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 9 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 10 | [Visa](http://twitter.com/search?q=Visa) | N/A |
-| 11 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 12 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 15 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
-| 16 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
-| 17 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
-| 18 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 19 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 20 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 21 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 22 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 23 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 24 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 25 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
-| 26 | [Nachbarin](http://twitter.com/search?q=Nachbarin) | N/A |
-| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 28 | [Kapitulation](http://twitter.com/search?q=Kapitulation) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 31 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 32 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 33 | [Weltkrieg](http://twitter.com/search?q=Weltkrieg) | N/A |
-| 34 | [#EestiLaul2023](http://twitter.com/search?q=%23EestiLaul2023) | N/A |
-| 35 | [#SVWBVB](http://twitter.com/search?q=%23SVWBVB) | N/A |
-| 36 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
-| 37 | [#FCBBOC](http://twitter.com/search?q=%23FCBBOC) | N/A |
-| 38 | [#dd1102](http://twitter.com/search?q=%23dd1102) | N/A |
-| 39 | [#M05FCA](http://twitter.com/search?q=%23M05FCA) | N/A |
-| 40 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
-| 41 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
-| 42 | [#TSGB04](http://twitter.com/search?q=%23TSGB04) | N/A |
-| 43 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 44 | [#SeaOfThievesCommunityDay](http://twitter.com/search?q=%23SeaOfThievesCommunityDay) | N/A |
-| 45 | [#112live](http://twitter.com/search?q=%23112live) | N/A |
-| 46 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 47 | [#ManifestfuerFrieden](http://twitter.com/search?q=%23ManifestfuerFrieden) | N/A |
-| 48 | [#Modrow](http://twitter.com/search?q=%23Modrow) | N/A |
-| 49 | [#Twittergewitter](http://twitter.com/search?q=%23Twittergewitter) | N/A |
+| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 5 | [#SCFVfB](http://twitter.com/search?q=%23SCFVfB) | N/A |
+| 6 | [#SVWBVB](http://twitter.com/search?q=%23SVWBVB) | N/A |
+| 7 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 8 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 9 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 10 | [Nemeth](http://twitter.com/search?q=Nemeth) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 13 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 14 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 15 | [Unterzeichner](http://twitter.com/search?q=Unterzeichner) | N/A |
+| 16 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 17 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 18 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 19 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 20 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
+| 21 | [Zagadou](http://twitter.com/search?q=Zagadou) | N/A |
+| 22 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 23 | [Sonneborn](http://twitter.com/search?q=Sonneborn) | N/A |
+| 24 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 25 | [Herr Buschmann](http://twitter.com/search?q=Herr+Buschmann) | N/A |
+| 26 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 27 | [Visa](http://twitter.com/search?q=Visa) | N/A |
+| 28 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 29 | [Marco Rose](http://twitter.com/search?q=Marco+Rose) | N/A |
+| 30 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 32 | [Kontaktschuld](http://twitter.com/search?q=Kontaktschuld) | N/A |
+| 33 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 34 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 35 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 36 | [Gesamtschule](http://twitter.com/search?q=Gesamtschule) | N/A |
+| 37 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
+| 40 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
+| 41 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 42 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 43 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 44 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 45 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 46 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 47 | [Reinhard Mey](http://twitter.com/search?q=Reinhard+Mey) | N/A |
+| 48 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 49 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 50 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
 
 
 
