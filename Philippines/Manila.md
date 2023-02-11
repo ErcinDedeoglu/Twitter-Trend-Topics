@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-11 19:16:04 UTC`
+📆 Last Updated: `2023-02-11 20:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#JoshCullen](http://twitter.com/search?q=%23JoshCullen) | N/A |
+| 2 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
 | 3 | [#DreamMakerTheFinalMission](http://twitter.com/search?q=%23DreamMakerTheFinalMission) | N/A |
-| 4 | [#EasyToLoveROSÉDay](http://twitter.com/search?q=%23EasyToLoveROS%c3%89Day) | N/A |
-| 5 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
-| 6 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
-| 7 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 8 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 9 | [COMEBACK IS REAL](http://twitter.com/search?q=COMEBACK+IS+REAL) | N/A |
-| 10 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
-| 11 | [felipstraydogs d-day release](http://twitter.com/search?q=felipstraydogs+d-day+release) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [STRAYDOGS MUSIC VIDEO RELEASE](http://twitter.com/search?q=STRAYDOGS+MUSIC+VIDEO+RELEASE) | N/A |
-| 14 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
-| 15 | [dindin](http://twitter.com/search?q=dindin) | N/A |
-| 16 | [ALAMAT MUSUGOD SA DAVAO](http://twitter.com/search?q=ALAMAT+MUSUGOD+SA+DAVAO) | N/A |
-| 17 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 18 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 19 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 20 | [THE CHAIR](http://twitter.com/search?q=THE+CHAIR) | N/A |
-| 21 | [newstokoyan vivoree](http://twitter.com/search?q=newstokoyan+vivoree) | N/A |
-| 22 | [THIRBEA THE STANDARD](http://twitter.com/search?q=THIRBEA+THE+STANDARD) | N/A |
-| 23 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
-| 24 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
-| 25 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 26 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 27 | [GAP Pink Wedding](http://twitter.com/search?q=GAP+Pink+Wedding) | N/A |
-| 28 | [CONGRATS DREAMIES](http://twitter.com/search?q=CONGRATS+DREAMIES) | "CONGRATS DREAMIES" is an expression of congratulations or well wishes. It is typically used to congratulate someone on achieving a goal or dream. In English, it means "Congratulations Dreamers!" |
-| 29 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 30 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
-| 31 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 32 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 33 | [YUNG UPUAN](http://twitter.com/search?q=YUNG+UPUAN) | N/A |
-| 34 | [ALL-ROUNDER V1NCI](http://twitter.com/search?q=ALL-ROUNDER+V1NCI) | N/A |
-| 35 | [HAISEAN 2NDANNIVERSARY](http://twitter.com/search?q=HAISEAN+2NDANNIVERSARY) | N/A |
-| 36 | [bgyo on feu ocp2023](http://twitter.com/search?q=bgyo+on+feu+ocp2023) | N/A |
-| 37 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 38 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
-| 39 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
-| 40 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 41 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
-| 42 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 45 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
-| 46 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 47 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
-| 48 | [kaia turn up dance practice](http://twitter.com/search?q=kaia+turn+up+dance+practice) | N/A |
-| 49 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 50 | [Madrigal](http://twitter.com/search?q=Madrigal) | N/A |
+| 4 | [#give_DINO_aHIGH25](http://twitter.com/search?q=%23give_DINO_aHIGH25) | N/A |
+| 5 | [#디노생일에_맞춰_하이파이브](http://twitter.com/search?q=%23%eb%94%94%eb%85%b8%ec%83%9d%ec%9d%bc%ec%97%90_%eb%a7%9e%ec%b6%b0_%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4%eb%b8%8c) | N/A |
+| 6 | [#JoshCullen](http://twitter.com/search?q=%23JoshCullen) | N/A |
+| 7 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
+| 8 | [comeback is real](http://twitter.com/search?q=comeback+is+real) | N/A |
+| 9 | [DEESROOM SEASON2](http://twitter.com/search?q=DEESROOM+SEASON2) | N/A |
+| 10 | [felipstraydogs d-day release](http://twitter.com/search?q=felipstraydogs+d-day+release) | N/A |
+| 11 | [straydogs music video release](http://twitter.com/search?q=straydogs+music+video+release) | N/A |
+| 12 | [happy 2m subs francine](http://twitter.com/search?q=happy+2m+subs+francine) | N/A |
+| 13 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 14 | [dindin](http://twitter.com/search?q=dindin) | N/A |
+| 15 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
+| 16 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 17 | [ALAMAT MUSUGOD SA DAVAO](http://twitter.com/search?q=ALAMAT+MUSUGOD+SA+DAVAO) | N/A |
+| 18 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 19 | [THE CHAIR](http://twitter.com/search?q=THE+CHAIR) | N/A |
+| 20 | [newstokoyan vivoree](http://twitter.com/search?q=newstokoyan+vivoree) | N/A |
+| 21 | [thirbea the standard](http://twitter.com/search?q=thirbea+the+standard) | N/A |
+| 22 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
+| 23 | [darlentina hanggang wakas](http://twitter.com/search?q=darlentina+hanggang+wakas) | N/A |
+| 24 | [zacham chosen barkada](http://twitter.com/search?q=zacham+chosen+barkada) | N/A |
+| 25 | [gap pink wedding](http://twitter.com/search?q=gap+pink+wedding) | N/A |
+| 26 | [congrats dreamies](http://twitter.com/search?q=congrats+dreamies) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 29 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
+| 30 | [all-rounder v1nci](http://twitter.com/search?q=all-rounder+v1nci) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 33 | [bgyo on feu ocp2023](http://twitter.com/search?q=bgyo+on+feu+ocp2023) | N/A |
+| 34 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 35 | [SIX CUPIDS PROM PARTY](http://twitter.com/search?q=SIX+CUPIDS+PROM+PARTY) | N/A |
+| 36 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 37 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Our Lady of Lourdes](http://twitter.com/search?q=Our+Lady+of+Lourdes) | N/A |
+| 40 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 41 | [uri maknae](http://twitter.com/search?q=uri+maknae) | N/A |
+| 42 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 43 | [kaia turn up dance practice](http://twitter.com/search?q=kaia+turn+up+dance+practice) | N/A |
+| 44 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 45 | [Madrigal](http://twitter.com/search?q=Madrigal) | N/A |
+| 46 | [4 YEARS WITH KARINA](http://twitter.com/search?q=4+YEARS+WITH+KARINA) | N/A |
+| 47 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 48 | [raagas](http://twitter.com/search?q=raagas) | N/A |
+| 49 | [GLOBAL ARTIST JIN](http://twitter.com/search?q=GLOBAL+ARTIST+JIN) | N/A |
+| 50 | [Congratulations Jin](http://twitter.com/search?q=Congratulations+Jin) | N/A |
 
 
 

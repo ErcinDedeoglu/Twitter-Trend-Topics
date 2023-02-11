@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-11 19:16:27 UTC`
+📆 Last Updated: `2023-02-11 20:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 2 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 3 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 4 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 5 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 6 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
-| 9 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 10 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 13 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 1 | [Forsberg](http://twitter.com/search?q=Forsberg) | N/A |
+| 2 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 3 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 4 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 5 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 6 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 7 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 8 | [Hamonic](http://twitter.com/search?q=Hamonic) | N/A |
+| 9 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 10 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 11 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 12 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 13 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 14 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
 | 15 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 16 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 17 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
-| 18 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 19 | [Spencer Martin](http://twitter.com/search?q=Spencer+Martin) | N/A |
-| 20 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 21 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 22 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 23 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 24 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 26 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 30 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 32 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 33 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 34 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 35 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
-| 36 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 38 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 39 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 42 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 43 | [Toronto Star](http://twitter.com/search?q=Toronto+Star) | N/A |
-| 44 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 45 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 46 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 47 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
-| 48 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
-| 49 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 50 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 18 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
+| 19 | [Dadonov](http://twitter.com/search?q=Dadonov) | N/A |
+| 20 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 21 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 22 | [Spencer Martin](http://twitter.com/search?q=Spencer+Martin) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 25 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 26 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
+| 27 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 28 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 29 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
+| 30 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 31 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 32 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 33 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 34 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 36 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 37 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 38 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 39 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 40 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 41 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 42 | [Canada Soccer](http://twitter.com/search?q=Canada+Soccer) | N/A |
+| 43 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 44 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 46 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
+| 47 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 48 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
+| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 

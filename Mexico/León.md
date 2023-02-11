@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-11 19:15:41 UTC`
+📆 Last Updated: `2023-02-11 20:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,39 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 8 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 9 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 10 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 11 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 12 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 13 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
-| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 17 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 18 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 20 | [Andrés Guardado](http://twitter.com/search?q=Andr%c3%a9s+Guardado) | N/A |
-| 21 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 24 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 25 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 26 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 27 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 28 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 29 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 30 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 31 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 32 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 33 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 34 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 36 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 37 | [Lamborini](http://twitter.com/search?q=Lamborini) | N/A |
-| 38 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 40 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [rodrigo ares de parga](http://twitter.com/search?q=rodrigo+ares+de+parga) | N/A |
-| 43 | [LUCERO CASTAÑA](http://twitter.com/search?q=LUCERO+CASTA%c3%91A) | N/A |
-| 44 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 45 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Henry y Sam](http://twitter.com/search?q=Henry+y+Sam) | N/A |
-| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 49 | [Pablo González Casanova](http://twitter.com/search?q=Pablo+Gonz%c3%a1lez+Casanova) | N/A |
+| 2 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 3 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 4 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 7 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 8 | [#Balam](http://twitter.com/search?q=%23Balam) | N/A |
+| 9 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 10 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
+| 11 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 12 | [#MundialDeClubes](http://twitter.com/search?q=%23MundialDeClubes) | N/A |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 15 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Andrés Guardado](http://twitter.com/search?q=Andr%c3%a9s+Guardado) | N/A |
+| 18 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 23 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 24 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 26 | [Fidel Castro](http://twitter.com/search?q=Fidel+Castro) | N/A |
+| 27 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 28 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 29 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 30 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 31 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 32 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 33 | [#11DeFebrero](http://twitter.com/search?q=%2311DeFebrero) | N/A |
+| 34 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
 
 
 

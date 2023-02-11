@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-11 19:15:44 UTC`
+📆 Last Updated: `2023-02-11 20:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
 | 2 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
-| 3 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [#undescaroes](http://twitter.com/search?q=%23undescaroes) | N/A |
-| 8 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
+| 3 | [Cabello](http://twitter.com/search?q=Cabello) | N/A |
+| 4 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
+| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 6 | [#undescaroes](http://twitter.com/search?q=%23undescaroes) | N/A |
+| 7 | [#Colombia15F](http://twitter.com/search?q=%23Colombia15F) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 11 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 12 | [#Guacherna2023](http://twitter.com/search?q=%23Guacherna2023) | N/A |
-| 13 | [Santoto](http://twitter.com/search?q=Santoto) | N/A |
-| 14 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 17 | [Radamel](http://twitter.com/search?q=Radamel) | N/A |
-| 18 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 19 | [Director de la SAE](http://twitter.com/search?q=Director+de+la+SAE) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
+| 13 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 14 | [Santoto](http://twitter.com/search?q=Santoto) | N/A |
+| 15 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 16 | [#Guacherna2023](http://twitter.com/search?q=%23Guacherna2023) | N/A |
+| 17 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
+| 18 | [Ricaurte](http://twitter.com/search?q=Ricaurte) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 21 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 23 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 24 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 25 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 24 | [Radamel](http://twitter.com/search?q=Radamel) | N/A |
+| 25 | [Director de la SAE](http://twitter.com/search?q=Director+de+la+SAE) | N/A |
 | 26 | [Marcos López](http://twitter.com/search?q=Marcos+L%c3%b3pez) | N/A |
-| 27 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 30 | [Hospital Militar](http://twitter.com/search?q=Hospital+Militar) | N/A |
-| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [Bruno Díaz](http://twitter.com/search?q=Bruno+D%c3%adaz) | N/A |
-| 34 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 35 | [Nule](http://twitter.com/search?q=Nule) | N/A |
-| 36 | [Ciudad Bolívar](http://twitter.com/search?q=Ciudad+Bol%c3%advar) | N/A |
-| 37 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
-| 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 41 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 42 | [Estado Nazi](http://twitter.com/search?q=Estado+Nazi) | N/A |
-| 43 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 44 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 45 | [Alemania Nazi](http://twitter.com/search?q=Alemania+Nazi) | N/A |
-| 46 | [Triple AAA](http://twitter.com/search?q=Triple+AAA) | N/A |
-| 47 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 29 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 30 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 31 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 32 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 34 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Hospital Militar](http://twitter.com/search?q=Hospital+Militar) | N/A |
+| 37 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
+| 40 | [Bruno Díaz](http://twitter.com/search?q=Bruno+D%c3%adaz) | N/A |
+| 41 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Alemania Nazi](http://twitter.com/search?q=Alemania+Nazi) | N/A |
+| 44 | [Estado Nazi](http://twitter.com/search?q=Estado+Nazi) | N/A |
+| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 46 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 47 | [Nule](http://twitter.com/search?q=Nule) | N/A |
 | 48 | [Abelardo](http://twitter.com/search?q=Abelardo) | N/A |
-| 49 | [Hacienda Nápoles](http://twitter.com/search?q=Hacienda+N%c3%a1poles) | N/A |
-| 50 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 49 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 50 | [Triple AAA](http://twitter.com/search?q=Triple+AAA) | N/A |
 
 
 

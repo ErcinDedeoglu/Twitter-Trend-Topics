@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-02-11 19:15:59 UTC`
+📆 Last Updated: `2023-02-11 20:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 3 | [#SydneyDerby](http://twitter.com/search?q=%23SydneyDerby) | N/A |
+| 2 | [#SydneyDerby](http://twitter.com/search?q=%23SydneyDerby) | N/A |
+| 3 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 6 | [#wswvsyd](http://twitter.com/search?q=%23wswvsyd) | N/A |
-| 7 | [#LEITOT](http://twitter.com/search?q=%23LEITOT) | N/A |
-| 8 | [#pervmcy](http://twitter.com/search?q=%23pervmcy) | N/A |
-| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 18 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 22 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 23 | [gentleman roy](http://twitter.com/search?q=gentleman+roy) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 26 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 27 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 28 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 30 | [cobbo](http://twitter.com/search?q=cobbo) | N/A |
-| 31 | [JACQUINOT](http://twitter.com/search?q=JACQUINOT) | N/A |
-| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 34 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 35 | [Learning to Fly](http://twitter.com/search?q=Learning+to+Fly) | N/A |
-| 36 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 37 | [rudan](http://twitter.com/search?q=rudan) | N/A |
-| 38 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 39 | [lofty strike](http://twitter.com/search?q=lofty+strike) | N/A |
-| 40 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 41 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
-| 42 | [max burgess](http://twitter.com/search?q=max+burgess) | N/A |
-| 43 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
-| 44 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 45 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
-| 46 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 47 | [doomben](http://twitter.com/search?q=doomben) | N/A |
-| 48 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 49 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 50 | [charm stone](http://twitter.com/search?q=charm+stone) | N/A |
+| 5 | [#pervmcy](http://twitter.com/search?q=%23pervmcy) | N/A |
+| 6 | [#WSWvSYD](http://twitter.com/search?q=%23WSWvSYD) | N/A |
+| 7 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
+| 8 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 9 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 10 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 13 | [gentleman roy](http://twitter.com/search?q=gentleman+roy) | N/A |
+| 14 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 15 | [anamoe](http://twitter.com/search?q=anamoe) | N/A |
+| 16 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 17 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 18 | [cobbo](http://twitter.com/search?q=cobbo) | N/A |
+| 19 | [JACQUINOT](http://twitter.com/search?q=JACQUINOT) | N/A |
+| 20 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 21 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 22 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 25 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 26 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [lofty strike](http://twitter.com/search?q=lofty+strike) | N/A |
+| 30 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 31 | [max burgess](http://twitter.com/search?q=max+burgess) | N/A |
+| 32 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 34 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 35 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 36 | [doomben](http://twitter.com/search?q=doomben) | N/A |
+| 37 | [Rudan](http://twitter.com/search?q=Rudan) | N/A |
+| 38 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
+| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 40 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 41 | [charm stone](http://twitter.com/search?q=charm+stone) | N/A |
+| 42 | [macedonia park](http://twitter.com/search?q=macedonia+park) | N/A |
+| 43 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
+| 44 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 45 | [rich fortune](http://twitter.com/search?q=rich+fortune) | N/A |
+| 46 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 47 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 49 | [Pounding](http://twitter.com/search?q=Pounding) | N/A |
+| 50 | [Barber](http://twitter.com/search?q=Barber) | N/A |
 
 
 
