@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-02-11 21:16:26 UTC`
+📆 Last Updated: `2023-02-11 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 3 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 12 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 13 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 14 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 15 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 16 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 17 | [#JerseyJCup](http://twitter.com/search?q=%23JerseyJCup) | N/A |
-| 18 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 19 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 20 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 21 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 22 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 23 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
-| 24 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 25 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 26 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 27 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 28 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 29 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 30 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 31 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 32 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
-| 33 | [Trey Alexander](http://twitter.com/search?q=Trey+Alexander) | N/A |
-| 34 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
-| 35 | [PJ Hall](http://twitter.com/search?q=PJ+Hall) | N/A |
-| 36 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
-| 37 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
-| 38 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 39 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 40 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Kelly Rowland](http://twitter.com/search?q=Kelly+Rowland) | N/A |
-| 43 | [Wedgewood](http://twitter.com/search?q=Wedgewood) | N/A |
-| 44 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 45 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
-| 46 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 47 | [Lambert](http://twitter.com/search?q=Lambert) | N/A |
-| 48 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 49 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 6 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 7 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 12 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
+| 13 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 15 | [#JerseyJCup](http://twitter.com/search?q=%23JerseyJCup) | N/A |
+| 16 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 17 | [#RollTide](http://twitter.com/search?q=%23RollTide) | N/A |
+| 18 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 21 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
+| 22 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
+| 23 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 24 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
+| 25 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
+| 26 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 27 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 28 | [Rylan Griffen](http://twitter.com/search?q=Rylan+Griffen) | N/A |
+| 29 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
+| 30 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 31 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 32 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 33 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 35 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 36 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
+| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 38 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 39 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
+| 40 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 41 | [Chafin](http://twitter.com/search?q=Chafin) | N/A |
+| 42 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 43 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 44 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 45 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
+| 46 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 47 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 48 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
+| 49 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
 
 
 

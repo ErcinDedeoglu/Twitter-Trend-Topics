@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-11 21:16:09 UTC`
+📆 Last Updated: `2023-02-11 22:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [#TEMPESTatHMA2022](http://twitter.com/search?q=%23TEMPESTatHMA2022) | N/A |
 | 3 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
 | 4 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 5 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
-| 6 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
-| 7 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
+| 5 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 6 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
+| 7 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 9 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
 | 10 | [NGÓN TAY ÚT CỦA JIMIN SSI](http://twitter.com/search?q=NG%c3%93N+TAY+%c3%9aT+C%e1%bb%a6A+JIMIN+SSI) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 24 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
 | 25 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
 | 26 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
-| 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 27 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
 | 28 | [Bang](http://twitter.com/search?q=Bang) | N/A |
 | 29 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
 | 30 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 40 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
 | 41 | [2020 Recap](http://twitter.com/search?q=2020+Recap) | N/A |
 | 42 | [The Year of DeFi](http://twitter.com/search?q=The+Year+of+DeFi) | N/A |
-| 43 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 44 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 45 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
-| 46 | [Chess](http://twitter.com/search?q=Chess) | N/A |
-| 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 50 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 43 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 44 | [DeFi Summer](http://twitter.com/search?q=DeFi+Summer) | N/A |
+| 45 | [Chess](http://twitter.com/search?q=Chess) | N/A |
+| 46 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 49 | [Top 1](http://twitter.com/search?q=Top+1) | N/A |
+| 50 | [#템페스트](http://twitter.com/search?q=%23%ed%85%9c%ed%8e%98%ec%8a%a4%ed%8a%b8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-11 21:16:26 UTC`
+📆 Last Updated: `2023-02-11 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 2 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 3 | [Dobson](http://twitter.com/search?q=Dobson) | N/A |
-| 4 | [Lane](http://twitter.com/search?q=Lane) | N/A |
-| 5 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 6 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 7 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 8 | [Quinn](http://twitter.com/search?q=Quinn) | N/A |
-| 9 | [Barzal](http://twitter.com/search?q=Barzal) | N/A |
-| 10 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [#NYFW](http://twitter.com/search?q=%23NYFW) | N/A |
-| 13 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 17 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 18 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 21 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 22 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 24 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 25 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 26 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 27 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 28 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 29 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
-| 30 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 31 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 32 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 33 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 34 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 35 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 36 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 37 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 38 | [Trey Alexander](http://twitter.com/search?q=Trey+Alexander) | N/A |
-| 39 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
-| 40 | [Cirelli](http://twitter.com/search?q=Cirelli) | N/A |
-| 41 | [PJ Hall](http://twitter.com/search?q=PJ+Hall) | N/A |
-| 42 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 43 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
-| 44 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 45 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
-| 46 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [Wedgewood](http://twitter.com/search?q=Wedgewood) | N/A |
-| 49 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 50 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
+| 1 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 2 | [#SJUBB](http://twitter.com/search?q=%23SJUBB) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 5 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 6 | [Dobson](http://twitter.com/search?q=Dobson) | N/A |
+| 7 | [Lane](http://twitter.com/search?q=Lane) | N/A |
+| 8 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
+| 9 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 10 | [Barzal](http://twitter.com/search?q=Barzal) | N/A |
+| 11 | [Quinn](http://twitter.com/search?q=Quinn) | N/A |
+| 12 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 15 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 16 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 19 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
+| 20 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 21 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 22 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 24 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 25 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
+| 26 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
+| 27 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 28 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
+| 29 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
+| 30 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 31 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 32 | [Rylan Griffen](http://twitter.com/search?q=Rylan+Griffen) | N/A |
+| 33 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
+| 34 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 35 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 36 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 37 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 38 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 39 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 40 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
+| 41 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 42 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 43 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
+| 44 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 45 | [Chafin](http://twitter.com/search?q=Chafin) | N/A |
+| 46 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 47 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 48 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 49 | [Trotz](http://twitter.com/search?q=Trotz) | N/A |
+| 50 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
 
 
 
