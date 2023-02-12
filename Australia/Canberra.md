@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-12 05:16:35 UTC`
+📆 Last Updated: `2023-02-12 06:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 3 | [#NEWvMVC](http://twitter.com/search?q=%23NEWvMVC) | N/A |
-| 4 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 5 | [Jack Della Maddalena](http://twitter.com/search?q=Jack+Della+Maddalena) | N/A |
-| 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 7 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 8 | [Jimmy Crute](http://twitter.com/search?q=Jimmy+Crute) | N/A |
+| 2 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 4 | [#NEWvMVC](http://twitter.com/search?q=%23NEWvMVC) | N/A |
+| 5 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 6 | [Jack Della Maddalena](http://twitter.com/search?q=Jack+Della+Maddalena) | N/A |
+| 7 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 8 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 9 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 10 | [The Inevitable](http://twitter.com/search?q=The+Inevitable) | N/A |
-| 11 | [Justin Tafa](http://twitter.com/search?q=Justin+Tafa) | N/A |
-| 12 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 14 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 15 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 10 | [Justin Tafa](http://twitter.com/search?q=Justin+Tafa) | N/A |
+| 11 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 12 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 13 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 14 | [The Inevitable](http://twitter.com/search?q=The+Inevitable) | N/A |
+| 15 | [Jacob Preston](http://twitter.com/search?q=Jacob+Preston) | N/A |
 | 16 | [Randy Brown](http://twitter.com/search?q=Randy+Brown) | N/A |
 | 17 | [Langer](http://twitter.com/search?q=Langer) | N/A |
 | 18 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 19 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 20 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 23 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
-| 24 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 27 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 28 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 29 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 19 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 20 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 21 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 25 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 27 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 29 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
 | 30 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 31 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
 | 32 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 33 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 34 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 35 | [doomben](http://twitter.com/search?q=doomben) | N/A |
-| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 37 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 38 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
-| 39 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 40 | [Tuncurry](http://twitter.com/search?q=Tuncurry) | N/A |
-| 41 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 43 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 44 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 45 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 46 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 48 | [Cairns](http://twitter.com/search?q=Cairns) | N/A |
+| 33 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 34 | [Tuncurry](http://twitter.com/search?q=Tuncurry) | N/A |
+| 35 | [Hobart Cup](http://twitter.com/search?q=Hobart+Cup) | N/A |
+| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 37 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 38 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 39 | [doomben](http://twitter.com/search?q=doomben) | N/A |
+| 40 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 41 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 42 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 43 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
+| 44 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 45 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
+| 46 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 47 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 48 | [Carey](http://twitter.com/search?q=Carey) | N/A |
 
 
 

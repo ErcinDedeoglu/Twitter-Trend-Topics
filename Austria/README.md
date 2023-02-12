@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-12 05:17:03 UTC`
+📆 Last Updated: `2023-02-12 06:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Austria
 | 18 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
 | 19 | [herr thür](http://twitter.com/search?q=herr+th%c3%bcr) | N/A |
 | 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 21 | [Tomaten](http://twitter.com/search?q=Tomaten) | N/A |
-| 22 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
+| 21 | [tomaten](http://twitter.com/search?q=tomaten) | N/A |
+| 22 | [nehammer](http://twitter.com/search?q=nehammer) | N/A |
 | 23 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
 | 24 | [Wohnzimmer](http://twitter.com/search?q=Wohnzimmer) | N/A |
-| 25 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 26 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 27 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 28 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
-| 29 | [message control](http://twitter.com/search?q=message+control) | N/A |
-| 30 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
-| 31 | [beileid](http://twitter.com/search?q=beileid) | N/A |
-| 32 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 33 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [pazifismus](http://twitter.com/search?q=pazifismus) | N/A |
-| 36 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 37 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 38 | [Nachbarin](http://twitter.com/search?q=Nachbarin) | N/A |
-| 39 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 40 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 41 | [ghostwriter](http://twitter.com/search?q=ghostwriter) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
-| 44 | [ansprüche](http://twitter.com/search?q=anspr%c3%bcche) | N/A |
-| 45 | [mittagessen](http://twitter.com/search?q=mittagessen) | N/A |
-| 46 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 47 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 48 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 50 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
+| 25 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 26 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 27 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 28 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 29 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
+| 30 | [Seepocken](http://twitter.com/search?q=Seepocken) | N/A |
+| 31 | [message control](http://twitter.com/search?q=message+control) | N/A |
+| 32 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
+| 33 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 34 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 35 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Pazifismus](http://twitter.com/search?q=Pazifismus) | N/A |
+| 38 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 39 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 40 | [Nachbarin](http://twitter.com/search?q=Nachbarin) | N/A |
+| 41 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 42 | [rettung](http://twitter.com/search?q=rettung) | N/A |
+| 43 | [ghostwriter](http://twitter.com/search?q=ghostwriter) | N/A |
+| 44 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 45 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
+| 46 | [ansprüche](http://twitter.com/search?q=anspr%c3%bcche) | N/A |
+| 47 | [mittagessen](http://twitter.com/search?q=mittagessen) | N/A |
+| 48 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 49 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
+| 50 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 

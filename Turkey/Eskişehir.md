@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-12 05:16:53 UTC`
+📆 Last Updated: `2023-02-12 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 5 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 6 | [Deniz Baykal](http://twitter.com/search?q=Deniz+Baykal) | N/A |
 | 7 | [#kahramamaras](http://twitter.com/search?q=%23kahramamaras) | N/A |
-| 8 | [#DonateToTurkey](http://twitter.com/search?q=%23DonateToTurkey) | N/A |
+| 8 | [#yapmayın](http://twitter.com/search?q=%23yapmay%c4%b1n) | N/A |
 | 9 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 10 | [Suriyeli](http://twitter.com/search?q=Suriyeli) | N/A |
 | 11 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
 | 12 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 13 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 14 | [yetmişyaşındaki dede](http://twitter.com/search?q=yetmi%c5%9fya%c5%9f%c4%b1ndaki+dede) | N/A |
-| 15 | [destekver elonmuskuyuma](http://twitter.com/search?q=destekver+elonmuskuyuma) | N/A |
-| 16 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 17 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 18 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 19 | [imar](http://twitter.com/search?q=imar) | N/A |
-| 20 | [Ellerine](http://twitter.com/search?q=Ellerine) | N/A |
-| 21 | [TahaDuymazdan HaberBekliyoruz](http://twitter.com/search?q=TahaDuymazdan+HaberBekliyoruz) | N/A |
+| 13 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
+| 14 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
+| 15 | [yetmişyaşındaki dede](http://twitter.com/search?q=yetmi%c5%9fya%c5%9f%c4%b1ndaki+dede) | N/A |
+| 16 | [destekver elonmuskuyuma](http://twitter.com/search?q=destekver+elonmuskuyuma) | N/A |
+| 17 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 18 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 19 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 20 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 21 | [Ellerine](http://twitter.com/search?q=Ellerine) | N/A |
 | 22 | [Erzin](http://twitter.com/search?q=Erzin) | N/A |
 | 23 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
 | 24 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 25 | [sana güveniyoruz](http://twitter.com/search?q=sana+g%c3%bcveniyoruz) | N/A |
-| 26 | [ökkeş elmasoğlu](http://twitter.com/search?q=%c3%b6kke%c5%9f+elmaso%c4%9flu) | N/A |
-| 27 | [Şengül](http://twitter.com/search?q=%c5%9eeng%c3%bcl) | N/A |
-| 28 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 25 | [TahaDuymazdan HaberBekliyoruz](http://twitter.com/search?q=TahaDuymazdan+HaberBekliyoruz) | N/A |
+| 26 | [sana güveniyoruz](http://twitter.com/search?q=sana+g%c3%bcveniyoruz) | N/A |
+| 27 | [Kurban](http://twitter.com/search?q=Kurban) | N/A |
+| 28 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
 | 29 | [Ohal](http://twitter.com/search?q=Ohal) | N/A |
-| 30 | [PişikKremi BebekBezi](http://twitter.com/search?q=Pi%c5%9fikKremi+BebekBezi) | N/A |
-| 31 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 32 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 33 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 34 | [MobilTuvalet HijyenÜrünleri](http://twitter.com/search?q=MobilTuvalet+Hijyen%c3%9cr%c3%bcnleri) | N/A |
-| 35 | [Helal](http://twitter.com/search?q=Helal) | N/A |
-| 36 | [HEDİL](http://twitter.com/search?q=HED%c4%b0L) | N/A |
+| 30 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
+| 31 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 32 | [PişikKremi BebekBezi](http://twitter.com/search?q=Pi%c5%9fikKremi+BebekBezi) | N/A |
+| 33 | [MobilTuvalet HijyenÜrünleri](http://twitter.com/search?q=MobilTuvalet+Hijyen%c3%9cr%c3%bcnleri) | N/A |
+| 34 | [Ökkeş Elmasoğlu](http://twitter.com/search?q=%c3%96kke%c5%9f+Elmaso%c4%9flu) | N/A |
+| 35 | [HEDİL](http://twitter.com/search?q=HED%c4%b0L) | N/A |
+| 36 | [Helal](http://twitter.com/search?q=Helal) | N/A |
 | 37 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 38 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 38 | [Şengül](http://twitter.com/search?q=%c5%9eeng%c3%bcl) | N/A |
 | 39 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 40 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 41 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
-| 42 | [necati](http://twitter.com/search?q=necati) | N/A |
-| 43 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 40 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 41 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 42 | [Necati](http://twitter.com/search?q=Necati) | N/A |
+| 43 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
 | 44 | [Elinize](http://twitter.com/search?q=Elinize) | N/A |
 | 45 | [Gizli Kahramanlar](http://twitter.com/search?q=Gizli+Kahramanlar) | N/A |
 | 46 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 47 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
-| 48 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
-| 49 | [Eline](http://twitter.com/search?q=Eline) | N/A |
-| 50 | [Parfüm](http://twitter.com/search?q=Parf%c3%bcm) | N/A |
+| 47 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 48 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
+| 49 | [Parfüm](http://twitter.com/search?q=Parf%c3%bcm) | N/A |
+| 50 | [Eline](http://twitter.com/search?q=Eline) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-12 05:17:07 UTC`
+📆 Last Updated: `2023-02-12 06:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
-| 2 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 3 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
-| 4 | [#thetribute](http://twitter.com/search?q=%23thetribute) | N/A |
-| 5 | [#neccam](http://twitter.com/search?q=%23neccam) | N/A |
-| 6 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 7 | [jurre](http://twitter.com/search?q=jurre) | N/A |
-| 8 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 9 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 11 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 12 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 13 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 14 | [radboud](http://twitter.com/search?q=radboud) | N/A |
-| 15 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 16 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
-| 20 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 21 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 22 | [youp](http://twitter.com/search?q=youp) | N/A |
-| 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 24 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 25 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Metz](http://twitter.com/search?q=Metz) | N/A |
-| 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 29 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 30 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
-| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 33 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
-| 34 | [goedemorgen daisy](http://twitter.com/search?q=goedemorgen+daisy) | N/A |
-| 35 | [suslov](http://twitter.com/search?q=suslov) | N/A |
-| 36 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 37 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 38 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
-| 39 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 2 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
+| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 4 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
+| 5 | [#thetribute](http://twitter.com/search?q=%23thetribute) | N/A |
+| 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 7 | [#emmfor](http://twitter.com/search?q=%23emmfor) | N/A |
+| 8 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 9 | [jurre](http://twitter.com/search?q=jurre) | N/A |
+| 10 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 13 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 14 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 15 | [Goedemorgen Harald](http://twitter.com/search?q=Goedemorgen+Harald) | N/A |
+| 16 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 17 | [radboud](http://twitter.com/search?q=radboud) | N/A |
+| 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 19 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
+| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
+| 23 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
+| 24 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 25 | [youp](http://twitter.com/search?q=youp) | N/A |
+| 26 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 27 | [yunho](http://twitter.com/search?q=yunho) | N/A |
+| 28 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Metz](http://twitter.com/search?q=Metz) | N/A |
+| 31 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 32 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
+| 33 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 34 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 35 | [knvb beker](http://twitter.com/search?q=knvb+beker) | N/A |
+| 36 | [suslov](http://twitter.com/search?q=suslov) | N/A |
+| 37 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 38 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 39 | [hoek](http://twitter.com/search?q=hoek) | N/A |
 | 40 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
 | 41 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
 | 42 | [Russische](http://twitter.com/search?q=Russische) | N/A |
 | 43 | [daniël](http://twitter.com/search?q=dani%c3%abl) | N/A |
 | 44 | [sven hulleman](http://twitter.com/search?q=sven+hulleman) | N/A |
-| 45 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
+| 45 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
 | 46 | [Foor](http://twitter.com/search?q=Foor) | N/A |
 | 47 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
 | 48 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |

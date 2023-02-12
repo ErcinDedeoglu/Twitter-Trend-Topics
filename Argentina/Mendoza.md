@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-12 05:16:21 UTC`
+📆 Last Updated: `2023-02-12 06:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Argentina](</Argentina>)
 | 4 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 5 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
 | 6 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 7 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 8 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 9 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 10 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 11 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 12 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 13 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 14 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
-| 15 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 16 | [#antisvsgaylors](http://twitter.com/search?q=%23antisvsgaylors) | N/A |
-| 17 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 18 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 8 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
+| 9 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 10 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 11 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 12 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 13 | [#antisvsgaylors](http://twitter.com/search?q=%23antisvsgaylors) | N/A |
+| 14 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 15 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 16 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 17 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 18 | [Volkanovski](http://twitter.com/search?q=Volkanovski) | N/A |
 | 19 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 20 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 21 | [#Felices23Maria](http://twitter.com/search?q=%23Felices23Maria) | N/A |
-| 22 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 23 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 24 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 25 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 26 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 27 | [#TodoForEver](http://twitter.com/search?q=%23TodoForEver) | N/A |
-| 28 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 29 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 30 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
-| 31 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 32 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 20 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 21 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 22 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 23 | [#Felices23Maria](http://twitter.com/search?q=%23Felices23Maria) | N/A |
+| 24 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 25 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 26 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
+| 27 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 28 | [#TodoForEver](http://twitter.com/search?q=%23TodoForEver) | N/A |
+| 29 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 30 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 31 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 32 | [Herron](http://twitter.com/search?q=Herron) | N/A |
 | 33 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 34 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 35 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 36 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 37 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
-| 38 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 39 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
-| 40 | [Lo de Boca](http://twitter.com/search?q=Lo+de+Boca) | N/A |
-| 41 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 42 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 43 | [El DT](http://twitter.com/search?q=El+DT) | N/A |
-| 44 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 45 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 46 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 47 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
-| 48 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 34 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
+| 35 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 36 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 37 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 38 | [Garro](http://twitter.com/search?q=Garro) | N/A |
+| 39 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 40 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 41 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 42 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 43 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 44 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
+| 45 | [El DT](http://twitter.com/search?q=El+DT) | N/A |
+| 46 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
+| 47 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 48 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
 | 49 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
-| 50 | [Varsky](http://twitter.com/search?q=Varsky) | N/A |
+| 50 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
 
 
 

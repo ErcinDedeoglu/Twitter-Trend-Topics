@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-12 05:16:56 UTC`
+📆 Last Updated: `2023-02-12 06:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 2 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 1 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 3 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
 | 4 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 5 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 8 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 11 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 12 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 13 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 14 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 15 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
-| 16 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 18 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 21 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 22 | [Crute](http://twitter.com/search?q=Crute) | N/A |
-| 23 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 24 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
-| 25 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 26 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
-| 27 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 29 | [Justin Tafa](http://twitter.com/search?q=Justin+Tafa) | N/A |
-| 30 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 31 | [Menifield](http://twitter.com/search?q=Menifield) | N/A |
-| 32 | [Randy Brown](http://twitter.com/search?q=Randy+Brown) | N/A |
-| 33 | [Jens Pulver](http://twitter.com/search?q=Jens+Pulver) | N/A |
-| 34 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 35 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 36 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 37 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 38 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 39 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 40 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 41 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 42 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
-| 43 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 44 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 45 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 46 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 47 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 48 | [Parker Porter](http://twitter.com/search?q=Parker+Porter) | N/A |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 8 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 9 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 11 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 12 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 13 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 14 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 15 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 16 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 17 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 18 | [#VargasFoster](http://twitter.com/search?q=%23VargasFoster) | N/A |
+| 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 20 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
+| 21 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
+| 22 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 23 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 25 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 28 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 29 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 30 | [El Pantera](http://twitter.com/search?q=El+Pantera) | N/A |
+| 31 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 32 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 33 | [Crute](http://twitter.com/search?q=Crute) | N/A |
+| 34 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 35 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 36 | [Menifield](http://twitter.com/search?q=Menifield) | N/A |
+| 37 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 38 | [Jack Della](http://twitter.com/search?q=Jack+Della) | N/A |
+| 39 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 40 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
+| 41 | [Derek Cleary](http://twitter.com/search?q=Derek+Cleary) | N/A |
+| 42 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 43 | [The UFC](http://twitter.com/search?q=The+UFC) | N/A |
+| 44 | [Randy Brown](http://twitter.com/search?q=Randy+Brown) | N/A |
+| 45 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 46 | [1 PFP](http://twitter.com/search?q=1+PFP) | N/A |
+| 47 | [Jens Pulver](http://twitter.com/search?q=Jens+Pulver) | N/A |
+| 48 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 49 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 50 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
 
 
 

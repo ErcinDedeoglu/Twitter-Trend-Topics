@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-12 05:17:07 UTC`
+📆 Last Updated: `2023-02-12 06:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Oman
 | 10 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 11 | [علم الاجتماع](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9) | N/A |
 | 12 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 13 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 14 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 13 | [السعاده الدايمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d9%85%d9%87) | N/A |
+| 14 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
 | 15 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 16 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 17 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
@@ -36,14 +36,14 @@ This is top 50 for Oman
 | 19 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
 | 20 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
 | 21 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
-| 22 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
-| 23 | [الثقه الساميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 24 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 25 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 22 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 23 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
+| 24 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 25 | [الثقه الساميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 26 | [الحركه المروريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 27 | [السعاده الدايمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%af%d8%a7%d9%8a%d9%85%d9%87) | N/A |
-| 28 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
-| 29 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 27 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
+| 28 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 29 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
 | 30 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
 | 31 | [11 فبراير 2023](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
 | 32 | [20 فبراير](http://twitter.com/search?q=20+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Oman
 | 40 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
 | 41 | [علي نعمه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87) | N/A |
 | 42 | [اللهم الجنه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 43 | [الكلمه الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 44 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 45 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 46 | [ابو اليزن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%8a%d8%b2%d9%86) | N/A |
-| 47 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 48 | [الدراجات الهواييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 49 | [النمر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 50 | [ليل نهار](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 43 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 44 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 45 | [ابو اليزن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%8a%d8%b2%d9%86) | N/A |
+| 46 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 47 | [الدراجات الهواييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 48 | [النمر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 49 | [ليل نهار](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 50 | [صديقي العزيز](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-12 05:17:07 UTC`
+📆 Last Updated: `2023-02-12 06:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 2 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
 | 3 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 4 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
-| 5 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 4 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 5 | [Volkanovski](http://twitter.com/search?q=Volkanovski) | N/A |
 | 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 7 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 8 | [Pantera](http://twitter.com/search?q=Pantera) | N/A |
-| 9 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
-| 10 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 11 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 12 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 13 | [Tepa](http://twitter.com/search?q=Tepa) | N/A |
-| 14 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 15 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 16 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
-| 17 | [Roberto de la Rosa](http://twitter.com/search?q=Roberto+de+la+Rosa) | N/A |
-| 18 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 19 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 20 | [Sexbastian](http://twitter.com/search?q=Sexbastian) | N/A |
-| 21 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 22 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 23 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 24 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 25 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 26 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 27 | [Golazo](http://twitter.com/search?q=Golazo) | N/A |
-| 28 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 29 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 30 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 7 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 8 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 10 | [Tepa](http://twitter.com/search?q=Tepa) | N/A |
+| 11 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
+| 12 | [Pantera](http://twitter.com/search?q=Pantera) | N/A |
+| 13 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 14 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 15 | [Yair](http://twitter.com/search?q=Yair) | N/A |
+| 16 | [CUATRO Y TRES OUT NOW](http://twitter.com/search?q=CUATRO+Y+TRES+OUT+NOW) | N/A |
+| 17 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 18 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 19 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 20 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 21 | [Roberto de la Rosa](http://twitter.com/search?q=Roberto+de+la+Rosa) | N/A |
+| 22 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 23 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 24 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 25 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 26 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 27 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 28 | [Golazo](http://twitter.com/search?q=Golazo) | N/A |
+| 29 | [Sexbastian](http://twitter.com/search?q=Sexbastian) | N/A |
+| 30 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
 | 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 32 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 33 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 35 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 36 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 37 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
-| 38 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 39 | [Marco García](http://twitter.com/search?q=Marco+Garc%c3%ada) | N/A |
-| 40 | [Bennevendo](http://twitter.com/search?q=Bennevendo) | N/A |
-| 41 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 42 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 43 | [Ser de Luz](http://twitter.com/search?q=Ser+de+Luz) | N/A |
-| 44 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 45 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 46 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
-| 47 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 48 | [Estadio Hidalgo](http://twitter.com/search?q=Estadio+Hidalgo) | N/A |
-| 49 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 50 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 32 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 33 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 34 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 35 | [#antisvsgaylors](http://twitter.com/search?q=%23antisvsgaylors) | N/A |
+| 36 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 37 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 38 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 39 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 40 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 41 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 42 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 44 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 45 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 46 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 47 | [Estadio Hidalgo](http://twitter.com/search?q=Estadio+Hidalgo) | N/A |
+| 48 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 49 | [Ser de Luz](http://twitter.com/search?q=Ser+de+Luz) | N/A |
+| 50 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
 
 
 
