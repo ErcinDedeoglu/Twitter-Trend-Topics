@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-02-12 15:16:33 UTC`
+📆 Last Updated: `2023-02-12 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 2 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 4 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 6 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 7 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
-| 8 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 9 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 12 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 15 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 16 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 17 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 18 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 19 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
-| 20 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 21 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 22 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 23 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
-| 24 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
-| 25 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
-| 26 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 27 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 28 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 29 | [Toone](http://twitter.com/search?q=Toone) | N/A |
-| 30 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 31 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 32 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 33 | [Casemiro and Eriksen](http://twitter.com/search?q=Casemiro+and+Eriksen) | N/A |
-| 34 | [Dirty Leeds](http://twitter.com/search?q=Dirty+Leeds) | N/A |
-| 35 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
-| 36 | [Arsenal and Brighton](http://twitter.com/search?q=Arsenal+and+Brighton) | N/A |
-| 37 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 38 | [American Mike](http://twitter.com/search?q=American+Mike) | N/A |
-| 39 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
-| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 42 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 43 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 44 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 45 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 46 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 47 | [RIP James](http://twitter.com/search?q=RIP+James) | N/A |
-| 48 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 49 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 50 | [Ellwood](http://twitter.com/search?q=Ellwood) | N/A |
+| 2 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 3 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
+| 4 | [Arsenal and Brighton](http://twitter.com/search?q=Arsenal+and+Brighton) | N/A |
+| 5 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 6 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
+| 7 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 8 | [#GiveawayAt60K](http://twitter.com/search?q=%23GiveawayAt60K) | N/A |
+| 9 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 10 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
+| 11 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 12 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 13 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 14 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 15 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 16 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 17 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 21 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 24 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 26 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 27 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
+| 28 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 31 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 32 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 33 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 34 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 35 | [Fred MOTM](http://twitter.com/search?q=Fred+MOTM) | N/A |
+| 36 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 37 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 38 | [Chambers](http://twitter.com/search?q=Chambers) | N/A |
+| 39 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
+| 40 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
+| 41 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 42 | [Jack Willis](http://twitter.com/search?q=Jack+Willis) | N/A |
+| 43 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 44 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 45 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 48 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 49 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 50 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-12 15:16:49 UTC`
+📆 Last Updated: `2023-02-12 16:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
-| 2 | [#vitutr](http://twitter.com/search?q=%23vitutr) | N/A |
-| 3 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
+| 2 | [#ajarkc](http://twitter.com/search?q=%23ajarkc) | N/A |
+| 3 | [#vitutr](http://twitter.com/search?q=%23vitutr) | N/A |
 | 4 | [#spagae](http://twitter.com/search?q=%23spagae) | N/A |
 | 5 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
 | 6 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 7 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 8 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 9 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 12 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 13 | [Amofa](http://twitter.com/search?q=Amofa) | N/A |
-| 14 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 15 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 16 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 17 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 18 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
-| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 20 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 21 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
-| 22 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 23 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 24 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 25 | [bakayoko](http://twitter.com/search?q=bakayoko) | N/A |
-| 26 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 27 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 28 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
-| 29 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 30 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 7 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 8 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 9 | [Taabouni](http://twitter.com/search?q=Taabouni) | N/A |
+| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 11 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 12 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 14 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 15 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
+| 16 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 17 | [Manhoef](http://twitter.com/search?q=Manhoef) | N/A |
+| 18 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 19 | [Alfred Schreuder](http://twitter.com/search?q=Alfred+Schreuder) | N/A |
+| 20 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 21 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 22 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 23 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 24 | [Amofa](http://twitter.com/search?q=Amofa) | N/A |
+| 25 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 26 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 27 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 28 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 29 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 30 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
 | 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 32 | [Dictatuur](http://twitter.com/search?q=Dictatuur) | N/A |
-| 33 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
-| 34 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
-| 35 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 36 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
-| 37 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 38 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 39 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
-| 40 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 44 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 45 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
-| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 47 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 48 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 49 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 32 | [FC Volendam](http://twitter.com/search?q=FC+Volendam) | N/A |
+| 33 | [bakayoko](http://twitter.com/search?q=bakayoko) | N/A |
+| 34 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
+| 35 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 36 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 37 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
+| 38 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
+| 39 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 40 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 41 | [Brood](http://twitter.com/search?q=Brood) | N/A |
+| 42 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 43 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
+| 44 | [Robert Jensen](http://twitter.com/search?q=Robert+Jensen) | N/A |
+| 45 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 46 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
+| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 48 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
+| 49 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
 
 
 

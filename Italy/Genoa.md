@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-12 15:16:47 UTC`
+📆 Last Updated: `2023-02-12 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 3 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 4 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 5 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 6 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 7 | [lazza](http://twitter.com/search?q=lazza) | N/A |
-| 8 | [#12febbraio](http://twitter.com/search?q=%2312febbraio) | N/A |
-| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 10 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
-| 11 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 12 | [Garrison](http://twitter.com/search?q=Garrison) | N/A |
-| 13 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 14 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 15 | [Luisa Ranieri](http://twitter.com/search?q=Luisa+Ranieri) | N/A |
-| 16 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 17 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 18 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 19 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 20 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 21 | [Illy](http://twitter.com/search?q=Illy) | N/A |
-| 22 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 23 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 24 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 25 | [Davide Maggio](http://twitter.com/search?q=Davide+Maggio) | N/A |
-| 26 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 27 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 28 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 29 | [ACHILLE LAURO](http://twitter.com/search?q=ACHILLE+LAURO) | N/A |
-| 30 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
-| 31 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 32 | [Aureliano](http://twitter.com/search?q=Aureliano) | N/A |
-| 33 | [Kekko](http://twitter.com/search?q=Kekko) | N/A |
-| 34 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 35 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 36 | [Draco](http://twitter.com/search?q=Draco) | N/A |
-| 37 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 38 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 39 | [Dave Gahan](http://twitter.com/search?q=Dave+Gahan) | N/A |
-| 40 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
-| 41 | [Little Tony](http://twitter.com/search?q=Little+Tony) | N/A |
-| 42 | [personal jesus](http://twitter.com/search?q=personal+jesus) | N/A |
-| 43 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 44 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 45 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 46 | [Colapesce](http://twitter.com/search?q=Colapesce) | N/A |
-| 47 | [Francini](http://twitter.com/search?q=Francini) | N/A |
-| 48 | [Lavazza](http://twitter.com/search?q=Lavazza) | N/A |
-| 49 | [Cozzolino](http://twitter.com/search?q=Cozzolino) | N/A |
-| 50 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
+| 1 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 2 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 3 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 4 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 5 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 6 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 7 | [#amici23](http://twitter.com/search?q=%23amici23) | N/A |
+| 8 | [#BolognaMonza](http://twitter.com/search?q=%23BolognaMonza) | N/A |
+| 9 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
+| 10 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 11 | [Illy](http://twitter.com/search?q=Illy) | N/A |
+| 12 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
+| 13 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 14 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 15 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 16 | [Kekko](http://twitter.com/search?q=Kekko) | N/A |
+| 17 | [La Rai](http://twitter.com/search?q=La+Rai) | N/A |
+| 18 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 19 | [Fedez e Rosa Chemical](http://twitter.com/search?q=Fedez+e+Rosa+Chemical) | N/A |
+| 20 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 21 | [Coletta](http://twitter.com/search?q=Coletta) | N/A |
+| 22 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
+| 23 | [#JuveFiorentina](http://twitter.com/search?q=%23JuveFiorentina) | N/A |
+| 24 | [#JuventusFiorentina](http://twitter.com/search?q=%23JuventusFiorentina) | N/A |
+| 25 | [#Cressy](http://twitter.com/search?q=%23Cressy) | N/A |
+| 26 | [#UdineseSassuolo](http://twitter.com/search?q=%23UdineseSassuolo) | N/A |
+| 27 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 28 | [#12febbraio](http://twitter.com/search?q=%2312febbraio) | N/A |
+| 29 | [#AtpMontpellier](http://twitter.com/search?q=%23AtpMontpellier) | N/A |
+| 30 | [#fuorioriana](http://twitter.com/search?q=%23fuorioriana) | N/A |
+| 31 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 32 | [#elezioniregionali2023](http://twitter.com/search?q=%23elezioniregionali2023) | N/A |
+| 33 | [#schifo](http://twitter.com/search?q=%23schifo) | N/A |
+| 34 | [#LuisaRanieri](http://twitter.com/search?q=%23LuisaRanieri) | N/A |
+| 35 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 36 | [#LaForzaDellAmore](http://twitter.com/search?q=%23LaForzaDellAmore) | N/A |
+| 37 | [#Lombardia](http://twitter.com/search?q=%23Lombardia) | N/A |
+| 38 | [#MengoniSanremo23](http://twitter.com/search?q=%23MengoniSanremo23) | N/A |
+| 39 | [#Atalanta](http://twitter.com/search?q=%23Atalanta) | N/A |
+| 40 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
 
 
 

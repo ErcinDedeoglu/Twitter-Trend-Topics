@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-12 15:16:39 UTC`
+📆 Last Updated: `2023-02-12 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [#ColombiaALaCalle15F](http://twitter.com/search?q=%23ColombiaALaCalle15F) | N/A |
 | 2 | [#14FPorElCambio](http://twitter.com/search?q=%2314FPorElCambio) | N/A |
 | 3 | [#PorLaPatria15F](http://twitter.com/search?q=%23PorLaPatria15F) | N/A |
-| 4 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 5 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 6 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
-| 7 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
-| 8 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
-| 9 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 10 | [Eduardo Pizarro](http://twitter.com/search?q=Eduardo+Pizarro) | N/A |
-| 11 | [Santoto](http://twitter.com/search?q=Santoto) | N/A |
-| 12 | [Derechos del Niño](http://twitter.com/search?q=Derechos+del+Ni%c3%b1o) | N/A |
-| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 14 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 15 | [Corredor](http://twitter.com/search?q=Corredor) | N/A |
-| 16 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 17 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
-| 18 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [gazir](http://twitter.com/search?q=gazir) | N/A |
-| 21 | [Pinturita](http://twitter.com/search?q=Pinturita) | N/A |
+| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 7 | [Samuel Moreno](http://twitter.com/search?q=Samuel+Moreno) | N/A |
+| 8 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 10 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
+| 11 | [Margarita Cabello](http://twitter.com/search?q=Margarita+Cabello) | N/A |
+| 12 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 14 | [Daniel Rojas](http://twitter.com/search?q=Daniel+Rojas) | N/A |
+| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 16 | [santoto](http://twitter.com/search?q=santoto) | N/A |
+| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 18 | [Eduardo Pizarro](http://twitter.com/search?q=Eduardo+Pizarro) | N/A |
+| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 20 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 21 | [Corredor](http://twitter.com/search?q=Corredor) | N/A |
 | 22 | [Alexis García](http://twitter.com/search?q=Alexis+Garc%c3%ada) | N/A |
-| 23 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
-| 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 25 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
-| 28 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
-| 29 | [Jesús Santrich](http://twitter.com/search?q=Jes%c3%bas+Santrich) | N/A |
-| 30 | [Director de la SAE](http://twitter.com/search?q=Director+de+la+SAE) | N/A |
-| 31 | [Águilas Doradas](http://twitter.com/search?q=%c3%81guilas+Doradas) | N/A |
-| 32 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
-| 33 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 34 | [Arquero](http://twitter.com/search?q=Arquero) | N/A |
-| 35 | [palogrande](http://twitter.com/search?q=palogrande) | N/A |
-| 36 | [Falque](http://twitter.com/search?q=Falque) | N/A |
-| 37 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 38 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 39 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 40 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 42 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
-| 43 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 44 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 45 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 46 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 47 | [Volkanovski](http://twitter.com/search?q=Volkanovski) | N/A |
-| 48 | [SEGURIDAD DEMOCRÁTICA](http://twitter.com/search?q=SEGURIDAD+DEMOCR%c3%81TICA) | N/A |
-| 49 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
+| 23 | [Felices 79](http://twitter.com/search?q=Felices+79) | N/A |
+| 24 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 25 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 26 | [La Solar](http://twitter.com/search?q=La+Solar) | N/A |
+| 27 | [Derechos del Niño](http://twitter.com/search?q=Derechos+del+Ni%c3%b1o) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Pinturita](http://twitter.com/search?q=Pinturita) | N/A |
+| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 31 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 32 | [loaiza](http://twitter.com/search?q=loaiza) | N/A |
+| 33 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
+| 37 | [Arquero](http://twitter.com/search?q=Arquero) | N/A |
+| 38 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
+| 39 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 40 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
+| 41 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 42 | [palogrande](http://twitter.com/search?q=palogrande) | N/A |
+| 43 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 44 | [Águilas Doradas](http://twitter.com/search?q=%c3%81guilas+Doradas) | N/A |
+| 45 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 46 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 47 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
+| 48 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 49 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
 
 
 

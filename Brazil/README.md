@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-12 15:17:21 UTC`
+📆 Last Updated: `2023-02-12 16:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 1 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 2 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 3 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
 | 4 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
-| 5 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
-| 8 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 10 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
-| 11 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
-| 12 | [Milene](http://twitter.com/search?q=Milene) | N/A |
-| 13 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 14 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 15 | [Bárbara](http://twitter.com/search?q=B%c3%a1rbara) | N/A |
-| 16 | [JULIETTE NO CHA DA ALICE](http://twitter.com/search?q=JULIETTE+NO+CHA+DA+ALICE) | N/A |
-| 17 | [Amazonino](http://twitter.com/search?q=Amazonino) | N/A |
-| 18 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 20 | [Crivelari](http://twitter.com/search?q=Crivelari) | N/A |
-| 21 | [Corinthians Feminino](http://twitter.com/search?q=Corinthians+Feminino) | N/A |
-| 22 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 23 | [#SkateNoSportv](http://twitter.com/search?q=%23SkateNoSportv) | N/A |
-| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 25 | [Kabum](http://twitter.com/search?q=Kabum) | N/A |
-| 26 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
-| 27 | [Beija Flor](http://twitter.com/search?q=Beija+Flor) | N/A |
-| 28 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 29 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
-| 30 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
-| 31 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
-| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 34 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 35 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 9 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 10 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 11 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 12 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 13 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
+| 14 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 15 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 18 | [#FentyBowl](http://twitter.com/search?q=%23FentyBowl) | N/A |
+| 19 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 21 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
+| 22 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 23 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
+| 24 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 25 | [Amazonino Mendes](http://twitter.com/search?q=Amazonino+Mendes) | N/A |
+| 26 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
+| 27 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 28 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
+| 29 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
+| 30 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 31 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 32 | [As Brabas](http://twitter.com/search?q=As+Brabas) | N/A |
+| 33 | [Crivelari](http://twitter.com/search?q=Crivelari) | N/A |
+| 34 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
+| 35 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
 | 36 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 37 | [Belinha](http://twitter.com/search?q=Belinha) | N/A |
-| 38 | [Sky Brown](http://twitter.com/search?q=Sky+Brown) | N/A |
-| 39 | [Thais Regina](http://twitter.com/search?q=Thais+Regina) | N/A |
-| 40 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 41 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 43 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
-| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 45 | [Neo Química Arena](http://twitter.com/search?q=Neo+Qu%c3%admica+Arena) | N/A |
-| 46 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
-| 47 | [Augusto Akio](http://twitter.com/search?q=Augusto+Akio) | N/A |
-| 48 | [Olinda Beer](http://twitter.com/search?q=Olinda+Beer) | N/A |
-| 49 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 50 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 39 | [JULIETTE NO CHA DA ALICE](http://twitter.com/search?q=JULIETTE+NO+CHA+DA+ALICE) | N/A |
+| 40 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
+| 41 | [Kabum](http://twitter.com/search?q=Kabum) | N/A |
+| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 43 | [Esse 4](http://twitter.com/search?q=Esse+4) | N/A |
+| 44 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 45 | [Bárbara](http://twitter.com/search?q=B%c3%a1rbara) | N/A |
+| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 47 | [Milene](http://twitter.com/search?q=Milene) | N/A |
+| 48 | [CINCO MILHÕES PRI CALIARI](http://twitter.com/search?q=CINCO+MILH%c3%95ES+PRI+CALIARI) | N/A |
+| 49 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 50 | [Beija Flor](http://twitter.com/search?q=Beija+Flor) | N/A |
 
 
 
