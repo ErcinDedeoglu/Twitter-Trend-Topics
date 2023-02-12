@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-12 14:16:29 UTC`
+📆 Last Updated: `2023-02-12 15:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
 | 2 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
 | 3 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
-| 4 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
-| 5 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
-| 6 | [JIHYO](http://twitter.com/search?q=JIHYO) | N/A |
-| 7 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 8 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 4 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 5 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 6 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
+| 7 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 8 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
 | 9 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 10 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
-| 11 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
-| 12 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
-| 13 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 14 | [Odd Eye](http://twitter.com/search?q=Odd+Eye) | N/A |
-| 15 | [DASH](http://twitter.com/search?q=DASH) | N/A |
-| 16 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 17 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 18 | [MentorDARREN for DMFinale](http://twitter.com/search?q=MentorDARREN+for+DMFinale) | N/A |
-| 19 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 20 | [aldenthestar mrmthestarmaker](http://twitter.com/search?q=aldenthestar+mrmthestarmaker) | N/A |
-| 21 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 22 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 23 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 24 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
-| 25 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 10 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 11 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
+| 12 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 13 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 14 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 15 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
+| 16 | [Rank 4](http://twitter.com/search?q=Rank+4) | N/A |
+| 17 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
+| 18 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 19 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
+| 20 | [MentorDARREN for DMFinale](http://twitter.com/search?q=MentorDARREN+for+DMFinale) | N/A |
+| 21 | [odd eye](http://twitter.com/search?q=odd+eye) | N/A |
+| 22 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
+| 23 | [DASH](http://twitter.com/search?q=DASH) | N/A |
+| 24 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 25 | [Jiro](http://twitter.com/search?q=Jiro) | N/A |
 | 26 | [Mikki](http://twitter.com/search?q=Mikki) | N/A |
-| 27 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 28 | [Team Bahay](http://twitter.com/search?q=Team+Bahay) | N/A |
-| 29 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 30 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 31 | [Captain Nam](http://twitter.com/search?q=Captain+Nam) | N/A |
-| 32 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 33 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 34 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 35 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 36 | [Jaejoong](http://twitter.com/search?q=Jaejoong) | N/A |
-| 37 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 38 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
-| 39 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 40 | [#ALDENmeetsMrM](http://twitter.com/search?q=%23ALDENmeetsMrM) | N/A |
-| 41 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 42 | [#STE1LARCUS_TheRadiantJuan](http://twitter.com/search?q=%23STE1LARCUS_TheRadiantJuan) | N/A |
-| 43 | [#TheClashAgawanNgUpuan](http://twitter.com/search?q=%23TheClashAgawanNgUpuan) | N/A |
-| 44 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 45 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 46 | [#WashWithV](http://twitter.com/search?q=%23WashWithV) | N/A |
-| 47 | [#BubblyTaehyung](http://twitter.com/search?q=%23BubblyTaehyung) | N/A |
+| 27 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 28 | [ALDENtheStar MrMtheStarMaker](http://twitter.com/search?q=ALDENtheStar+MrMtheStarMaker) | N/A |
+| 29 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 30 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 31 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 32 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 33 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
+| 34 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 35 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 36 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 37 | [#TheDebutanteManila](http://twitter.com/search?q=%23TheDebutanteManila) | N/A |
+| 38 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 39 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 40 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
+| 41 | [#TheClashAgawanNgUpuan](http://twitter.com/search?q=%23TheClashAgawanNgUpuan) | N/A |
+| 42 | [#BubblyTaehyung](http://twitter.com/search?q=%23BubblyTaehyung) | N/A |
+| 43 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 44 | [#WashWithV](http://twitter.com/search?q=%23WashWithV) | N/A |
+| 45 | [#ALDENmeetsMrM](http://twitter.com/search?q=%23ALDENmeetsMrM) | N/A |
+| 46 | [#BrightestStar](http://twitter.com/search?q=%23BrightestStar) | N/A |
+| 47 | [#STE1LARCUS_TheRadiantJuan](http://twitter.com/search?q=%23STE1LARCUS_TheRadiantJuan) | N/A |
 
 
 

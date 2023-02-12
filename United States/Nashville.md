@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-12 14:16:46 UTC`
+📆 Last Updated: `2023-02-12 15:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 2 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 3 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 8 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 9 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 10 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 11 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 12 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 15 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 16 | [Trump and Kushner](http://twitter.com/search?q=Trump+and+Kushner) | N/A |
-| 17 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 18 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 19 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 3 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 4 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 11 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 12 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
+| 13 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 14 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 15 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 16 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 17 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 18 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 19 | [Trump and Kushner](http://twitter.com/search?q=Trump+and+Kushner) | N/A |
 | 20 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 21 | [Go Eagles](http://twitter.com/search?q=Go+Eagles) | N/A |
-| 22 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
-| 23 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 24 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
-| 25 | [Regret](http://twitter.com/search?q=Regret) | N/A |
-| 26 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
-| 27 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
-| 28 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 29 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 30 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 31 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 32 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 33 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
-| 34 | [Tyrus](http://twitter.com/search?q=Tyrus) | N/A |
-| 35 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 36 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 37 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 38 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 39 | [Sanity](http://twitter.com/search?q=Sanity) | N/A |
-| 40 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 43 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 44 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 45 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 46 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
-| 47 | [khabib](http://twitter.com/search?q=khabib) | N/A |
-| 48 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 49 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 50 | [Makhachev](http://twitter.com/search?q=Makhachev) | N/A |
+| 21 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
+| 22 | [Tyler Adams](http://twitter.com/search?q=Tyler+Adams) | N/A |
+| 23 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 24 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 27 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 28 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
+| 29 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 30 | [Rep. Jim Jordan](http://twitter.com/search?q=Rep.+Jim+Jordan) | N/A |
+| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 32 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 33 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
+| 34 | [TODAY IS THE DAY](http://twitter.com/search?q=TODAY+IS+THE+DAY) | N/A |
+| 35 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 36 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 37 | [SB Sunday](http://twitter.com/search?q=SB+Sunday) | N/A |
+| 38 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 39 | [EPMD](http://twitter.com/search?q=EPMD) | N/A |
+| 40 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 41 | [Regret](http://twitter.com/search?q=Regret) | N/A |
+| 42 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 43 | [Michael McDonald](http://twitter.com/search?q=Michael+McDonald) | N/A |
+| 44 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 45 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 46 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 47 | [Distractions](http://twitter.com/search?q=Distractions) | N/A |
+| 48 | [Tyrus](http://twitter.com/search?q=Tyrus) | N/A |
+| 49 | [5 ETH](http://twitter.com/search?q=5+ETH) | N/A |
+| 50 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
 
 
 

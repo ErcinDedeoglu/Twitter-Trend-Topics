@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-12 14:16:06 UTC`
+📆 Last Updated: `2023-02-12 15:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 3 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 4 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 5 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 6 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 8 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 9 | [Toone](http://twitter.com/search?q=Toone) | N/A |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 12 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 13 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
-| 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 15 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 16 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 17 | [COME ON UNITED](http://twitter.com/search?q=COME+ON+UNITED) | "Come on United" is a phrase used to show support for the English football team Manchester United. It is usually shouted by fans during a match to encourage the team and show their enthusiasm. |
-| 18 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 19 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 20 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 21 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 22 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 23 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 24 | [Ellwood](http://twitter.com/search?q=Ellwood) | N/A |
-| 25 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 26 | [Bentancur](http://twitter.com/search?q=Bentancur) | Bentancur is a surname of Spanish origin. It is derived from the Latin name Benedictus, meaning "blessed". In English, it can be translated to mean "blessed one". |
-| 27 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 28 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 29 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 30 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 31 | [Crust](http://twitter.com/search?q=Crust) | N/A |
-| 32 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 33 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 34 | [RIP James](http://twitter.com/search?q=RIP+James) | N/A |
-| 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 36 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 37 | [andrew mitchell](http://twitter.com/search?q=andrew+mitchell) | N/A |
-| 38 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 39 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 40 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 41 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 42 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 43 | [Tavistock](http://twitter.com/search?q=Tavistock) | N/A |
-| 44 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 45 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 46 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 47 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 48 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 49 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 4 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 5 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 7 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 8 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 9 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 10 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 11 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 12 | [#ENGvITA](http://twitter.com/search?q=%23ENGvITA) | N/A |
+| 13 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 14 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 15 | [Sands](http://twitter.com/search?q=Sands) | Sands is a term used to refer to a beach or shoreline composed of sand. It can also be used to refer to a desert made up of sand. In English, the word "sands" is used to describe an area covered in sand. |
+| 16 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
+| 17 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 18 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 19 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
+| 20 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 21 | [Toone](http://twitter.com/search?q=Toone) | N/A |
+| 22 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 23 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 24 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 25 | [Casemiro and Eriksen](http://twitter.com/search?q=Casemiro+and+Eriksen) | N/A |
+| 26 | [Dirty Leeds](http://twitter.com/search?q=Dirty+Leeds) | N/A |
+| 27 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 28 | [Arsenal and Brighton](http://twitter.com/search?q=Arsenal+and+Brighton) | N/A |
+| 29 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
+| 30 | [American Mike](http://twitter.com/search?q=American+Mike) | N/A |
+| 31 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
+| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 33 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 34 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 35 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 36 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 37 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 38 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 39 | [RIP James](http://twitter.com/search?q=RIP+James) | N/A |
+| 40 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 41 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 42 | [Ellwood](http://twitter.com/search?q=Ellwood) | N/A |
+| 43 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 44 | [Crust](http://twitter.com/search?q=Crust) | N/A |
+| 45 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 47 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 48 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 49 | [Tyler Adams](http://twitter.com/search?q=Tyler+Adams) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-02-12 14:16:09 UTC`
+📆 Last Updated: `2023-02-12 15:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [tepa](http://twitter.com/search?q=tepa) | N/A |
+| 1 | [Tepa](http://twitter.com/search?q=Tepa) | N/A |
 | 2 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
 | 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 4 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 5 | [GALINDO](http://twitter.com/search?q=GALINDO) | N/A |
-| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 7 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 6 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
+| 7 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 8 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
 | 9 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 10 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 11 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 12 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 14 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 15 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 19 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 23 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 24 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 25 | [diego reyes](http://twitter.com/search?q=diego+reyes) | N/A |
-| 26 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 27 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 28 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 29 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 30 | [freire](http://twitter.com/search?q=freire) | N/A |
-| 31 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 32 | [aldrete](http://twitter.com/search?q=aldrete) | N/A |
-| 33 | [diego valdés](http://twitter.com/search?q=diego+vald%c3%a9s) | N/A |
-| 34 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
-| 35 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 36 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 37 | [ustari](http://twitter.com/search?q=ustari) | N/A |
-| 38 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 39 | [HÉROE](http://twitter.com/search?q=H%c3%89ROE) | N/A |
-| 40 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
-| 41 | [SEXBASTIAN](http://twitter.com/search?q=SEXBASTIAN) | N/A |
-| 42 | [de la rosa](http://twitter.com/search?q=de+la+rosa) | N/A |
-| 43 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
-| 44 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 45 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 46 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 47 | [limochima](http://twitter.com/search?q=limochima) | N/A |
-| 48 | [Pantera](http://twitter.com/search?q=Pantera) | N/A |
-| 49 | [Volkanovski](http://twitter.com/search?q=Volkanovski) | N/A |
-| 50 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 10 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 11 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 13 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 14 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
+| 15 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 16 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 17 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 18 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 20 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 21 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 24 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 25 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 26 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 29 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 30 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
+| 31 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 32 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 33 | [Héroe](http://twitter.com/search?q=H%c3%a9roe) | N/A |
+| 34 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 35 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 37 | [aldrete](http://twitter.com/search?q=aldrete) | N/A |
+| 38 | [rafa puente](http://twitter.com/search?q=rafa+puente) | N/A |
+| 39 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
+| 40 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 41 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 42 | [Julio Cortázar](http://twitter.com/search?q=Julio+Cort%c3%a1zar) | N/A |
+| 43 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 44 | [gazir](http://twitter.com/search?q=gazir) | N/A |
+| 45 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 46 | [Aczino](http://twitter.com/search?q=Aczino) | N/A |
+| 47 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 48 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 49 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 50 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
 
 
 

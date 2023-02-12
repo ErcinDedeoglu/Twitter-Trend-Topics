@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-12 14:16:19 UTC`
+📆 Last Updated: `2023-02-12 15:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
-| 2 | [#spagae](http://twitter.com/search?q=%23spagae) | N/A |
-| 3 | [#PSVGRO](http://twitter.com/search?q=%23PSVGRO) | N/A |
-| 4 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 5 | [Amofa](http://twitter.com/search?q=Amofa) | N/A |
-| 6 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 7 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 8 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 9 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 10 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 11 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 12 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 13 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
-| 14 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 15 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 2 | [#vitutr](http://twitter.com/search?q=%23vitutr) | N/A |
+| 3 | [#psvgro](http://twitter.com/search?q=%23psvgro) | N/A |
+| 4 | [#spagae](http://twitter.com/search?q=%23spagae) | N/A |
+| 5 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 6 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 7 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 8 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 9 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 11 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 12 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 13 | [Amofa](http://twitter.com/search?q=Amofa) | N/A |
+| 14 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 15 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 | 16 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 17 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 18 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 19 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
-| 20 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 21 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 22 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 23 | [Dictatuur](http://twitter.com/search?q=Dictatuur) | N/A |
-| 24 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 27 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
-| 28 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
-| 29 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
-| 30 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 31 | [nicolette](http://twitter.com/search?q=nicolette) | N/A |
-| 32 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 33 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
-| 34 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 35 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 36 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
-| 39 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 40 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 41 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 42 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 43 | [Beursplein](http://twitter.com/search?q=Beursplein) | N/A |
-| 44 | [Diederik](http://twitter.com/search?q=Diederik) | N/A |
-| 45 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 46 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 48 | [Afleiding](http://twitter.com/search?q=Afleiding) | N/A |
+| 17 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 18 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
+| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 20 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 21 | [De VAR](http://twitter.com/search?q=De+VAR) | N/A |
+| 22 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
+| 23 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 24 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 25 | [bakayoko](http://twitter.com/search?q=bakayoko) | N/A |
+| 26 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 27 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
+| 28 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
+| 29 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 30 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 32 | [Dictatuur](http://twitter.com/search?q=Dictatuur) | N/A |
+| 33 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
+| 34 | [memento rob](http://twitter.com/search?q=memento+rob) | N/A |
+| 35 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 36 | [HARRIS REED](http://twitter.com/search?q=HARRIS+REED) | N/A |
+| 37 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 38 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 39 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
+| 40 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 45 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
+| 46 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 47 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 48 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 49 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 
 
 
