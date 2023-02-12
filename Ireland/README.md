@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-12 06:17:02 UTC`
+📆 Last Updated: `2023-02-12 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,16 +37,16 @@ This is top 50 for Ireland
 | 20 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 21 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
 | 22 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 25 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
-| 26 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 27 | [Happy Birthday Helen](http://twitter.com/search?q=Happy+Birthday+Helen) | N/A |
-| 28 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 29 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
-| 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 31 | [ireland's call](http://twitter.com/search?q=ireland%27s+call) | N/A |
-| 32 | [atonio](http://twitter.com/search?q=atonio) | N/A |
+| 23 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
+| 24 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
+| 25 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 26 | [Happy Birthday Helen](http://twitter.com/search?q=Happy+Birthday+Helen) | N/A |
+| 27 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 28 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
+| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 30 | [ireland's call](http://twitter.com/search?q=ireland%27s+call) | N/A |
+| 31 | [Atonio](http://twitter.com/search?q=Atonio) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 33 | [lewis capaldi](http://twitter.com/search?q=lewis+capaldi) | N/A |
 | 34 | [Donovan](http://twitter.com/search?q=Donovan) | N/A |
 | 35 | [willa white](http://twitter.com/search?q=willa+white) | N/A |

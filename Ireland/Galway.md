@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-12 06:16:23 UTC`
+📆 Last Updated: `2023-02-12 07:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 12 | [Doris](http://twitter.com/search?q=Doris) | N/A |
 | 13 | [Herring](http://twitter.com/search?q=Herring) | N/A |
-| 14 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 15 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 14 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 15 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 | 17 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 18 | [hugo keenan](http://twitter.com/search?q=hugo+keenan) | N/A |
@@ -37,16 +37,16 @@ This is top 50 for [Ireland](</Ireland>)
 | 20 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 21 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
 | 22 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 25 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
-| 26 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 27 | [Happy Birthday Helen](http://twitter.com/search?q=Happy+Birthday+Helen) | N/A |
-| 28 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 29 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
-| 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 31 | [ireland's call](http://twitter.com/search?q=ireland%27s+call) | N/A |
-| 32 | [atonio](http://twitter.com/search?q=atonio) | N/A |
+| 23 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
+| 24 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
+| 25 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 26 | [Happy Birthday Helen](http://twitter.com/search?q=Happy+Birthday+Helen) | N/A |
+| 27 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 28 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
+| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 30 | [ireland's call](http://twitter.com/search?q=ireland%27s+call) | N/A |
+| 31 | [Atonio](http://twitter.com/search?q=Atonio) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 33 | [lewis capaldi](http://twitter.com/search?q=lewis+capaldi) | N/A |
 | 34 | [Donovan](http://twitter.com/search?q=Donovan) | N/A |
 | 35 | [willa white](http://twitter.com/search?q=willa+white) | N/A |

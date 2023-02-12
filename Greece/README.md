@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-02-12 06:17:03 UTC`
+📆 Last Updated: `2023-02-12 07:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Greece
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpitiMeToMega](http://twitter.com/search?q=%23SpitiMeToMega) | N/A |
-| 2 | [#thevoicegr](http://twitter.com/search?q=%23thevoicegr) | N/A |
-| 3 | [#dolcevita](http://twitter.com/search?q=%23dolcevita) | N/A |
-| 4 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
-| 5 | [#tovraxiolitisfwtias](http://twitter.com/search?q=%23tovraxiolitisfwtias) | N/A |
-| 6 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 7 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
-| 8 | [Καλημερα Μαρια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%cf%81%ce%b9%ce%b1) | N/A |
-| 9 | [κατσελη](http://twitter.com/search?q=%ce%ba%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
-| 10 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
-| 11 | [Καλημερα Ιωαννα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%99%cf%89%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
-| 12 | [αγραβανη](http://twitter.com/search?q=%ce%b1%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
-| 13 | [deree](http://twitter.com/search?q=deree) | N/A |
-| 14 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
-| 15 | [Κυριακης](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 16 | [Καλημερα Νικο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9d%ce%b9%ce%ba%ce%bf) | N/A |
-| 17 | [ειδικο δικαστηριο](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
-| 18 | [C-130J](http://twitter.com/search?q=C-130J) | N/A |
-| 19 | [επι συριζα](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9+%cf%83%cf%85%cf%81%ce%b9%ce%b6%ce%b1) | N/A |
-| 20 | [Καλημερα Ηλια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%97%ce%bb%ce%b9%ce%b1) | N/A |
-| 21 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
-| 22 | [παππας](http://twitter.com/search?q=%cf%80%ce%b1%cf%80%cf%80%ce%b1%cf%82) | N/A |
-| 23 | [11 φεβρουαριου](http://twitter.com/search?q=11+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 24 | [λαυριο](http://twitter.com/search?q=%ce%bb%ce%b1%cf%85%cf%81%ce%b9%ce%bf) | N/A |
-| 25 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
-| 26 | [Υπουργε](http://twitter.com/search?q=%ce%a5%cf%80%ce%bf%cf%85%cf%81%ce%b3%ce%b5) | N/A |
-| 27 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
-| 28 | [αγορου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
-| 29 | [αγγελω](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
-| 30 | [βερτη](http://twitter.com/search?q=%ce%b2%ce%b5%cf%81%cf%84%ce%b7) | N/A |
-| 31 | [πλουταρχο](http://twitter.com/search?q=%cf%80%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
-| 32 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
-| 33 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
-| 34 | [σαμοθρακης](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%bf%ce%b8%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 35 | [μπενουτα](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%bd%ce%bf%cf%85%cf%84%ce%b1) | N/A |
-| 36 | [ραντονιτς](http://twitter.com/search?q=%cf%81%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
-| 37 | [αντριους](http://twitter.com/search?q=%ce%b1%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
-| 38 | [αρσεναλ](http://twitter.com/search?q=%ce%b1%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [τζοουνς](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
-| 41 | [γκουνταιτις](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
-| 42 | [ομορφο σαββατοκυριακο](http://twitter.com/search?q=%ce%bf%ce%bc%ce%bf%cf%81%cf%86%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 43 | [αγιου βαλεντινου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b9%ce%bf%cf%85+%ce%b2%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
-| 44 | [βαλενθια](http://twitter.com/search?q=%ce%b2%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
-| 45 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
-| 46 | [κορινθο](http://twitter.com/search?q=%ce%ba%ce%bf%cf%81%ce%b9%ce%bd%ce%b8%ce%bf) | N/A |
-| 47 | [πανος](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 48 | [ελιζα](http://twitter.com/search?q=%ce%b5%ce%bb%ce%b9%ce%b6%ce%b1) | N/A |
-| 49 | [σαββατου](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
-| 50 | [Καλημερα Σπυρο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%a3%cf%80%cf%85%cf%81%ce%bf) | N/A |
+| 1 | [Καλη Κυριακη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
+| 2 | [#SpitiMeToMega](http://twitter.com/search?q=%23SpitiMeToMega) | N/A |
+| 3 | [#ΠαιδωνΑγιαΣοφια12](http://twitter.com/search?q=%23%ce%a0%ce%b1%ce%b9%ce%b4%cf%89%ce%bd%ce%91%ce%b3%ce%b9%ce%b1%ce%a3%ce%bf%cf%86%ce%b9%ce%b112) | N/A |
+| 4 | [Ομορφη Κυριακη](http://twitter.com/search?q=%ce%9f%ce%bc%ce%bf%cf%81%cf%86%ce%b7+%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
+| 5 | [#thevoicegr](http://twitter.com/search?q=%23thevoicegr) | N/A |
+| 6 | [#dolcevita](http://twitter.com/search?q=%23dolcevita) | N/A |
+| 7 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
+| 8 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 9 | [Κυριακης](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
+| 10 | [Καλημερα Μαρια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%cf%81%ce%b9%ce%b1) | N/A |
+| 11 | [Καλημερα Ειρηνη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%95%ce%b9%cf%81%ce%b7%ce%bd%ce%b7) | N/A |
+| 12 | [Καλημερα Νικο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9d%ce%b9%ce%ba%ce%bf) | N/A |
+| 13 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
+| 14 | [Καλημερα Σπυρο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%a3%cf%80%cf%85%cf%81%ce%bf) | N/A |
+| 15 | [Καλημερα Γιωργο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%93%ce%b9%cf%89%cf%81%ce%b3%ce%bf) | N/A |
+| 16 | [Ασωτου](http://twitter.com/search?q=%ce%91%cf%83%cf%89%cf%84%ce%bf%cf%85) | N/A |
+| 17 | [Κατσελη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
+| 18 | [Στην Τουρκια](http://twitter.com/search?q=%ce%a3%cf%84%ce%b7%ce%bd+%ce%a4%ce%bf%cf%85%cf%81%ce%ba%ce%b9%ce%b1) | N/A |
+| 19 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
+| 20 | [αγραβανη](http://twitter.com/search?q=%ce%b1%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
+| 21 | [deree](http://twitter.com/search?q=deree) | N/A |
+| 22 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 23 | [ειδικο δικαστηριο](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
+| 24 | [C-130J](http://twitter.com/search?q=C-130J) | N/A |
+| 25 | [Καναδα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b1%ce%b4%ce%b1) | N/A |
+| 26 | [επι συριζα](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9+%cf%83%cf%85%cf%81%ce%b9%ce%b6%ce%b1) | N/A |
+| 27 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
+| 28 | [παππας](http://twitter.com/search?q=%cf%80%ce%b1%cf%80%cf%80%ce%b1%cf%82) | N/A |
+| 29 | [11 φεβρουαριου](http://twitter.com/search?q=11+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 30 | [λαυριο](http://twitter.com/search?q=%ce%bb%ce%b1%cf%85%cf%81%ce%b9%ce%bf) | N/A |
+| 31 | [Καλημερα Ιωαννα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%99%cf%89%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
+| 32 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
+| 33 | [Υπουργε](http://twitter.com/search?q=%ce%a5%cf%80%ce%bf%cf%85%cf%81%ce%b3%ce%b5) | N/A |
+| 34 | [αγορου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
+| 35 | [αγγελω](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
+| 36 | [βερτη](http://twitter.com/search?q=%ce%b2%ce%b5%cf%81%cf%84%ce%b7) | N/A |
+| 37 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
+| 38 | [πλουταρχο](http://twitter.com/search?q=%cf%80%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
+| 39 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
+| 40 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
+| 41 | [μπενουτα](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%bd%ce%bf%cf%85%cf%84%ce%b1) | N/A |
+| 42 | [ραντονιτς](http://twitter.com/search?q=%cf%81%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
+| 43 | [αντριους](http://twitter.com/search?q=%ce%b1%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
+| 44 | [αρσεναλ](http://twitter.com/search?q=%ce%b1%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
+| 45 | [τζοουνς](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
+| 46 | [γκουνταιτις](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
+| 47 | [ομορφο σαββατοκυριακο](http://twitter.com/search?q=%ce%bf%ce%bc%ce%bf%cf%81%cf%86%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 48 | [βαλενθια](http://twitter.com/search?q=%ce%b2%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
+| 49 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
+| 50 | [Καλημερα Βασιλη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
 
 
 
