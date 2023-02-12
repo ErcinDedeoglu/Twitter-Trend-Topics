@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-02-12 00:29:43 UTC`
+📆 Last Updated: `2023-02-12 01:44:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoJays](http://twitter.com/search?q=%23GoJays) | N/A |
-| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 2 | [#GoJays](http://twitter.com/search?q=%23GoJays) | N/A |
+| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
 | 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
 | 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 6 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 7 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 8 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 9 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 10 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 11 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 12 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 13 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
-| 14 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 15 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 16 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
-| 17 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 18 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
-| 19 | [Tukhugov](http://twitter.com/search?q=Tukhugov) | N/A |
-| 20 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 21 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
-| 22 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 23 | [Elise Reed](http://twitter.com/search?q=Elise+Reed) | N/A |
-| 24 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 25 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 26 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 27 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 28 | [Blake Bilder](http://twitter.com/search?q=Blake+Bilder) | N/A |
-| 29 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 30 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 31 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 32 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 33 | [Brener](http://twitter.com/search?q=Brener) | N/A |
-| 34 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 35 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
-| 36 | [Patty Mills](http://twitter.com/search?q=Patty+Mills) | N/A |
-| 37 | [BJ Edwards](http://twitter.com/search?q=BJ+Edwards) | N/A |
-| 38 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 39 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
-| 40 | [Portland State](http://twitter.com/search?q=Portland+State) | N/A |
-| 41 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
-| 42 | [Shane Young](http://twitter.com/search?q=Shane+Young) | N/A |
-| 43 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
-| 44 | [Blanchfield](http://twitter.com/search?q=Blanchfield) | N/A |
-| 45 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 46 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 47 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
-| 48 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 49 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 50 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 6 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 7 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 8 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 9 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 10 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 11 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 12 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 14 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 15 | [Jenkins](http://twitter.com/search?q=Jenkins) | N/A |
+| 16 | [Havre](http://twitter.com/search?q=Havre) | N/A |
+| 17 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 18 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 19 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 20 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 21 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 22 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 24 | [Gholston](http://twitter.com/search?q=Gholston) | N/A |
+| 25 | [Bleday](http://twitter.com/search?q=Bleday) | N/A |
+| 26 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
+| 27 | [#IfYouWereMySweetie](http://twitter.com/search?q=%23IfYouWereMySweetie) | N/A |
+| 28 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 31 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 33 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 34 | [Mullarkey](http://twitter.com/search?q=Mullarkey) | N/A |
+| 35 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 36 | [Shainis](http://twitter.com/search?q=Shainis) | N/A |
+| 37 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 38 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 39 | [Terrance Williams](http://twitter.com/search?q=Terrance+Williams) | N/A |
+| 40 | [TWill](http://twitter.com/search?q=TWill) | N/A |
+| 41 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 42 | [NOTAM](http://twitter.com/search?q=NOTAM) | NOTAM stands for Notice to Airmen and is a notice issued by an aviation authority to provide information regarding potential hazards along a flight route or at a location that could affect the safety of the flight. It is used to alert pilots of potential hazards such as airspace restrictions, temporary obstacles, and other important information. |
+| 43 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 44 | [F-15s](http://twitter.com/search?q=F-15s) | F-15s is an abbreviation for the F-15 Eagle, a twin-engine, all-weather tactical fighter jet manufactured by McDonnell Douglas (now Boeing). It is used by the United States Air Force and other militaries around the world. |
+| 45 | [Prado](http://twitter.com/search?q=Prado) | N/A |
+| 46 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
+| 47 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 48 | [AJ Puk](http://twitter.com/search?q=AJ+Puk) | N/A |
+| 49 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 50 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-02-12 00:29:34 UTC`
+📆 Last Updated: `2023-02-12 01:44:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
-| 3 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 4 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
-| 5 | [#cheerstoreallove](http://twitter.com/search?q=%23cheerstoreallove) | N/A |
-| 6 | [#PromiseDay](http://twitter.com/search?q=%23PromiseDay) | N/A |
-| 7 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 11 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 13 | [PATHAAN 900 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+900+CRORES+WORLDWIDE) | N/A |
-| 14 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
-| 15 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 16 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
-| 17 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 18 | [unstoppable ayesha singh](http://twitter.com/search?q=unstoppable+ayesha+singh) | N/A |
-| 19 | [mere desh ki jawani](http://twitter.com/search?q=mere+desh+ki+jawani) | N/A |
-| 20 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
-| 22 | [Sushant A Multifaceted Talent](http://twitter.com/search?q=Sushant+A+Multifaceted+Talent) | N/A |
-| 23 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 25 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
-| 26 | [parent child relationship](http://twitter.com/search?q=parent+child+relationship) | N/A |
-| 27 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
-| 28 | [10 Million](http://twitter.com/search?q=10+Million) | N/A |
-| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 30 | [unconditional love](http://twitter.com/search?q=unconditional+love) | N/A |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 33 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 34 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 35 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
-| 36 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 38 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 39 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 40 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 43 | [आर्य समाज](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 44 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 45 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 46 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 48 | [Artist of the Year](http://twitter.com/search?q=Artist+of+the+Year) | N/A |
-| 49 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [#दुनिया_का_तारणहार](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%95%e0%a4%be_%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a4%a3%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
+| 2 | [5 Days Left For Bodh Diwas](http://twitter.com/search?q=5+Days+Left+For+Bodh+Diwas) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
+| 5 | [पंडित दीनदयाल उपाध्याय](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%a6%e0%a5%80%e0%a4%a8%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 6 | [आर्य समाज](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 7 | [एकात्म मानववाद](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%be%e0%a4%a6) | N/A |
+| 8 | [#cheerstoreallove](http://twitter.com/search?q=%23cheerstoreallove) | N/A |
+| 9 | [#promiseday](http://twitter.com/search?q=%23promiseday) | N/A |
+| 10 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 11 | [स्वामी दयानन्द सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [भारतीय जनसंघ](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 14 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 15 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 16 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 18 | [PATHAAN 900 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+900+CRORES+WORLDWIDE) | N/A |
+| 19 | [TERE ISHQ MEIN GHAYAL GASHMEER](http://twitter.com/search?q=TERE+ISHQ+MEIN+GHAYAL+GASHMEER) | N/A |
+| 20 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 21 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [तिलका मांझी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%be+%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%9d%e0%a5%80) | N/A |
+| 23 | [महर्षि दयानंद सरस्वती](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 24 | [mere desh ki jawani](http://twitter.com/search?q=mere+desh+ki+jawani) | N/A |
+| 25 | [ayesha singh](http://twitter.com/search?q=ayesha+singh) | N/A |
+| 26 | [Sushant A Multifaceted Talent](http://twitter.com/search?q=Sushant+A+Multifaceted+Talent) | N/A |
+| 27 | [चौधरी अजित सिंह](http://twitter.com/search?q=%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 28 | [Dettol](http://twitter.com/search?q=Dettol) | N/A |
+| 29 | [अब्बास अंसारी](http://twitter.com/search?q=%e0%a4%85%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%be%e0%a4%b8+%e0%a4%85%e0%a4%82%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [एकात्म मानव दर्शन](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 31 | [parent child relationship](http://twitter.com/search?q=parent+child+relationship) | N/A |
+| 32 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 33 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 34 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 35 | [Ae Dil Hai Mushkil](http://twitter.com/search?q=Ae+Dil+Hai+Mushkil) | N/A |
+| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 37 | [unconditional love](http://twitter.com/search?q=unconditional+love) | N/A |
+| 38 | [10 Million](http://twitter.com/search?q=10+Million) | N/A |
+| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 40 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 41 | [Center Prioritize Sushant Case](http://twitter.com/search?q=Center+Prioritize+Sushant+Case) | N/A |
+| 42 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 43 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 44 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 45 | [valentines week with piya re](http://twitter.com/search?q=valentines+week+with+piya+re) | N/A |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 49 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 50 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 
 
 

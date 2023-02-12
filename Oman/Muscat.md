@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-12 00:29:33 UTC`
+📆 Last Updated: `2023-02-12 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Oman](</Oman>)
 | ------- | ------------ | ------------ |
 | 1 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 | 2 | [#البزنس67](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b367) | N/A |
-| 3 | [محمد العويسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
-| 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 6 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 7 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 8 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 9 | [علم السموم](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d9%88%d9%85) | N/A |
-| 10 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 11 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 12 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 13 | [علم الاجتماع](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9) | N/A |
+| 3 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 4 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 5 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 7 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 8 | [علم السموم](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d9%88%d9%85) | N/A |
+| 9 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 10 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 11 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 12 | [علم الاجتماع](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9) | N/A |
+| 13 | [محمد العويسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
 | 14 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 15 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 16 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 17 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 18 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 19 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 15 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 16 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 17 | [الثقه الساميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 18 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 19 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 20 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 21 | [الثقه الساميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 22 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 21 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 22 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
 | 23 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
-| 24 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 25 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
+| 24 | [عمل عامل](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%b9%d8%a7%d9%85%d9%84) | N/A |
+| 25 | [حسن الرجاء](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1) | N/A |
 | 26 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 27 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 28 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 29 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
-| 30 | [السلطاني العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 32 | [الحركه المروريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 27 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 28 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
+| 29 | [زعيم اسيا](http://twitter.com/search?q=%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 30 | [الحركه المروريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 32 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 33 | [السلطاني العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
 | 34 | [11 فبراير 2023](http://twitter.com/search?q=11+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
 | 35 | [20 فبراير](http://twitter.com/search?q=20+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 36 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [ابو اليزن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%8a%d8%b2%d9%86) | N/A |
+| 36 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 38 | [المره الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 40 | [حافظ علي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%81%d8%b8+%d8%b9%d9%84%d9%8a) | N/A |
-| 41 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 39 | [حافظ علي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%81%d8%b8+%d8%b9%d9%84%d9%8a) | N/A |
+| 40 | [الخيل التقليديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d9%87) | N/A |
+| 41 | [اللهم الجنه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
 | 42 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 43 | [اللهم الجنه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 43 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
 | 44 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 45 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 45 | [ليل نهار](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d9%86%d9%87%d8%a7%d8%b1) | N/A |
 | 46 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 47 | [الخيل التقليديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%84%d9%8a%d8%af%d9%8a%d9%87) | N/A |
-| 48 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 49 | [الدراجات الهواييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 50 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 47 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 48 | [ابو اليزن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%8a%d8%b2%d9%86) | N/A |
+| 49 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 50 | [صديقي العزيز](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 
 
 

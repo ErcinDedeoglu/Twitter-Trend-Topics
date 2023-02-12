@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-12 00:29:08 UTC`
+📆 Last Updated: `2023-02-12 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
-| 2 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 3 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 4 | [ROTA](http://twitter.com/search?q=ROTA) | N/A |
-| 5 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 6 | [Varmengo](http://twitter.com/search?q=Varmengo) | N/A |
-| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 8 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 9 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 10 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
-| 13 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 14 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 15 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 16 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 17 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
-| 18 | [PROUD OF HARRY](http://twitter.com/search?q=PROUD+OF+HARRY) | N/A |
-| 19 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 20 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 21 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
-| 22 | [BOTAFOGO DE FUTEBOL E REGATAS](http://twitter.com/search?q=BOTAFOGO+DE+FUTEBOL+E+REGATAS) | N/A |
-| 23 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
-| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 25 | [CRIA DA IVETE NO SPOTIFY](http://twitter.com/search?q=CRIA+DA+IVETE+NO+SPOTIFY) | N/A |
-| 26 | [CADÊ AMELIE](http://twitter.com/search?q=CAD%c3%8a+AMELIE) | N/A |
-| 27 | [MÚSICA DO CARNAVAL](http://twitter.com/search?q=M%c3%9aSICA+DO+CARNAVAL) | N/A |
-| 28 | [#PernambucanoMeuAmor](http://twitter.com/search?q=%23PernambucanoMeuAmor) | N/A |
-| 29 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 30 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
-| 31 | [Doce](http://twitter.com/search?q=Doce) | N/A |
-| 32 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 33 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
-| 34 | [#HOBIUARY](http://twitter.com/search?q=%23HOBIUARY) | N/A |
-| 35 | [AlphaTauri](http://twitter.com/search?q=AlphaTauri) | N/A |
-| 36 | [PROUD OF WHO](http://twitter.com/search?q=PROUD+OF+WHO) | N/A |
-| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 39 | [Everton Felipe](http://twitter.com/search?q=Everton+Felipe) | N/A |
+| 1 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
+| 2 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 3 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
+| 4 | [Canja](http://twitter.com/search?q=Canja) | N/A |
+| 5 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 6 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 7 | [FECHADOS COM KEY](http://twitter.com/search?q=FECHADOS+COM+KEY) | N/A |
+| 8 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 9 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 10 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
+| 13 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 15 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
+| 16 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
+| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 18 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
+| 19 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 20 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
+| 21 | [#PernambucanoMeuAmor](http://twitter.com/search?q=%23PernambucanoMeuAmor) | N/A |
+| 22 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 23 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 24 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 25 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
+| 26 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
+| 27 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 28 | [João Igor](http://twitter.com/search?q=Jo%c3%a3o+Igor) | N/A |
+| 29 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
+| 30 | [BOTAFOGO DE FUTEBOL E REGATAS](http://twitter.com/search?q=BOTAFOGO+DE+FUTEBOL+E+REGATAS) | N/A |
+| 31 | [Victor Ferraz](http://twitter.com/search?q=Victor+Ferraz) | N/A |
+| 32 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 33 | [PROUD OF HARRY](http://twitter.com/search?q=PROUD+OF+HARRY) | N/A |
+| 34 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 35 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 36 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
+| 37 | [CADÊ AMELIE](http://twitter.com/search?q=CAD%c3%8a+AMELIE) | N/A |
+| 38 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 39 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
 | 40 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 41 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 42 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 43 | [#askbllk](http://twitter.com/search?q=%23askbllk) | N/A |
-| 44 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 45 | [Bento Freitas](http://twitter.com/search?q=Bento+Freitas) | N/A |
-| 46 | [ELE AGRADECEU OS MENINOS](http://twitter.com/search?q=ELE+AGRADECEU+OS+MENINOS) | N/A |
-| 47 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 48 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 49 | [HARRY EDWARD STYLES](http://twitter.com/search?q=HARRY+EDWARD+STYLES) | N/A |
+| 41 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 42 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 43 | [Ewerthon](http://twitter.com/search?q=Ewerthon) | N/A |
+| 44 | [Renesmee](http://twitter.com/search?q=Renesmee) | N/A |
+| 45 | [Doce](http://twitter.com/search?q=Doce) | N/A |
+| 46 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 47 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
+| 48 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 49 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
 
 
 

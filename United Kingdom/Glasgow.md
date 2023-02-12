@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-12 00:28:59 UTC`
+📆 Last Updated: `2023-02-12 01:43:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 2 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 3 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 4 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 5 | [#AsOne](http://twitter.com/search?q=%23AsOne) | N/A |
-| 6 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
-| 7 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 8 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 9 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 10 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 11 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 13 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 14 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 15 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
-| 16 | [#AzimReyes](http://twitter.com/search?q=%23AzimReyes) | N/A |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 19 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 1 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 2 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 3 | [Finn Russell](http://twitter.com/search?q=Finn+Russell) | N/A |
+| 4 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 5 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 6 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 7 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 8 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 9 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 10 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 11 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 12 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
+| 13 | [#AzimReyes](http://twitter.com/search?q=%23AzimReyes) | N/A |
+| 14 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 16 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 17 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 18 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 19 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 20 | [#MaskedSingerUK](http://twitter.com/search?q=%23MaskedSingerUK) | #MaskedSingerUK is a British television show based on the South Korean format of the same name. Contestants perform in elaborate costumes and masks, with their identities hidden from the audience and judges. The show follows a guessing game format, with viewers attempting to guess the identity of each singer based on clues given throughout the show. |
-| 21 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 22 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
-| 23 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
+| 21 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
+| 22 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 23 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
 | 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 25 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
-| 26 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 27 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 28 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
-| 29 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
-| 30 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 31 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
-| 32 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
+| 25 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
+| 26 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
+| 27 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
+| 28 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 29 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 30 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
+| 31 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 32 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
 | 33 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 34 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
-| 35 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 36 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 37 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 34 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 35 | [Chelli](http://twitter.com/search?q=Chelli) | N/A |
+| 36 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 37 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
 | 38 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
 | 39 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
-| 40 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 41 | [Roman Kemp](http://twitter.com/search?q=Roman+Kemp) | N/A |
-| 42 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
-| 43 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 44 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
-| 45 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 46 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 47 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
-| 48 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 49 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 50 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 40 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
+| 41 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
+| 42 | [Sims](http://twitter.com/search?q=Sims) | N/A |
+| 43 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 44 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 45 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 46 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
+| 47 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 48 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 49 | [Jenkins](http://twitter.com/search?q=Jenkins) | N/A |
+| 50 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
 
 
 

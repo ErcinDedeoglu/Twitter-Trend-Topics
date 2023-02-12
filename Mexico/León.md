@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-12 00:29:03 UTC`
+📆 Last Updated: `2023-02-12 01:43:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 2 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 3 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 4 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 5 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 6 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 7 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 8 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 9 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
-| 10 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
-| 11 | [#SITEMEX](http://twitter.com/search?q=%23SITEMEX) | N/A |
-| 12 | [Liam y Zayn](http://twitter.com/search?q=Liam+y+Zayn) | N/A |
-| 13 | [Vamos América](http://twitter.com/search?q=Vamos+Am%c3%a9rica) | N/A |
-| 14 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 15 | [Vaca](http://twitter.com/search?q=Vaca) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 18 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
-| 19 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 20 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Al-Hilal](http://twitter.com/search?q=Al-Hilal) | N/A |
-| 23 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
-| 24 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 26 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 27 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 28 | [Fidel Castro](http://twitter.com/search?q=Fidel+Castro) | N/A |
-| 29 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 30 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 31 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 32 | [Fuera de México](http://twitter.com/search?q=Fuera+de+M%c3%a9xico) | N/A |
-| 33 | [Águila Azteca](http://twitter.com/search?q=%c3%81guila+Azteca) | N/A |
-| 34 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 35 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 36 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 37 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 38 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 39 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 40 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 43 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 44 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 45 | [#MexMode](http://twitter.com/search?q=%23MexMode) | N/A |
-| 46 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 47 | [#FMSEspaña](http://twitter.com/search?q=%23FMSEspa%c3%b1a) | N/A |
-| 48 | [#DiazCanelNoEresBienvenido](http://twitter.com/search?q=%23DiazCanelNoEresBienvenido) | N/A |
+| 1 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
+| 2 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 3 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 4 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 5 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 6 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 7 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 8 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 9 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 10 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 14 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
+| 15 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 16 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 17 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 18 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
+| 19 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 20 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 21 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 22 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 24 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 26 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 27 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 28 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 29 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 30 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 31 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 32 | [Objeto Volador No Identificado](http://twitter.com/search?q=Objeto+Volador+No+Identificado) | N/A |
+| 33 | [Liam y Zayn](http://twitter.com/search?q=Liam+y+Zayn) | N/A |
+| 34 | [Justin Trudeau](http://twitter.com/search?q=Justin+Trudeau) | N/A |
+| 35 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 36 | [Lillini](http://twitter.com/search?q=Lillini) | N/A |
+| 37 | [Vaca](http://twitter.com/search?q=Vaca) | N/A |
+| 38 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 39 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 40 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 41 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
+| 42 | [Lía Limón](http://twitter.com/search?q=L%c3%ada+Lim%c3%b3n) | N/A |
+| 43 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 44 | [Matisse](http://twitter.com/search?q=Matisse) | N/A |
+| 45 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 46 | [Balam](http://twitter.com/search?q=Balam) | N/A |
+| 47 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 48 | [Fidel Castro](http://twitter.com/search?q=Fidel+Castro) | N/A |
 
 
 

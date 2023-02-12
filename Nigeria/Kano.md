@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-12 00:29:27 UTC`
+📆 Last Updated: `2023-02-12 01:44:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 2 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
-| 3 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 4 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 5 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
-| 6 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 7 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 8 | [#BBTitians2023](http://twitter.com/search?q=%23BBTitians2023) | #BBTitians2023 is a hashtag used by fans of the NFL team, the Tennessee Titans, to show their support for the team in 2023. The hashtag stands for "Believe in the Titans 2023". |
-| 9 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
-| 10 | [#Rora](http://twitter.com/search?q=%23Rora) | N/A |
-| 11 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 12 | [Blackboi](http://twitter.com/search?q=Blackboi) | N/A |
-| 13 | [Yusuf Alabi](http://twitter.com/search?q=Yusuf+Alabi) | N/A |
-| 14 | [#BBTitansxFlutterwave](http://twitter.com/search?q=%23BBTitansxFlutterwave) | N/A |
-| 15 | [Obi of Onitsha](http://twitter.com/search?q=Obi+of+Onitsha) | N/A |
-| 16 | [#AskShola](http://twitter.com/search?q=%23AskShola) | N/A |
-| 17 | [Oba of Benin](http://twitter.com/search?q=Oba+of+Benin) | N/A |
-| 18 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
-| 19 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 20 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
-| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 23 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 24 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 25 | [Qudus](http://twitter.com/search?q=Qudus) | N/A |
-| 26 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 27 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
-| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 29 | [UNSTOPPABLE PHYNA](http://twitter.com/search?q=UNSTOPPABLE+PHYNA) | N/A |
-| 30 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 31 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 32 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 33 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
-| 34 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [#Yemicregx𓃵](http://twitter.com/search?q=%23Yemicregx%f0%93%83%b5) | N/A |
-| 37 | [#ObiDients](http://twitter.com/search?q=%23ObiDients) | N/A |
-| 38 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 39 | [#RIPAAKA](http://twitter.com/search?q=%23RIPAAKA) | N/A |
-| 40 | [#ObiIsComing](http://twitter.com/search?q=%23ObiIsComing) | N/A |
-| 41 | [#akaworldwide](http://twitter.com/search?q=%23akaworldwide) | N/A |
-| 42 | [#PeterObiInLagos](http://twitter.com/search?q=%23PeterObiInLagos) | N/A |
-| 43 | [#PMOLivesOn](http://twitter.com/search?q=%23PMOLivesOn) | N/A |
+| 1 | [#ObiDattiInLagos](http://twitter.com/search?q=%23ObiDattiInLagos) | N/A |
+| 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 3 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 4 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 5 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 6 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
+| 7 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 8 | [#ARSBRE](http://twitter.com/search?q=%23ARSBRE) | N/A |
+| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 13 | [Chrisland](http://twitter.com/search?q=Chrisland) | N/A |
+| 14 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
+| 15 | [RIP AKA](http://twitter.com/search?q=RIP+AKA) | N/A |
+| 16 | [#SoundcityMvpAwards](http://twitter.com/search?q=%23SoundcityMvpAwards) | N/A |
+| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 20 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 21 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 22 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 24 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 25 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 26 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 27 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
+| 28 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
+| 29 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [Blackboi](http://twitter.com/search?q=Blackboi) | N/A |
+| 32 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 33 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 35 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 36 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 37 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 38 | [City Boy](http://twitter.com/search?q=City+Boy) | N/A |
+| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 40 | [Qudus](http://twitter.com/search?q=Qudus) | N/A |
+| 41 | [Sunny](http://twitter.com/search?q=Sunny) | N/A |
+| 42 | [Blue and Khosi](http://twitter.com/search?q=Blue+and+Khosi) | N/A |
+| 43 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 44 | [FLOW WITH KANAGA JNR](http://twitter.com/search?q=FLOW+WITH+KANAGA+JNR) | N/A |
+| 45 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 46 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 47 | [Yusuf Alabi](http://twitter.com/search?q=Yusuf+Alabi) | N/A |
+| 48 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 49 | [UNSTOPPABLE PHYNA](http://twitter.com/search?q=UNSTOPPABLE+PHYNA) | N/A |
+| 50 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
 
 
 

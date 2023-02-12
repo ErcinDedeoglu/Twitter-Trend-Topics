@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-02-12 00:29:28 UTC`
+📆 Last Updated: `2023-02-12 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Egypt](</Egypt>)
 | ------- | ------------ | ------------ |
 | 1 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
 | 2 | [#الاهلي_فلامنجو](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%81%d9%84%d8%a7%d9%85%d9%86%d8%ac%d9%88) | N/A |
-| 3 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 4 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
+| 3 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
+| 4 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 5 | [معلول](http://twitter.com/search?q=%d9%85%d8%b9%d9%84%d9%88%d9%84) | N/A |
-| 6 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 7 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 6 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 7 | [#نهايي_كاس_العالم_الانديه](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 8 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 9 | [خالد عبد الفتاح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
 | 10 | [رابع العالم](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 11 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 12 | [فيدال](http://twitter.com/search?q=%d9%81%d9%8a%d8%af%d8%a7%d9%84) | N/A |
-| 13 | [مصطفى غربال](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
-| 14 | [فتحي حمدي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 11 | [فيدال](http://twitter.com/search?q=%d9%81%d9%8a%d8%af%d8%a7%d9%84) | N/A |
+| 12 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 13 | [فتحي حمدي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 14 | [مصطفى غربال](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%ba%d8%b1%d8%a8%d8%a7%d9%84) | N/A |
 | 15 | [محمد رغيف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%ba%d9%8a%d9%81) | N/A |
-| 16 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 17 | [#ارجع_بالبرونزيه_يا_اهلي](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%ac%d8%b9_%d8%a8%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d9%87_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 18 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 19 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 20 | [امير توفيق](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
-| 21 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 16 | [#ارجع_بالبرونزيه_يا_اهلي](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%ac%d8%b9_%d8%a8%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d9%86%d8%b2%d9%8a%d9%87_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 17 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 18 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 19 | [امير توفيق](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
+| 20 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 21 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
 | 22 | [الاخطاء الفرديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d9%87) | N/A |
-| 23 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 24 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
-| 25 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 26 | [مروان عطية](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d8%a9) | N/A |
-| 27 | [#ازاي_تخنق_جارك](http://twitter.com/search?q=%23%d8%a7%d8%b2%d8%a7%d9%8a_%d8%aa%d8%ae%d9%86%d9%82_%d8%ac%d8%a7%d8%b1%d9%83) | N/A |
-| 28 | [ابن اللعيبه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
-| 29 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 30 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 31 | [علي كولر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d9%88%d9%84%d8%b1) | N/A |
-| 32 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
-| 33 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
-| 34 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 35 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
-| 36 | [وست هام](http://twitter.com/search?q=%d9%88%d8%b3%d8%aa+%d9%87%d8%a7%d9%85) | N/A |
-| 37 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 38 | [كوره شريف](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 39 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 40 | [حسين لبيب](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%84%d8%a8%d9%8a%d8%a8) | N/A |
-| 41 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 42 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 43 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 44 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 45 | [برا النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 46 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
-| 47 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 23 | [مروان عطية](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d8%a9) | N/A |
+| 24 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 25 | [#ازاي_تخنق_جارك](http://twitter.com/search?q=%23%d8%a7%d8%b2%d8%a7%d9%8a_%d8%aa%d8%ae%d9%86%d9%82_%d8%ac%d8%a7%d8%b1%d9%83) | N/A |
+| 26 | [ابن اللعيبه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
+| 27 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 28 | [علي كولر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 29 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
+| 30 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
+| 31 | [حسين لبيب](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%84%d8%a8%d9%8a%d8%a8) | N/A |
+| 32 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 33 | [كوره شريف](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 34 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 35 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 36 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 37 | [برا النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
+| 38 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
+| 39 | [وست هام](http://twitter.com/search?q=%d9%88%d8%b3%d8%aa+%d9%87%d8%a7%d9%85) | N/A |
+| 40 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
+| 41 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 42 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 43 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 44 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 45 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 46 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
+| 47 | [جول عالمي](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 48 | [مركز رابع](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 49 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 50 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 49 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [عيد العمال](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-02-12 00:29:19 UTC`
+📆 Last Updated: `2023-02-12 01:43:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 4 | [Speers](http://twitter.com/search?q=Speers) | N/A |
 | 5 | [#SydneyDerby](http://twitter.com/search?q=%23SydneyDerby) | N/A |
-| 6 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 7 | [#WSWvSYD](http://twitter.com/search?q=%23WSWvSYD) | N/A |
-| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 9 | [Jim Chalmers](http://twitter.com/search?q=Jim+Chalmers) | N/A |
-| 10 | [Phil Coorey](http://twitter.com/search?q=Phil+Coorey) | N/A |
-| 11 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 6 | [Jack Jenkins](http://twitter.com/search?q=Jack+Jenkins) | N/A |
+| 7 | [#NRLAllStars](http://twitter.com/search?q=%23NRLAllStars) | N/A |
+| 8 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 10 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 11 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 12 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 13 | [Coorey](http://twitter.com/search?q=Coorey) | N/A |
+| 14 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 15 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 16 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 18 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [anamoe](http://twitter.com/search?q=anamoe) | N/A |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 23 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 24 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 25 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 18 | [lewis capaldi](http://twitter.com/search?q=lewis+capaldi) | N/A |
+| 19 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 22 | [Jim Chalmers](http://twitter.com/search?q=Jim+Chalmers) | N/A |
+| 23 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
+| 24 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 25 | [Volk](http://twitter.com/search?q=Volk) | N/A |
 | 26 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 27 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
-| 28 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
-| 29 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 30 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
-| 31 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 27 | [Derryn](http://twitter.com/search?q=Derryn) | N/A |
+| 28 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 29 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 30 | [doomben](http://twitter.com/search?q=doomben) | N/A |
+| 31 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 32 | [Gentleman Roy](http://twitter.com/search?q=Gentleman+Roy) | N/A |
 | 33 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 34 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 35 | [doomben](http://twitter.com/search?q=doomben) | N/A |
-| 36 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 37 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 38 | [charm stone](http://twitter.com/search?q=charm+stone) | N/A |
-| 39 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 40 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 41 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 43 | [Jacquinot](http://twitter.com/search?q=Jacquinot) | N/A |
-| 44 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 45 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
-| 46 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 47 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 49 | [Rudan](http://twitter.com/search?q=Rudan) | N/A |
-| 50 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 35 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 36 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 37 | [charm stone](http://twitter.com/search?q=charm+stone) | N/A |
+| 38 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 39 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 40 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 41 | [North America](http://twitter.com/search?q=North+America) | N/A |
+| 42 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
+| 43 | [Tuncurry](http://twitter.com/search?q=Tuncurry) | N/A |
+| 44 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 45 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 46 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 48 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 49 | [western united](http://twitter.com/search?q=western+united) | N/A |
+| 50 | [Sydney fc](http://twitter.com/search?q=Sydney+fc) | N/A |
 
 
 
