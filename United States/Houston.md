@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-11 23:16:48 UTC`
+📆 Last Updated: `2023-02-12 00:29:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 2 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 3 | [#LiteracyMatters](http://twitter.com/search?q=%23LiteracyMatters) | N/A |
-| 4 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 5 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 8 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 9 | [#LoveIsBlindAftertheAltar](http://twitter.com/search?q=%23LoveIsBlindAftertheAltar) | N/A |
-| 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 12 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 13 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 3 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 4 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 8 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 9 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 10 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 12 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 13 | [Gard](http://twitter.com/search?q=Gard) | N/A |
 | 14 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
-| 15 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 16 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 17 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 18 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 19 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 20 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
-| 21 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 22 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 23 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 25 | [Northern Canada](http://twitter.com/search?q=Northern+Canada) | N/A |
-| 26 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 27 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
-| 28 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 29 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 30 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 31 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 32 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 33 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 34 | [Greg Ward](http://twitter.com/search?q=Greg+Ward) | N/A |
-| 35 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 38 | [Creamy](http://twitter.com/search?q=Creamy) | N/A |
-| 39 | [Alex Reyes](http://twitter.com/search?q=Alex+Reyes) | N/A |
-| 40 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 41 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 42 | [Chunky](http://twitter.com/search?q=Chunky) | N/A |
-| 43 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 44 | [Dariq](http://twitter.com/search?q=Dariq) | N/A |
-| 45 | [Liam Robbins](http://twitter.com/search?q=Liam+Robbins) | N/A |
-| 46 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
-| 47 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 48 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 49 | [AVATRICE BEDROOM SCRIPT](http://twitter.com/search?q=AVATRICE+BEDROOM+SCRIPT) | N/A |
-| 50 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
+| 15 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 16 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 17 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
+| 18 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 19 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
+| 20 | [Tukhugov](http://twitter.com/search?q=Tukhugov) | N/A |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
+| 23 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 24 | [Elise Reed](http://twitter.com/search?q=Elise+Reed) | N/A |
+| 25 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 26 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 27 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 28 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 29 | [Blake Bilder](http://twitter.com/search?q=Blake+Bilder) | N/A |
+| 30 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 31 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 32 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 33 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 34 | [Brener](http://twitter.com/search?q=Brener) | N/A |
+| 35 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 36 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 37 | [Patty Mills](http://twitter.com/search?q=Patty+Mills) | N/A |
+| 38 | [BJ Edwards](http://twitter.com/search?q=BJ+Edwards) | N/A |
+| 39 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 40 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
+| 41 | [Portland State](http://twitter.com/search?q=Portland+State) | N/A |
+| 42 | [Clooney](http://twitter.com/search?q=Clooney) | N/A |
+| 43 | [Shane Young](http://twitter.com/search?q=Shane+Young) | N/A |
+| 44 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 45 | [Blanchfield](http://twitter.com/search?q=Blanchfield) | N/A |
+| 46 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 47 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 48 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
+| 49 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 50 | [Roach](http://twitter.com/search?q=Roach) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-11 23:16:33 UTC`
+📆 Last Updated: `2023-02-12 00:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,40 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
-| 2 | [#tempestathma2022](http://twitter.com/search?q=%23tempestathma2022) | N/A |
-| 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 4 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 1 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 2 | [#ForeverWithBible](http://twitter.com/search?q=%23ForeverWithBible) | N/A |
+| 3 | [WE STAY WITH BIBLE](http://twitter.com/search?q=WE+STAY+WITH+BIBLE) | N/A |
+| 4 | [#TEMPEST](http://twitter.com/search?q=%23TEMPEST) | N/A |
 | 5 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
 | 6 | [#ThePreciousTimeinVietnam](http://twitter.com/search?q=%23ThePreciousTimeinVietnam) | N/A |
 | 7 | [#AlwaysWithYou](http://twitter.com/search?q=%23AlwaysWithYou) | N/A |
 | 8 | [WITH BUILD UNTIL THE END](http://twitter.com/search?q=WITH+BUILD+UNTIL+THE+END) | N/A |
 | 9 | [LALISA AT CELINE LEPALACE](http://twitter.com/search?q=LALISA+AT+CELINE+LEPALACE) | N/A |
-| 10 | [NGÓN TAY ÚT CỦA JIMIN SSI](http://twitter.com/search?q=NG%c3%93N+TAY+%c3%9aT+C%e1%bb%a6A+JIMIN+SSI) | N/A |
+| 10 | [ngón tay út của jimin ssi](http://twitter.com/search?q=ng%c3%b3n+tay+%c3%bat+c%e1%bb%a7a+jimin+ssi) | N/A |
 | 11 | [GULF TO JAPAN](http://twitter.com/search?q=GULF+TO+JAPAN) | N/A |
 | 12 | [4 YEARS WITH KARINA](http://twitter.com/search?q=4+YEARS+WITH+KARINA) | N/A |
-| 13 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
-| 14 | [BIRTHDAY FAN MEETING](http://twitter.com/search?q=BIRTHDAY+FAN+MEETING) | N/A |
+| 13 | [mew suppasit 2023](http://twitter.com/search?q=mew+suppasit+2023) | N/A |
+| 14 | [birthday fan meeting](http://twitter.com/search?q=birthday+fan+meeting) | N/A |
 | 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
-| 17 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 16 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 17 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
 | 18 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
 | 19 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
 | 20 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
 | 21 | [$pit](http://twitter.com/search?q=%24pit) | N/A |
 | 22 | [5 $APT](http://twitter.com/search?q=5+%24APT) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 25 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
-| 26 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
-| 27 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 28 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 29 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 30 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 31 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 32 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
-| 33 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 34 | [Welcome to VietNam](http://twitter.com/search?q=Welcome+to+VietNam) | N/A |
+| 23 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 26 | [netflix eggsplain](http://twitter.com/search?q=netflix+eggsplain) | N/A |
+| 27 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
+| 28 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 29 | [Bang](http://twitter.com/search?q=Bang) | N/A |
+| 30 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 31 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 33 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
+| 34 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
 | 35 | [herrscher of origin](http://twitter.com/search?q=herrscher+of+origin) | N/A |
 | 36 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 37 | [herrscher of finality](http://twitter.com/search?q=herrscher+of+finality) | N/A |

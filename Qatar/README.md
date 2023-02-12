@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-11 23:17:00 UTC`
+📆 Last Updated: `2023-02-12 00:29:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [#الهلال_ريال_مدريد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 | 2 | [#زلزال_تركيا_وسوريا](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d8%aa%d8%b1%d9%83%d9%8a%d8%a7_%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 3 | [#البزنس67](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b367) | N/A |
-| 4 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
-| 5 | [#عون_و_سند](http://twitter.com/search?q=%23%d8%b9%d9%88%d9%86_%d9%88_%d8%b3%d9%86%d8%af) | N/A |
-| 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 7 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 3 | [غانم السليطي](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
+| 4 | [#عون_و_سند](http://twitter.com/search?q=%23%d8%b9%d9%88%d9%86_%d9%88_%d8%b3%d9%86%d8%af) | N/A |
+| 5 | [#البزنس67](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b367) | N/A |
+| 6 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 7 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 8 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
 | 9 | [#اليوم_الرياضي_قطر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
 | 10 | [فايز التوش](http://twitter.com/search?q=%d9%81%d8%a7%d9%8a%d8%b2+%d8%a7%d9%84%d8%aa%d9%88%d8%b4) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Qatar
 | 35 | [غازي عنتاب](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b9%d9%86%d8%aa%d8%a7%d8%a8) | N/A |
 | 36 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [الفيه التاهيليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d9%87%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 39 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 40 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
-| 41 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 44 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 45 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 46 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
-| 47 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 48 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 49 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 50 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
+| 38 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 39 | [المناطق المنكوبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%a8%d9%87) | N/A |
+| 40 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 43 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 44 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 45 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 46 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 47 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 48 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 49 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
+| 50 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 
 
 

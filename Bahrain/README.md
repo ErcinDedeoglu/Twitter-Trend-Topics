@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-02-11 23:16:55 UTC`
+📆 Last Updated: `2023-02-12 00:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,16 +40,16 @@ This is top 50 for Bahrain
 | 23 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
 | 24 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 25 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 26 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 27 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 28 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 29 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 30 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 31 | [علي الفاضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%8a) | N/A |
-| 32 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 33 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
-| 34 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 35 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 26 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 27 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 28 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 29 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 30 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 31 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 32 | [علي الفاضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%8a) | N/A |
+| 33 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 34 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
+| 35 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 36 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 37 | [راشد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af) | راشد is an Arabic name meaning "rightly guided" or "wise". It is also used as a surname. |
 | 38 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |

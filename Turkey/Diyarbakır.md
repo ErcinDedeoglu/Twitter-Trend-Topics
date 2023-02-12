@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-11 23:16:44 UTC`
+📆 Last Updated: `2023-02-12 00:29:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
+| 1 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
 | 2 | [#yurtlar](http://twitter.com/search?q=%23yurtlar) | N/A |
-| 3 | [#yapmayın](http://twitter.com/search?q=%23yapmay%c4%b1n) | N/A |
-| 4 | [#DevletiminYanındayım](http://twitter.com/search?q=%23DevletiminYan%c4%b1nday%c4%b1m) | N/A |
-| 5 | [TahaDuymazdan HaberBekliyoruz](http://twitter.com/search?q=TahaDuymazdan+HaberBekliyoruz) | N/A |
-| 6 | [TahaDuymaza AcilYardım](http://twitter.com/search?q=TahaDuymaza+AcilYard%c4%b1m) | N/A |
+| 3 | [#uzaktan](http://twitter.com/search?q=%23uzaktan) | N/A |
+| 4 | [#yapmayın](http://twitter.com/search?q=%23yapmay%c4%b1n) | N/A |
+| 5 | [TahaDuymaza AcilYardım](http://twitter.com/search?q=TahaDuymaza+AcilYard%c4%b1m) | N/A |
+| 6 | [TahaDuymazdan HaberBekliyoruz](http://twitter.com/search?q=TahaDuymazdan+HaberBekliyoruz) | N/A |
 | 7 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 | 8 | [Muhammet](http://twitter.com/search?q=Muhammet) | N/A |
 | 9 | [Zeki](http://twitter.com/search?q=Zeki) | N/A |
 | 10 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 11 | [Bakanlık](http://twitter.com/search?q=Bakanl%c4%b1k) | N/A |
+| 11 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
 | 12 | [Mahalle](http://twitter.com/search?q=Mahalle) | N/A |
-| 13 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 14 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 15 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
-| 16 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 17 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
-| 18 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 19 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
-| 20 | [İstanbulİçin YapıDenetimi](http://twitter.com/search?q=%c4%b0stanbul%c4%b0%c3%a7in+Yap%c4%b1Denetimi) | N/A |
+| 13 | [Bakanlık](http://twitter.com/search?q=Bakanl%c4%b1k) | N/A |
+| 14 | [Saçını](http://twitter.com/search?q=Sa%c3%a7%c4%b1n%c4%b1) | N/A |
+| 15 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
+| 16 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 17 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 18 | [Tekbir](http://twitter.com/search?q=Tekbir) | N/A |
+| 19 | [İstanbulİçin YapıDenetimi](http://twitter.com/search?q=%c4%b0stanbul%c4%b0%c3%a7in+Yap%c4%b1Denetimi) | N/A |
+| 20 | [TOKİ](http://twitter.com/search?q=TOK%c4%b0) | N/A |
 | 21 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 22 | [Trafik](http://twitter.com/search?q=Trafik) | N/A |
-| 23 | [Hukuk](http://twitter.com/search?q=Hukuk) | N/A |
-| 24 | [Kahramanmaraşİçin KefenVeSu](http://twitter.com/search?q=Kahramanmara%c5%9f%c4%b0%c3%a7in+KefenVeSu) | N/A |
-| 25 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 26 | [Kemer](http://twitter.com/search?q=Kemer) | N/A |
-| 27 | [Binali](http://twitter.com/search?q=Binali) | N/A |
-| 28 | [Abdülkerim](http://twitter.com/search?q=Abd%c3%bclkerim) | Abdülkerim is a Turkish name, derived from the Arabic name Abdul Karim. It means "servant of the Generous One". |
-| 29 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 30 | [Atam](http://twitter.com/search?q=Atam) | N/A |
-| 31 | [MobilTuvalet HijyenÜrünleri](http://twitter.com/search?q=MobilTuvalet+Hijyen%c3%9cr%c3%bcnleri) | N/A |
+| 22 | [Turizm](http://twitter.com/search?q=Turizm) | N/A |
+| 23 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 24 | [Trafik](http://twitter.com/search?q=Trafik) | N/A |
+| 25 | [Binali](http://twitter.com/search?q=Binali) | N/A |
+| 26 | [Atam](http://twitter.com/search?q=Atam) | N/A |
+| 27 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
+| 28 | [Kemer](http://twitter.com/search?q=Kemer) | N/A |
+| 29 | [Saray](http://twitter.com/search?q=Saray) | N/A |
+| 30 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 31 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
 | 32 | [Oteller](http://twitter.com/search?q=Oteller) | N/A |
-| 33 | [Asmolen](http://twitter.com/search?q=Asmolen) | N/A |
-| 34 | [Turizm](http://twitter.com/search?q=Turizm) | N/A |
-| 35 | [PişikKremi BebekBezi](http://twitter.com/search?q=Pi%c5%9fikKremi+BebekBezi) | N/A |
-| 36 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
-| 37 | [Saray](http://twitter.com/search?q=Saray) | N/A |
-| 38 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 39 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 40 | [PROVOKATÖR OĞUZHAN](http://twitter.com/search?q=PROVOKAT%c3%96R+O%c4%9eUZHAN) | N/A |
-| 41 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 42 | [Delilleri](http://twitter.com/search?q=Delilleri) | N/A |
-| 43 | [Hakkınız](http://twitter.com/search?q=Hakk%c4%b1n%c4%b1z) | N/A |
-| 44 | [Gelmeyin](http://twitter.com/search?q=Gelmeyin) | N/A |
-| 45 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 46 | [Duyar](http://twitter.com/search?q=Duyar) | N/A |
-| 47 | [Ellerinden](http://twitter.com/search?q=Ellerinden) | N/A |
-| 48 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 49 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
+| 33 | [Depremin 6](http://twitter.com/search?q=Depremin+6) | N/A |
+| 34 | [Asmolen](http://twitter.com/search?q=Asmolen) | N/A |
+| 35 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 36 | [Duyar](http://twitter.com/search?q=Duyar) | N/A |
+| 37 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 38 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 39 | [MobilTuvalet HijyenÜrünleri](http://twitter.com/search?q=MobilTuvalet+Hijyen%c3%9cr%c3%bcnleri) | N/A |
+| 40 | [PişikKremi BebekBezi](http://twitter.com/search?q=Pi%c5%9fikKremi+BebekBezi) | N/A |
+| 41 | [Gelmeyin](http://twitter.com/search?q=Gelmeyin) | N/A |
+| 42 | [Hakkınız](http://twitter.com/search?q=Hakk%c4%b1n%c4%b1z) | N/A |
+| 43 | [Ellerinden](http://twitter.com/search?q=Ellerinden) | N/A |
+| 44 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 45 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
+| 46 | [Delil](http://twitter.com/search?q=Delil) | N/A |
+| 47 | [Çözüm](http://twitter.com/search?q=%c3%87%c3%b6z%c3%bcm) | N/A |
+| 48 | [Pandemi](http://twitter.com/search?q=Pandemi) | N/A |
+| 49 | [Yakup](http://twitter.com/search?q=Yakup) | N/A |
 
 
 

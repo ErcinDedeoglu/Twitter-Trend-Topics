@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-11 23:16:54 UTC`
+📆 Last Updated: `2023-02-12 00:29:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SSTR2023](http://twitter.com/search?q=%23SSTR2023) | N/A |
-| 2 | [#二時から日テレで福岡くん](http://twitter.com/search?q=%23%e4%ba%8c%e6%99%82%e3%81%8b%e3%82%89%e6%97%a5%e3%83%86%e3%83%ac%e3%81%a7%e7%a6%8f%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
-| 3 | [#日曜報道THEPRIME](http://twitter.com/search?q=%23%e6%97%a5%e6%9b%9c%e5%a0%b1%e9%81%93THEPRIME) | N/A |
-| 4 | [#ボクらの時代](http://twitter.com/search?q=%23%e3%83%9c%e3%82%af%e3%82%89%e3%81%ae%e6%99%82%e4%bb%a3) | N/A |
-| 5 | [#お前らたまにはアイコンらしいこと言えよ](http://twitter.com/search?q=%23%e3%81%8a%e5%89%8d%e3%82%89%e3%81%9f%e3%81%be%e3%81%ab%e3%81%af%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%82%89%e3%81%97%e3%81%84%e3%81%93%e3%81%a8%e8%a8%80%e3%81%88%e3%82%88) | N/A |
-| 6 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 7 | [ブラジャーの日](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 8 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 9 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
-| 10 | [アルカナフォース](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%8a%e3%83%95%e3%82%a9%e3%83%bc%e3%82%b9) | N/A |
-| 11 | [マン凸りな](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e5%87%b8%e3%82%8a%e3%81%aa) | N/A |
-| 12 | [アルヒラル](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%92%e3%83%a9%e3%83%ab) | N/A |
-| 13 | [第387回](http://twitter.com/search?q=%e7%ac%ac387%e5%9b%9e) | N/A |
-| 14 | [アンテン様](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%86%e3%83%b3%e6%a7%98) | N/A |
-| 15 | [サンライズ・サンセット・ツーリングラリー](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%ba%e3%83%bb%e3%82%b5%e3%83%b3%e3%82%bb%e3%83%83%e3%83%88%e3%83%bb%e3%83%84%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
-| 16 | [ユウディアス](http://twitter.com/search?q=%e3%83%a6%e3%82%a6%e3%83%87%e3%82%a3%e3%82%a2%e3%82%b9) | N/A |
-| 17 | [リュディガー](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%87%e3%82%a3%e3%82%ac%e3%83%bc) | N/A |
-| 18 | [未確認飛行物体](http://twitter.com/search?q=%e6%9c%aa%e7%a2%ba%e8%aa%8d%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93) | N/A |
-| 19 | [セバージョス](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%82%b9) | N/A |
-| 20 | [天音くん](http://twitter.com/search?q=%e5%a4%a9%e9%9f%b3%e3%81%8f%e3%82%93) | N/A |
-| 21 | [ボンカレー](http://twitter.com/search?q=%e3%83%9c%e3%83%b3%e3%82%ab%e3%83%ac%e3%83%bc) | N/A |
-| 22 | [支給100万円](http://twitter.com/search?q=%e6%94%af%e7%b5%a6100%e4%b8%87%e5%86%86) | N/A |
-| 23 | [エントリー完了](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e5%ae%8c%e4%ba%86) | N/A |
-| 24 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 25 | [京都記念](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e8%a8%98%e5%bf%b5) | 京都記念 is a Japanese holiday that commemorates the establishment of Kyoto as the capital of Japan in 794. It is celebrated on October 22nd each year. In English, it is known as Kyoto Memorial Day. |
-| 26 | [レトルトカレーの日](http://twitter.com/search?q=%e3%83%ac%e3%83%88%e3%83%ab%e3%83%88%e3%82%ab%e3%83%ac%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 27 | [ペニシリンの日](http://twitter.com/search?q=%e3%83%9a%e3%83%8b%e3%82%b7%e3%83%aa%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
-| 28 | [クラブワールドカップ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%96%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 29 | [間宮くん](http://twitter.com/search?q=%e9%96%93%e5%ae%ae%e3%81%8f%e3%82%93) | N/A |
-| 30 | [共同通信杯](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e6%9d%af) | N/A |
-| 31 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
-| 32 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
-| 33 | [Wordle 603](http://twitter.com/search?q=Wordle+603) | N/A |
-| 34 | [チュアメニ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%82%a2%e3%83%a1%e3%83%8b) | N/A |
-| 35 | [キープガチャ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%97%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 36 | [ダーウィンの日](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
-| 37 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
-| 38 | [クロース](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%bc%e3%82%b9) | N/A |
-| 39 | [海浜幕張](http://twitter.com/search?q=%e6%b5%b7%e6%b5%9c%e5%b9%95%e5%bc%b5) | N/A |
-| 40 | [バルベルデ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%99%e3%83%ab%e3%83%87) | N/A |
-| 41 | [間宮祥太朗](http://twitter.com/search?q=%e9%96%93%e5%ae%ae%e7%a5%a5%e5%a4%aa%e6%9c%97) | N/A |
-| 42 | [物価高騰対策](http://twitter.com/search?q=%e7%89%a9%e4%be%a1%e9%ab%98%e9%a8%b0%e5%af%be%e7%ad%96) | N/A |
-| 43 | [とうさんといっしょ](http://twitter.com/search?q=%e3%81%a8%e3%81%86%e3%81%95%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%97%e3%82%87) | N/A |
-| 44 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
-| 45 | [モドリッチ](http://twitter.com/search?q=%e3%83%a2%e3%83%89%e3%83%aa%e3%83%83%e3%83%81) | N/A |
-| 46 | [ビエット](http://twitter.com/search?q=%e3%83%93%e3%82%a8%e3%83%83%e3%83%88) | N/A |
-| 47 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 48 | [レアル・マドリード](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%83%ab%e3%83%bb%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc%e3%83%89) | N/A |
-| 49 | [ダイレクトパス](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88%e3%83%91%e3%82%b9) | N/A |
+| 1 | [#公明党がやる](http://twitter.com/search?q=%23%e5%85%ac%e6%98%8e%e5%85%9a%e3%81%8c%e3%82%84%e3%82%8b) | N/A |
+| 2 | [#子育てに安心を](http://twitter.com/search?q=%23%e5%ad%90%e8%82%b2%e3%81%a6%e3%81%ab%e5%ae%89%e5%bf%83%e3%82%92) | N/A |
+| 3 | [#BiSHバイバイ](http://twitter.com/search?q=%23BiSH%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4) | N/A |
+| 4 | [キープガチャ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%97%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 5 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
+| 6 | [#大阪オートメッセ2023](http://twitter.com/search?q=%23%e5%a4%a7%e9%98%aa%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a1%e3%83%83%e3%82%bb2023) | N/A |
+| 7 | [#OAM2023](http://twitter.com/search?q=%23OAM2023) | N/A |
+| 8 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 9 | [リコリコ新作](http://twitter.com/search?q=%e3%83%aa%e3%82%b3%e3%83%aa%e3%82%b3%e6%96%b0%e4%bd%9c) | N/A |
+| 10 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 11 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 12 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 13 | [ばあちゃん何者](http://twitter.com/search?q=%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e4%bd%95%e8%80%85) | N/A |
+| 14 | [デザスター](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b9%e3%82%bf%e3%83%bc) | デザスター is a Japanese term that refers to a designer or stylist. It is often used to refer to someone who designs clothing, hairstyles, or makeup. In English, it can be translated as "designer" or "stylist". |
+| 15 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 16 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 17 | [他のプリキュア](http://twitter.com/search?q=%e4%bb%96%e3%81%ae%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 18 | [ゲームマスター](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | ゲームマスター (Game Master) is a term used in role-playing games and other types of gaming to refer to the person who is responsible for setting up and running the game. They are responsible for creating the game world, setting up rules, and refereeing disputes between players. In English, it can be translated as "Game Master". |
+| 19 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 20 | [ジャマト](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%88) | ジャマト is a Japanese word that means "jammed" or "stuck". It is often used to describe something that is stuck in a tight space or stuck in a difficult situation. |
+| 21 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [本物のヒーロー](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 23 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 24 | [ソラまし](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%be%e3%81%97) | N/A |
+| 25 | [グレア2](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%82%a22) | N/A |
+| 26 | [大回転プリキュア返し](http://twitter.com/search?q=%e5%a4%a7%e5%9b%9e%e8%bb%a2%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e8%bf%94%e3%81%97) | N/A |
+| 27 | [クマフェス](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 28 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 29 | [タイクーン](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%82%af%e3%83%bc%e3%83%b3) | タイクーン (taikūn) is a Japanese word that means "tycoon" or "magnate". It is used to refer to someone who has achieved great success in business or industry. |
+| 30 | [ブラジャーの日](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%a3%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 31 | [未確認飛行物体](http://twitter.com/search?q=%e6%9c%aa%e7%a2%ba%e8%aa%8d%e9%a3%9b%e8%a1%8c%e7%89%a9%e4%bd%93) | N/A |
+| 32 | [歴代プリキュア](http://twitter.com/search?q=%e6%ad%b4%e4%bb%a3%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 33 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 34 | [ヴィジョンドライバー](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%89%e3%83%a9%e3%82%a4%e3%83%90%e3%83%bc) | N/A |
+| 35 | [元プリキュア](http://twitter.com/search?q=%e5%85%83%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 36 | [景和くん](http://twitter.com/search?q=%e6%99%af%e5%92%8c%e3%81%8f%e3%82%93) | N/A |
+| 37 | [粉ミルク](http://twitter.com/search?q=%e7%b2%89%e3%83%9f%e3%83%ab%e3%82%af) | N/A |
+| 38 | [水江くん](http://twitter.com/search?q=%e6%b0%b4%e6%b1%9f%e3%81%8f%e3%82%93) | N/A |
+| 39 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
+| 40 | [ましろ姫](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e5%a7%ab) | N/A |
+| 41 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
+| 42 | [チラミさん](http://twitter.com/search?q=%e3%83%81%e3%83%a9%e3%83%9f%e3%81%95%e3%82%93) | N/A |
+| 43 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 44 | [ワンホビ36展示ギャラリー](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%9b%e3%83%9336%e5%b1%95%e7%a4%ba%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
+| 45 | [クオーツモン](http://twitter.com/search?q=%e3%82%af%e3%82%aa%e3%83%bc%e3%83%84%e3%83%a2%e3%83%b3) | N/A |
+| 46 | [プリキュアの時間](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e3%81%ae%e6%99%82%e9%96%93) | N/A |
+| 47 | [ねおんちゃん](http://twitter.com/search?q=%e3%81%ad%e3%81%8a%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [ナッジスパロウ](http://twitter.com/search?q=%e3%83%8a%e3%83%83%e3%82%b8%e3%82%b9%e3%83%91%e3%83%ad%e3%82%a6) | N/A |
+| 49 | [祢音ちゃん](http://twitter.com/search?q=%e7%a5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

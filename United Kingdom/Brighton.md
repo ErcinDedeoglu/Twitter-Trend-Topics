@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-02-11 23:16:05 UTC`
+📆 Last Updated: `2023-02-12 00:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 2 | [#michaelmcintyresbigshow](http://twitter.com/search?q=%23michaelmcintyresbigshow) | N/A |
-| 3 | [Nova Twins](http://twitter.com/search?q=Nova+Twins) | N/A |
-| 4 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 5 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
-| 6 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
-| 7 | [#BOUNEW](http://twitter.com/search?q=%23BOUNEW) | N/A |
-| 8 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
-| 11 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 12 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
+| 1 | [Nova Twins](http://twitter.com/search?q=Nova+Twins) | N/A |
+| 2 | [Mimi Webb](http://twitter.com/search?q=Mimi+Webb) | N/A |
+| 3 | [Fawn](http://twitter.com/search?q=Fawn) | Fawn is a light brown color, usually associated with the color of a young deer. It is also used as a verb to describe the behavior of an animal or person who shows fear or nervousness. |
+| 4 | [Denny](http://twitter.com/search?q=Denny) | N/A |
+| 5 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 6 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 8 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 9 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
+| 10 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
+| 11 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
+| 12 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
 | 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 14 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 15 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 16 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 17 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 19 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 16 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 17 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 18 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 20 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 23 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 21 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 22 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
+| 23 | [#AzimReyes](http://twitter.com/search?q=%23AzimReyes) | N/A |
 | 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 25 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 26 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
 | 27 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
 | 28 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
-| 29 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 29 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
 | 30 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
-| 31 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 31 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
 | 32 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
 | 33 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
-| 34 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 35 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
-| 36 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
-| 37 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
-| 38 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 39 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 40 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
-| 41 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 42 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 43 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
-| 44 | [Sims](http://twitter.com/search?q=Sims) | N/A |
-| 45 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
-| 46 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 47 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 48 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
-| 49 | [MNEK](http://twitter.com/search?q=MNEK) | N/A |
+| 34 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
+| 35 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 36 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
+| 37 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
+| 38 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 39 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
+| 40 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 41 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 42 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 43 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 44 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
+| 45 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 46 | [Roman Kemp](http://twitter.com/search?q=Roman+Kemp) | N/A |
+| 47 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
+| 48 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 49 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
 
 
 
