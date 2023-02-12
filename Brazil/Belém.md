@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-12 19:15:51 UTC`
+📆 Last Updated: `2023-02-12 20:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 2 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 3 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 5 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 6 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 7 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
-| 8 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 9 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 10 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
-| 11 | [#SpotifyAbreOCadeado](http://twitter.com/search?q=%23SpotifyAbreOCadeado) | N/A |
-| 12 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 13 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 15 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
-| 16 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
-| 17 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 18 | [ONZE ANOS REZENDEEVIL](http://twitter.com/search?q=ONZE+ANOS+REZENDEEVIL) | N/A |
-| 19 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 20 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 21 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 22 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
-| 23 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
-| 26 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
-| 27 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 30 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 31 | [Lucian](http://twitter.com/search?q=Lucian) | N/A |
-| 32 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 33 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 34 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 35 | [Amazonino Mendes](http://twitter.com/search?q=Amazonino+Mendes) | N/A |
-| 36 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 37 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 38 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 39 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 40 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 41 | [Maneirinho](http://twitter.com/search?q=Maneirinho) | N/A |
-| 42 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 43 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 44 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 45 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 46 | [Staff](http://twitter.com/search?q=Staff) | N/A |
-| 47 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 48 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 49 | [Kabum](http://twitter.com/search?q=Kabum) | N/A |
-| 50 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 1 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 2 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 3 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 4 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 7 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 8 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 9 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 10 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
+| 11 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 12 | [#JoshAndTate](http://twitter.com/search?q=%23JoshAndTate) | N/A |
+| 13 | [Matuê](http://twitter.com/search?q=Matu%c3%aa) | N/A |
+| 14 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
+| 15 | [Fernando Fernandes](http://twitter.com/search?q=Fernando+Fernandes) | N/A |
+| 16 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 17 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 18 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
+| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 20 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 21 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
+| 22 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 25 | [FOP NO DOMINGAO](http://twitter.com/search?q=FOP+NO+DOMINGAO) | N/A |
+| 26 | [Maneirinho](http://twitter.com/search?q=Maneirinho) | N/A |
+| 27 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 28 | [ONZE ANOS REZENDEEVIL](http://twitter.com/search?q=ONZE+ANOS+REZENDEEVIL) | N/A |
+| 29 | [#SpotifyAbreOCadeado](http://twitter.com/search?q=%23SpotifyAbreOCadeado) | N/A |
+| 30 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 31 | [#BasqueteNaESPN](http://twitter.com/search?q=%23BasqueteNaESPN) | N/A |
+| 32 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
+| 33 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
+| 34 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 35 | [filipe ret](http://twitter.com/search?q=filipe+ret) | N/A |
+| 36 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 38 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 39 | [Avenida](http://twitter.com/search?q=Avenida) | Avenida is a Spanish word meaning "avenue" or "street". It is commonly used in Latin American countries to refer to a wide, main street or boulevard. |
+| 40 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 41 | [O Circo](http://twitter.com/search?q=O+Circo) | N/A |
+| 42 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 43 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 44 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 45 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
+| 46 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 47 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 48 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 49 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
+| 50 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
 
 
 

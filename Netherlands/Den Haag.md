@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-12 19:15:59 UTC`
+📆 Last Updated: `2023-02-12 20:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#ajarkc](http://twitter.com/search?q=%23ajarkc) | N/A |
 | 2 | [#heefey](http://twitter.com/search?q=%23heefey) | N/A |
-| 3 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 3 | [#OnzeManbijdeTaliban](http://twitter.com/search?q=%23OnzeManbijdeTaliban) | N/A |
 | 4 | [#vitutr](http://twitter.com/search?q=%23vitutr) | N/A |
-| 5 | [#spagae](http://twitter.com/search?q=%23spagae) | N/A |
-| 6 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 7 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
-| 8 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 9 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 10 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 11 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 12 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 13 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 14 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 16 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 17 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 5 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
+| 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 7 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 8 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 9 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 10 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 11 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 12 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 13 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 14 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 15 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 16 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
+| 17 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
 | 18 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 19 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 20 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
-| 21 | [Taabouni](http://twitter.com/search?q=Taabouni) | N/A |
-| 22 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 23 | [Conceicao](http://twitter.com/search?q=Conceicao) | N/A |
-| 24 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 25 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 26 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 27 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 28 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 31 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
+| 19 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 20 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 21 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 22 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Taabouni](http://twitter.com/search?q=Taabouni) | N/A |
+| 25 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 26 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 28 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 29 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 30 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
+| 31 | [Vaessen](http://twitter.com/search?q=Vaessen) | N/A |
 | 32 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 33 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 35 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 36 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
-| 37 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 38 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 39 | [Manhoef](http://twitter.com/search?q=Manhoef) | N/A |
-| 40 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
-| 41 | [Piepschuim](http://twitter.com/search?q=Piepschuim) | N/A |
-| 42 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
-| 43 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 44 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 45 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 46 | [FC Volendam](http://twitter.com/search?q=FC+Volendam) | N/A |
-| 47 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 48 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 49 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
+| 33 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 34 | [Dag 12](http://twitter.com/search?q=Dag+12) | N/A |
+| 35 | [Tijdelijk](http://twitter.com/search?q=Tijdelijk) | N/A |
+| 36 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 37 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 38 | [gecondoleerd martijn](http://twitter.com/search?q=gecondoleerd+martijn) | N/A |
+| 39 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 40 | [Manhoef](http://twitter.com/search?q=Manhoef) | N/A |
+| 41 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 42 | [FC Volendam](http://twitter.com/search?q=FC+Volendam) | N/A |
+| 43 | [Conceicao](http://twitter.com/search?q=Conceicao) | N/A |
+| 44 | [Kontje](http://twitter.com/search?q=Kontje) | N/A |
+| 45 | [Kökcü](http://twitter.com/search?q=K%c3%b6kc%c3%bc) | N/A |
+| 46 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 47 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 48 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
+| 49 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
 
 
 

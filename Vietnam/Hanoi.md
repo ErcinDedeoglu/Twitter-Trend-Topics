@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-12 19:16:10 UTC`
+📆 Last Updated: `2023-02-12 20:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,36 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [Babydoge](http://twitter.com/search?q=Babydoge) | N/A |
 | 17 | [MEW SUPPASIT 2023](http://twitter.com/search?q=MEW+SUPPASIT+2023) | N/A |
 | 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Fort](http://twitter.com/search?q=Fort) | N/A |
-| 20 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
+| 19 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
+| 20 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
 | 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 22 | [Bi DID Carnival](http://twitter.com/search?q=Bi+DID+Carnival) | N/A |
-| 23 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 24 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
-| 25 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
-| 26 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
+| 23 | [️No Suffix & No Need to Renew](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Need+to+Renew) | N/A |
+| 24 | [Zero Gas](http://twitter.com/search?q=Zero+Gas) | N/A |
+| 25 | [Free Mint](http://twitter.com/search?q=Free+Mint) | N/A |
+| 26 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
 | 27 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
 | 28 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 29 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 29 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
 | 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 32 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 33 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
+| 33 | [tình](http://twitter.com/search?q=t%c3%acnh) | N/A |
 | 34 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
-| 35 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 36 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 37 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 39 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
-| 40 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 41 | [Giải](http://twitter.com/search?q=Gi%e1%ba%a3i) | N/A |
-| 42 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 43 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
-| 44 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 45 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
-| 46 | [Nhóm](http://twitter.com/search?q=Nh%c3%b3m) | N/A |
-| 47 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
-| 48 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 49 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
-| 50 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 35 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 38 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
+| 39 | [Giải](http://twitter.com/search?q=Gi%e1%ba%a3i) | N/A |
+| 40 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 41 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 42 | [Herrscher of Origin](http://twitter.com/search?q=Herrscher+of+Origin) | N/A |
+| 43 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 44 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 45 | [Nhóm](http://twitter.com/search?q=Nh%c3%b3m) | N/A |
+| 46 | [Herrscher of Finality](http://twitter.com/search?q=Herrscher+of+Finality) | N/A |
+| 47 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 48 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-12 19:15:57 UTC`
+📆 Last Updated: `2023-02-12 20:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 2 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
-| 3 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 4 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 5 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 6 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 7 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 8 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 9 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 10 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 11 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
-| 12 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 13 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
-| 14 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 15 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 16 | [Schwarz-Grün](http://twitter.com/search?q=Schwarz-Gr%c3%bcn) | N/A |
-| 17 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 18 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
-| 19 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 20 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
-| 21 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 22 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
-| 23 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 24 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 25 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 26 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
-| 27 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 28 | [Regierungsbildung](http://twitter.com/search?q=Regierungsbildung) | N/A |
-| 29 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 30 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
-| 31 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 32 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 33 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
-| 34 | [Hauptstadt](http://twitter.com/search?q=Hauptstadt) | N/A |
-| 35 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 36 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 37 | [Rot-Rot-Grün](http://twitter.com/search?q=Rot-Rot-Gr%c3%bcn) | N/A |
-| 38 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 39 | [Abgeordnetenhaus](http://twitter.com/search?q=Abgeordnetenhaus) | N/A |
-| 40 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
-| 41 | [Wahl in Berlin](http://twitter.com/search?q=Wahl+in+Berlin) | N/A |
-| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 43 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 44 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 45 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 46 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
-| 47 | [Berlinern](http://twitter.com/search?q=Berlinern) | N/A |
-| 48 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 2 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 4 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 5 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 6 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
+| 7 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 8 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 9 | [Cecilia](http://twitter.com/search?q=Cecilia) | Cecilia is a female given name of Latin origin, derived from the word caecus, meaning “blind”. It is also the name of a saint in the Catholic Church. The name has been popular in Europe since the Middle Ages and is now common throughout the world. |
+| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 11 | [Verena](http://twitter.com/search?q=Verena) | N/A |
+| 12 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 13 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 14 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 15 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 16 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 17 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
+| 18 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
+| 19 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
+| 20 | [Nachspiel](http://twitter.com/search?q=Nachspiel) | N/A |
+| 21 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 22 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 23 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 24 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 25 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
+| 26 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 27 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 28 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
+| 29 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
+| 30 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
+| 31 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 32 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 33 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
+| 34 | [Schwarz-Grün](http://twitter.com/search?q=Schwarz-Gr%c3%bcn) | N/A |
+| 35 | [Sonntag Abend](http://twitter.com/search?q=Sonntag+Abend) | N/A |
+| 36 | [Snackstadion](http://twitter.com/search?q=Snackstadion) | N/A |
+| 37 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 38 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 39 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 40 | [Regierungsbildung](http://twitter.com/search?q=Regierungsbildung) | N/A |
+| 41 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
+| 42 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
+| 43 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 44 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 45 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 46 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 47 | [Abgeordnetenhaus](http://twitter.com/search?q=Abgeordnetenhaus) | N/A |
+| 48 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
 
 
 

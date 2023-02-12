@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-12 19:16:00 UTC`
+📆 Last Updated: `2023-02-12 20:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
-| 2 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
+| 1 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
+| 2 | [#KingsLeagueJ6](http://twitter.com/search?q=%23KingsLeagueJ6) | N/A |
 | 3 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
-| 4 | [#LaRoca56](http://twitter.com/search?q=%23LaRoca56) | N/A |
-| 5 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 6 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 7 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 8 | [#KingsLeagueJ6](http://twitter.com/search?q=%23KingsLeagueJ6) | N/A |
-| 9 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
-| 10 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
-| 11 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 12 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 13 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 14 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 17 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 18 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 19 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 20 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 21 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
-| 22 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
-| 23 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
-| 24 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 25 | [Luis Muñoz](http://twitter.com/search?q=Luis+Mu%c3%b1oz) | N/A |
-| 26 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 27 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
-| 28 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 29 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
-| 30 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 31 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 4 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
+| 5 | [#LaRoca56](http://twitter.com/search?q=%23LaRoca56) | N/A |
+| 6 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
+| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 8 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 9 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 10 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 11 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 12 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
+| 13 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
+| 14 | [Ipurua](http://twitter.com/search?q=Ipurua) | N/A |
+| 15 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 16 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
+| 17 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 18 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 19 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
+| 20 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 21 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 22 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 23 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 24 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 25 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
+| 26 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
+| 27 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
+| 28 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
+| 29 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 30 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
+| 31 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 32 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
-| 33 | [Mingueza](http://twitter.com/search?q=Mingueza) | N/A |
-| 34 | [Manolo Reina](http://twitter.com/search?q=Manolo+Reina) | N/A |
-| 35 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
-| 36 | [Albacete](http://twitter.com/search?q=Albacete) | N/A |
-| 37 | [CCAA](http://twitter.com/search?q=CCAA) | N/A |
-| 38 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
-| 39 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 40 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 41 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 43 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 44 | [Burgos](http://twitter.com/search?q=Burgos) | N/A |
-| 45 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
-| 46 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 47 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
-| 48 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 33 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
+| 34 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 35 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
+| 36 | [José Zorrilla](http://twitter.com/search?q=Jos%c3%a9+Zorrilla) | N/A |
+| 37 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
+| 38 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
+| 39 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 40 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 41 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
+| 42 | [Manolo Reina](http://twitter.com/search?q=Manolo+Reina) | N/A |
+| 43 | [Mingueza](http://twitter.com/search?q=Mingueza) | N/A |
+| 44 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 45 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
+| 46 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 47 | [Albacete](http://twitter.com/search?q=Albacete) | N/A |
+| 48 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 
 
 

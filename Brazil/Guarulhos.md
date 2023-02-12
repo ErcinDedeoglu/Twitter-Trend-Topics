@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-12 19:15:53 UTC`
+📆 Last Updated: `2023-02-12 20:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
-| 2 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 3 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 4 | [As Brabas](http://twitter.com/search?q=As+Brabas) | N/A |
-| 5 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 6 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 7 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
-| 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 9 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
-| 10 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
-| 11 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 12 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 13 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 14 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 15 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 16 | [Milene](http://twitter.com/search?q=Milene) | N/A |
-| 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 18 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
-| 19 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 20 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 21 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
-| 24 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 25 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 2 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 3 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 4 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 5 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 8 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 9 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 10 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
+| 11 | [Kabum](http://twitter.com/search?q=Kabum) | N/A |
+| 12 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
+| 13 | [alessandra](http://twitter.com/search?q=alessandra) | N/A |
+| 14 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 15 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
+| 16 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
+| 17 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
+| 18 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 19 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 20 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 21 | [O Abel](http://twitter.com/search?q=O+Abel) | N/A |
+| 22 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
+| 23 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 24 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
+| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 27 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 28 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 29 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 28 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 30 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
 | 31 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 34 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 35 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 36 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 32 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 34 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 35 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 36 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
 | 37 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
-| 38 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 39 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
-| 40 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 41 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 42 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
-| 43 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
-| 44 | [ONZE ANOS REZENDEEVIL](http://twitter.com/search?q=ONZE+ANOS+REZENDEEVIL) | N/A |
-| 45 | [Matue](http://twitter.com/search?q=Matue) | N/A |
-| 46 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 47 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 48 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 38 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 39 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 40 | [#JoshAndTate](http://twitter.com/search?q=%23JoshAndTate) | N/A |
+| 41 | [Matuê](http://twitter.com/search?q=Matu%c3%aa) | N/A |
+| 42 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
+| 43 | [Fernando Fernandes](http://twitter.com/search?q=Fernando+Fernandes) | N/A |
+| 44 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 45 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 46 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
+| 47 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 48 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
 | 49 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
-| 50 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
+| 50 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
 
 
 

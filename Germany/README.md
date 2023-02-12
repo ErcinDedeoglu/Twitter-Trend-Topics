@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-12 19:16:34 UTC`
+📆 Last Updated: `2023-02-12 20:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 2 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
-| 3 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 4 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 5 | [#BerlinerRunde](http://twitter.com/search?q=%23BerlinerRunde) | N/A |
-| 6 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 7 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 8 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 9 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 10 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 11 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 12 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
-| 13 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 14 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 15 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 16 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
-| 17 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 18 | [Schwarz-Grün](http://twitter.com/search?q=Schwarz-Gr%c3%bcn) | N/A |
-| 19 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 20 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
-| 21 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
-| 22 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 23 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 24 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 25 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 26 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
-| 27 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 28 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 29 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
-| 30 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
-| 31 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
-| 32 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 33 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 34 | [Regierungsbildung](http://twitter.com/search?q=Regierungsbildung) | N/A |
-| 35 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
-| 36 | [Hauptstadt](http://twitter.com/search?q=Hauptstadt) | N/A |
-| 37 | [Abgeordnetenhaus](http://twitter.com/search?q=Abgeordnetenhaus) | N/A |
-| 38 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 39 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 40 | [Rot-Rot-Grün](http://twitter.com/search?q=Rot-Rot-Gr%c3%bcn) | N/A |
-| 41 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
-| 42 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 43 | [Wahl in Berlin](http://twitter.com/search?q=Wahl+in+Berlin) | N/A |
-| 44 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
+| 2 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 4 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
+| 5 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 6 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 7 | [#ibes](http://twitter.com/search?q=%23ibes) | N/A |
+| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 9 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
+| 10 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
+| 11 | [Cecilia](http://twitter.com/search?q=Cecilia) | Cecilia is a female given name of Latin origin, derived from the word caecus, meaning “blind”. It is also the name of a saint in the Catholic Church. The name has been popular in Europe since the Middle Ages and is now common throughout the world. |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 14 | [Verena](http://twitter.com/search?q=Verena) | N/A |
+| 15 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 17 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 18 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 19 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
+| 20 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
+| 21 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
+| 22 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 23 | [Nachspiel](http://twitter.com/search?q=Nachspiel) | N/A |
+| 24 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 25 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 26 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
+| 27 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 28 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 29 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 30 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
+| 31 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
+| 32 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
+| 33 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 34 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
+| 35 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 36 | [Schwarz-Grün](http://twitter.com/search?q=Schwarz-Gr%c3%bcn) | N/A |
+| 37 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 38 | [Sonntag Abend](http://twitter.com/search?q=Sonntag+Abend) | N/A |
+| 39 | [Snackstadion](http://twitter.com/search?q=Snackstadion) | N/A |
+| 40 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 41 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 42 | [Regierungsbildung](http://twitter.com/search?q=Regierungsbildung) | N/A |
+| 43 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
+| 44 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
 | 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 47 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 48 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 49 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
-| 50 | [Berlinern](http://twitter.com/search?q=Berlinern) | N/A |
+| 46 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 47 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 48 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 49 | [Abgeordnetenhaus](http://twitter.com/search?q=Abgeordnetenhaus) | N/A |
+| 50 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
 
 
 

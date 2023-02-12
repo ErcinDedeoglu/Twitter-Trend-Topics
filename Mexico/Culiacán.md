@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-12 19:15:47 UTC`
+📆 Last Updated: `2023-02-12 20:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
-| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 4 | [#SoyCristianRey](http://twitter.com/search?q=%23SoyCristianRey) | N/A |
-| 5 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 6 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 7 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 8 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
-| 9 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 10 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 11 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 12 | [#OlaValiente](http://twitter.com/search?q=%23OlaValiente) | N/A |
-| 13 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 14 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 15 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 16 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 17 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 18 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 19 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 20 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 21 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 22 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 23 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 24 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 25 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 26 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 27 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 28 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 29 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
-| 30 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
-| 31 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 32 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 33 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 34 | [Héroe](http://twitter.com/search?q=H%c3%a9roe) | N/A |
-| 35 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 36 | [Petrus](http://twitter.com/search?q=Petrus) | N/A |
-| 37 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [Julio Cortázar](http://twitter.com/search?q=Julio+Cort%c3%a1zar) | N/A |
-| 40 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 41 | [Jefes](http://twitter.com/search?q=Jefes) | N/A |
-| 42 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 43 | [Murió](http://twitter.com/search?q=Muri%c3%b3) | N/A |
-| 44 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 45 | [Jaime Maussan](http://twitter.com/search?q=Jaime+Maussan) | N/A |
-| 46 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
-| 47 | [Dictadores](http://twitter.com/search?q=Dictadores) | N/A |
-| 48 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 49 | [Golazo](http://twitter.com/search?q=Golazo) | N/A |
+| 2 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 3 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 4 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 5 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 6 | [#SoyCristianRey](http://twitter.com/search?q=%23SoyCristianRey) | N/A |
+| 7 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 8 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 9 | [#OlaValiente](http://twitter.com/search?q=%23OlaValiente) | N/A |
+| 10 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 11 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 12 | [Saucedo](http://twitter.com/search?q=Saucedo) | N/A |
+| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 15 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
+| 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 17 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 18 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 19 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 20 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 21 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 23 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 24 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 25 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 26 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 27 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
+| 28 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 29 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 30 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 31 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 32 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 33 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 34 | [Nemesio Diez](http://twitter.com/search?q=Nemesio+Diez) | N/A |
+| 35 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 36 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 37 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 38 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 39 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 40 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
+| 41 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 42 | [Jefes](http://twitter.com/search?q=Jefes) | N/A |
+| 43 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 44 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 45 | [Héroe](http://twitter.com/search?q=H%c3%a9roe) | N/A |
+| 46 | [Jaime Maussan](http://twitter.com/search?q=Jaime+Maussan) | N/A |
+| 47 | [Petrus](http://twitter.com/search?q=Petrus) | N/A |
+| 48 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 49 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 
 
 
