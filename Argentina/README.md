@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-12 02:41:13 UTC`
+📆 Last Updated: `2023-02-12 03:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
 | 2 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 3 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 4 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
-| 5 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 3 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
+| 4 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 5 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
 | 6 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 7 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 8 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 9 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 10 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 11 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 12 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 13 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 14 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 15 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 16 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 17 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 18 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 19 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 20 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
+| 7 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 8 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 9 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 10 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 11 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 12 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 13 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 14 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 15 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 16 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 17 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 18 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
+| 19 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 20 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
 | 21 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 22 | [#Independiente](http://twitter.com/search?q=%23Independiente) | N/A |
-| 23 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 24 | [#Rominal9009](http://twitter.com/search?q=%23Rominal9009) | N/A |
-| 25 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 26 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 22 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 23 | [#Independiente](http://twitter.com/search?q=%23Independiente) | N/A |
+| 24 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 25 | [#Rominal9009](http://twitter.com/search?q=%23Rominal9009) | N/A |
+| 26 | [#antisvsgaylors](http://twitter.com/search?q=%23antisvsgaylors) | N/A |
 | 27 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 28 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
-| 29 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 30 | [#BocaJuniors](http://twitter.com/search?q=%23BocaJuniors) | N/A |
-| 31 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 32 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
-| 33 | [Traigan](http://twitter.com/search?q=Traigan) | N/A |
-| 34 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 35 | [Lo de Boca](http://twitter.com/search?q=Lo+de+Boca) | N/A |
-| 36 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 37 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 38 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 39 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
-| 40 | [Brey](http://twitter.com/search?q=Brey) | Brey is a German word meaning grey. |
-| 41 | [Varsky](http://twitter.com/search?q=Varsky) | N/A |
-| 42 | [Changuito](http://twitter.com/search?q=Changuito) | N/A |
-| 43 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 44 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 45 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 46 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
-| 47 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 48 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
-| 49 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 50 | [El DT](http://twitter.com/search?q=El+DT) | N/A |
+| 28 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 29 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 30 | [#Felices23Maria](http://twitter.com/search?q=%23Felices23Maria) | N/A |
+| 31 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 32 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 33 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
+| 34 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 35 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 36 | [Kevin López](http://twitter.com/search?q=Kevin+L%c3%b3pez) | N/A |
+| 37 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 38 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
+| 39 | [Lo de Boca](http://twitter.com/search?q=Lo+de+Boca) | N/A |
+| 40 | [Traigan](http://twitter.com/search?q=Traigan) | N/A |
+| 41 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 42 | [Brey](http://twitter.com/search?q=Brey) | Brey is a German word meaning grey. |
+| 43 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
+| 44 | [El DT](http://twitter.com/search?q=El+DT) | N/A |
+| 45 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
+| 46 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 47 | [Chango](http://twitter.com/search?q=Chango) | N/A |
+| 48 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 49 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 50 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
 
 
 

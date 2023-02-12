@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-02-12 02:40:28 UTC`
+📆 Last Updated: `2023-02-12 03:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#11Feb](http://twitter.com/search?q=%2311Feb) | N/A |
 | 2 | [#SomosPasiónCaribe](http://twitter.com/search?q=%23SomosPasi%c3%b3nCaribe) | N/A |
 | 3 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 4 | [Edson Castillo](http://twitter.com/search?q=Edson+Castillo) | N/A |
-| 5 | [#sisepuedevzla](http://twitter.com/search?q=%23sisepuedevzla) | N/A |
+| 4 | [#sisepuedevzla](http://twitter.com/search?q=%23sisepuedevzla) | N/A |
+| 5 | [Edson Castillo](http://twitter.com/search?q=Edson+Castillo) | N/A |
 | 6 | [Valores Humanos](http://twitter.com/search?q=Valores+Humanos) | N/A |
-| 7 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
+| 7 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 8 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 9 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 10 | [#beisbolporteleven](http://twitter.com/search?q=%23beisbolporteleven) | N/A |
-| 11 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 9 | [Arturo Uslar Pietri](http://twitter.com/search?q=Arturo+Uslar+Pietri) | N/A |
+| 10 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 11 | [#beisbolporteleven](http://twitter.com/search?q=%23beisbolporteleven) | N/A |
 | 12 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
 | 13 | [Nuestra Señora de Lourdes](http://twitter.com/search?q=Nuestra+Se%c3%b1ora+de+Lourdes) | N/A |
 | 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
@@ -35,29 +35,29 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 18 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
 | 19 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
 | 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 22 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 23 | [Enrique Lazo](http://twitter.com/search?q=Enrique+Lazo) | N/A |
-| 24 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 25 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
-| 26 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 27 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
+| 21 | [Enrique Lazo](http://twitter.com/search?q=Enrique+Lazo) | N/A |
+| 22 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 23 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 24 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 25 | [Henry Galue](http://twitter.com/search?q=Henry+Galue) | N/A |
+| 26 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
+| 27 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 28 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 29 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
-| 30 | [Henry Galue](http://twitter.com/search?q=Henry+Galue) | N/A |
-| 31 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 32 | [martín tovar](http://twitter.com/search?q=mart%c3%adn+tovar) | N/A |
-| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 34 | [Sascha](http://twitter.com/search?q=Sascha) | N/A |
-| 35 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 36 | [Cristo Redentor](http://twitter.com/search?q=Cristo+Redentor) | N/A |
-| 37 | [Día del Sociólogo](http://twitter.com/search?q=D%c3%ada+del+Soci%c3%b3logo) | N/A |
-| 38 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 39 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 40 | [Carlos Soublette](http://twitter.com/search?q=Carlos+Soublette) | N/A |
-| 41 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
-| 42 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
-| 43 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 29 | [martín tovar](http://twitter.com/search?q=mart%c3%adn+tovar) | N/A |
+| 30 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 31 | [Sascha](http://twitter.com/search?q=Sascha) | N/A |
+| 32 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 33 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 34 | [Cristo Redentor](http://twitter.com/search?q=Cristo+Redentor) | N/A |
+| 35 | [Día del Sociólogo](http://twitter.com/search?q=D%c3%ada+del+Soci%c3%b3logo) | N/A |
+| 36 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 37 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 38 | [Savoy](http://twitter.com/search?q=Savoy) | N/A |
+| 39 | [Carlos Soublette](http://twitter.com/search?q=Carlos+Soublette) | N/A |
+| 40 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
+| 41 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 42 | [Tuy II](http://twitter.com/search?q=Tuy+II) | N/A |
+| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 44 | [Caja](http://twitter.com/search?q=Caja) | N/A |
 | 45 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
 | 46 | [Malojillo](http://twitter.com/search?q=Malojillo) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-12 02:41:19 UTC`
+📆 Last Updated: `2023-02-12 03:19:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,7 @@ This is top 50 for Qatar
 | 46 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 | 47 | [الخوذ البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%88%d8%b0+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
 | 48 | [علي الانسان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 49 | [أبي هريرة](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a+%d9%87%d8%b1%d9%8a%d8%b1%d8%a9) | N/A |
+| 49 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 

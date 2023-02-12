@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-12 02:40:38 UTC`
+📆 Last Updated: `2023-02-12 03:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Spain](</Spain>)
 | 11 | [Luis Zahera](http://twitter.com/search?q=Luis+Zahera) | N/A |
 | 12 | [Denis Ménochet](http://twitter.com/search?q=Denis+M%c3%a9nochet) | N/A |
 | 13 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 14 | [Carlos Cuevas](http://twitter.com/search?q=Carlos+Cuevas) | N/A |
-| 15 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
-| 16 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
-| 17 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
-| 18 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
+| 14 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
+| 15 | [Cinco Lobitos](http://twitter.com/search?q=Cinco+Lobitos) | N/A |
+| 16 | [Antonio de la Torre](http://twitter.com/search?q=Antonio+de+la+Torre) | N/A |
+| 17 | [Susi Sánchez](http://twitter.com/search?q=Susi+S%c3%a1nchez) | N/A |
+| 18 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
 | 19 | [Laura Galán](http://twitter.com/search?q=Laura+Gal%c3%a1n) | N/A |
-| 20 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 21 | [Isabel Peña](http://twitter.com/search?q=Isabel+Pe%c3%b1a) | N/A |
-| 22 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
-| 23 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
-| 24 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
-| 25 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [Oso de Oro](http://twitter.com/search?q=Oso+de+Oro) | N/A |
-| 28 | [Belle Epoque](http://twitter.com/search?q=Belle+Epoque) | N/A |
-| 29 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 30 | [Mr. Rain](http://twitter.com/search?q=Mr.+Rain) | N/A |
-| 31 | [Telmo Irureta](http://twitter.com/search?q=Telmo+Irureta) | N/A |
-| 32 | [Fernando Esteso](http://twitter.com/search?q=Fernando+Esteso) | N/A |
-| 33 | [Labordeta](http://twitter.com/search?q=Labordeta) | N/A |
-| 34 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
-| 35 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 36 | [#FMSEspana](http://twitter.com/search?q=%23FMSEspana) | N/A |
-| 37 | [Nacho Sánchez](http://twitter.com/search?q=Nacho+S%c3%a1nchez) | N/A |
-| 38 | [Cerdita](http://twitter.com/search?q=Cerdita) | N/A |
-| 39 | [Carlos del Amor](http://twitter.com/search?q=Carlos+del+Amor) | N/A |
-| 40 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 41 | [Anna Castillo](http://twitter.com/search?q=Anna+Castillo) | N/A |
+| 20 | [Carlos Cuevas](http://twitter.com/search?q=Carlos+Cuevas) | N/A |
+| 21 | [Unicorn Wars](http://twitter.com/search?q=Unicorn+Wars) | N/A |
+| 22 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 25 | [Modelo 77](http://twitter.com/search?q=Modelo+77) | N/A |
+| 26 | [Oso de Oro](http://twitter.com/search?q=Oso+de+Oro) | N/A |
+| 27 | [Belle Epoque](http://twitter.com/search?q=Belle+Epoque) | N/A |
+| 28 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
+| 29 | [Mr. Rain](http://twitter.com/search?q=Mr.+Rain) | N/A |
+| 30 | [Fernando Esteso](http://twitter.com/search?q=Fernando+Esteso) | N/A |
+| 31 | [Labordeta](http://twitter.com/search?q=Labordeta) | N/A |
+| 32 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 33 | [Berta Vázquez](http://twitter.com/search?q=Berta+V%c3%a1zquez) | N/A |
+| 34 | [#FMSEspana](http://twitter.com/search?q=%23FMSEspana) | N/A |
+| 35 | [Cerdita](http://twitter.com/search?q=Cerdita) | N/A |
+| 36 | [Carlos del Amor](http://twitter.com/search?q=Carlos+del+Amor) | N/A |
+| 37 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 38 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
+| 39 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 40 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 41 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
 | 42 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 43 | [Unai Simón](http://twitter.com/search?q=Unai+Sim%c3%b3n) | N/A |
-| 44 | [Carlos Saura](http://twitter.com/search?q=Carlos+Saura) | N/A |
-| 45 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 46 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 47 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
-| 48 | [Guitarricadelafuente](http://twitter.com/search?q=Guitarricadelafuente) | N/A |
-| 49 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
+| 43 | [Penélope Cruz](http://twitter.com/search?q=Pen%c3%a9lope+Cruz) | N/A |
+| 44 | [Raphael](http://twitter.com/search?q=Raphael) | N/A |
+| 45 | [Anna Castillo](http://twitter.com/search?q=Anna+Castillo) | N/A |
+| 46 | [Isabel Peña](http://twitter.com/search?q=Isabel+Pe%c3%b1a) | N/A |
+| 47 | [Mantícora](http://twitter.com/search?q=Mant%c3%adcora) | N/A |
+| 48 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 49 | [Albert Serra](http://twitter.com/search?q=Albert+Serra) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-12 02:41:13 UTC`
+📆 Last Updated: `2023-02-12 03:19:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,10 +39,10 @@ This is top 50 for Austria
 | 22 | [Tomaten](http://twitter.com/search?q=Tomaten) | N/A |
 | 23 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
 | 24 | [Wohnzimmer](http://twitter.com/search?q=Wohnzimmer) | N/A |
-| 25 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 26 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 27 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 28 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 25 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 26 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 27 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 28 | [Damen](http://twitter.com/search?q=Damen) | N/A |
 | 29 | [message control](http://twitter.com/search?q=message+control) | N/A |
 | 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 31 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Austria
 | 33 | [Doktortitel](http://twitter.com/search?q=Doktortitel) | N/A |
 | 34 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 35 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 36 | [pazifismus](http://twitter.com/search?q=pazifismus) | N/A |
+| 36 | [Pazifismus](http://twitter.com/search?q=Pazifismus) | N/A |
 | 37 | [Pause](http://twitter.com/search?q=Pause) | N/A |
 | 38 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
 | 39 | [Petition](http://twitter.com/search?q=Petition) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Austria
 | 44 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
 | 45 | [Ansprüche](http://twitter.com/search?q=Anspr%c3%bcche) | N/A |
 | 46 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
-| 47 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
+| 47 | [mittagessen](http://twitter.com/search?q=mittagessen) | N/A |
 | 48 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 | 49 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
 | 50 | [Prost](http://twitter.com/search?q=Prost) | N/A |

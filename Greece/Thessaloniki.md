@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-02-12 02:40:40 UTC`
+📆 Last Updated: `2023-02-12 03:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [Greece](</Greece>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#spitimetomega](http://twitter.com/search?q=%23spitimetomega) | N/A |
-| 2 | [#radio_taverna](http://twitter.com/search?q=%23radio_taverna) | N/A |
-| 3 | [#TheVoiceGR](http://twitter.com/search?q=%23TheVoiceGR) | N/A |
-| 4 | [#sanremogr](http://twitter.com/search?q=%23sanremogr) | N/A |
-| 5 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
+| 2 | [#thevoicegr](http://twitter.com/search?q=%23thevoicegr) | N/A |
+| 3 | [#sanremogr](http://twitter.com/search?q=%23sanremogr) | N/A |
+| 4 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
+| 5 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
 | 6 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 7 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
+| 7 | [αλασκα](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
 | 8 | [Τσανακλιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
 | 9 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
 | 10 | [Καληνυχτα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bd%cf%85%cf%87%cf%84%ce%b1) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [Greece](</Greece>)
 | 26 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
 | 27 | [αγορου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
 | 28 | [Βερτη](http://twitter.com/search?q=%ce%92%ce%b5%cf%81%cf%84%ce%b7) | N/A |
-| 29 | [Πλουταρχο](http://twitter.com/search?q=%ce%a0%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
+| 29 | [πλουταρχο](http://twitter.com/search?q=%cf%80%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
 | 30 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
 | 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 32 | [σαμοθρακης](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%bf%ce%b8%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for [Greece](</Greece>)
 | 37 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
 | 38 | [γκουνταιτις](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
 | 39 | [νικος καββαδιας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%ba%ce%b1%ce%b2%ce%b2%ce%b1%ce%b4%ce%b9%ce%b1%cf%82) | N/A |
-| 40 | [Τζοουνς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
+| 40 | [τζοουνς](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
 | 41 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
 | 42 | [Πατσηδες](http://twitter.com/search?q=%ce%a0%ce%b1%cf%84%cf%83%ce%b7%ce%b4%ce%b5%cf%82) | N/A |
 | 43 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Greece](</Greece>)
 | 47 | [πανος](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
 | 48 | [πορφυρη](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7) | N/A |
 | 49 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 50 | [Σαββατου](http://twitter.com/search?q=%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
+| 50 | [σαββατου](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
 
 
 

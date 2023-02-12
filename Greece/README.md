@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-02-12 02:41:15 UTC`
+📆 Last Updated: `2023-02-12 03:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Greece
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#spitimetomega](http://twitter.com/search?q=%23spitimetomega) | N/A |
-| 2 | [#TheVoiceGR](http://twitter.com/search?q=%23TheVoiceGR) | N/A |
+| 2 | [#thevoicegr](http://twitter.com/search?q=%23thevoicegr) | N/A |
 | 3 | [#sanremogr](http://twitter.com/search?q=%23sanremogr) | N/A |
 | 4 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
 | 5 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for Greece
 | 26 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
 | 27 | [αγορου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
 | 28 | [Βερτη](http://twitter.com/search?q=%ce%92%ce%b5%cf%81%cf%84%ce%b7) | N/A |
-| 29 | [Πλουταρχο](http://twitter.com/search?q=%ce%a0%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
+| 29 | [πλουταρχο](http://twitter.com/search?q=%cf%80%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
 | 30 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
 | 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 32 | [σαμοθρακης](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%bf%ce%b8%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Greece
 | 37 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
 | 38 | [γκουνταιτις](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
 | 39 | [νικος καββαδιας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%ba%ce%b1%ce%b2%ce%b2%ce%b1%ce%b4%ce%b9%ce%b1%cf%82) | N/A |
-| 40 | [Τζοουνς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
+| 40 | [τζοουνς](http://twitter.com/search?q=%cf%84%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
 | 41 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
 | 42 | [Πατσηδες](http://twitter.com/search?q=%ce%a0%ce%b1%cf%84%cf%83%ce%b7%ce%b4%ce%b5%cf%82) | N/A |
 | 43 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |

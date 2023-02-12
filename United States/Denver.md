@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-02-12 02:41:05 UTC`
+📆 Last Updated: `2023-02-12 03:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 3 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
 | 4 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 5 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 6 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 7 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 8 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 9 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 11 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 12 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 13 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 14 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 5 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 6 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 7 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 8 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 9 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 10 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 11 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 12 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 13 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 14 | [Vando](http://twitter.com/search?q=Vando) | N/A |
 | 15 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 16 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 16 | [Tyson Pedro](http://twitter.com/search?q=Tyson+Pedro) | N/A |
+| 17 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
 | 18 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 19 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 20 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 21 | [#LAMDC](http://twitter.com/search?q=%23LAMDC) | N/A |
-| 22 | [Culibao](http://twitter.com/search?q=Culibao) | N/A |
-| 23 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 24 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 25 | [Jack Jenkins](http://twitter.com/search?q=Jack+Jenkins) | N/A |
-| 26 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
-| 27 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
-| 28 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 29 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 30 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 31 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 32 | [Bleday](http://twitter.com/search?q=Bleday) | N/A |
-| 33 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 34 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 21 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 23 | [#Montana](http://twitter.com/search?q=%23Montana) | N/A |
+| 24 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 25 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 27 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 28 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 29 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 30 | [Another UFO](http://twitter.com/search?q=Another+UFO) | N/A |
+| 31 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 32 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 33 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 34 | [Yukon](http://twitter.com/search?q=Yukon) | N/A |
 | 35 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 36 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 37 | [Gholston](http://twitter.com/search?q=Gholston) | N/A |
-| 38 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 39 | [NOTAM](http://twitter.com/search?q=NOTAM) | NOTAM stands for Notice to Airmen and is a notice issued by an aviation authority to provide information regarding potential hazards along a flight route or at a location that could affect the safety of the flight. It is used to alert pilots of potential hazards such as airspace restrictions, temporary obstacles, and other important information. |
-| 40 | [Hart](http://twitter.com/search?q=Hart) | N/A |
-| 41 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 42 | [Mullarkey](http://twitter.com/search?q=Mullarkey) | N/A |
-| 43 | [F-15s](http://twitter.com/search?q=F-15s) | F-15s is an abbreviation for the F-15 Eagle, a twin-engine, all-weather tactical fighter jet manufactured by McDonnell Douglas (now Boeing). It is used by the United States Air Force and other militaries around the world. |
-| 44 | [North America](http://twitter.com/search?q=North+America) | N/A |
-| 45 | [Shainis](http://twitter.com/search?q=Shainis) | N/A |
-| 46 | [Jalen Suggs](http://twitter.com/search?q=Jalen+Suggs) | N/A |
-| 47 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 48 | [War of the Worlds](http://twitter.com/search?q=War+of+the+Worlds) | N/A |
-| 49 | [Rodrigues](http://twitter.com/search?q=Rodrigues) | N/A |
-| 50 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 36 | [Culibao](http://twitter.com/search?q=Culibao) | N/A |
+| 37 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
+| 38 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 39 | [War of the Worlds](http://twitter.com/search?q=War+of+the+Worlds) | N/A |
+| 40 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 41 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 42 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 43 | [Gholston](http://twitter.com/search?q=Gholston) | N/A |
+| 44 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 45 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
+| 46 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 47 | [Jenkins](http://twitter.com/search?q=Jenkins) | N/A |
+| 48 | [Bleday](http://twitter.com/search?q=Bleday) | N/A |
+| 49 | [North America](http://twitter.com/search?q=North+America) | N/A |
+| 50 | [Halak](http://twitter.com/search?q=Halak) | N/A |
 
 
 

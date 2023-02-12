@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-12 02:41:17 UTC`
+📆 Last Updated: `2023-02-12 03:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Kuwait
 | 14 | [فتح باب التبرعات](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9%d8%a7%d8%aa) | N/A |
 | 15 | [يابو حامد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ad%d8%a7%d9%85%d8%af) | N/A |
 | 16 | [يابو مفلح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d9%81%d9%84%d8%ad) | N/A |
-| 17 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 18 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 19 | [ويست](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa) | N/A |
-| 20 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 21 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 22 | [الموقع التالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 17 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 18 | [ويست](http://twitter.com/search?q=%d9%88%d9%8a%d8%b3%d8%aa) | N/A |
+| 19 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 20 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 21 | [الموقع التالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 22 | [يابو شعوان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b4%d8%b9%d9%88%d8%a7%d9%86) | N/A |
 | 23 | [التبرع الرجاء المسح](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a8%d8%b1%d8%b9+%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%b3%d8%ad) | N/A |
 | 24 | [طريق السالمي](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 25 | [يابو شعوان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b4%d8%b9%d9%88%d8%a7%d9%86) | N/A |
-| 26 | [بلد الخير](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 27 | [الحمله الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 28 | [علي الرمز الظاهر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b8%d8%a7%d9%87%d8%b1) | N/A |
-| 29 | [يابو متعب](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
-| 30 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 31 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 32 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 33 | [يابو عايد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
-| 34 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 35 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 36 | [الشوون الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 37 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 38 | [كويت الخير](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 39 | [شعب كريم](http://twitter.com/search?q=%d8%b4%d8%b9%d8%a8+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 40 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 41 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
-| 42 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 43 | [بلد الانسانيه](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 44 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 45 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 46 | [علي الشاشه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d9%87) | N/A |
-| 47 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [علي الغانم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 49 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 50 | [majed](http://twitter.com/search?q=majed) | N/A |
+| 25 | [بلد الخير](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 26 | [الحمله الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
+| 27 | [علي الرمز الظاهر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b8%d8%a7%d9%87%d8%b1) | N/A |
+| 28 | [يابو متعب](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
+| 29 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 30 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 31 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 32 | [يابو عايد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
+| 33 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 34 | [الشوون الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 35 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 36 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 37 | [كويت الخير](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 38 | [شعب كريم](http://twitter.com/search?q=%d8%b4%d8%b9%d8%a8+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 39 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
+| 40 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
+| 41 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
+| 42 | [كبير اسيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 43 | [علي الشاشه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d9%87) | N/A |
+| 44 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 45 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 46 | [علي الغانم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 47 | [majed](http://twitter.com/search?q=majed) | N/A |
+| 48 | [سعود عبدالحميد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | سعود عبدالحميد is an Arabic name, which translates to English as "Sa'ud Abdul-Hamid". |
+| 49 | [تري الدنيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 50 | [الارض الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b6+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
 
 
 

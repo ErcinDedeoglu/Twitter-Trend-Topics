@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-12 02:41:14 UTC`
+📆 Last Updated: `2023-02-12 03:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Denmark
 | 10 | [Reiley](http://twitter.com/search?q=Reiley) | N/A |
 | 11 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [#WhuChe](http://twitter.com/search?q=%23WhuChe) | N/A |
-| 14 | [Lige Her](http://twitter.com/search?q=Lige+Her) | N/A |
+| 13 | [#WHUCHE](http://twitter.com/search?q=%23WHUCHE) | N/A |
+| 14 | [lige her](http://twitter.com/search?q=lige+her) | N/A |
 | 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 17 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
