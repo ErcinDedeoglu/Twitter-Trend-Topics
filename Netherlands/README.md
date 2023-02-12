@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-12 01:44:31 UTC`
+📆 Last Updated: `2023-02-12 02:41:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Netherlands
 | 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 7 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
 | 8 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 9 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 10 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 13 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
-| 14 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 15 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 16 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 17 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
-| 18 | [Thijs](http://twitter.com/search?q=Thijs) | Thijs is a Dutch given name, derived from the Greek name Matthias. It is a variant of the English name Matthew. The meaning of Thijs in English is "gift of God". |
-| 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Dag 11](http://twitter.com/search?q=Dag+11) | N/A |
-| 22 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 23 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 24 | [Gecondoleerd Martijn](http://twitter.com/search?q=Gecondoleerd+Martijn) | N/A |
+| 9 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 10 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 12 | [oud-minister hoogervorst](http://twitter.com/search?q=oud-minister+hoogervorst) | N/A |
+| 13 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 14 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 15 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 16 | [Radboud](http://twitter.com/search?q=Radboud) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 19 | [dag 11](http://twitter.com/search?q=dag+11) | N/A |
+| 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 21 | [Gecondoleerd Martijn](http://twitter.com/search?q=Gecondoleerd+Martijn) | N/A |
+| 22 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 23 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 24 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
 | 25 | [Truste](http://twitter.com/search?q=Truste) | N/A |
 | 26 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 27 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 28 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 31 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 32 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 33 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 34 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 35 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 36 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
-| 39 | [Beursplein](http://twitter.com/search?q=Beursplein) | N/A |
-| 40 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 41 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 42 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
-| 43 | [goedemorgen daisy](http://twitter.com/search?q=goedemorgen+daisy) | N/A |
-| 44 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 45 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 46 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
-| 47 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
-| 48 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 49 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 50 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 29 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 30 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 31 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 32 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 33 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 34 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Memento Rob](http://twitter.com/search?q=Memento+Rob) | N/A |
+| 37 | [beursplein](http://twitter.com/search?q=beursplein) | N/A |
+| 38 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
+| 39 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 40 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
+| 41 | [goedemorgen daisy](http://twitter.com/search?q=goedemorgen+daisy) | N/A |
+| 42 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 43 | [jetro willems](http://twitter.com/search?q=jetro+willems) | N/A |
+| 44 | [Hoek](http://twitter.com/search?q=Hoek) | N/A |
+| 45 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 46 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 47 | [KNVB Beker](http://twitter.com/search?q=KNVB+Beker) | N/A |
+| 48 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 49 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 50 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 
 
 

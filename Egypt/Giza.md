@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-12 01:44:05 UTC`
+📆 Last Updated: `2023-02-12 02:40:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for [Egypt](</Egypt>)
 | 27 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
 | 28 | [علي كولر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d9%88%d9%84%d8%b1) | N/A |
 | 29 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
-| 30 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
-| 31 | [حسين لبيب](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%84%d8%a8%d9%8a%d8%a8) | N/A |
-| 32 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 33 | [كوره شريف](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 34 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 35 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 36 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 37 | [برا النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 38 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
-| 39 | [وست هام](http://twitter.com/search?q=%d9%88%d8%b3%d8%aa+%d9%87%d8%a7%d9%85) | N/A |
-| 40 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 41 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 42 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 43 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 44 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 45 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 46 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
+| 30 | [حسين لبيب](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d9%84%d8%a8%d9%8a%d8%a8) | N/A |
+| 31 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
+| 32 | [كوره شريف](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 33 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 34 | [علي شريف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 35 | [برا النادي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
+| 36 | [جمال عبد الحميد](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af) | N/A |
+| 37 | [وست هام](http://twitter.com/search?q=%d9%88%d8%b3%d8%aa+%d9%87%d8%a7%d9%85) | N/A |
+| 38 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
+| 39 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 40 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 41 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 42 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 43 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 44 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 45 | [كابتن بيبو](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d8%a8%d9%8a%d8%a8%d9%88) | N/A |
+| 46 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 47 | [جول عالمي](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 48 | [مركز رابع](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 49 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 50 | [عيد العمال](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 49 | [عيد العمال](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 50 | [الفرص السهله](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b5+%d8%a7%d9%84%d8%b3%d9%87%d9%84%d9%87) | N/A |
 
 
 

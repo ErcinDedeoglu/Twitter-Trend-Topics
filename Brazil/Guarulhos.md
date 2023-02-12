@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-12 01:43:44 UTC`
+📆 Last Updated: `2023-02-12 02:40:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
-| 2 | [Brooklyn Nets](http://twitter.com/search?q=Brooklyn+Nets) | N/A |
-| 3 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 4 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 5 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
-| 6 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 1 | [Boechat](http://twitter.com/search?q=Boechat) | N/A |
+| 2 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 3 | [Brooklyn Nets](http://twitter.com/search?q=Brooklyn+Nets) | N/A |
+| 4 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
+| 6 | [Aécio](http://twitter.com/search?q=A%c3%a9cio) | N/A |
+| 7 | [Canja](http://twitter.com/search?q=Canja) | N/A |
 | 8 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 9 | [FECHADOS COM KEY](http://twitter.com/search?q=FECHADOS+COM+KEY) | N/A |
-| 10 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 11 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 12 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 14 | [#CasalChevrolet](http://twitter.com/search?q=%23CasalChevrolet) | N/A |
-| 15 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
-| 18 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 21 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 22 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
-| 23 | [#PernambucanoMeuAmor](http://twitter.com/search?q=%23PernambucanoMeuAmor) | N/A |
-| 24 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 25 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 26 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 27 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
-| 28 | [Vietto](http://twitter.com/search?q=Vietto) | N/A |
-| 29 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 30 | [João Igor](http://twitter.com/search?q=Jo%c3%a3o+Igor) | N/A |
-| 31 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
-| 32 | [BOTAFOGO DE FUTEBOL E REGATAS](http://twitter.com/search?q=BOTAFOGO+DE+FUTEBOL+E+REGATAS) | N/A |
-| 33 | [Victor Ferraz](http://twitter.com/search?q=Victor+Ferraz) | N/A |
-| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 35 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 36 | [PROUD OF HARRY](http://twitter.com/search?q=PROUD+OF+HARRY) | N/A |
-| 37 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 38 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
-| 39 | [CADÊ AMELIE](http://twitter.com/search?q=CAD%c3%8a+AMELIE) | N/A |
-| 40 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 41 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 42 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 44 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 45 | [Renesmee](http://twitter.com/search?q=Renesmee) | N/A |
-| 46 | [Ewerthon](http://twitter.com/search?q=Ewerthon) | N/A |
-| 47 | [Doce](http://twitter.com/search?q=Doce) | N/A |
-| 48 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 49 | [Claxton](http://twitter.com/search?q=Claxton) | Claxton is a surname of English origin. It is derived from the Old English words 'claec' meaning clay and 'tun' meaning settlement or farm. The name was originally given to someone who lived near a clay settlement or farm. |
-| 50 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 9 | [#TeamChevrolet](http://twitter.com/search?q=%23TeamChevrolet) | N/A |
+| 10 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 11 | [FECHADOS COM KEY](http://twitter.com/search?q=FECHADOS+COM+KEY) | N/A |
+| 12 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 13 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 14 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
+| 15 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 16 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 17 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 18 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 23 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
+| 24 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 25 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
+| 26 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 27 | [João Igor](http://twitter.com/search?q=Jo%c3%a3o+Igor) | N/A |
+| 28 | [Victor Ferraz](http://twitter.com/search?q=Victor+Ferraz) | N/A |
+| 29 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
+| 30 | [Capital Inicial](http://twitter.com/search?q=Capital+Inicial) | N/A |
+| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 32 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 33 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
+| 34 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 35 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 36 | [EMMA MYERS](http://twitter.com/search?q=EMMA+MYERS) | N/A |
+| 37 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
+| 38 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 39 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
+| 40 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
+| 41 | [Renesmee](http://twitter.com/search?q=Renesmee) | N/A |
+| 42 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 43 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 44 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 45 | [BOTAFOGO DE FUTEBOL E REGATAS](http://twitter.com/search?q=BOTAFOGO+DE+FUTEBOL+E+REGATAS) | N/A |
+| 46 | [PROUD OF HARRY](http://twitter.com/search?q=PROUD+OF+HARRY) | N/A |
+| 47 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
+| 48 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
+| 49 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 50 | [Major RD](http://twitter.com/search?q=Major+RD) | N/A |
 
 
 

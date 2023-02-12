@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-02-12 01:44:28 UTC`
+📆 Last Updated: `2023-02-12 02:41:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Greece
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#spitimetomega](http://twitter.com/search?q=%23spitimetomega) | N/A |
-| 2 | [#radio_taverna](http://twitter.com/search?q=%23radio_taverna) | N/A |
-| 3 | [#TheVoiceGR](http://twitter.com/search?q=%23TheVoiceGR) | N/A |
-| 4 | [#sanremogr](http://twitter.com/search?q=%23sanremogr) | N/A |
-| 5 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
+| 2 | [#TheVoiceGR](http://twitter.com/search?q=%23TheVoiceGR) | N/A |
+| 3 | [#sanremogr](http://twitter.com/search?q=%23sanremogr) | N/A |
+| 4 | [#DolceVita](http://twitter.com/search?q=%23DolceVita) | N/A |
+| 5 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
 | 6 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 7 | [κατσελη](http://twitter.com/search?q=%ce%ba%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
-| 8 | [Αλασκα](http://twitter.com/search?q=%ce%91%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
-| 9 | [Τσανακλιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 10 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 11 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
-| 12 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
-| 13 | [Καληνυχτα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bd%cf%85%cf%87%cf%84%ce%b1) | N/A |
-| 14 | [Deree](http://twitter.com/search?q=Deree) | N/A |
-| 15 | [ειδικο δικαστηριο](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
-| 16 | [c-130j](http://twitter.com/search?q=c-130j) | N/A |
-| 17 | [αγραβανη](http://twitter.com/search?q=%ce%b1%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
-| 18 | [επι συριζα](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9+%cf%83%cf%85%cf%81%ce%b9%ce%b6%ce%b1) | N/A |
-| 19 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
-| 20 | [11 φεβρουαριου](http://twitter.com/search?q=11+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 21 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
-| 22 | [Παππας](http://twitter.com/search?q=%ce%a0%ce%b1%cf%80%cf%80%ce%b1%cf%82) | N/A |
-| 23 | [λαυριο](http://twitter.com/search?q=%ce%bb%ce%b1%cf%85%cf%81%ce%b9%ce%bf) | N/A |
-| 24 | [αγγελω](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
+| 7 | [αλασκα](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b1%cf%83%ce%ba%ce%b1) | N/A |
+| 8 | [Τσανακλιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 9 | [Ακροπολης](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b7%cf%82) | N/A |
+| 10 | [Καληνυχτα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bd%cf%85%cf%87%cf%84%ce%b1) | N/A |
+| 11 | [Κατσελη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%84%cf%83%ce%b5%ce%bb%ce%b7) | N/A |
+| 12 | [deree](http://twitter.com/search?q=deree) | N/A |
+| 13 | [ειδικο δικαστηριο](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
+| 14 | [c-130j](http://twitter.com/search?q=c-130j) | N/A |
+| 15 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 16 | [αγραβανη](http://twitter.com/search?q=%ce%b1%ce%b3%cf%81%ce%b1%ce%b2%ce%b1%ce%bd%ce%b7) | N/A |
+| 17 | [επι συριζα](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9+%cf%83%cf%85%cf%81%ce%b9%ce%b6%ce%b1) | N/A |
+| 18 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
+| 19 | [11 φεβρουαριου](http://twitter.com/search?q=11+%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 20 | [Τσικνοπεμπτη](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%ba%ce%bd%ce%bf%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7) | N/A |
+| 21 | [παππας](http://twitter.com/search?q=%cf%80%ce%b1%cf%80%cf%80%ce%b1%cf%82) | N/A |
+| 22 | [λαυριο](http://twitter.com/search?q=%ce%bb%ce%b1%cf%85%cf%81%ce%b9%ce%bf) | N/A |
+| 23 | [αγγελω](http://twitter.com/search?q=%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
+| 24 | [Μακη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%ce%b7) | N/A |
 | 25 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
 | 26 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
-| 27 | [Αγορου](http://twitter.com/search?q=%ce%91%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
+| 27 | [αγορου](http://twitter.com/search?q=%ce%b1%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
 | 28 | [Βερτη](http://twitter.com/search?q=%ce%92%ce%b5%cf%81%cf%84%ce%b7) | N/A |
-| 29 | [αρσεναλ](http://twitter.com/search?q=%ce%b1%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
-| 30 | [Πλουταρχο](http://twitter.com/search?q=%ce%a0%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
-| 31 | [Τιποτα](http://twitter.com/search?q=%ce%a4%ce%b9%cf%80%ce%bf%cf%84%ce%b1) | N/A |
-| 32 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Σαμοθρακης](http://twitter.com/search?q=%ce%a3%ce%b1%ce%bc%ce%bf%ce%b8%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 35 | [μπενουτα](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%bd%ce%bf%cf%85%cf%84%ce%b1) | N/A |
-| 36 | [αντριους](http://twitter.com/search?q=%ce%b1%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
-| 37 | [Ραντονιτς](http://twitter.com/search?q=%ce%a1%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
-| 38 | [Γκουνταιτις](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
+| 29 | [Πλουταρχο](http://twitter.com/search?q=%ce%a0%ce%bb%ce%bf%cf%85%cf%84%ce%b1%cf%81%cf%87%ce%bf) | N/A |
+| 30 | [παρα 5](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1+5) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [σαμοθρακης](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%bf%ce%b8%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
+| 33 | [ομορφο σαββατοκυριακο](http://twitter.com/search?q=%ce%bf%ce%bc%ce%bf%cf%81%cf%86%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 34 | [μπενουτα](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%bd%ce%bf%cf%85%cf%84%ce%b1) | N/A |
+| 35 | [αντριους](http://twitter.com/search?q=%ce%b1%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
+| 36 | [Ραντονιτς](http://twitter.com/search?q=%ce%a1%ce%b1%ce%bd%cf%84%ce%bf%ce%bd%ce%b9%cf%84%cf%82) | N/A |
+| 37 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
+| 38 | [γκουνταιτις](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b1%ce%b9%cf%84%ce%b9%cf%82) | N/A |
 | 39 | [νικος καββαδιας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%bf%cf%82+%ce%ba%ce%b1%ce%b2%ce%b2%ce%b1%ce%b4%ce%b9%ce%b1%cf%82) | N/A |
 | 40 | [Τζοουνς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%bf%cf%85%ce%bd%cf%82) | N/A |
 | 41 | [Αγιου Βαλεντινου](http://twitter.com/search?q=%ce%91%ce%b3%ce%b9%ce%bf%cf%85+%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85) | N/A |
 | 42 | [Πατσηδες](http://twitter.com/search?q=%ce%a0%ce%b1%cf%84%cf%83%ce%b7%ce%b4%ce%b5%cf%82) | N/A |
-| 43 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
-| 44 | [Κορινθο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%b9%ce%bd%ce%b8%ce%bf) | N/A |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [πανος](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 47 | [πορφυρη](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7) | N/A |
-| 48 | [Σαββατου](http://twitter.com/search?q=%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
-| 49 | [ρωμαιος](http://twitter.com/search?q=%cf%81%cf%89%ce%bc%ce%b1%ce%b9%ce%bf%cf%82) | N/A |
-| 50 | [Πανεπιστημιου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%b9%ce%bf%cf%85) | N/A |
+| 43 | [Βαλενθια](http://twitter.com/search?q=%ce%92%ce%b1%ce%bb%ce%b5%ce%bd%ce%b8%ce%b9%ce%b1) | N/A |
+| 44 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
+| 45 | [κορινθο](http://twitter.com/search?q=%ce%ba%ce%bf%cf%81%ce%b9%ce%bd%ce%b8%ce%bf) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [πανος](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
+| 48 | [πορφυρη](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7) | N/A |
+| 49 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 50 | [σαββατου](http://twitter.com/search?q=%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
 
 
 

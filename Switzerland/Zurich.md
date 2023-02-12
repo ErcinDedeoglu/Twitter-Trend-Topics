@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-12 01:43:53 UTC`
+📆 Last Updated: `2023-02-12 02:40:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 2 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 3 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 4 | [Jasmine Flury](http://twitter.com/search?q=Jasmine+Flury) | N/A |
+| 4 | [jasmine flury](http://twitter.com/search?q=jasmine+flury) | N/A |
 | 5 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
 | 6 | [Petition](http://twitter.com/search?q=Petition) | N/A |
 | 7 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 8 | [#ASMPSG](http://twitter.com/search?q=%23ASMPSG) | N/A |
 | 9 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 10 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Servette FC](http://twitter.com/search?q=Servette+FC) | N/A |
+| 11 | [Servette FC](http://twitter.com/search?q=Servette+FC) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 14 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
 | 15 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
@@ -34,26 +34,26 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 18 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
 | 19 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 20 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Damen](http://twitter.com/search?q=Damen) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 28 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 29 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
-| 30 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Damen](http://twitter.com/search?q=Damen) | N/A |
+| 23 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 26 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 27 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 28 | [Skifahren](http://twitter.com/search?q=Skifahren) | N/A |
+| 29 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 30 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 31 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 32 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 33 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
-| 34 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 37 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 39 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [Reich](http://twitter.com/search?q=Reich) | N/A |
+| 34 | [Gebieten](http://twitter.com/search?q=Gebieten) | N/A |
+| 35 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 36 | [Romania](http://twitter.com/search?q=Romania) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 39 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 40 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
 | 41 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
 | 42 | [luzern](http://twitter.com/search?q=luzern) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [Hals](http://twitter.com/search?q=Hals) | N/A |
 | 45 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
 | 46 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 47 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 48 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 49 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 50 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 47 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 48 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 
 
 

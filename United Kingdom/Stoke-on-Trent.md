@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-12 01:43:36 UTC`
+📆 Last Updated: `2023-02-12 02:40:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 2 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
-| 3 | [#clarksonsfarm2](http://twitter.com/search?q=%23clarksonsfarm2) | N/A |
-| 4 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
-| 5 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 6 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 8 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 11 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
-| 12 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 13 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 14 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
-| 15 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 16 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
+| 1 | [#clarksonsfarm2](http://twitter.com/search?q=%23clarksonsfarm2) | N/A |
+| 2 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 3 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 4 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 5 | [Burn](http://twitter.com/search?q=Burn) | N/A |
+| 6 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 7 | [#Brits2023](http://twitter.com/search?q=%23Brits2023) | N/A |
+| 8 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 9 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 10 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 11 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 12 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 13 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
+| 14 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 15 | [Azim](http://twitter.com/search?q=Azim) | N/A |
+| 16 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
 | 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [Sam Capaldi](http://twitter.com/search?q=Sam+Capaldi) | N/A |
-| 19 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 20 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 21 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 22 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
-| 23 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
-| 24 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
-| 25 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 26 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
-| 27 | [Cat Burns](http://twitter.com/search?q=Cat+Burns) | N/A |
-| 28 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
-| 29 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 30 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 31 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
-| 32 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 33 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
-| 34 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 35 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
-| 36 | [Chelli](http://twitter.com/search?q=Chelli) | N/A |
-| 37 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 38 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
-| 39 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
-| 40 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
-| 41 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
-| 42 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
-| 43 | [Sims](http://twitter.com/search?q=Sims) | N/A |
-| 44 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 45 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
-| 46 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 47 | [SHANIA](http://twitter.com/search?q=SHANIA) | SHANIA is a female given name of Native American origin, derived from the Ojibwe language. It means "I'm on my way" or "on my path". |
-| 48 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 18 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 19 | [David Guetta](http://twitter.com/search?q=David+Guetta) | N/A |
+| 20 | [Stanley Tucci](http://twitter.com/search?q=Stanley+Tucci) | N/A |
+| 21 | [Bowie](http://twitter.com/search?q=Bowie) | N/A |
+| 22 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 23 | [Mo Gilligan](http://twitter.com/search?q=Mo+Gilligan) | N/A |
+| 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 25 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 26 | [Mick Fleetwood](http://twitter.com/search?q=Mick+Fleetwood) | N/A |
+| 27 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 28 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 29 | [Mmeli](http://twitter.com/search?q=Mmeli) | Mmeli is a Zulu word that means “to be brave” or “to be courageous”. It is often used as a rallying cry to encourage people to face their fears and take on challenges. |
+| 30 | [Becky Hill](http://twitter.com/search?q=Becky+Hill) | N/A |
+| 31 | [Aitch](http://twitter.com/search?q=Aitch) | N/A |
+| 32 | [Alpha Tauri](http://twitter.com/search?q=Alpha+Tauri) | N/A |
+| 33 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 34 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 35 | [Tom Grennan](http://twitter.com/search?q=Tom+Grennan) | N/A |
+| 36 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 37 | [Keith Lemon](http://twitter.com/search?q=Keith+Lemon) | N/A |
+| 38 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 39 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 40 | [Billy Connolly](http://twitter.com/search?q=Billy+Connolly) | N/A |
+| 41 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 42 | [Jenkins](http://twitter.com/search?q=Jenkins) | N/A |
+| 43 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 44 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 45 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 46 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
+| 47 | [NIALL LOUIS](http://twitter.com/search?q=NIALL+LOUIS) | N/A |
+| 48 | [matty](http://twitter.com/search?q=matty) | N/A |
 
 
 

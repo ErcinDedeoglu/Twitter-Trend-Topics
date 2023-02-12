@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-12 01:44:26 UTC`
+📆 Last Updated: `2023-02-12 02:41:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 2 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 3 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 4 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 5 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 6 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
-| 7 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 8 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 9 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
-| 10 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 11 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 12 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 13 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 14 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 15 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 16 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 18 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 19 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
-| 20 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 21 | [Michael Santos](http://twitter.com/search?q=Michael+Santos) | N/A |
-| 22 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 23 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 24 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 25 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 26 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 27 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 28 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
-| 29 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 30 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 31 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 32 | [Estigarribia](http://twitter.com/search?q=Estigarribia) | N/A |
-| 33 | [Orsigol](http://twitter.com/search?q=Orsigol) | N/A |
-| 34 | [Irala](http://twitter.com/search?q=Irala) | N/A |
-| 35 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 36 | [#Velez](http://twitter.com/search?q=%23Velez) | N/A |
-| 37 | [Pereyra](http://twitter.com/search?q=Pereyra) | N/A |
-| 38 | [Orihuela](http://twitter.com/search?q=Orihuela) | N/A |
-| 39 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 40 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 41 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 42 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 43 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
-| 44 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
-| 45 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 46 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 47 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 49 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 50 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 2 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 3 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 4 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
+| 5 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 6 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 7 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 8 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 9 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 10 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 11 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 12 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 13 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 14 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 15 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 16 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 17 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 18 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 19 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 20 | [#AgusConBoffe](http://twitter.com/search?q=%23AgusConBoffe) | N/A |
+| 21 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 22 | [#Independiente](http://twitter.com/search?q=%23Independiente) | N/A |
+| 23 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 24 | [#Rominal9009](http://twitter.com/search?q=%23Rominal9009) | N/A |
+| 25 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 26 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 27 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 28 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
+| 29 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 30 | [#BocaJuniors](http://twitter.com/search?q=%23BocaJuniors) | N/A |
+| 31 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 32 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
+| 33 | [Traigan](http://twitter.com/search?q=Traigan) | N/A |
+| 34 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 35 | [Lo de Boca](http://twitter.com/search?q=Lo+de+Boca) | N/A |
+| 36 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 37 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 38 | [Chango](http://twitter.com/search?q=Chango) | N/A |
+| 39 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
+| 40 | [Brey](http://twitter.com/search?q=Brey) | Brey is a German word meaning grey. |
+| 41 | [Varsky](http://twitter.com/search?q=Varsky) | N/A |
+| 42 | [Changuito](http://twitter.com/search?q=Changuito) | N/A |
+| 43 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
+| 44 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 45 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 46 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 47 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 48 | [CABJ](http://twitter.com/search?q=CABJ) | N/A |
+| 49 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 50 | [El DT](http://twitter.com/search?q=El+DT) | N/A |
 
 
 
