@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-12 21:16:18 UTC`
+📆 Last Updated: `2023-02-12 22:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 4 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 5 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 7 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 2 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 3 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 7 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
 | 8 | [Tobermory](http://twitter.com/search?q=Tobermory) | N/A |
-| 9 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 10 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 11 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 12 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 13 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
-| 14 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 15 | [Nick Taylor](http://twitter.com/search?q=Nick+Taylor) | N/A |
-| 16 | [Jordan Harris](http://twitter.com/search?q=Jordan+Harris) | N/A |
+| 9 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 11 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 12 | [#SmashUltimateSummit6](http://twitter.com/search?q=%23SmashUltimateSummit6) | N/A |
+| 13 | [Nick Taylor](http://twitter.com/search?q=Nick+Taylor) | N/A |
+| 14 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 15 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 16 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
 | 17 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 18 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 19 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 20 | [Xhekaj](http://twitter.com/search?q=Xhekaj) | N/A |
-| 21 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 22 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 23 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
-| 24 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 25 | [Alex Belzile](http://twitter.com/search?q=Alex+Belzile) | N/A |
-| 26 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 27 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 28 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
-| 29 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 30 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 31 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 33 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 34 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
-| 35 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 36 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 37 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 38 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 39 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 41 | [Josh Anderson](http://twitter.com/search?q=Josh+Anderson) | N/A |
-| 42 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 43 | [USAF](http://twitter.com/search?q=USAF) | N/A |
+| 18 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 19 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 20 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 21 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 22 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 23 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 24 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [Jordan Harris](http://twitter.com/search?q=Jordan+Harris) | N/A |
+| 27 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 28 | [Xhekaj](http://twitter.com/search?q=Xhekaj) | N/A |
+| 29 | [Alex Belzile](http://twitter.com/search?q=Alex+Belzile) | N/A |
+| 30 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 31 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 32 | [USAF](http://twitter.com/search?q=USAF) | N/A |
+| 33 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 34 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 35 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 36 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 37 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 38 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 39 | [Drai](http://twitter.com/search?q=Drai) | N/A |
+| 40 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 41 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 42 | [North American](http://twitter.com/search?q=North+American) | N/A |
+| 43 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
 | 44 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 45 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 48 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 49 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Bloc](http://twitter.com/search?q=Bloc) | N/A |
+| 47 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 48 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
+| 49 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
 
 
 

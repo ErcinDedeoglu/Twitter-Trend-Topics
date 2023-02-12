@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-12 21:17:05 UTC`
+📆 Last Updated: `2023-02-12 22:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [India](</India>)
 | 3 | [#MCStan](http://twitter.com/search?q=%23MCStan) | N/A |
 | 4 | [#BiggBoss16](http://twitter.com/search?q=%23BiggBoss16) | N/A |
 | 5 | [#PriyankaChaharChaudhary](http://twitter.com/search?q=%23PriyankaChaharChaudhary) | N/A |
-| 6 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 7 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 8 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
-| 9 | [Top 2](http://twitter.com/search?q=Top+2) | N/A |
-| 10 | [Jeet](http://twitter.com/search?q=Jeet) | N/A |
-| 11 | [बिग बॉस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%97+%e0%a4%ac%e0%a5%89%e0%a4%b8) | N/A |
-| 12 | [HBD RASHAMI DESAI](http://twitter.com/search?q=HBD+RASHAMI+DESAI) | N/A |
-| 13 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
-| 14 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 15 | [शिव ठाकरे](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 16 | [Colors](http://twitter.com/search?q=Colors) | N/A |
-| 17 | [Alia](http://twitter.com/search?q=Alia) | N/A |
-| 18 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 19 | [Teja](http://twitter.com/search?q=Teja) | N/A |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 22 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [T-20](http://twitter.com/search?q=T-20) | N/A |
-| 25 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 27 | [Modani Against India](http://twitter.com/search?q=Modani+Against+India) | N/A |
-| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 29 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 32 | [#INDvsPAK](http://twitter.com/search?q=%23INDvsPAK) | N/A |
-| 33 | [#T20WorldCup2023](http://twitter.com/search?q=%23T20WorldCup2023) | N/A |
-| 34 | [#NaiyoLagda](http://twitter.com/search?q=%23NaiyoLagda) | N/A |
-| 35 | [#HaqSeMandli](http://twitter.com/search?q=%23HaqSeMandli) | N/A |
-| 36 | [#PriyAnkit](http://twitter.com/search?q=%23PriyAnkit) | N/A |
-| 37 | [#SidKiaraReception](http://twitter.com/search?q=%23SidKiaraReception) | N/A |
-| 38 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 39 | [#WomenInBlue](http://twitter.com/search?q=%23WomenInBlue) | N/A |
-| 40 | [#ArchanaGautam𓃵](http://twitter.com/search?q=%23ArchanaGautam%f0%93%83%b5) | N/A |
-| 41 | [#JemimahRodrigues](http://twitter.com/search?q=%23JemimahRodrigues) | N/A |
-| 42 | [#biased](http://twitter.com/search?q=%23biased) | N/A |
-| 43 | [#PratikSehajpal](http://twitter.com/search?q=%23PratikSehajpal) | N/A |
-| 44 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
-| 45 | [#SajidKhan](http://twitter.com/search?q=%23SajidKhan) | N/A |
-| 46 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
-| 47 | [#BB13](http://twitter.com/search?q=%23BB13) | N/A |
-| 48 | [#AbduRozik](http://twitter.com/search?q=%23AbduRozik) | N/A |
-| 49 | [#KaranKundrra](http://twitter.com/search?q=%23KaranKundrra) | N/A |
-| 50 | [#MCIAVL](http://twitter.com/search?q=%23MCIAVL) | N/A |
+| 6 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 7 | [KHUP CHAAN SHIV](http://twitter.com/search?q=KHUP+CHAAN+SHIV) | N/A |
+| 8 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 9 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 10 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
+| 11 | [Top 2](http://twitter.com/search?q=Top+2) | N/A |
+| 12 | [Jeet](http://twitter.com/search?q=Jeet) | N/A |
+| 13 | [बिग बॉस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%97+%e0%a4%ac%e0%a5%89%e0%a4%b8) | N/A |
+| 14 | [HBD RASHAMI DESAI](http://twitter.com/search?q=HBD+RASHAMI+DESAI) | N/A |
+| 15 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
+| 16 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 17 | [Colors](http://twitter.com/search?q=Colors) | N/A |
+| 18 | [Alia](http://twitter.com/search?q=Alia) | N/A |
+| 19 | [शिव ठाकरे](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 20 | [Teja](http://twitter.com/search?q=Teja) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Modani Against India](http://twitter.com/search?q=Modani+Against+India) | N/A |
+| 23 | [Pakistan by 7](http://twitter.com/search?q=Pakistan+by+7) | N/A |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 26 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 27 | [#INDvsPAK](http://twitter.com/search?q=%23INDvsPAK) | N/A |
+| 28 | [#T20WorldCup2023](http://twitter.com/search?q=%23T20WorldCup2023) | N/A |
+| 29 | [#NaiyoLagda](http://twitter.com/search?q=%23NaiyoLagda) | N/A |
+| 30 | [#PriyAnkit](http://twitter.com/search?q=%23PriyAnkit) | N/A |
+| 31 | [#Mandali](http://twitter.com/search?q=%23Mandali) | N/A |
+| 32 | [#SidKiaraReception](http://twitter.com/search?q=%23SidKiaraReception) | N/A |
+| 33 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 34 | [#ArchanaGautam𓃵](http://twitter.com/search?q=%23ArchanaGautam%f0%93%83%b5) | N/A |
+| 35 | [#WomenInBlue](http://twitter.com/search?q=%23WomenInBlue) | N/A |
+| 36 | [#jemimahrodrigues](http://twitter.com/search?q=%23jemimahrodrigues) | N/A |
+| 37 | [#biased](http://twitter.com/search?q=%23biased) | N/A |
+| 38 | [#PratikSehajpal](http://twitter.com/search?q=%23PratikSehajpal) | N/A |
+| 39 | [#BB13](http://twitter.com/search?q=%23BB13) | N/A |
+| 40 | [#LEEMUN](http://twitter.com/search?q=%23LEEMUN) | N/A |
+| 41 | [#SajidKhan](http://twitter.com/search?q=%23SajidKhan) | N/A |
+| 42 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
+| 43 | [#AbduRozik](http://twitter.com/search?q=%23AbduRozik) | N/A |
+| 44 | [#KaranKundrra](http://twitter.com/search?q=%23KaranKundrra) | N/A |
+| 45 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
+| 46 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 47 | [#BabyDogeSwap](http://twitter.com/search?q=%23BabyDogeSwap) | N/A |
+| 48 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 49 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
+| 50 | [#TinaDatta](http://twitter.com/search?q=%23TinaDatta) | N/A |
 
 
 

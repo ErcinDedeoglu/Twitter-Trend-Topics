@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-12 21:16:34 UTC`
+📆 Last Updated: `2023-02-12 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LEGCRA](http://twitter.com/search?q=%23LEGCRA) | N/A |
-| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 3 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 4 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 5 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
-| 6 | [#ZAGPIA](http://twitter.com/search?q=%23ZAGPIA) | N/A |
-| 7 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 8 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
+| 1 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 2 | [#LEGCRA](http://twitter.com/search?q=%23LEGCRA) | N/A |
+| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 5 | [#VillarrealBarca](http://twitter.com/search?q=%23VillarrealBarca) | N/A |
+| 6 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 7 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 8 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 9 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 10 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 11 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 10 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 11 | [Legii](http://twitter.com/search?q=Legii) | N/A |
 | 12 | [Kanadą](http://twitter.com/search?q=Kanad%c4%85) | N/A |
-| 13 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
-| 14 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
-| 15 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 16 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 17 | [Siplaka](http://twitter.com/search?q=Siplaka) | N/A |
-| 18 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 19 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 20 | [Wieczorem](http://twitter.com/search?q=Wieczorem) | N/A |
-| 21 | [Newsweeka](http://twitter.com/search?q=Newsweeka) | N/A |
-| 22 | [Guziki](http://twitter.com/search?q=Guziki) | N/A |
-| 23 | [Pekharta](http://twitter.com/search?q=Pekharta) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Tobiasz](http://twitter.com/search?q=Tobiasz) | N/A |
-| 26 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 27 | [klingenthal](http://twitter.com/search?q=klingenthal) | N/A |
+| 13 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
+| 14 | [Sikorskiego](http://twitter.com/search?q=Sikorskiego) | N/A |
+| 15 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 16 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 17 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
+| 18 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 19 | [Newsweeka](http://twitter.com/search?q=Newsweeka) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Guziki](http://twitter.com/search?q=Guziki) | N/A |
+| 22 | [Tobiasz](http://twitter.com/search?q=Tobiasz) | N/A |
+| 23 | [klingenthal](http://twitter.com/search?q=klingenthal) | N/A |
+| 24 | [Wieczorem](http://twitter.com/search?q=Wieczorem) | N/A |
+| 25 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 26 | [Pekhart](http://twitter.com/search?q=Pekhart) | N/A |
+| 27 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 28 | [Niemen](http://twitter.com/search?q=Niemen) | N/A |
-| 29 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 30 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 31 | [Klenczon](http://twitter.com/search?q=Klenczon) | N/A |
-| 32 | [dziewcząt](http://twitter.com/search?q=dziewcz%c4%85t) | N/A |
-| 33 | [Rasnovie](http://twitter.com/search?q=Rasnovie) | N/A |
-| 34 | [Grochal](http://twitter.com/search?q=Grochal) | N/A |
-| 35 | [Skra](http://twitter.com/search?q=Skra) | N/A |
-| 36 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 37 | [Zagrobelny](http://twitter.com/search?q=Zagrobelny) | N/A |
-| 38 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 40 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 41 | [Niedziela](http://twitter.com/search?q=Niedziela) | N/A |
-| 42 | [Murawski](http://twitter.com/search?q=Murawski) | N/A |
-| 43 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 44 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 45 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
-| 46 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
-| 47 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
-| 48 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 49 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
-| 50 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 29 | [Klenczon](http://twitter.com/search?q=Klenczon) | N/A |
+| 30 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 31 | [Skra](http://twitter.com/search?q=Skra) | N/A |
+| 32 | [Grochal](http://twitter.com/search?q=Grochal) | N/A |
+| 33 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Niedziela](http://twitter.com/search?q=Niedziela) | N/A |
+| 36 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 37 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 38 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 39 | [Zagrobelny](http://twitter.com/search?q=Zagrobelny) | N/A |
+| 40 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 41 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
+| 42 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
+| 43 | [Siplaka](http://twitter.com/search?q=Siplaka) | N/A |
+| 44 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 46 | [Rasnov](http://twitter.com/search?q=Rasnov) | N/A |
+| 47 | [urbaniak](http://twitter.com/search?q=urbaniak) | N/A |
+| 48 | [Murawski](http://twitter.com/search?q=Murawski) | N/A |
+| 49 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 50 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
 
 
 

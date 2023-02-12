@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-12 21:17:15 UTC`
+📆 Last Updated: `2023-02-12 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 2 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 3 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 4 | [#BirdGang](http://twitter.com/search?q=%23BirdGang) | N/A |
-| 5 | [Wawa](http://twitter.com/search?q=Wawa) | N/A |
-| 6 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 9 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 10 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 11 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 12 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 1 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 2 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 3 | [#BirdGang](http://twitter.com/search?q=%23BirdGang) | N/A |
+| 4 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 5 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 8 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 9 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 11 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 12 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
 | 13 | [#PuppyBowl](http://twitter.com/search?q=%23PuppyBowl) | N/A |
-| 14 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 15 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 16 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
-| 17 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 18 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 14 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 15 | [Jason Derulo](http://twitter.com/search?q=Jason+Derulo) | N/A |
+| 16 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 17 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 18 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
 | 19 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 20 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 22 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 23 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 24 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 25 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 20 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
+| 21 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 22 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 23 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
+| 24 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 25 | [RIP Trugoy](http://twitter.com/search?q=RIP+Trugoy) | N/A |
 | 26 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 28 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 29 | [Fletcher Cox](http://twitter.com/search?q=Fletcher+Cox) | N/A |
-| 30 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 31 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
-| 32 | [Derek Jeter](http://twitter.com/search?q=Derek+Jeter) | N/A |
-| 33 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 34 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 35 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 36 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 37 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 38 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 39 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 40 | [Nick Taylor](http://twitter.com/search?q=Nick+Taylor) | N/A |
-| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 42 | [Super Show](http://twitter.com/search?q=Super+Show) | N/A |
-| 43 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
-| 44 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 45 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 46 | [Tom Rinaldi](http://twitter.com/search?q=Tom+Rinaldi) | N/A |
-| 47 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
-| 48 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 49 | [Chase Audige](http://twitter.com/search?q=Chase+Audige) | N/A |
-| 50 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 27 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
+| 28 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 30 | [Super Show](http://twitter.com/search?q=Super+Show) | N/A |
+| 31 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 33 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 34 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 35 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 36 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 37 | [Great Lakes](http://twitter.com/search?q=Great+Lakes) | N/A |
+| 38 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 39 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 40 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 41 | [Team Fluff](http://twitter.com/search?q=Team+Fluff) | N/A |
+| 42 | [Derek Jeter](http://twitter.com/search?q=Derek+Jeter) | N/A |
+| 43 | [Plug 2](http://twitter.com/search?q=Plug+2) | N/A |
+| 44 | [Chris Collins](http://twitter.com/search?q=Chris+Collins) | N/A |
+| 45 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 46 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 47 | [Fletcher Cox](http://twitter.com/search?q=Fletcher+Cox) | N/A |
+| 48 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 49 | [Team Ruff](http://twitter.com/search?q=Team+Ruff) | N/A |
+| 50 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
 
 
 

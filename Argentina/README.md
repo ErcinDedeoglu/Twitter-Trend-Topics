@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-12 21:17:18 UTC`
+📆 Last Updated: `2023-02-12 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 2 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 3 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 4 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
-| 7 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 8 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 10 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 11 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 12 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 14 | [Aleman](http://twitter.com/search?q=Aleman) | N/A |
-| 15 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 16 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 17 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 18 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 19 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 20 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
-| 21 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 23 | [#Romina9009](http://twitter.com/search?q=%23Romina9009) | N/A |
-| 24 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 25 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 26 | [Tenembaum](http://twitter.com/search?q=Tenembaum) | N/A |
-| 27 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 28 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [CALIENTE](http://twitter.com/search?q=CALIENTE) | N/A |
-| 31 | [Cafiero](http://twitter.com/search?q=Cafiero) | N/A |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 33 | [Bambino](http://twitter.com/search?q=Bambino) | N/A |
-| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 35 | [Ayrton](http://twitter.com/search?q=Ayrton) | N/A |
-| 36 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 37 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 38 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 39 | [Team Verano](http://twitter.com/search?q=Team+Verano) | N/A |
-| 40 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 41 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 42 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 43 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 44 | [Anoche](http://twitter.com/search?q=Anoche) | N/A |
-| 45 | [Piri](http://twitter.com/search?q=Piri) | N/A |
-| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 47 | [#TOP100KPOPLEADERS](http://twitter.com/search?q=%23TOP100KPOPLEADERS) | N/A |
-| 48 | [#TCenViedma](http://twitter.com/search?q=%23TCenViedma) | N/A |
-| 49 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
-| 50 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 1 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
+| 2 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 3 | [Durso](http://twitter.com/search?q=Durso) | N/A |
+| 4 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 5 | [Aleman](http://twitter.com/search?q=Aleman) | N/A |
+| 6 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 7 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 9 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 10 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 11 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
+| 12 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 13 | [Enzo Díaz](http://twitter.com/search?q=Enzo+D%c3%adaz) | N/A |
+| 14 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 15 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 16 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
+| 17 | [Bertolo](http://twitter.com/search?q=Bertolo) | N/A |
+| 18 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 19 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 20 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 21 | [Candia](http://twitter.com/search?q=Candia) | Candia is an alternative name for the island of Crete, located in the Mediterranean Sea. The name is derived from the ancient Greek word for Crete, Κάνδια (Kandia). In English, Candia means "Crete". |
+| 22 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 23 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 24 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 25 | [CADU](http://twitter.com/search?q=CADU) | N/A |
+| 26 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 27 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 28 | [Casco](http://twitter.com/search?q=Casco) | N/A |
+| 29 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 30 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 31 | [#RosarioCentral](http://twitter.com/search?q=%23RosarioCentral) | N/A |
+| 32 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 34 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 35 | [Tenembaum](http://twitter.com/search?q=Tenembaum) | N/A |
+| 36 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 38 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 39 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 40 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 41 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 42 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 43 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 44 | [CALIENTE](http://twitter.com/search?q=CALIENTE) | N/A |
+| 45 | [Cafiero](http://twitter.com/search?q=Cafiero) | N/A |
+| 46 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 47 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 48 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 49 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 50 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
 
 
 
