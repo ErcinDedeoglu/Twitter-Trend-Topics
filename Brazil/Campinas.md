@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-12 18:16:11 UTC`
+📆 Last Updated: `2023-02-12 19:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 | 2 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 3 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
-| 4 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
-| 5 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 6 | [Denilson](http://twitter.com/search?q=Denilson) | Denilson is a Portuguese name derived from the Latin name Dionysius. It is a combination of the words "deus" (god) and "nilson" (son of Nil). The name can be translated to mean "God's son". |
-| 7 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
-| 8 | [Milene](http://twitter.com/search?q=Milene) | N/A |
-| 9 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 10 | [alessandra](http://twitter.com/search?q=alessandra) | N/A |
-| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 12 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 13 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
-| 14 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 16 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 17 | [Canja](http://twitter.com/search?q=Canja) | N/A |
-| 18 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
+| 3 | [As Brabas](http://twitter.com/search?q=As+Brabas) | N/A |
+| 4 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 5 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 6 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
+| 7 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 8 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
+| 9 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
+| 10 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 11 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 12 | [O Cristian](http://twitter.com/search?q=O+Cristian) | N/A |
+| 13 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 14 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 15 | [Milene](http://twitter.com/search?q=Milene) | N/A |
+| 16 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 17 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
+| 18 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 19 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 20 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 21 | [Neo Química Arena](http://twitter.com/search?q=Neo+Qu%c3%admica+Arena) | N/A |
-| 22 | [O Cristian](http://twitter.com/search?q=O+Cristian) | N/A |
-| 23 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 24 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 25 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 27 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 28 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 29 | [#SpotifyAbreOCadeado](http://twitter.com/search?q=%23SpotifyAbreOCadeado) | N/A |
-| 30 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 20 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
+| 21 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 22 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 23 | [Canja](http://twitter.com/search?q=Canja) | N/A |
+| 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 25 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 26 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 27 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 28 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 29 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 30 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 31 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 32 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
-| 33 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 34 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
-| 35 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 36 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
-| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 32 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 33 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
+| 34 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 35 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
+| 36 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 37 | [Loud](http://twitter.com/search?q=Loud) | N/A |
 | 38 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 39 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 40 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 41 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 42 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 43 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
-| 44 | [Lucian](http://twitter.com/search?q=Lucian) | N/A |
-| 45 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 46 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 47 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 48 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
-| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 50 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 39 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 40 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
+| 41 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 42 | [ONZE ANOS REZENDEEVIL](http://twitter.com/search?q=ONZE+ANOS+REZENDEEVIL) | N/A |
+| 43 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 44 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 45 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 46 | [Assinado](http://twitter.com/search?q=Assinado) | N/A |
+| 47 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
+| 50 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
 
 
 

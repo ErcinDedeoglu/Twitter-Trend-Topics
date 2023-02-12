@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-12 18:16:09 UTC`
+📆 Last Updated: `2023-02-12 19:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [VRAEM](http://twitter.com/search?q=VRAEM) | N/A |
-| 2 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
-| 3 | [#SS9inPeru](http://twitter.com/search?q=%23SS9inPeru) | N/A |
-| 4 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 5 | [#SS9inLima](http://twitter.com/search?q=%23SS9inLima) | N/A |
-| 6 | [TERRORISTAS](http://twitter.com/search?q=TERRORISTAS) | N/A |
-| 7 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
-| 8 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 9 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 10 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
-| 11 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 12 | [La FPF](http://twitter.com/search?q=La+FPF) | N/A |
-| 13 | [Quispe Palomino](http://twitter.com/search?q=Quispe+Palomino) | N/A |
-| 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 17 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
-| 18 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 20 | [Renato Tapia](http://twitter.com/search?q=Renato+Tapia) | Renato Tapia is a Peruvian professional footballer who plays as a defensive midfielder for Feyenoord in the Dutch Eredivisie. His name translates to "renewed strength" in English. |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 23 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 24 | [Antezana](http://twitter.com/search?q=Antezana) | N/A |
-| 25 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
-| 26 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 27 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 28 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 29 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 30 | [Natividad](http://twitter.com/search?q=Natividad) | N/A |
-| 31 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 32 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 33 | [Vizcatan](http://twitter.com/search?q=Vizcatan) | N/A |
-| 34 | [Unión Comercio](http://twitter.com/search?q=Uni%c3%b3n+Comercio) | N/A |
-| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 36 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 37 | [Tengo 2](http://twitter.com/search?q=Tengo+2) | N/A |
-| 38 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
-| 39 | [SECUESTRADO](http://twitter.com/search?q=SECUESTRADO) | N/A |
-| 40 | [DAZZLING ROSÉ TURNS 26](http://twitter.com/search?q=DAZZLING+ROS%c3%89+TURNS+26) | N/A |
-| 41 | [Pichari](http://twitter.com/search?q=Pichari) | N/A |
-| 42 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
-| 43 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 44 | [Joinnus](http://twitter.com/search?q=Joinnus) | N/A |
-| 45 | [jimin is coming](http://twitter.com/search?q=jimin+is+coming) | N/A |
-| 46 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
-| 47 | [harris reed](http://twitter.com/search?q=harris+reed) | N/A |
-| 48 | [Leeteuk](http://twitter.com/search?q=Leeteuk) | N/A |
-| 49 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 50 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 2 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 3 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 4 | [#SS9inPeru](http://twitter.com/search?q=%23SS9inPeru) | N/A |
+| 5 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 6 | [#SS9inLima](http://twitter.com/search?q=%23SS9inLima) | N/A |
+| 7 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 8 | [TERRORISTAS](http://twitter.com/search?q=TERRORISTAS) | N/A |
+| 9 | [#FeelsBirthdayRubius](http://twitter.com/search?q=%23FeelsBirthdayRubius) | N/A |
+| 10 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 11 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
+| 12 | [OVNI](http://twitter.com/search?q=OVNI) | N/A |
+| 13 | [Alianza Atlético](http://twitter.com/search?q=Alianza+Atl%c3%a9tico) | N/A |
+| 14 | [Pérez Guedes](http://twitter.com/search?q=P%c3%a9rez+Guedes) | N/A |
+| 15 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
+| 16 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
+| 17 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 18 | [Unión Comercio](http://twitter.com/search?q=Uni%c3%b3n+Comercio) | N/A |
+| 19 | [Miguel Cornejo](http://twitter.com/search?q=Miguel+Cornejo) | N/A |
+| 20 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 21 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 22 | [Quispe Palomino](http://twitter.com/search?q=Quispe+Palomino) | N/A |
+| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 24 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 25 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
+| 26 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 27 | [Antezana](http://twitter.com/search?q=Antezana) | N/A |
+| 28 | [Renato Tapia](http://twitter.com/search?q=Renato+Tapia) | Renato Tapia is a Peruvian professional footballer who plays as a defensive midfielder for Feyenoord in the Dutch Eredivisie. His name translates to "renewed strength" in English. |
+| 29 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 30 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 31 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 32 | [La FPF](http://twitter.com/search?q=La+FPF) | N/A |
+| 33 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 34 | [Natividad](http://twitter.com/search?q=Natividad) | N/A |
+| 35 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 36 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
+| 37 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 38 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 39 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [Vizcatan](http://twitter.com/search?q=Vizcatan) | N/A |
+| 42 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 43 | [Tengo 2](http://twitter.com/search?q=Tengo+2) | N/A |
+| 44 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 46 | [SECUESTRADO](http://twitter.com/search?q=SECUESTRADO) | N/A |
+| 47 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
+| 48 | [Pichari](http://twitter.com/search?q=Pichari) | N/A |
+| 49 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 50 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
 
 
 

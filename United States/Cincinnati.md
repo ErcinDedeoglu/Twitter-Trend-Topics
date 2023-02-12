@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-02-12 18:16:42 UTC`
+📆 Last Updated: `2023-02-12 19:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 1 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 2 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 3 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
 | 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 5 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
-| 6 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 8 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 9 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
+| 5 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 6 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
+| 7 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
+| 8 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 9 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
 | 10 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 11 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 12 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
-| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 14 | [Puppy Bowl](http://twitter.com/search?q=Puppy+Bowl) | N/A |
-| 15 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
-| 16 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 17 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [Black National Anthem](http://twitter.com/search?q=Black+National+Anthem) | N/A |
-| 22 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
-| 23 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 24 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 25 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 26 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 27 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 28 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 29 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 32 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
-| 33 | [Gannon](http://twitter.com/search?q=Gannon) | Gannon is a surname of Irish origin. It is derived from the Gaelic name "O'Ganain," which means "son of the fair one." In English, it can be translated to mean "fair-haired son." |
-| 34 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 35 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
+| 11 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
+| 12 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 13 | [#PuppyBowl](http://twitter.com/search?q=%23PuppyBowl) | N/A |
+| 14 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 15 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 16 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 17 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 18 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 19 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 20 | [Jalen Hurts](http://twitter.com/search?q=Jalen+Hurts) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 24 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 25 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
+| 26 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
+| 27 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 28 | [Brian Johnson](http://twitter.com/search?q=Brian+Johnson) | N/A |
+| 29 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
+| 30 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
+| 31 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
+| 32 | [Shane Steichen](http://twitter.com/search?q=Shane+Steichen) | N/A |
+| 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 34 | [Barry Sacks](http://twitter.com/search?q=Barry+Sacks) | N/A |
+| 35 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 36 | [Ian Kinsler](http://twitter.com/search?q=Ian+Kinsler) | N/A |
-| 37 | [Jeff Saturday](http://twitter.com/search?q=Jeff+Saturday) | Jeff Saturday is a former American football center who played in the National Football League (NFL) for 14 seasons. He is best known for his time with the Indianapolis Colts, with whom he won Super Bowl XLI over the Chicago Bears. The phrase "Jeff Saturday" is often used as a metaphor for teamwork and collaboration, as Saturday was known for his ability to work well with others on the field. |
-| 38 | [Tecmo Bowl](http://twitter.com/search?q=Tecmo+Bowl) | N/A |
-| 39 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 40 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 41 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
-| 42 | [Mama Kelce](http://twitter.com/search?q=Mama+Kelce) | N/A |
-| 43 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 44 | [Only Americans](http://twitter.com/search?q=Only+Americans) | N/A |
-| 45 | [MATZ](http://twitter.com/search?q=MATZ) | N/A |
-| 46 | [Rex Ryan](http://twitter.com/search?q=Rex+Ryan) | Rex Ryan is an American football coach who is currently the head coach of the Buffalo Bills. He has previously served as the head coach of the New York Jets and the Baltimore Ravens. The name Rex Ryan is derived from his father's first name, Rex, and his brother's middle name, Ryan. |
-| 47 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 48 | [Blades of Steel](http://twitter.com/search?q=Blades+of+Steel) | N/A |
-| 49 | [Double Dribble](http://twitter.com/search?q=Double+Dribble) | N/A |
-| 50 | [Bobby Slowik](http://twitter.com/search?q=Bobby+Slowik) | N/A |
+| 37 | [National Defense Airspace](http://twitter.com/search?q=National+Defense+Airspace) | N/A |
+| 38 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
+| 39 | [Loaded Baked Potato](http://twitter.com/search?q=Loaded+Baked+Potato) | N/A |
+| 40 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 42 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
+| 43 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
+| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 45 | [Rhianna](http://twitter.com/search?q=Rhianna) | N/A |
+| 46 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 47 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 48 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 49 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 50 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-12 18:16:15 UTC`
+📆 Last Updated: `2023-02-12 19:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 2 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 3 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
-| 4 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
-| 5 | [#BSCBMG](http://twitter.com/search?q=%23BSCBMG) | N/A |
+| 1 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 2 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
+| 3 | [#KOESGE](http://twitter.com/search?q=%23KOESGE) | N/A |
+| 4 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
+| 5 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
 | 6 | [Regierungsauftrag](http://twitter.com/search?q=Regierungsauftrag) | N/A |
-| 7 | [#Giffey](http://twitter.com/search?q=%23Giffey) | N/A |
-| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 9 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 10 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
-| 11 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
-| 12 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 13 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
-| 14 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
-| 15 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
-| 16 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 17 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 18 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 19 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 20 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
-| 21 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
-| 22 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 23 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
-| 24 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
-| 25 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
-| 26 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 27 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 29 | [Rot-Rot-Grün](http://twitter.com/search?q=Rot-Rot-Gr%c3%bcn) | N/A |
-| 30 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 31 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
-| 32 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
-| 33 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 34 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 35 | [Hauptstadt](http://twitter.com/search?q=Hauptstadt) | N/A |
-| 36 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
-| 37 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 38 | [Wahlzettel](http://twitter.com/search?q=Wahlzettel) | N/A |
-| 39 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
-| 40 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
+| 7 | [#BerlinerRunde](http://twitter.com/search?q=%23BerlinerRunde) | N/A |
+| 8 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 9 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 10 | [Bürgermeisterin](http://twitter.com/search?q=B%c3%bcrgermeisterin) | N/A |
+| 11 | [Wahlsieger](http://twitter.com/search?q=Wahlsieger) | N/A |
+| 12 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 13 | [GroKo](http://twitter.com/search?q=GroKo) | N/A |
+| 14 | [Wählerwillen](http://twitter.com/search?q=W%c3%a4hlerwillen) | N/A |
+| 15 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
+| 16 | [Mehrheiten](http://twitter.com/search?q=Mehrheiten) | N/A |
+| 17 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 18 | [Schwarz-Grün](http://twitter.com/search?q=Schwarz-Gr%c3%bcn) | N/A |
+| 19 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 20 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
+| 21 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 22 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
+| 23 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 24 | [Jarasch](http://twitter.com/search?q=Jarasch) | N/A |
+| 25 | [Bundestagswahl](http://twitter.com/search?q=Bundestagswahl) | N/A |
+| 26 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 27 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 28 | [Wahlabend](http://twitter.com/search?q=Wahlabend) | N/A |
+| 29 | [SPD und Grüne](http://twitter.com/search?q=SPD+und+Gr%c3%bcne) | N/A |
+| 30 | [Regierungsbildung](http://twitter.com/search?q=Regierungsbildung) | N/A |
+| 31 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 32 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
+| 33 | [Nichtwähler](http://twitter.com/search?q=Nichtw%c3%a4hler) | N/A |
+| 34 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 35 | [Quittung](http://twitter.com/search?q=Quittung) | N/A |
+| 36 | [Hauptstadt](http://twitter.com/search?q=Hauptstadt) | N/A |
+| 37 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 38 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 39 | [Rot-Rot-Grün](http://twitter.com/search?q=Rot-Rot-Gr%c3%bcn) | N/A |
+| 40 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
 | 41 | [Abgeordnetenhaus](http://twitter.com/search?q=Abgeordnetenhaus) | N/A |
-| 42 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
-| 43 | [Wahlurne](http://twitter.com/search?q=Wahlurne) | N/A |
-| 44 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 45 | [Wahlhelfer](http://twitter.com/search?q=Wahlhelfer) | N/A |
-| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 47 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 48 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 49 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 42 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
+| 43 | [Wahl in Berlin](http://twitter.com/search?q=Wahl+in+Berlin) | N/A |
+| 44 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 45 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
+| 46 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 47 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 48 | [Chromosomen](http://twitter.com/search?q=Chromosomen) | N/A |
+| 49 | [Berlinern](http://twitter.com/search?q=Berlinern) | N/A |
 
 
 

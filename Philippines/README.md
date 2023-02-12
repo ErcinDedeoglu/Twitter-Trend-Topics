@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-12 18:16:56 UTC`
+📆 Last Updated: `2023-02-12 19:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,50 @@ This is top 50 for Philippines
 | 1 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
 | 2 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
 | 3 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 4 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
-| 5 | [#TheDebuntanteMNL](http://twitter.com/search?q=%23TheDebuntanteMNL) | N/A |
+| 4 | [#TheDebuntanteMNL](http://twitter.com/search?q=%23TheDebuntanteMNL) | N/A |
+| 5 | [#HORI7ON](http://twitter.com/search?q=%23HORI7ON) | N/A |
 | 6 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 7 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 8 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 9 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 11 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 12 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 13 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 7 | [Drei](http://twitter.com/search?q=Drei) | N/A |
+| 8 | [Vinci](http://twitter.com/search?q=Vinci) | N/A |
+| 9 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
+| 10 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 12 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 13 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 | 14 | [Solar](http://twitter.com/search?q=Solar) | N/A |
-| 15 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
-| 16 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
-| 17 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 18 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 19 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
-| 20 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
-| 21 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 22 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
+| 15 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 16 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 17 | [SHOT PUNO](http://twitter.com/search?q=SHOT+PUNO) | N/A |
+| 18 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
+| 19 | [Reyster](http://twitter.com/search?q=Reyster) | N/A |
+| 20 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 21 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
+| 22 | [Jay-R](http://twitter.com/search?q=Jay-R) | N/A |
 | 23 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
 | 24 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
-| 25 | [Congrats Kim](http://twitter.com/search?q=Congrats+Kim) | N/A |
-| 26 | [Josh L](http://twitter.com/search?q=Josh+L) | N/A |
-| 27 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
-| 28 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
-| 29 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
-| 30 | [Jiro](http://twitter.com/search?q=Jiro) | N/A |
-| 31 | [GO GO GO](http://twitter.com/search?q=GO+GO+GO) | N/A |
-| 32 | [P'Nam](http://twitter.com/search?q=P%27Nam) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 35 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 36 | [#StylishMikkiDay](http://twitter.com/search?q=%23StylishMikkiDay) | N/A |
+| 25 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 26 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
+| 27 | [JOSH L](http://twitter.com/search?q=JOSH+L) | N/A |
+| 28 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 29 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 30 | [Lovey Dovey](http://twitter.com/search?q=Lovey+Dovey) | N/A |
+| 31 | [EXCITED KA NA BA](http://twitter.com/search?q=EXCITED+KA+NA+BA) | N/A |
+| 32 | [P'nam](http://twitter.com/search?q=P%27nam) | N/A |
+| 33 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 34 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 35 | [#StylishMikkiDay](http://twitter.com/search?q=%23StylishMikkiDay) | N/A |
+| 36 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
 | 37 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
-| 38 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
-| 39 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
+| 38 | [#6YearsWithSpringDay](http://twitter.com/search?q=%236YearsWithSpringDay) | N/A |
+| 39 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
 | 40 | [#BGYO](http://twitter.com/search?q=%23BGYO) | N/A |
-| 41 | [#HAN_SKZRECORD](http://twitter.com/search?q=%23HAN_SKZRECORD) | N/A |
-| 42 | [#한_슼즈레코드](http://twitter.com/search?q=%23%ed%95%9c_%ec%8a%bc%ec%a6%88%eb%a0%88%ec%bd%94%eb%93%9c) | N/A |
-| 43 | [#CrashCourseInRomanceEp10](http://twitter.com/search?q=%23CrashCourseInRomanceEp10) | N/A |
-| 44 | [#PHARITA](http://twitter.com/search?q=%23PHARITA) | N/A |
+| 41 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 42 | [#PHARITA](http://twitter.com/search?q=%23PHARITA) | N/A |
+| 43 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
+| 44 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 45 | [#TheDebutanteManila](http://twitter.com/search?q=%23TheDebutanteManila) | N/A |
-| 46 | [#FreenBeckyPH](http://twitter.com/search?q=%23FreenBeckyPH) | N/A |
-| 47 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 48 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 49 | [#WashWithV](http://twitter.com/search?q=%23WashWithV) | N/A |
-| 50 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
+| 46 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
+| 47 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
 
 
 

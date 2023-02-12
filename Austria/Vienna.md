@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-12 18:16:13 UTC`
+📆 Last Updated: `2023-02-12 19:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [#Berlinwahl2023](http://twitter.com/search?q=%23Berlinwahl2023) | N/A |
 | 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 3 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
-| 4 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 5 | [#Dudw](http://twitter.com/search?q=%23Dudw) | N/A |
-| 6 | [#svrhtb](http://twitter.com/search?q=%23svrhtb) | N/A |
-| 7 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 8 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 4 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 5 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 6 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 7 | [#svrhtb](http://twitter.com/search?q=%23svrhtb) | N/A |
+| 8 | [#FAKSKA](http://twitter.com/search?q=%23FAKSKA) | N/A |
 | 9 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 10 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 11 | [Februar 1934](http://twitter.com/search?q=Februar+1934) | N/A |
-| 12 | [Othmar](http://twitter.com/search?q=Othmar) | N/A |
-| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 14 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
-| 15 | [Aschbacher](http://twitter.com/search?q=Aschbacher) | N/A |
-| 16 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
-| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 18 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 20 | [Ängste](http://twitter.com/search?q=%c3%84ngste) | N/A |
-| 21 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 22 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 23 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 24 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 25 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Höhe](http://twitter.com/search?q=H%c3%b6he) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [Othmar](http://twitter.com/search?q=Othmar) | N/A |
+| 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 15 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
+| 16 | [Aschbacher](http://twitter.com/search?q=Aschbacher) | N/A |
+| 17 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
+| 18 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
+| 19 | [Krone](http://twitter.com/search?q=Krone) | N/A |
+| 20 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 21 | [Ängste](http://twitter.com/search?q=%c3%84ngste) | N/A |
+| 22 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 23 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 24 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 25 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 26 | [Höhe](http://twitter.com/search?q=H%c3%b6he) | N/A |
+| 27 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 28 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
 | 29 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 30 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 31 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 31 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 32 | [Hilfe vor Ort](http://twitter.com/search?q=Hilfe+vor+Ort) | N/A |
-| 33 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 34 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
+| 33 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 34 | [Feld](http://twitter.com/search?q=Feld) | N/A |
 | 35 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
-| 36 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 37 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 36 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
+| 37 | [Pferd](http://twitter.com/search?q=Pferd) | N/A |
 | 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Stein](http://twitter.com/search?q=Stein) | N/A |
-| 40 | [Pferd](http://twitter.com/search?q=Pferd) | N/A |
-| 41 | [Feld](http://twitter.com/search?q=Feld) | N/A |
-| 42 | [Zäune](http://twitter.com/search?q=Z%c3%a4une) | N/A |
-| 43 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 45 | [Message Control](http://twitter.com/search?q=Message+Control) | N/A |
+| 39 | [Zäune](http://twitter.com/search?q=Z%c3%a4une) | N/A |
+| 40 | [Geschenk](http://twitter.com/search?q=Geschenk) | N/A |
+| 41 | [Cent](http://twitter.com/search?q=Cent) | N/A |
+| 42 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Message Control](http://twitter.com/search?q=Message+Control) | N/A |
+| 45 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
 | 46 | [$NUGGET](http://twitter.com/search?q=%24NUGGET) | N/A |
-| 47 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 48 | [thür](http://twitter.com/search?q=th%c3%bcr) | N/A |
-| 49 | [Datum](http://twitter.com/search?q=Datum) | N/A |
-| 50 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 47 | [thür](http://twitter.com/search?q=th%c3%bcr) | N/A |
+| 48 | [Datum](http://twitter.com/search?q=Datum) | N/A |
+| 49 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 50 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
 
 
 

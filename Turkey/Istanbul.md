@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-12 18:16:40 UTC`
+📆 Last Updated: `2023-02-12 19:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kadir Sütçü](http://twitter.com/search?q=Kadir+S%c3%bct%c3%a7%c3%bc) | N/A |
-| 2 | [Babala Baraj](http://twitter.com/search?q=Babala+Baraj) | N/A |
-| 3 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 1 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 2 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
+| 3 | [Taha](http://twitter.com/search?q=Taha) | N/A |
 | 4 | [TV 100](http://twitter.com/search?q=TV+100) | N/A |
-| 5 | [Halkı](http://twitter.com/search?q=Halk%c4%b1) | N/A |
-| 6 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 7 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
-| 8 | [#kykçözümdeğil](http://twitter.com/search?q=%23kyk%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
-| 9 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 10 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 11 | [#YurtlarÇözümDeğil](http://twitter.com/search?q=%23Yurtlar%c3%87%c3%b6z%c3%bcmDe%c4%9fil) | N/A |
-| 12 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
-| 13 | [#okullaracilsin](http://twitter.com/search?q=%23okullaracilsin) | N/A |
-| 14 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 15 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 16 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 17 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
-| 18 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 5 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
+| 6 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
+| 7 | [Halkı](http://twitter.com/search?q=Halk%c4%b1) | N/A |
+| 8 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 9 | [#kykçözümdeğil](http://twitter.com/search?q=%23kyk%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
+| 10 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
+| 11 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
+| 12 | [#BNBTiger](http://twitter.com/search?q=%23BNBTiger) | N/A |
+| 13 | [#YatırımFinansmanHesabınıKapat](http://twitter.com/search?q=%23Yat%c4%b1r%c4%b1mFinansmanHesab%c4%b1n%c4%b1Kapat) | N/A |
+| 14 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
+| 15 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 16 | [Kadir Sütçü](http://twitter.com/search?q=Kadir+S%c3%bct%c3%a7%c3%bc) | N/A |
+| 17 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 18 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
 | 19 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 20 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
-| 21 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 22 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 23 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
-| 24 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
-| 25 | [Kamerayı](http://twitter.com/search?q=Kameray%c4%b1) | N/A |
-| 26 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
-| 27 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
-| 28 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
-| 29 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 30 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
-| 31 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 32 | [Sahipleri](http://twitter.com/search?q=Sahipleri) | N/A |
-| 33 | [Taklide](http://twitter.com/search?q=Taklide) | N/A |
+| 20 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
+| 21 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 22 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 23 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 24 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 25 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
+| 26 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 27 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
+| 28 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 29 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 30 | [Soruşturma](http://twitter.com/search?q=Soru%c5%9fturma) | N/A |
+| 31 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
+| 32 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 33 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
 | 34 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 35 | [Bakanlık](http://twitter.com/search?q=Bakanl%c4%b1k) | N/A |
-| 36 | [Uğur Kardaş](http://twitter.com/search?q=U%c4%9fur+Karda%c5%9f) | N/A |
-| 37 | [Ofiste](http://twitter.com/search?q=Ofiste) | N/A |
-| 38 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 39 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
-| 40 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 41 | [Almanya](http://twitter.com/search?q=Almanya) | N/A |
-| 42 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
-| 43 | [Adalet Bakanı Bekir Bozdağ](http://twitter.com/search?q=Adalet+Bakan%c4%b1+Bekir+Bozda%c4%9f) | N/A |
-| 44 | [Vatansız](http://twitter.com/search?q=Vatans%c4%b1z) | N/A |
-| 45 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
-| 46 | [Köpek](http://twitter.com/search?q=K%c3%b6pek) | N/A |
-| 47 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 48 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 49 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
-| 50 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 35 | [Kamerayı](http://twitter.com/search?q=Kameray%c4%b1) | N/A |
+| 36 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
+| 37 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 38 | [Alman](http://twitter.com/search?q=Alman) | N/A |
+| 39 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 40 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
+| 41 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 42 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
+| 43 | [Sahipleri](http://twitter.com/search?q=Sahipleri) | N/A |
+| 44 | [Bakanlık](http://twitter.com/search?q=Bakanl%c4%b1k) | N/A |
+| 45 | [Taklide](http://twitter.com/search?q=Taklide) | N/A |
+| 46 | [Vatansız](http://twitter.com/search?q=Vatans%c4%b1z) | N/A |
+| 47 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
+| 48 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 49 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 50 | [Ofiste](http://twitter.com/search?q=Ofiste) | N/A |
 
 
 
