@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-12 10:16:52 UTC`
+📆 Last Updated: `2023-02-12 11:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,47 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SB19atNAM2023](http://twitter.com/search?q=%23SB19atNAM2023) | N/A |
-| 2 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
-| 3 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 4 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
-| 5 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 2 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 3 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 4 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
+| 5 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
+| 6 | [BGYO ACE THE DMStage](http://twitter.com/search?q=BGYO+ACE+THE+DMStage) | N/A |
 | 7 | [Lualhati Bautista](http://twitter.com/search?q=Lualhati+Bautista) | N/A |
-| 8 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 9 | [CONGRATULATIONS TXT](http://twitter.com/search?q=CONGRATULATIONS+TXT) | N/A |
+| 8 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 9 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
 | 10 | [jaejoong](http://twitter.com/search?q=jaejoong) | N/A |
-| 11 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 12 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 13 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 14 | [Pa'no Ka Ginawa](http://twitter.com/search?q=Pa%27no+Ka+Ginawa) | N/A |
-| 15 | [MOAs](http://twitter.com/search?q=MOAs) | N/A |
-| 16 | [ANJI ARAMBULO LIVE](http://twitter.com/search?q=ANJI+ARAMBULO+LIVE) | N/A |
-| 17 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 18 | [GirlPowerKantahan WithBelle](http://twitter.com/search?q=GirlPowerKantahan+WithBelle) | N/A |
-| 19 | [TICKET SECURED](http://twitter.com/search?q=TICKET+SECURED) | N/A |
-| 20 | [KODREA FEBIBIG ON IWANTASAP](http://twitter.com/search?q=KODREA+FEBIBIG+ON+IWANTASAP) | N/A |
-| 21 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
-| 22 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
-| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 25 | [#MAMAMOOinPH](http://twitter.com/search?q=%23MAMAMOOinPH) | N/A |
-| 26 | [#DreamMakerTheDreamFinale](http://twitter.com/search?q=%23DreamMakerTheDreamFinale) | N/A |
-| 27 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 28 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
-| 29 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 11 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
+| 12 | [VINSTER DEBUT 2GETHER](http://twitter.com/search?q=VINSTER+DEBUT+2GETHER) | N/A |
+| 13 | [CONGRATULATIONS TXT](http://twitter.com/search?q=CONGRATULATIONS+TXT) | N/A |
+| 14 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 15 | [Pa'no Ka Ginawa](http://twitter.com/search?q=Pa%27no+Ka+Ginawa) | N/A |
+| 16 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 17 | [MOAs](http://twitter.com/search?q=MOAs) | N/A |
+| 18 | [ANJI ARAMBULO LIVE](http://twitter.com/search?q=ANJI+ARAMBULO+LIVE) | N/A |
+| 19 | [GirlPowerKantahan WithBelle](http://twitter.com/search?q=GirlPowerKantahan+WithBelle) | N/A |
+| 20 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 21 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
+| 22 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 23 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
+| 24 | [#SundayWithMCYeonjun](http://twitter.com/search?q=%23SundayWithMCYeonjun) | N/A |
+| 25 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 26 | [#FreenBeckGoesBacktoPH](http://twitter.com/search?q=%23FreenBeckGoesBacktoPH) | N/A |
+| 27 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 28 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
+| 29 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
 | 30 | [#SRR4thWin](http://twitter.com/search?q=%23SRR4thWin) | N/A |
-| 31 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 32 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
-| 33 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
-| 34 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
-| 35 | [#MYCONinPH](http://twitter.com/search?q=%23MYCONinPH) | N/A |
-| 36 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 37 | [#DreamscapeORVPH](http://twitter.com/search?q=%23DreamscapeORVPH) | N/A |
-| 38 | [#MANIAC_SKZ](http://twitter.com/search?q=%23MANIAC_SKZ) | N/A |
-| 39 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
-| 40 | [#AOSLovesYou](http://twitter.com/search?q=%23AOSLovesYou) | N/A |
-| 41 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
-| 42 | [#환영해아이브첫팬콘](http://twitter.com/search?q=%23%ed%99%98%ec%98%81%ed%95%b4%ec%95%84%ec%9d%b4%eb%b8%8c%ec%b2%ab%ed%8c%ac%ec%bd%98) | N/A |
-| 43 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
+| 31 | [#GlobeKmmunityPH](http://twitter.com/search?q=%23GlobeKmmunityPH) | N/A |
+| 32 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
+| 33 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
+| 34 | [#ILoveASAP](http://twitter.com/search?q=%23ILoveASAP) | N/A |
+| 35 | [#BOYCOTTTuloyTBADNLaban704](http://twitter.com/search?q=%23BOYCOTTTuloyTBADNLaban704) | N/A |
+| 36 | [#DreamscapeORVPH](http://twitter.com/search?q=%23DreamscapeORVPH) | N/A |
+| 37 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
+| 38 | [#AOSLovesYou](http://twitter.com/search?q=%23AOSLovesYou) | N/A |
+| 39 | [#MANIAC_SKZ](http://twitter.com/search?q=%23MANIAC_SKZ) | N/A |
+| 40 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 41 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
+| 42 | [#ฟรีนเบค](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
 
 
 

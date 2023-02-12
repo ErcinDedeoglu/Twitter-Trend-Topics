@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-12 10:16:21 UTC`
+📆 Last Updated: `2023-02-12 11:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ちばぎんカップ](http://twitter.com/search?q=%23%e3%81%a1%e3%81%b0%e3%81%8e%e3%82%93%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 2 | [#日向坂46四期生おもてなし会](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%8246%e5%9b%9b%e6%9c%9f%e7%94%9f%e3%81%8a%e3%82%82%e3%81%a6%e3%81%aa%e3%81%97%e4%bc%9a) | N/A |
-| 3 | [レイソル](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%bd%e3%83%ab) | N/A |
-| 4 | [#jefunited](http://twitter.com/search?q=%23jefunited) | N/A |
-| 5 | [#chibajets](http://twitter.com/search?q=%23chibajets) | N/A |
-| 6 | [#千葉ジェッツ](http://twitter.com/search?q=%23%e5%8d%83%e8%91%89%e3%82%b8%e3%82%a7%e3%83%83%e3%83%84) | N/A |
-| 7 | [フィギュア](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
-| 8 | [海浜幕張](http://twitter.com/search?q=%e6%b5%b7%e6%b5%9c%e5%b9%95%e5%bc%b5) | N/A |
-| 9 | [シーズン](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
-| 10 | [菓子作り](http://twitter.com/search?q=%e8%8f%93%e5%ad%90%e4%bd%9c%e3%82%8a) | N/A |
-| 11 | [ねんどろいど](http://twitter.com/search?q=%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9) | N/A |
-| 12 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
-| 13 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
-| 14 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
-| 15 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
-| 16 | [京都記念](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e8%a8%98%e5%bf%b5) | 京都記念 is a Japanese holiday that commemorates the establishment of Kyoto as the capital of Japan in 794. It is celebrated on October 22nd each year. In English, it is known as Kyoto Memorial Day. |
-| 17 | [インガ1位](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%ac1%e4%bd%8d) | N/A |
-| 18 | [ムラッシュ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 19 | [退職金税](http://twitter.com/search?q=%e9%80%80%e8%81%b7%e9%87%91%e7%a8%8e) | N/A |
-| 20 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 21 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
-| 22 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
-| 23 | [共同通信杯](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1%e6%9d%af) | N/A |
-| 24 | [うまかっちゃん](http://twitter.com/search?q=%e3%81%86%e3%81%be%e3%81%8b%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 26 | [いちご100](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94100) | N/A |
-| 27 | [競走中止](http://twitter.com/search?q=%e7%ab%b6%e8%b5%b0%e4%b8%ad%e6%ad%a2) | N/A |
-| 28 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
-| 29 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 30 | [タッチウッド](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a6%e3%83%83%e3%83%89) | N/A |
-| 31 | [予後不良](http://twitter.com/search?q=%e4%ba%88%e5%be%8c%e4%b8%8d%e8%89%af) | N/A |
-| 32 | [TL更新](http://twitter.com/search?q=TL%e6%9b%b4%e6%96%b0) | N/A |
-| 33 | [在留資格](http://twitter.com/search?q=%e5%9c%a8%e7%95%99%e8%b3%87%e6%a0%bc) | N/A |
-| 34 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
-| 35 | [ダービー馬](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc%e9%a6%ac) | N/A |
-| 36 | [速水さん](http://twitter.com/search?q=%e9%80%9f%e6%b0%b4%e3%81%95%e3%82%93) | 速水さん is a nickname for the Japanese actor, Hayato Ichihara. It is derived from his given name, Hayato, which can be translated to mean "fast water". |
-| 37 | [フレスマ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%82%b9%e3%83%9e) | N/A |
-| 38 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
-| 39 | [西野つかさ](http://twitter.com/search?q=%e8%a5%bf%e9%87%8e%e3%81%a4%e3%81%8b%e3%81%95) | N/A |
-| 40 | [サイコザク](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b3%e3%82%b6%e3%82%af) | N/A |
-| 41 | [ノリスケ](http://twitter.com/search?q=%e3%83%8e%e3%83%aa%e3%82%b9%e3%82%b1) | N/A |
-| 42 | [恋のハンバーグ](http://twitter.com/search?q=%e6%81%8b%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b0) | N/A |
-| 43 | [練習試合](http://twitter.com/search?q=%e7%b7%b4%e7%bf%92%e8%a9%a6%e5%90%88) | N/A |
-| 44 | [キラメキラリ](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%a1%e3%82%ad%e3%83%a9%e3%83%aa) | N/A |
-| 45 | [プラダリア](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%80%e3%83%aa%e3%82%a2) | プラダリア is a Japanese manga series written and illustrated by Natsumi Itsuki. It follows the story of a young girl named Prada who discovers she has magical powers and embarks on a journey to save her kingdom from an evil witch. The title translates to "Prada's Adventure" in English. |
-| 46 | [ガルボマンボ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%9c%e3%83%9e%e3%83%b3%e3%83%9c) | N/A |
-| 47 | [マッパン](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%91%e3%83%b3) | N/A |
-| 48 | [太陽キッス](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%82%ad%e3%83%83%e3%82%b9) | N/A |
-| 49 | [アイロニ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%ad%e3%83%8b) | アイロニ is a Japanese word that means "irony". It is used to describe a situation or event that has an unexpected outcome or result. |
+| 1 | [タッチウッド](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a6%e3%83%83%e3%83%89) | N/A |
+| 2 | [レイソル](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%bd%e3%83%ab) | N/A |
+| 3 | [#jefunited](http://twitter.com/search?q=%23jefunited) | N/A |
+| 4 | [#ちばぎんカップ](http://twitter.com/search?q=%23%e3%81%a1%e3%81%b0%e3%81%8e%e3%82%93%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 5 | [#wf2023w](http://twitter.com/search?q=%23wf2023w) | N/A |
+| 6 | [マテンロウレオ](http://twitter.com/search?q=%e3%83%9e%e3%83%86%e3%83%b3%e3%83%ad%e3%82%a6%e3%83%ac%e3%82%aa) | マテンロウレオ is a type of Japanese sweet potato. It is a variety of sweet potato with a deep purple skin and yellow flesh. In English, it is known as the "Purple Sweet Potato". |
+| 7 | [#千葉ジェッツ](http://twitter.com/search?q=%23%e5%8d%83%e8%91%89%e3%82%b8%e3%82%a7%e3%83%83%e3%83%84) | N/A |
+| 8 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 9 | [フィギュア](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
+| 10 | [プラダリア](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%80%e3%83%aa%e3%82%a2) | プラダリア is a Japanese manga series written and illustrated by Natsumi Itsuki. It follows the story of a young girl named Prada who discovers she has magical powers and embarks on a journey to save her kingdom from an evil witch. The title translates to "Prada's Adventure" in English. |
+| 11 | [シーズン](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3) | N/A |
+| 12 | [海浜幕張](http://twitter.com/search?q=%e6%b5%b7%e6%b5%9c%e5%b9%95%e5%bc%b5) | N/A |
+| 13 | [菓子作り](http://twitter.com/search?q=%e8%8f%93%e5%ad%90%e4%bd%9c%e3%82%8a) | N/A |
+| 14 | [練習試合](http://twitter.com/search?q=%e7%b7%b4%e7%bf%92%e8%a9%a6%e5%90%88) | N/A |
+| 15 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
+| 16 | [アブラボウズ](http://twitter.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%9c%e3%82%a6%e3%82%ba) | N/A |
+| 17 | [サンダーボルト](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%83%9c%e3%83%ab%e3%83%88) | サンダーボルト (Thunderbolt) is a Japanese manga series written and illustrated by Mitsuteru Yokoyama. It follows the adventures of a young boy named Tsubasa Oozora, who is granted superhuman powers by a mysterious alien race known as the "Lightning Gods". The series follows Tsubasa as he uses his newfound powers to protect Earth from various threats. In English, the title translates to "Thunderbolt". |
+| 18 | [エフフォーリア](http://twitter.com/search?q=%e3%82%a8%e3%83%95%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%a2) | エフフォーリア (efuforia) is a Japanese word that means "euphoria" in English. It is used to describe a feeling of intense happiness or joy. |
+| 19 | [バラムツ](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%a0%e3%83%84) | N/A |
+| 20 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 21 | [心房細動](http://twitter.com/search?q=%e5%bf%83%e6%88%bf%e7%b4%b0%e5%8b%95) | N/A |
+| 22 | [三田さん](http://twitter.com/search?q=%e4%b8%89%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 23 | [オクトー](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%bc) | N/A |
+| 24 | [時雨改三](http://twitter.com/search?q=%e6%99%82%e9%9b%a8%e6%94%b9%e4%b8%89) | 時雨改三 is a Japanese phrase that literally translates to "changing the rain to three". It is used to describe a situation in which someone takes a difficult situation and turns it into something positive. In other words, it is used to express the idea of making something good out of a bad situation. |
+| 25 | [異修羅アニメ化](http://twitter.com/search?q=%e7%95%b0%e4%bf%ae%e7%be%85%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
+| 26 | [ダーウィン](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%b3) | N/A |
+| 27 | [サンボル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%ab) | サンボル (sanboru) is a Japanese word that means "sandbar". It is used to refer to a sandbar or shallow area in a river or lake. |
+| 28 | [松本まり](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e3%81%be%e3%82%8a) | 松本まり is a Japanese female given name. It is composed of two kanji characters: 松 (matsu) meaning "pine tree" and 本 (moto) meaning "origin, source, main". The name can be translated to mean "original pine tree" or "source of the pine tree". |
+| 29 | [退職金税](http://twitter.com/search?q=%e9%80%80%e8%81%b7%e9%87%91%e7%a8%8e) | N/A |
+| 30 | [ムラッシュ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 31 | [インガ1位](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%ac1%e4%bd%8d) | N/A |
+| 32 | [福岡公演](http://twitter.com/search?q=%e7%a6%8f%e5%b2%a1%e5%85%ac%e6%bc%94) | N/A |
+| 33 | [オカダさん](http://twitter.com/search?q=%e3%82%aa%e3%82%ab%e3%83%80%e3%81%95%e3%82%93) | N/A |
+| 34 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
+| 35 | [うまかっちゃん](http://twitter.com/search?q=%e3%81%86%e3%81%be%e3%81%8b%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [佐世保の時雨](http://twitter.com/search?q=%e4%bd%90%e4%b8%96%e4%bf%9d%e3%81%ae%e6%99%82%e9%9b%a8) | N/A |
+| 37 | [スーパーヒーロー](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 38 | [TL更新](http://twitter.com/search?q=TL%e6%9b%b4%e6%96%b0) | N/A |
+| 39 | [速水さん](http://twitter.com/search?q=%e9%80%9f%e6%b0%b4%e3%81%95%e3%82%93) | 速水さん is a nickname for the Japanese actor, Hayato Ichihara. It is derived from his given name, Hayato, which can be translated to mean "fast water". |
+| 40 | [次元断層](http://twitter.com/search?q=%e6%ac%a1%e5%85%83%e6%96%ad%e5%b1%a4) | N/A |
+| 41 | [グラブルコラボ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 42 | [京都記念](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e8%a8%98%e5%bf%b5) | 京都記念 is a Japanese holiday that commemorates the establishment of Kyoto as the capital of Japan in 794. It is celebrated on October 22nd each year. In English, it is known as Kyoto Memorial Day. |
+| 43 | [シンフォギアライブ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%82%ae%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 44 | [サバしゃぶ](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e3%81%97%e3%82%83%e3%81%b6) | N/A |
+| 45 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
+| 46 | [大鼠の娘](http://twitter.com/search?q=%e5%a4%a7%e9%bc%a0%e3%81%ae%e5%a8%98) | N/A |
+| 47 | [衝撃事実](http://twitter.com/search?q=%e8%a1%9d%e6%92%83%e4%ba%8b%e5%ae%9f) | N/A |
+| 48 | [鯖しゃぶ](http://twitter.com/search?q=%e9%af%96%e3%81%97%e3%82%83%e3%81%b6) | N/A |
+| 49 | [ワンフェス](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-12 10:16:45 UTC`
+📆 Last Updated: `2023-02-12 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 5 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
-| 6 | [Volk](http://twitter.com/search?q=Volk) | N/A |
-| 7 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 5 | [Volk](http://twitter.com/search?q=Volk) | N/A |
+| 6 | [#UFC284](http://twitter.com/search?q=%23UFC284) | N/A |
+| 7 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 8 | [Yair](http://twitter.com/search?q=Yair) | N/A |
 | 9 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 10 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 11 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 12 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 10 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
+| 11 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 12 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
 | 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 14 | [INKIGAYO](http://twitter.com/search?q=INKIGAYO) | N/A |
-| 15 | [#TXT18thWin](http://twitter.com/search?q=%23TXT18thWin) | N/A |
-| 16 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 17 | [#Wordle603](http://twitter.com/search?q=%23Wordle603) | N/A |
+| 15 | [#SugarRushRide4thWin](http://twitter.com/search?q=%23SugarRushRide4thWin) | N/A |
+| 16 | [#Aqoursとバレンタイン_Day2](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3_Day2) | N/A |
+| 17 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
 | 18 | [#ufotwitter](http://twitter.com/search?q=%23ufotwitter) | N/A |
-| 19 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
-| 20 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 21 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 22 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 23 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 24 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
-| 25 | [Super Bowl Sunday](http://twitter.com/search?q=Super+Bowl+Sunday) | N/A |
-| 26 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 27 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 28 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 29 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 19 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 20 | [Daily Quordle 384](http://twitter.com/search?q=Daily+Quordle+384) | N/A |
+| 21 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 22 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 23 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 24 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 25 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 26 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 27 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 28 | [Dagestan](http://twitter.com/search?q=Dagestan) | N/A |
+| 29 | [Regret](http://twitter.com/search?q=Regret) | N/A |
 | 30 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 31 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 32 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
-| 33 | [Emmett](http://twitter.com/search?q=Emmett) | N/A |
-| 34 | [Unanimous](http://twitter.com/search?q=Unanimous) | N/A |
-| 35 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 36 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 31 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 32 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 33 | [Red Mage](http://twitter.com/search?q=Red+Mage) | N/A |
+| 34 | [Dustin Brown](http://twitter.com/search?q=Dustin+Brown) | N/A |
+| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 36 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 38 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 39 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
-| 40 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 42 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
-| 43 | [Tyrus](http://twitter.com/search?q=Tyrus) | N/A |
-| 44 | [Holloway](http://twitter.com/search?q=Holloway) | N/A |
-| 45 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
-| 46 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 47 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 48 | [Red Mage](http://twitter.com/search?q=Red+Mage) | N/A |
-| 49 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 50 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 38 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 39 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 40 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 41 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
+| 42 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 43 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 44 | [Project Blue Beam](http://twitter.com/search?q=Project+Blue+Beam) | N/A |
+| 45 | [Distraction](http://twitter.com/search?q=Distraction) | N/A |
+| 46 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 47 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 48 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 49 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 50 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
 
 
 
