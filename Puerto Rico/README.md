@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puerto Rico
 
-📆 Last Updated: `2023-02-12 20:17:05 UTC`
+📆 Last Updated: `2023-02-12 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Puerto Rico
 | 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 4 | [#CampingWorldBowl](http://twitter.com/search?q=%23CampingWorldBowl) | N/A |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [#PuppyBowl](http://twitter.com/search?q=%23PuppyBowl) | N/A |
-| 7 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
-| 8 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
-| 9 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
-| 10 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 11 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 12 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 13 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 14 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 15 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 16 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 17 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 18 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 19 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
-| 20 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 21 | [Fletcher Cox](http://twitter.com/search?q=Fletcher+Cox) | N/A |
-| 22 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 23 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 24 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 25 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 26 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 27 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 28 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 29 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 30 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
-| 31 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 32 | [Loaded Baked Potato](http://twitter.com/search?q=Loaded+Baked+Potato) | N/A |
-| 33 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
-| 34 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 35 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 36 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
-| 37 | [Randall Cunningham](http://twitter.com/search?q=Randall+Cunningham) | N/A |
-| 38 | [Super Sunday](http://twitter.com/search?q=Super+Sunday) | N/A |
-| 39 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 40 | [Big Game](http://twitter.com/search?q=Big+Game) | N/A |
-| 41 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 42 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
-| 45 | [Patrick Mahomes](http://twitter.com/search?q=Patrick+Mahomes) | N/A |
-| 46 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
-| 47 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 48 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 49 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
-| 50 | [America the Beautiful](http://twitter.com/search?q=America+the+Beautiful) | N/A |
+| 5 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 6 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 7 | [Lake Huron](http://twitter.com/search?q=Lake+Huron) | N/A |
+| 8 | [#PuppyBowl](http://twitter.com/search?q=%23PuppyBowl) | N/A |
+| 9 | [Rubi](http://twitter.com/search?q=Rubi) | N/A |
+| 10 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 11 | [#SBSweepstakes](http://twitter.com/search?q=%23SBSweepstakes) | N/A |
+| 12 | [Lake Michigan](http://twitter.com/search?q=Lake+Michigan) | N/A |
+| 13 | [#EasyToEnjoy](http://twitter.com/search?q=%23EasyToEnjoy) | #EasyToEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 14 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 15 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 16 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 17 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 18 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 19 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
+| 20 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 21 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 22 | [UFOs](http://twitter.com/search?q=UFOs) | N/A |
+| 23 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 24 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 25 | [Fletcher Cox](http://twitter.com/search?q=Fletcher+Cox) | N/A |
+| 26 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 27 | [Canadia](http://twitter.com/search?q=Canadia) | N/A |
+| 28 | [Derek Jeter](http://twitter.com/search?q=Derek+Jeter) | N/A |
+| 29 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 30 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 31 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 32 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 33 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 34 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 35 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 36 | [Nick Taylor](http://twitter.com/search?q=Nick+Taylor) | N/A |
+| 37 | [Super Show](http://twitter.com/search?q=Super+Show) | N/A |
+| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 39 | [Lift Every Voice and Sing](http://twitter.com/search?q=Lift+Every+Voice+and+Sing) | N/A |
+| 40 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 41 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 42 | [Tom Rinaldi](http://twitter.com/search?q=Tom+Rinaldi) | N/A |
+| 43 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
+| 44 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 45 | [Chase Audige](http://twitter.com/search?q=Chase+Audige) | N/A |
+| 46 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 47 | [A-Rod](http://twitter.com/search?q=A-Rod) | N/A |
+| 48 | [Great Lakes](http://twitter.com/search?q=Great+Lakes) | N/A |
+| 49 | [Team Ruff](http://twitter.com/search?q=Team+Ruff) | N/A |
+| 50 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
 
 
 

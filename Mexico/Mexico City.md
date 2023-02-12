@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-12 20:16:13 UTC`
+📆 Last Updated: `2023-02-12 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Díaz Canel](http://twitter.com/search?q=D%c3%adaz+Canel) | N/A |
+| 1 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 2 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 3 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 4 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 3 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 4 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
 | 5 | [Proteo](http://twitter.com/search?q=Proteo) | N/A |
-| 6 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 7 | [#SoyCristianRey](http://twitter.com/search?q=%23SoyCristianRey) | N/A |
-| 8 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 9 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 10 | [#OlaValiente](http://twitter.com/search?q=%23OlaValiente) | N/A |
-| 11 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 12 | [Saucedo](http://twitter.com/search?q=Saucedo) | N/A |
+| 6 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 7 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 8 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 9 | [#OlaValiente](http://twitter.com/search?q=%23OlaValiente) | N/A |
+| 10 | [#SoyCristianRey](http://twitter.com/search?q=%23SoyCristianRey) | N/A |
+| 11 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 12 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
-| 15 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 17 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
-| 18 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
-| 19 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 20 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 21 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 22 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 23 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 14 | [#HalftimeShow](http://twitter.com/search?q=%23HalftimeShow) | N/A |
+| 15 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 16 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 17 | [Saucedo](http://twitter.com/search?q=Saucedo) | N/A |
+| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 20 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 21 | [#AleDelMoral](http://twitter.com/search?q=%23AleDelMoral) | N/A |
+| 22 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 23 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 24 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 25 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 26 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 27 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 28 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 29 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 30 | [VOLCANO BY HAN](http://twitter.com/search?q=VOLCANO+BY+HAN) | N/A |
-| 31 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 32 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 33 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 34 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 35 | [Nemesio Diez](http://twitter.com/search?q=Nemesio+Diez) | N/A |
-| 36 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 37 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 38 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
-| 39 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 40 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 41 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
-| 42 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 43 | [Jefes](http://twitter.com/search?q=Jefes) | N/A |
-| 44 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 45 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
-| 46 | [Héroe](http://twitter.com/search?q=H%c3%a9roe) | N/A |
-| 47 | [Jaime Maussan](http://twitter.com/search?q=Jaime+Maussan) | N/A |
-| 48 | [Petrus](http://twitter.com/search?q=Petrus) | N/A |
-| 49 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 50 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 25 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 26 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 27 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 28 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 29 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 30 | [Tom Holland](http://twitter.com/search?q=Tom+Holland) | N/A |
+| 31 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 32 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 33 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 34 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 35 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 36 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 37 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 38 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
+| 39 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 40 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 41 | [Leo Fernández](http://twitter.com/search?q=Leo+Fern%c3%a1ndez) | N/A |
+| 42 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 43 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 44 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 45 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 46 | [State Farm Stadium](http://twitter.com/search?q=State+Farm+Stadium) | N/A |
+| 47 | [Nemesio Diez](http://twitter.com/search?q=Nemesio+Diez) | N/A |
+| 48 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 49 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 50 | [OUR SPRING DAY IS YET TO COME](http://twitter.com/search?q=OUR+SPRING+DAY+IS+YET+TO+COME) | N/A |
 
 
 

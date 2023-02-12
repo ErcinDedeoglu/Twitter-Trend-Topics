@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-12 20:16:26 UTC`
+📆 Last Updated: `2023-02-12 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
-| 2 | [#KingsLeagueJ6](http://twitter.com/search?q=%23KingsLeagueJ6) | N/A |
-| 3 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
-| 4 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
-| 5 | [#LaRoca56](http://twitter.com/search?q=%23LaRoca56) | N/A |
-| 6 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
-| 7 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 8 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 9 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 10 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
-| 11 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 12 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
-| 13 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
-| 14 | [Ipurua](http://twitter.com/search?q=Ipurua) | N/A |
-| 15 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 16 | [Huesca](http://twitter.com/search?q=Huesca) | N/A |
-| 17 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 18 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 19 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
-| 20 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 21 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 22 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 23 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 24 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 25 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
-| 26 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
-| 27 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 28 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
-| 29 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 30 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 31 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 32 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
-| 33 | [Jaén](http://twitter.com/search?q=Ja%c3%a9n) | N/A |
-| 34 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 35 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
-| 36 | [José Zorrilla](http://twitter.com/search?q=Jos%c3%a9+Zorrilla) | N/A |
-| 37 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
-| 38 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 39 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 40 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 41 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
-| 42 | [Manolo Reina](http://twitter.com/search?q=Manolo+Reina) | N/A |
-| 43 | [Mingueza](http://twitter.com/search?q=Mingueza) | N/A |
-| 44 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 45 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 46 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 47 | [Albacete](http://twitter.com/search?q=Albacete) | N/A |
-| 48 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 1 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 2 | [#LoDeEstopa](http://twitter.com/search?q=%23LoDeEstopa) | N/A |
+| 3 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 4 | [Coquelin](http://twitter.com/search?q=Coquelin) | N/A |
+| 5 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 6 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 7 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 8 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 9 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 10 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 11 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 12 | [Sito Alonso](http://twitter.com/search?q=Sito+Alonso) | N/A |
+| 13 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 14 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 15 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 16 | [Pepe Reina](http://twitter.com/search?q=Pepe+Reina) | Pepe Reina is a Spanish professional footballer who plays as a goalkeeper for Italian club AC Milan. His name translates to "King Pepe" in English. |
+| 17 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
+| 18 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
+| 19 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
+| 20 | [Capoue](http://twitter.com/search?q=Capoue) | Capoue is a French word meaning "headdress" or "cap". It is used to refer to a type of traditional French headdress worn by women, usually made of velvet or silk and decorated with feathers, ribbons, and other adornments. |
+| 21 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
+| 22 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 23 | [Savic](http://twitter.com/search?q=Savic) | Savic is a Serbian surname derived from the Slavic word for "son of the sabre." It is also found in other Slavic countries, such as Croatia and Slovenia. In English, it can be translated to mean "son of the sword." |
+| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 26 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
+| 27 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 28 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 29 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 30 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 31 | [Vamos Barça](http://twitter.com/search?q=Vamos+Bar%c3%a7a) | N/A |
+| 32 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
+| 33 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
+| 34 | [Murcia](http://twitter.com/search?q=Murcia) | N/A |
+| 35 | [Setien](http://twitter.com/search?q=Setien) | Setien is a Spanish surname derived from the Latin word "Sextius", meaning "sixth". It is most commonly found in the Basque region of Spain. |
+| 36 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
+| 37 | [Ipurua](http://twitter.com/search?q=Ipurua) | N/A |
+| 38 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 39 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
+| 40 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 41 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 42 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
+| 43 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 44 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 45 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 46 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 47 | [Copa de España](http://twitter.com/search?q=Copa+de+Espa%c3%b1a) | N/A |
+| 48 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
 
 
 

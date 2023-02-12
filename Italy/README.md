@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-12 20:17:02 UTC`
+📆 Last Updated: `2023-02-12 21:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JuveFiorentina](http://twitter.com/search?q=%23JuveFiorentina) | N/A |
-| 2 | [#dietrofestival](http://twitter.com/search?q=%23dietrofestival) | N/A |
+| 1 | [#dietrofestival](http://twitter.com/search?q=%23dietrofestival) | N/A |
+| 2 | [#JuveFiorentina](http://twitter.com/search?q=%23JuveFiorentina) | N/A |
 | 3 | [#NapoliCremonese](http://twitter.com/search?q=%23NapoliCremonese) | #NapoliCremonese is a hashtag used to refer to the Italian football match between Napoli and Cremonese, which took place on April 28, 2019. The match ended in a 1-1 draw. |
-| 4 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 5 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 6 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 7 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 8 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 9 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
-| 10 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 11 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 12 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 13 | [Castrovilli](http://twitter.com/search?q=Castrovilli) | N/A |
-| 14 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 15 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 16 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 17 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 18 | [Fuorigioco](http://twitter.com/search?q=Fuorigioco) | N/A |
-| 19 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 20 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 21 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 22 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
-| 23 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 24 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
-| 25 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 26 | [Arcore](http://twitter.com/search?q=Arcore) | N/A |
-| 27 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
-| 28 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 29 | [Illy](http://twitter.com/search?q=Illy) | N/A |
-| 30 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 31 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
-| 32 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 33 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 34 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
-| 35 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 36 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 37 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 38 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 39 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 40 | [#Allegri](http://twitter.com/search?q=%23Allegri) | N/A |
-| 41 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 42 | [#Rabiot](http://twitter.com/search?q=%23Rabiot) | N/A |
-| 43 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 44 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 45 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 4 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 5 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 6 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
+| 7 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 8 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
+| 9 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 10 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
+| 11 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 12 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 13 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 14 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 15 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 16 | [Berlusca](http://twitter.com/search?q=Berlusca) | N/A |
+| 17 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 18 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 19 | [Castrovilli](http://twitter.com/search?q=Castrovilli) | N/A |
+| 20 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 21 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 22 | [Fuorigioco](http://twitter.com/search?q=Fuorigioco) | N/A |
+| 23 | [Esteri](http://twitter.com/search?q=Esteri) | N/A |
+| 24 | [Peugeot 205](http://twitter.com/search?q=Peugeot+205) | N/A |
+| 25 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 26 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 27 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 28 | [Arcore](http://twitter.com/search?q=Arcore) | N/A |
+| 29 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 30 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
+| 31 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 32 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 33 | [Palazzo Chigi](http://twitter.com/search?q=Palazzo+Chigi) | N/A |
+| 34 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 35 | [Illy](http://twitter.com/search?q=Illy) | N/A |
+| 36 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 37 | [Fedez e Rosa Chemical](http://twitter.com/search?q=Fedez+e+Rosa+Chemical) | N/A |
+| 38 | [Bignami](http://twitter.com/search?q=Bignami) | N/A |
+| 39 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 41 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 42 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 43 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 44 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
+| 45 | [#UltimamenteHo](http://twitter.com/search?q=%23UltimamenteHo) | N/A |
 | 46 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 47 | [#Commisso](http://twitter.com/search?q=%23Commisso) | N/A |
-| 48 | [#PutinWarCriminal](http://twitter.com/search?q=%23PutinWarCriminal) | N/A |
-| 49 | [#ForzaJuve](http://twitter.com/search?q=%23ForzaJuve) | N/A |
-| 50 | [#SuperBowl](http://twitter.com/search?q=%23SuperBowl) | N/A |
+| 47 | [#Allegri](http://twitter.com/search?q=%23Allegri) | N/A |
+| 48 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
+| 49 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 50 | [#Kvaratskhelia](http://twitter.com/search?q=%23Kvaratskhelia) | N/A |
 
 
 

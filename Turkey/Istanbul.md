@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-12 20:16:49 UTC`
+📆 Last Updated: `2023-02-12 21:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 2 | [Rabbım](http://twitter.com/search?q=Rabb%c4%b1m) | N/A |
-| 3 | [Yağmacı](http://twitter.com/search?q=Ya%c4%9fmac%c4%b1) | N/A |
-| 4 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
-| 5 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 2 | [İnanılmaz](http://twitter.com/search?q=%c4%b0nan%c4%b1lmaz) | N/A |
+| 3 | [Rabbım](http://twitter.com/search?q=Rabb%c4%b1m) | N/A |
+| 4 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 5 | [Bağcılar](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar) | N/A |
 | 6 | [Suriye'deki](http://twitter.com/search?q=Suriye%27deki) | N/A |
-| 7 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
-| 8 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
-| 9 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
-| 10 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
-| 11 | [#kykçözümdeğil](http://twitter.com/search?q=%23kyk%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
-| 12 | [#YatırımFinansmanHesabınıKapat](http://twitter.com/search?q=%23Yat%c4%b1r%c4%b1mFinansmanHesab%c4%b1n%c4%b1Kapat) | N/A |
-| 13 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
-| 14 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
-| 15 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 16 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
+| 7 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
+| 8 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
+| 9 | [#Proteo](http://twitter.com/search?q=%23Proteo) | N/A |
+| 10 | [#YatırımFinansmanHesabınıKapat](http://twitter.com/search?q=%23Yat%c4%b1r%c4%b1mFinansmanHesab%c4%b1n%c4%b1Kapat) | N/A |
+| 11 | [#Babala](http://twitter.com/search?q=%23Babala) | N/A |
+| 12 | [Canımız Türkiye](http://twitter.com/search?q=Can%c4%b1m%c4%b1z+T%c3%bcrkiye) | N/A |
+| 13 | [#KonutSeferberliği](http://twitter.com/search?q=%23KonutSeferberli%c4%9fi) | N/A |
+| 14 | [#kykçözümdeğil](http://twitter.com/search?q=%23kyk%c3%a7%c3%b6z%c3%bcmde%c4%9fil) | N/A |
+| 15 | [İlkay](http://twitter.com/search?q=%c4%b0lkay) | N/A |
+| 16 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
 | 17 | [Şükriye](http://twitter.com/search?q=%c5%9e%c3%bckriye) | N/A |
-| 18 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
-| 19 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 18 | [Şeyma Hemşire](http://twitter.com/search?q=%c5%9eeyma+Hem%c5%9fire) | N/A |
+| 19 | [Baykar](http://twitter.com/search?q=Baykar) | N/A |
 | 20 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 21 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
-| 22 | [Şeyma](http://twitter.com/search?q=%c5%9eeyma) | N/A |
-| 23 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 21 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
+| 22 | [Belçika](http://twitter.com/search?q=Bel%c3%a7ika) | N/A |
+| 23 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
 | 24 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 25 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
-| 26 | [Alman](http://twitter.com/search?q=Alman) | N/A |
-| 27 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
-| 28 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 29 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 30 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
-| 31 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
-| 32 | [Murat Yetkin](http://twitter.com/search?q=Murat+Yetkin) | N/A |
-| 33 | [Soruşturma](http://twitter.com/search?q=Soru%c5%9fturma) | N/A |
-| 34 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
-| 35 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 36 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
-| 37 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
-| 38 | [Meksika](http://twitter.com/search?q=Meksika) | N/A |
-| 39 | [Devlet Bahçeli](http://twitter.com/search?q=Devlet+Bah%c3%a7eli) | Devlet Bahçeli is a Turkish politician who has been the leader of the Nationalist Movement Party (MHP) since 1997. His name translates to "State Garden" in English. |
-| 40 | [Kamerayı](http://twitter.com/search?q=Kameray%c4%b1) | N/A |
-| 41 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 42 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 43 | [Hep Birlikte Türkiye](http://twitter.com/search?q=Hep+Birlikte+T%c3%bcrkiye) | N/A |
-| 44 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
-| 45 | [Sahipleri](http://twitter.com/search?q=Sahipleri) | N/A |
-| 46 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
-| 47 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 48 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 49 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
-| 50 | [Ofiste](http://twitter.com/search?q=Ofiste) | N/A |
+| 25 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 26 | [Tasmalı](http://twitter.com/search?q=Tasmal%c4%b1) | N/A |
+| 27 | [Ülkemizİçin HepBirlikte](http://twitter.com/search?q=%c3%9clkemiz%c4%b0%c3%a7in+HepBirlikte) | N/A |
+| 28 | [Murat Yetkin](http://twitter.com/search?q=Murat+Yetkin) | N/A |
+| 29 | [Taklit](http://twitter.com/search?q=Taklit) | N/A |
+| 30 | [Alman](http://twitter.com/search?q=Alman) | N/A |
+| 31 | [Depremin 7](http://twitter.com/search?q=Depremin+7) | N/A |
+| 32 | [Sahipsiz](http://twitter.com/search?q=Sahipsiz) | N/A |
+| 33 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 34 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 35 | [DEVLETİMİN YANINDAYIM](http://twitter.com/search?q=DEVLET%c4%b0M%c4%b0N+YANINDAYIM) | N/A |
+| 36 | [Meksika](http://twitter.com/search?q=Meksika) | N/A |
+| 37 | [Turkcell](http://twitter.com/search?q=Turkcell) | N/A |
+| 38 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 39 | [Soruşturma](http://twitter.com/search?q=Soru%c5%9fturma) | N/A |
+| 40 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 41 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
+| 42 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 43 | [Kamerayı](http://twitter.com/search?q=Kameray%c4%b1) | N/A |
+| 44 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 45 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 46 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 47 | [Kahraman](http://twitter.com/search?q=Kahraman) | N/A |
+| 48 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 49 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
+| 50 | [Hatay Havalimanı](http://twitter.com/search?q=Hatay+Havaliman%c4%b1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-12 20:16:20 UTC`
+📆 Last Updated: `2023-02-12 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
-| 2 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 3 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 4 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 5 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 7 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 8 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 9 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 10 | [Arthur Elias](http://twitter.com/search?q=Arthur+Elias) | N/A |
-| 11 | [Kabum](http://twitter.com/search?q=Kabum) | N/A |
-| 12 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
-| 13 | [alessandra](http://twitter.com/search?q=alessandra) | N/A |
-| 14 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 15 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
-| 16 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
-| 17 | [Gabi Portilho](http://twitter.com/search?q=Gabi+Portilho) | N/A |
-| 18 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 19 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 20 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 21 | [O Abel](http://twitter.com/search?q=O+Abel) | N/A |
-| 22 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
-| 23 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 24 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
-| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 27 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 28 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 30 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 31 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 32 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
-| 35 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 36 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
-| 37 | [Carlos Miguel](http://twitter.com/search?q=Carlos+Miguel) | N/A |
-| 38 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 39 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 40 | [#JoshAndTate](http://twitter.com/search?q=%23JoshAndTate) | N/A |
-| 41 | [Matuê](http://twitter.com/search?q=Matu%c3%aa) | N/A |
-| 42 | [FECHADOS COM FRED NICÁCIO](http://twitter.com/search?q=FECHADOS+COM+FRED+NIC%c3%81CIO) | N/A |
-| 43 | [Fernando Fernandes](http://twitter.com/search?q=Fernando+Fernandes) | N/A |
-| 44 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 45 | [Megan Fox](http://twitter.com/search?q=Megan+Fox) | N/A |
-| 46 | [ingrid ohara](http://twitter.com/search?q=ingrid+ohara) | N/A |
-| 47 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 48 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 49 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
-| 50 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 1 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 2 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 3 | [Mané Garrincha](http://twitter.com/search?q=Man%c3%a9+Garrincha) | N/A |
+| 4 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 5 | [Coelho](http://twitter.com/search?q=Coelho) | N/A |
+| 6 | [VAMOS SÃO PAULO](http://twitter.com/search?q=VAMOS+S%c3%83O+PAULO) | N/A |
+| 7 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 8 | [São Paulo x Santos](http://twitter.com/search?q=S%c3%a3o+Paulo+x+Santos) | N/A |
+| 9 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 10 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 11 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 13 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 14 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 15 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 16 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 17 | [RedeTV](http://twitter.com/search?q=RedeTV) | N/A |
+| 18 | [#GoFluxo](http://twitter.com/search?q=%23GoFluxo) | N/A |
+| 19 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 20 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 21 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 22 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 23 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 25 | [UM MILHÃO AMEIRELLES](http://twitter.com/search?q=UM+MILH%c3%83O+AMEIRELLES) | N/A |
+| 26 | [alessandra](http://twitter.com/search?q=alessandra) | N/A |
+| 27 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 28 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 29 | [Brabas](http://twitter.com/search?q=Brabas) | N/A |
+| 30 | [Baixo Augusta](http://twitter.com/search?q=Baixo+Augusta) | N/A |
+| 31 | [Key e Gustavo](http://twitter.com/search?q=Key+e+Gustavo) | Key e Gustavo is a Brazilian expression that translates to "Come on, Gustavo!" It is used as an encouragement or to show support for someone. |
+| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 33 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 34 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 35 | [Cobra](http://twitter.com/search?q=Cobra) | N/A |
+| 36 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 37 | [#RespeitaAsMinas](http://twitter.com/search?q=%23RespeitaAsMinas) | N/A |
+| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 39 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 40 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 41 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 42 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 43 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 44 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 45 | [Fernando Fernandes](http://twitter.com/search?q=Fernando+Fernandes) | N/A |
+| 46 | [OVNIS](http://twitter.com/search?q=OVNIS) | N/A |
+| 47 | [Avenida](http://twitter.com/search?q=Avenida) | Avenida is a Spanish word meaning "avenue" or "street". It is commonly used in Latin American countries to refer to a wide, main street or boulevard. |
+| 48 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 49 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 50 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
 
 
 
